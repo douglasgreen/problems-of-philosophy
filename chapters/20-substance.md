@@ -771,18 +771,19 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 19</b> (advanced / cross-cutting)</summary>
->
-> **1. The *wavefunction* and the *substance* ontology.** If the *wavefunction* is *ontic*, the *fundamental* *entity* is not a *particle* or a *field* in the *classical* sense; it is a *state* in a *high-dimensional* *configuration* *space*. The *view* *challenges* the *substance* *ontology* of §2, and it *supports* *ontic* *structuralism*. The *debate* is *connected* to the *interpretation* of *quantum* *mechanics* (§5) and to the *theory* of *properties* (Ch. 15, §5).
->
-> **2. The *measurement* *problem* and *consciousness*.** Some *interpretations* (Wigner; the *consciousness-causes-collapse* *view*) *invoke* *consciousness* to *solve* the *measurement* *problem*. The *view* is *contested* (it *makes* *consciousness* *fundamental* and *causally* *efficacious*), and it is *connected* to *panpsychism* (§7) and to the *hard* *problem* (Ch. 24, §2).
->
-> **3. The *quantum* *gravity* *problem*.** The *attempt* to *reconcile* *quantum* *mechanics* and *general* *relativity* *raises* *metaphysical* *questions* about *spacetime*, *causation*, and *substance* (the *problem* of *time*; the *problem* of *background* *independence*). The *debate* is *technical* and *speculative* (Ch. 41, §4).
->
-> **4. Non-Western *theories* of *matter*.** The *Buddhist* *Abhidharma* *tradition* *developed* a *radical* *process* *ontology* (the *dharmas* are *momentary* *events*, not *substances*), and the *Nyāya-Vaiśeṣika* *tradition* *developed* a *realist* *substance* *ontology* (the *nine* *substances*, including *earth*, *water*, *fire*, *air*, *ether*, *time*, *space*, *self*, *mind*). The *traditions* *anticipate* the *contemporary* *debate* *between* *substance* and *process*, and they are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *ethics* of *matter*.** The *choice* of *ontology* *has* *ethical* *consequences*: the *view* that *matter* is *passive* (the *mechanistic* *picture*) *supports* the *domination* of *nature*; the *view* that *matter* is *active* (the *dispositionalist* *picture*) *supports* a *different* *relation* to the *world* (the *ecological* *view*; Ch. 51, §6). The *ethics* of *ontology* is *underdeveloped*, and it is *urgent*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *wavefunction* and the *substance* ontology.** If the *wavefunction* is *ontic*, the *fundamental* *entity* is not a *particle* or a *field* in the *classical* sense; it is a *state* in a *high-dimensional* *configuration* *space*. The *view* *challenges* the *substance* *ontology* of §2, and it *supports* *ontic* *structuralism*. The *debate* is *connected* to the *interpretation* of *quantum* *mechanics* (§5) and to the *theory* of *properties* (Ch. 15, §5).
+
+**2. The *measurement* *problem* and *consciousness*.** Some *interpretations* (Wigner; the *consciousness-causes-collapse* *view*) *invoke* *consciousness* to *solve* the *measurement* *problem*. The *view* is *contested* (it *makes* *consciousness* *fundamental* and *causally* *efficacious*), and it is *connected* to *panpsychism* (§7) and to the *hard* *problem* (Ch. 24, §2).
+
+**3. The *quantum* *gravity* *problem*.** The *attempt* to *reconcile* *quantum* *mechanics* and *general* *relativity* *raises* *metaphysical* *questions* about *spacetime*, *causation*, and *substance* (the *problem* of *time*; the *problem* of *background* *independence*). The *debate* is *technical* and *speculative* (Ch. 41, §4).
+
+**4. Non-Western *theories* of *matter*.** The *Buddhist* *Abhidharma* *tradition* *developed* a *radical* *process* *ontology* (the *dharmas* are *momentary* *events*, not *substances*), and the *Nyāya-Vaiśeṣika* *tradition* *developed* a *realist* *substance* *ontology* (the *nine* *substances*, including *earth*, *water*, *fire*, *air*, *ether*, *time*, *space*, *self*, *mind*). The *traditions* *anticipate* the *contemporary* *debate* *between* *substance* and *process*, and they are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *ethics* of *matter*.** The *choice* of *ontology* *has* *ethical* *consequences*: the *view* that *matter* is *passive* (the *mechanistic* *picture*) *supports* the *domination* of *nature*; the *view* that *matter* is *active* (the *dispositionalist* *picture*) *supports* a *different* *relation* to the *world* (the *ecological* *view*; Ch. 51, §6). The *ethics* of *ontology* is *underdeveloped*, and it is *urgent*.
 
 ---
 

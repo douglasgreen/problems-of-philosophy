@@ -829,18 +829,19 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 28</b> (advanced / cross-cutting)</summary>
->
-> **1. The *guise* *of* *the* *good* *and* *the* *Socratic* *tradition*.** The *view* that *desires* *represent* their *objects* as *good* (the *“*guise* *of* *the* *good”*) is *ancient* (Plato, Aristotle) and *contemporary* (the *essays* in *The Guise of the Good*, ed. the contemporary literature). The *view* *connects* the *theory* of *desire* to the *theory* of *value* (Ch. 44), and it is *contested* by the *wicked* *desires*.
->
-> **2. The *moral* *rationality* *debate*.** The *question* of *whether* *moral* *reasons* are *internal* or *external* (§2) is *central* to *metaethics* (Ch. 44, §4), and the *amoralist* *challenge* is *the* *test* *case*. The *contemporary* *literature* (the *essays* in *Moral Psychology*, ed. Sinnott-Armstrong, 2008) is *rich* and *unresolved*.
->
-> **3. The *AI* *rationality* *debate*.** The *AI* *systems* *are* *trained* on *human* *data*, and they *reproduce* the *human* *biases* (the *algorithmic* *bias* *literature*). The *question* of *whether* *AI* *systems* *can* be *rational* (in the *normative* *sense*) is *connected* to the *theory* of *rationality* (this chapter) and to the *ethics* of *AI* (Ch. 51, §3), and it is *urgent*.
->
-> **4. Non-Western *theories* of *rationality*.** The *Buddhist* *tradition* *developed* a *theory* of *reason* that *emphasizes* the *conditioning* of the *mind* (the *“*dependent* *origination”*; Ch. 18, §4) and the *practical* *goal* of *liberation* (the *“*enlightenment”* *goal*), and the *theory* *challenges* the *Western* *dichotomy* between *theoretical* and *practical* *reason*. The *Nyāya* *tradition* *developed* a *sophisticated* *theory* of *inference* (*anumāna*) that *anticipates* the *contemporary* *epistemology* (Ch. 10, §2). The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *ethics* of *irrationality*.** The *attribution* of *irrationality* has *ethical* *consequences* (the *paternalism* *debate*, the *nudge* *debate*, the *responsibility* *debate*; Ch. 47, §4). The *ethics* of *irrationality* is *underdeveloped*, and it is *urgent* (the *“*nudge*”* *literature*; Thaler & Sunstein 2008; the *critique* in the *contemporary* *literature*).
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *guise* *of* *the* *good* *and* *the* *Socratic* *tradition*.** The *view* that *desires* *represent* their *objects* as *good* (the *“*guise* *of* *the* *good”*) is *ancient* (Plato, Aristotle) and *contemporary* (the *essays* in *The Guise of the Good*, ed. the contemporary literature). The *view* *connects* the *theory* of *desire* to the *theory* of *value* (Ch. 44), and it is *contested* by the *wicked* *desires*.
+
+**2. The *moral* *rationality* *debate*.** The *question* of *whether* *moral* *reasons* are *internal* or *external* (§2) is *central* to *metaethics* (Ch. 44, §4), and the *amoralist* *challenge* is *the* *test* *case*. The *contemporary* *literature* (the *essays* in *Moral Psychology*, ed. Sinnott-Armstrong, 2008) is *rich* and *unresolved*.
+
+**3. The *AI* *rationality* *debate*.** The *AI* *systems* *are* *trained* on *human* *data*, and they *reproduce* the *human* *biases* (the *algorithmic* *bias* *literature*). The *question* of *whether* *AI* *systems* *can* be *rational* (in the *normative* *sense*) is *connected* to the *theory* of *rationality* (this chapter) and to the *ethics* of *AI* (Ch. 51, §3), and it is *urgent*.
+
+**4. Non-Western *theories* of *rationality*.** The *Buddhist* *tradition* *developed* a *theory* of *reason* that *emphasizes* the *conditioning* of the *mind* (the *“*dependent* *origination”*; Ch. 18, §4) and the *practical* *goal* of *liberation* (the *“*enlightenment”* *goal*), and the *theory* *challenges* the *Western* *dichotomy* between *theoretical* and *practical* *reason*. The *Nyāya* *tradition* *developed* a *sophisticated* *theory* of *inference* (*anumāna*) that *anticipates* the *contemporary* *epistemology* (Ch. 10, §2). The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *ethics* of *irrationality*.** The *attribution* of *irrationality* has *ethical* *consequences* (the *paternalism* *debate*, the *nudge* *debate*, the *responsibility* *debate*; Ch. 47, §4). The *ethics* of *irrationality* is *underdeveloped*, and it is *urgent* (the *“*nudge*”* *literature*; Thaler & Sunstein 2008; the *critique* in the *contemporary* *literature*).
 
 ---
 

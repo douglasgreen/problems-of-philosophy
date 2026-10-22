@@ -771,18 +771,19 @@ The table is a map, not a verdict. The reader who wants to choose a position mus
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 35</b> (advanced / cross-cutting)</summary>
->
-> **1. The *limitativetheorems*.** The *Gödel* *incompleteness* (1931), the *Tarski* *undefinability* (1933), the *Church–Turing* *undecidability* (1936), and the *Löwenheim–Skolem* (1915) *are* the *most* *important* *results* in *logic*, and they *constrain* the *philosophy* of *mathematics* (Ch. 43, §2), *truth* (Ch. 32, §5), and *mind* (Ch. 23, §4). The *reader* who *wants* the *technical* *details* should *consult* Appendix A and the *standard* *textbooks* (Boolos, Burgess & Jeffrey; Enderton).
->
-> **2. The *algebraic* *semantics*.** The *Boolean* *algebras* (for the *classical* *logic*), the *Heyting* *algebras* (for the *intuitionistic*), the *De* *Morgan* *algebras* (for the *relevant*), and the *orthomodular* *lattices* (for the *quantum*) *provide* the *semantic* *structures* of the *logics*, and the *structures* *connect* the *logic* to the *algebra* and to the *physics* (Ch. 19, §5).
->
-> **3. The *logic* of *AI*.** The *automated* *theorem* *provers*, the *SAT* *solvers*, the *description* *logics*, and the *neural* *reasoners* *implement* the *logics* in *machines*, and the *philosophical* *questions* (the *logic* *of* the *machine*, the *meaning* of the *symbols*, the *common-sense* *reasoning*) are *urgent* (Ch. 29, §3; Ch. 51, §3).
->
-> **4. Non-Western *logics*.** The *Nyāya* *tradition* developed a *sophisticated* *logic* of *inference* (*anumāna*, the *five*-*membered* *syllogism*, the *vyāpti*), and the *Buddhist* *tradition* developed the *tetralemma* (the *catuṣkoṭi*; Ch. 33, §2.5) and the *apoha* *theory* of *meaning* (Ch. 31, §3). The *traditions* are *systematic* *alternatives*, not *curiosities* (Matilal 1986, 1998; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *ethics* of *logic*.** The *logical* *vices* (the *inconsistency*, the *equivocation*, the *sophistry*) are *ethical* as well as *epistemic*, and the *ethics* of *logic* *connects* the *formal* *apparatus* to the *ethics* of *discourse* (Ch. 4, §4) and to the *political* *epistemology* (Ch. 11, §6). The *connection* is *underdeveloped*, and it is *urgent*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *limitativetheorems*.** The *Gödel* *incompleteness* (1931), the *Tarski* *undefinability* (1933), the *Church–Turing* *undecidability* (1936), and the *Löwenheim–Skolem* (1915) *are* the *most* *important* *results* in *logic*, and they *constrain* the *philosophy* of *mathematics* (Ch. 43, §2), *truth* (Ch. 32, §5), and *mind* (Ch. 23, §4). The *reader* who *wants* the *technical* *details* should *consult* Appendix A and the *standard* *textbooks* (Boolos, Burgess & Jeffrey; Enderton).
+
+**2. The *algebraic* *semantics*.** The *Boolean* *algebras* (for the *classical* *logic*), the *Heyting* *algebras* (for the *intuitionistic*), the *De* *Morgan* *algebras* (for the *relevant*), and the *orthomodular* *lattices* (for the *quantum*) *provide* the *semantic* *structures* of the *logics*, and the *structures* *connect* the *logic* to the *algebra* and to the *physics* (Ch. 19, §5).
+
+**3. The *logic* of *AI*.** The *automated* *theorem* *provers*, the *SAT* *solvers*, the *description* *logics*, and the *neural* *reasoners* *implement* the *logics* in *machines*, and the *philosophical* *questions* (the *logic* *of* the *machine*, the *meaning* of the *symbols*, the *common-sense* *reasoning*) are *urgent* (Ch. 29, §3; Ch. 51, §3).
+
+**4. Non-Western *logics*.** The *Nyāya* *tradition* developed a *sophisticated* *logic* of *inference* (*anumāna*, the *five*-*membered* *syllogism*, the *vyāpti*), and the *Buddhist* *tradition* developed the *tetralemma* (the *catuṣkoṭi*; Ch. 33, §2.5) and the *apoha* *theory* of *meaning* (Ch. 31, §3). The *traditions* are *systematic* *alternatives*, not *curiosities* (Matilal 1986, 1998; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *ethics* of *logic*.** The *logical* *vices* (the *inconsistency*, the *equivocation*, the *sophistry*) are *ethical* as well as *epistemic*, and the *ethics* of *logic* *connects* the *formal* *apparatus* to the *ethics* of *discourse* (Ch. 4, §4) and to the *political* *epistemology* (Ch. 11, §6). The *connection* is *underdeveloped*, and it is *urgent*.
 
 ---
 

@@ -933,20 +933,21 @@ The *book* *began* with the *question* of the *nature* of the *philosophy* (Ch. 
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 54</b> (advanced / cross-cutting)</summary>
->
-> **1. The *philosophy* *as* *a* *way* *of* *life*.** The *Stoic* *askēsis*, the *Epicurean* *therapy* (Ch. 48, §7.3), the *Socratic* *examination*, the *Buddhist* *practice*, the *monastic* *rule*, the *Spinozist* *beatitude*, the *Hadot* *spiritual* *exercises* — the *traditions* *treat* the *philosophy* *as* the *practice* (the *no* *mere* *doctrine*), and they *challenge* the *professional* *conception* of the *discipline*, and the *question* *connects* the *value* to the *well*-*being* (Ch. 48) and to the *religion* (Ch. 50).
->
-> **2. The *public* *philosophy* *and* *the* *authority*.** The *public* *intellectual*, the *policy* *advice*, the *ethics* *committee* (Ch. 51, §1), the *AI* *governance* (Ch. 51, §3), the *climate* *negotiation* (Ch. 51, §6) — the *public* *role* *raises* the *question* of the *authority* (the *no* *mere* *credential*), and it *connects* the *value* to the *politics* (Ch. 47) and to the *applied* *ethics* (Ch. 51).
->
-> **3. The *global* *philosophy* *and* *the* *canon*.** The *comparative* *philosophy* (the *Chinese*, the *Indian*, the *African*, the *Buddhist*), the *intercultural* *hermeneutics*, the *decolonial* *critique* (the *no* *mere* *Western*), the *world* *philosophies* — the *movement* *raises* the *question* of the *distribution* (§1.1) and of the *value* (the *no* *mere* *parochial*), and it *connects* the *value* to the *history* (Ch. 52) and to the *unity* (Ch. 53).
->
-> **4. The *teaching* *of* *the* *philosophy*.** The *seminar*, the *supervision*, the *curriculum* (the *spiral*; §7.2), the *assessment*, the *mentorship*, the *public* *lecture* — the *teaching* *is* the *transmission* of the *practice* (the *no* *mere* *content*), and the *question* *connects* the *value* to the *formation* (§7.1) and to the *method* (Ch. 2–4).
->
-> **5. The *philosophy* *and* *the* *technology*.** The *AI*-*assisted* *philosophy* (the *no* *mere* *erudition*), the *simulation*, the *digital* *afterlife*, the *deepfake* *and* *the* *testimony* — the *technology* *raises* the *question* of the *form* of the *practice* (the *no* *mere* *human*), and it *connects* the *value* to the *applied* *ethics* (Ch. 51, §3–4) and to the *epistemology* (Ch. 11).
->
-> **6. The *consolation* *of* *the* *philosophy*.** The *Boehme*, the *Spinoza*, the *Kant* *of* the *Critique* *of* *Judgement*, the *Wittgenstein* of the *Culture* *and* *Value*, the *Cavell* *of* the *claim* *of* *reason* — the *philosophy* *as* the *consolation* (the *no* *mere* *theory*), and the *consolation* *as* the *practice* (the *no* *mere* *feeling*), and the *question* *connects* the *value* to the *well*-*being* (Ch. 48, §7.3) and to the *religion* (Ch. 50, §5).
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *philosophy* *as* *a* *way* *of* *life*.** The *Stoic* *askēsis*, the *Epicurean* *therapy* (Ch. 48, §7.3), the *Socratic* *examination*, the *Buddhist* *practice*, the *monastic* *rule*, the *Spinozist* *beatitude*, the *Hadot* *spiritual* *exercises* — the *traditions* *treat* the *philosophy* *as* the *practice* (the *no* *mere* *doctrine*), and they *challenge* the *professional* *conception* of the *discipline*, and the *question* *connects* the *value* to the *well*-*being* (Ch. 48) and to the *religion* (Ch. 50).
+
+**2. The *public* *philosophy* *and* *the* *authority*.** The *public* *intellectual*, the *policy* *advice*, the *ethics* *committee* (Ch. 51, §1), the *AI* *governance* (Ch. 51, §3), the *climate* *negotiation* (Ch. 51, §6) — the *public* *role* *raises* the *question* of the *authority* (the *no* *mere* *credential*), and it *connects* the *value* to the *politics* (Ch. 47) and to the *applied* *ethics* (Ch. 51).
+
+**3. The *global* *philosophy* *and* *the* *canon*.** The *comparative* *philosophy* (the *Chinese*, the *Indian*, the *African*, the *Buddhist*), the *intercultural* *hermeneutics*, the *decolonial* *critique* (the *no* *mere* *Western*), the *world* *philosophies* — the *movement* *raises* the *question* of the *distribution* (§1.1) and of the *value* (the *no* *mere* *parochial*), and it *connects* the *value* to the *history* (Ch. 52) and to the *unity* (Ch. 53).
+
+**4. The *teaching* *of* *the* *philosophy*.** The *seminar*, the *supervision*, the *curriculum* (the *spiral*; §7.2), the *assessment*, the *mentorship*, the *public* *lecture* — the *teaching* *is* the *transmission* of the *practice* (the *no* *mere* *content*), and the *question* *connects* the *value* to the *formation* (§7.1) and to the *method* (Ch. 2–4).
+
+**5. The *philosophy* *and* *the* *technology*.** The *AI*-*assisted* *philosophy* (the *no* *mere* *erudition*), the *simulation*, the *digital* *afterlife*, the *deepfake* *and* *the* *testimony* — the *technology* *raises* the *question* of the *form* of the *practice* (the *no* *mere* *human*), and it *connects* the *value* to the *applied* *ethics* (Ch. 51, §3–4) and to the *epistemology* (Ch. 11).
+
+**6. The *consolation* *of* *the* *philosophy*.** The *Boehme*, the *Spinoza*, the *Kant* *of* the *Critique* *of* *Judgement*, the *Wittgenstein* of the *Culture* *and* *Value*, the *Cavell* *of* the *claim* *of* *reason* — the *philosophy* *as* the *consolation* (the *no* *mere* *theory*), and the *consolation* *as* the *practice* (the *no* *mere* *feeling*), and the *question* *connects* the *value* to the *well*-*being* (Ch. 48, §7.3) and to the *religion* (Ch. 50, §5).
 
 ---
 

@@ -1272,20 +1272,21 @@ The *next* *chapter* turns to *religion*, *faith*, and the *limits* of *reason*.
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 49</b> (advanced / cross-cutting)</summary>
->
-> **1. The *ontology* of the *work* of *art*.** The *work* is a *type* (the *repeatable*, the *multiple*), a *token* (the *singular*), or a *set* (the *no* *mere* *object*), and the *ontology* *connects* the *aesthetics* to the *metaphysics* (Ch. 15, §6; Ch. 14, §5), and the *questions* (the *identity* of the *forgery*, the *restoration*, the *performance*) are *live* in the *philosophy* of *music* (the *Goodman* *insight*) and in the *philosophy* of *literature* (the *no* *copy*).
->
-> **2. The *aesthetics* of the *everyday*.** The *design*, the *food*, the *fashion*, the *city*, the *body* — the *everyday* *aesthetics* (Saito 2007; the *contemporary* *literature*) *extends* the *domain* and *challenges* the *art* *monopoly*, and it *connects* the *aesthetics* to the *well*-*being* (Ch. 48, §1.4), to the *environmental* *ethics* (Ch. 51, §6), and to the *politics* of the *public* *space*.
->
-> **3. The *aesthetics* of *nature*.** The *beauty* of the *natural* *world* (the *sublime*, the *picturesque*, the *ecological* *aesthetics*) *raises* the *question* of the *aesthetic* *appreciation* *without* the *art* *framework* (the *Carlson* *insight*; the *no* *mere* *scenery*), and the *question* *connects* the *aesthetics* to the *environmental* *ethics* (Ch. 51, §6) and to the *religion* (the *creation*, the *sacred* *landscape*).
->
-> **4. The *aesthetics* of the *non*-*Western* *traditions*.** The *Japanese* *wabi*-*sabi* (the *imperfect*, the *transient*, the *incomplete*), the *mono* *no* *aware* (the *pathos* of the *things*), the *Chinese* *qi* *and* *jing* (the *vital* *energy*, the *scenic* *essence*), the *Indian* *rasa* (the *aesthetic* *flavour*; the *nine* *rasas*; the *Abhinavagupta* *insight*) — the *traditions* *offer* *systematic* *alternatives* to the *Western* *aesthetics* (the *no* *mere* *decoration*), and they *challenge* the *universality* of the *beauty* and the *autonomy* of the *art*.
->
-> **5. The *aesthetics* of the *AI*.** The *generative* *art*, the *algorithmic* *composition*, the *authorship* *question* (the *AI* *as* the *author*?), the *connoisseurship* *of* the *machine* (the *no* *taste*), and the *aesthetic* *value* of the *generated* *work* *raise* the *questions* of the *intention*, the *creativity*, and the *experience*, and they *connect* the *aesthetics* to the *technology* *ethics* (Ch. 51, §3) and to the *mind* (Ch. 29). The *debate* is *emerging*.
->
-> **6. The *ethical* *criticism* *of* *art*. The *cancellation*, the *censorship*, the *moral* *education* by *art* — the *practical* *stakes* of the *moralism*/*autonomism* *debate*, and the *questions* of the *public* *funding*, the *museum*, the *school* *curriculum*, and the *no* *neutral* *public* *space*. The *debate* is *urgent*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *ontology* of the *work* of *art*.** The *work* is a *type* (the *repeatable*, the *multiple*), a *token* (the *singular*), or a *set* (the *no* *mere* *object*), and the *ontology* *connects* the *aesthetics* to the *metaphysics* (Ch. 15, §6; Ch. 14, §5), and the *questions* (the *identity* of the *forgery*, the *restoration*, the *performance*) are *live* in the *philosophy* of *music* (the *Goodman* *insight*) and in the *philosophy* of *literature* (the *no* *copy*).
+
+**2. The *aesthetics* of the *everyday*.** The *design*, the *food*, the *fashion*, the *city*, the *body* — the *everyday* *aesthetics* (Saito 2007; the *contemporary* *literature*) *extends* the *domain* and *challenges* the *art* *monopoly*, and it *connects* the *aesthetics* to the *well*-*being* (Ch. 48, §1.4), to the *environmental* *ethics* (Ch. 51, §6), and to the *politics* of the *public* *space*.
+
+**3. The *aesthetics* of *nature*.** The *beauty* of the *natural* *world* (the *sublime*, the *picturesque*, the *ecological* *aesthetics*) *raises* the *question* of the *aesthetic* *appreciation* *without* the *art* *framework* (the *Carlson* *insight*; the *no* *mere* *scenery*), and the *question* *connects* the *aesthetics* to the *environmental* *ethics* (Ch. 51, §6) and to the *religion* (the *creation*, the *sacred* *landscape*).
+
+**4. The *aesthetics* of the *non*-*Western* *traditions*.** The *Japanese* *wabi*-*sabi* (the *imperfect*, the *transient*, the *incomplete*), the *mono* *no* *aware* (the *pathos* of the *things*), the *Chinese* *qi* *and* *jing* (the *vital* *energy*, the *scenic* *essence*), the *Indian* *rasa* (the *aesthetic* *flavour*; the *nine* *rasas*; the *Abhinavagupta* *insight*) — the *traditions* *offer* *systematic* *alternatives* to the *Western* *aesthetics* (the *no* *mere* *decoration*), and they *challenge* the *universality* of the *beauty* and the *autonomy* of the *art*.
+
+**5. The *aesthetics* of the *AI*.** The *generative* *art*, the *algorithmic* *composition*, the *authorship* *question* (the *AI* *as* the *author*?), the *connoisseurship* *of* the *machine* (the *no* *taste*), and the *aesthetic* *value* of the *generated* *work* *raise* the *questions* of the *intention*, the *creativity*, and the *experience*, and they *connect* the *aesthetics* to the *technology* *ethics* (Ch. 51, §3) and to the *mind* (Ch. 29). The *debate* is *emerging*.
+
+**6. The *ethical* *criticism* *of* *art*. The *cancellation*, the *censorship*, the *moral* *education* by *art* — the *practical* *stakes* of the *moralism*/*autonomism* *debate*, and the *questions* of the *public* *funding*, the *museum*, the *school* *curriculum*, and the *no* *neutral* *public* *space*. The *debate* is *urgent*.
 
 ---
 

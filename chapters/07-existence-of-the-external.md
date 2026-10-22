@@ -533,18 +533,19 @@ The sceptic’s challenge is, at bottom, a challenge to the *criterion* of knowl
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 6</b> (advanced / cross-cutting)</summary>
->
-> **1. The “new evil demon” and the internalism/externalism debate.** Cohen’s (1984) thought experiment — a subject in a demon world with the same internal states as a subject in the real world — is the sharpest challenge to reliabilism, and it connects the sceptical problem to the theory of justification (Ch. 8, §5).
->
-> **2. Transcendental arguments.** The Putnam argument is a *transcendental* argument: it derives a conclusion about the world from the conditions of the possibility of meaning. The tradition of transcendental arguments (Kant, Strawson, Davidson) is the most ambitious response to scepticism, and the most contested. The question is whether any transcendental argument can establish a *substantive* conclusion about the world, or only a *conceptual* one.
->
-> **3. Scepticism and the closure of inquiry.** If the sceptical question cannot be answered, what follows for the *practice* of inquiry? Is the sceptic a threat to science, or a harmless philosophical curiosity? The literature on “epistemic Angst” (Pritchard 2016) and on the “value of knowledge” (Ch. 7, §7) bears on this.
->
-> **4. Non-Western responses.** The Buddhist *Madhyamaka* tradition (Nāgārjuna) develops a form of scepticism that is *therapeutic* rather than *theoretical*, and that is strikingly similar to the Pyrrhonian position (see Matilal, *Perception* (1986), and the essays in *Moonshadows: Conventional Truth in Buddhist Philosophy*, ed. “The Cowherds” (2011)). The Nyāya school develops a *realist* response to scepticism that anticipates Moore and the externalists. These are not ornaments; they are systematic alternatives.
->
-> **5. Scepticism and the ethics of belief.** If we cannot know whether we are BIVs, what follows for the *ethics* of belief? Is it rational to act on beliefs that are not certain? The pragmatic tradition (James, Dewey) and the Wittgensteinian tradition (hinge epistemology) give different answers, and the difference matters for the epistemology of testimony and of action (Ch. 11).
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The “new evil demon” and the internalism/externalism debate.** Cohen’s (1984) thought experiment — a subject in a demon world with the same internal states as a subject in the real world — is the sharpest challenge to reliabilism, and it connects the sceptical problem to the theory of justification (Ch. 8, §5).
+
+**2. Transcendental arguments.** The Putnam argument is a *transcendental* argument: it derives a conclusion about the world from the conditions of the possibility of meaning. The tradition of transcendental arguments (Kant, Strawson, Davidson) is the most ambitious response to scepticism, and the most contested. The question is whether any transcendental argument can establish a *substantive* conclusion about the world, or only a *conceptual* one.
+
+**3. Scepticism and the closure of inquiry.** If the sceptical question cannot be answered, what follows for the *practice* of inquiry? Is the sceptic a threat to science, or a harmless philosophical curiosity? The literature on “epistemic Angst” (Pritchard 2016) and on the “value of knowledge” (Ch. 7, §7) bears on this.
+
+**4. Non-Western responses.** The Buddhist *Madhyamaka* tradition (Nāgārjuna) develops a form of scepticism that is *therapeutic* rather than *theoretical*, and that is strikingly similar to the Pyrrhonian position (see Matilal, *Perception* (1986), and the essays in *Moonshadows: Conventional Truth in Buddhist Philosophy*, ed. “The Cowherds” (2011)). The Nyāya school develops a *realist* response to scepticism that anticipates Moore and the externalists. These are not ornaments; they are systematic alternatives.
+
+**5. Scepticism and the ethics of belief.** If we cannot know whether we are BIVs, what follows for the *ethics* of belief? Is it rational to act on beliefs that are not certain? The pragmatic tradition (James, Dewey) and the Wittgensteinian tradition (hinge epistemology) give different answers, and the difference matters for the epistemology of testimony and of action (Ch. 11).
 
 ---
 

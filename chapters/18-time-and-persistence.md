@@ -617,18 +617,19 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 17</b> (advanced / cross-cutting)</summary>
->
-> **1. The *two* *time* *dimensions*.** If the *A-theory* *requires* a *rate* of *passage*, it *may* *require* a *second* *time* *dimension* in which the *rate* is *measured*. The *view* (Broad 1923; Thomson 1965; Schlesinger 1980) is *radical*, and it is *contested* (the *regress* argument; the *parsimony* argument). The *two-dimensional* *view* *fits* some *versions* of the *A-theory*, and it is *one* of the *most* *interesting* *technical* *issues* in the *field*.
->
-> **2. The *relativity* *of* *simultaneity*.** The *Rietdijk–Putnam* *argument* is *influential* and *contested*. The *neo-Lorentzian* *response* (Bell, Maudlin) *postulates* a *privileged* *frame* that is *empirically* *undetectable* (the *“hidden* *variable”* *of* *time*). The *debate* is *connected* to the *interpretation* of *quantum* *mechanics* (Ch. 19, §5; Ch. 41, §4).
->
-> **3. The *physics* of *the* *arrow*.** The *past* *hypothesis* (Albert 2000) is the *most* *influential* *account* of the *arrow*, and it is *contested* (Earman 2006; Price 1996). The *debate* is *connected* to the *interpretation* of *statistical* *mechanics* and to the *direction* of *causation* (Ch. 18, §2).
->
-> **4. Non-Western *theories* of *time*.** The *Buddhist* *tradition* *developed* a *radical* *momentariness* (*kṣaṇika-vāda*) that *anticipates* the *stage* *theory*, and the *Nyāya-Vaiśeṣika* *tradition* *developed* a *realist* *theory* of *time* as a *substance* that *anticipates* the *A-theory*. The *Abhidharma* *debates* on *temporal* *identity* (the *“same”* *person* *across* *moments*) are *sophisticated*, and they *are* *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *temporal* *experience* and *artificial* *intelligence*.** The *AI* *systems* *process* *sequences* (the *transformer* *architectures*, the *temporal* *models*), and the *philosophical* *questions* — *do* *they* *experience* *duration*? *is* *their* *“now”* *a* *construction*? — are *new* and *urgent* (Ch. 29, §3). The *answers* *depend* on the *theory* of *temporal* *experience* of §3, and the *theory* *needs* to *be* *general* *enough* to *cover* *both* *biological* and *artificial* *systems*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *two* *time* *dimensions*.** If the *A-theory* *requires* a *rate* of *passage*, it *may* *require* a *second* *time* *dimension* in which the *rate* is *measured*. The *view* (Broad 1923; Thomson 1965; Schlesinger 1980) is *radical*, and it is *contested* (the *regress* argument; the *parsimony* argument). The *two-dimensional* *view* *fits* some *versions* of the *A-theory*, and it is *one* of the *most* *interesting* *technical* *issues* in the *field*.
+
+**2. The *relativity* *of* *simultaneity*.** The *Rietdijk–Putnam* *argument* is *influential* and *contested*. The *neo-Lorentzian* *response* (Bell, Maudlin) *postulates* a *privileged* *frame* that is *empirically* *undetectable* (the *“hidden* *variable”* *of* *time*). The *debate* is *connected* to the *interpretation* of *quantum* *mechanics* (Ch. 19, §5; Ch. 41, §4).
+
+**3. The *physics* of *the* *arrow*.** The *past* *hypothesis* (Albert 2000) is the *most* *influential* *account* of the *arrow*, and it is *contested* (Earman 2006; Price 1996). The *debate* is *connected* to the *interpretation* of *statistical* *mechanics* and to the *direction* of *causation* (Ch. 18, §2).
+
+**4. Non-Western *theories* of *time*.** The *Buddhist* *tradition* *developed* a *radical* *momentariness* (*kṣaṇika-vāda*) that *anticipates* the *stage* *theory*, and the *Nyāya-Vaiśeṣika* *tradition* *developed* a *realist* *theory* of *time* as a *substance* that *anticipates* the *A-theory*. The *Abhidharma* *debates* on *temporal* *identity* (the *“same”* *person* *across* *moments*) are *sophisticated*, and they *are* *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *temporal* *experience* and *artificial* *intelligence*.** The *AI* *systems* *process* *sequences* (the *transformer* *architectures*, the *temporal* *models*), and the *philosophical* *questions* — *do* *they* *experience* *duration*? *is* *their* *“now”* *a* *construction*? — are *new* and *urgent* (Ch. 29, §3). The *answers* *depend* on the *theory* of *temporal* *experience* of §3, and the *theory* *needs* to *be* *general* *enough* to *cover* *both* *biological* and *artificial* *systems*.
 
 ---
 

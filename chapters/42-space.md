@@ -987,18 +987,19 @@ The table is a map, not a verdict. The reader who wants to choose a position mus
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 41</b> (advanced / cross-cutting)</summary>
->
-> **1. The *problem* of *time* in *quantum* *gravity*.** The *Wheeler*–*DeWitt* *equation* $\hat{\mathcal{H}}\Psi[h_{ij}] = 0$ *suggests* that the *wavefunction* of the *universe* *has* no *external* *time* (the *"*frozen*"* *formalism*), and the *"*problem* of *time*"* is *the* *deepest* *problem* in the *quantum* *gravity* (the *relational* *time*: Rovelli; the *thermal* *time*: Connes & Rovelli 1994; the *emergent* *time*: the *contemporary* *literature*). The *connection* to the *block* *universe* (§3.4) and to the *arrow* (§3) is *direct*, and the *resolution* is *open*.
->
-> **2. The *Everettian* *probability* *problem*.** The *decision*-*theoretic* *derivation* of the *Born* *rule* (Wallace 2012; Saunders) is the *most* *developed* *response* to the *probability* *objection*, and the *"*incoherence*"* *objection* (Baker 2007; the *contemporary* *literature*) is the *most* *serious* *challenge*. The *debate* is *active*, and the *connection* to the *decision* *theory* (Ch. 10, §4) and to the *self* (Ch. 26, §6) is *profound*.
->
-> **3. The *cosmological* *multiverse* and the *measure* *problem*.** The *cosmological* *multiverse* (the *eternal* *inflation*, the *string* *landscape*; Ch. 50, §2) *raises* the *measure* *problem* (the *probabilities* *depend* on the *measure*, and the *measure* is *not* *unique*), and the *problem* *connects* the *philosophy* of *physics* to the *philosophy* of *probability* (Ch. 10, §5). The *connection* is *contested* and *urgent*.
->
-> **4. Non-Western *metaphysics* of *space* and *time*.** The *Buddhist* *tradition* *developed* the *momentariness* (*kṣaṇika*-*vāda*) and the *Nāgārjuna* *critique* of *motion* (*Madhyamakakārikā*, Ch. 2), and the *Nyāya*-*Vaiśeṣika* *tradition* *developed* a *realist* *theory* of *space* and *time* as *substances*. The *Daoist* *tradition* *developed* a *process* *metaphysics* that *anticipates* the *Whiteheadian* *process* *philosophy* (Ch. 20, §4). The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *ethics* of *physics*.** The *physics* *has* *profound* *ethical* *consequences* (the *nuclear* *weapons*, the *climate* *science*, the *surveillance* *technology*, the *AI*), and the *ethics* of the *physics* *connects* the *philosophy* of *physics* to the *applied* *ethics* (Ch. 51) and to the *political* *philosophy* (Ch. 47). The *connection* is *underdeveloped* and *urgent*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *problem* of *time* in *quantum* *gravity*.** The *Wheeler*–*DeWitt* *equation* $\hat{\mathcal{H}}\Psi[h_{ij}] = 0$ *suggests* that the *wavefunction* of the *universe* *has* no *external* *time* (the *"*frozen*"* *formalism*), and the *"*problem* of *time*"* is *the* *deepest* *problem* in the *quantum* *gravity* (the *relational* *time*: Rovelli; the *thermal* *time*: Connes & Rovelli 1994; the *emergent* *time*: the *contemporary* *literature*). The *connection* to the *block* *universe* (§3.4) and to the *arrow* (§3) is *direct*, and the *resolution* is *open*.
+
+**2. The *Everettian* *probability* *problem*.** The *decision*-*theoretic* *derivation* of the *Born* *rule* (Wallace 2012; Saunders) is the *most* *developed* *response* to the *probability* *objection*, and the *"*incoherence*"* *objection* (Baker 2007; the *contemporary* *literature*) is the *most* *serious* *challenge*. The *debate* is *active*, and the *connection* to the *decision* *theory* (Ch. 10, §4) and to the *self* (Ch. 26, §6) is *profound*.
+
+**3. The *cosmological* *multiverse* and the *measure* *problem*.** The *cosmological* *multiverse* (the *eternal* *inflation*, the *string* *landscape*; Ch. 50, §2) *raises* the *measure* *problem* (the *probabilities* *depend* on the *measure*, and the *measure* is *not* *unique*), and the *problem* *connects* the *philosophy* of *physics* to the *philosophy* of *probability* (Ch. 10, §5). The *connection* is *contested* and *urgent*.
+
+**4. Non-Western *metaphysics* of *space* and *time*.** The *Buddhist* *tradition* *developed* the *momentariness* (*kṣaṇika*-*vāda*) and the *Nāgārjuna* *critique* of *motion* (*Madhyamakakārikā*, Ch. 2), and the *Nyāya*-*Vaiśeṣika* *tradition* *developed* a *realist* *theory* of *space* and *time* as *substances*. The *Daoist* *tradition* *developed* a *process* *metaphysics* that *anticipates* the *Whiteheadian* *process* *philosophy* (Ch. 20, §4). The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *ethics* of *physics*.** The *physics* *has* *profound* *ethical* *consequences* (the *nuclear* *weapons*, the *climate* *science*, the *surveillance* *technology*, the *AI*), and the *ethics* of the *physics* *connects* the *philosophy* of *physics* to the *applied* *ethics* (Ch. 51) and to the *political* *philosophy* (Ch. 47). The *connection* is *underdeveloped* and *urgent*.
 
 ---
 

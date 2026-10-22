@@ -1033,18 +1033,19 @@ The table is a map, not a verdict. The reader who wants to choose a position mus
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 44</b> (advanced / cross-cutting)</summary>
->
-> **1. The *Frege*-*Geach* *problem* and the *contemporary* *expressivism*.** The *Frege*-*Geach* *problem* is the *central* *technical* *challenge* to the *expressivism*, and the *contemporary* *literature* (the *hybrid* *expressivism*, the *minimalism* about *truth*, the *“*ecumenical*”* *expressivism*; the *contemporary* *literature*) is *rich* and *unresolved*. The *connection* to the *compositionality* (Ch. 31, §4) and to the *truth* (Ch. 32, §5) is *direct* and *profound*.
->
-> **2. The *moral* *twin* *earth* and the *semantic* *externalism*.** The *moral* *twin* *earth* *case* (Horgan & Timmons 1992) *tests* the *naturalistic* *realism* against the *non*-*naturalism* (Ch. 25, §4; Ch. 15, §5.2), and the *case* *connects* the *metaethics* to the *semantics* and to the *reference* *magnetism* (Ch. 15, §5.2). The *debate* is *active*.
->
-> **3. The *evolutionary* *debunking* and the *moral* *epistemology*.** The *evolutionary* *debunking* (Joyce 2006; Street 2006) is the *most* *serious* *challenge* to the *moral* *realism*, and the *response* (the *companions* in *guilt*, the *independent* *justification*) is *contested*. The *connection* to the *genealogy* (Ch. 3, §5) and to the *epistemology* (Ch. 8) is *central*.
->
-> **4. Non-Western *metaethics*.** The *Buddhist* *tradition* *developed* a *sophisticated* *metaethics* (the *śīla*, the *karma*, the *compassion*) that *resists* the *fact/value* *dichotomy* (the *interdependence*, the *emptiness*), and the *Confucian* *tradition* *developed* a *role*-*based* *ethics* (the *ren*, the *li*) that *resists* the *individualist* *ontology* of the *Western* *ethics* (Ch. 45, §5; Ch. 48). The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *ethics* of the *metaethics*.** The *metaethical* *positions* have *practical* *consequences* (the *error* *theory* *undermines* the *moral* *authority*; the *expressivism* *supports* the *democratic* *deliberation*; the *realism* *supports* the *moral* *progress*; the *constructivism* *supports* the *autonomy*), and the *consequences* *connect* the *metaethics* to the *political* *philosophy* (Ch. 47) and to the *applied* *ethics* (Ch. 51). The *connection* is *underdeveloped* and *urgent*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *Frege*-*Geach* *problem* and the *contemporary* *expressivism*.** The *Frege*-*Geach* *problem* is the *central* *technical* *challenge* to the *expressivism*, and the *contemporary* *literature* (the *hybrid* *expressivism*, the *minimalism* about *truth*, the *“*ecumenical*”* *expressivism*; the *contemporary* *literature*) is *rich* and *unresolved*. The *connection* to the *compositionality* (Ch. 31, §4) and to the *truth* (Ch. 32, §5) is *direct* and *profound*.
+
+**2. The *moral* *twin* *earth* and the *semantic* *externalism*.** The *moral* *twin* *earth* *case* (Horgan & Timmons 1992) *tests* the *naturalistic* *realism* against the *non*-*naturalism* (Ch. 25, §4; Ch. 15, §5.2), and the *case* *connects* the *metaethics* to the *semantics* and to the *reference* *magnetism* (Ch. 15, §5.2). The *debate* is *active*.
+
+**3. The *evolutionary* *debunking* and the *moral* *epistemology*.** The *evolutionary* *debunking* (Joyce 2006; Street 2006) is the *most* *serious* *challenge* to the *moral* *realism*, and the *response* (the *companions* in *guilt*, the *independent* *justification*) is *contested*. The *connection* to the *genealogy* (Ch. 3, §5) and to the *epistemology* (Ch. 8) is *central*.
+
+**4. Non-Western *metaethics*.** The *Buddhist* *tradition* *developed* a *sophisticated* *metaethics* (the *śīla*, the *karma*, the *compassion*) that *resists* the *fact/value* *dichotomy* (the *interdependence*, the *emptiness*), and the *Confucian* *tradition* *developed* a *role*-*based* *ethics* (the *ren*, the *li*) that *resists* the *individualist* *ontology* of the *Western* *ethics* (Ch. 45, §5; Ch. 48). The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *ethics* of the *metaethics*.** The *metaethical* *positions* have *practical* *consequences* (the *error* *theory* *undermines* the *moral* *authority*; the *expressivism* *supports* the *democratic* *deliberation*; the *realism* *supports* the *moral* *progress*; the *constructivism* *supports* the *autonomy*), and the *consequences* *connect* the *metaethics* to the *political* *philosophy* (Ch. 47) and to the *applied* *ethics* (Ch. 51). The *connection* is *underdeveloped* and *urgent*.
 
 ---
 

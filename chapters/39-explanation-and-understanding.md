@@ -892,18 +892,19 @@ The table is a map, not a verdict. The reader who wants to choose a position mus
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 38</b> (advanced / cross-cutting)</summary>
->
-> **1. The *pragmatics* of *explanation* and *AI*.** The *AI* *systems* *generate* *explanations* (the *XAI* *literature*), and the *questions* (what is a *good* *explanation* for a *machine*? is the *explanation* *causal* or *correlational*?) are *new* and *urgent* (Ch. 51, §3). The *connection* to the *pragmatic* *theory* (§5) is *direct*.
->
-> **2. The *explanation* in *history* and the *narrative*.** The *narrative* *explanation* (§7.3) *connects* the *philosophy* of *explanation* to the *philosophy* of *history* (Danto, *Narration and Knowledge*, 1985; Ricoeur, *Time and Narrative*, 1983–85), and the *connection* is *underdeveloped*.
->
-> **3. The *explanation* and *the* *special* *sciences*.** The *ceteris* *paribus* *laws* (Ch. 39, §2) and the *mechanisms* (§4) *ground* the *special*-*scientific* *explanations*, and the *connection* to the *autonomy* of the *special* *sciences* (Ch. 21, §7) is *central*.
->
-> **4. Non-Western *theories* of *explanation*.** The *Buddhist* *tradition* *developed* a *theory* of *dependent* *origination* (*pratītyasamutpāda*) that *anticipates* the *causal* *and* *contrastive* *accounts*, and the *Nyāya* *tradition* *developed* a *sophisticated* *theory* of *inference* (*anumāna*) and *causation* (*kārya*-*kāraṇa*). The *traditions* are *systematic* *alternatives* (Matilal 1986, 1998; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *ethics* of *explanation*.** The *explanations* *can* be *harmful* (the *stereotypes*, the *just*-*so* *stories*, the *debunking* *explanations*), and the *ethics* of *explanation* *connects* the *philosophy* of *explanation* to the *ethics* of *testimony* (Ch. 11, §4) and to the *epistemic* *injustice* (Ch. 11, §4.1). The *connection* is *underdeveloped*, and it is *urgent*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *pragmatics* of *explanation* and *AI*.** The *AI* *systems* *generate* *explanations* (the *XAI* *literature*), and the *questions* (what is a *good* *explanation* for a *machine*? is the *explanation* *causal* or *correlational*?) are *new* and *urgent* (Ch. 51, §3). The *connection* to the *pragmatic* *theory* (§5) is *direct*.
+
+**2. The *explanation* in *history* and the *narrative*.** The *narrative* *explanation* (§7.3) *connects* the *philosophy* of *explanation* to the *philosophy* of *history* (Danto, *Narration and Knowledge*, 1985; Ricoeur, *Time and Narrative*, 1983–85), and the *connection* is *underdeveloped*.
+
+**3. The *explanation* and *the* *special* *sciences*.** The *ceteris* *paribus* *laws* (Ch. 39, §2) and the *mechanisms* (§4) *ground* the *special*-*scientific* *explanations*, and the *connection* to the *autonomy* of the *special* *sciences* (Ch. 21, §7) is *central*.
+
+**4. Non-Western *theories* of *explanation*.** The *Buddhist* *tradition* *developed* a *theory* of *dependent* *origination* (*pratītyasamutpāda*) that *anticipates* the *causal* *and* *contrastive* *accounts*, and the *Nyāya* *tradition* *developed* a *sophisticated* *theory* of *inference* (*anumāna*) and *causation* (*kārya*-*kāraṇa*). The *traditions* are *systematic* *alternatives* (Matilal 1986, 1998; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *ethics* of *explanation*.** The *explanations* *can* be *harmful* (the *stereotypes*, the *just*-*so* *stories*, the *debunking* *explanations*), and the *ethics* of *explanation* *connects* the *philosophy* of *explanation* to the *ethics* of *testimony* (Ch. 11, §4) and to the *epistemic* *injustice* (Ch. 11, §4.1). The *connection* is *underdeveloped*, and it is *urgent*.
 
 ---
 

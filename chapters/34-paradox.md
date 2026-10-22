@@ -835,18 +835,19 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 33</b> (advanced / cross-cutting)</summary>
->
-> **1. The *mathematical* *theories* of *truth*.** The *axiomatic* *theories* of *truth* (Friedman & Sheard 1987; Halbach, *Axiomatic Theories of Truth*, 2011) *provide* a *rigorous* *framework* for the *paradoxes*, and the *fixed*-*point* *theories* (Kripke; the *contemporary* *literature*) *connect* the *semantics* to the *recursion* *theory*. The *field* is *technical* and *rich*, and it *connects* the *philosophy* of *truth* to the *mathematical* *logic* (Ch. 43, §7).
->
-> **2. The *paraconsistent* *logics*.** The *paraconsistent* *logics* (LP, the *relevant* *logics*, the *adaptive* *logics*) *provide* a *formal* *framework* for the *dialetheism* (Priest, Routley), and the *framework* is *contested* (the *classical* *logic* *fails*, and the *non*-*classical* *logic* is *difficult* to *motivate*). The *field* is *technical* and *central* to the *paradox* *debate*.
->
-> **3. The *conceptual* *engineering* *and* *AI*.** The *AI* *systems* *classify* *people* (the *facial* *recognition*, the *risk* *assessment*), and the *classifications* *encode* *concepts* (the *race*, the *gender*, the *criminality*), and the *concepts* are *contestable* (the *algorithmic* *bias* *literature*; Ch. 51, §3). The *conceptual* *engineering* is *urgent* for the *AI* *ethics*, and the *connection* is *beginning* to be *explored*.
->
-> **4. Non-Western *theories* of *paradox*.** The *Buddhist* *tradition* *developed* the *tetralemma* (the *catuṣkoṭi*: $p$, $\neg p$, $p \wedge \neg p$, $\neg p \wedge \neg\neg p$), and the *tetralemma* *anticipates* the *dialetheism* and the *paraconsistent* *logic*. The *Madhyamaka* *tradition* (Nāgārjuna) *developed* a *radical* *critique* of *all* *views* (the *śūnyatā*), and the *critique* *anticipates* the *quietist* *response* to the *paradoxes*. The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *ethics* of *vagueness*.** The *vagueness* has *ethical* *consequences* (the *borderline* *cases* of *life*, *death*, *personhood*, *consent*), and the *ethics* of *vagueness* is *underdeveloped* (the *contemporary* *literature*; Ch. 51). The *connection* is *beginning* to be *explored*, and it is *urgent*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *mathematical* *theories* of *truth*.** The *axiomatic* *theories* of *truth* (Friedman & Sheard 1987; Halbach, *Axiomatic Theories of Truth*, 2011) *provide* a *rigorous* *framework* for the *paradoxes*, and the *fixed*-*point* *theories* (Kripke; the *contemporary* *literature*) *connect* the *semantics* to the *recursion* *theory*. The *field* is *technical* and *rich*, and it *connects* the *philosophy* of *truth* to the *mathematical* *logic* (Ch. 43, §7).
+
+**2. The *paraconsistent* *logics*.** The *paraconsistent* *logics* (LP, the *relevant* *logics*, the *adaptive* *logics*) *provide* a *formal* *framework* for the *dialetheism* (Priest, Routley), and the *framework* is *contested* (the *classical* *logic* *fails*, and the *non*-*classical* *logic* is *difficult* to *motivate*). The *field* is *technical* and *central* to the *paradox* *debate*.
+
+**3. The *conceptual* *engineering* *and* *AI*.** The *AI* *systems* *classify* *people* (the *facial* *recognition*, the *risk* *assessment*), and the *classifications* *encode* *concepts* (the *race*, the *gender*, the *criminality*), and the *concepts* are *contestable* (the *algorithmic* *bias* *literature*; Ch. 51, §3). The *conceptual* *engineering* is *urgent* for the *AI* *ethics*, and the *connection* is *beginning* to be *explored*.
+
+**4. Non-Western *theories* of *paradox*.** The *Buddhist* *tradition* *developed* the *tetralemma* (the *catuṣkoṭi*: $p$, $\neg p$, $p \wedge \neg p$, $\neg p \wedge \neg\neg p$), and the *tetralemma* *anticipates* the *dialetheism* and the *paraconsistent* *logic*. The *Madhyamaka* *tradition* (Nāgārjuna) *developed* a *radical* *critique* of *all* *views* (the *śūnyatā*), and the *critique* *anticipates* the *quietist* *response* to the *paradoxes*. The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *ethics* of *vagueness*.** The *vagueness* has *ethical* *consequences* (the *borderline* *cases* of *life*, *death*, *personhood*, *consent*), and the *ethics* of *vagueness* is *underdeveloped* (the *contemporary* *literature*; Ch. 51). The *connection* is *beginning* to be *explored*, and it is *urgent*.
 
 ---
 

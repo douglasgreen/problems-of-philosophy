@@ -771,18 +771,19 @@ The *chapter* — and *Part II* — *ends* with a *hinge*. The *hinge* is the *r
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 13</b> (advanced / cross-cutting)</summary>
->
-> **1. The *meta-*criterion* *problem*.** The *criterion* *problem* *has* a *meta-*version: how do we *choose* *among* the *responses* (methodism, particularism, equilibrium)? The *choice* *presupposes* a *criterion*, and the *criterion* *presupposes* the *choice*. The *regress* *is* *the* *problem*, and it is *the* *most* *general* *form* of the *sceptical* *challenge*.
->
-> **2. The *Bayesian* *treatment* of *criterion* *choice*.** The *Bayesian* *framework* (Ch. 10, §4) *models* the *choice* *among* *criteria* as a *choice* *among* *priors*. The *choice* is *not* *justified* by the *evidence* (the *priors* *precede* the *evidence*), and the *framework* *relocates* the *problem* to the *priors*. The *relocation* is the *Bayesian* *form* of the *criterion* *problem*.
->
-> **3. The *pragmatist* *response*.** The *pragmatist* *tradition* (Peirce, Dewey, James) *treats* the *criterion* as an *instrument* *justified* by its *practical* *success*. The *criterion* is *not* *true* or *false*; it is *useful* or *not*. The *response* *avoids* the *criterion* *problem* by *changing* the *question*, and the *change* is *contested* (Ch. 32, §4).
->
-> **4. Non-Western *responses*.** The *Nyāya* *tradition* *developed* a *particularist* *response* (the *svataḥ* *prāmāṇya* *theory*: cognition is *self-validating* by *default*), and the *Buddhist* *tradition* *developed* a *therapeutic* *response* (the *Madhyamaka* *critique* of *all* *views*, including *its* *own*). The *two* *responses* *anticipate* the *contemporary* *debate* (Matilal 1986; Ganeri 2001; the *essays* in *Moonshadows*, 2011).
->
-> **5. The *ethics* of *the* *criterion*.** The *choice* of *criterion* is *not* *purely* *epistemic*; it is *also* *ethical* and *political*. The *criterion* *determines* *whose* *testimony* is *believed*, *whose* *evidence* is *admitted*, and *whose* *knowledge* is *recognized* (Ch. 11, §4). The *ethics* of the *criterion* is the *most* *underdeveloped* *area* of *epistemology*, and it is the *most* *urgent*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *meta-*criterion* *problem*.** The *criterion* *problem* *has* a *meta-*version: how do we *choose* *among* the *responses* (methodism, particularism, equilibrium)? The *choice* *presupposes* a *criterion*, and the *criterion* *presupposes* the *choice*. The *regress* *is* *the* *problem*, and it is *the* *most* *general* *form* of the *sceptical* *challenge*.
+
+**2. The *Bayesian* *treatment* of *criterion* *choice*.** The *Bayesian* *framework* (Ch. 10, §4) *models* the *choice* *among* *criteria* as a *choice* *among* *priors*. The *choice* is *not* *justified* by the *evidence* (the *priors* *precede* the *evidence*), and the *framework* *relocates* the *problem* to the *priors*. The *relocation* is the *Bayesian* *form* of the *criterion* *problem*.
+
+**3. The *pragmatist* *response*.** The *pragmatist* *tradition* (Peirce, Dewey, James) *treats* the *criterion* as an *instrument* *justified* by its *practical* *success*. The *criterion* is *not* *true* or *false*; it is *useful* or *not*. The *response* *avoids* the *criterion* *problem* by *changing* the *question*, and the *change* is *contested* (Ch. 32, §4).
+
+**4. Non-Western *responses*.** The *Nyāya* *tradition* *developed* a *particularist* *response* (the *svataḥ* *prāmāṇya* *theory*: cognition is *self-validating* by *default*), and the *Buddhist* *tradition* *developed* a *therapeutic* *response* (the *Madhyamaka* *critique* of *all* *views*, including *its* *own*). The *two* *responses* *anticipate* the *contemporary* *debate* (Matilal 1986; Ganeri 2001; the *essays* in *Moonshadows*, 2011).
+
+**5. The *ethics* of *the* *criterion*.** The *choice* of *criterion* is *not* *purely* *epistemic*; it is *also* *ethical* and *political*. The *criterion* *determines* *whose* *testimony* is *believed*, *whose* *evidence* is *admitted*, and *whose* *knowledge* is *recognized* (Ch. 11, §4). The *ethics* of the *criterion* is the *most* *underdeveloped* *area* of *epistemology*, and it is the *most* *urgent*.
 
 ---
 

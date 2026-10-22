@@ -853,18 +853,19 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 11</b> (advanced / cross-cutting)</summary>
->
-> **1. The *Bayesian* *model* of *testimony*.** The *Bayesian* *framework* (Ch. 10, §4) *models* the *hearer*’s *credence* as a *function* of the *speaker’s* *credibility*. The *models* (Bovens & Hartmann 2003) *are* *formal* and *precise*, but they *idealize* the *hearer’s* *knowledge* of the *speaker’s* *reliability*, which is *usually* *unavailable*.
->
-> **2. The *epistemology* of *hearsay*.** The *legal* *treatment* of *hearsay* is a *case* *study* in the *epistemology* of *testimony*: the *rules* *exclude* *hearsay* *because* the *speaker* *cannot* be *cross-examined*, and the *exclusion* *encodes* a *theory* of *testimonial* *reliability*. The *theory* is *contested* (Allen 1992; the *debate* in *legal* *epistemology*).
->
-> **3. Non-Western *epistemologies* of *testimony*.** The *Indian* *pramāṇa* *tradition* *treats* *śabda* (testimony) as a *distinct* *source* of *knowledge*, with *its* *own* *validity* *conditions*. The *debate* between the *Nyāya* *realists* and the *Buddhist* *nominalists* is a *version* of the *reductionism/anti-reductionism* *debate* (Matilal 1986; Ganeri 2001). The *African* *communalist* *epistemology* (Wiredu 1996; Oyowe 2013) *treats* *knowledge* as *social* *by* *nature*, and the *treatment* is a *systematic* *alternative* to the *individualist* *tradition*.
->
-> **4. The *epistemology* of *silence*.** The *silence* is *not* *merely* the *absence* of *testimony*; it is a *form* of *communication* (and of *power*). The *silence* of the *oppressed* (Dotson 2011) and the *silence* of the *archive* (Trouillot 1995) are *epistemic* *phenomena* with *distinct* *structures*.
->
-> **5. The *epistemology* of *AI* *testimony*.** If an *AI* *system* *produces* *testimony*, is it *testimony* *in* the *ordinary* *sense*? The *question* is *connected* to the *analysis* of *knowledge* (Ch. 7) and to the *nature* of *assertion* (Ch. 34). The *AI* *system* *does* not *have* *beliefs* (on *most* *views*), so the *knowledge* *norm* of *assertion* (Ch. 7, §4.2) *cannot* *apply*; and the *absence* of *the* *norm* *changes* the *epistemic* *status* of the *output*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *Bayesian* *model* of *testimony*.** The *Bayesian* *framework* (Ch. 10, §4) *models* the *hearer*’s *credence* as a *function* of the *speaker’s* *credibility*. The *models* (Bovens & Hartmann 2003) *are* *formal* and *precise*, but they *idealize* the *hearer’s* *knowledge* of the *speaker’s* *reliability*, which is *usually* *unavailable*.
+
+**2. The *epistemology* of *hearsay*.** The *legal* *treatment* of *hearsay* is a *case* *study* in the *epistemology* of *testimony*: the *rules* *exclude* *hearsay* *because* the *speaker* *cannot* be *cross-examined*, and the *exclusion* *encodes* a *theory* of *testimonial* *reliability*. The *theory* is *contested* (Allen 1992; the *debate* in *legal* *epistemology*).
+
+**3. Non-Western *epistemologies* of *testimony*.** The *Indian* *pramāṇa* *tradition* *treats* *śabda* (testimony) as a *distinct* *source* of *knowledge*, with *its* *own* *validity* *conditions*. The *debate* between the *Nyāya* *realists* and the *Buddhist* *nominalists* is a *version* of the *reductionism/anti-reductionism* *debate* (Matilal 1986; Ganeri 2001). The *African* *communalist* *epistemology* (Wiredu 1996; Oyowe 2013) *treats* *knowledge* as *social* *by* *nature*, and the *treatment* is a *systematic* *alternative* to the *individualist* *tradition*.
+
+**4. The *epistemology* of *silence*.** The *silence* is *not* *merely* the *absence* of *testimony*; it is a *form* of *communication* (and of *power*). The *silence* of the *oppressed* (Dotson 2011) and the *silence* of the *archive* (Trouillot 1995) are *epistemic* *phenomena* with *distinct* *structures*.
+
+**5. The *epistemology* of *AI* *testimony*.** If an *AI* *system* *produces* *testimony*, is it *testimony* *in* the *ordinary* *sense*? The *question* is *connected* to the *analysis* of *knowledge* (Ch. 7) and to the *nature* of *assertion* (Ch. 34). The *AI* *system* *does* not *have* *beliefs* (on *most* *views*), so the *knowledge* *norm* of *assertion* (Ch. 7, §4.2) *cannot* *apply*; and the *absence* of *the* *norm* *changes* the *epistemic* *status* of the *output*.
 
 ---
 

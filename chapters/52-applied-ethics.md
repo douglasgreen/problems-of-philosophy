@@ -1550,20 +1550,21 @@ The *next* *chapter* returns to the *meta*-*question* — the *limits* of the *p
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 51</b> (advanced / cross-cutting)</summary>
->
-> **1. The *clinical* *ethics* *consultation*.** The *practice* of the *ethics* *committee* (the *no* *mere* *theory*), the *moral* *case* *deliberation*, the *method* of the *specification* (§1.4), the *no* *mere* *expertise* — the *clinical* *ethics* is the *laboratory* of the *applied* *method*, and it *connects* the *ethics* to the *institutions* (Ch. 47, §6) and to the *epistemology* of the *testimony* (Ch. 11).
->
-> **2. The *effective* *altruism* *movement*.** The *evidence*-*based* *giving*, the *cause* *prioritization*, the *longtermism* (§8.4), the *earn*-*to*-*give* *debate*, the *critique* (the *structural* *injustice*, the *no* *mere* *individual* *charity*) — the *movement* *raises* the *question* of the *scale* and the *method*, and it *connects* the *applied* *ethics* to the *well*-*being* (Ch. 48) and to the *political* *economy* (Ch. 47, §3).
->
-> **3. The *disability* *ethics*.** The *ableism* *critique* (the *no* *mere* *medical* *model*), the *social* *model* of *disability*, the *quality*-*adjusted* *life* *year* (the *QALY* *controversy*), the *prenatal* *testing* and the *selection*, the *enhancement* (§2.4) — the *tradition* *challenges* the *bioethics* *from* the *standpoint* of the *disabled*, and it *connects* the *applied* *ethics* to the *justice* (Ch. 47, §5) and to the *identity* (Ch. 26).
->
-> **4. The *climate* *ethics* and the *civil* *disobedience*.** The *climate* *activism* (the *Extinction* *Rebellion*, the *no* *mere* *reform*), the *justification* of the *illegal* *protest*, the *democratic* *legitimacy* (the *no* *mere* *consent*), the *emergency* *politics* — the *question* *connects* the *environmental* *ethics* (§6) to the *political* *theory* (Ch. 47, §6) and to the *disobedience* *literature*.
->
-> **5. The *non*-*Western* *applied* *ethics*.** The *Buddhist* *bioethics* (the *no* *self*, the *compassion*, the *no* *mere* *autonomy*), the *Confucian* *role* *ethics* (the *family*, the *li*, the *no* *mere* *individual* *consent*), the *Ubuntu* *relational* *ethics* (the *community*, the *no* *mere* *atomism*), the *Indian* *dharma* (the *duty*, the *karma*, the *no* *mere* *rights*) — the *traditions* *offer* the *systematic* *alternatives* to the *Western* *principlism*, and they *challenge* the *individualist* *ontology* of the *consent*, the *autonomy*, and the *rights*.
->
-> **6. The *future* of the *applied* *ethics*.** The *neuroethics* (the *cognitive* *enhancement*, the *brain* *privacy*, the *no* *mere* *mental* *integrity*), the *space* *ethics* (the *planetary* *protection*, the *resource* *extraction*, the *no* *mere* *territory*), the *synthetic* *biology* (the *biosecurity*, the *dual* *use*, the *no* *mere* *benefit*), the *digital* *afterlife* (the *grief* *tech*, the *no* *mere* *consent*) — the *emerging* *technologies* *raise* the *new* *cases*, and they *test* the *method* (§1) and the *risk* (§8), and the *debate* is *urgent*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *clinical* *ethics* *consultation*.** The *practice* of the *ethics* *committee* (the *no* *mere* *theory*), the *moral* *case* *deliberation*, the *method* of the *specification* (§1.4), the *no* *mere* *expertise* — the *clinical* *ethics* is the *laboratory* of the *applied* *method*, and it *connects* the *ethics* to the *institutions* (Ch. 47, §6) and to the *epistemology* of the *testimony* (Ch. 11).
+
+**2. The *effective* *altruism* *movement*.** The *evidence*-*based* *giving*, the *cause* *prioritization*, the *longtermism* (§8.4), the *earn*-*to*-*give* *debate*, the *critique* (the *structural* *injustice*, the *no* *mere* *individual* *charity*) — the *movement* *raises* the *question* of the *scale* and the *method*, and it *connects* the *applied* *ethics* to the *well*-*being* (Ch. 48) and to the *political* *economy* (Ch. 47, §3).
+
+**3. The *disability* *ethics*.** The *ableism* *critique* (the *no* *mere* *medical* *model*), the *social* *model* of *disability*, the *quality*-*adjusted* *life* *year* (the *QALY* *controversy*), the *prenatal* *testing* and the *selection*, the *enhancement* (§2.4) — the *tradition* *challenges* the *bioethics* *from* the *standpoint* of the *disabled*, and it *connects* the *applied* *ethics* to the *justice* (Ch. 47, §5) and to the *identity* (Ch. 26).
+
+**4. The *climate* *ethics* and the *civil* *disobedience*.** The *climate* *activism* (the *Extinction* *Rebellion*, the *no* *mere* *reform*), the *justification* of the *illegal* *protest*, the *democratic* *legitimacy* (the *no* *mere* *consent*), the *emergency* *politics* — the *question* *connects* the *environmental* *ethics* (§6) to the *political* *theory* (Ch. 47, §6) and to the *disobedience* *literature*.
+
+**5. The *non*-*Western* *applied* *ethics*.** The *Buddhist* *bioethics* (the *no* *self*, the *compassion*, the *no* *mere* *autonomy*), the *Confucian* *role* *ethics* (the *family*, the *li*, the *no* *mere* *individual* *consent*), the *Ubuntu* *relational* *ethics* (the *community*, the *no* *mere* *atomism*), the *Indian* *dharma* (the *duty*, the *karma*, the *no* *mere* *rights*) — the *traditions* *offer* the *systematic* *alternatives* to the *Western* *principlism*, and they *challenge* the *individualist* *ontology* of the *consent*, the *autonomy*, and the *rights*.
+
+**6. The *future* of the *applied* *ethics*.** The *neuroethics* (the *cognitive* *enhancement*, the *brain* *privacy*, the *no* *mere* *mental* *integrity*), the *space* *ethics* (the *planetary* *protection*, the *resource* *extraction*, the *no* *mere* *territory*), the *synthetic* *biology* (the *biosecurity*, the *dual* *use*, the *no* *mere* *benefit*), the *digital* *afterlife* (the *grief* *tech*, the *no* *mere* *consent*) — the *emerging* *technologies* *raise* the *new* *cases*, and they *test* the *method* (§1) and the *risk* (§8), and the *debate* is *urgent*.
 
 ---
 

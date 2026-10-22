@@ -561,18 +561,19 @@ The rediscovery is not a consensus, and it is not a single theory. But it is a s
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 5</b> (advanced / cross-cutting)</summary>
->
-> **1. The “hard problem” of perception.** The representationalist says that phenomenal character is exhausted by content. But *why* does content feel like anything? This is the hard problem of consciousness (Ch. 24, §2) applied to perception. The “transparency” argument gets us to content; it does not get us to *experience*. The gap is the same gap, and it is not closed by any of the theories surveyed here.
->
-> **2. Non-conceptual content.** Does perception represent more than we can conceptualise? The “rich content” view (Dretske, Tye) says yes; the “sparse content” view (McDowell, Brewer) says no. The debate bears on the epistemic role of perception (Ch. 8, §2) and on the theory of mental content (Ch. 25, §5).
->
-> **3. Iconic versus discursive representation.** Is perceptual content structured like a picture (iconic) or like a sentence (discursive)? The “iconic” view (Fodor, Carey) and the “discursive” view (Pylyshyn, Quine) have different implications for the *format* of perceptual representation. This is a technical debate with large philosophical stakes.
->
-> **4. Non-Western theories of perception.** The Buddhist *pramāṇa* tradition (Dignāga, Dharmakīrti) developed a sophisticated theory of perception (*pratyakṣa*) as non-conceptual, particular, and pre-linguistic — a theory that anticipates many of the contemporary debates. The Nyāya school defended a realist view of perception as contact with an external object, and the Advaita Vedānta tradition developed a theory of perceptual error (*anirvacanīya-khyāti*) in which the unreal is presented in an indecipherable way — a striking parallel to, though not an identity with, the eliminative and projectivist treatments of colour discussed in §7.3. These are not ornaments; they are systematic alternatives, and they deserve to be treated as such (see the optional threads in Part IV, Ch. 24, for the connection to consciousness).
->
-> **5. Predictive processing and the free energy principle.** Friston’s “free energy principle” is a mathematical framework for self-organising systems, and its philosophical interpretation is contested. Is it a theory of *perception*, of *life*, or of *everything*? The “instrumentalist” reading (Hohwy) and the “enactivist” reading (Clark, Seth) give different answers, and the difference matters for the metaphysics of mind.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The “hard problem” of perception.** The representationalist says that phenomenal character is exhausted by content. But *why* does content feel like anything? This is the hard problem of consciousness (Ch. 24, §2) applied to perception. The “transparency” argument gets us to content; it does not get us to *experience*. The gap is the same gap, and it is not closed by any of the theories surveyed here.
+
+**2. Non-conceptual content.** Does perception represent more than we can conceptualise? The “rich content” view (Dretske, Tye) says yes; the “sparse content” view (McDowell, Brewer) says no. The debate bears on the epistemic role of perception (Ch. 8, §2) and on the theory of mental content (Ch. 25, §5).
+
+**3. Iconic versus discursive representation.** Is perceptual content structured like a picture (iconic) or like a sentence (discursive)? The “iconic” view (Fodor, Carey) and the “discursive” view (Pylyshyn, Quine) have different implications for the *format* of perceptual representation. This is a technical debate with large philosophical stakes.
+
+**4. Non-Western theories of perception.** The Buddhist *pramāṇa* tradition (Dignāga, Dharmakīrti) developed a sophisticated theory of perception (*pratyakṣa*) as non-conceptual, particular, and pre-linguistic — a theory that anticipates many of the contemporary debates. The Nyāya school defended a realist view of perception as contact with an external object, and the Advaita Vedānta tradition developed a theory of perceptual error (*anirvacanīya-khyāti*) in which the unreal is presented in an indecipherable way — a striking parallel to, though not an identity with, the eliminative and projectivist treatments of colour discussed in §7.3. These are not ornaments; they are systematic alternatives, and they deserve to be treated as such (see the optional threads in Part IV, Ch. 24, for the connection to consciousness).
+
+**5. Predictive processing and the free energy principle.** Friston’s “free energy principle” is a mathematical framework for self-organising systems, and its philosophical interpretation is contested. Is it a theory of *perception*, of *life*, or of *everything*? The “instrumentalist” reading (Hohwy) and the “enactivist” reading (Clark, Seth) give different answers, and the difference matters for the metaphysics of mind.
 
 ---
 

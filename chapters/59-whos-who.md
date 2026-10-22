@@ -603,19 +603,16 @@ Three warnings, in descending order of importance.
 
 ## D.14 — Ten Names Not to Confuse
 
-> <details><summary><b>Expand: the pairs</b></summary>
->
-> 1. **Zeno of Elea** (c. 490–430 BCE), the paradoxes of motion — vs. **Zeno of Citium** (c. 334–262 BCE), the founder of Stoicism. (*Ch. 17, 45*)
-> 2. **Ernest Nagel** (1901–1985), philosopher of science, "The Structure of Science" — vs. **Thomas Nagel** (1937–), "What Is It Like to Be a Bat?" (*Ch. 24, 40*)
-> 3. **C. I. Lewis** (1883–1964), modal logic and the given — vs. **David Lewis** (1941–2001), modal realism and counterfactuals. (*Ch. 12, 16*)
-> 4. **James Mill** (1773–1836), associationist psychology — vs. **John Stuart Mill** (1806–1873), his son, utilitarianism and liberty. (*Ch. 45, 47*)
-> 5. **P. F. Strawson** (1919–2006), descriptive metaphysics and reactive attitudes — vs. **Galen Strawson** (1952–), his son, the basic argument against free will and panpsychism. (*Ch. 27, 19*) Note that the son's *no-free-will* conclusion is not the father's compatibilism.
-> 6. **J. L. Austin** (1911–1960), speech acts and *Sense and Sensibilia* — vs. **John Austin** (1790–1859), the legal positivist. (*Ch. 5, 34, 47*)
-> 7. **Adam Smith** (1723–1790), the moral sentiments and political economy — vs. **Michael Smith** (1954–), metaethics and the moral problem. (*Ch. 44, 46*)
-> 8. **Richard Price** (1723–1791), rationalist moral realism — vs. **Huw Price** (1953–), pragmatism and the philosophy of time and causation. (*Ch. 32, 44*)
-> 9. **William James** (1842–1910), pragmatism and psychology — vs. **Henry James** (1843–1916), his brother, the novelist. Aesthetics chapters cite the first; literary sources cite the second. (*Ch. 32, 49*)
-> 10. **Roger Bacon** (c. 1219–1292), the scholastic experimentalist — vs. **Francis Bacon** (1561–1626), the four Idols and the new induction. (*Ch. 3, 10*)
-> </details>
+1. **Zeno of Elea** (c. 490–430 BCE), the paradoxes of motion — vs. **Zeno of Citium** (c. 334–262 BCE), the founder of Stoicism. (*Ch. 17, 45*)
+2. **Ernest Nagel** (1901–1985), philosopher of science, "The Structure of Science" — vs. **Thomas Nagel** (1937–), "What Is It Like to Be a Bat?" (*Ch. 24, 40*)
+3. **C. I. Lewis** (1883–1964), modal logic and the given — vs. **David Lewis** (1941–2001), modal realism and counterfactuals. (*Ch. 12, 16*)
+4. **James Mill** (1773–1836), associationist psychology — vs. **John Stuart Mill** (1806–1873), his son, utilitarianism and liberty. (*Ch. 45, 47*)
+5. **P. F. Strawson** (1919–2006), descriptive metaphysics and reactive attitudes — vs. **Galen Strawson** (1952–), his son, the basic argument against free will and panpsychism. (*Ch. 27, 19*) Note that the son's *no-free-will* conclusion is not the father's compatibilism.
+6. **J. L. Austin** (1911–1960), speech acts and *Sense and Sensibilia* — vs. **John Austin** (1790–1859), the legal positivist. (*Ch. 5, 34, 47*)
+7. **Adam Smith** (1723–1790), the moral sentiments and political economy — vs. **Michael Smith** (1954–), metaethics and the moral problem. (*Ch. 44, 46*)
+8. **Richard Price** (1723–1791), rationalist moral realism — vs. **Huw Price** (1953–), pragmatism and the philosophy of time and causation. (*Ch. 32, 44*)
+9. **William James** (1842–1910), pragmatism and psychology — vs. **Henry James** (1843–1916), his brother, the novelist. Aesthetics chapters cite the first; literary sources cite the second. (*Ch. 32, 49*)
+10. **Roger Bacon** (c. 1219–1292), the scholastic experimentalist — vs. **Francis Bacon** (1561–1626), the four Idols and the new induction. (*Ch. 3, 10*)
 
 ---
 

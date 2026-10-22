@@ -914,21 +914,18 @@
 
 ## Appendix B.1 — The Ten Confusions Most Worth Memorizing
 
-A collapsible summary for revision. Each entry names a pair that experienced teachers see confused more than any other.
+A summary for revision. Each entry names a pair that experienced teachers see confused more than any other.
 
-> <details><summary><b>Expand: the ten confusions</b></summary>
->
-> 1. **Validity vs. truth** — an argument can be valid with false premises; a true statement is not an argument at all. (*Ch. 2, 35*)
-> 2. **Bivalence vs. excluded middle** — one is about truth-values, the other a logical schema. (*Ch. 35*)
-> 3. **Determinism vs. fatalism** — the first implicates causes, the second denies the efficacy of action. (*Ch. 27*)
-> 4. **Metaethics vs. normative ethics** — the metaethical anti-realist is not thereby recommending wickedness. (*Ch. 44*)
-> 5. **Naturalistic fallacy vs. is/ought gap** — Moore's argument and Hume's are distinct, and Moore's is the stronger. (*Ch. 44*)
-> 6. **Phenomenalism vs. phenomenology** — a reductionist metaphysics of objects vs. a descriptive method of experience. (*Ch. 5, 20*)
-> 7. **Libertarianism (metaphysical) vs. libertarianism (political)** — shared word, unshared content. (*Ch. 27, 47*)
-> 8. **Realism (four senses)** — metaphysical, scientific, moral, semantic: arguing for one does not establish another. (*Ch. 22*)
-> 9. **Explanatory vs. normative "reason"** — the cause of an action and the justification of it. (*Ch. 28*)
-> 10. **Simulation theory vs. simulation hypothesis; intentionalism in perception vs. in criticism** — pairs that share a name and nothing else. (*Ch. 5, 6, 29*)
-> </details>
+1. **Validity vs. truth** — an argument can be valid with false premises; a true statement is not an argument at all. (*Ch. 2, 35*)
+2. **Bivalence vs. excluded middle** — one is about truth-values, the other a logical schema. (*Ch. 35*)
+3. **Determinism vs. fatalism** — the first implicates causes, the second denies the efficacy of action. (*Ch. 27*)
+4. **Metaethics vs. normative ethics** — the metaethical anti-realist is not thereby recommending wickedness. (*Ch. 44*)
+5. **Naturalistic fallacy vs. is/ought gap** — Moore's argument and Hume's are distinct, and Moore's is the stronger. (*Ch. 44*)
+6. **Phenomenalism vs. phenomenology** — a reductionist metaphysics of objects vs. a descriptive method of experience. (*Ch. 5, 20*)
+7. **Libertarianism (metaphysical) vs. libertarianism (political)** — shared word, unshared content. (*Ch. 27, 47*)
+8. **Realism (four senses)** — metaphysical, scientific, moral, semantic: arguing for one does not establish another. (*Ch. 22*)
+9. **Explanatory vs. normative "reason"** — the cause of an action and the justification of it. (*Ch. 28*)
+10. **Simulation theory vs. simulation hypothesis; intentionalism in perception vs. in criticism** — pairs that share a name and nothing else. (*Ch. 5, 6, 29*)
 
 ## Appendix B.2 — Note on Scope and Choices
 
@@ -942,6 +939,6 @@ Three editorial decisions are worth flagging.
 
 ---
 
-*Entries in this appendix: over 400, cross-referenced to the fifty-four chapters and to the optional threads. Terms marked with a chapter and the word "thread" appear in the collapsible optional-thread boxes rather than the main text.*
+*Entries in this appendix: over 400, cross-referenced to the fifty-four chapters and to the optional threads. Terms marked with a chapter and the word "thread" appear in that chapter's optional-thread section rather than in its main text.*
 
 *See also: **Appendix A** for the formal notation used in the logic and probability entries; **Appendix C** for fifteen of these arguments reconstructed in full; **Appendix D** for the thinkers named throughout; **Appendix E** for exercises that use this vocabulary in analysis.*

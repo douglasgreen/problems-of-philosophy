@@ -739,18 +739,19 @@ The table is a map, not a verdict. The reader who wants to choose a position mus
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 36</b> (advanced / cross-cutting)</summary>
->
-> **1. The *logocentric* *predicament*.** Sheffer (“The Logocentric Predicament,” 1935) *observed* that any *account* of logic *must* use logic, and the *observation* is the *criterion* *problem* (Ch. 13, §1) *applied* to the *logic*. The *predicament* is the *deepest* *methodological* *problem* in the *philosophy* of logic, and it is *the* *reason* the *conventionalism* and the *abductivism* *struggle*.
->
-> **2. The *anti*-*exceptionalism* *and* the *scientific* *method*.** The *anti*-*exceptionalism* (Hjortland 2017; Priest 1987, Ch. 12) *treats* the *logic* as a *theory* *chosen* by the *same* *criteria* as the *scientific* *theories*, and the *view* *connects* the *philosophy* of *logic* to the *philosophy* of *science* (Ch. 40). The *connection* is *promising* and *contested*.
->
-> **3. The *normativity* of logic *and* the *epistemology*.** The *normativity* *debate* (Harman, Field, MacFarlane) *connects* the *logic* to the *epistemology* of *belief* (Ch. 7–8) and to the *Bayesian* *framework* (Ch. 10, §4). The *connection* is *underdeveloped*, and it is *central* to the *philosophy* of *reasoning*.
->
-> **4. Non-Western *logic* and *epistemology*.** The *Nyāya* *theory* of *inference* (*anumāna*, the *five*-*membered* *syllogism*, the *vyāpti*) is a *sophisticated* *alternative* to the *Aristotelian* *syllogistic*, and the *Buddhist* *logico*-*epistemological* *school* (Dignāga, Dharmakīrti) developed a *nominalist* *theory* of *meaning* (the *apoha*) and a *sophisticated* *theory* of *perception* and *inference*. The *traditions* are *systematic* *alternatives* (Matilal 1986, 1998; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *a* *priori* and *artificial* *intelligence*.** The *AI* *systems* *implement* the *logical* *inferences* (the *theorem* *provers*, the *SAT* *solvers*), and the *question* of *whether* the *systems* *know* the *logical* *laws* (the *a* *priori*, the *competence*) is *new* and *urgent* (Ch. 29, §3; Ch. 51, §3). The *connection* is *beginning* to be *explored*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *logocentric* *predicament*.** Sheffer (“The Logocentric Predicament,” 1935) *observed* that any *account* of logic *must* use logic, and the *observation* is the *criterion* *problem* (Ch. 13, §1) *applied* to the *logic*. The *predicament* is the *deepest* *methodological* *problem* in the *philosophy* of logic, and it is *the* *reason* the *conventionalism* and the *abductivism* *struggle*.
+
+**2. The *anti*-*exceptionalism* *and* the *scientific* *method*.** The *anti*-*exceptionalism* (Hjortland 2017; Priest 1987, Ch. 12) *treats* the *logic* as a *theory* *chosen* by the *same* *criteria* as the *scientific* *theories*, and the *view* *connects* the *philosophy* of *logic* to the *philosophy* of *science* (Ch. 40). The *connection* is *promising* and *contested*.
+
+**3. The *normativity* of logic *and* the *epistemology*.** The *normativity* *debate* (Harman, Field, MacFarlane) *connects* the *logic* to the *epistemology* of *belief* (Ch. 7–8) and to the *Bayesian* *framework* (Ch. 10, §4). The *connection* is *underdeveloped*, and it is *central* to the *philosophy* of *reasoning*.
+
+**4. Non-Western *logic* and *epistemology*.** The *Nyāya* *theory* of *inference* (*anumāna*, the *five*-*membered* *syllogism*, the *vyāpti*) is a *sophisticated* *alternative* to the *Aristotelian* *syllogistic*, and the *Buddhist* *logico*-*epistemological* *school* (Dignāga, Dharmakīrti) developed a *nominalist* *theory* of *meaning* (the *apoha*) and a *sophisticated* *theory* of *perception* and *inference*. The *traditions* are *systematic* *alternatives* (Matilal 1986, 1998; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *a* *priori* and *artificial* *intelligence*.** The *AI* *systems* *implement* the *logical* *inferences* (the *theorem* *provers*, the *SAT* *solvers*), and the *question* of *whether* the *systems* *know* the *logical* *laws* (the *a* *priori*, the *competence*) is *new* and *urgent* (Ch. 29, §3; Ch. 51, §3). The *connection* is *beginning* to be *explored*.
 
 ---
 

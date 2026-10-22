@@ -808,18 +808,19 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 32</b> (advanced / cross-cutting)</summary>
->
-> **1. The *formal* *theories* of *truth*.** The *Tarskian* *account* (Tarski 1933, 1944) *defines* *truth* *for* a *formal* *language*, and the *definition* *faces* the *liar* *paradox* (Ch. 33, §1) and the *limitative* *theorems* (the *undefinability* of *arithmetic* *truth* in *arithmetic*). The *contemporary* *literature* (the *axiomatic* *theories* of *truth*, the *fixed*-*point* *theories*) is *technical* and *rich*, and it *connects* the *philosophy* of *truth* to the *mathematical* *logic*.
->
-> **2. The *truth*-*norm* *debate*.** The *norm* of *assertion* (the *truth*-*norm*; Williamson 2000, Ch. 11; Ch. 7, §4.2) is *contested* (the *knowledge*-*norm*, the *justification*-*norm*, the *reasonable*-*norm*). The *debate* *connects* the *theory* of *truth* to the *theory* of *assertion* (Ch. 34) and to the *theory* of *knowledge* (Ch. 7).
->
-> **3. The *truth* *and* *the* *sciences*.** The *scientific* *realism* *debate* (Ch. 40, §5) *presupposes* a *theory* of *truth* (the *approximate* *truth*, the *structural* *truth*), and the *theory* is *contested*. The *connection* is *underdeveloped*, and it is *central* to the *philosophy* of *science*.
->
-> **4. Non-Western *theories* of *truth*.** The *Buddhist* *tradition* *developed* the *two*-*truths* *theory* (the *conventional* *truth* and the *ultimate* *truth*; the *saṃvṛti*/*paramārtha* *distinction*), and the *theory* *anticipates* the *alethic* *pluralism*. The *Nyāya* *tradition* *defended* a *correspondence* *theory* (*pramā* as the *correspondence* to the *object*). The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *ethics* of *truth*.** The *truth* is *valuable* not *only* *epistemically* but *ethically* (the *truthfulness*, the *honesty*, the *trust*), and the *ethics* of *truth* is *central* to the *political* *epistemology* (Ch. 11, §6) and to the *ethics* of *belief* (Ch. 4, §4.5). The *connection* is *underdeveloped*, and it is *urgent*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *formal* *theories* of *truth*.** The *Tarskian* *account* (Tarski 1933, 1944) *defines* *truth* *for* a *formal* *language*, and the *definition* *faces* the *liar* *paradox* (Ch. 33, §1) and the *limitative* *theorems* (the *undefinability* of *arithmetic* *truth* in *arithmetic*). The *contemporary* *literature* (the *axiomatic* *theories* of *truth*, the *fixed*-*point* *theories*) is *technical* and *rich*, and it *connects* the *philosophy* of *truth* to the *mathematical* *logic*.
+
+**2. The *truth*-*norm* *debate*.** The *norm* of *assertion* (the *truth*-*norm*; Williamson 2000, Ch. 11; Ch. 7, §4.2) is *contested* (the *knowledge*-*norm*, the *justification*-*norm*, the *reasonable*-*norm*). The *debate* *connects* the *theory* of *truth* to the *theory* of *assertion* (Ch. 34) and to the *theory* of *knowledge* (Ch. 7).
+
+**3. The *truth* *and* *the* *sciences*.** The *scientific* *realism* *debate* (Ch. 40, §5) *presupposes* a *theory* of *truth* (the *approximate* *truth*, the *structural* *truth*), and the *theory* is *contested*. The *connection* is *underdeveloped*, and it is *central* to the *philosophy* of *science*.
+
+**4. Non-Western *theories* of *truth*.** The *Buddhist* *tradition* *developed* the *two*-*truths* *theory* (the *conventional* *truth* and the *ultimate* *truth*; the *saṃvṛti*/*paramārtha* *distinction*), and the *theory* *anticipates* the *alethic* *pluralism*. The *Nyāya* *tradition* *defended* a *correspondence* *theory* (*pramā* as the *correspondence* to the *object*). The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *ethics* of *truth*.** The *truth* is *valuable* not *only* *epistemically* but *ethically* (the *truthfulness*, the *honesty*, the *trust*), and the *ethics* of *truth* is *central* to the *political* *epistemology* (Ch. 11, §6) and to the *ethics* of *belief* (Ch. 4, §4.5). The *connection* is *underdeveloped*, and it is *urgent*.
 
 ---
 

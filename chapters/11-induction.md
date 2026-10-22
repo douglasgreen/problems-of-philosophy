@@ -750,18 +750,19 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 10</b> (advanced / cross-cutting)</summary>
->
-> **1. The *pessimistic* *meta-induction*.** The *history* of *science* is a *history* of *successful* *theories* that *turned out* to be *false* (Ch. 40, §5). The *pessimistic* *meta-induction* *argues* that *our* *current* *theories* are *probably* *false* *too*. The *argument* is a *form* of *induction* applied to *science* *itself*, and it is the *strongest* *challenge* to *scientific* *realism*.
->
-> **2. The *problem* of *old* *evidence*.** The *Bayesian* *framework* *cannot* *confirm* a *hypothesis* *that* *entailed* the *evidence* *in* *advance* (Glymour 1980). The *problem* is *acute* for *scientific* *theories* that *predict* *known* *facts*, and the *solutions* (the *“no* *alternatives”* *response*, the *“historically* *situated”* *response*) are *contested*.
->
-> **3. The *problem* of *Newcomb*.** The *decision* *theory* *analogue* of *the* *problem* of *induction*: *causal* *decision* *theory* and *evidential* *decision* *theory* *give* *different* *advice* in *Newcomb’s* *problem*, and the *choice* *depends* on the *theory* of *induction* (Ch. 28, §4).
->
-> **4. Non-Western *epistemologies* of *induction*.** The *Indian* *pramāṇa* *tradition* developed a *sophisticated* *theory* of *inference* (*anumāna*), with a *five-membered* *syllogism* (*pañcāvayava*) and a *theory* of *vyāpti* (the *invariable* *concomitance*). The *debate* between the *Nyāya* *realists* and the *Buddhist* *nominalists* is a *version* of the *problem* of *induction*, and it is *worth* *studying* as a *systematic* *alternative* (Matilal 1986; Ganeri 2001).
->
-> **5. The *epistemology* of *AI*.** The *Bayesian* *framework* is the *foundation* of *machine* *learning* (the *Bayesian* *network*, the *variational* *inference*). The *philosophical* *questions* — the *justification* of the *prior*, the *interpretation* of the *posterior*, the *nature* of the *machine*’s *uncertainty* — are *the* *same* *questions* as the *classical* *ones*, and they are *newly* *urgent* (Ch. 29, §3).
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *pessimistic* *meta-induction*.** The *history* of *science* is a *history* of *successful* *theories* that *turned out* to be *false* (Ch. 40, §5). The *pessimistic* *meta-induction* *argues* that *our* *current* *theories* are *probably* *false* *too*. The *argument* is a *form* of *induction* applied to *science* *itself*, and it is the *strongest* *challenge* to *scientific* *realism*.
+
+**2. The *problem* of *old* *evidence*.** The *Bayesian* *framework* *cannot* *confirm* a *hypothesis* *that* *entailed* the *evidence* *in* *advance* (Glymour 1980). The *problem* is *acute* for *scientific* *theories* that *predict* *known* *facts*, and the *solutions* (the *“no* *alternatives”* *response*, the *“historically* *situated”* *response*) are *contested*.
+
+**3. The *problem* of *Newcomb*.** The *decision* *theory* *analogue* of *the* *problem* of *induction*: *causal* *decision* *theory* and *evidential* *decision* *theory* *give* *different* *advice* in *Newcomb’s* *problem*, and the *choice* *depends* on the *theory* of *induction* (Ch. 28, §4).
+
+**4. Non-Western *epistemologies* of *induction*.** The *Indian* *pramāṇa* *tradition* developed a *sophisticated* *theory* of *inference* (*anumāna*), with a *five-membered* *syllogism* (*pañcāvayava*) and a *theory* of *vyāpti* (the *invariable* *concomitance*). The *debate* between the *Nyāya* *realists* and the *Buddhist* *nominalists* is a *version* of the *problem* of *induction*, and it is *worth* *studying* as a *systematic* *alternative* (Matilal 1986; Ganeri 2001).
+
+**5. The *epistemology* of *AI*.** The *Bayesian* *framework* is the *foundation* of *machine* *learning* (the *Bayesian* *network*, the *variational* *inference*). The *philosophical* *questions* — the *justification* of the *prior*, the *interpretation* of the *posterior*, the *nature* of the *machine*’s *uncertainty* — are *the* *same* *questions* as the *classical* *ones*, and they are *newly* *urgent* (Ch. 29, §3).
 
 ---
 

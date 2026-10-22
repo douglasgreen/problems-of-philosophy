@@ -621,18 +621,19 @@ $$
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 23</b> (advanced / cross-cutting)</summary>
->
-> **1. The *interventionist* *solution* to the *exclusion* *problem*.** If *causation* is *intervention* (Ch. 18, §3), the *exclusion* *argument* *fails* because it *assumes* a *counterfactual* *account* of *causation*. The *interventionist* *account* *allows* *multiple* *causes* at *different* *levels* — the *mental* *intervention* *changes* the *behaviour*, and the *physical* *intervention* *changes* the *behaviour* — and the *two* *are* *compatible*. The *solution* is *promising* and *contested*.
->
-> **2. The *phenomenal* *concepts* *strategy*.** The *strategy* (Loar 1990; Papineau 2002; Chalmers 2003) *argues* that the *explanatory* *gap* is an *epistemic* *illusion*: the *phenomenal* *concepts* *refer* to the *physical* *states* *under* a *first-person* *mode* *of* *presentation*, and the *gap* is the *gap* between the *two* *modes*, not between *two* *kinds* of *state*. The *strategy* is *influential* and *contested* (Ch. 24, §4).
->
-> **3. The *predictive* *processing* *account* of the *mind*.** The *predictive* *processing* *framework* (Ch. 5, §5.2) *offers* a *unified* *account* of *perception*, *action*, and *cognition*, and it *recasts* the *mind–body* *problem* in *terms* of *prediction* *error* *minimisation*. The *account* is *influential* and *underdeveloped*, and it is *beginning* to be *applied* to *consciousness* (Seth 2021).
->
-> **4. Non-Western *theories* of the *mind–body* *relation*.** The *Buddhist* *Abhidharma* *tradition* *developed* a *radical* *process* *ontology* that *avoids* the *substance* *dualism* and the *physicalism* *of* the *Western* *tradition* (Ch. 15, §7); the *Nyāya-Vaiśeṣika* *school* *developed* a *realist* *dualism* of *self* and *body* that *anticipates* the *Cartesian* *view*; the *Advaita* *Vedānta* *school* *developed* a *radical* *monism* that *anticipates* the *idealist* *accounts*. The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *ethics* of the *mind–body* *problem*.** The *choice* of *position* has *ethical* *consequences*: the *substance* *dualist* *view* *supports* the *immortality* of the *soul* (Ch. 50, §8); the *physicalist* *view* *supports* a *naturalistic* *ethics* (Ch. 44); the *panpsychist* *view* *supports* a *different* *relation* to *nature* (Ch. 51, §6). The *ethics* of the *mind–body* *problem* is *underdeveloped*, and it is *urgent*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *interventionist* *solution* to the *exclusion* *problem*.** If *causation* is *intervention* (Ch. 18, §3), the *exclusion* *argument* *fails* because it *assumes* a *counterfactual* *account* of *causation*. The *interventionist* *account* *allows* *multiple* *causes* at *different* *levels* — the *mental* *intervention* *changes* the *behaviour*, and the *physical* *intervention* *changes* the *behaviour* — and the *two* *are* *compatible*. The *solution* is *promising* and *contested*.
+
+**2. The *phenomenal* *concepts* *strategy*.** The *strategy* (Loar 1990; Papineau 2002; Chalmers 2003) *argues* that the *explanatory* *gap* is an *epistemic* *illusion*: the *phenomenal* *concepts* *refer* to the *physical* *states* *under* a *first-person* *mode* *of* *presentation*, and the *gap* is the *gap* between the *two* *modes*, not between *two* *kinds* of *state*. The *strategy* is *influential* and *contested* (Ch. 24, §4).
+
+**3. The *predictive* *processing* *account* of the *mind*.** The *predictive* *processing* *framework* (Ch. 5, §5.2) *offers* a *unified* *account* of *perception*, *action*, and *cognition*, and it *recasts* the *mind–body* *problem* in *terms* of *prediction* *error* *minimisation*. The *account* is *influential* and *underdeveloped*, and it is *beginning* to be *applied* to *consciousness* (Seth 2021).
+
+**4. Non-Western *theories* of the *mind–body* *relation*.** The *Buddhist* *Abhidharma* *tradition* *developed* a *radical* *process* *ontology* that *avoids* the *substance* *dualism* and the *physicalism* *of* the *Western* *tradition* (Ch. 15, §7); the *Nyāya-Vaiśeṣika* *school* *developed* a *realist* *dualism* of *self* and *body* that *anticipates* the *Cartesian* *view*; the *Advaita* *Vedānta* *school* *developed* a *radical* *monism* that *anticipates* the *idealist* *accounts*. The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *ethics* of the *mind–body* *problem*.** The *choice* of *position* has *ethical* *consequences*: the *substance* *dualist* *view* *supports* the *immortality* of the *soul* (Ch. 50, §8); the *physicalist* *view* *supports* a *naturalistic* *ethics* (Ch. 44); the *panpsychist* *view* *supports* a *different* *relation* to *nature* (Ch. 51, §6). The *ethics* of the *mind–body* *problem* is *underdeveloped*, and it is *urgent*.
 
 ---
 

@@ -673,16 +673,15 @@ The practices of §5.1–5.5 are the elements of a **lifelong curriculum** — a
 
 The ancient model for this curriculum is the **philosophical exercise** (*askēsis*): the daily practice of reflection, argument, and self-examination, aimed not only at knowledge but at *wisdom* (Hadot 1981/1995; Foucault 1984). The modern academy has largely abandoned the model, to its cost. The practices in this chapter are an attempt to recover a version of it — adapted to the conditions of contemporary philosophy, and stripped of the metaphysics of the ancient schools, but retaining the core insight: **philosophy is a way of life, not only a body of doctrine.**
 
-> <details><summary><b>Advanced thread: the institution of philosophy</b></summary>
->
-> Three further questions, for the reader who wants to think about the social conditions of the discipline.
->
-> **1. The incentive structure.** Publication, citation, and prestige reward novelty and polemic more than careful, boring, true work. The individual philosopher can resist the incentives, but the discipline as a whole is shaped by them. The question is whether the institutions can be redesigned — and, if so, how.
->
-> **2. Gatekeeping and epistemic injustice.** Who gets published, who gets cited, who gets hired, and whose questions are treated as central are not neutral facts. The literature on epistemic injustice (Fricker 2007; Ch. 11, §4) applies to philosophy itself. The discipline’s demographics are not a side issue; they shape what counts as a problem and what counts as a solution.
->
-> **3. Philosophy and the public.** The public role of philosophy — in policy, in education, in public deliberation — is contested. The Socratic model (the gadfly) and the academic model (the specialist) are different conceptions of the philosopher’s social function. The book’s own conception — philosophy as the study of the conditions of intelligibility — has implications for both: the philosopher is the person who asks what a practice presupposes, and that question is as relevant to public life as it is to the seminar room.
-> </details>
+### Advanced thread: the institution of philosophy
+
+Three further questions, for the reader who wants to think about the social conditions of the discipline.
+
+**1. The incentive structure.** Publication, citation, and prestige reward novelty and polemic more than careful, boring, true work. The individual philosopher can resist the incentives, but the discipline as a whole is shaped by them. The question is whether the institutions can be redesigned — and, if so, how.
+
+**2. Gatekeeping and epistemic injustice.** Who gets published, who gets cited, who gets hired, and whose questions are treated as central are not neutral facts. The literature on epistemic injustice (Fricker 2007; Ch. 11, §4) applies to philosophy itself. The discipline’s demographics are not a side issue; they shape what counts as a problem and what counts as a solution.
+
+**3. Philosophy and the public.** The public role of philosophy — in policy, in education, in public deliberation — is contested. The Socratic model (the gadfly) and the academic model (the specialist) are different conceptions of the philosopher’s social function. The book’s own conception — philosophy as the study of the conditions of intelligibility — has implications for both: the philosopher is the person who asks what a practice presupposes, and that question is as relevant to public life as it is to the seminar room.
 
 ---
 

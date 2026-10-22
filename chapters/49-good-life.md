@@ -1058,20 +1058,21 @@ The *next* *chapter* turns to the *aesthetics* — the *beauty*, the *art*, the 
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 48</b> (advanced / cross-cutting)</summary>
->
-> **1. The *population* *ethics*.** The *prudential* *question* *writ* *large* (the *aggregation* across the *persons* and the *generations*), and the *repugnant* *conclusion* (Parfit; Ch. 45, §1.4), the *non*-*identity* *problem* (Ch. 47, §7.4), and the *total* vs. the *average* vs. the *variable* *value* *views* *raise* the *deepest* *puzzles* of the *well*-*being* (the *comparability* of the *nonexistent* and the *existing* lives), and the *debate* *connects* the *good* *life* to the *political* *philosophy* (Ch. 47) and to the *environmental* *ethics* (Ch. 51, §6). The *debate* is *central*.
->
-> **2. The *measurement* of the *well*-*being* in *policy*.** The *well*-*being* *budgets* (§4.5), the *public* *health* (the *QALYs*, the *DALYs*; Ch. 51, §2), the *cost*-*benefit* *analysis*, and the *social* *indicators* *raise* the *questions* of the *metric* and the *aggregation*, and the *questions* *connect* the *good* *life* to the *applied* *ethics* (Ch. 51) and to the *political* *economy* (Ch. 47, §3). The *debate* is *urgent*.
->
-> **3. The *non*-*human* *well*-*being*.** The *animals* *have* the *prudential* *goods* (the *no* *suffering*, the *flourishing*), and the *well*-*being* *theory* *extends* to the *sentient* (the *hedonic*, the *desire*, the *list*), and the *extension* *grounds* the *animal* *ethics* (Ch. 51, §5), and the *question* *connects* the *metaethics* (the *moral* *status*; Ch. 44, §5.4) to the *applied* *ethics*. The *debate* is *active*.
->
-> **4. The *enhancement* and the *posthuman*.** The *pharmacological* and the *genetic* *enhancement* *raise* the *question* of the *well*-*being* (the *extended* *capacities*, the *extended* *goods*, the *no* *species* *norm*), and the *posthuman* *possibilities* (the *mind* *uploading*, the *digital* *afterlife*) *challenge* the *human* *nature* *perfectionism* (§5.2), and the *question* *connects* the *good* *life* to the *technology* *ethics* (Ch. 51, §2–3) and to the *metaphysics* of the *person* (Ch. 26). The *debate* is *emerging*.
->
-> **5. Non-Western accounts of the good life.** The *Buddhist* *account* (the *suffering*, the *craving*, the *cessation*, the *no* *self*; the *anattā*, the *nirvana*) *grounds* the *well*-*being* in the *liberation* (the *no* *hedonism*, the *no* *attachment*), and the *Confucian* *account* (the *ren*, the *li*, the *role*-*ethics*, the *relational* *self*) *grounds* it in the *relation* and the *ritual*, and the *African* *ubuntu* *grounds* it in the *community* (the *“*I* *am* *because* *we* *are”*), and the *Stoic* *account* *grounds* it in the *virtue* and the *tranquility*. The *traditions* *offer* the *systematic* *alternatives* (the *contemporary* *literature*; the *contemporary* *literature*; the *contemporary* *literature*), and they *challenge* the *individualist* *ontology* of the *Western* *well*-*being*.
->
-> **6. The *death* *and* the *digital*.** The *digital* *afterlife* (the *social* *media* *memorials*, the *AI* *resurrection*, the *grief* *tech*), the *cryonics*, and the *mind* *uploading* *raise* the *questions* of the *identity* (Ch. 26), the *badness* of the *death* (§6), and the *meaning* of the *loss*, and the *questions* *connect* the *death* *debate* to the *technology* *ethics* (Ch. 51, §3). The *debate* is *emerging*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *population* *ethics*.** The *prudential* *question* *writ* *large* (the *aggregation* across the *persons* and the *generations*), and the *repugnant* *conclusion* (Parfit; Ch. 45, §1.4), the *non*-*identity* *problem* (Ch. 47, §7.4), and the *total* vs. the *average* vs. the *variable* *value* *views* *raise* the *deepest* *puzzles* of the *well*-*being* (the *comparability* of the *nonexistent* and the *existing* lives), and the *debate* *connects* the *good* *life* to the *political* *philosophy* (Ch. 47) and to the *environmental* *ethics* (Ch. 51, §6). The *debate* is *central*.
+
+**2. The *measurement* of the *well*-*being* in *policy*.** The *well*-*being* *budgets* (§4.5), the *public* *health* (the *QALYs*, the *DALYs*; Ch. 51, §2), the *cost*-*benefit* *analysis*, and the *social* *indicators* *raise* the *questions* of the *metric* and the *aggregation*, and the *questions* *connect* the *good* *life* to the *applied* *ethics* (Ch. 51) and to the *political* *economy* (Ch. 47, §3). The *debate* is *urgent*.
+
+**3. The *non*-*human* *well*-*being*.** The *animals* *have* the *prudential* *goods* (the *no* *suffering*, the *flourishing*), and the *well*-*being* *theory* *extends* to the *sentient* (the *hedonic*, the *desire*, the *list*), and the *extension* *grounds* the *animal* *ethics* (Ch. 51, §5), and the *question* *connects* the *metaethics* (the *moral* *status*; Ch. 44, §5.4) to the *applied* *ethics*. The *debate* is *active*.
+
+**4. The *enhancement* and the *posthuman*.** The *pharmacological* and the *genetic* *enhancement* *raise* the *question* of the *well*-*being* (the *extended* *capacities*, the *extended* *goods*, the *no* *species* *norm*), and the *posthuman* *possibilities* (the *mind* *uploading*, the *digital* *afterlife*) *challenge* the *human* *nature* *perfectionism* (§5.2), and the *question* *connects* the *good* *life* to the *technology* *ethics* (Ch. 51, §2–3) and to the *metaphysics* of the *person* (Ch. 26). The *debate* is *emerging*.
+
+**5. Non-Western accounts of the good life.** The *Buddhist* *account* (the *suffering*, the *craving*, the *cessation*, the *no* *self*; the *anattā*, the *nirvana*) *grounds* the *well*-*being* in the *liberation* (the *no* *hedonism*, the *no* *attachment*), and the *Confucian* *account* (the *ren*, the *li*, the *role*-*ethics*, the *relational* *self*) *grounds* it in the *relation* and the *ritual*, and the *African* *ubuntu* *grounds* it in the *community* (the *“*I* *am* *because* *we* *are”*), and the *Stoic* *account* *grounds* it in the *virtue* and the *tranquility*. The *traditions* *offer* the *systematic* *alternatives* (the *contemporary* *literature*; the *contemporary* *literature*; the *contemporary* *literature*), and they *challenge* the *individualist* *ontology* of the *Western* *well*-*being*.
+
+**6. The *death* *and* the *digital*.** The *digital* *afterlife* (the *social* *media* *memorials*, the *AI* *resurrection*, the *grief* *tech*), the *cryonics*, and the *mind* *uploading* *raise* the *questions* of the *identity* (Ch. 26), the *badness* of the *death* (§6), and the *meaning* of the *loss*, and the *questions* *connect* the *death* *debate* to the *technology* *ethics* (Ch. 51, §3). The *debate* is *emerging*.
 
 ---
 

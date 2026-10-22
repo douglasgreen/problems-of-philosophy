@@ -227,16 +227,15 @@ The case works because it isolates a feature that our concept of knowledge clear
 
 The methodological moral: **the best thought experiments wear their principles on their sleeves.** The worst ones conceal them. When you construct a case, ask what principle the case would need to be valid; when you are presented with one, ask the same question.
 
-> <details><summary><b>Advanced thread: the metaphysics and epistemology of intuition</b></summary>
->
-> Three further issues, for the reader who wants to go deeper.
->
-> **1. Are intuitions sui generis states?** If intuition is a distinctive propositional attitude, it needs a distinctive epistemology. If it is just belief with a certain etiology (a product of conceptual competence, or of the imagination, or of the language faculty), then its epistemology is inherited from the broader theory of belief — which may be either good news (no weird faculty required) or bad news (no special warrant).
->
-> **2. The expertise defence.** If philosophy is a skill, then philosophical intuitions may be like chess intuitions: unreliable in novices, reliable in experts. Evidence for this is thin — expert philosophers disagree as much as novices (and the experts' intuitions are the ones that formed the disagreement in the first place). This is the **expertise problem** (Ch. 9, §6), and it connects to the problem of philosophical disagreement.
->
-> **3. The evolutionary defence.** If our cognitive faculties were shaped by selection for survival, they may be reliable about medium-sized objects and unreliable about the deep structure of reality (the "evolutionary argument against naturalism," Plantinga 1993, turns on this). The counter-argument, due to Street (2006) and echoed by others, is that the debunking cuts no more deeply against philosophy than against common sense — either way, our faculties are *conditionally* reliable. The debate is a useful template for the genealogy method in §5.
-> </details>
+### Advanced thread: the metaphysics and epistemology of intuition
+
+Three further issues, for the reader who wants to go deeper.
+
+**1. Are intuitions sui generis states?** If intuition is a distinctive propositional attitude, it needs a distinctive epistemology. If it is just belief with a certain etiology (a product of conceptual competence, or of the imagination, or of the language faculty), then its epistemology is inherited from the broader theory of belief — which may be either good news (no weird faculty required) or bad news (no special warrant).
+
+**2. The expertise defence.** If philosophy is a skill, then philosophical intuitions may be like chess intuitions: unreliable in novices, reliable in experts. Evidence for this is thin — expert philosophers disagree as much as novices (and the experts' intuitions are the ones that formed the disagreement in the first place). This is the **expertise problem** (Ch. 9, §6), and it connects to the problem of philosophical disagreement.
+
+**3. The evolutionary defence.** If our cognitive faculties were shaped by selection for survival, they may be reliable about medium-sized objects and unreliable about the deep structure of reality (the "evolutionary argument against naturalism," Plantinga 1993, turns on this). The counter-argument, due to Street (2006) and echoed by others, is that the debunking cuts no more deeply against philosophy than against common sense — either way, our faculties are *conditionally* reliable. The debate is a useful template for the genealogy method in §5.
 
 ---
 

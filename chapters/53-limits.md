@@ -751,20 +751,21 @@ The *next* *chapter* turns to the *unity* of the *philosophy* and its *divisions
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 52</b> (advanced / cross-cutting)</summary>
->
-> **1. The *sociology* of the *discipline*.** The *gender* and the *race* and the *class* *composition* of the *philosophy* (the *no* *mere* *meritocracy*), the *canon* *formation* (the *no* *mere* *neutrality*), the *citation* *patterns*, the *prestige* *economy*, the *public* *philosophy* — the *sociology* *explains* the *no* *convergence* (the *no* *mere* *failure*), and it *connects* the *discipline* to the *epistemology* *of* the *testimony* (Ch. 11, §4) and to the *political* *theory* (Ch. 47, §5).
->
-> **2. The *comparative* *meta*-*philosophy*.** The *Greek* *wonder* (the *thaumazein*), the *Indian* *pramāṇa* *theory* (the *no* *mere* *Western*), the *Chinese* *zhi* *and* the *dao* (the *no* *mere* *analytic*), the *African* *ubuntu* *and* the *sage* *philosophy* (the *no* *mere* *individual*), the *Buddhist* *abhidharma* — the *traditions* *offer* the *distinct* *conceptions* of the *philosophy* and the *limits*, and they *challenge* the *universality* of the *analytic* *method* and the *no* *mere* *presentism*.
->
-> **3. The *replication* *crisis* *in* the *philosophy*.** The *x*-phi *replications* (the *contemporary* *literature*), the *Gettier* *replication* (the *contemporary* *literature*), the *trolley* *replications*, the *pre*-*registration* *movement*, the *meta*-*analysis* — the *crisis* *is* the *empirical* *analogue* of the *no* *convergence* (the *no* *mere* *science*), and it *connects* the *method* (Ch. 3) to the *epistemology* *of* the *science* (Ch. 40, §1).
->
-> **4. The *public* *philosophy* and the *authority*.** The *public* *intellectual* (the *no* *mere* *expertise*), the *policy* *advice* (the *no* *mere* *neutrality*), the *ethics* *committee* (§51.1), the *AI* *governance* (§51.3), the *climate* *negotiation* (§51.6) — the *public* *role* *raises* the *question* of the *authority* (the *no* *mere* *credential*), and it *connects* the *discipline* to the *politics* (Ch. 47) and to the *applied* *ethics* (Ch. 51).
->
-> **5. The *philosophy* *as* *a* *way* *of* *life*.** The *Stoic* *askēsis*, the *Epicurean* *therapy* (Ch. 48, §7.3), the *Socratic* *examination*, the *Buddhist* *practice*, the *monastic* *rule*, the *Spinozist* *beatitude* — the *traditions* *treat* the *philosophy* *as* the *practice* (the *no* *mere* *doctrine*), and they *challenge* the *professional* *conception* of the *discipline*, and the *question* *connects* the *limit* *question* to the *well*-*being* (Ch. 48) and to the *religion* (Ch. 50).
->
-> **6. The *future* of the *discipline*.** The *AI* *collaboration* (the *no* *mere* *erudition*), the *formal* *verification* (the *no* *mere* *informal* *argument*), the *big* *data* *of* the *intuitions*, the *global* *philosophy* (the *no* *mere* *Western*), the *climate* *of* the *academy* — the *future* *raises* the *question* of the *form* of the *knowledge*, and it *connects* the *limit* *question* to the *technology* *ethics* (Ch. 51, §3) and to the *epistemology* *of* the *testimony* (Ch. 11).
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *sociology* of the *discipline*.** The *gender* and the *race* and the *class* *composition* of the *philosophy* (the *no* *mere* *meritocracy*), the *canon* *formation* (the *no* *mere* *neutrality*), the *citation* *patterns*, the *prestige* *economy*, the *public* *philosophy* — the *sociology* *explains* the *no* *convergence* (the *no* *mere* *failure*), and it *connects* the *discipline* to the *epistemology* *of* the *testimony* (Ch. 11, §4) and to the *political* *theory* (Ch. 47, §5).
+
+**2. The *comparative* *meta*-*philosophy*.** The *Greek* *wonder* (the *thaumazein*), the *Indian* *pramāṇa* *theory* (the *no* *mere* *Western*), the *Chinese* *zhi* *and* the *dao* (the *no* *mere* *analytic*), the *African* *ubuntu* *and* the *sage* *philosophy* (the *no* *mere* *individual*), the *Buddhist* *abhidharma* — the *traditions* *offer* the *distinct* *conceptions* of the *philosophy* and the *limits*, and they *challenge* the *universality* of the *analytic* *method* and the *no* *mere* *presentism*.
+
+**3. The *replication* *crisis* *in* the *philosophy*.** The *x*-phi *replications* (the *contemporary* *literature*), the *Gettier* *replication* (the *contemporary* *literature*), the *trolley* *replications*, the *pre*-*registration* *movement*, the *meta*-*analysis* — the *crisis* *is* the *empirical* *analogue* of the *no* *convergence* (the *no* *mere* *science*), and it *connects* the *method* (Ch. 3) to the *epistemology* *of* the *science* (Ch. 40, §1).
+
+**4. The *public* *philosophy* and the *authority*.** The *public* *intellectual* (the *no* *mere* *expertise*), the *policy* *advice* (the *no* *mere* *neutrality*), the *ethics* *committee* (§51.1), the *AI* *governance* (§51.3), the *climate* *negotiation* (§51.6) — the *public* *role* *raises* the *question* of the *authority* (the *no* *mere* *credential*), and it *connects* the *discipline* to the *politics* (Ch. 47) and to the *applied* *ethics* (Ch. 51).
+
+**5. The *philosophy* *as* *a* *way* *of* *life*.** The *Stoic* *askēsis*, the *Epicurean* *therapy* (Ch. 48, §7.3), the *Socratic* *examination*, the *Buddhist* *practice*, the *monastic* *rule*, the *Spinozist* *beatitude* — the *traditions* *treat* the *philosophy* *as* the *practice* (the *no* *mere* *doctrine*), and they *challenge* the *professional* *conception* of the *discipline*, and the *question* *connects* the *limit* *question* to the *well*-*being* (Ch. 48) and to the *religion* (Ch. 50).
+
+**6. The *future* of the *discipline*.** The *AI* *collaboration* (the *no* *mere* *erudition*), the *formal* *verification* (the *no* *mere* *informal* *argument*), the *big* *data* *of* the *intuitions*, the *global* *philosophy* (the *no* *mere* *Western*), the *climate* *of* the *academy* — the *future* *raises* the *question* of the *form* of the *knowledge*, and it *connects* the *limit* *question* to the *technology* *ethics* (Ch. 51, §3) and to the *epistemology* *of* the *testimony* (Ch. 11).
 
 ---
 

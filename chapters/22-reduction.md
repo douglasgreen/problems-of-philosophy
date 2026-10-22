@@ -940,18 +940,19 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 21</b> (advanced / cross-cutting)</summary>
->
-> **1. The *interventionist* account of levels.** If *causation* is *intervention* (Ch. 18, §3), the *levels* can be *defined* by the *interventions* that *manipulate* the *variables* at *each* level. The *account* *avoids* the *levels* *problem* by *relativising* the *levels* to the *interventions*, and it *connects* the *theory* of *causation* to the *theory* of *reduction*. The *account* is *promising* and *underdeveloped*.
->
-> **2. The *grounding* *regress* and the *criterion* *problem*.** The *regress* of *grounds* (this *chapter*) is *structurally* *parallel* to the *regress* of *justification* (Ch. 8). The *responses* (foundationalism, coherentism, infinitism) *mirror* the *epistemic* *responses*, and the *problems* (the *given*, the *isolation*, the *finite* *capacity*) *mirror* the *epistemic* *problems*. The *parallel* is *instructive*, and it is *underdeveloped*.
->
-> **3. The *emergence* and *consciousness*.** The *strong* *emergence* is *one* of the *options* for *consciousness* (Ch. 24, §5): the *phenomenal* *properties* *emerge* from the *physical* and are *not* *reducible*. The *view* *faces* the *exclusion* *argument*, and the *debate* is *unresolved*.
->
-> **4. Non-Western *theories* of *levels*.** The *Buddhist* *Abhidharma* *tradition* *developed* a *hierarchy* of *dharmas* (the *irreducible* *elements* of *experience*) that *anticipates* the *levels* *debate*, and the *Nyāya-Vaiśeṣika* *tradition* *developed* a *category* *theory* (the *padārthas*) that *anticipates* the *natural* *kinds* *debate*. The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *levels* and *artificial* *intelligence*.** The *hierarchical* *structure* of *AI* *systems* (layers in a *neural* *network*, levels of *abstraction* in a *cognitive* *architecture*) *mirrors* the *levels* *debate*: the *higher* *layers* are *emergent* in the *weak* *sense*, and the *explanation* of the *system's* *behaviour* *requires* the *higher* *levels*. The *analogy* is *instructive*, and it is *beginning* to be *explored* (Ch. 29, §3).
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *interventionist* account of levels.** If *causation* is *intervention* (Ch. 18, §3), the *levels* can be *defined* by the *interventions* that *manipulate* the *variables* at *each* level. The *account* *avoids* the *levels* *problem* by *relativising* the *levels* to the *interventions*, and it *connects* the *theory* of *causation* to the *theory* of *reduction*. The *account* is *promising* and *underdeveloped*.
+
+**2. The *grounding* *regress* and the *criterion* *problem*.** The *regress* of *grounds* (this *chapter*) is *structurally* *parallel* to the *regress* of *justification* (Ch. 8). The *responses* (foundationalism, coherentism, infinitism) *mirror* the *epistemic* *responses*, and the *problems* (the *given*, the *isolation*, the *finite* *capacity*) *mirror* the *epistemic* *problems*. The *parallel* is *instructive*, and it is *underdeveloped*.
+
+**3. The *emergence* and *consciousness*.** The *strong* *emergence* is *one* of the *options* for *consciousness* (Ch. 24, §5): the *phenomenal* *properties* *emerge* from the *physical* and are *not* *reducible*. The *view* *faces* the *exclusion* *argument*, and the *debate* is *unresolved*.
+
+**4. Non-Western *theories* of *levels*.** The *Buddhist* *Abhidharma* *tradition* *developed* a *hierarchy* of *dharmas* (the *irreducible* *elements* of *experience*) that *anticipates* the *levels* *debate*, and the *Nyāya-Vaiśeṣika* *tradition* *developed* a *category* *theory* (the *padārthas*) that *anticipates* the *natural* *kinds* *debate*. The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *levels* and *artificial* *intelligence*.** The *hierarchical* *structure* of *AI* *systems* (layers in a *neural* *network*, levels of *abstraction* in a *cognitive* *architecture*) *mirrors* the *levels* *debate*: the *higher* *layers* are *emergent* in the *weak* *sense*, and the *explanation* of the *system's* *behaviour* *requires* the *higher* *levels*. The *analogy* is *instructive*, and it is *beginning* to be *explored* (Ch. 29, §3).
 
 ---
 

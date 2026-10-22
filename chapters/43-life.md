@@ -1058,18 +1058,19 @@ The table is a map, not a verdict. The reader who wants to choose a position mus
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 42</b> (advanced / cross-cutting)</summary>
->
-> **1. The *origin* of *life* and the *RNA* *world*.** The *RNA* *world* *hypothesis* (Gilbert 1986; the *contemporary* *literature*) *proposes* that the *RNA* *was* the *first* *replicator* *and* *catalyst*, and the *hypothesis* *grounds* the *life* *criterion* in the *chemistry*, and the *connection* to the *autopoiesis* (§1.3) is *direct*. The *research* is *active* (the *synthetic* *biology*, the *protocells*; the *contemporary* *literature*).
->
-> **2. The *levels* of *selection* and the *major* *transitions*.** The *major* *transitions* *in* *evolution* (Maynard Smith & Szathmáry, *The Major Transitions in Evolution*, 1995) *raise* the *levels* *of* *selection* *problem* (the *cells* → the *organisms*; the *organisms* → the *colonies*), and the *transitions* *ground* the *individuality* *debate* (§3.4) and the *units* *debate* (§5.3). The *connection* is *central*.
->
-> **3. The *ecology* and the *ecosystem* *services*.** The *ecosystem* *services* *framework* (the *contemporary* *literature*; the *Millennium* *Ecosystem* *Assessment*, 2005) *grounds* the *value* of *nature* in the *instrumental* *benefits*, and the *framework* *connects* the *environmental* *ethics* (§7) to the *economics* and the *policy*. The *connection* is *contested* and *urgent*.
->
-> **4. Non-Western *biological* *theories*.** The *Buddhist* *tradition* *developed* a *radical* *process* *ontology* (the *momentariness*, the *causal* *conditioning*) that *anticipates* the *developmental* *systems* *account* (§4.5), and the *Jaina* *tradition* *developed* a *sophisticated* *biology* (*jīva*, the *souls*, the *karma* *matter*) that is a *systematic* *alternative*. The *Daoist* *tradition* *developed* a *process* *ontology* *anticipating* the *ecology* (§7). The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *ethics* of the *biotechnology*.** The *CRISPR*, the *synthetic* *biology*, the *gene* *editing* *raise* the *profound* *ethical* *questions* (the *design*, the *enhancement*, the *patenting*, the *biodiversity*), and the *questions* *connect* the *philosophy* of *biology* to the *bioethics* (Ch. 51, §2) and to the *political* *philosophy* (Ch. 47). The *connection* is *urgent*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *origin* of *life* and the *RNA* *world*.** The *RNA* *world* *hypothesis* (Gilbert 1986; the *contemporary* *literature*) *proposes* that the *RNA* *was* the *first* *replicator* *and* *catalyst*, and the *hypothesis* *grounds* the *life* *criterion* in the *chemistry*, and the *connection* to the *autopoiesis* (§1.3) is *direct*. The *research* is *active* (the *synthetic* *biology*, the *protocells*; the *contemporary* *literature*).
+
+**2. The *levels* of *selection* and the *major* *transitions*.** The *major* *transitions* *in* *evolution* (Maynard Smith & Szathmáry, *The Major Transitions in Evolution*, 1995) *raise* the *levels* *of* *selection* *problem* (the *cells* → the *organisms*; the *organisms* → the *colonies*), and the *transitions* *ground* the *individuality* *debate* (§3.4) and the *units* *debate* (§5.3). The *connection* is *central*.
+
+**3. The *ecology* and the *ecosystem* *services*.** The *ecosystem* *services* *framework* (the *contemporary* *literature*; the *Millennium* *Ecosystem* *Assessment*, 2005) *grounds* the *value* of *nature* in the *instrumental* *benefits*, and the *framework* *connects* the *environmental* *ethics* (§7) to the *economics* and the *policy*. The *connection* is *contested* and *urgent*.
+
+**4. Non-Western *biological* *theories*.** The *Buddhist* *tradition* *developed* a *radical* *process* *ontology* (the *momentariness*, the *causal* *conditioning*) that *anticipates* the *developmental* *systems* *account* (§4.5), and the *Jaina* *tradition* *developed* a *sophisticated* *biology* (*jīva*, the *souls*, the *karma* *matter*) that is a *systematic* *alternative*. The *Daoist* *tradition* *developed* a *process* *ontology* *anticipating* the *ecology* (§7). The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *ethics* of the *biotechnology*.** The *CRISPR*, the *synthetic* *biology*, the *gene* *editing* *raise* the *profound* *ethical* *questions* (the *design*, the *enhancement*, the *patenting*, the *biodiversity*), and the *questions* *connect* the *philosophy* of *biology* to the *bioethics* (Ch. 51, §2) and to the *political* *philosophy* (Ch. 47). The *connection* is *urgent*.
 
 ---
 

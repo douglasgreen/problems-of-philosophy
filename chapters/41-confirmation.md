@@ -942,18 +942,19 @@ The table is a map, not a verdict. The reader who wants to choose a position mus
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 40</b> (advanced / cross-cutting)</summary>
->
-> **1. The *Bayesian* *networks* and the *causal* *discovery*.** The *causal* *Bayesian* *networks* (Ch. 18, §3.2) *provide* a *formal* *framework* for the *confirmation* and the *theory* *choice*, and the *framework* *connects* the *epistemology* of *science* to the *formal* *epistemology* (Ch. 10, §4) and to the *AI* (Ch. 51, §3). The *connection* is *promising* and *underdeveloped*.
->
-> **2. The *social* *epistemology* of the *science*.** The *consensus* (§7) *connects* the *epistemology* of *science* to the *epistemic* *injustice* (Ch. 11, §4) and to the *social* *ontology* (Ch. 25, §7), and the *manufactured* *doubt* (Oreskes & Conway) *connects* the *science* to the *political* *epistemology*. The *connection* is *urgent*.
->
-> **3. The *AI* and the *scientific* *method*.** The *machine* *learning* *models* *produce* the *predictions* and the *explanations* (the *XAI*; Ch. 38, §5), and the *epistemic* *status* of the *models* (the *confirmation*, the *realism*) is *contested* (Ch. 29, §3). The *connection* is *new* and *urgent*.
->
-> **4. Non-Western *epistemologies* of *science*.** The *Buddhist* *tradition* *developed* a *theory* of *inference* (*anumāna*) and of *testimony* (*śabda*) that *anticipates* the *confirmation* and the *theory* *choice*, and the *Nyāya* *tradition* *developed* a *sophisticated* *theory* of *evidence* and *debate*. The *traditions* are *systematic* *alternatives* (Matilal 1986, 1998; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *ethics* of the *confirmation*.** The *confirmation* *bias*, the *manufactured* *doubt*, and the *over*-*confidence* are *ethical* as well as *epistemic* *vices*, and the *ethics* of the *confirmation* *connects* the *epistemology* of *science* to the *ethics* of the *belief* (Ch. 4, §4.5) and to the *virtue* *epistemology* (Ch. 8, §7). The *connection* is *underdeveloped*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *Bayesian* *networks* and the *causal* *discovery*.** The *causal* *Bayesian* *networks* (Ch. 18, §3.2) *provide* a *formal* *framework* for the *confirmation* and the *theory* *choice*, and the *framework* *connects* the *epistemology* of *science* to the *formal* *epistemology* (Ch. 10, §4) and to the *AI* (Ch. 51, §3). The *connection* is *promising* and *underdeveloped*.
+
+**2. The *social* *epistemology* of the *science*.** The *consensus* (§7) *connects* the *epistemology* of *science* to the *epistemic* *injustice* (Ch. 11, §4) and to the *social* *ontology* (Ch. 25, §7), and the *manufactured* *doubt* (Oreskes & Conway) *connects* the *science* to the *political* *epistemology*. The *connection* is *urgent*.
+
+**3. The *AI* and the *scientific* *method*.** The *machine* *learning* *models* *produce* the *predictions* and the *explanations* (the *XAI*; Ch. 38, §5), and the *epistemic* *status* of the *models* (the *confirmation*, the *realism*) is *contested* (Ch. 29, §3). The *connection* is *new* and *urgent*.
+
+**4. Non-Western *epistemologies* of *science*.** The *Buddhist* *tradition* *developed* a *theory* of *inference* (*anumāna*) and of *testimony* (*śabda*) that *anticipates* the *confirmation* and the *theory* *choice*, and the *Nyāya* *tradition* *developed* a *sophisticated* *theory* of *evidence* and *debate*. The *traditions* are *systematic* *alternatives* (Matilal 1986, 1998; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *ethics* of the *confirmation*.** The *confirmation* *bias*, the *manufactured* *doubt*, and the *over*-*confidence* are *ethical* as well as *epistemic* *vices*, and the *ethics* of the *confirmation* *connects* the *epistemology* of *science* to the *ethics* of the *belief* (Ch. 4, §4.5) and to the *virtue* *epistemology* (Ch. 8, §7). The *connection* is *underdeveloped*.
 
 ---
 

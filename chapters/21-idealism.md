@@ -704,18 +704,19 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 20</b> (advanced / cross-cutting)</summary>
->
-> **1. The *quantum* *measurement* *problem* and *consciousness*.** The *consciousness-causes-collapse* *view* (Wigner 1961; Stapp 2007) *makes* *consciousness* *causally* *efficacious* in the *measurement* *process*. The *view* is *one* of the *strongest* *empirical* *arguments* for *idealism*, and it is *contested* (the *decoherence* *programme* *explains* the *appearance* of *collapse* without *consciousness*; Ch. 19, §5).
->
-> **2. The *hard* *problem* and *panprotopsychism*.** The *panprotopsychist* *view* (Chalmers 2015) *holds* that the *fundamental* *entities* have *proto-experiential* *properties*, and the *view* is *one* of the *most* *promising* *alternatives* to *idealism* and *physicalism*. The *debate* is *connected* to the *combination* *problem* (Ch. 19, §7.2) and to the *theory* of *mind* (Ch. 24).
->
-> **3. The *ethics* of *idealism*.** If the *world* is *mind*, the *relation* between *human* *beings* and *nature* is *different*: nature is *not* *inert* *matter*, and the *ethical* *relation* is *not* *domination* but *dialogue* (the *ecological* *view*; Ch. 51, §6). The *ethics* of *idealism* is *underdeveloped*, and it is *urgent*.
->
-> **4. Non-Western *idealism*.** The *Yogācāra* *tradition* (§4.4) is the *most* *developed* *non-Western* *idealism*, and it is *one* of the *oldest*. The *Advaita* *Vedānta* *tradition* (Śaṅkara, 8th c. CE) developed a *radical* *monism* (the *world* is *Brahman*, and the *individual* *self* is *Brahman*), and the *view* *anticipates* the *contemporary* *cosmopsychism*. The *traditions* are *systematic* *alternatives*, not *curiosities* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *idealism* and *artificial* *intelligence*.** If the *world* is *mental*, the *AI* *systems* are *constructions* of *mind*, not *independent* *agents*. The *implications* for the *ethics* of *AI* (Ch. 29, §6) are *profound*, and they are *beginning* to be *explored*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *quantum* *measurement* *problem* and *consciousness*.** The *consciousness-causes-collapse* *view* (Wigner 1961; Stapp 2007) *makes* *consciousness* *causally* *efficacious* in the *measurement* *process*. The *view* is *one* of the *strongest* *empirical* *arguments* for *idealism*, and it is *contested* (the *decoherence* *programme* *explains* the *appearance* of *collapse* without *consciousness*; Ch. 19, §5).
+
+**2. The *hard* *problem* and *panprotopsychism*.** The *panprotopsychist* *view* (Chalmers 2015) *holds* that the *fundamental* *entities* have *proto-experiential* *properties*, and the *view* is *one* of the *most* *promising* *alternatives* to *idealism* and *physicalism*. The *debate* is *connected* to the *combination* *problem* (Ch. 19, §7.2) and to the *theory* of *mind* (Ch. 24).
+
+**3. The *ethics* of *idealism*.** If the *world* is *mind*, the *relation* between *human* *beings* and *nature* is *different*: nature is *not* *inert* *matter*, and the *ethical* *relation* is *not* *domination* but *dialogue* (the *ecological* *view*; Ch. 51, §6). The *ethics* of *idealism* is *underdeveloped*, and it is *urgent*.
+
+**4. Non-Western *idealism*.** The *Yogācāra* *tradition* (§4.4) is the *most* *developed* *non-Western* *idealism*, and it is *one* of the *oldest*. The *Advaita* *Vedānta* *tradition* (Śaṅkara, 8th c. CE) developed a *radical* *monism* (the *world* is *Brahman*, and the *individual* *self* is *Brahman*), and the *view* *anticipates* the *contemporary* *cosmopsychism*. The *traditions* are *systematic* *alternatives*, not *curiosities* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *idealism* and *artificial* *intelligence*.** If the *world* is *mental*, the *AI* *systems* are *constructions* of *mind*, not *independent* *agents*. The *implications* for the *ethics* of *AI* (Ch. 29, §6) are *profound*, and they are *beginning* to be *explored*.
 
 ---
 

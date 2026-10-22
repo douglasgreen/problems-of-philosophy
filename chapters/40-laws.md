@@ -824,18 +824,19 @@ The table is a map, not a verdict. The reader who wants to choose a position mus
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 39</b> (advanced / cross-cutting)</summary>
->
-> **1. The *metaphysics* of the *dispositions* and the *quantum* *mechanics*.** The *quantum* *mechanics* *suggests* that the *fundamental* *properties* are *dispositional* (the *propensities*, the *probabilities*; Ch. 19, §5.3), and the *suggestion* *supports* the *dispositionalist* *account* of the *laws* (§1.4), and the *connection* *constrains* the *interpretation* of the *quantum* *mechanics*.
->
-> **2. The *ceteris* *paribus* *laws* and the *philosophy* of *biology*.** The *ceteris* *paribus* *debate* (§2) *connects* the *philosophy* of *biology* (Ch. 42, §2) to the *philosophy* of *science*, and the *connection* *constrains* the *debate* about the *biological* *kinds* (§3.3) and the *biological* *explanation* (Ch. 38, §7.1).
->
-> **3. The *models* and the *science* *of* *science*.** The *model*-*based* *reasoning* (§5) *connects* the *philosophy* of *science* to the *cognitive* *science* (Ch. 30, §3), and the *science* *of* *science* (the *metascience*; the *replication* *crisis*; Ch. 11, §6.5) *connects* the *philosophy* of *science* to the *social* *epistemology*.
->
-> **4. Non-Western *theories* of *laws* and *kinds*.** The *Buddhist* *tradition* *developed* a *robust* *theory* of *conditionality* (*idappaccayatā*; the *“*when* *this* *exists,* *that* *comes* *to* *be*”*), and the *Nyāya* *tradition* *developed* a *realist* *theory* of *universals* and *causation* (the *jāti*, the *vyāpti*). The *traditions* are *systematic* *alternatives* to the *Humean* and the *necessitarian* *accounts* (Matilal 1986, 1998; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *ethics* of the *laws*.** The *laws* *can* *be* *harmful* (the *criminal* *laws*, the *natural* *laws* as *legitimations* of the *status* *quo*), and the *ethics* of the *laws* *connects* the *philosophy* of *science* to the *political* *philosophy* (Ch. 47, §7). The *connection* is *underdeveloped*, and it is *urgent*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *metaphysics* of the *dispositions* and the *quantum* *mechanics*.** The *quantum* *mechanics* *suggests* that the *fundamental* *properties* are *dispositional* (the *propensities*, the *probabilities*; Ch. 19, §5.3), and the *suggestion* *supports* the *dispositionalist* *account* of the *laws* (§1.4), and the *connection* *constrains* the *interpretation* of the *quantum* *mechanics*.
+
+**2. The *ceteris* *paribus* *laws* and the *philosophy* of *biology*.** The *ceteris* *paribus* *debate* (§2) *connects* the *philosophy* of *biology* (Ch. 42, §2) to the *philosophy* of *science*, and the *connection* *constrains* the *debate* about the *biological* *kinds* (§3.3) and the *biological* *explanation* (Ch. 38, §7.1).
+
+**3. The *models* and the *science* *of* *science*.** The *model*-*based* *reasoning* (§5) *connects* the *philosophy* of *science* to the *cognitive* *science* (Ch. 30, §3), and the *science* *of* *science* (the *metascience*; the *replication* *crisis*; Ch. 11, §6.5) *connects* the *philosophy* of *science* to the *social* *epistemology*.
+
+**4. Non-Western *theories* of *laws* and *kinds*.** The *Buddhist* *tradition* *developed* a *robust* *theory* of *conditionality* (*idappaccayatā*; the *“*when* *this* *exists,* *that* *comes* *to* *be*”*), and the *Nyāya* *tradition* *developed* a *realist* *theory* of *universals* and *causation* (the *jāti*, the *vyāpti*). The *traditions* are *systematic* *alternatives* to the *Humean* and the *necessitarian* *accounts* (Matilal 1986, 1998; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *ethics* of the *laws*.** The *laws* *can* *be* *harmful* (the *criminal* *laws*, the *natural* *laws* as *legitimations* of the *status* *quo*), and the *ethics* of the *laws* *connects* the *philosophy* of *science* to the *political* *philosophy* (Ch. 47, §7). The *connection* is *underdeveloped*, and it is *urgent*.
 
 ---
 

@@ -99,7 +99,7 @@ Each chapter of Parts II–VII has the same architecture, and it is worth learni
 
 **The further reading** is annotated, tiered, and honest about which texts are difficult.
 
-**The optional threads** — the collapsible boxes — are the author’s indulgences and, I hope, the reader’s. They contain the cross-cutting material that did not fit the main line: the non-Western alternatives, the empirical literature, the emerging debates, the connections to chapters far away. Skip them on a first reading. Return to them when the main line has taken hold.
+**The optional threads** — the short cross-cutting sections, whether the “Optional threads” that close a chapter or the advanced threads and workshops inside one — are the author’s indulgences and, I hope, the reader’s. They contain the material that did not fit the main line: the non-Western alternatives, the empirical literature, the emerging debates, the connections to chapters far away. Skip them on a first reading. Return to them when the main line has taken hold.
 
 ---
 
@@ -141,18 +141,13 @@ The book is an invitation to argue. Not in the sense of winning, and not in the 
 
 That practice is older than the universities, and it is more fragile than they are. It is what the book is for.
 
-> <details><summary><b>A short charter of the reader’s rights</b></summary>
->
-> **1. The right to disagree.** Every verdict in this book is a claim, and every claim is answerable to argument. You are not required to accept a conclusion because it is printed. You are required to say why you reject it.
->
-> **2. The right to skip.** The optional threads are optional. The further reading is a menu, not a syllabus. A book that insists on being read in full is a book that will not be read at all.
->
-> **3. The right to the objection.** If a chapter’s verdict seems to you obviously wrong, you are probably right about something, and the dialectical map is there to help you find out what. Begin with the row that lists the weakness of the position the chapter endorses.
->
-> **4. The right to the primary text.** No summary in this book is a substitute for the work it summarises. Where a chapter has made an argument seem easy, that is a sign that you should read the original, not that you needn’t.
->
-> **5. The right to change your mind.** Including about the book. Including about philosophy. The last chapter is not the last word, and neither is this one.
-> </details>
+### A short charter of the reader’s rights
+
+1. **The right to disagree.** Every verdict in this book is a claim, and every claim is answerable to argument. You are not required to accept a conclusion because it is printed. You are required to say why you reject it.
+2. **The right to skip.** The optional threads are optional. The further reading is a menu, not a syllabus. A book that insists on being read in full is a book that will not be read at all.
+3. **The right to the objection.** If a chapter’s verdict seems to you obviously wrong, you are probably right about something, and the dialectical map is there to help you find out what. Begin with the row that lists the weakness of the position the chapter endorses.
+4. **The right to the primary text.** No summary in this book is a substitute for the work it summarises. Where a chapter has made an argument seem easy, that is a sign that you should read the original, not that you needn’t.
+5. **The right to change your mind.** Including about the book. Including about philosophy. The last chapter is not the last word, and neither is this one.
 
 ---
 

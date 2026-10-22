@@ -640,18 +640,19 @@ The table is a map, not a verdict. The reader who wants to choose a position mus
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 9</b> (advanced / cross-cutting)</summary>
->
-> **1. The “a priori” in ethics.** Is there moral a priori knowledge? The *intuitionist* tradition (Moore, Ross, Shafer-Landau) says yes; the *naturalist* tradition (Railton, Boyd) says no. The debate connects to the *is–ought* gap (Ch. 44, §1) and to the *moral epistemology* (Ch. 44, §6).
->
-> **2. The “a priori” in logic.** Is logic *revisable*? Quine’s challenge (the *web* of belief) says yes; the *logical* tradition (Frege, Russell, Dummett) says no. The debate connects to the *philosophy of logic* (Ch. 35, §7) and to the *a priori* (Ch. 36, §§1 and 6).
->
-> **3. The “a priori” and artificial intelligence.** If a priori knowledge is a *kind of warrant*, can AI systems *have* it? The question connects to the *epistemology of AI* (Ch. 29, §§2–3) and to the *nature of mathematical proof* (Ch. 43, §5).
->
-> **4. Non-Western epistemologies of the a priori.** The Indian *pramāṇa* tradition developed a sophisticated theory of *a priori* knowledge (perception, inference, comparison, and verbal testimony), and the *Nyāya* school defended a *realist* account of *a priori* truths. The Buddhist *logico-epistemological* school (Dignāga, Dharmakīrti) developed a *nominalist* account. These are *systematic alternatives*, not curiosities (see Matilal 1986; Ganeri 2001).
->
-> **5. The “a priori” and the “extended mind.”** If cognition extends beyond the skull (Clark & Chalmers 1998; Ch. 30, §4), then the *a priori* may be *distributed*: the *proof* of a theorem is *social*, and the *justification* is *institutional*. The implication for the *individualist* conception of the a priori is *profound*, and it is *beginning* to be explored.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The “a priori” in ethics.** Is there moral a priori knowledge? The *intuitionist* tradition (Moore, Ross, Shafer-Landau) says yes; the *naturalist* tradition (Railton, Boyd) says no. The debate connects to the *is–ought* gap (Ch. 44, §1) and to the *moral epistemology* (Ch. 44, §6).
+
+**2. The “a priori” in logic.** Is logic *revisable*? Quine’s challenge (the *web* of belief) says yes; the *logical* tradition (Frege, Russell, Dummett) says no. The debate connects to the *philosophy of logic* (Ch. 35, §7) and to the *a priori* (Ch. 36, §§1 and 6).
+
+**3. The “a priori” and artificial intelligence.** If a priori knowledge is a *kind of warrant*, can AI systems *have* it? The question connects to the *epistemology of AI* (Ch. 29, §§2–3) and to the *nature of mathematical proof* (Ch. 43, §5).
+
+**4. Non-Western epistemologies of the a priori.** The Indian *pramāṇa* tradition developed a sophisticated theory of *a priori* knowledge (perception, inference, comparison, and verbal testimony), and the *Nyāya* school defended a *realist* account of *a priori* truths. The Buddhist *logico-epistemological* school (Dignāga, Dharmakīrti) developed a *nominalist* account. These are *systematic alternatives*, not curiosities (see Matilal 1986; Ganeri 2001).
+
+**5. The “a priori” and the “extended mind.”** If cognition extends beyond the skull (Clark & Chalmers 1998; Ch. 30, §4), then the *a priori* may be *distributed*: the *proof* of a theorem is *social*, and the *justification* is *institutional*. The implication for the *individualist* conception of the a priori is *profound*, and it is *beginning* to be explored.
 
 ---
 

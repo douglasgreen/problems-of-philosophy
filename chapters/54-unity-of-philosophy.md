@@ -951,20 +951,21 @@ The *next* *chapter* turns to the *value* of the *philosophy* (Ch. 54). If this 
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 53</b> (advanced / cross-cutting)</summary>
->
-> **1. The *history* of the *division*.** The *Aristotelian* *tripartition* (the *theoretical*, the *practical*, the *productive*), the *Kantian* *unification* (the *three* *Critiques*), the *Hegelian* *system*, the *analytic* *fragmentation* (the *specialisms*), the *phenomenological* *return* to the *life*-*world* — the *history* *shows* the *unity* and the *disunity* *as* the *episodes* of the *single* *debate*, and it *connects* the *unity* to the *history* of the *philosophy* (Ch. 52, §8.5) and to the *present* *practice*.
->
-> **2. The *philosophy* of the *X*-ification* *in* *practice*.** The *philosophy* of the *law* (the *analytic* *jurisprudence* vs. the *law* and *economics*), the *philosophy* of the *medicine* (the *bioethics* vs. the *medical* *humanities*), the *philosophy* of the *AI* (the *ethics* vs. the *safety* *engineering*), the *philosophy* of the *climate* — the *cases* *test* the *reciprocity* (§6.1) and the *danger* (§6.2), and they *connect* the *unity* to the *applied* *ethics* (Ch. 51).
->
-> **3. The *interdisciplinary* *research*.** The *cognitive* *science*, the *science* *and* *technology* *studies*, the *environmental* *humanities*, the *digital* *humanities* — the *research* *raises* the *question* of the *philosophy's* *place* (the *no* *mere* *handmaiden*), and it *connects* the *unity* to the *relations* (§4–§5) and to the *applied* *ethics* (Ch. 51, §3).
->
-> **4. The *global* *philosophy*.** The *comparative* *philosophy* (the *Chinese*, the *Indian*, the *African*, the *Buddhist*), the *intercultural* *hermeneutics*, the *decolonial* *critique* of the *canon* (the *no* *mere* *Western*), the *world* *philosophies* — the *movement* *raises* the *question* of the *scope* of the *unity* (the *no* *mere* *parochial*), and it *connects* the *unity* to the *history* (§2) and to the *value* (Ch. 54).
->
-> **5. The *meta*-*philosophy* of the *form*.** The *question* of the *conditions* of *intelligibility* (the *no* *mere* *topic*), the *second*-*order* *status* of the *philosophical* *question*, the *relation* to the *formal* *semantics* and the *logic* — the *question* *tests* the *synthesis* (§8.4), and it *connects* the *unity* to the *language* (Ch. 31–34) and to the *logic* (Ch. 35).
->
-> **6. The *future* of the *discipline*.** The *AI*-*assisted* *philosophy* (the *no* *mere* *erudition*), the *open* *access*, the *pre*-*registration*, the *replication*, the *collective* *authorship* — the *future* *raises* the *question* of the *form* of the *knowledge* (the *no* *mere* *individual*), and it *connects* the *unity* to the *method* (§7.3) and to the *institution* (§1.1).
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *history* of the *division*.** The *Aristotelian* *tripartition* (the *theoretical*, the *practical*, the *productive*), the *Kantian* *unification* (the *three* *Critiques*), the *Hegelian* *system*, the *analytic* *fragmentation* (the *specialisms*), the *phenomenological* *return* to the *life*-*world* — the *history* *shows* the *unity* and the *disunity* *as* the *episodes* of the *single* *debate*, and it *connects* the *unity* to the *history* of the *philosophy* (Ch. 52, §8.5) and to the *present* *practice*.
+
+**2. The *philosophy* of the *X*-ification* *in* *practice*.** The *philosophy* of the *law* (the *analytic* *jurisprudence* vs. the *law* and *economics*), the *philosophy* of the *medicine* (the *bioethics* vs. the *medical* *humanities*), the *philosophy* of the *AI* (the *ethics* vs. the *safety* *engineering*), the *philosophy* of the *climate* — the *cases* *test* the *reciprocity* (§6.1) and the *danger* (§6.2), and they *connect* the *unity* to the *applied* *ethics* (Ch. 51).
+
+**3. The *interdisciplinary* *research*.** The *cognitive* *science*, the *science* *and* *technology* *studies*, the *environmental* *humanities*, the *digital* *humanities* — the *research* *raises* the *question* of the *philosophy's* *place* (the *no* *mere* *handmaiden*), and it *connects* the *unity* to the *relations* (§4–§5) and to the *applied* *ethics* (Ch. 51, §3).
+
+**4. The *global* *philosophy*.** The *comparative* *philosophy* (the *Chinese*, the *Indian*, the *African*, the *Buddhist*), the *intercultural* *hermeneutics*, the *decolonial* *critique* of the *canon* (the *no* *mere* *Western*), the *world* *philosophies* — the *movement* *raises* the *question* of the *scope* of the *unity* (the *no* *mere* *parochial*), and it *connects* the *unity* to the *history* (§2) and to the *value* (Ch. 54).
+
+**5. The *meta*-*philosophy* of the *form*.** The *question* of the *conditions* of *intelligibility* (the *no* *mere* *topic*), the *second*-*order* *status* of the *philosophical* *question*, the *relation* to the *formal* *semantics* and the *logic* — the *question* *tests* the *synthesis* (§8.4), and it *connects* the *unity* to the *language* (Ch. 31–34) and to the *logic* (Ch. 35).
+
+**6. The *future* of the *discipline*.** The *AI*-*assisted* *philosophy* (the *no* *mere* *erudition*), the *open* *access*, the *pre*-*registration*, the *replication*, the *collective* *authorship* — the *future* *raises* the *question* of the *form* of the *knowledge* (the *no* *mere* *individual*), and it *connects* the *unity* to the *method* (§7.3) and to the *institution* (§1.1).
 
 ---
 

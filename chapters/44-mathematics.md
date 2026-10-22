@@ -939,18 +939,19 @@ The table is a map, not a verdict. The reader who wants to choose a position mus
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 43</b> (advanced / cross-cutting)</summary>
->
-> **1. The *homotopy* *type* *theory* and the *univalent* *foundations*.** The *homotopy* *type* *theory* (the *HoTT*; Voevodsky; the *Univalent* *Foundations* *programme*; the *contemporary* *literature*) *proposes* a *new* *foundation* of the *mathematics* based on the *type* *theory* and the *homotopy* *theory*, and the *univalence* *axiom* *identifies* the *equivalent* *structures*, and the *programme* *realises* the *structuralist* *insight* in the *foundations*. The *connection* to the *structuralism* (§3) is *direct* and *profound*.
->
-> **2. The *mathematical* *explanation* and the *enhanced* *indispensability*.** The *enhanced* *indispensability* *argument* (Baker 2005, 2009) *uses* the *mathematical* *explanations* (Ch. 38, §8) as the *evidence* for the *mathematical* *realism*, and the *argument* *connects* the *philosophy* of *mathematics* to the *philosophy* of *science* (Ch. 40, §4) and to the *explanation* (Ch. 38). The *debate* is *active*.
->
-> **3. The *AI* *and the *mathematical* *practice*.** The *AI* *theorem* *provers* (the *Lean*, the *Coq*, the *Isabelle*; the *AlphaProof*, the *AlphaGeometry*; the *contemporary* *literature*) *transform* the *mathematical* *practice*, and the *epistemological* *questions* (the *surveyability*, the *apriority*, the *understanding*) are *new* and *urgent* (Ch. 29, §3; §5.3).
->
-> **4. Non-Western *mathematics*.** The *Indian* *mathematics* (the *Śulba* *sūtras*, the *Āryabhaṭīya*, the *Brāhmasphuṭasiddhānta*, the *Kerala* *school*) *developed* the *place*-*value* *system*, the *zero*, the *trigonometry*, and the *infinite* *series* *centuries* before the *European* *mathematics*, and the *Chinese* *mathematics* (the *Nine* *Chapters*, the *Liu* *Hui*, the *Zu* *Chongzhi*) *developed* the *algebra* and the *number* *theory*. The *traditions* are *systematic* *contributions* to the *mathematics* itself, and the *philosophical* *implications* (the *universality* of the *mathematics*, the *cultural* *shaping* of the *practice*) are *underdeveloped* (the *contemporary* *literature*; Joseph, *The Crest of the Peacock*, 1991; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *ethics* of the *mathematics*.** The *mathematics* *can* be *used* for the *surveillance*, the *weapons*, the *financial* *speculation*, and the *mathematicians* *face* the *ethical* *questions* (the *responsibility*, the *dual* *use*, the *military* *funding*; the *contemporary* *literature*). The *connection* to the *applied* *ethics* (Ch. 51) is *underdeveloped* and *urgent*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *homotopy* *type* *theory* and the *univalent* *foundations*.** The *homotopy* *type* *theory* (the *HoTT*; Voevodsky; the *Univalent* *Foundations* *programme*; the *contemporary* *literature*) *proposes* a *new* *foundation* of the *mathematics* based on the *type* *theory* and the *homotopy* *theory*, and the *univalence* *axiom* *identifies* the *equivalent* *structures*, and the *programme* *realises* the *structuralist* *insight* in the *foundations*. The *connection* to the *structuralism* (§3) is *direct* and *profound*.
+
+**2. The *mathematical* *explanation* and the *enhanced* *indispensability*.** The *enhanced* *indispensability* *argument* (Baker 2005, 2009) *uses* the *mathematical* *explanations* (Ch. 38, §8) as the *evidence* for the *mathematical* *realism*, and the *argument* *connects* the *philosophy* of *mathematics* to the *philosophy* of *science* (Ch. 40, §4) and to the *explanation* (Ch. 38). The *debate* is *active*.
+
+**3. The *AI* *and the *mathematical* *practice*.** The *AI* *theorem* *provers* (the *Lean*, the *Coq*, the *Isabelle*; the *AlphaProof*, the *AlphaGeometry*; the *contemporary* *literature*) *transform* the *mathematical* *practice*, and the *epistemological* *questions* (the *surveyability*, the *apriority*, the *understanding*) are *new* and *urgent* (Ch. 29, §3; §5.3).
+
+**4. Non-Western *mathematics*.** The *Indian* *mathematics* (the *Śulba* *sūtras*, the *Āryabhaṭīya*, the *Brāhmasphuṭasiddhānta*, the *Kerala* *school*) *developed* the *place*-*value* *system*, the *zero*, the *trigonometry*, and the *infinite* *series* *centuries* before the *European* *mathematics*, and the *Chinese* *mathematics* (the *Nine* *Chapters*, the *Liu* *Hui*, the *Zu* *Chongzhi*) *developed* the *algebra* and the *number* *theory*. The *traditions* are *systematic* *contributions* to the *mathematics* itself, and the *philosophical* *implications* (the *universality* of the *mathematics*, the *cultural* *shaping* of the *practice*) are *underdeveloped* (the *contemporary* *literature*; Joseph, *The Crest of the Peacock*, 1991; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *ethics* of the *mathematics*.** The *mathematics* *can* be *used* for the *surveillance*, the *weapons*, the *financial* *speculation*, and the *mathematicians* *face* the *ethical* *questions* (the *responsibility*, the *dual* *use*, the *military* *funding*; the *contemporary* *literature*). The *connection* to the *applied* *ethics* (Ch. 51) is *underdeveloped* and *urgent*.
 
 ---
 

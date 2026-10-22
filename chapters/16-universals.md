@@ -691,18 +691,19 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 15</b> (advanced / cross-cutting)</summary>
->
-> **1. The *problem* of *uninstantiated* *properties*.** The *transcendent* *realist* *accepts* them; the *immanent* *realist* *denies* them; the *nominalist* *denies* *properties* *altogether*. The *problem* is *connected* to the *ontology* of *modality* (Ch. 16) and to the *theory* of *fiction* (Ch. 49, §4). The *contemporary* *debate* has *shifted* from “are there *uninstantiated* properties?” to “what *work* do *uninstantiated* properties *do*?” — and the *answer* *depends* on the *theory* of *modality*.
->
-> **2. The *problem* of *individuation*.** What *makes* a *property* *the* *property* it is? The *categoricalist* says its *qualitative* *nature*; the *dispositionalist* says its *causal* *role*; the *structuralist* says its *position* in the *structure*. The *debate* is *connected* to the *debate* about *essence* (Ch. 16, §3) and to the *debate* about *identity* (Ch. 26).
->
-> **3. The *metaphysics* of *relations*.** Are *relations* *real*? Are they *universals*? Are they *reducible* to *monadic* *properties*? The *debate* is *connected* to the *theory* of *structuralism* (§7), to the *philosophy* of *physics* (Ch. 19), and to the *theory* of *properties*. The *relationalist* *view* (which *holds* that *relations* are *fundamental*) is *one* of the *most* *active* *areas* of *contemporary* *metaphysics*.
->
-> **4. Non-Western *theories* of *universals*.** The *Nyāya-Vaiśeṣika* *school* *developed* a *realist* *theory* of *universals* (*jāti*) that *distinguishes* *real* *universals* from *nominal* *ones* by *five* *conditions* (the *jāti-bādhaka*), and the *Buddhist* *apoha* *theory* *developed* a *nominalist* *alternative* (the *meaning* of a *word* is the *exclusion* of *others*). The *two* *theories* *anticipate* the *realist/nominalist* *debate*, and they *are* *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *ethics* of *properties*.** The *choice* of *properties* is *not* *purely* *metaphysical*: the *classification* of *people* by *race*, *gender*, or *disability* *turns* on the *question* of *which* *properties* are *natural* (Ch. 33, §5; Ch. 11, §4). The *metaphysics* of *naturalness* is *entangled* with the *politics* of *classification*, and the *entanglement* is *one* of the *most* *urgent* *issues* in *contemporary* *philosophy*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *problem* of *uninstantiated* *properties*.** The *transcendent* *realist* *accepts* them; the *immanent* *realist* *denies* them; the *nominalist* *denies* *properties* *altogether*. The *problem* is *connected* to the *ontology* of *modality* (Ch. 16) and to the *theory* of *fiction* (Ch. 49, §4). The *contemporary* *debate* has *shifted* from “are there *uninstantiated* properties?” to “what *work* do *uninstantiated* properties *do*?” — and the *answer* *depends* on the *theory* of *modality*.
+
+**2. The *problem* of *individuation*.** What *makes* a *property* *the* *property* it is? The *categoricalist* says its *qualitative* *nature*; the *dispositionalist* says its *causal* *role*; the *structuralist* says its *position* in the *structure*. The *debate* is *connected* to the *debate* about *essence* (Ch. 16, §3) and to the *debate* about *identity* (Ch. 26).
+
+**3. The *metaphysics* of *relations*.** Are *relations* *real*? Are they *universals*? Are they *reducible* to *monadic* *properties*? The *debate* is *connected* to the *theory* of *structuralism* (§7), to the *philosophy* of *physics* (Ch. 19), and to the *theory* of *properties*. The *relationalist* *view* (which *holds* that *relations* are *fundamental*) is *one* of the *most* *active* *areas* of *contemporary* *metaphysics*.
+
+**4. Non-Western *theories* of *universals*.** The *Nyāya-Vaiśeṣika* *school* *developed* a *realist* *theory* of *universals* (*jāti*) that *distinguishes* *real* *universals* from *nominal* *ones* by *five* *conditions* (the *jāti-bādhaka*), and the *Buddhist* *apoha* *theory* *developed* a *nominalist* *alternative* (the *meaning* of a *word* is the *exclusion* of *others*). The *two* *theories* *anticipate* the *realist/nominalist* *debate*, and they *are* *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *ethics* of *properties*.** The *choice* of *properties* is *not* *purely* *metaphysical*: the *classification* of *people* by *race*, *gender*, or *disability* *turns* on the *question* of *which* *properties* are *natural* (Ch. 33, §5; Ch. 11, §4). The *metaphysics* of *naturalness* is *entangled* with the *politics* of *classification*, and the *entanglement* is *one* of the *most* *urgent* *issues* in *contemporary* *philosophy*.
 
 ---
 

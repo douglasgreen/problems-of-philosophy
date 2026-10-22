@@ -849,18 +849,19 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 27</b> (advanced / cross-cutting)</summary>
->
-> **1. The *quantum* *indeterminacy* *and* *free* *will*.** The *quantum* *indeterminacy* *may* *provide* the *“*open* *future*”* that the *libertarian* *requires* (Ch. 19, §5), and the *connection* is *explored* by the *contemporary* *literature* (the *“*quantum* *free* *will”* *theories*; the *critique* is *serious*: *randomness* is *not* *freedom*).
->
-> **2. The *moral* *luck* *debate*.** The *moral* *luck* *literature* (Nagel 1979; Williams 1981) *argues* that *moral* *responsibility* *depends* on *factors* *outside* the *agent*'s *control* (the *outcome*, the *circumstances*, the *constitution*), and the *argument* *undermines* the *compatibilist* *and* the *libertarian* *accounts* (Ch. 46, §2).
->
-> **3. The *empirical* *free* *will* *literature*.** The *experimental* *philosophy* *literature* (Nichols & Knobe 2007; the *contemporary* *literature*) *studies* the *folk* *intuitions* about *free* *will*, and the *findings* *suggest* that the *intuitions* are *compatibilist* (the *folk* *accept* that *determinism* is *compatible* with *freedom*), *contrary* to the *traditional* *view*. The *findings* are *contested*, and they *bear* on the *method* of the *debate*.
->
-> **4. Non-Western *theories* of *freedom*.** The *Buddhist* *tradition* *developed* a *theory* of *action* that *emphasizes* the *causal* *conditioning* of the *will* (the *“*dependent* *origination”*; Ch. 18, §4), and the *theory* *anticipates* the *compatibilist* *position*. The *Nyāya* *tradition* *defended* a *libertarian* *account* of *agency*, and the *Advaita* *Vedānta* *developed* a *theory* of *freedom* as *liberation* from *conditioning*. The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *ethics* of *free* *will*.** The *choice* of *position* has *ethical* *consequences* (the *justification* of *punishment*, the *distribution* of *blame*, the *self*-*conception*), and the *ethics* is *underdeveloped*. The *revisionist* *position* is *promising*, and it is *contested*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *quantum* *indeterminacy* *and* *free* *will*.** The *quantum* *indeterminacy* *may* *provide* the *“*open* *future*”* that the *libertarian* *requires* (Ch. 19, §5), and the *connection* is *explored* by the *contemporary* *literature* (the *“*quantum* *free* *will”* *theories*; the *critique* is *serious*: *randomness* is *not* *freedom*).
+
+**2. The *moral* *luck* *debate*.** The *moral* *luck* *literature* (Nagel 1979; Williams 1981) *argues* that *moral* *responsibility* *depends* on *factors* *outside* the *agent*'s *control* (the *outcome*, the *circumstances*, the *constitution*), and the *argument* *undermines* the *compatibilist* *and* the *libertarian* *accounts* (Ch. 46, §2).
+
+**3. The *empirical* *free* *will* *literature*.** The *experimental* *philosophy* *literature* (Nichols & Knobe 2007; the *contemporary* *literature*) *studies* the *folk* *intuitions* about *free* *will*, and the *findings* *suggest* that the *intuitions* are *compatibilist* (the *folk* *accept* that *determinism* is *compatible* with *freedom*), *contrary* to the *traditional* *view*. The *findings* are *contested*, and they *bear* on the *method* of the *debate*.
+
+**4. Non-Western *theories* of *freedom*.** The *Buddhist* *tradition* *developed* a *theory* of *action* that *emphasizes* the *causal* *conditioning* of the *will* (the *“*dependent* *origination”*; Ch. 18, §4), and the *theory* *anticipates* the *compatibilist* *position*. The *Nyāya* *tradition* *defended* a *libertarian* *account* of *agency*, and the *Advaita* *Vedānta* *developed* a *theory* of *freedom* as *liberation* from *conditioning*. The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *ethics* of *free* *will*.** The *choice* of *position* has *ethical* *consequences* (the *justification* of *punishment*, the *distribution* of *blame*, the *self*-*conception*), and the *ethics* is *underdeveloped*. The *revisionist* *position* is *promising*, and it is *contested*.
 
 ---
 

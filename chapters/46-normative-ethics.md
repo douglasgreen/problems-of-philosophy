@@ -831,20 +831,21 @@ $$
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 45</b> (advanced / cross-cutting)</summary>
->
-> **1. The *particularism* *debate* and the *default*-*reason* *view*.** The *particularism* (Dancy) *denies* the *principles*, and the *default*-*reason* *view* (the *contemporary* *literature*) *defends* the *principles* *as* *defeasible* *defaults*, and the *debate* *connects* the *normative* *ethics* to the *moral* *reasons* (Ch. 28) and to the *holism* (the *semantics*, the *epistemology*). The *debate* is *active*.
->
-> **2. The *situationism* and the *empirical* *psychology*.** The *situationist* *challenge* (Doris, Harman) is a *model* of the *empirical* *philosophy* (Ch. 3, §6), and the *response* (the *skill* *model*, the *local* *traits*) *integrates* the *psychology* into the *virtue* *theory* (the *naturalism*). The *connection* to the *character* (Ch. 27, §6) and to the *self* (Ch. 26) is *central*.
->
-> **3. The *trolley* *problems* and the *experimental* *ethics*.** The *trolleyology* is the *most* *developed* *case* *study* of the *experimental* *ethics* (Ch. 3, §6), and the *data* (the *fMRI* *studies*, the *cross*-*cultural* *variation*) *test* the *deontological* *and* the *consequentialist* *intuitions*, and the *debate* *connects* the *normative* *ethics* to the *cognitive* *science* (Ch. 30) and to the *empirical* *method*.
->
-> **4. Non-Western normative ethics.** The *Confucian* *ethics* (the *ren*, the *li*, the *roles*; the *Analects*) *grounds* the *normativity* in the *relational* *practice*, and the *Buddhist* *ethics* (the *śīla*, the *karuṇā*, the *interdependence*) *grounds* it in the *compassion* and the *non*-*harm*, and the *African* *ubuntu* *grounds* it in the *community* (the *“*I am because we are”*). The *traditions* are *systematic* *alternatives* to the *individualist* *ontology* of the *Western* *ethics* (Ch. 51, *optional* *threads*), and they *challenge* the *abstraction* *and* the *impartiality* of the *mainstream* *theories*.
->
-> **5. The *demandingness* and the *effective* *altruism*.** The *effective* *altruism* (Singer; MacAskill, *Doing Good Better*, 2015) *applies* the *consequentialist* *demandingness* to the *global* *poverty* and to the *existential* *risk* (Ch. 51, §3), and the *movement* *raises* the *questions* of the *partiality* (the *care* *ethics*), the *institutions* (the *political* *change* vs. the *individual* *donation*), and the *measurement* (the *cost*-*effectiveness*). The *connection* to the *applied* *ethics* (Ch. 51) and to the *political* *philosophy* (Ch. 47, §7) is *direct*.
->
-> **6. The *normative* *ethics* of the *AI*.** The *alignment* *problem* (Ch. 51, §3) *requires* the *normative* *theory* (the *value* *specification*, the *aggregation*, the *constraints*), and the *choice* of the *theory* *has* the *practical* *consequences* (the *different* *theories* *yield* the *different* *policies*), and the *connection* *is* *urgent* and *underdeveloped*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *particularism* *debate* and the *default*-*reason* *view*.** The *particularism* (Dancy) *denies* the *principles*, and the *default*-*reason* *view* (the *contemporary* *literature*) *defends* the *principles* *as* *defeasible* *defaults*, and the *debate* *connects* the *normative* *ethics* to the *moral* *reasons* (Ch. 28) and to the *holism* (the *semantics*, the *epistemology*). The *debate* is *active*.
+
+**2. The *situationism* and the *empirical* *psychology*.** The *situationist* *challenge* (Doris, Harman) is a *model* of the *empirical* *philosophy* (Ch. 3, §6), and the *response* (the *skill* *model*, the *local* *traits*) *integrates* the *psychology* into the *virtue* *theory* (the *naturalism*). The *connection* to the *character* (Ch. 27, §6) and to the *self* (Ch. 26) is *central*.
+
+**3. The *trolley* *problems* and the *experimental* *ethics*.** The *trolleyology* is the *most* *developed* *case* *study* of the *experimental* *ethics* (Ch. 3, §6), and the *data* (the *fMRI* *studies*, the *cross*-*cultural* *variation*) *test* the *deontological* *and* the *consequentialist* *intuitions*, and the *debate* *connects* the *normative* *ethics* to the *cognitive* *science* (Ch. 30) and to the *empirical* *method*.
+
+**4. Non-Western normative ethics.** The *Confucian* *ethics* (the *ren*, the *li*, the *roles*; the *Analects*) *grounds* the *normativity* in the *relational* *practice*, and the *Buddhist* *ethics* (the *śīla*, the *karuṇā*, the *interdependence*) *grounds* it in the *compassion* and the *non*-*harm*, and the *African* *ubuntu* *grounds* it in the *community* (the *“*I am because we are”*). The *traditions* are *systematic* *alternatives* to the *individualist* *ontology* of the *Western* *ethics* (Ch. 51, *optional* *threads*), and they *challenge* the *abstraction* *and* the *impartiality* of the *mainstream* *theories*.
+
+**5. The *demandingness* and the *effective* *altruism*.** The *effective* *altruism* (Singer; MacAskill, *Doing Good Better*, 2015) *applies* the *consequentialist* *demandingness* to the *global* *poverty* and to the *existential* *risk* (Ch. 51, §3), and the *movement* *raises* the *questions* of the *partiality* (the *care* *ethics*), the *institutions* (the *political* *change* vs. the *individual* *donation*), and the *measurement* (the *cost*-*effectiveness*). The *connection* to the *applied* *ethics* (Ch. 51) and to the *political* *philosophy* (Ch. 47, §7) is *direct*.
+
+**6. The *normative* *ethics* of the *AI*.** The *alignment* *problem* (Ch. 51, §3) *requires* the *normative* *theory* (the *value* *specification*, the *aggregation*, the *constraints*), and the *choice* of the *theory* *has* the *practical* *consequences* (the *different* *theories* *yield* the *different* *policies*), and the *connection* *is* *urgent* and *underdeveloped*.
 
 ---
 

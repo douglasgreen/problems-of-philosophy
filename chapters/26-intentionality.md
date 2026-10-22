@@ -646,18 +646,19 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 25</b> (advanced / cross-cutting)</summary>
->
-> **1. The *connection* between *intentionality* and *consciousness*.** The *two* *marks* of the *mental* (Ch. 24, §1.1) are *distinct*, but they are *correlated*: *consciousness* *requires* *intentionality* (the *content* of *experience*), and *intentionality* *may* *require* *consciousness* (the *“phenomenal* *intentionality”* *debate*; the *contemporary* *literature*). The *connection* is one of the *deepest* *open* questions in the *philosophy* of *mind*, and it is *underdeveloped*.
->
-> **2. The *content* of *perception* and the *content* of *thought*.** The *relationship* between *perceptual* *content* (Ch. 5, §4) and *conceptual* *content* (this chapter) is *contested*: the *“rich* *content”* *view* (the *perceptual* *content* is *conceptual*), the *“thin* *content”* *view* (the *perceptual* *content* is *non-conceptual*), and the *“hybrid”* *view* (both) are *all* *live*. The *debate* is *connected* to the *theory* of *justification* (Ch. 8, §2).
->
-> **3. The *content* of *artificial* *systems*.** If an *AI* *system* has *states* that *carry* *information* and *serve* *functions*, do the *states* *have* *content*? The *answer* *depends* on the *theory* of *content* (this chapter), and it *bears* on the *ethics* of *AI* (Ch. 51, §3). The *debate* is *beginning* and *urgent*.
->
-> **4. Non-Western *theories* of *meaning*.** The *Buddhist* *apoha* *theory* (Dignāga, 5th–6th c. CE) *holds* that *words* *refer* *not* to *positive* *entities* but to the *exclusion* of *others* (the *“apoha”* *theory*), and the *theory* *anticipates* the *contemporary* *inferentialist* and *nominalist* *accounts* (Ch. 15, §2). The *Nyāya* *tradition* *developed* a *realist* *theory* of *meaning* (the *“padārtha”* *theory*) that *anticipates* the *referentialist* *accounts*. The *traditions* are *systematic* *alternatives* (Matilal 1990; Ganeri 1999; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *normativity* of *content*.** The *content* of a *state* is *normative*: it *determines* what the state *ought* to *be* *about* (the *“correctness”* *condition*), and the *normativity* is *not* *explained* by the *naturalistic* *theories* (the *“normativity* *problem”*; the *contemporary* *literature*). The *problem* is *connected* to the *theory* of *normativity* (Ch. 44, §4) and to the *theory* of *rationality* (Ch. 28).
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *connection* between *intentionality* and *consciousness*.** The *two* *marks* of the *mental* (Ch. 24, §1.1) are *distinct*, but they are *correlated*: *consciousness* *requires* *intentionality* (the *content* of *experience*), and *intentionality* *may* *require* *consciousness* (the *“phenomenal* *intentionality”* *debate*; the *contemporary* *literature*). The *connection* is one of the *deepest* *open* questions in the *philosophy* of *mind*, and it is *underdeveloped*.
+
+**2. The *content* of *perception* and the *content* of *thought*.** The *relationship* between *perceptual* *content* (Ch. 5, §4) and *conceptual* *content* (this chapter) is *contested*: the *“rich* *content”* *view* (the *perceptual* *content* is *conceptual*), the *“thin* *content”* *view* (the *perceptual* *content* is *non-conceptual*), and the *“hybrid”* *view* (both) are *all* *live*. The *debate* is *connected* to the *theory* of *justification* (Ch. 8, §2).
+
+**3. The *content* of *artificial* *systems*.** If an *AI* *system* has *states* that *carry* *information* and *serve* *functions*, do the *states* *have* *content*? The *answer* *depends* on the *theory* of *content* (this chapter), and it *bears* on the *ethics* of *AI* (Ch. 51, §3). The *debate* is *beginning* and *urgent*.
+
+**4. Non-Western *theories* of *meaning*.** The *Buddhist* *apoha* *theory* (Dignāga, 5th–6th c. CE) *holds* that *words* *refer* *not* to *positive* *entities* but to the *exclusion* of *others* (the *“apoha”* *theory*), and the *theory* *anticipates* the *contemporary* *inferentialist* and *nominalist* *accounts* (Ch. 15, §2). The *Nyāya* *tradition* *developed* a *realist* *theory* of *meaning* (the *“padārtha”* *theory*) that *anticipates* the *referentialist* *accounts*. The *traditions* are *systematic* *alternatives* (Matilal 1990; Ganeri 1999; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *normativity* of *content*.** The *content* of a *state* is *normative*: it *determines* what the state *ought* to *be* *about* (the *“correctness”* *condition*), and the *normativity* is *not* *explained* by the *naturalistic* *theories* (the *“normativity* *problem”*; the *contemporary* *literature*). The *problem* is *connected* to the *theory* of *normativity* (Ch. 44, §4) and to the *theory* of *rationality* (Ch. 28).
 
 ---
 

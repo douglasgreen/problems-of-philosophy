@@ -1298,20 +1298,21 @@ The *next* *chapter* turns to the *applied* *ethics* — the *method* of the *ca
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 50</b> (advanced / cross-cutting)</summary>
->
-> **1. The *hiddenness* and the *epistemology* of the *relationship*.** The *Schellenberg* *argument* (§3.3) *connects* the *theism* to the *epistemology* of the *testimony* (Ch. 11) and to the *virtue* *epistemology* (Ch. 8, §7), and the *question* of the *epistemic* *distance* *raises* the *deeper* *question* of the *personal* *knowledge* (the *knowing* *of* the *person* vs. the *knowing* *about* the *person*), and the *debate* is *active*.
->
-> **2. The *comparative* *philosophy* of *religion*.** The *Buddhist* *no*-*self* *and* the *no* *God* (the *anattā*, the *nirvana*), the *Confucian* *relational* *self* (the *ren*, the *li*), the *African* *ubuntu* (the *“*I* *am* *because* *we* *are”*), the *Indian* *dharma* and the *karma* — the *traditions* *offer* the *systematic* *alternatives* to the *Western* *theism* (the *no* *mere* *decoration*), and they *challenge* the *individualist* *ontology* of the *Western* *religion* *and* the *philosophy* of *religion*.
->
-> **3. The *cognitive* *science* of *religion*.** The *by*-*product* *theories* (the *HADD*, the *agency* *detection*), the *moralizing* *God* *hypothesis* (the *Norenzayan* *insight*), the *evolutionary* *account* of the *belief* — the *science* *explains* the *origin* of the *belief* (the *no* *mere* *illusion*), and the *question* is the *epistemic* *significance* (the *no* *genetic* *fallacy*; Ch. 3, §5), and the *debate* connects the *religion* to the *mind* (Ch. 23–29).
->
-> **4. The *problem* of *evil* and the *Holocaust* *theology*.** The *post*-*Holocaust* *theology* (the *Fackenheim*, the *Rubenstein*, the *Levinas*, the *no* *theodicy*), the *anti*-*theodicy* (§4.5), and the *question* of the *after*-*Auschwitz* *faith* — the *historical* *case* *raises* the *limit* of the *theodicy*, and it *connects* the *religion* to the *history* (Ch. 52) and to the *ethics* *of* the *memory*.
->
-> **5. The *religion* and the *politics*.** The *secularism* (the *no* *state* *religion*), the *religious* *pluralism* (the *no* *one* *tradition*), the *religious* *nationalism* (the *no* *neutral* *public* *space*), the *conscientious* *objection* (the *no* *mere* *individual*) — the *questions* *connect* the *religion* to the *political* *theory* (Ch. 47) and to the *applied* *ethics* (Ch. 51), and the *debate* is *urgent*.
->
-> **6. The *death* of *God* and the *post*-*metaphysical* *religion*.** The *Nietzschean* *death* of *God*, the *Tillich* *ultimate* *concern*, the *Bonhoeffer* *religionless* *Christianity*, the *Caputo* *weak* *theology*, the *Cupitt* *non*-*realism* — the *tradition* *raises* the *question* of the *religion* *after* the *metaphysics* (§8.4), and it *connects* the *religion* to the *existentialism* (the *no* *mere* *doctrine*) and to the *well*-*being* (the *meaning*; Ch. 48, §3).
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *hiddenness* and the *epistemology* of the *relationship*.** The *Schellenberg* *argument* (§3.3) *connects* the *theism* to the *epistemology* of the *testimony* (Ch. 11) and to the *virtue* *epistemology* (Ch. 8, §7), and the *question* of the *epistemic* *distance* *raises* the *deeper* *question* of the *personal* *knowledge* (the *knowing* *of* the *person* vs. the *knowing* *about* the *person*), and the *debate* is *active*.
+
+**2. The *comparative* *philosophy* of *religion*.** The *Buddhist* *no*-*self* *and* the *no* *God* (the *anattā*, the *nirvana*), the *Confucian* *relational* *self* (the *ren*, the *li*), the *African* *ubuntu* (the *“*I* *am* *because* *we* *are”*), the *Indian* *dharma* and the *karma* — the *traditions* *offer* the *systematic* *alternatives* to the *Western* *theism* (the *no* *mere* *decoration*), and they *challenge* the *individualist* *ontology* of the *Western* *religion* *and* the *philosophy* of *religion*.
+
+**3. The *cognitive* *science* of *religion*.** The *by*-*product* *theories* (the *HADD*, the *agency* *detection*), the *moralizing* *God* *hypothesis* (the *Norenzayan* *insight*), the *evolutionary* *account* of the *belief* — the *science* *explains* the *origin* of the *belief* (the *no* *mere* *illusion*), and the *question* is the *epistemic* *significance* (the *no* *genetic* *fallacy*; Ch. 3, §5), and the *debate* connects the *religion* to the *mind* (Ch. 23–29).
+
+**4. The *problem* of *evil* and the *Holocaust* *theology*.** The *post*-*Holocaust* *theology* (the *Fackenheim*, the *Rubenstein*, the *Levinas*, the *no* *theodicy*), the *anti*-*theodicy* (§4.5), and the *question* of the *after*-*Auschwitz* *faith* — the *historical* *case* *raises* the *limit* of the *theodicy*, and it *connects* the *religion* to the *history* (Ch. 52) and to the *ethics* *of* the *memory*.
+
+**5. The *religion* and the *politics*.** The *secularism* (the *no* *state* *religion*), the *religious* *pluralism* (the *no* *one* *tradition*), the *religious* *nationalism* (the *no* *neutral* *public* *space*), the *conscientious* *objection* (the *no* *mere* *individual*) — the *questions* *connect* the *religion* to the *political* *theory* (Ch. 47) and to the *applied* *ethics* (Ch. 51), and the *debate* is *urgent*.
+
+**6. The *death* of *God* and the *post*-*metaphysical* *religion*.** The *Nietzschean* *death* of *God*, the *Tillich* *ultimate* *concern*, the *Bonhoeffer* *religionless* *Christianity*, the *Caputo* *weak* *theology*, the *Cupitt* *non*-*realism* — the *tradition* *raises* the *question* of the *religion* *after* the *metaphysics* (§8.4), and it *connects* the *religion* to the *existentialism* (the *no* *mere* *doctrine*) and to the *well*-*being* (the *meaning*; Ch. 48, §3).
 
 ---
 

@@ -770,18 +770,19 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 26</b> (advanced / cross-cutting)</summary>
->
-> **1. The *split*-*brain* *cases*.** The *empirical* *literature* (Sperry, Gazzaniga) *suggests* that the *commissurotomy* *patients* *have* *two* *streams* *of* *consciousness*, and the *interpretation* is *contested* (the *“*two* *minds*”* *view* vs. the *“*one* *mind,* *divided*”* *view*). The *cases* *bear* on the *unity* *question* (§1.1) and on the *bundle* *theory* (§3.1).
->
-> **2. The *empirical* *self*-*knowledge* *literature*.** The *confabulation* *studies* (Nisbett & Wilson 1977), the *choice*-*blindness* *studies* (Johansson et al. 2005), and the *“*you* *don’t* *know* *your* *own* *mind*”* *literature* (Schwitzgebel 2008) *challenge* the *first*-*person* *authority*, and they *bear* on the *epistemic* *question* (§8).
->
-> **3. The *extended* *self*.** The *“*extended* *mind*”* *thesis* (Clark & Chalmers 1998; Ch. 30, §4) *suggests* that the *self* *extends* *beyond* the *skull* (the *notebook*, the *phone*, the *archive*), and the *suggestion* *challenges* the *biological* *conception* of the *self*. The *debate* is *promising* and *underdeveloped*.
->
-> **4. Non-Western *theories* of the *self*.** The *Buddhist* *anattā* (§7.3) is the *most* *developed* *non*-*Western* *account* of the *self*, and the *Advaita* *Vedānta* *developed* a *radical* *monism* that *anticipates* the *cosmopsychist* *views* (Ch. 20, §4.2). The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *politics* of *identity*.** The *concept* of *identity* is *political* (the *identity* *politics*, the *recognition* *debates*, the *national* *identity* *debates*), and the *politics* *bears* on the *metaphysics* (the *social* *construction* of *identity*; Ch. 11, §4; Ch. 47, §7). The *connection* is *underdeveloped*, and it is *urgent*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *split*-*brain* *cases*.** The *empirical* *literature* (Sperry, Gazzaniga) *suggests* that the *commissurotomy* *patients* *have* *two* *streams* *of* *consciousness*, and the *interpretation* is *contested* (the *“*two* *minds*”* *view* vs. the *“*one* *mind,* *divided*”* *view*). The *cases* *bear* on the *unity* *question* (§1.1) and on the *bundle* *theory* (§3.1).
+
+**2. The *empirical* *self*-*knowledge* *literature*.** The *confabulation* *studies* (Nisbett & Wilson 1977), the *choice*-*blindness* *studies* (Johansson et al. 2005), and the *“*you* *don’t* *know* *your* *own* *mind*”* *literature* (Schwitzgebel 2008) *challenge* the *first*-*person* *authority*, and they *bear* on the *epistemic* *question* (§8).
+
+**3. The *extended* *self*.** The *“*extended* *mind*”* *thesis* (Clark & Chalmers 1998; Ch. 30, §4) *suggests* that the *self* *extends* *beyond* the *skull* (the *notebook*, the *phone*, the *archive*), and the *suggestion* *challenges* the *biological* *conception* of the *self*. The *debate* is *promising* and *underdeveloped*.
+
+**4. Non-Western *theories* of the *self*.** The *Buddhist* *anattā* (§7.3) is the *most* *developed* *non*-*Western* *account* of the *self*, and the *Advaita* *Vedānta* *developed* a *radical* *monism* that *anticipates* the *cosmopsychist* *views* (Ch. 20, §4.2). The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *politics* of *identity*.** The *concept* of *identity* is *political* (the *identity* *politics*, the *recognition* *debates*, the *national* *identity* *debates*), and the *politics* *bears* on the *metaphysics* (the *social* *construction* of *identity*; Ch. 11, §4; Ch. 47, §7). The *connection* is *underdeveloped*, and it is *urgent*.
 
 ---
 

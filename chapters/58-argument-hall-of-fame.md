@@ -9,15 +9,13 @@
 3. **Reconstruction** — a numbered, citable form. These are *one* reasonable reconstruction, not the only one; where rivals matter, a variant is given.
 4. **The load-bearing premise** — the one premise that does the work. Every landmark argument has exactly one, and the history of its reception is usually the history of attacks on that premise.
 5. **The strongest objection, and the replies** — the dialectic, not a verdict from nowhere.
-6. **Verdict** — a status label from the taxonomy below. <details><summary><b>Verdict taxonomy</b></summary>
-
-- **Refuted** — the argument fails on a premise that cannot be repaired without changing the argument.
-- **Refuted in strong form; survives in weak form** — the ambitious conclusion fails, a modest one survives.
-- **Constrains but does not establish** — the argument does not prove its conclusion but rules out certain positions and shifts the burden.
-- **Live** — no consensus; the argument remains a serious option.
-- **Decisive constraint** — the argument establishes a boundary that any subsequent theory must respect, even if its own positive conclusion is disputed.
-- **Paradox** — the argument is valid from apparently true premises to an unacceptable conclusion; every resolution pays a price, and the argument remains a standing test of a conceptual scheme.
-</details>
+6. **Verdict** — a status label from the following taxonomy.
+   - **Refuted** — the argument fails on a premise that cannot be repaired without changing the argument.
+   - **Refuted in strong form; survives in weak form** — the ambitious conclusion fails, a modest one survives.
+   - **Constrains but does not establish** — the argument does not prove its conclusion but rules out certain positions and shifts the burden.
+   - **Live** — no consensus; the argument remains a serious option.
+   - **Decisive constraint** — the argument establishes a boundary that any subsequent theory must respect, even if its own positive conclusion is disputed.
+   - **Paradox** — the argument is valid from apparently true premises to an unacceptable conclusion; every resolution pays a price, and the argument remains a standing test of a conceptual scheme.
 
 **Summary table.**
 

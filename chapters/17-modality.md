@@ -741,18 +741,19 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 16</b> (advanced / cross-cutting)</summary>
->
-> **1. The *Barcan* *formula* and the *ontology* of *possible* *objects*.** The *validity* of BF determines whether *possibilia* are *actual* *entities* — whether there are *non-actual* *objects* (Ch. 14, §2). The *debate* is *technical*, and it is *connected* to the *debate* between *actualism* (Plantinga) and *possibilism* (Lewis). The *actualist* *must* *paraphrase* *away* the *quantification* *over* *possibilia*; the *possibilist* *accepts* it. The *choice* is *ontological*, not *logical*.
->
-> **2. Essence and *de re* modality in the *history* of philosophy.** The *medieval* *debates* on *de re* *modality*, *essentialism*, and *haecceity* (Duns Scotus, Ockham, Buridan) are *sophisticated*, and they *anticipate* the *contemporary* *debate* in *detail*. The *study* of the *history* is not *antiquarian*; it is a *source* of *arguments* (Knuuttila 1993; the *Stanford* *Encyclopedia* entry, “Medieval Theories of Modality”).
->
-> **3. Modality and *quantum* *mechanics*.** The *modal* *interpretation* of *quantum* *mechanics* (Dieks, Vermaas, Kochen) *treats* the *quantum* *state* as a *catalogue* of *possibilities*, and the *measurement* as the *actualisation* of *one* of them. The *view* is *contested*, and it is *connected* to the *debate* about *modality* *in* *physics* (Ch. 19, §5; Ch. 41, §4).
->
-> **4. Non-Western *theories* of *modality*.** The *Indian* *Nyāya-Vaiśeṣika* *tradition* *developed* a *sophisticated* *theory* of *possibility* and *necessity* (the *debate* on *kārya-kāraṇa*, the *svabhāva* *theory*, the *apūrva* *theory*), and the *Buddhist* *tradition* *developed* a *radical* *anti-essentialism* (the *anattā* *doctrine*, the *apoha* *theory*). The *traditions* *anticipate* the *contemporary* *debate* *between* *essentialism* and *anti-essentialism*, and they *offer* *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. Modality and *artificial* *intelligence*.** The *AI* *systems* *reason* *counterfactually* (the *“what-if”* *prompting*, the *planning* *algorithms*), and the *philosophical* *questions* — *what* *is* the *modal* *knowledge* of an *AI*? *is* it *grounded* in *conceivability* or in *empirical* *regularities*? — are *new* and *urgent* (Ch. 29, §3). The *answers* *depend* on the *theory* of *modal* *epistemology* of §6, and the *theory* *needs* to *be* *general* *enough* to *cover* *both* *human* and *machine* *reasoners*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *Barcan* *formula* and the *ontology* of *possible* *objects*.** The *validity* of BF determines whether *possibilia* are *actual* *entities* — whether there are *non-actual* *objects* (Ch. 14, §2). The *debate* is *technical*, and it is *connected* to the *debate* between *actualism* (Plantinga) and *possibilism* (Lewis). The *actualist* *must* *paraphrase* *away* the *quantification* *over* *possibilia*; the *possibilist* *accepts* it. The *choice* is *ontological*, not *logical*.
+
+**2. Essence and *de re* modality in the *history* of philosophy.** The *medieval* *debates* on *de re* *modality*, *essentialism*, and *haecceity* (Duns Scotus, Ockham, Buridan) are *sophisticated*, and they *anticipate* the *contemporary* *debate* in *detail*. The *study* of the *history* is not *antiquarian*; it is a *source* of *arguments* (Knuuttila 1993; the *Stanford* *Encyclopedia* entry, “Medieval Theories of Modality”).
+
+**3. Modality and *quantum* *mechanics*.** The *modal* *interpretation* of *quantum* *mechanics* (Dieks, Vermaas, Kochen) *treats* the *quantum* *state* as a *catalogue* of *possibilities*, and the *measurement* as the *actualisation* of *one* of them. The *view* is *contested*, and it is *connected* to the *debate* about *modality* *in* *physics* (Ch. 19, §5; Ch. 41, §4).
+
+**4. Non-Western *theories* of *modality*.** The *Indian* *Nyāya-Vaiśeṣika* *tradition* *developed* a *sophisticated* *theory* of *possibility* and *necessity* (the *debate* on *kārya-kāraṇa*, the *svabhāva* *theory*, the *apūrva* *theory*), and the *Buddhist* *tradition* *developed* a *radical* *anti-essentialism* (the *anattā* *doctrine*, the *apoha* *theory*). The *traditions* *anticipate* the *contemporary* *debate* *between* *essentialism* and *anti-essentialism*, and they *offer* *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. Modality and *artificial* *intelligence*.** The *AI* *systems* *reason* *counterfactually* (the *“what-if”* *prompting*, the *planning* *algorithms*), and the *philosophical* *questions* — *what* *is* the *modal* *knowledge* of an *AI*? *is* it *grounded* in *conceivability* or in *empirical* *regularities*? — are *new* and *urgent* (Ch. 29, §3). The *answers* *depend* on the *theory* of *modal* *epistemology* of §6, and the *theory* *needs* to *be* *general* *enough* to *cover* *both* *human* and *machine* *reasoners*.
 
 ---
 

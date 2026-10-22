@@ -681,18 +681,19 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 12</b> (advanced / cross-cutting)</summary>
->
-> **1. The *problem* of *empty* *names*.** Names that *do* not *refer* — *Sherlock Holmes*, *phlogiston*, *Vulcan* — *seem* to be *meaningful* and to *figure* in *true* *statements*. The *accounts*: *fictionalism* (Ch. 14, §5), *pretence* (Walton 1990), *metalinguistic* (Kripke 2013), *gappy* *propositions* (Braun 1993). The *debate* is *connected* to the *theory* of *fiction* (Ch. 49, §4).
->
-> **2. The *semantics* of *belief* *reports*.** "Lois believes that Superman can fly" and "Lois believes that Clark Kent can fly" — the *substitution* *puzzles* (Frege 1892) are the *central* *test* for any *theory* of *reference*. The *solutions*: *modes of presentation* (Frege, Evans), *guises* (Salmon), *two-dimensionalism* (Chalmers), *metalinguistic* (Stalnaker). The *debate* is *unresolved*.
->
-> **3. The *epistemology* of *self-knowledge* *and* the *social* *turn*.** The *social* *mediation* of *self-knowledge* (Ch. 12, §6.6) is *connected* to *epistemic* *injustice* (Ch. 11, §4) and to the *hermeneutical* *gap*. The *political* *implications* are *serious*, and *underdeveloped*.
->
-> **4. Non-Western *theories* of *reference*.** The *Indian* *grammarian* *tradition* (Patañjali, Bhartṛhari) *developed* a *theory* of *meaning* and *reference* that *anticipates* many of the *contemporary* *debates*. The *Buddhist* *apoha* *theory* (Dignāga) *holds* that *words* *refer* *not* to *positive* *entities* but to the *exclusion* of *others* — a *form* of *nominalism* that is *relevant* to the *debate* about *natural* *kinds* (Ch. 15, §2). These are *systematic* *alternatives*, not *curiosities*.
->
-> **5. The *metaphysics* of *propositions*.** The *Russellian* *theory* *of* *structured* *propositions* is *one* *option*; the *Fregean* *theory* (propositions as *senses*), the *possible-worlds* *theory* (propositions as *sets* of *worlds*), and the *deflationary* *theory* (propositions as *mere* *abstractions* from *sentences*) are *others*. The *debate* is *connected* to the *theory* of *truth* (Ch. 32) and to the *theory* of *modality* (Ch. 16).
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *problem* of *empty* *names*.** Names that *do* not *refer* — *Sherlock Holmes*, *phlogiston*, *Vulcan* — *seem* to be *meaningful* and to *figure* in *true* *statements*. The *accounts*: *fictionalism* (Ch. 14, §5), *pretence* (Walton 1990), *metalinguistic* (Kripke 2013), *gappy* *propositions* (Braun 1993). The *debate* is *connected* to the *theory* of *fiction* (Ch. 49, §4).
+
+**2. The *semantics* of *belief* *reports*.** "Lois believes that Superman can fly" and "Lois believes that Clark Kent can fly" — the *substitution* *puzzles* (Frege 1892) are the *central* *test* for any *theory* of *reference*. The *solutions*: *modes of presentation* (Frege, Evans), *guises* (Salmon), *two-dimensionalism* (Chalmers), *metalinguistic* (Stalnaker). The *debate* is *unresolved*.
+
+**3. The *epistemology* of *self-knowledge* *and* the *social* *turn*.** The *social* *mediation* of *self-knowledge* (Ch. 12, §6.6) is *connected* to *epistemic* *injustice* (Ch. 11, §4) and to the *hermeneutical* *gap*. The *political* *implications* are *serious*, and *underdeveloped*.
+
+**4. Non-Western *theories* of *reference*.** The *Indian* *grammarian* *tradition* (Patañjali, Bhartṛhari) *developed* a *theory* of *meaning* and *reference* that *anticipates* many of the *contemporary* *debates*. The *Buddhist* *apoha* *theory* (Dignāga) *holds* that *words* *refer* *not* to *positive* *entities* but to the *exclusion* of *others* — a *form* of *nominalism* that is *relevant* to the *debate* about *natural* *kinds* (Ch. 15, §2). These are *systematic* *alternatives*, not *curiosities*.
+
+**5. The *metaphysics* of *propositions*.** The *Russellian* *theory* *of* *structured* *propositions* is *one* *option*; the *Fregean* *theory* (propositions as *senses*), the *possible-worlds* *theory* (propositions as *sets* of *worlds*), and the *deflationary* *theory* (propositions as *mere* *abstractions* from *sentences*) are *others*. The *debate* is *connected* to the *theory* of *truth* (Ch. 32) and to the *theory* of *modality* (Ch. 16).
 
 ---
 

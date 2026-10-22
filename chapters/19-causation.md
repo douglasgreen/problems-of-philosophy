@@ -799,18 +799,19 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 18</b> (advanced / cross-cutting)</summary>
->
-> **1. The *asymmetry* of *causation* and the *arrow* of *time*.** The *most* *difficult* *problem* in the field is the *asymmetry*: why does *causation* *align* with the *temporal* *arrow*? The *counterfactual* *answer* (Lewis 1979) *grounds* the *asymmetry* in the *asymmetry* of *overdetermination*; the *process* *answer* *grounds* it in the *direction* of *physical* *processes* (the *retarded* *potentials*); the *agency* *answer* (Price 1996; Woodward 2003) *grounds* it in the *practical* *intervention*. The *debate* is *connected* to Ch. 17, §6, and it is *unresolved*.
->
-> **2. The *normativity* of *causation*.** The *causal* *claims* *encode* *norms* (the *abnormal* *condition* is the *cause*; the *foreseeable* *harm* is *attributable*). The *normative* *dimension* is *central* to the *law* (§8.2) and to the *ethics* of *attribution* (§8.3). The *philosophical* *question* — is the *normativity* *constitutive* of *causation*, or *parasitic* on it? — is *unresolved*.
->
-> **3. The *causal* *exclusion* *argument*.** If *mental* *events* *cause* *physical* *events*, and *physical* *events* *cause* *physical* *events*, the *mental* *causes* *are* *excluded* (Kim 1998; Ch. 21, §3; Ch. 23, §5). The *argument* is *one* of the *most* *important* *applications* of the *theory* of *causation*, and it is *unresolved*.
->
-> **4. Non-Western *theories* of *causation*.** The *Nyāya-Vaiśeṣika* *tradition* *developed* a *theory* of *causation* (the *satkāryavāda* and *asatkāryavāda* *debates*, the *kāraṇa* *theory*) that *anticipates* the *contemporary* *debate* *between* *production* and *difference-making*. The *Buddhist* *tradition* *developed* a *theory* of *dependent* *origination* (*pratītyasamutpāda*) that *is* a *form* of *causal* *pluralism* *avant* *la* *lettre*. The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *causation* *and* *artificial* *intelligence*.** The *causal* *inference* *literature* (Pearl, Spirtes et al.) is the *foundation* of *AI* *causal* *reasoning* (the *causal* *Bayesian* *networks*, the *reinforcement* *learning* *agents*). The *philosophical* *questions* — *what* *is* the *causal* *knowledge* of an *AI*? *is* it *grounded* in *intervention* or in *correlation*? — are *new* and *urgent* (Ch. 29, §3).
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *asymmetry* of *causation* and the *arrow* of *time*.** The *most* *difficult* *problem* in the field is the *asymmetry*: why does *causation* *align* with the *temporal* *arrow*? The *counterfactual* *answer* (Lewis 1979) *grounds* the *asymmetry* in the *asymmetry* of *overdetermination*; the *process* *answer* *grounds* it in the *direction* of *physical* *processes* (the *retarded* *potentials*); the *agency* *answer* (Price 1996; Woodward 2003) *grounds* it in the *practical* *intervention*. The *debate* is *connected* to Ch. 17, §6, and it is *unresolved*.
+
+**2. The *normativity* of *causation*.** The *causal* *claims* *encode* *norms* (the *abnormal* *condition* is the *cause*; the *foreseeable* *harm* is *attributable*). The *normative* *dimension* is *central* to the *law* (§8.2) and to the *ethics* of *attribution* (§8.3). The *philosophical* *question* — is the *normativity* *constitutive* of *causation*, or *parasitic* on it? — is *unresolved*.
+
+**3. The *causal* *exclusion* *argument*.** If *mental* *events* *cause* *physical* *events*, and *physical* *events* *cause* *physical* *events*, the *mental* *causes* *are* *excluded* (Kim 1998; Ch. 21, §3; Ch. 23, §5). The *argument* is *one* of the *most* *important* *applications* of the *theory* of *causation*, and it is *unresolved*.
+
+**4. Non-Western *theories* of *causation*.** The *Nyāya-Vaiśeṣika* *tradition* *developed* a *theory* of *causation* (the *satkāryavāda* and *asatkāryavāda* *debates*, the *kāraṇa* *theory*) that *anticipates* the *contemporary* *debate* *between* *production* and *difference-making*. The *Buddhist* *tradition* *developed* a *theory* of *dependent* *origination* (*pratītyasamutpāda*) that *is* a *form* of *causal* *pluralism* *avant* *la* *lettre*. The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *causation* *and* *artificial* *intelligence*.** The *causal* *inference* *literature* (Pearl, Spirtes et al.) is the *foundation* of *AI* *causal* *reasoning* (the *causal* *Bayesian* *networks*, the *reinforcement* *learning* *agents*). The *philosophical* *questions* — *what* *is* the *causal* *knowledge* of an *AI*? *is* it *grounded* in *intervention* or in *correlation*? — are *new* and *urgent* (Ch. 29, §3).
 
 ---
 

@@ -679,18 +679,19 @@ The table is a map, not a verdict. The reader who wants to choose a theory must 
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 8</b> (advanced / cross-cutting)</summary>
->
-> **1. The Bayesian structure of justification.** The Bayesian framework (Ch. 10, §4) offers a *formal* account of justification: a belief is justified if it is the result of conditionalising on the evidence. The account is *internalist* (the evidence is the subject’s) and *holistic* (the justification depends on the prior and the likelihood). The debate about the priors (Ch. 10, §5) is the Bayesian version of the regress.
->
-> **2. The “epistemic” conception of defeat and the “reasons” tradition.** The debate between the “reasons” tradition (internalism) and the “reliability” tradition (externalism) is the deepest divide in the field. The “epistemic” conception of defeat (Bergmann, Pryor) is the most promising attempt to bridge it.
->
-> **3. Epistemic injustice and the structure of justification.** Fricker (2007) argues that the theory of justification has neglected the *social* conditions of justification: whose evidence is *heard*, whose testimony is *believed*, whose competence is *recognised*. The virtue tradition has begun to incorporate this (Ch. 11, §4), but the theory of justification has not yet fully absorbed it.
->
-> **4. Non-Western epistemologies of justification.** The Indian *pramāṇa* tradition developed a sophisticated theory of justification that anticipates many of the contemporary debates: the *svataḥ prāmāṇya* (self-validity) debate about the default status of cognition, the *parataḥ prāmāṇya* (external validity) debate about the need for external confirmation, and the *khyāti* (error) theories. The debate between the *svataḥ* and *parataḥ* views is a version of the foundationalism/coherentism debate, and it is worth studying as a systematic alternative (see Matilal 1986; Ganeri 2001).
->
-> **5. The epistemology of the “extended mind.”** If cognition extends beyond the skull (Clark & Chalmers 1998; Ch. 30, §4), then the structure of justification may extend too: the notebook, the search engine, and the institutional archive are part of the subject’s epistemic system. The implication for the internalism/externalism debate is profound, and it is only beginning to be explored.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The Bayesian structure of justification.** The Bayesian framework (Ch. 10, §4) offers a *formal* account of justification: a belief is justified if it is the result of conditionalising on the evidence. The account is *internalist* (the evidence is the subject’s) and *holistic* (the justification depends on the prior and the likelihood). The debate about the priors (Ch. 10, §5) is the Bayesian version of the regress.
+
+**2. The “epistemic” conception of defeat and the “reasons” tradition.** The debate between the “reasons” tradition (internalism) and the “reliability” tradition (externalism) is the deepest divide in the field. The “epistemic” conception of defeat (Bergmann, Pryor) is the most promising attempt to bridge it.
+
+**3. Epistemic injustice and the structure of justification.** Fricker (2007) argues that the theory of justification has neglected the *social* conditions of justification: whose evidence is *heard*, whose testimony is *believed*, whose competence is *recognised*. The virtue tradition has begun to incorporate this (Ch. 11, §4), but the theory of justification has not yet fully absorbed it.
+
+**4. Non-Western epistemologies of justification.** The Indian *pramāṇa* tradition developed a sophisticated theory of justification that anticipates many of the contemporary debates: the *svataḥ prāmāṇya* (self-validity) debate about the default status of cognition, the *parataḥ prāmāṇya* (external validity) debate about the need for external confirmation, and the *khyāti* (error) theories. The debate between the *svataḥ* and *parataḥ* views is a version of the foundationalism/coherentism debate, and it is worth studying as a systematic alternative (see Matilal 1986; Ganeri 2001).
+
+**5. The epistemology of the “extended mind.”** If cognition extends beyond the skull (Clark & Chalmers 1998; Ch. 30, §4), then the structure of justification may extend too: the notebook, the search engine, and the institutional archive are part of the subject’s epistemic system. The implication for the internalism/externalism debate is profound, and it is only beginning to be explored.
 
 ---
 

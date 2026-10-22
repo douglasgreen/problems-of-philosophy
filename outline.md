@@ -66,13 +66,14 @@
 4. The ethics of intellectual discourse: honesty about strength of evidence, calibrated confidence, the vice of cleverness.
 5. Self-examination: the *philosophical diary* and the habit of writing out one's own best objection.
 
-> <details><summary><b>Optional threads for Part I</b> (advanced / cross-cutting)</summary>
->
-> - The analytic/continental divide as a sociological fact, not a logical one; what each tradition contributes to method.
-> - Formal epistemology and the Bayesian toolkit as a *general* method, not just a theory of evidence.
-> - The problem of the criterion (Sextus Empiricus → Chisholm) as the meta-problem of method — previewed here, answered in Ch. 13.
-> - Philosophy as therapy (Wittgenstein, the Stoics, Buddhist *pramāṇa* theory) versus philosophy as construction.
-> </details>
+### Optional threads for Part I
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+- The analytic/continental divide as a sociological fact, not a logical one; what each tradition contributes to method.
+- Formal epistemology and the Bayesian toolkit as a *general* method, not just a theory of evidence.
+- The problem of the criterion (Sextus Empiricus → Chisholm) as the meta-problem of method — previewed here, answered in Ch. 13.
+- Philosophy as therapy (Wittgenstein, the Stoics, Buddhist *pramāṇa* theory) versus philosophy as construction.
 
 ---
 
@@ -160,13 +161,14 @@
 6. Error theory about knowledge? Radical scepticism as a *position* vs. a *practice*.
 7. Diagnosis: what a durable anti-sceptical stance looks like.
 
-> <details><summary><b>Optional threads for Part II</b></summary>
->
-> - Formal epistemology: the Sleeping Beauty and Doomsday puzzles as tests for any theory of evidence.
-> - Epistemic luck: the four-fold taxonomy (Gettier, doxastic, veritic, epistemic luck) and its place in a general theory.
-> - Memory, forgetting, and the extended mind: is my notebook part of my evidence?
-> - Non-Western epistemologies: *pramāṇa* theory, *zhi* (knowledge) in early Chinese thought, African epistemology of communalism — as genuine alternatives, not decorations.
-> </details>
+### Optional threads for Part II
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+- Formal epistemology: the Sleeping Beauty and Doomsday puzzles as tests for any theory of evidence.
+- Epistemic luck: the four-fold taxonomy (Gettier, doxastic, veritic, epistemic luck) and its place in a general theory.
+- Memory, forgetting, and the extended mind: is my notebook part of my evidence?
+- Non-Western epistemologies: *pramāṇa* theory, *zhi* (knowledge) in early Chinese thought, African epistemology of communalism — as genuine alternatives, not decorations.
 
 ---
 
@@ -254,13 +256,14 @@
 6. Constraints on metaphysics: science, common sense, ideology, and parsimony.
 7. A code of practice for the metaphysician.
 
-> <details><summary><b>Optional threads for Part III</b></summary>
->
-> - Mereology: parts, wholes, composition, and the special composition question; junk and gunk.
-> - Persistence puzzles: Ship of Theseus, statues and lumps, the problem of the many.
-> - Grounding and the metaphysics of metaphysics: is grounding a real relation or a notational variant of explanation?
-> - Non-Western metaphysics: *śūnyatā* and dependent origination, Nāgārjuna's anti-foundationalism, process metaphysics in Whitehead and in Chinese correlative thought.
-> </details>
+### Optional threads for Part III
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+- Mereology: parts, wholes, composition, and the special composition question; junk and gunk.
+- Persistence puzzles: Ship of Theseus, statues and lumps, the problem of the many.
+- Grounding and the metaphysics of metaphysics: is grounding a real relation or a notational variant of explanation?
+- Non-Western metaphysics: *śūnyatā* and dependent origination, Nāgārjuna's anti-foundationalism, process metaphysics in Whitehead and in Chinese correlative thought.
 
 ---
 
@@ -340,13 +343,14 @@
 6. Attention, mindfulness, and the metaphysics of the experiencing subject.
 7. Perception, affect, and the shape of the lived world — the phenomenological contribution.
 
-> <details><summary><b>Optional threads for Part IV</b></summary>
->
-> - The metaphysics of mental causation: exclusion, emergentism, and interventionism applied to the mental.
-> - Dreams, dissociation, and split-brain data as philosophical evidence.
-> - Panpsychism and its combination problem; cosmopsychism as an alternative.
-> - The mind in Buddhist and in classical Indian philosophy: *anattā*, the stream of consciousness, and the hard problem avant la lettre.
-> </details>
+### Optional threads for Part IV
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+- The metaphysics of mental causation: exclusion, emergentism, and interventionism applied to the mental.
+- Dreams, dissociation, and split-brain data as philosophical evidence.
+- Panpsychism and its combination problem; cosmopsychism as an alternative.
+- The mind in Buddhist and in classical Indian philosophy: *anattā*, the stream of consciousness, and the hard problem avant la lettre.
 
 ---
 
@@ -417,13 +421,14 @@
 6. Generics, dispositions, and "ceteris paribus" claims.
 7. Conditionals and the analysis of causation: the circularity worry.
 
-> <details><summary><b>Optional threads for Part V</b></summary>
->
-> - The formal semantics of proper names, natural-kind terms, and generics; semantic externalism and its epistemological consequences.
-> - Truth and the Liar in natural language; revenge problems.
-> - Universal and non-universal features of grammar (Chomsky, Evans) and their philosophical significance.
-> - Sign language, gesture, and the modality-neutrality of linguistic meaning.
-> </details>
+### Optional threads for Part V
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+- The formal semantics of proper names, natural-kind terms, and generics; semantic externalism and its epistemological consequences.
+- Truth and the Liar in natural language; revenge problems.
+- Universal and non-universal features of grammar (Chomsky, Evans) and their philosophical significance.
+- Sign language, gesture, and the modality-neutrality of linguistic meaning.
 
 ---
 
@@ -484,13 +489,14 @@
 6. The applicability puzzle: why does mathematics fit the world?
 7. Set theory, the continuum hypothesis, and the question of mathematical determinacy.
 
-> <details><summary><b>Optional threads for Part VI</b></summary>
->
-> - Mechanistic explanation and the new mechanistic philosophy; interventionism and causal discovery.
-> - Chaos, complexity, and emergent explanation; the limits of prediction.
-> - Philosophy of chemistry and of cognitive science: neglected domains with rich lessons.
-> - Mathematical practice as evidence: the philosophy of mathematical practice and its challenge to apriorism.
-> </details>
+### Optional threads for Part VI
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+- Mechanistic explanation and the new mechanistic philosophy; interventionism and causal discovery.
+- Chaos, complexity, and emergent explanation; the limits of prediction.
+- Philosophy of chemistry and of cognitive science: neglected domains with rich lessons.
+- Mathematical practice as evidence: the philosophy of mathematical practice and its challenge to apriorism.
 
 ---
 
@@ -572,13 +578,14 @@
 7. The ethics of war, punishment, and migration: hard cases where theories strain.
 8. Moral risk, uncertainty, and the ethics of emerging technologies.
 
-> <details><summary><b>Optional threads for Part VII</b></summary>
->
-> - Non-Western ethical traditions as systematic alternatives: Confucian *ren* and role-ethics, Buddhist ethics of compassion and interdependence, African *ubuntu*, Indian *dharma* and *karma* — treated as theories, not as curiosities.
-> - Feminist ethics and care ethics: the critique of abstraction and the primacy of relationships.
-> - Existentialism and phenomenology of value: authenticity, bad faith, and the creation of value.
-> - Population ethics and the problem of future persons: the non-identity problem and repugnant conclusions.
-> </details>
+### Optional threads for Part VII
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+- Non-Western ethical traditions as systematic alternatives: Confucian *ren* and role-ethics, Buddhist ethics of compassion and interdependence, African *ubuntu*, Indian *dharma* and *karma* — treated as theories, not as curiosities.
+- Feminist ethics and care ethics: the critique of abstraction and the primacy of relationships.
+- Existentialism and phenomenology of value: authenticity, bad faith, and the creation of value.
+- Population ethics and the problem of future persons: the non-identity problem and repugnant conclusions.
 
 ---
 

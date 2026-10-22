@@ -552,7 +552,9 @@ Each entry gives the case, the question worth asking, the concepts and chapters 
 
 ---
 
-<details><summary><b>Model sketches for selected cases</b> (8 of the 50, showing the expected skeleton rather than the full essay)</summary>
+### Model sketches for selected cases
+
+Eight of the fifty, showing the expected skeleton rather than the full essay.
 
 **Case 4 (statistical evidence).** The map: (a) purely probabilistic evidence is sufficient (b) it is never sufficient (c) it is sufficient only when the evidence is *causal* in the right way (the "individualisation" view). The live option is (c). Load-bearing premise: that a verdict requires an answer to "why this defendant?" and not merely "how likely?" The trap is to run a Bayesian calculation: the likelihood ratio can be enormous and the intuition that a conviction is illegitimate can survive — which shows the objection is to the *form* of the evidence, not its weight. Verdict: the individualisation view, with the cost that it makes some statistical evidence unusable.
 
@@ -569,8 +571,6 @@ Each entry gives the case, the question worth asking, the concepts and chapters 
 **Case 44 (partiality).** The map: (a) impartialism is correct and friendship must be justified as a general practice (b) partiality is a basic requirement of the ethical life (c) partiality is permitted but not required — a *permission* grounded in the value of particular relationships (the live option). Load-bearing premise: that the question is about the *structure* of moral reasons, not their strength. Verdict: (c), with the cost that it leaves the boundary of permissible partiality vague.
 
 **Case 50 (correlated testimony).** The map: (a) agreeing sources corroborate (b) agreement corroborates only if independent (c) agreement can corroborate even if correlated, when the *correlation* is itself explicable (the live option). Load-bearing premise: that corroboration is a matter of *conditional independence given the hypothesis*, not of the number of sources. This is where the Bayesian toolkit (Appendix A) does real philosophical work: the likelihood ratio is close to 1 when the sources are correlated.
-
-</details>
 
 ---
 
@@ -597,7 +597,7 @@ Two routes, both of which assume Part I has been read first. The short one is fo
 
 ### The one-year route
 
-<details><summary><b>Expand: the 52-week plan</b></summary>
+A year of work, in four quarters, with a daily practice running underneath it.
 
 **Q1 — Method and epistemology.** Ch. 1–13. Deliverables: three full analyses, one per month. Weekly: one argument map from Appendix C; one distinction test; one page of the philosophical diary (Ch. 4, §5).
 
@@ -608,8 +608,6 @@ Two routes, both of which assume Part I has been read first. The short one is fo
 **Q4 — Value and metaphilosophy.** Ch. 44–54. Deliverables: two analyses on normative ethics; one on political philosophy; a final essay that traces one concept through the whole book (Ch. 53, §7).
 
 **The daily practice.** Twenty minutes: reconstruct one argument from memory, then check it against its source. This is the single highest-yield exercise in the book, and it is also the one most often skipped, because it feels like recitation. It is not: reconstruction from memory reveals the suppressed premises you have been supplying silently, and those are your own philosophical commitments, which is what you most need to see.
-
-</details>
 
 ### When you are stuck
 

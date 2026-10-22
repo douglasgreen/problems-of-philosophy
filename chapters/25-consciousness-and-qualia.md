@@ -674,18 +674,19 @@ The table is a map, not a verdict. The reader who wants to choose a position mus
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 24</b> (advanced / cross-cutting)</summary>
->
-> **1. The *mysterian* position.** McGinn (*The Problem of Consciousness*, 1991; *The Mysterious Flame*, 1999) argues that the *hard* *problem* is *unsolvable* *by* *human* *beings*, because our *cognitive* *faculties* are *not* *equipped* to *understand* the *mind–body* *relation*. The *view* is *a* *form* of *epistemic* *humility*, and it is *contested* (the *“mysterianism* *is* *a* *cop-out”* *objection*).
->
-> **2. The *predictive* *processing* *account*.** Seth (*Being You*, 2021) *argues* that *consciousness* is the *content* of the *brain’s* *predictions* about its *own* *body* (the *“beast* *machine”*). The *account* *fits* the *predictive* *processing* *framework* (Ch. 5, §5.2), and it is *promising* and *incomplete*.
->
-> **3. The *quantum* *consciousness* *hypotheses*.** Penrose (*Shadows of the Mind*, 1994) and Hameroff (*“Quantum Computation in Brain Microtubules”*, 1998) *propose* that *consciousness* *arises* from *quantum* *processes* in *microtubules*. The *hypothesis* is *contested* (the *decoherence* *problem*; the *lack* of *evidence*), and it is *a* *minority* *position*.
->
-> **4. Non-Western *theories* of *consciousness*.** The *Buddhist* *Abhidharma* *tradition* *developed* a *sophisticated* *taxonomy* of *mental* *states* (the *“five* *aggregates”*, the *“fifty-one* *mental* *factors”*) that *anticipates* the *contemporary* *theories* of *consciousness*, and the *Advaita* *Vedānta* *tradition* *developed* a *radical* *monism* that *anticipates* the *idealist* and *panpsychist* *accounts* (Ch. 19, §7; Ch. 20, §4). The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; Thompson 2020).
->
-> **5. The *ethics* of *consciousness*.** The *attribution* of *consciousness* has *ethical* *consequences* (animals, infants, AI), and the *ethics* is *underdeveloped*. The *“precautionary* *principle”* (Birch 2017) is *one* *response*, and it is *contested*. The *ethics* of *consciousness* is *the* *most* *urgent* *area* of the *field*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *mysterian* position.** McGinn (*The Problem of Consciousness*, 1991; *The Mysterious Flame*, 1999) argues that the *hard* *problem* is *unsolvable* *by* *human* *beings*, because our *cognitive* *faculties* are *not* *equipped* to *understand* the *mind–body* *relation*. The *view* is *a* *form* of *epistemic* *humility*, and it is *contested* (the *“mysterianism* *is* *a* *cop-out”* *objection*).
+
+**2. The *predictive* *processing* *account*.** Seth (*Being You*, 2021) *argues* that *consciousness* is the *content* of the *brain’s* *predictions* about its *own* *body* (the *“beast* *machine”*). The *account* *fits* the *predictive* *processing* *framework* (Ch. 5, §5.2), and it is *promising* and *incomplete*.
+
+**3. The *quantum* *consciousness* *hypotheses*.** Penrose (*Shadows of the Mind*, 1994) and Hameroff (*“Quantum Computation in Brain Microtubules”*, 1998) *propose* that *consciousness* *arises* from *quantum* *processes* in *microtubules*. The *hypothesis* is *contested* (the *decoherence* *problem*; the *lack* of *evidence*), and it is *a* *minority* *position*.
+
+**4. Non-Western *theories* of *consciousness*.** The *Buddhist* *Abhidharma* *tradition* *developed* a *sophisticated* *taxonomy* of *mental* *states* (the *“five* *aggregates”*, the *“fifty-one* *mental* *factors”*) that *anticipates* the *contemporary* *theories* of *consciousness*, and the *Advaita* *Vedānta* *tradition* *developed* a *radical* *monism* that *anticipates* the *idealist* and *panpsychist* *accounts* (Ch. 19, §7; Ch. 20, §4). The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; Thompson 2020).
+
+**5. The *ethics* of *consciousness*.** The *attribution* of *consciousness* has *ethical* *consequences* (animals, infants, AI), and the *ethics* is *underdeveloped*. The *“precautionary* *principle”* (Birch 2017) is *one* *response*, and it is *contested*. The *ethics* of *consciousness* is *the* *most* *urgent* *area* of the *field*.
 
 ---
 

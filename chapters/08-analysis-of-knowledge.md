@@ -182,25 +182,24 @@ The case for **no**: the industry has the structure of a **patching** exercise (
 
 The honest assessment is that both are partly right. The industry has produced genuine conceptual advances (the distinction between *justification* and *warrant*, the notion of *safety*, the virtue-theoretic framework), and it has also produced a great deal of ad hoc patching. The methodological lesson is the one Ch. 3, §1.6 stated: **a theory that has been patched ten times is on the defensive.** The question is whether the defence is *principled* — whether each clause has independent motivation — or merely *reactive*.
 
-> <details><summary><b>Workshop: the Gettier generator</b></summary>
->
-> The recipe is best learned by using it. Here is a template, with three worked instances.
->
-> **Template.** Let $p$ be a proposition that $S$ is justified in believing but that is false. Let $q$ be a proposition whose truth is independent of $S$'s justification. Form the disjunction $p \vee q$ (or the existential $\exists x\, Fx$ where $S$'s evidence concerns a particular $a$ that is $F$ but not the thing that makes the existential true). The result is a Gettier case if:
->
-> 1. $S$ is justified in believing the disjunction (closure);
-> 2. the disjunction is true (because $q$ is true);
-> 3. the truth is not connected to $S$'s justification;
-> 4. $S$ does not know the disjunction.
->
-> **Instance 1 (the coins).** $p$ = “Jones will get the job and has ten coins”; $q$ = “Smith has ten coins and will get the job”; disjunction = “the man who will get the job has ten coins.”
->
-> **Instance 2 (the Ford).** $p$ = “Jones owns a Ford”; $q$ = “Brown is in Barcelona”; disjunction = “Jones owns a Ford or Brown is in Barcelona.”
->
-> **Instance 3 (your own).** Choose a domain in which you have justified false beliefs — a scientific theory you accept that is about to be refuted, a person you trust who is about to betray you, a map you are using that is slightly wrong. Construct the disjunction. Ask: is the resulting case a Gettier case? If not, why not? If so, what does the analysis need to add to exclude it?
->
-> **The methodological point.** The generator shows that Gettier cases are *cheap*: they can be manufactured in any domain in which fallible justification is possible. This is why the fourth-condition industry has not converged: the supply of counterexamples is inexhaustible. The question is not whether an analysis can handle *this* case, but whether it has a *principled* account of the connection between justification and truth — and that is a question about the nature of justification, not about the number of clauses.
-> </details>
+### Workshop: the Gettier generator
+
+The recipe is best learned by using it. Here is a template, with three worked instances.
+
+**Template.** Let $p$ be a proposition that $S$ is justified in believing but that is false. Let $q$ be a proposition whose truth is independent of $S$'s justification. Form the disjunction $p \vee q$ (or the existential $\exists x\, Fx$ where $S$'s evidence concerns a particular $a$ that is $F$ but not the thing that makes the existential true). The result is a Gettier case if:
+
+1. $S$ is justified in believing the disjunction (closure);
+2. the disjunction is true (because $q$ is true);
+3. the truth is not connected to $S$'s justification;
+4. $S$ does not know the disjunction.
+
+**Instance 1 (the coins).** $p$ = “Jones will get the job and has ten coins”; $q$ = “Smith has ten coins and will get the job”; disjunction = “the man who will get the job has ten coins.”
+
+**Instance 2 (the Ford).** $p$ = “Jones owns a Ford”; $q$ = “Brown is in Barcelona”; disjunction = “Jones owns a Ford or Brown is in Barcelona.”
+
+**Instance 3 (your own).** Choose a domain in which you have justified false beliefs — a scientific theory you accept that is about to be refuted, a person you trust who is about to betray you, a map you are using that is slightly wrong. Construct the disjunction. Ask: is the resulting case a Gettier case? If not, why not? If so, what does the analysis need to add to exclude it?
+
+**The methodological point.** The generator shows that Gettier cases are *cheap*: they can be manufactured in any domain in which fallible justification is possible. This is why the fourth-condition industry has not converged: the supply of counterexamples is inexhaustible. The question is not whether an analysis can handle *this* case, but whether it has a *principled* account of the connection between justification and truth — and that is a question about the nature of justification, not about the number of clauses.
 
 ---
 
@@ -571,18 +570,19 @@ The honest verdict: the analysis of knowledge is a **research programme in trans
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 7</b> (advanced / cross-cutting)</summary>
->
-> **1. The generality problem.** Every reliabilist and virtue-theoretic analysis faces the question: *which* process type is the relevant one? The problem is pressed by Conee and Feldman (1985, 1998), and it is the most serious technical challenge to the externalist programme. The proposed solutions (the “contextualist” solution, the “dispositional” solution, the “epistemic” solution) are all contested.
->
-> **2. The “knowledge without belief” debate.** Radford (1966), and the subsequent literature, is the best entry point into the question of whether belief is a condition of knowledge. The debate connects to the nature of implicit cognition (Ch. 30, §5) and to the self-knowledge literature (Ch. 12, §6).
->
-> **3. Epistemic injustice and the analysis of knowledge.** Fricker (2007) argues that the analysis of knowledge has neglected the *social* conditions of knowledge: whose testimony is believed, whose competence is recognized, and whose ignorance is excused. The “virtue” tradition has begun to incorporate this (Ch. 11, §4), but the analysis of knowledge has not yet fully absorbed it.
->
-> **4. Non-Western epistemologies.** The Indian *pramāṇa* tradition (Nyāya, Mīmāṃsā, Buddhist) developed a sophisticated analysis of knowledge (*pramā*) that anticipates many of the contemporary debates: the *svataḥ prāmāṇya* (self-validity) debate about the default status of cognition, the *khyāti* (error) theories, and the *pramāṇa-samuccaya* theory of the sources of knowledge. These are systematic alternatives, not curiosities (Ch. 11, optional thread).
->
-> **5. Knowledge and artificial intelligence.** If knowledge requires belief, and belief requires consciousness, then AI systems cannot know. If knowledge is a functional state, they can. The debate about machine knowledge (Ch. 29, §3) is a test case for the analysis, and it has practical stakes for the design of AI systems.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The generality problem.** Every reliabilist and virtue-theoretic analysis faces the question: *which* process type is the relevant one? The problem is pressed by Conee and Feldman (1985, 1998), and it is the most serious technical challenge to the externalist programme. The proposed solutions (the “contextualist” solution, the “dispositional” solution, the “epistemic” solution) are all contested.
+
+**2. The “knowledge without belief” debate.** Radford (1966), and the subsequent literature, is the best entry point into the question of whether belief is a condition of knowledge. The debate connects to the nature of implicit cognition (Ch. 30, §5) and to the self-knowledge literature (Ch. 12, §6).
+
+**3. Epistemic injustice and the analysis of knowledge.** Fricker (2007) argues that the analysis of knowledge has neglected the *social* conditions of knowledge: whose testimony is believed, whose competence is recognized, and whose ignorance is excused. The “virtue” tradition has begun to incorporate this (Ch. 11, §4), but the analysis of knowledge has not yet fully absorbed it.
+
+**4. Non-Western epistemologies.** The Indian *pramāṇa* tradition (Nyāya, Mīmāṃsā, Buddhist) developed a sophisticated analysis of knowledge (*pramā*) that anticipates many of the contemporary debates: the *svataḥ prāmāṇya* (self-validity) debate about the default status of cognition, the *khyāti* (error) theories, and the *pramāṇa-samuccaya* theory of the sources of knowledge. These are systematic alternatives, not curiosities (Ch. 11, optional thread).
+
+**5. Knowledge and artificial intelligence.** If knowledge requires belief, and belief requires consciousness, then AI systems cannot know. If knowledge is a functional state, they can. The debate about machine knowledge (Ch. 29, §3) is a test case for the analysis, and it has practical stakes for the design of AI systems.
 
 ---
 

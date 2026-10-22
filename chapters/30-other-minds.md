@@ -695,18 +695,19 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 29</b> (advanced / cross-cutting)</summary>
->
-> **1. The *social* *epistemology* of *mind* *attribution*.** The *attribution* of *mind* is *socially* *shaped* (the *credibility* of the *testifier*, the *norms* of the *community*), and the *social* *dimension* *connects* the *problem* to the *epistemic* *injustice* *literature* (Ch. 11, §4). The *attribution* of *mind* to *marginalized* *groups* is *often* *denied* (the *dehumanization* *literature*; the *contemporary* *literature*), and the *denial* is an *epistemic* *injustice*.
->
-> **2. The *moral* *status* of *AI*.** The *AI* *systems* *are* *increasingly* *autonomous*, and the *question* of their *moral* *status* (the *rights*, the *responsibilities*, the *welfare*) is *urgent* (Ch. 51, §3). The *contemporary* *literature* (the *essays* in *The Ethics of Artificial Intelligence*, ed. Frankish and Ramsey, 2014; the *AI* *welfare* *literature*) is *rich* and *unresolved*.
->
-> **3. The *comparative* *cognition* *literature*.** The *empirical* *study* of *animal* *cognition* (the *contemporary* *literature*) *transforms* the *problem* of *other* *minds* from a *philosophical* *curiosity* to an *empirical* *inquiry*, and the *findings* *challenge* the *human*-*centred* *conceptions* of *mind* (the *“*animal* *minds”* *literature*; the *contemporary* *literature*).
->
-> **4. Non-Western *theories* of *other* *minds*.** The *Buddhist* *tradition* *developed* a *sophisticated* *theory* of *empathy* and *compassion* (the *“*brahmavihāras”*; the *“*metta”* *practice*) that *anticipates* the *direct*-*perception* *view*, and the *Nyāya* *tradition* *developed* a *theory* of *analogy* (*upamāna*) that *anticipates* the *classical* *argument*. The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *epistemology* of *dehumanization*.** The *denial* of *mind* to *others* (the *dehumanization*) is a *pervasive* *phenomenon* (the *colonial* *discourse*, the *racist* *discourse*, the *sexist* *discourse*), and the *phenomenon* *connects* the *problem* of *other* *minds* to the *political* *epistemology* (Ch. 13, §5) and to the *ethics* of *testimony* (Ch. 11, §4). The *connection* is *underdeveloped*, and it is *urgent*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *social* *epistemology* of *mind* *attribution*.** The *attribution* of *mind* is *socially* *shaped* (the *credibility* of the *testifier*, the *norms* of the *community*), and the *social* *dimension* *connects* the *problem* to the *epistemic* *injustice* *literature* (Ch. 11, §4). The *attribution* of *mind* to *marginalized* *groups* is *often* *denied* (the *dehumanization* *literature*; the *contemporary* *literature*), and the *denial* is an *epistemic* *injustice*.
+
+**2. The *moral* *status* of *AI*.** The *AI* *systems* *are* *increasingly* *autonomous*, and the *question* of their *moral* *status* (the *rights*, the *responsibilities*, the *welfare*) is *urgent* (Ch. 51, §3). The *contemporary* *literature* (the *essays* in *The Ethics of Artificial Intelligence*, ed. Frankish and Ramsey, 2014; the *AI* *welfare* *literature*) is *rich* and *unresolved*.
+
+**3. The *comparative* *cognition* *literature*.** The *empirical* *study* of *animal* *cognition* (the *contemporary* *literature*) *transforms* the *problem* of *other* *minds* from a *philosophical* *curiosity* to an *empirical* *inquiry*, and the *findings* *challenge* the *human*-*centred* *conceptions* of *mind* (the *“*animal* *minds”* *literature*; the *contemporary* *literature*).
+
+**4. Non-Western *theories* of *other* *minds*.** The *Buddhist* *tradition* *developed* a *sophisticated* *theory* of *empathy* and *compassion* (the *“*brahmavihāras”*; the *“*metta”* *practice*) that *anticipates* the *direct*-*perception* *view*, and the *Nyāya* *tradition* *developed* a *theory* of *analogy* (*upamāna*) that *anticipates* the *classical* *argument*. The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *epistemology* of *dehumanization*.** The *denial* of *mind* to *others* (the *dehumanization*) is a *pervasive* *phenomenon* (the *colonial* *discourse*, the *racist* *discourse*, the *sexist* *discourse*), and the *phenomenon* *connects* the *problem* of *other* *minds* to the *political* *epistemology* (Ch. 13, §5) and to the *ethics* of *testimony* (Ch. 11, §4). The *connection* is *underdeveloped*, and it is *urgent*.
 
 ---
 

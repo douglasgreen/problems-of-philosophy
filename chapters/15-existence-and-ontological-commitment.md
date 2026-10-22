@@ -618,18 +618,19 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 ---
 
-> <details><summary><b>Optional threads for Ch. 14</b> (advanced / cross-cutting)</summary>
->
-> **1. The *Barcan* *formula* and *ontological* *commitment* *across* *worlds*.** The *formula* $\Diamond \exists x Fx \to \exists x \Diamond Fx$ (the *Barcan* *formula*) is *valid* in *some* *modal* *logics* and *invalid* in *others*. The *validity* *determines* whether *possible* *objects* are *in* the *actual* *domain*, and the *choice* is *metaphysically* *loaded* (Ch. 16, §2). The *debate* is *connected* to the *ontology* of *modality*, and it is *one* of the *most* *technical* *issues* in the *field*.
->
-> **2. The *set-theoretic* *paradoxes* and the *limits* of *comprehension*.** The *Meinongian* *principle* of *unrestricted* *comprehension* is *structurally* *parallel* to the *naive* *comprehension* *principle* in *set* *theory*, and it is *subject* to the *same* *problems* (Russell’s *paradox*, Burali-Forti, Cantor). The *solutions* (the *iterative* *conception*, the *proper* *classes*, the *paraconsistent* *logic*) are *technical* and *contested* (Ch. 43, §7).
->
-> **3. The *ontology* of *fiction*.** The *debate* *between* the *fictionalists* (Walton 1990), the *Meinongians* (Parsons, Zalta), and the *“pretence”* *theorists* (Currie 1990) is a *test* *case* for the *theory* of *existence*. The *philosophical* *stakes* are *high*: the *account* of *fiction* *determines* the *account* of *reference*, *truth*, and *the* *imagination* (Ch. 49, §4).
->
-> **4. Non-Western *ontologies*.** The *Buddhist* *Abhidharma* *tradition* *developed* a *sophisticated* *ontology* of *dharmas* (irreducible *elements* of *experience*) that is *strikingly* *similar* to the *contemporary* *debate* *between* *substance* and *process* *ontologies* (Ch. 20, §5). The *Nyāya-Vaiśeṣika* *school* *developed* a *realist* *ontology* of *categories* (substance, quality, action, universality, inherence) that is a *systematic* *alternative* to the *Western* *taxonomy*. The *Daoist* *tradition* *developed* a *process* *ontology* that *anticipates* *Whitehead* (Ch. 20, §4). These are *systematic* *alternatives*, not *curiosities* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
->
-> **5. The *ethics* of *ontology*.** The *choice* of *ontology* is *not* *purely* *theoretical*: it *determines* *whose* *entities* are *real*, *whose* *categories* are *imposed*, and *whose* *world* is *recognized* (the *ontological* *turn*; Ch. 14, §7.2). The *ethics* of *ontology* is the *most* *underdeveloped* *area* of *metaphysics*, and it is the *most* *urgent*.
-> </details>
+## Optional threads
+
+Cross-cutting material, for the reader who wants to go deeper.
+
+**1. The *Barcan* *formula* and *ontological* *commitment* *across* *worlds*.** The *formula* $\Diamond \exists x Fx \to \exists x \Diamond Fx$ (the *Barcan* *formula*) is *valid* in *some* *modal* *logics* and *invalid* in *others*. The *validity* *determines* whether *possible* *objects* are *in* the *actual* *domain*, and the *choice* is *metaphysically* *loaded* (Ch. 16, §2). The *debate* is *connected* to the *ontology* of *modality*, and it is *one* of the *most* *technical* *issues* in the *field*.
+
+**2. The *set-theoretic* *paradoxes* and the *limits* of *comprehension*.** The *Meinongian* *principle* of *unrestricted* *comprehension* is *structurally* *parallel* to the *naive* *comprehension* *principle* in *set* *theory*, and it is *subject* to the *same* *problems* (Russell’s *paradox*, Burali-Forti, Cantor). The *solutions* (the *iterative* *conception*, the *proper* *classes*, the *paraconsistent* *logic*) are *technical* and *contested* (Ch. 43, §7).
+
+**3. The *ontology* of *fiction*.** The *debate* *between* the *fictionalists* (Walton 1990), the *Meinongians* (Parsons, Zalta), and the *“pretence”* *theorists* (Currie 1990) is a *test* *case* for the *theory* of *existence*. The *philosophical* *stakes* are *high*: the *account* of *fiction* *determines* the *account* of *reference*, *truth*, and *the* *imagination* (Ch. 49, §4).
+
+**4. Non-Western *ontologies*.** The *Buddhist* *Abhidharma* *tradition* *developed* a *sophisticated* *ontology* of *dharmas* (irreducible *elements* of *experience*) that is *strikingly* *similar* to the *contemporary* *debate* *between* *substance* and *process* *ontologies* (Ch. 20, §5). The *Nyāya-Vaiśeṣika* *school* *developed* a *realist* *ontology* of *categories* (substance, quality, action, universality, inherence) that is a *systematic* *alternative* to the *Western* *taxonomy*. The *Daoist* *tradition* *developed* a *process* *ontology* that *anticipates* *Whitehead* (Ch. 20, §4). These are *systematic* *alternatives*, not *curiosities* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
+
+**5. The *ethics* of *ontology*.** The *choice* of *ontology* is *not* *purely* *theoretical*: it *determines* *whose* *entities* are *real*, *whose* *categories* are *imposed*, and *whose* *world* is *recognized* (the *ontological* *turn*; Ch. 14, §7.2). The *ethics* of *ontology* is the *most* *underdeveloped* *area* of *metaphysics*, and it is the *most* *urgent*.
 
 ---
 
