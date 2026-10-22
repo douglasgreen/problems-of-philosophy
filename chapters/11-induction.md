@@ -4,7 +4,7 @@
 > — Hume, *An Enquiry Concerning Human Understanding*, IV.i
 
 > “Induction is the glory of science and the scandal of philosophy.”
-> — C. D. Broad, *The Mind and Its Place in Nature* (1925), paraphrased
+> — C. D. Broad, *The Mind and Its Place in Nature* (1925), p. 168
 
 ---
 
@@ -60,8 +60,6 @@ The justification of (IP) cannot be deductive: (IP)’s negation is conceivable 
 
 ### 1.3 The metaphysical form
 
-Hume’s *sceptical solution* is the second half of the argument, and it is frequently overlooked.
-
 The *epistemic* form says: induction is unjustified. The *metaphysical* (or *descriptive*) form says: there is **no necessary connection** in nature, and the “power” by which one event produces another is a projection of the mind.
 
 **The argument.**
@@ -83,9 +81,10 @@ The two forms are connected. If there is no necessary connection in nature, then
 
 ### 1.4 The “sceptical solution”
 
-Hume’s own response is *naturalistic* rather than *justificatory*.
+Hume’s *sceptical solution* is the second half of his treatment of the problem, and it is frequently overlooked. His own response is *naturalistic* rather than *justificatory*.
 
-> “Nature has determined us to judge as well as to breathe and feel. … Custom is the great guide of human life.” (*Enquiry* V.i)
+> “Nature, by an absolute and uncontrollable necessity, has determined us to judge as well as to breathe and feel.” (*Treatise of Human Nature* I.iv.1)
+> “Custom is the great guide of human life.” (*Enquiry* V.i)
 
 The response is: we *cannot help* reasoning inductively, because custom and habit determine our inferences. The sceptical *conclusion* is not refuted; it is *lived with*. This is the **mitigated scepticism** that Hume recommends at the end of the *Enquiry* (XII.iii): a scepticism that is “durable” and “useful” because it is *tempered* by nature.
 
@@ -95,7 +94,7 @@ The structure of the response is a **genetic** explanation, not a justification.
 
 The Humean argument is one of the most discussed in the history of philosophy, and its status is contested. Three issues.
 
-**(i) Is the argument *valid*?** The argument is valid if the premises are true. Premise 1 (every inductive inference presupposes uniformity) is contested: some philosophers (Norton 2003) argue that inductive inferences are *local* rather than *global*, and that the uniformity principle is not a premise of every inductive argument. Premise 3 (the circularity) is the crux: is the appeal to experience *viciously* circular, or is it *virtuously* circular (Ch. 2, §3.4)?
+**(i) Is the argument *valid*?** The argument is valid if the premises are true. Premise 1 (every inductive inference presupposes uniformity) is contested: some philosophers (Norton 2003) argue that inductive inferences are *local* rather than *global*, and that the uniformity principle is not a premise of every inductive argument. Premise 3 (the circularity) is the crux: is the appeal to experience *viciously* circular, or is it *virtuously* circular (Ch. 8, §3)?
 
 **(ii) Is the argument *sound*?** The soundness depends on the *conception of justification* that the argument presupposes. If justification must be *non-circular* and *certain*, then the argument is sound and induction is unjustified. If justification can be *circular* (in a virtuous way) or *fallible*, then the argument is not sound. The argument is *internal* to a *foundationalist* conception of justification (Ch. 8, §2), and it loses its force on a *coherentist* or *reliabilist* conception.
 
@@ -113,13 +112,13 @@ Mill’s *A System of Logic* (1843) is the most ambitious attempt to *systematis
 
 | Method | Principle | Form |
 |---|---|---|
-| **Agreement** | If two instances share only $A$ and both have $a$, then $A$ is the cause of $a$ | $\frac{ABC \to abc;\ ADE \to ade}{\therefore A \text{ causes } a}$ |
+| **Agreement** | If two instances agree in $A$ and $a$ (and differ in the other factors), then $A$ is the cause of $a$ | $\frac{ABC \to abc;\ ADE \to ade}{\therefore A \text{ causes } a}$ |
 | **Difference** | If two instances differ only in $A$, and differ in $a$, then $A$ is the cause of $a$ | $\frac{ABC \to abc;\ BC \to bc}{\therefore A \text{ causes } a}$ |
 | **Concomitant variation** | If $A$ varies with $a$, then $A$ is causally related to $a$ | $A \propto a$ |
 | **Residues** | Subtract the known causes from the phenomenon; the residue is due to the remaining antecedents | — |
 | **Joint method** | Agreement + difference | — |
 
-The methods are the *logic* of experimental science, and they are still taught (Ch. 18, §2; Ch. 38, §2). Their limitation is that they *presuppose* the causal structure they are meant to discover: the methods identify a cause only if the relevant variables are already in the list, and the list is supplied by *theory*, not by the methods.
+The methods are the *logic* of experimental science, and they are still taught (Ch. 18, §1.4; Ch. 38, §1.2). Their limitation is that they *presuppose* the causal structure they are meant to discover: the methods identify a cause only if the relevant variables are already in the list, and the list is supplied by *theory*, not by the methods.
 
 **(ii) The uniformity principle.** Mill’s justification of the methods is the **principle of the uniformity of nature**: “the course of nature is uniform.” Mill acknowledges that the principle is *itself* an induction, and he argues that it is justified by *its* success. The argument is circular, and Mill knows it:
 
@@ -195,7 +194,7 @@ Karl Popper (*The Logic of Scientific Discovery*, 1934/1959) offered the most *r
 
 **The objections.**
 
-**(i) The “prediction” problem.** To test a hypothesis, we must *derive* an observable consequence. The derivation is deductive, but the *observation* of the consequence is not: we must *identify* the observation as an instance of the predicted type, and the identification is *inductive*. (This is the “Duhem–Quine” problem, and the “theory-ladenness” of observation; Ch. 40, §3.)
+**(i) The “prediction” problem.** To test a hypothesis, we must *derive* an observable consequence. The derivation is deductive, but the *observation* of the consequence is not: we must *identify* the observation as an instance of the predicted type, and the identification is *inductive*. (This is the “Duhem–Quine” problem, and the “theory-ladenness” of observation; Ch. 40, §§3–4.)
 
 **(ii) The “corroboration” problem.** Popper says that a corroborated hypothesis is *preferable* to a falsified one. But *why*? The preference is a *methodological* rule, and the rule is *not* justified by *deductive* logic. If the preference is justified, it is justified by an *inductive* argument (the future will resemble the past: corroborated hypotheses have tended to be true).
 
@@ -223,7 +222,7 @@ The table is the *classical* map. The *modern* map is the subject of §§3–6.
 
 ### 3.1 The riddle
 
-Nelson Goodman’s *Fact, Fiction, and Forecast* (1955), Ch. 3, introduced the most important development in the problem of induction since Hume. The riddle is a *counterexample* to the *simple* account of confirmation.
+Nelson Goodman’s *Fact, Fiction, and Forecast* (1955), Ch. 3, introduced the most important development in the problem of induction since Hume. The riddle is a *counterexample* to the *simple* account of confirmation (Ch. 40, §1.4).
 
 **The definition.** A thing is **grue** if and only if it is green and examined before time $T$, or blue and not examined before $T$. (Take $T$ to be some future time, e.g., 2100.)
 
@@ -236,7 +235,7 @@ $$
 - $H_1$: All emeralds are green.
 - $H_2$: All emeralds are grue.
 
-But the hypotheses make *different* predictions about the *next* emerald. $H_1$ predicts it will be green. $H_2$ predicts it will be *blue* (because the next emerald will be examined after $T$, and grue things examined after $T$ are blue).
+But the hypotheses make *different* predictions about the *next* emerald. $H_1$ predicts it will be green. $H_2$ predicts it will be *blue* — provided that the next emerald is examined *after* $T$ (if it is examined before $T$, the two hypotheses agree, which is why the divergence shows up only in the *future*). Goodman’s point is not that the hypotheses differ on every case, but that they differ on the cases beyond $T$, and that the evidence is silent about which of them to prefer.
 
 **The problem.** The two hypotheses are *equally supported* by the evidence, but they make *incompatible* predictions. If both are confirmed, then the evidence confirms a contradiction. The *simple* account of confirmation — “a hypothesis is confirmed by its instances” — is *false*.
 
@@ -282,7 +281,7 @@ $$
 
 **(i) The “natural kinds” response (Quine 1969).** The projectible predicates are the ones that *correspond to natural kinds* — the *real* divisions in nature. The response is *realist*: the projectibility is grounded in the *structure of the world*, not in the *history of the language*. The problem: the *natural kinds* are themselves *contested*, and the *reduction* of projectibility to natural kinds is a *promissory note* (Ch. 39, §3).
 
-**(ii) The “causal” response.** The projectible predicates are the ones that *figure in causal laws* (Ch. 18, §5). The response is *naturalistic*: the projectibility is grounded in the *causal structure* of the world. The problem: the *causal* response *presupposes* the *inductive* inference (the causal laws are *discovered* by induction), and the circle returns.
+**(ii) The “causal” response.** The projectible predicates are the ones that *figure in causal laws* (Ch. 18, §7). The response is *naturalistic*: the projectibility is grounded in the *causal structure* of the world. The problem: the *causal* response *presupposes* the *inductive* inference (the causal laws are *discovered* by induction), and the circle returns.
 
 **(iii) The “Bayesian” response.** The projectibility of a predicate is a *matter of the prior probability* of the hypotheses that use it. “Green” hypotheses have *higher priors* than “grue” hypotheses, because the *simplicity* of the predicate is a *guide* to its prior probability. The response is *formal*, and it *relocates* the problem to the priors (§5).
 
@@ -374,7 +373,7 @@ The **synchronic** version (Ramsey, de Finetti) argues the same for the probabil
 
 **(i) The “pragmatic” objection.** The argument shows that *if* you want to avoid a sure loss, you should be coherent. But *why* should you want to avoid a sure loss? The *epistemic* rationality of credences is not the same as the *pragmatic* rationality of betting. (The argument is a *pragmatic* justification, not an *epistemic* one.)
 
-**(ii) The “accuracy” response** (Joyce 1998; Pettigrew 2016). The *accuracy-first* programme argues that credences should be *accurate* — close to the truth — and that the probability axioms are the *unique* credences that cannot be *accuracy-dominated*. The argument is *epistemic* rather than *pragmatic*, and it is the most important development in the field in the last two decades. (The argument is contested; see the essays in Pettigrew and Weisberg 2019.)
+**(ii) The “accuracy” response** (Joyce 1998; Pettigrew 2016). The *accuracy-first* programme argues that credences should be *accurate* — close to the truth — and that the *probabilistic* credences are the *only* ones that cannot be *accuracy-dominated*: any departure from the axioms can be beaten on accuracy by a credence function that respects them. The argument is *epistemic* rather than *pragmatic*, and it is one of the most important developments in the field in the last few decades. (The argument is contested; see the essays in Pettigrew and Weisberg 2019.)
 
 **(iii) The “conditionalisation” objection.** Conditionalisation is *not* the only update rule. **Jeffrey conditionalisation** (Jeffrey 1965) handles the case where the subject’s evidence is *uncertain*; **Adams conditioning** handles the case where the evidence is a *conditional*; and the **“reflection” principle** (van Fraassen 1984) adds a constraint on *future* credences. The rule is *contested*, and the *choice* among the rules is a *substantive* issue.
 
@@ -406,15 +405,15 @@ The evidence confirms the hypothesis if it is *more likely* under the hypothesis
 
 A *test case* for the Bayesian framework, and for confirmation theory generally.
 
-**Hempel’s paradox** (1945). The hypothesis $H$: “All ravens are black.” The evidence $E_1$: “This raven is black.” The evidence $E_2$: “This white shoe is white.”
+**Hempel’s paradox** (1945). The hypothesis $H$: “All ravens are black.” The evidence $E_1$: “This raven is black.” The evidence $E_2$: “This white shoe is white.” (Ch. 40, §1.2.)
 
 By the *equivalence condition* (if $E$ confirms $H$, and $H$ is logically equivalent to $H'$, then $E$ confirms $H'$), $H$ is equivalent to $H'$: “All non-black things are non-ravens.” $E_2$ is an instance of $H'$ (a white shoe is a non-black thing that is a non-raven). So $E_2$ confirms $H$.
 
 The conclusion is *counterintuitive*: a white shoe confirms “All ravens are black.”
 
-**The Bayesian resolution.** The confirmation is *real* but *tiny*. The *likelihood* $P(E_2 \mid H)$ is *slightly* higher than $P(E_2 \mid \neg H)$, because $H$ *slightly* reduces the space of non-black non-ravens. The *amount* of confirmation is *negligible*, because the *prior* probability of $E_2$ is *high* and the *ratio* is *near 1*.
+**The Bayesian resolution.** The confirmation is *real* but *tiny*. The *likelihood* $P(E_2 \mid H)$ is *slightly* higher than $P(E_2 \mid \neg H)$: if all ravens are black, then a white object you observe is very slightly *more* likely to be a shoe and *less* likely to be a non-black raven. The *amount* of confirmation is *negligible*, because the *prior* probability of $E_2$ is *high* and the *ratio* is *near 1*.
 
-The Bayesian resolution *dissolves* the paradox: the white shoe *does* confirm the hypothesis, but the confirmation is *so small* that it is *epistemically insignificant*. (The resolution is not *universally* accepted: some philosophers — e.g., Good 1967 — argue that the *amount* of confirmation is *not* negligible, and the debate continues.)
+The Bayesian resolution *dissolves* the paradox: the white shoe *does* confirm the hypothesis, but the confirmation is *so small* that it is *epistemically insignificant*. (The resolution is not *universally* accepted: some philosophers argue that the *equivalence condition* itself is the artificial assumption, and that confirmation is not a relation between a statement and a piece of evidence at all. Good (1967) pressed the Bayesian reply himself — the title of his note, *The White Shoe Is a Red Herring*, states the view that the confirmation is real but negligible — and the debate continues.)
 
 ---
 
@@ -456,7 +455,7 @@ $$
 
 **(i) Bertrand’s paradox.** The principle of indifference is *partition-dependent*: the same situation can be described by *different* partitions, and the principle assigns *different* probabilities to the *same* hypothesis, depending on the partition. (The classic example: a circle, a random chord, the probability that the chord is longer than the side of the inscribed equilateral triangle — the answer is $1/3$, $1/2$, or $1/4$, depending on how the chord is “chosen.”)
 
-**(ii) The “language-dependence” objection.** The maximum entropy prior is *language-dependent*: it depends on the *vocabulary* in which the hypotheses are stated. The *same* hypothesis can be stated in *different* vocabularies, and the *entropy* is *different*. (This is the *Bayesian* version of Goodman’s riddle.)
+**(ii) The “language-dependence” objection.** The maximum entropy prior is *language-dependent*: the *entropy* of a distribution is defined relative to a *measure*, and the measure is fixed by the *vocabulary* in which the hypotheses are stated. The *same* hypothesis can be stated in *different* vocabularies, and the *entropy* is *different*. (This is the *Bayesian* version of Goodman’s riddle.)
 
 **(iii) The “no neutral prior” objection.** There is *no* prior that is *genuinely* neutral. Every prior *encodes* some *assumption* about the world — about *simplicity*, *uniformity*, *natural kinds* — and the assumption is *not* derived from the evidence. The *objectivist* prior is *not* neutral; it is *a* prior, with *a* set of assumptions.
 
@@ -486,10 +485,12 @@ A *recent* development: the **meta-induction** (Schurz 2008, 2019). The argument
 
 1. Consider a *population* of prediction methods (including induction, counter-induction, and any other method).
 2. The *meta-inductivist* predicts what the *most successful* method predicts.
-3. **Theorem**: the meta-inductivist’s *long-run* success is *at least as good* as the *best* method’s success, *whatever* the world is like.
-4. Therefore, the meta-inductivist’s strategy is *universally optimal* — it is the *best* strategy *regardless* of the uniformity of nature.
+3. **Theorem**: for every possible world, there is a meta-inductivistic strategy whose *long-run* success is (approximately) *optimal* among all the accessible methods in that world, and which dominates the success of every non-inductive strategy.
+4. Therefore, there is a strategy that is *universally optimal* — a strategy that is the *best* strategy *whatever* the uniformity of nature.
 
-**The significance.** The meta-induction is the *strongest* response to Hume in the contemporary literature, because it does not *presuppose* the uniformity of nature. The *theorem* is a *mathematical* result, and it is *independent* of the *metaphysics* of induction.
+(The meta-induction of Schurz is not to be confused with the *pessimistic meta-induction*, a different argument about scientific realism; see the Optional threads below.)
+
+**The significance.** The meta-induction is one of the *strongest* responses to Hume in the contemporary literature, because it does not *presuppose* the uniformity of nature. The *theorem* is a *mathematical* result, and it is *independent* of the *metaphysics* of induction.
 
 **The limitations.** (i) The theorem is *asymptotic*: it holds in the *long run*, and the *short-run* success is *not* guaranteed. (ii) The theorem is *comparative*: it shows that the meta-inductivist is *no worse* than the best method, not that it is *good*. (iii) The theorem *presupposes* that the *success* of the methods is *measurable* and *comparable*, and the presupposition is *substantive*.
 
@@ -553,7 +554,7 @@ The *circularity* has two forms.
 
 The **Bayesian** response to IBE is the most important *reduction* in the field.
 
-**The argument** (Lipton 2004; Okasha 2000; Weisberg 2009). The *explanatory virtues* are *correlated* with the *likelihood*:
+**The argument** (Lipton 2004; Okasha 2000). The *explanatory virtues* are *correlated* with the *likelihood*:
 
 - **Simplicity**: simpler hypotheses have *higher priors* (a *contested* claim; the *Bayesian* has no *independent* justification for the simplicity prior).
 - **Scope**: hypotheses with *greater scope* have *greater likelihood* (they predict *more* of the evidence).
@@ -561,11 +562,14 @@ The **Bayesian** response to IBE is the most important *reduction* in the field.
 
 The *correlation* is *not* an *identity*. The *explanatory virtues* are *not* *sufficient* for the *posterior*, and the *Bayesian* reconstruction is *not* a *reduction*.
 
-**The critics** (Douven 1999; Weisberg 2009; Cabrera 2017) argue that IBE is *not* reducible:
+**The qualification** (Weisberg 2009). The compatibility of IBE and Bayesianism is *not* free. On Weisberg’s view, *subjectivist* Bayesianism can accommodate IBE only if IBE is made *subservient* to conditionalisation in a way that robs IBE of much of its substance and interest; the *objectivist* Bayesian is the better partner.
+
+**The critics** (Douven 1999; Cabrera 2017) argue that IBE is *not* reducible:
 
 - **The “explanatory” content**: the *explanatory* relation is *not* a *probabilistic* relation. The *understanding* provided by an explanation is *not* captured by the *posterior*.
 - **The “loveliest” problem**: the *loveliest* explanation may be *less* likely than a *less lovely* one. The *Bayesian* reconstruction *cannot* explain *why* we should prefer the *loveliest*.
 - **The “empirical” evidence**: some *scientific* inferences are *explanatory* but *not* *Bayesian* — e.g., the *inference* to the *existence* of *unobservable* entities (Ch. 40, §5).
+- **The “residue”**: some explanatory considerations have *no* place in the Bayesian framework at all. Cabrera (2017) argues that they belong to a *context of pursuit* — they determine whether a hypothesis is *worth pursuing* rather than whether it is *credible*.
 
 The *debate* is *unresolved*, and it is *one* of the *deepest* in the *philosophy of science*.
 
@@ -579,7 +583,7 @@ Bas van Fraassen (*The Scientific Image*, 1980, Ch. 5) offers the most *radical*
 2. *Pragmatic* virtues are *not* *epistemic*: they do not *increase* the *probability* that a theory is *true*.
 3. Therefore, IBE is *not* a *truth-conducive* inference; it is a *heuristic* for *theory choice*.
 
-**The constructive empiricism.** Van Fraassen’s *positive* view: science aims at *empirical adequacy* (saving the phenomena), not at *truth*. The *unobservable* entities are *not* *real*; they are *useful fictions* (Ch. 40, §6). The *aim* of science is *not* *explanation*; it is *prediction*.
+**The constructive empiricism.** Van Fraassen’s *positive* view: science aims at *empirical adequacy* (saving the phenomena), not at *truth*. The *unobservable* entities are *not* required by the aim of science: the scientist may *accept* them without *believing* in them (Ch. 40, §5.7). The aim of science is *neither* *explanation* nor *prediction*; it is *empirical adequacy*, and *prediction* is an indispensable *by-product* rather than the goal.
 
 **The objections.**
 
@@ -611,7 +615,7 @@ The *honest* position: IBE is *indispensable* in *science* and in *philosophy*, 
 
 The *most* *important* *practical* *consequence* of the *Bayesian* *framework* is the *analysis* of *statistical* *reasoning*.
 
-**The base-rate fallacy** (Kahneman & Tversky 1973).*Subjects* *neglect* the *base rate* (the *prior probability*) and *focus* on the *likelihood* (the *diagnostic* information). The *classic* *example*:
+**The base-rate fallacy** (Kahneman & Tversky 1973). *Subjects* *neglect* the *base rate* (the *prior probability*) and *focus* on the *likelihood* (the *diagnostic* information). The *classic* *example*:
 
 > A *taxi* *cab* *was* *involved* in a *hit-and-run* *accident* at *night*. Two *cab* *companies* *operate* in the *city*: the *Green* *Cab* *Company* (85% of the *cabs*) and the *Blue* *Cab* *Company* (15%). A *witness* *identified* the *cab* as *Blue*. The *court* *tested* the *witness’s* *reliability* under the *same* *conditions* and *concluded* that the *witness* *correctly* *identified* the *colour* 80% of the *time* and *incorrectly* 20% of the *time*. What is the *probability* that the *cab* *was* *Blue*?
 
@@ -641,13 +645,13 @@ The **prosecutor’s fallacy** is the *converse* *error*: the *confusion* of $P(
 
 The *fallacy*: the *prosecutor* *confuses* the *likelihood* $P(\text{match} \mid \text{innocent})$ with the *posterior* $P(\text{innocent} \mid \text{match})$. The *posterior* depends on the *prior* — the *base rate* of *innocence* in the *population* — and the *prior* is *usually* *high*.
 
-**The calculation.** If the *population* is *1 million* and the *prior* *probability* of *guilt* is *1 in 10* (for a *defendant* *selected* *by* *other* *evidence*), the *posterior* is:
+**The calculation.** Suppose the *prosecutor’s* figure is right: $P(\text{match} \mid \text{innocent}) = 10^{-6}$, and $P(\text{match} \mid \text{guilty}) = 1$. If the *prior* *probability* of *guilt* is *1 in 10* (for a *defendant* *selected* *by* *other* *evidence*), the *posterior* is:
 
 $$
-P(\text{guilty} \mid \text{match}) = \frac{(1)(0.1)}{(1)(0.1) + (10^{-6})(0.9)} \approx \frac{0.1}{0.1 + 10^{-6}} \approx 0.99999.
+P(\text{guilty} \mid \text{match}) = \frac{P(\text{match} \mid \text{guilty})\, P(\text{guilty})}{P(\text{match} \mid \text{guilty})\, P(\text{guilty}) + P(\text{match} \mid \text{innocent})\, P(\text{innocent})} = \frac{(1)(0.1)}{(1)(0.1) + (10^{-6})(0.9)} \approx \frac{0.1}{0.1 + 10^{-6}} \approx 0.99999.
 $$
 
-The *posterior* is *high*, but *only* *because* the *prior* is *high*. If the *defendant* is *selected* at *random*, the *prior* is *1 in a million*, and the *posterior* is *only* *50%*.
+The *posterior* is *high*, but *only* *because* the *prior* is *high*. If the *defendant* is *selected* at *random*, so that the *prior* *probability of guilt* is *1 in a million*, the *posterior* is *only* *50%*: the DNA evidence is then *equally* likely under either hypothesis.
 
 **The legal consequence.** The *prosecutor’s fallacy* has *led* to *wrongful* *convictions* (the *Sally Clark* case, the *Lucia de Berk* case, and *many* *others*). The *Royal Statistical Society* (2001) *issued* a *public* *warning* about the *misuse* of *statistics* in *court*. The *fallacy* is *not* a *mere* *academic* *curiosity*; it is a *cause* of *injustice*.
 
@@ -705,7 +709,7 @@ The *posterior* is *1.94%* — *less* than *2%*.
 ### 8.1 What is settled
 
 - **Hume’s problem is real.** There is no *non-circular* justification of induction *in the foundationalist sense*.
-- **The problem is structural.** It is not a *quirk* of *induction*; it is a *feature* of *ampliative* inference *in general* (Ch. 9, §1.5).
+- **The problem is structural.** It is not a *quirk* of *induction*; it is a *feature* of *ampliative* inference *in general* (Ch. 2, §2.4).
 - **The Bayesian framework is the best formal tool.** It *organises* the problem, *quantifies* the uncertainty, and *constrains* the update.
 - **The problem of the priors is the residue.** The framework *relocates* the problem; it does not *solve* it.
 - **IBE is indispensable.** It is the *engine* of *science* and *philosophy*, and it is *not* *reducible* to *Bayesianism* *without* *remainder*.
@@ -754,11 +758,11 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 Cross-cutting material, for the reader who wants to go deeper.
 
-**1. The *pessimistic* *meta-induction*.** The *history* of *science* is a *history* of *successful* *theories* that *turned out* to be *false* (Ch. 40, §5). The *pessimistic* *meta-induction* *argues* that *our* *current* *theories* are *probably* *false* *too*. The *argument* is a *form* of *induction* applied to *science* *itself*, and it is the *strongest* *challenge* to *scientific* *realism*.
+**1. The *pessimistic* *meta-induction*.** The *history* of *science* is a *history* of *successful* *theories* that *turned out* to be *false* (Ch. 40, §5.3). The *pessimistic* *meta-induction* *argues* that *our* *current* *theories* are *probably* *false* *too*. The *argument* is a *form* of *induction* applied to *science* *itself*, and it is the *strongest* *challenge* to *scientific* *realism*. (It is not to be confused with the *meta-induction* of Schurz, §5.5 above, which is a *different* argument with a *different* aim.)
 
-**2. The *problem* of *old* *evidence*.** The *Bayesian* *framework* *cannot* *confirm* a *hypothesis* *that* *entailed* the *evidence* *in* *advance* (Glymour 1980). The *problem* is *acute* for *scientific* *theories* that *predict* *known* *facts*, and the *solutions* (the *“no* *alternatives”* *response*, the *“historically* *situated”* *response*) are *contested*.
+**2. The *problem* of *old* *evidence*.** The *Bayesian* *framework* *cannot* *confirm* a *hypothesis* *that* *entailed* the *evidence* *in* *advance* (Glymour 1980; Ch. 40, §1.5). The *problem* is *acute* for *scientific* *theories* that *predict* *known* *facts*, and the *solutions* (the *“no* *alternatives”* *response*, the *“historically* *situated”* *response*) are *contested*.
 
-**3. The *problem* of *Newcomb*.** The *decision* *theory* *analogue* of *the* *problem* of *induction*: *causal* *decision* *theory* and *evidential* *decision* *theory* *give* *different* *advice* in *Newcomb’s* *problem*, and the *choice* *depends* on the *theory* of *induction* (Ch. 28, §4).
+**3. The *problem* of *Newcomb*.** The *decision* *theory* *analogue* of *the* *problem* of *induction*: *causal* *decision* *theory* and *evidential* *decision* *theory* *give* *different* *advice* in *Newcomb’s* *problem*, and the *choice* *depends* on the *theory* of *induction* (the *decision* *rules* are set out in Ch. 55, §7.5).
 
 **4. Non-Western *epistemologies* of *induction*.** The *Indian* *pramāṇa* *tradition* developed a *sophisticated* *theory* of *inference* (*anumāna*), with a *five-membered* *syllogism* (*pañcāvayava*) and a *theory* of *vyāpti* (the *invariable* *concomitance*). The *debate* between the *Nyāya* *realists* and the *Buddhist* *nominalists* is a *version* of the *problem* of *induction*, and it is *worth* *studying* as a *systematic* *alternative* (Matilal 1986; Ganeri 2001).
 
@@ -800,15 +804,15 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 ## Further Reading
 
-- **Primary**: David Hume, *An Enquiry Concerning Human Understanding* (1748), IV–V, XII; Nelson Goodman, *Fact, Fiction, and Forecast* (1955), Ch. 3; John Stuart Mill, *A System of Logic* (1843), Book III.
-- **On the classical responses**: Hans Reichenbach, *Experience and Prediction* (1938), Ch. 5; P. F. Strawson, *Introduction to Logical Theory* (1952), Ch. 9; Karl Popper, *The Logic of Scientific Discovery* (1934/1959); Wesley Salmon, *The Foundations of Scientific Inference* (1967), for the survey.
-- **On Goodman**: Goodman, *Fact, Fiction, and Forecast* (1955), Ch. 3; the essays in *The New Riddle of Induction* (ed. Stalker, 1994); W. V. O. Quine, “Natural Kinds” (1969), in *Ontological Relativity and Other Essays* (1969).
-- **On Bayesianism**: Richard Jeffrey, *The Logic of Decision* (1965); Bruno de Finetti, *Theory of Probability* (1974); Leonard Savage, *The Foundations of Statistics* (1954); James Joyce, “A Nonpragmatic Vindication of Probabilism” (1998); Richard Pettigrew, *Accuracy and the Laws of Credence* (2016); the essays in *The Oxford Handbook of Probability and Philosophy* (ed. Hájek and Hitchcock, 2016).
+- **Primary**: David Hume, *An Enquiry Concerning Human Understanding* (1748), IV–V, XII; David Hume, *A Treatise of Human Nature* (1739), I.iv; Nelson Goodman, *Fact, Fiction, and Forecast* (1955), Ch. 3; John Stuart Mill, *A System of Logic* (1843), Book III.
+- **On the classical responses**: Hans Reichenbach, *Experience and Prediction* (1938), Ch. 5; P. F. Strawson, *Introduction to Logical Theory* (1952), Ch. 9 (“Inductive Reasoning and Probability”); Karl Popper, *The Logic of Scientific Discovery* (1934/1959); Wesley Salmon, *The Foundations of Scientific Inference* (1967), for the survey.
+- **On Goodman**: Goodman, *Fact, Fiction, and Forecast* (1955), Ch. 3; the essays in *Grue!: The New Riddle of Induction* (ed. Stalker, 1994); W. V. O. Quine, “Natural Kinds” (1969), in *Ontological Relativity and Other Essays* (1969).
+- **On Bayesianism**: Richard Jeffrey, *The Logic of Decision* (1965); Bruno de Finetti, *Theory of Probability* (1974); Leonard Savage, *The Foundations of Statistics* (1954); James Joyce, “A Nonpragmatic Vindication of Probabilism” (1998); Richard Pettigrew, *Accuracy and the Laws of Credence* (2016); the essays in *The Oxford Handbook of Probability and Philosophy* (ed. Hájek and Hitchcock, 2014); and the essays in *The Open Handbook of Formal Epistemology* (ed. Pettigrew and Weisberg, 2019).
 - **On the priors**: Harold Jeffreys, *Theory of Probability* (1939); E. T. Jaynes, *Probability Theory: The Logic of Science* (2003); Jon Williamson, *In Defence of Objective Bayesianism* (2010); the critique in Colin Howson and Peter Urbach, *Scientific Reasoning: The Bayesian Approach* (3rd ed., 2006).
-- **On the meta-induction**: Gerhard Schurz, “The Meta-Inductivist’s Winning Strategy in the Prediction Game” (2008), and *Hume’s Problem Solved* (2019).
-- **On IBE**: Peter Lipton, *Inference to the Best Explanation* (2nd ed., 2004); Bas van Fraassen, *The Scientific Image* (1980), Ch. 5; Igor Douven, “Inference to the Best Explanation Made Coherent” (1999), and “Abduction” in the *Stanford Encyclopedia*; Jonathan Weisberg, “Locating IBE in the Bayesian Framework” (2009); the essays in *The Nature of Explanation* (ed. Knowles, 2021).
+- **On the meta-induction**: Gerhard Schurz, “The Meta-Inductivist’s Winning Strategy in the Prediction Game” (2008), and *Hume’s Problem Solved: The Optimality of Meta-Induction* (2019).
+- **On IBE**: Peter Lipton, *Inference to the Best Explanation* (2nd ed., 2004); Bas van Fraassen, *The Scientific Image* (1980), Ch. 5; Igor Douven, “Inference to the Best Explanation Made Coherent” (1999), and “Abduction” in the *Stanford Encyclopedia of Philosophy*; Samir Okasha, “Van Fraassen’s Critique of Inference to the Best Explanation” (2000); Jonathan Weisberg, “Locating IBE in the Bayesian Framework” (2009); Frank Cabrera, “Can There Be a Bayesian Explanationism?” (2017); and the entry on “Inference to the Best Explanation” in the *Stanford Encyclopedia of Philosophy*.
 - **On statistical reasoning**: Daniel Kahneman, Paul Slovic, and Amos Tversky (eds.), *Judgment under Uncertainty* (1982); Gerd Gigerenzer, *Reckoning with Risk* (2002); the literature on the *prosecutor’s* *fallacy* (Thompson and Schumann 1987; the Royal Statistical Society’s 2001 letter).
-- **On the rationality debate**: Daniel Kahneman, *Thinking, Fast and Slow* (2011); Gerd Gigerenzer and Reinhard Selten (eds.), *Bounded Rationality* (2002); the essays in *Heuristics and Biases* (ed. Gilovich, Griffin, and Kahneman, 2002).
+- **On the rationality debate**: Daniel Kahneman, *Thinking, Fast and Slow* (2011); Gerd Gigerenzer and Reinhard Selten (eds.), *Bounded Rationality: The Adaptive Toolbox* (2001); the essays in *Heuristics and Biases* (ed. Gilovich, Griffin, and Kahneman, 2002).
 - **On non-Western inference**: B. K. Matilal, *Perception* (1986), and *The Character of Logic in India* (1998); Jonardon Ganeri, *Philosophy in Classical India* (2001), Chs. 3–4; the essays in *The Oxford Handbook of Indian Philosophy* (ed. Ganeri, 2017).
 
 ---
