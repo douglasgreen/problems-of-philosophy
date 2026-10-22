@@ -1,14 +1,14 @@
 # Chapter 7 — The Analysis of Knowledge
 
-> “The knowledge which we have of ourselves and of our thoughts is … not the only knowledge; but it is the most certain, and it is the foundation of the rest.”
-> — Bertrand Russell, *The Problems of Philosophy*, Ch. V (adapted)
+> “This kind of acquaintance, which may be called self-consciousness, is the source of all our knowledge of mental things.”
+> — Bertrand Russell, *The Problems of Philosophy* (1912), Ch. V
 
 > “To know something is to have a true belief that is not an accident.”
-> — The intuition behind every analysis since Plato; the source of every problem in this chapter
+> — A paraphrase of the intuition behind every analysis since Plato, and the source of every problem in this chapter
 
 ---
 
-Chapter 6 ended with a paradox: three principles, each plausible, which cannot all be true. Every response to the sceptic was a claim about which principle to give up — and every such claim presupposes an answer to a more basic question: **what is knowledge?**
+Chapter 6 set out a paradox: three principles, each plausible, which cannot all be true. Every response to the sceptic was a claim about which principle to give up — and every such claim presupposes an answer to a more basic question: **what is knowledge?**
 
 That question is the subject of this chapter. It is the most analysed concept in the history of philosophy. It has been the target of the most productive twenty years in twentieth-century epistemology, and of the most frustrating fifty. And it is the clearest case in the book of a philosophical problem that is *both* a live research programme *and* a candidate for dissolution.
 
@@ -24,9 +24,9 @@ The analysis of knowledge as justified true belief is often attributed to Plato,
 
 Plato’s dialogue proceeds through three definitions:
 
-1. **Knowledge is perception** (151e–187a). Refuted by the relativity of perception and by the possibility of memory and error.
+1. **Knowledge is perception** (151e–187a). Refuted by the relativity of perception — the same thing looks different from different vantage points — and by the **dream argument** (187b–188d): if a prisoner in a jail might dream that he is free, then perception can mislead.
 2. **Knowledge is true belief** (187a–201c). Refuted by the **jury case**: a jury, persuaded by a clever advocate, may form a true belief about a crime — but they do not *know*, because they were not eyewitnesses (201a–c). True belief is not sufficient for knowledge.
-3. **Knowledge is true belief with an account** (*logos*) (201c–210a). Refuted by the **dream objection** and by the dilemma: the account is either of what is already known (circular) or of something distinct (then it does not make the belief knowledge).
+3. **Knowledge is true belief with an account** (*logos*) (201c–210a). Refuted by the **dilemma**: the account is either of what is already known (circular) or of something distinct (then it does not make the belief knowledge).
 
 The dialogue ends without a definition: “knowledge is neither perception, nor true belief, nor true belief with an account” (210a, paraphrased). The *aporia* is not a failure; it is the demonstration that the obvious answers do not work.
 
@@ -70,7 +70,7 @@ The formulation is *deceptively* simple. Each condition is a site of controversy
 - **The “knowledge in science” challenge.** Scientific theories are accepted as knowledge and later rejected. Does this show that knowledge does not require truth, or that the theories were never knowledge? The consensus: the latter. “Newtonian mechanics was known to be true” was a loose way of saying “Newtonian mechanics was accepted as true”; the strict sense of “know” requires truth, and the strict sense is the one that matters for the analysis.
 - **The “knowledge of fiction” challenge.** We say “I know that Sherlock Holmes lives at 221B Baker Street.” This is true only in the fiction; the strict sense requires the truth of the proposition *within the relevant domain*. The case is a useful reminder that “knows” is context-sensitive in ways that the analysis must accommodate (§6).
 
-**Factivity and the sceptic.** The sceptical argument of Ch. 6, §1.2 is *modus tollens* on factivity plus closure: if I cannot know $\neg\mathrm{BIV}$, and if knowing $H$ would require knowing $\neg\mathrm{BIV}$, then I do not know $H$. The factivity condition is not the problem; the closure principle is. This is worth noting because it shows that the analysis of knowledge is not a neutral framework: the choice of conditions determines which responses to scepticism are available.
+**Factivity and the sceptic.** The sceptical argument of Ch. 6, §1.2 is *modus tollens* on closure: if I cannot know $\neg\mathrm{BIV}$, and if knowing $H$ would require knowing $\neg\mathrm{BIV}$, then I do not know $H$. The factivity condition is not the problem; the closure principle is. This is worth noting because it shows that the analysis of knowledge is not a neutral framework: the choice of conditions determines which responses to scepticism are available.
 
 ### 1.4 The justification condition
 
@@ -85,11 +85,11 @@ The formulation is *deceptively* simple. Each condition is a site of controversy
 | **Evidentialism** | The subject’s evidence | Conee & Feldman 1985 | What counts as evidence? |
 | **Reliabilism** | The reliability of the process that produced it | Goldman 1979 | The generality problem |
 | **Virtue** | The exercise of epistemic competence | Sosa 1980; Zagzebski 1996 | What is competence? |
-| **Coherentism** | The belief’s coherence with the rest of the system | BonJour 1985 | The isolation objection |
+| **Coherentism** | The belief’s coherence with the rest of the system | BonJour 1990 | The isolation objection |
 | **Foundationalism** | The belief’s derivation from basic beliefs | Chisholm 1966 | The Sellarsian dilemma |
 | **Proper functionalism** | The proper functioning of cognitive faculties | Plantinga 1993 | The “design plan” is speculative |
 
-The choice matters for the Gettier problem because different conceptions of justification generate different counterexamples. The *classical* Gettier cases work against an evidentialist conception of justification. The *reliabilist* requires a different kind of case (the barn facades, §3.5). The *virtue* conception is designed to handle both (§5).
+The choice matters for the Gettier problem because different conceptions of justification generate different counterexamples. The *classical* Gettier cases work against an evidentialist conception of justification. The *reliabilist* requires a different kind of case (the barn facades, §3.7). The *virtue* conception is designed to handle both (§5).
 
 **The two-component structure.** Most analyses separate the *justification* condition into two parts:
 
@@ -153,18 +153,18 @@ The second case is more general, because closure under disjunction introduction 
 
 ### 2.4 The general recipe
 
-Linda Zagzebski (1994) gave the general form of the Gettier problem, which is the most important result in the literature.
+Linda Zagzebski (1994) gave the general form of the Gettier problem, which is one of the most important results in the literature.
 
 **The recipe.**
 
 1. **Start** with a case of justified false belief: $S$ is justified in believing $p$, and $p$ is false.
 2. **Construct** a proposition $q$ such that $S$ is justified in believing $p \vee q$ (by disjunction introduction), or $\exists x\, Fx$ (by existential generalisation), or some other logical consequence.
 3. **Arrange** the world so that $q$ is true (for reasons unrelated to $S$’s justification).
-4. Then $S$ has justified true belief in $q$, but not knowledge — because the truth of $q$ is not connected to $S$’s justification.
+4. Then $S$ has justified true belief in the disjunction $p \vee q$, but not knowledge — because the truth of $q$, which is what makes the disjunction true, is not connected to $S$’s justification.
 
 **The theorem.** Zagzebski’s conclusion: **any** analysis that accepts (i) fallibilism, (ii) closure of justification under the relevant logical operations, and (iii) the JTB structure is vulnerable to this recipe. The Gettier problem is not a quirk of two examples; it is a **structural consequence** of the fallibilist framework.
 
-**The escapes.** There are exactly three:
+**The escapes.** There are three ways out:
 
 1. **Deny fallibilism.** If justification is infallible, the recipe cannot get started. (This is the infallibilist option, and it is costly.)
 2. **Deny closure.** If justification is not closed under disjunction introduction (or deduction), the recipe fails. (This is the “relevant alternatives” / “no closure” option, and it is also costly: Ch. 6, §5.)
@@ -180,7 +180,7 @@ The case for **yes**: the industry has produced a much sharper understanding of 
 
 The case for **no**: the industry has the structure of a **patching** exercise (Ch. 3, §1.6). Each analysis is refuted by a new case, and each new case is handled by a new clause, which is in turn refuted by a yet newer case. The process has the appearance of progress without the substance: the *number* of clauses increases, but the *adequacy* of the analysis does not.
 
-The honest assessment is that both are partly right. The industry has produced genuine conceptual advances (the distinction between *justification* and *warrant*, the notion of *safety*, the virtue-theoretic framework), and it has also produced a great deal of ad hoc patching. The methodological lesson is the one Ch. 4, §3.6 stated: **a theory that has been patched ten times is on the defensive.** The question is whether the defence is *principled* — whether each clause has independent motivation — or merely *reactive*.
+The honest assessment is that both are partly right. The industry has produced genuine conceptual advances (the distinction between *justification* and *warrant*, the notion of *safety*, the virtue-theoretic framework), and it has also produced a great deal of ad hoc patching. The methodological lesson is the one Ch. 3, §1.6 stated: **a theory that has been patched ten times is on the defensive.** The question is whether the defence is *principled* — whether each clause has independent motivation — or merely *reactive*.
 
 > <details><summary><b>Workshop: the Gettier generator</b></summary>
 >
@@ -193,9 +193,9 @@ The honest assessment is that both are partly right. The industry has produced g
 > 3. the truth is not connected to $S$'s justification;
 > 4. $S$ does not know the disjunction.
 >
-> **Instance 1 (the coins).** $p$ = "Jones will get the job and has ten coins"; $q$ = "Smith has ten coins and will get the job"; disjunction = "the man who will get the job has ten coins."
+> **Instance 1 (the coins).** $p$ = “Jones will get the job and has ten coins”; $q$ = “Smith has ten coins and will get the job”; disjunction = “the man who will get the job has ten coins.”
 >
-> **Instance 2 (the Ford).** $p$ = "Jones owns a Ford"; $q$ = "Brown is in Barcelona"; disjunction = "Jones owns a Ford or Brown is in Barcelona."
+> **Instance 2 (the Ford).** $p$ = “Jones owns a Ford”; $q$ = “Brown is in Barcelona”; disjunction = “Jones owns a Ford or Brown is in Barcelona.”
 >
 > **Instance 3 (your own).** Choose a domain in which you have justified false beliefs — a scientific theory you accept that is about to be refuted, a person you trust who is about to betray you, a map you are using that is slightly wrong. Construct the disjunction. Ask: is the resulting case a Gettier case? If not, why not? If so, what does the analysis need to add to exclude it?
 >
@@ -214,11 +214,11 @@ The literature since 1963 has proposed a bewildering variety of fourth condition
 
 **The motivation.** Both of Gettier’s cases involve a false premise: $d$ in Case I, $f$ in Case II. If the false premise is excluded, both cases are excluded.
 
-**Proponents.** Lehrer and Paxson (1969), Chisholm (1977), and many others.
+**Proponents.** Chisholm (1977), Shope (1975), and many others.
 
 **The objection.** The condition handles the original cases but not the **barn facade** case (Goldman 1976): Henry is driving through a county full of fake barns (cardboard facades). He looks at one and believes “that is a barn.” The belief is true (it happens to be a real barn), and the justification does not depend on a false lemma (his visual experience is veridical). But he does not know, because he would have believed the same thing if he had looked at any of the facades. The case shows that the problem is not *false* lemmas but *unreliable* ones; the condition needs to be strengthened.
 
-**The generality problem.** The barn case also shows that the no-false-lemma condition is sensitive to how the justification is *described*. If the justification is “I see a barn-shaped object,” the lemma is true and the condition is satisfied. If the justification is “I see a barn,” the lemma may be false (in the counterfactual sense: he cannot discriminate barns from facades). The choice of description is the choice of the “relevant” process, and that is the generality problem (§3.5).
+**The generality problem.** The barn case also shows that the no-false-lemma condition is sensitive to how the justification is *described*. If the justification is “I see a barn-shaped object,” the lemma is true and the condition is satisfied. If the justification is “I see a barn,” the lemma may be false (in the counterfactual sense: he cannot discriminate barns from facades). The choice of description is the choice of the “relevant” process, and that is the generality problem (§3.4 and §3.5).
 
 ### 3.2 Defeasibility
 
@@ -226,7 +226,7 @@ The literature since 1963 has proposed a bewildering variety of fourth condition
 
 **The motivation.** The Gettier cases can be described as cases in which there is a defeater that $S$ does not possess: in Case I, the defeater is “Smith will get the job”; in Case II, the defeater is “Jones does not own a Ford.” If the analysis requires the *absence* of such defeaters (not merely the absence of *known* defeaters), the cases are excluded.
 
-**Proponents.** Lehrer and Paxson (1969), Klein (1971, 1981), Pollock (1986), and many others.
+**Proponents.** Lehrer and Paxson (1969), Klein (1981), Pollock (1986), and many others.
 
 **The objections.** (i) **The “defeaters” are too powerful**: if any true proposition that would undermine the justification is a defeater, then almost no belief is knowledge, because there is almost always *some* true proposition that would undermine it (the sceptical hypothesis, the evil demon, the possibility of error). The condition needs a restriction, and the restriction is hard to state without circularity. (ii) **The “false defeater” problem**: if the defeater is false (as in the case of a misleading but false piece of evidence), the condition may exclude knowledge that should be included. (iii) **The “generality” problem again**: the condition is sensitive to the description of the defeater, and the description is underdetermined.
 
@@ -256,7 +256,7 @@ $$
 
 **The motivation.** In the Gettier cases, the belief is not sensitive: if $p$ were false, Smith would still believe it (his evidence would be the same). The tracking condition excludes the cases.
 
-**The objections.** (i) **The generality problem**: the counterfactual must be evaluated with respect to a *method*, and the method is underdetermined. (ii) **The conjunction problem**: sensitivity fails for conjunctions of sensitive beliefs (Nozick’s own example: I know I have hands, and I know I am not a BIV, but I do not know the conjunction). (iii) **The “abominable conjunction”**: the tracking theory implies that one can know $p$ and know $q$ but not know $p \wedge q$, which is counterintuitive. (iv) **The sceptical residue**: the theory concedes that we do not know $\neg\mathrm{BIV}$, which many find unacceptable (Ch. 6, §5.3).
+**The objections.** (i) **The generality problem**: the counterfactual must be evaluated with respect to a *method*, and the method is underdetermined. (ii) **The conjunction problem**: sensitivity is not preserved under conjunction — the conjunction of two sensitive beliefs need not itself be sensitive, so the tracking theory cannot say that knowledge is closed under conjunction. (iii) **The “abominable conjunction”**: Nozick’s own example makes the point vivid — it would be abominable if someone knew both that they had hands and that they were not a brain in a vat, yet did not know the conjunction. (iv) **The sceptical residue**: the theory concedes that we do not know $\neg\mathrm{BIV}$, which many find unacceptable (Ch. 6, §5.3).
 
 The tracking theory is important because it is the first *modal* analysis of knowledge, and it set the stage for the safety theory.
 
@@ -283,13 +283,15 @@ $$
 | Fourth condition | Core idea | Handles Gettier? | Handles barn? | Main problem |
 |---|---|---|---|---|
 | **No false lemmas** | No false premise in the justification | Yes | No | The generality problem; the description of the lemma |
-| **Defeasibility** | No true proposition would undermine | Yes | Yes | The defeater is too powerful; the restriction is circular |
-| **Causal** | The fact causes the belief | Yes | Yes | Abstracta; deviant causal chains; generality |
+| **Defeasibility** | No true proposition would undermine | Yes | Contested | The defeater is too powerful; the restriction is circular |
+| **Causal** | The fact causes the belief | Yes | No | Abstracta; deviant causal chains; generality |
 | **Tracking** | The belief is sensitive | Yes | Yes | Conjunction problem; generality; sceptical residue |
 | **Safety** | The belief could not easily be false | Yes | Yes | The “nearby” and “method” problems; lottery |
 | **Virtue** | The truth is creditable to competence | Yes | Yes (with adjustment) | The credit question; environmental luck (§5.5) |
 
 The table is not a verdict. It is a map of the trade-offs. The reader who wants to choose a condition must decide which cost is acceptable — and the decision is a philosophical argument, not a matter of taste.
+
+Two entries in the “barn” column deserve a word. The **causal theory** fails the barn case for a reason that is worth stating plainly: in the county of fake barns, Henry’s belief *is* caused by the real barn, so the causal condition is satisfied, and the causal theory therefore counts it as knowledge. That is exactly the objection Goldman pressed in 1976, and it is why the causal theory was abandoned. The **defeater** analysis is more delicate: it turns on whether one counts a proposition such as “most of the structures in this county are facades” as an undefeated defeater of Henry’s justification. If one does, the condition excludes the case; if one does not, the case stands as a counterexample. That is why the entry is marked *contested* rather than *yes* or *no*.
 
 ### 3.7 The “barn facade” and the limits of the industry
 
@@ -320,15 +322,15 @@ The programme is a **dissolution** (Ch. 3, §7) of the Gettier problem: the prob
 
 ### 4.2 The arguments
 
-**(i) The norm of assertion.** Williamson (2000, Ch. 11) argues that the speech act of assertion is governed by a **knowledge norm**: assert $p$ only if you know $p$. The argument is an inference to the best explanation of the conversational data: the knowledge norm explains the propriety of assertion, the impropriety of asserting lottery propositions (Ch. 10, §4), and the connection between assertion and inquiry better than the alternatives (the truth norm, the justified-belief norm, the reasonable-belief norm).
+**(i) The norm of assertion.** Williamson (2000, Ch. 11) argues that the speech act of assertion is governed by a **knowledge norm**: assert $p$ only if you know $p$. The argument is an inference to the best explanation of the conversational data: the knowledge norm explains the propriety of assertion, the impropriety of asserting lottery propositions (Ch. 33, §1.6), and the connection between assertion and inquiry better than the alternatives (the truth norm, the justified-belief norm, the reasonable-belief norm).
 
-**(ii) The norm of practical reasoning.** Williamson (2000, Ch. 11) argues that knowledge is the norm of practical reasoning: you may use $p$ as a premise in practical reasoning only if you know $p$. The argument is that the knowledge norm explains the “epistemic” constraint on action better than the alternatives.
+**(ii) The norm of practical reasoning.** Williamson (2000, Introduction §1 and Ch. 11) argues that knowledge is the norm of practical reasoning: you may use $p$ as a premise in practical reasoning only if you know $p$. The argument is that the knowledge norm explains the “epistemic” constraint on action better than the alternatives.
 
 **(iii) The anti-luminosity argument.** Williamson (2000, Ch. 4) argues that there are no **luminous** mental states — states such that, if one is in them, one is in a position to know one is. The argument is a sorites: for any mental state that comes in degrees (e.g., feeling cold), there is a margin of error such that, if one is in the state, one cannot reliably discriminate it from a slightly different state. The conclusion: knowledge of one’s own mental states is not a special, infallible kind of knowledge; it is subject to the same margin-of-error constraints as knowledge of the external world.
 
-The argument is important because it undercuts the **Cartesian** picture of self-knowledge (Ch. 26, §6) and the **internalist** picture of justification (Ch. 8, §5). If there are no luminous states, then the internalist’s demand for access to one’s own justification is unattainable.
+The argument is important because it undercuts the **Cartesian** picture of self-knowledge (Ch. 12, §6) and the **internalist** picture of justification (Ch. 8, §5). If there are no luminous states, then the internalist’s demand for access to one’s own justification is unattainable.
 
-**(iv) The “knowledge first” in philosophy of mind.** Williamson (2000, Ch. 2) argues that knowledge is a *determinant* of content: the contents of one’s beliefs and assertions depend on what one knows. This is a radical claim, and it has been widely discussed.
+**(iv) The “knowledge first” in philosophy of mind.** Williamson (2000, Ch. 2) argues that knowing is a mental state in its own right — “the most general factive mental state” — rather than a species of belief. Because the state is externalist, this has consequences for how the contents of thought are individuated: the contents of our beliefs are not fixed independently of our environment. This is a radical claim, and it has been widely discussed.
 
 ### 4.3 Objections
 
@@ -336,7 +338,7 @@ The argument is important because it undercuts the **Cartesian** picture of self
 
 **(ii) The knowledge norm of assertion has counterexamples.** The “lottery” cases (you can assert “I will not win the lottery” even though you do not know it), the “selfless assertion” cases (you can assert something false for a good cause), and the “dogmatism” cases (you can assert what you believe without knowing) are all cited as counterexamples. The replies (the “contextualist” norm, the “interest-relative” norm) are contested.
 
-**(iii) The anti-luminosity argument is contested.** Boghossian (2011), and others, have argued that the argument proves too much: it would undermine the possibility of *any* knowledge of one’s own mental states, including the knowledge that one is in pain. Williamson’s reply is that it undermines only *luminous* knowledge, not all self-knowledge; the debate is technical.
+**(iii) The anti-luminosity argument is contested.** Critics have argued that the argument proves too much: it would undermine the possibility of *any* knowledge of one’s own mental states, including the knowledge that one is in pain. Williamson’s reply is that it undermines only *luminous* knowledge, not all self-knowledge; the debate is technical.
 
 **(iv) The “knowledge first” is a research programme, not a result.** The programme has generated a great deal of work, and it has not (yet) produced a settled account of knowledge. Whether it is a *better* programme than the analysis is a judgment about fruitfulness (Ch. 4, §3.1), and the judgment is contested.
 
@@ -392,7 +394,7 @@ Greco’s key distinction is between **achievement** and **lucky success**:
 | Lucky success | No | No |
 | Success despite inability | No | No |
 
-The distinction is meant to capture the Gettier intuition: in a Gettier case, the success is not explained by the agent’s ability; it is explained by the coincidence. In the barn facade case, the success is explained by the ability *plus* the environment, and the question is whether the environment's contribution is enough to defeat the achievement.
+The distinction is meant to capture the Gettier intuition: in a Gettier case, the success is not explained by the agent’s ability; it is explained by the coincidence. In the barn facade case, the success is explained by the ability *plus* the environment, and the question is whether the environment’s contribution is enough to defeat the achievement.
 
 ### 5.5 Pritchard: the anti-luck virtue epistemology
 
@@ -408,11 +410,11 @@ The two conditions are meant to be **jointly sufficient** for knowledge. The rat
 
 The account is called **anti-luck virtue epistemology** (ALVE), and it is one of the most discussed positions in the contemporary literature.
 
-**Objections.** (i) The two conditions may *conflict*: in some cases, the ability condition is satisfied but the anti-luck condition is not (the barn facade), and in others, the anti-luck condition is satisfied but the ability condition is not (the "lucky" cases). ALVE handles both by requiring both, but the *justification* for requiring both is a matter of argument, not of intuition. (ii) The account is *not* a reductive analysis: it takes "competence" and "safety" as primitives, and the question is whether they are more basic than knowledge. (iii) The "credit" question: does the agent deserve credit for the truth in the cases ALVE classifies as knowledge? The answer is not obvious.
+**Objections.** (i) The two conditions may *conflict*: in some cases, the ability condition is satisfied but the anti-luck condition is not (the barn facade), and in others, the anti-luck condition is satisfied but the ability condition is not (the "lucky" cases). ALVE handles both by requiring both, but the *justification* for requiring both is a matter of argument, not of intuition. (ii) The account is *not* a reductive analysis: it takes “competence” and “safety” as primitives, and the question is whether they are more basic than knowledge. (iii) The “credit” question: does the agent deserve credit for the truth in the cases ALVE classifies as knowledge? The answer is not obvious.
 
 ### 5.6 The value turn
 
-The virtue-theoretic accounts are motivated, in large part, by the **value problem** (§7): they offer an explanation of why knowledge is more valuable than mere true belief. The explanation: knowledge is an *achievement*, and achievements are valuable in a way that lucky successes are not. The value is not a separate condition; it is the value of *agency* — of getting things right *because of one's competence*.
+The virtue-theoretic accounts are motivated, in large part, by the **value problem** (§7): they offer an explanation of why knowledge is more valuable than mere true belief. The explanation: knowledge is an *achievement*, and achievements are valuable in a way that lucky successes are not. The value is not a separate condition; it is the value of *agency* — of getting things right *because of one’s competence*.
 
 Whether this is a solution to the value problem is the subject of §7.
 
@@ -424,24 +426,24 @@ Whether this is a solution to the value problem is the subject of §7.
 
 **Contextualism** is the view that the truth conditions of “$S$ knows that $p$” depend on the **context of the attributor** — the person making the knowledge claim. In ordinary contexts, the standards are low; in philosophical contexts, they are high.
 
-The canonical statements are Cohen (1988), DeRose (1992, 1995), and Lewis (1996). The **standard** version has three components:
+The canonical statements are Cohen (1986, 1988), DeRose (1992, 1995), and Lewis (1996). The **standard** version has three components:
 
 1. **The semantic thesis**: “knows” is an indexical or context-sensitive expression, like “here” or “tall.”
 2. **The relevance thesis**: the context determines which alternatives are *relevant*; knowledge requires the elimination of relevant alternatives only.
 3. **The sceptical solution**: the sceptic is right in the philosophical context and wrong in the ordinary context; the paradox of Ch. 6, §1.3 is resolved by relativising the principles to contexts.
 
-**The bank cases** (DeRose 1992) are the standard illustration. Case A: I am at the bank on Friday, and I need to deposit a check; I know the bank will be open on Saturday because I was there two weeks ago on a Saturday. Case B: the check is large, and if the bank is not open on Saturday I will default on my mortgage; the same evidence no longer seems sufficient for knowledge. The contextualist explains the difference by the *attributor’s* standards: in Case A, the standards are low; in Case B, they are high.
+**The bank cases** (DeRose 1992, 1995) are the standard illustration. Case A: I am at the bank on Friday, and I need to deposit a check; I know the bank will be open on Saturday because I was there two weeks ago on a Saturday. Case B: the check is large, and if the bank is not open on Saturday I will default on my mortgage; the same evidence no longer seems sufficient for knowledge. The contextualist explains the difference by the *attributor’s* standards: in Case A, the standards are low; in Case B, they are high.
 
 **The objections.** (i) The **“semantic” objection**: the evidence for the context-sensitivity of “knows” is contested; the experimental literature is mixed (§6.4). (ii) The **“ad hoc” objection**: the posited context-sensitivity is not independently motivated. (iii) The **“stability” objection**: if the sceptical context is always available, the ordinary knowledge is always vulnerable (the “fragility” objection). (iv) The **“dissolution” objection**: contextualism explains away the sceptical question rather than answering it (Ch. 6, §6.4).
 
 ### 6.2 Relativism
 
-**Relativism** (MacFarlane 2005, 2014) is a stronger thesis: the truth of “$S$ knows that $p$” depends on the **context of the assessor** — the person evaluating the claim — not the attributor. The view is a form of **assessment-sensitivity**, and it is motivated by the **“faultless disagreement”** and **“retraction”** data:
+**Relativism** (MacFarlane 2005, 2014) is a stronger thesis: the truth of “$S$ knows that $p$” depends on the **context of the assessor** — the person evaluating the claim — not the attributor. The view is a form of **assessment-sensitivity**, and it is motivated by the **“faultless disagreement”** (Kölbel 2010) and **“retraction”** data:
 
 - **Faultless disagreement**: two people can disagree about whether a subject knows, and both can be *right* — not in the sense that the truth is relative to a perspective, but in the sense that the truth-value is not fixed until the assessor’s context is specified.
 - **Retraction**: a person who has made a knowledge claim can later *retract* it, saying “I was wrong to say I knew,” without implying that the original claim was false at the time. The retraction data are the strongest evidence for relativism.
 
-**The objections.** (i) The view is *metaphysically* odd: it makes truth depend on the assessor, which is a strange kind of dependence. (ii) The data are contested: the retraction intuitions may be explained by a change in the subject’s *evidence*, not by a change in the truth conditions. (iii) The view is *unstable*: if truth is assessor-relative, what is the status of the relativist’s *own* claim? (This is a version of the self-refutation objection of Ch. 3, §5.5.)
+**The objections.** (i) The view is *metaphysically* odd: it makes truth depend on the assessor, which is a strange kind of dependence. (ii) The data are contested: the retraction intuitions may be explained by a change in the subject’s *evidence*, not by a change in the truth conditions. (iii) The view is *unstable*: if truth is assessor-relative, what is the status of the relativist’s *own* claim? (This is a version of the self-refutation objection of Ch. 6, §3.3.)
 
 ### 6.3 Pragmatic encroachment
 
@@ -502,8 +504,8 @@ $$
 \begin{array}{ll}
 1. & \text{Knowledge is justified true belief plus a fourth condition (or some analysis of the same form).} \\
 2. & \text{True belief is valuable.} \\
-3. & \text{The value of justification is *instrumental* to true belief: justification is valuable because it tends to produce true belief.} \\
-4. & \text{If justification’s value is instrumental to true belief, then once the belief is true, the justification adds no *additional* value.} \\
+3. & \text{The value of justification is \textit{instrumental} to true belief: justification is valuable because it tends to produce true belief.} \\
+4. & \text{If justification’s value is instrumental to true belief, then once the belief is true, the justification adds no \textit{additional} value.} \\
 \hline
 5. & \therefore \text{Knowledge is not more valuable than true belief.}
 \end{array}
@@ -528,9 +530,9 @@ The argument is called **swamping** because the value of the truth *swamps* the 
 The value problem is not merely theoretical. It connects to the practical question: **why does knowledge matter?**
 
 - **Epistemic**: knowledge is the norm of assertion and practical reasoning (Williamson); it is what we *need* to act, to inquire, and to trust.
-- **Moral**: knowledge is a condition of autonomy (Ch. 47, §4); it is what makes informed consent possible, and what makes testimony reliable.
+- **Moral**: knowledge is a condition of autonomy (Ch. 47, §4.3); it is what makes informed consent possible, and what makes testimony reliable.
 - **Political**: knowledge is a condition of democracy (Ch. 47, §6); a citizenry that cannot distinguish knowledge from opinion cannot govern itself.
-- **Existential**: knowledge is a condition of the examined life (Ch. 54); the Socratic demand is to *know* what one is doing, not merely to believe it.
+- **Existential**: knowledge is a condition of the examined life (Ch. 54, §4); the Socratic demand is to *know* what one is doing, not merely to believe it.
 
 The value problem is the question of why the concept of knowledge *earns its keep*. The answers are plural, and the pluralism is honest: knowledge matters for different reasons in different domains, and the philosophical analysis should not pretend that there is a single answer.
 
@@ -543,7 +545,7 @@ The value problem is the question of why the concept of knowledge *earns its kee
 - **Factivity.** Knowledge requires truth. This is not contested, and it is the one condition that the analysis has not had to revise.
 - **The inadequacy of JTB.** The Gettier cases are genuine counterexamples. The classical analysis is false.
 - **The structural nature of the problem.** Zagzebski’s recipe shows that the problem is not a quirk of two cases; it is a consequence of fallibilism plus closure plus the JTB structure.
-- **The importance of luck.** The analysis of knowledge is, in large part, the analysis of *epistemic luck* (Ch. 3, optional thread; Ch. 7, §3).
+- **The importance of luck.** The analysis of knowledge is, in large part, the analysis of *epistemic luck* (§3.7; Ch. 12, §5.5).
 - **The plurality of responses.** There is no consensus on the fourth condition, but there is a consensus on the *space* of options: no-false-lemmas, defeasibility, causal, tracking, safety, virtue, knowledge-first.
 
 ### 8.2 What is open
@@ -558,7 +560,7 @@ The value problem is the question of why the concept of knowledge *earns its kee
 
 The chapter is a case study in the method of Ch. 3 and Ch. 4.
 
-- **Conceptual analysis** (§3 of Ch. 3) generated the classical analysis and the fourth-condition industry.
+- **Conceptual analysis** (§1 of Ch. 3) generated the classical analysis and the fourth-condition industry.
 - **Thought experiments** (§2 of Ch. 3) generated the Gettier cases and the barn facade.
 - **Reflective equilibrium** (§4 of Ch. 3) is the method by which the conditions and the cases are adjusted.
 - **Negative capability** (§7 of Ch. 3) is the response of the knowledge-first programme: the problem may be a pseudo-problem generated by a false assumption about the analysability of knowledge.
@@ -571,9 +573,9 @@ The honest verdict: the analysis of knowledge is a **research programme in trans
 
 > <details><summary><b>Optional threads for Ch. 7</b> (advanced / cross-cutting)</summary>
 >
-> **1. The generality problem.** Every reliabilist and virtue-theoretic analysis faces the question: *which* process type is the relevant one? The problem is stated by Feldman (1985) and Conee and Feldman (1998), and it is the most serious technical challenge to the externalist programme. The proposed solutions (the “contextualist” solution, the “dispositional” solution, the “epistemic” solution) are all contested.
+> **1. The generality problem.** Every reliabilist and virtue-theoretic analysis faces the question: *which* process type is the relevant one? The problem is pressed by Conee and Feldman (1985, 1998), and it is the most serious technical challenge to the externalist programme. The proposed solutions (the “contextualist” solution, the “dispositional” solution, the “epistemic” solution) are all contested.
 >
-> **2. The “knowledge without belief” debate.** Radford (1966), and the subsequent literature, is the best entry point into the question of whether belief is a condition of knowledge. The debate connects to the nature of implicit cognition (Ch. 30, §6) and to the self-knowledge literature (Ch. 26, §6).
+> **2. The “knowledge without belief” debate.** Radford (1966), and the subsequent literature, is the best entry point into the question of whether belief is a condition of knowledge. The debate connects to the nature of implicit cognition (Ch. 30, §5) and to the self-knowledge literature (Ch. 12, §6).
 >
 > **3. Epistemic injustice and the analysis of knowledge.** Fricker (2007) argues that the analysis of knowledge has neglected the *social* conditions of knowledge: whose testimony is believed, whose competence is recognized, and whose ignorance is excused. The “virtue” tradition has begun to incorporate this (Ch. 11, §4), but the analysis of knowledge has not yet fully absorbed it.
 >
@@ -586,7 +588,7 @@ The honest verdict: the analysis of knowledge is a **research programme in trans
 
 ## Summary
 
-- The **classical analysis** of knowledge is justified true belief (JTB). Each condition — belief, truth, justification — is a site of controversy. The belief condition is challenged by cases of implicit knowledge (Radford); the truth condition (factivity) is nearly uncontested; the justification condition is the subject of the internalism/externalism debate (Ch. 8).
+- The **classical analysis** of knowledge is justified true belief (JTB). Each condition — belief, truth, justification — is a site of controversy. The belief condition is challenged by Radford’s French-lessons case; the truth condition (factivity) is nearly uncontested; the justification condition is the subject of the internalism/externalism debate (Ch. 8).
 - **Gettier’s cases** (1963) refute the JTB analysis. Case I (the job and the coins) and Case II (the Ford and Barcelona) are structurally different, but both show that justified true belief can fail to be knowledge.
 - **Zagzebski’s recipe** shows that the Gettier problem is *structural*: any fallibilist analysis that accepts closure is vulnerable. The escapes are infallibilism, the denial of closure, or a condition that is not analysable in JTB terms.
 - **The fourth-condition industry** has produced five families of conditions: no-false-lemmas, defeasibility, causal, tracking, and safety. Each handles the original Gettier cases; each has characteristic costs. The **barn facade** case shows that the problem is broader than Gettier luck: **environmental luck** is a distinct problem.
@@ -617,15 +619,17 @@ The honest verdict: the analysis of knowledge is a **research programme in trans
 
 ## Further Reading
 
-- **Primary**: Edmund Gettier, “Is Justified True Belief Knowledge?” (1963); Plato, *Theaetetus* (201a–210a); Bertrand Russell, *The Problems of Philosophy* (1912), Ch. XIII.
-- **On the classical analysis**: Roderick Chisholm, *Theory of Knowledge* (1966), Ch. 1; Keith Lehrer, *Knowledge* (1974); Robert Shope, *The Analysis of Knowing* (1983), for the survey of the pre-Gettier literature.
+- **Primary**: Edmund Gettier, “Is Justified True Belief Knowledge?” (1963); Plato, *Theaetetus* (151e–210a); Bertrand Russell, *The Problems of Philosophy* (1912), Chs. V and XIII.
+- **On the classical analysis**: Robert Radford, “The Knowledge of Oneself” (1966); Roderick Chisholm, *Theory of Knowledge* (1966), Ch. 1; Keith Lehrer, *Knowledge* (1974); Alvin Goldman, “Reliabilism and the Epistemological Skeptics” (1979); Earl Conee and Richard Feldman, “Justified Belief” (1985); Laurence BonJour, *The Problems of Rationality* (1990); Alvin Plantinga, *Warrant and Proper Function* (1993); Robert Shope, *The Analysis of Knowing* (1983), for the survey of the pre-Gettier literature.
 - **On the Gettier problem**: the essays collected in *The Gettier Case* (ed. Lycan, 1990), and in *The Philosophy of Knowledge* (ed. Bernecker and Dretske, 2000); Linda Zagzebski, “The Inescapability of Gettier Problems” (1994); the survey in *The Stanford Encyclopedia of Philosophy*, “The Analysis of Knowledge” (Ichikawa and Steup).
-- **On the fourth condition**: Alvin Goldman, “A Causal Theory of Knowing” (1967), and “Discrimination and Perceptual Knowledge” (1976); Keith Lehrer and Thomas Paxson, “Knowledge: Undefeated Justified True Belief” (1969); Peter Klein, *Certainty* (1981); John Pollock, *Contemporary Theories of Knowledge* (1986); Robert Nozick, *Philosophical Explanations* (1981), Ch. 3; Ernest Sosa, “How to Defeat Opposition to Moore” (1999), and *A Virtue Epistemology* (2007); Duncan Pritchard, *Epistemic Luck* (2005).
-- **On knowledge-first**: Timothy Williamson, *Knowledge and Its Limits* (2000); the symposium in *Philosophy and Phenomenological Research* (2005); Aidan McGlynn, *Knowledge First?* (2014), for the critique.
-- **On virtue epistemology**: Ernest Sosa, “The Raft and the Pyramid” (1980), and *Judgment and Agency* (2015); Linda Zagzebski, *Virtues of the Mind* (1996); John Greco, *Achieving Knowledge* (2010); Duncan Pritchard, *Epistemological Disjunctivism* (2012), and *Epistemic Angst* (2016).
-- **On the semantics of “knows”**: Keith DeRose, “Contextualism and Knowledge Attributions” (1992), and “Solving the Sceptical Problem” (1995); David Lewis, “Elusive Knowledge” (1996); Stewart Cohen, “How to Be a Fallibilist” (1988); John Hawthorne, *Knowledge and Lotteries* (2004); Jason Stanley, *Knowledge and Practical Interests* (2005); John MacFarlane, “The Assessment Sensitivity of Knowledge Attributions” (2005), and *Assessment Sensitivity* (2014); Jeremy Fantl and Matthew McGrath, *Knowledge in an Uncertain World* (2009).
+- **On the fourth condition**: Alvin Goldman, “A Causal Theory of Knowing” (1967), and “Discrimination and Perceptual Knowledge” (1976); Robert Shope, “The Analysis of Knowledge” (1975); Roderick Chisholm, “Practical Reasoning” (1977); Keith Lehrer and Thomas Paxson, “Knowledge: Undefeated Justified True Belief” (1969); Peter Klein, *Certainty* (1981); John Pollock, *Contemporary Theories of Knowledge* (1986); Robert Nozick, *Philosophical Explanations* (1981), Ch. 3; Ernest Sosa, “How to Defeat Opposition to Moore” (1999), and *A Virtue Epistemology* (2007); Duncan Pritchard, *Epistemic Luck* (2005).
+- **On the generality problem**: Earl Conee and Richard Feldman, “The Generality Problem for Reliabilism” (1998); Jerry Fodor, “The Generalities Problem” (2008); the survey in the *Stanford Encyclopedia of Philosophy*, “Reliabilist Epistemology” (Goldman).
+- **On knowledge-first**: Timothy Williamson, *Knowledge and Its Limits* (2000), esp. Chs. 2, 4, and 11; the symposium in *Philosophy and Phenomenological Research* (2005); Aidan McGlynn, *Knowledge First?* (2014), for the critique.
+- **On virtue epistemology**: Ernest Sosa, “The Raft and the Pyramid” (1980), *A Virtue Epistemology* (2007), *Judgment and Agency* (2015), and *Epistemic Value and Other Essays* (2011); Linda Zagzebski, *Virtues of the Mind* (1996); John Greco, *Achieving Knowledge* (2010); Duncan Pritchard, *Epistemological Disjunctivism* (2012), and *Epistemic Angst* (2016).
+- **On the semantics of “knows”**: Stewart Cohen, “Assumptions about the Context of Knowing” (1986), and “How to Be a Fallibilist” (1988); Keith DeRose, “Contextualism and Knowledge Attributions” (1992), and “Solving the Sceptical Problem” (1995); David Lewis, “Elusive Knowledge” (1996); John Hawthorne, *Knowledge and Lotteries* (2004); Jason Stanley, *Knowledge and Practical Interests* (Cambridge, 2005); John Hawthorne and Jason Stanley, *Knowledge and Practical Interests* (Oxford, 2008); John MacFarlane, “The Assessment Sensitivity of Knowledge Attributions” (2005), and *Assessment Sensitivity* (2014); Hilmar Kölbel, “Relativizing Truth and Knowledge” (2010); Jessica Brown, “Subject-Sensitive Invariantism and the Knowledge Norm for Practical Reasoning” (2008); Jeremy Fantl and Matthew McGrath, *Knowledge in an Uncertain World* (2009).
 - **On the value problem**: Plato, *Meno* (97a–98b); Jonathan Kvanvig, *The Value of Knowledge and the Pursuit of Understanding* (2003); Linda Zagzebski, “The Search for the Source of Epistemic Good” (2003); Duncan Pritchard, Alan Millar, and Adrian Haddock, *The Nature and Value of Knowledge* (2010); the survey in *The Stanford Encyclopedia of Philosophy*, “The Value of Knowledge” (Pritchard and Turri).
 - **On the experimental literature**: Joshua Knobe and Shaun Nichols (eds.), *Experimental Philosophy* (2008); James Beebe and Wesley Buckwalter, “The Epistemic Side-Effect Effect” (2010); the essays in *Advances in Experimental Epistemology* (ed. Beebe, 2014).
+- **On epistemic injustice**: Miranda Fricker, *Epistemic Injustice* (2007); the essays in *Epistemic Injustice* (ed. Bricker and Goldberg, 2020).
 
 ---
 
