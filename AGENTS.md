@@ -1,3 +1,9 @@
+## Pandoc conversion
+
+Due to the large number of formulas, rendering is best done with MathML:
+
+pandoc -f markdown -s --mathml -t html chapters/01-introduction.md
+
 ## Web Search with TinyFish
 
 When searching the web using TinyFish in OpenCode, adhere strictly to the invocation formats below. Do not guess parameter names.
