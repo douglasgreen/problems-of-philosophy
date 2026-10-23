@@ -54,12 +54,12 @@ The *master* *argument* is stated in the *Principles* (§22–23) and *developed
 
 $$
 \begin{array}{ll}
-1. & \text{To *conceive* of an object is to have an *idea* of it (Berkeley's *idealism* about conception).} \\
-2. & \text{Every *idea* is *perceived* (the *esse* *est* *percipi* principle).} \\
-3. & \text{To *conceive* of an *object* existing *unperceived* is to have an *idea* of an *object* that is *not* perceived.} \\
-4. & \text{But the *idea* *is* perceived (by the *conceiver*), and therefore the *object* *is* perceived.} \\
+1. & \text{To conceive of an object is to have an idea of it (Berkeley's idealism about conception).} \\
+2. & \text{Every idea is perceived (the esse est percipi principle).} \\
+3. & \text{To conceive of an object existing unperceived is to have an idea of an object that is not perceived.} \\
+4. & \text{But the idea is perceived (by the conceiver), and therefore the object is perceived.} \\
 \hline
-5. & \therefore \text{It is *impossible* to conceive of an *unperceived* object.}
+5. & \therefore \text{It is impossible to conceive of an unperceived object.}
 \end{array}
 $$
 
@@ -75,12 +75,12 @@ The *standard* *objection*, due to *Moore* (“The Refutation of Idealism,” 19
 
 $$
 \begin{array}{ll}
-1. & \text{To *conceive* of an *object* is to *have* a *mental* *act* *directed* at the *object*.} \\
-2. & \text{The *mental* *act* is *mine*, and it is *perceived* (by introspection).} \\
-3. & \text{The *object* of the *act* is *what* the *act* is *about*; it is *not* the *act* itself.} \\
-4. & \text{The *object* can be *unperceived* even though the *act* is *perceived*.} \\
+1. & \text{To conceive of an object is to have a mental act directed at the object.} \\
+2. & \text{The mental act is mine, and it is perceived (by introspection).} \\
+3. & \text{The object of the act is what the act is about; it is not the act itself.} \\
+4. & \text{The object can be unperceived even though the act is perceived.} \\
 \hline
-5. & \therefore \text{The *master* *argument* is *invalid*.}
+5. & \therefore \text{The master argument is invalid.}
 \end{array}
 $$
 
@@ -98,11 +98,11 @@ Berkeley’s *second* *argument* is the **likeness* *principle*** (*Principles*,
 
 $$
 \begin{array}{ll}
-1. & \text{We *perceive* only *ideas*.} \\
-2. & \text{If the *ideas* *resemble* *material* *objects*, the *resemblance* *must* be *between* an *idea* and a *material* *object*.} \\
-3. & \text{But an *idea* can *resemble* only *another* *idea* (the *likeness* *principle*).} \\
+1. & \text{We perceive only ideas.} \\
+2. & \text{If the ideas resemble material objects, the resemblance must be between an idea and a material object.} \\
+3. & \text{But an idea can resemble only another idea (the likeness principle).} \\
 \hline
-4. & \therefore \text{The *ideas* *cannot* *resemble* *material* *objects*.}
+4. & \therefore \text{The ideas cannot resemble material objects.}
 \end{array}
 $$
 
@@ -118,11 +118,11 @@ The *veil* of *perception* is the *epistemic* *consequence* of the *representati
 
 $$
 \begin{array}{ll}
-1. & \text{We *perceive* only *ideas* (the *epistemic* *premise*).} \\
-2. & \text{The *ideas* *represent* *material* *objects* (the *representationalist* *premise*).} \\
-3. & \text{The *representation* is *inferred* from the *ideas*.} \\
+1. & \text{We perceive only ideas (the epistemic premise).} \\
+2. & \text{The ideas represent material objects (the representationalist premise).} \\
+3. & \text{The representation is inferred from the ideas.} \\
 \hline
-4. & \therefore \text{We *cannot* *know* whether the *material* *objects* *exist*.}
+4. & \therefore \text{We cannot know whether the material objects exist.}
 \end{array}
 $$
 
@@ -204,11 +204,11 @@ The *most* *important* *clarification* of *Kant’s* *view* is the *distinction*
 
 $$
 \begin{array}{ll}
-1. & \text{The *a* *priori* *knowledge* of *mathematics* and *physics* is *possible* (Kant's *datum*).} \\
-2. & \text{The *knowledge* *requires* that *the* *objects* *conform* to *the* *forms* of *cognition*.} \\
-3. & \text{The *forms* are *not* *derived* from *experience* (they are *a* *priori*).} \\
+1. & \text{The a priori knowledge of mathematics and physics is possible (Kant's datum).} \\
+2. & \text{The knowledge requires that the objects conform to the forms of cognition.} \\
+3. & \text{The forms are not derived from experience (they are a priori).} \\
 \hline
-4. & \therefore \text{The *objects* of *experience* are *constituted* by the *forms*.}
+4. & \therefore \text{The objects of experience are constituted by the forms.}
 \end{array}
 $$
 
@@ -237,11 +237,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Kant: the *a* *priori* *knowledge* of *geometry* *requires* that *space* be a *form* of *intuition*.} \\
-2. & \text{The *alternative*: *space* is a *feature* of *the* *world* *in* *itself*, and the *a* *priori* *knowledge* *tracks* that *feature*.} \\
-3. & \text{Kant *does* not *refute* the *alternative*; he *assumes* it is *impossible*.} \\
+1. & \text{Kant: the a priori knowledge of geometry requires that space be a form of intuition.} \\
+2. & \text{The alternative: space is a feature of the world in itself, and the a priori knowledge tracks that feature.} \\
+3. & \text{Kant does not refute the alternative; he assumes it is impossible.} \\
 \hline
-4. & \therefore \text{The *argument* is *incomplete*.}
+4. & \therefore \text{The argument is incomplete.}
 \end{array}
 $$
 
@@ -277,12 +277,12 @@ The *most* *radical* *form* of *idealism* is the *absolute* *idealism* of the *B
 
 $$
 \begin{array}{ll}
-1. & \text{If a relation } R \text{ relates two terms } a \text{ and } b, \text{ then } R \text{ must be *related* to } a \text{ and } b.} \\
-2. & \text{The *relation* between } R \text{ and } a \text{ is itself a *further* *relation} (R'). \\
-3. & \text{The *relation* between } R' \text{ and } R \text{ is a *further* *relation} (R''). \\
-4. & \text{The *regress* is *infinite*.} \\
+1. & \text{If a relation } R \text{ relates two terms } a \text{ and } b, \text{ then } R \text{ must be related to } a \text{ and } b. \\
+2. & \text{The relation between } R \text{ and } a \text{ is itself a further relation} (R'). \\
+3. & \text{The relation between } R' \text{ and } R \text{ is a further relation} (R''). \\
+4. & \text{The regress is infinite.} \\
 \hline
-5. & \therefore \text{Relations are *unreal* (they are *appearance*, not *reality*).}
+5. & \therefore \text{Relations are unreal (they are appearance, not reality).}
 \end{array}
 $$
 
@@ -298,11 +298,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *regress* *assumes* that *the* *relation* } R \text{ is a *term* *alongside* } a \text{ and } b. \\
-2. & \text{But } R \text{ is the *relating* relation; it is *not* a *term* in the *same* *sense*.} \\
-3. & \text{The *regress* is *avoided* if the *relation* is *primitive*.} \\
+1. & \text{The regress assumes that the relation } R \text{ is a term alongside } a \text{ and } b. \\
+2. & \text{But } R \text{ is the relating relation; it is not a term in the same sense.} \\
+3. & \text{The regress is avoided if the relation is primitive.} \\
 \hline
-4. & \therefore \text{The *regress* is *not* *decisive*.}
+4. & \therefore \text{The regress is not decisive.}
 \end{array}
 $$
 
@@ -350,11 +350,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *intrinsic* *nature* of the *physical* is *not* *given* by *physics* (Ch. 19, §1.5).} \\
-2. & \text{The *only* *intrinsic* *nature* we *know* is *experience*.} \\
-3. & \text{The *best* *explanation* of the *intrinsic* *nature* is that it is *experience*-like.} \\
+1. & \text{The intrinsic nature of the physical is not given by physics (Ch. 19, §1.5).} \\
+2. & \text{The only intrinsic nature we know is experience.} \\
+3. & \text{The best explanation of the intrinsic nature is that it is experience-like.} \\
 \hline
-4. & \therefore \text{Reality is *objective* *mind*.}
+4. & \therefore \text{Reality is objective mind.}
 \end{array}
 $$
 
@@ -372,11 +372,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *universe* is a *single*, *unified* *whole* (the *structuralist* *insight*; Ch. 15, §7).} \\
-2. & \text{The *whole* *has* *properties* that the *parts* *do* not *have* (the *cosmic* *consciousness*).} \\
-3. & \text{The *properties* are *fundamental*, and the *parts* are *derived*.} \\
+1. & \text{The universe is a single, unified whole (the structuralist insight; Ch. 15, §7).} \\
+2. & \text{The whole has properties that the parts do not have (the cosmic consciousness).} \\
+3. & \text{The properties are fundamental, and the parts are derived.} \\
 \hline
-4. & \therefore \text{The *cosmos* is the *fundamental* *experiencer*, and the *individual* *minds* are *differentiations*.}
+4. & \therefore \text{The cosmos is the fundamental experiencer, and the individual minds are differentiations.}
 \end{array}
 $$
 
@@ -518,11 +518,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{To *conceive* of } X \text{ is to *represent* } X. \\
-2. & \text{The *representation* is *mental*.} \\
-3. & \text{If } X \text{ is *represented*, } X \text{ is *related* to a *mind*.} \\
+1. & \text{To conceive of } X \text{ is to represent } X. \\
+2. & \text{The representation is mental.} \\
+3. & \text{If } X \text{ is represented, } X \text{ is related to a mind.} \\
 \hline
-4. & \therefore \text{Every *conceived* } X \text{ is *mind-related*.}
+4. & \therefore \text{Every conceived } X \text{ is mind-related.}
 \end{array}
 $$
 
@@ -532,11 +532,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *act* of *representing* is mental.} \\
-2. & \text{The *content* is *what* is represented; it is *not* the *act*.} \\
-3. & \text{The *content* can be a *world* that is *not* *represented* by *any* *mind*.} \\
+1. & \text{The act of representing is mental.} \\
+2. & \text{The content is what is represented; it is not the act.} \\
+3. & \text{The content can be a world that is not represented by any mind.} \\
 \hline
-4. & \therefore \text{The *argument* does not establish *idealism*.}
+4. & \therefore \text{The argument does not establish idealism.}
 \end{array}
 $$
 
@@ -550,10 +550,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *hard* *problem* is *unsolved* by *physicalism*.} \\
-2. & \text{Idealism *makes* *consciousness* *fundamental*, and the *hard* *problem* *dissolves*.} \\
+1. & \text{The hard problem is unsolved by physicalism.} \\
+2. & \text{Idealism makes consciousness fundamental, and the hard problem dissolves.} \\
 \hline
-3. & \therefore \text{Idealism is the *best* *explanation* of the *hard* *problem*.}
+3. & \therefore \text{Idealism is the best explanation of the hard problem.}
 \end{array}
 $$
 
@@ -567,11 +567,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Our *cognitive* *faculties* *fit* the *world* (we *can* *know* it).} \\
-2. & \text{The *fit* is *not* *miraculous* under *idealism* (the *world* is *mind}).} \\
-3. & \text{The *fit* *is* *miraculous* under *realism* (the *world* is *mind-independent*).} \\
+1. & \text{Our cognitive faculties fit the world (we can know it).} \\
+2. & \text{The fit is not miraculous under idealism (the world is mind}). \\
+3. & \text{The fit is miraculous under realism (the world is mind-independent).} \\
 \hline
-4. & \therefore \text{Idealism is the *better* *explanation*.}
+4. & \therefore \text{Idealism is the better explanation.}
 \end{array}
 $$
 
@@ -593,10 +593,10 @@ The *coherence* of *mind-independent* *reality* is *the* *central* *issue* betwe
 
 $$
 \begin{array}{ll}
-1. & \text{The *observable* *data* are *the* *same* under *idealism* and *realism*.} \\
-2. & \text{The *choice* between *theories* that are *empirically* *equivalent* *cannot* be settled by *evidence*.} \\
+1. & \text{The observable data are the same under idealism and realism.} \\
+2. & \text{The choice between theories that are empirically equivalent cannot be settled by evidence.} \\
 \hline
-3. & \therefore \text{The *debate* is *metaphysical*, not *empirical*.}
+3. & \therefore \text{The debate is metaphysical, not empirical.}
 \end{array}
 $$
 

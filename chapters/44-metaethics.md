@@ -54,10 +54,10 @@ The *phrase* “the *fact/value* gap” *names* two *distinct* *theses*, and the
 
 $$
 \begin{array}{ll}
-1. & \text{Every *valid* *argument* *preserves* the *kind* of its *premises* (the *logical* *principle*).} \\
-2. & \text{A *descriptive* *premise* is of a *different* *kind* from a *normative* *conclusion* (the *semantic* *premise*).} \\
+1. & \text{Every valid argument preserves the kind of its premises (the logical principle).} \\
+2. & \text{A descriptive premise is of a different kind from a normative conclusion (the semantic premise).} \\
 \hline
-3. & \therefore \text{No *descriptive* *premises* *entail* a *normative* *conclusion* (the *no*-*ought*-*from*-*is* *thesis*).}
+3. & \therefore \text{No descriptive premises entail a normative conclusion (the no-ought-from-is thesis).}
 \end{array}
 $$
 
@@ -97,10 +97,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{If } G = N, \text{ then the question "} x \text{ is } N, \text{ but is } x \text{ good?" is *closed* (the answer is settled by the *meaning*).} \\
-2. & \text{The question is *open* (the *competent* *speaker* does *not* *settle* it by the *meaning* alone).} \\
+1. & \text{If } G = N, \text{ then the question “} x \text{ is } N, \text{ but is } x \text{ good?” is closed (the answer is settled by the meaning).} \\
+2. & \text{The question is open (the competent speaker does not settle it by the meaning alone).} \\
 \hline
-3. & \therefore G \neq N \text{ (the *naturalist* *definition* *fails*).}
+3. & \therefore G \neq N \text{ (the naturalist definition fails).}
 \end{array}
 $$
 
@@ -146,11 +146,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *thick* *concepts* are *descriptive* (they *describe* the *situation*) and *evaluative* (they *evaluate* it).} \\
-2. & \text{The *description* *entails* the *evaluation* (the *“*cruel*”* *is* *wrong* *by* *definition*).} \\
-3. & \text{The *entailment* *is* *not* *defeasible* (the *concept* *cannot* be *applied* *without* the *evaluation*).} \\
+1. & \text{The thick concepts are descriptive (they describe the situation) and evaluative (they evaluate it).} \\
+2. & \text{The description entails the evaluation (the “cruel” is wrong by definition).} \\
+3. & \text{The entailment is not defeasible (the concept cannot be applied without the evaluation).} \\
 \hline
-4. & \therefore \text{The *fact/value* *dichotomy* *cannot* *accommodate* the *thick* *concepts* (the *entanglement* *thesis*; Ch. 44, §7), and the *dichotomy* is *not* *sharp* (the *no*-*sharp*-*line* *insight*).}
+4. & \therefore \text{The fact/value dichotomy cannot accommodate the thick concepts (the entanglement thesis; Ch. 44, §7), and the dichotomy is not sharp (the no-sharp-line insight).}
 \end{array}
 $$
 
@@ -221,18 +221,18 @@ $$
 **The *structure***.
 
 $$
-\text{Moral property} \ M \ = \ \text{a *homeostatic* *cluster* of the *natural* *properties*} \ (N_1, \ldots, N_k)
+\text{Moral property} \ M \ = \ \text{a homeostatic cluster of the natural properties} \ (N_1, \ldots, N_k)
 $$
 
 **The *argument*** (the *moral* *explanation*; Sturgeon 1985, §2).
 
 $$
 \begin{array}{ll}
-1. & \text{The *moral* *properties* *explain* the *non*-*moral* *phenomena* (the *slavery* *explains* the *misery*, the *cruelty* *explains* the *suffering*).} \\
-2. & \text{The *explanatory* *power* *is* the *mark* of the *real* *property* (the *IBE*; Ch. 10, §6).} \\
-3. & \text{The *explanation* *requires* the *moral* *property* (the *moral* *insight*).} \\
+1. & \text{The moral properties explain the non-moral phenomena (the slavery explains the misery, the cruelty explains the suffering).} \\
+2. & \text{The explanatory power is the mark of the real property (the IBE; Ch. 10, §6).} \\
+3. & \text{The explanation requires the moral property (the moral insight).} \\
 \hline
-4. & \therefore \text{The *moral* *properties* *are* *real* (the *realist* *insight*), and they are *natural* (the *Cornell* *insight*).}
+4. & \therefore \text{The moral properties are real (the realist insight), and they are natural (the Cornell insight).}
 \end{array}
 $$
 
@@ -259,18 +259,18 @@ $$
 **The *structure***.
 
 $$
-\text{Moral property} \ M \ = \ \text{a *sui* *generis* *normative* *property*} \ (\text{not reducible to the natural})
+\text{Moral property} \ M \ = \ \text{a sui generis normative property} \ (\text{not reducible to the natural})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *open* *question* *argument* *shows* that the *good* is *not* *definable* in the *natural* *terms*} \ (\S 1.3). \\
-2. & \text{The *normative* *force* *is* *not* *reducible* to the *descriptive* *facts*} \ (\S 1.2). \\
-3. & \text{The *irreducibility* *requires* a *distinct* *kind* of *property*} \ (\text{the *non*-*natural* *insight*). \\
+1. & \text{The open question argument shows that the good is not definable in the natural terms} \ (§ 1.3). \\
+2. & \text{The normative force is not reducible to the descriptive facts} \ (§ 1.2). \\
+3. & \text{The irreducibility requires a distinct kind of property (the non-natural insight).} \\
 \hline
-4. & \therefore \text{The *moral* *properties* are *non*-*natural* (the *non*-*naturalism*).}
+4. & \therefore \text{The moral properties are non-natural (the non-naturalism).}
 \end{array}
 $$
 
@@ -314,7 +314,7 @@ $$
 **The *structure***.
 
 $$
-\text{Moral judgment} \ j \ \text{presupposes} \ \exists x\, M(x) \ \wedge \ \neg\exists x\, M(x) \ \Rightarrow \ j \ \text{is *false*}
+\text{Moral judgment} \ j \ \text{presupposes} \ \exists x\, M(x) \ \wedge \ \neg\exists x\, M(x) \ \Rightarrow \ j \ \text{is false}
 $$
 
 **The *two* *arguments***.
@@ -325,11 +325,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *objective* *moral* *values* *have* the *metaphysical* *queerness* (the *objective* *prescriptivity*, the *categorical* *force*).} \\
-2. & \text{The *queerness* is *not* *found* *in* the *natural* *world* (the *science*, the *experience*).} \\
-3. & \text{The *queerness* is *incredible* (the *parsimony*; Ch. 14, §4).} \\
+1. & \text{The objective moral values have the metaphysical queerness (the objective prescriptivity, the categorical force).} \\
+2. & \text{The queerness is not found in the natural world (the science, the experience).} \\
+3. & \text{The queerness is incredible (the parsimony; Ch. 14, §4).} \\
 \hline
-4. & \therefore \text{The *objective* *moral* *values* *do* *not* *exist* (the *error* *theory*).}
+4. & \therefore \text{The objective moral values do not exist (the error theory).}
 \end{array}
 $$
 
@@ -339,11 +339,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *moral* *disagreement* is *radical* (the *fundamental* *moral* *differences*).} \\
-2. & \text{The *disagreement* is *best* *explained* by the *no*-*moral*-*facts* *hypothesis* (the *anti*-*realist* *insight*).} \\
-3. & \text{The *realism* *cannot* *explain* the *disagreement* (the *realist* *weakness*).} \\
+1. & \text{The moral disagreement is radical (the fundamental moral differences).} \\
+2. & \text{The disagreement is best explained by the no-moral-facts hypothesis (the anti-realist insight).} \\
+3. & \text{The realism cannot explain the disagreement (the realist weakness).} \\
 \hline
-4. & \therefore \text{The *moral* *facts* *do* *not* *exist* (the *anti*-*realist* *conclusion*).}
+4. & \therefore \text{The moral facts do not exist (the anti-realist conclusion).}
 \end{array}
 $$
 
@@ -370,18 +370,18 @@ $$
 **The *structure***.
 
 $$
-\text{“Torture is wrong”} \ \Rightarrow \ \text{“Boo torture!”} \quad \text{(the *emotivist* *analysis*; Ayer)}
+\text{“Torture is wrong”} \ \Rightarrow \ \text{“Boo torture!”} \quad \text{(the emotivist analysis; Ayer)}
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *moral* *judgments* *motivate* the *action* (the *internalism*; Ch. 28, §2.3).} \\
-2. & \text{The *beliefs* *alone* *do* *not* *motivate* (the *Humean* *theory*; Ch. 28, §2.2).} \\
-3. & \text{The *moral* *judgments* *must* be the *conative* *states* (the *desires*, the *attitudes*).} \\
+1. & \text{The moral judgments motivate the action (the internalism; Ch. 28, §2.3).} \\
+2. & \text{The beliefs alone do not motivate (the Humean theory; Ch. 28, §2.2).} \\
+3. & \text{The moral judgments must be the conative states (the desires, the attitudes).} \\
 \hline
-4. & \therefore \text{The *moral* *judgments* *express* the *attitudes* (the *expressivism*).}
+4. & \therefore \text{The moral judgments express the attitudes (the expressivism).}
 \end{array}
 $$
 
@@ -393,11 +393,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *meaning* of a *sentence* is *constant* across the *contexts* (the *compositionality*; Ch. 31, §4).} \\
-2. & \text{The *sentence* “torture is wrong” *occurs* in the *unasserted* *contexts* (“If torture is wrong, then …”; “Either torture is wrong or …”; “S believes that torture is wrong”).} \\
-3. & \text{The *expressivist* *analysis* (“Boo torture!”) *does* not *fit* the *unasserted* *contexts* (the “Boo” is a *force*, not a *content*, and the *force* is *not* *composable*).} \\
+1. & \text{The meaning of a sentence is constant across the contexts (the compositionality; Ch. 31, §4).} \\
+2. & \text{The sentence “torture is wrong” occurs in the unasserted contexts (“If torture is wrong, then …”; “Either torture is wrong or …”; “S believes that torture is wrong”).} \\
+3. & \text{The expressivist analysis (“Boo torture!”) does not fit the unasserted contexts (the “Boo” is a force, not a content, and the force is not composable).} \\
 \hline
-4. & \therefore \text{The *expressivism* is *false* (the *Frege*-*Geach* *problem*).}
+4. & \therefore \text{The expressivism is false (the Frege-Geach problem).}
 \end{array}
 $$
 
@@ -431,11 +431,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *expressivism* *grounds* the *moral* *judgments* in the *attitudes* (the *non*-*cognitivism*).} \\
-2. & \text{The *moral* *discourse* *uses* the *realist* *notions* (the *truth*, the *objectivity*, the *facts*).} \\
-3. & \text{The *realist* *notions* *can* be *earned* (the *minimal* *truth*, the *attitude* *to* the *attitudes*, the *quasi*-*realist* *construction*).} \\
+1. & \text{The expressivism grounds the moral judgments in the attitudes (the non-cognitivism).} \\
+2. & \text{The moral discourse uses the realist notions (the truth, the objectivity, the facts).} \\
+3. & \text{The realist notions can be earned (the minimal truth, the attitude to the attitudes, the quasi-realist construction).} \\
 \hline
-4. & \therefore \text{The *quasi*-*realism* *vindicates* the *realist* *discourse* *on* the *expressivist* *basis* (the *quasi*-*realist* *insight*).}
+4. & \therefore \text{The quasi-realism vindicates the realist discourse on the expressivist basis (the quasi-realist insight).}
 \end{array}
 $$
 
@@ -479,7 +479,7 @@ $$
 **The *structure***.
 
 $$
-\text{Moral fact} \ = \ \text{the *outcome* of the *constructive* *procedure*}
+\text{Moral fact} \ = \ \text{the outcome of the constructive procedure}
 $$
 
 **The *varieties***.
@@ -497,18 +497,18 @@ $$
 **The *structure***.
 
 $$
-\text{Maxim} \ m \ \text{is *permissible*} \ \text{iff} \ \text{the *universalization* of } m \text{ is *consistent* (the *CI* *procedure*)}
+\text{Maxim} \ m \ \text{is permissible} \ \text{iff} \ \text{the universalization of } m \text{ is consistent (the CI procedure)}
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *agency* *requires* the *self}-*legislation* (the *autonomy*; the *Kantian* *insight*).} \\
-2. & \text{The *self}-*legislation* *requires* the *universalizable* *maxims* (the *CI* *procedure*).} \\
-3. & \text{The *universalizability* *constitutes* the *normative* *authority* (the *constitutive* *insight*).} \\
+1. & \text{The agency requires the self-legislation (the autonomy; the Kantian insight).} \\
+2. & \text{The self-legislation requires the universalizable maxims (the CI procedure).} \\
+3. & \text{The universalizability constitutes the normative authority (the constitutive insight).} \\
 \hline
-4. & \therefore \text{The *moral* *facts* are *constituted* by the *agency* (the *Kantian* *constructivism*).}
+4. & \therefore \text{The moral facts are constituted by the agency (the Kantian constructivism).}
 \end{array}
 $$
 
@@ -533,18 +533,18 @@ $$
 **The *structure*** (the *Scanlonian* *formula*).
 
 $$
-\text{Act} \ A \ \text{is *wrong*} \ \text{iff} \ A \ \text{is *forbidden* by the *principles* that *no one* could *reasonably* *reject* (the *contractualist* *test*)}
+\text{Act} \ A \ \text{is wrong} \ \text{iff} \ A \ \text{is forbidden by the principles that no one could reasonably reject (the contractualist test)}
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *morality* *requires* the *justification* to the *others* (the *contractualist* *insight*).} \\
-2. & \text{The *justification* *requires* the *principles* that *no one* could *reasonably* *reject* (the *Scanlonian* *formula*).} \\
-3. & \text{The *principles* *constitute* the *moral* *facts* (the *constructivist* *insight*).} \\
+1. & \text{The morality requires the justification to the others (the contractualist insight).} \\
+2. & \text{The justification requires the principles that no one could reasonably reject (the Scanlonian formula).} \\
+3. & \text{The principles constitute the moral facts (the constructivist insight).} \\
 \hline
-4. & \therefore \text{The *moral* *facts* are *constituted* by the *agreement* (the *contractualism*).}
+4. & \therefore \text{The moral facts are constituted by the agreement (the contractualism).}
 \end{array}
 $$
 
@@ -571,18 +571,18 @@ $$
 **The *structure***.
 
 $$
-\text{Reason} \ r \ \text{for} \ A \ \text{to} \ \phi \ = \ \text{r *serves* } A\text{’s *desires*} \ (\text{the *Humean* *standpoint*})
+\text{Reason} \ r \ \text{for} \ A \ \text{to} \ \phi \ = \ \text{r serves } A\text{’s desires} \ (\text{the Humean standpoint})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *reasons* *serve* the *desires* (the *Humean* *insight*; Ch. 28, §2.3).} \\
-2. & \text{The *desires* *vary* across the *agents* (the *subjectivity*).} \\
-3. & \text{The *reasons* *vary* with the *desires* (the *relativity*).} \\
+1. & \text{The reasons serve the desires (the Humean insight; Ch. 28, §2.3).} \\
+2. & \text{The desires vary across the agents (the subjectivity).} \\
+3. & \text{The reasons vary with the desires (the relativity).} \\
 \hline
-4. & \therefore \text{The *reasons* are *constructed* from the *desires* (the *Humean* *constructivism*), and the *morality* is *constructed* from the *desires* (the *constructivist* *insight*).}
+4. & \therefore \text{The reasons are constructed from the desires (the Humean constructivism), and the morality is constructed from the desires (the constructivist insight).}
 \end{array}
 $$
 
@@ -655,11 +655,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *moral* *disagreement* is *pervasive*, *durable*, and *deep* (the *empirical* *premise*).} \\
-2. & \text{The *disagreement* is *best* *explained* by the *no*-*moral*-*facts* *hypothesis* (the *anti*-*realist* *insight*).} \\
-3. & \text{The *realism* *cannot* *explain* the *disagreement* (the *realist* *weakness*).} \\
+1. & \text{The moral disagreement is pervasive, durable, and deep (the empirical premise).} \\
+2. & \text{The disagreement is best explained by the no-moral-facts hypothesis (the anti-realist insight).} \\
+3. & \text{The realism cannot explain the disagreement (the realist weakness).} \\
 \hline
-4. & \therefore \text{The *moral* *facts* *do* *not* *exist* (the *anti*-*realist* *conclusion*).}
+4. & \therefore \text{The moral facts do not exist (the anti-realist conclusion).}
 \end{array}
 $$
 
@@ -687,11 +687,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *argument* } A \text{ (the *queerness*, the *disagreement*) *applies* to the *moral* *realism*} \ (\text{the *anti}-*realist* \text{ *premise}).} \\
-2. & \text{The *argument* } A \text{ *applies* *equally* to the *epistemic* *normativity*, the *mathematical* *realism*, the *modal* *realism*} \ (\text{the *structural* *insight}).} \\
-3. & \text{The *epistemic* *normativity*, the *mathematical* *realism*, the *modal* *realism* are *not* *refuted*} \ (\text{the *realist* \text{ *premise}).} \\
+1. & \text{The argument } A \text{ (the queerness, the disagreement) applies to the moral realism} \ (\text{the anti-realist }\text{ premise}). \\
+2. & \text{The argument } A \text{ applies equally to the epistemic normativity, the mathematical realism, the modal realism} \ (\text{the structural insight}). \\
+3. & \text{The epistemic normativity, the mathematical realism, the modal realism are not refuted} \ (\text{the realist premise).} \\
 \hline
-4. & \therefore \text{The *argument* } A \text{ *fails* (it is too *strong*), and the *moral* *realism* is *not* *refuted* by the *argument* } A \ (\text{the *companions} \text{ *insight}).}
+4. & \therefore \text{The argument } A \text{ fails (it is too strong), and the moral realism is not refuted by the argument } A \ (\text{the companions} \text{ insight}).
 \end{array}
 $$
 
@@ -735,18 +735,18 @@ $$
 **The *structure***.
 
 $$
-\text{Moral knowledge} \ = \ \text{the *self*-*evident* *intuition*} \ (\text{the *a* *priori* *grasp*})
+\text{Moral knowledge} \ = \ \text{the self-evident intuition} \ (\text{the a priori grasp})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *fundamental* *moral* *principles* are *not* *derived* from the *empirical* *facts* (the *is*/*ought* *gap*; §1.2).} \\
-2. & \text{The *principles* are *known* *a* *priori* (the *intuition*).} \\
-3. & \text{The *a* *priori* *knowledge* *requires* the *intuition* (the *faculty*).} \\
+1. & \text{The fundamental moral principles are not derived from the empirical facts (the is/ought gap; §1.2).} \\
+2. & \text{The principles are known a priori (the intuition).} \\
+3. & \text{The a priori knowledge requires the intuition (the faculty).} \\
 \hline
-4. & \therefore \text{The *moral* *intuition* *grounds* the *principles* (the *intuitionism*).}
+4. & \therefore \text{The moral intuition grounds the principles (the intuitionism).}
 \end{array}
 $$
 
@@ -773,18 +773,18 @@ $$
 **The *structure***.
 
 $$
-\text{Moral knowledge} \ = \ \text{the *perception* of the *moral* *properties*} \ (\text{the *moral* *perception*})
+\text{Moral knowledge} \ = \ \text{the perception of the moral properties} \ (\text{the moral perception})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *moral* *properties* are *experienced* (the *cruelty*, the *kindness*; Ch. 30, §2).} \\
-2. & \text{The *experience* is *perceptual* (the *non*-*inferential*, the *immediacy*; Ch. 5, §6.3).} \\
-3. & \text{The *perception* *grounds* the *knowledge* (the *perceptual* *insight*).} \\
+1. & \text{The moral properties are experienced (the cruelty, the kindness; Ch. 30, §2).} \\
+2. & \text{The experience is perceptual (the non-inferential, the immediacy; Ch. 5, §6.3).} \\
+3. & \text{The perception grounds the knowledge (the perceptual insight).} \\
 \hline
-4. & \therefore \text{The *moral* *knowledge* is the *perception* (the *moral* *perception* *insight*), and the *perception* *grounds* the *particular* *judgments* (the *particularist* *insight*).}
+4. & \therefore \text{The moral knowledge is the perception (the moral perception insight), and the perception grounds the particular judgments (the particularist insight).}
 \end{array}
 $$
 
@@ -820,10 +820,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *moral* *knowledge* *requires* the *moral* *understanding* (the *grasp* of *why* the *action* is *wrong*).} \\
-2. & \text{The *understanding* is *not* *transmitted* by the *testimony* (it *requires* the *achievement* of the *agent*).} \\
+1. & \text{The moral knowledge requires the moral understanding (the grasp of why the action is wrong).} \\
+2. & \text{The understanding is not transmitted by the testimony (it requires the achievement of the agent).} \\
 \hline
-3. & \therefore \text{The *moral* *knowledge* *cannot* be *acquired* *solely* from the *testimony* (the *autonomy* *insight*).}
+3. & \therefore \text{The moral knowledge cannot be acquired solely from the testimony (the autonomy insight).}
 \end{array}
 $$
 
@@ -837,11 +837,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *moral* *beliefs* are *explained* by the *evolutionary* *process* (the *empirical* *premise*).} \\
-2. & \text{The *process* *is* *not* *truth*-*tracking* with respect to the *moral* *facts* (the *evolutionary* *insight*: the *selection* *favors* the *beliefs* that *promote* the *cooperation*, not the *beliefs* that *track* the *moral* *truth*).} \\
-3. & \text{The *beliefs* that result from a *non*-*truth*-*tracking* *process* are *not* *justified* (the *epistemic* *premise*; Ch. 3, §5.2).} \\
+1. & \text{The moral beliefs are explained by the evolutionary process (the empirical premise).} \\
+2. & \text{The process is not truth-tracking with respect to the moral facts (the evolutionary insight: the selection favors the beliefs that promote the cooperation, not the beliefs that track the moral truth).} \\
+3. & \text{The beliefs that result from a non-truth-tracking process are not justified (the epistemic premise; Ch. 3, §5.2).} \\
 \hline
-4. & \therefore \text{The *moral* *realism* is *undermined* (the *debunking* *conclusion*).}
+4. & \therefore \text{The moral realism is undermined (the debunking conclusion).}
 \end{array}
 $$
 
@@ -875,10 +875,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *moral* *disagreement* *persists* among the *experts* (the *philosophers*, the *theologians*), and the *disagreement* *undermines* the *expertise* (the *epistemic* *peer* *disagreement*; Ch. 11, §3).} \\
-2. & \text{The *moral* *knowledge* *requires* the *first*-*person* *engagement* (the *autonomy*).} \\
+1. & \text{The moral disagreement persists among the experts (the philosophers, the theologians), and the disagreement undermines the expertise (the epistemic peer disagreement; Ch. 11, §3).} \\
+2. & \text{The moral knowledge requires the first-person engagement (the autonomy).} \\
 \hline
-3. & \therefore \text{The *moral* *expertise* is *not* *a* *genuine* *expertise* (the *no*-*expertise* *insight*), and the *moral* *testimony* is *not* *authoritative* (the *autonomy* *insight*).}
+3. & \therefore \text{The moral expertise is not a genuine expertise (the no-expertise insight), and the moral testimony is not authoritative (the autonomy insight).}
 \end{array}
 $$
 
@@ -924,10 +924,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *thick* *concept*} C \text{ *describes*} F \text{ and *evaluates*} E, \text{ and the *description* and the *evaluation* are *coextensive* (the *“*cruel*”* *is* the *action* *that* *is* *wrong* *in* the *specific* *way*).} \\
-2. & \text{The *analysis* *requires* the *separation*} (C = F + E), \text{ but the *separation* *is* *not* *available*} (the *description* *of* F \text{ *without*} E \text{ *does* not *capture*} C; the *evaluation*} E \text{ *without*} F \text{ *is* the *thin* *concept*, not*} C). \\
+1. & \text{The thick concept} C \text{ describes} F \text{ and evaluates} E, \text{ and the description and the evaluation are coextensive (the “cruel” is the action that is wrong in the specific way).} \\
+2. & \text{The analysis requires the separation} (C = F + E), \text{ but the separation is not available (the description of F }\text{ without} E \text{ does not capture C; the evaluation} E \text{ without} F \text{ is the thin concept, not} C). \\
 \hline
-3. & \therefore \text{The *thick* *concepts* *are* *entangled* (the *entanglement* *insight*), and the *analysis* *into* the *fact* *plus* the *value* *fails*.}
+3. & \therefore \text{The thick concepts are entangled (the entanglement insight), and the analysis into the fact plus the value fails.}
 \end{array}
 $$
 
@@ -941,10 +941,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *thick* *concepts* *vary* across the *cultures* (the *empirical* *premise*).} \\
-2. & \text{The *variation* *suggests* that the *concepts* are the *cultural* *constructions* (the *relativist* *insight*).} \\
+1. & \text{The thick concepts vary across the cultures (the empirical premise).} \\
+2. & \text{The variation suggests that the concepts are the cultural constructions (the relativist insight).} \\
 \hline
-3. & \therefore \text{The *thick* *concepts* are *not* *objective* (the *relativist* *conclusion*).}
+3. & \therefore \text{The thick concepts are not objective (the relativist conclusion).}
 \end{array}
 $$
 

@@ -57,7 +57,7 @@ The *chapter* proceeds in *eight* *movements*. §1 examines the *theories* of *w
 **The *structure***.
 
 $$
-W(P) = \sum_t \big( \text{pleasure}(P, t) - \text{pain}(P, t) \big) \quad (\text{the *hedonic* *balance*})
+W(P) = \sum_t \big( \text{pleasure}(P, t) - \text{pain}(P, t) \big) \quad (\text{the hedonic balance})
 $$
 
 **The *arguments***.
@@ -128,7 +128,7 @@ $$
 **The *structure***.
 
 $$
-W(P) = \sum_{i \in \text{the *list*}} w_i \cdot G_i(P) \quad (\text{the *weighted* *sum* of the *objective* *goods*})
+W(P) = \sum_{i \in \text{the list}} w_i \cdot G_i(P) \quad (\text{the weighted sum of the objective goods})
 $$
 
 **The *arguments***.
@@ -162,7 +162,7 @@ $$
 **The *structure*** (the *Sumner* *form*).
 
 $$
-W(P) = \text{the *objective* *good*} \ G \ \text{that is *endorsed* by the *agent*} \ (\text{the *authentic* *happiness*})
+W(P) = \text{the objective good} \ G \ \text{that is endorsed by the agent} \ (\text{the authentic happiness})
 $$
 
 **The *arguments***.
@@ -207,7 +207,7 @@ $$
 **The *structure***.
 
 $$
-\text{The machine intuition}: \ \text{the *refusal*} \ \Rightarrow \ \neg \ (\text{the *pleasure* *is* the *sufficient* *well-being*})
+\text{The machine intuition}: \ \text{the refusal} \ \Rightarrow \ \neg \ (\text{the pleasure is the sufficient well-being})
 $$
 
 **The *three* *reasons*** (Nozick 1974, pp. 43–45).
@@ -222,11 +222,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *machine* *delivers* the *maximal* *pleasure* (the *experiential* *insight*).} \\
-2. & \text{The *intuition* *rejects* the *machine* (the *no* *plugging* *in*).} \\
-3. & \text{The *rejection* *requires* the *goods* *beyond* the *pleasure* (the *doing*, the *being*, the *contact*).} \\
+1. & \text{The machine delivers the maximal pleasure (the experiential insight).} \\
+2. & \text{The intuition rejects the machine (the no plugging in).} \\
+3. & \text{The rejection requires the goods beyond the pleasure (the doing, the being, the contact).} \\
 \hline
-4. & \therefore \text{The *hedonism* *is* *false* (the *machine* *insight*), and the *well*-*being* *includes* the *objective* *goods* (the *list* *insight*).}
+4. & \therefore \text{The hedonism is false (the machine insight), and the well-being includes the objective goods (the list insight).}
 \end{array}
 $$
 
@@ -258,11 +258,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *intuition* *is* *evidence* (the *considered* *judgment*; the *method*).} \\
-2. & \text{The *evidence* *is* *defeasible* (the *framing*, the *bias*, the *disagreement*).} \\
-3. & \text{The *weight* *depends* on the *robustness* (the *replication*, the *convergence*).} \\
+1. & \text{The intuition is evidence (the considered judgment; the method).} \\
+2. & \text{The evidence is defeasible (the framing, the bias, the disagreement).} \\
+3. & \text{The weight depends on the robustness (the replication, the convergence).} \\
 \hline
-4. & \therefore \text{The *machine* *intuition* *supports* the *objective* *goods* (the *robust* *insight*), and it *does* not *confute* the *hedonism* *decisively* (the *defeasible* *insight*).}
+4. & \therefore \text{The machine intuition supports the objective goods (the robust insight), and it does not confute the hedonism decisively (the defeasible insight).}
 \end{array}
 $$
 
@@ -307,7 +307,7 @@ $$
 **The *structure***.
 
 $$
-\text{Meaning} \ = \ \text{the *caring*} \ (\text{the *final* *ends* that the agent *endorses* and *sustains*})
+\text{Meaning} \ = \ \text{the caring} \ (\text{the final ends that the agent endorses and sustains})
 $$
 
 **The *arguments***.
@@ -337,7 +337,7 @@ $$
 **The *structure***.
 
 $$
-\text{Meaning} \ = \ \text{the *engagement* with the *objective* *value*} \ (\text{the *no* *subjective* *condition*})
+\text{Meaning} \ = \ \text{the engagement with the objective value} \ (\text{the no subjective condition})
 $$
 
 **The *arguments***.
@@ -371,18 +371,18 @@ $$
 **The *structure*** (the *Wolf* *form*).
 
 $$
-\text{Meaning} \ = \ \text{the *subjective* *attraction*} \wedge \text{the *objective* *value*} \ (\text{the *fitting* *fulfillment*})
+\text{Meaning} \ = \ \text{the subjective attraction} \wedge \text{the objective value} \ (\text{the fitting fulfillment})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *subjectivism* *validates* the *trivial* (the *no* *depth*).} \\
-2. & \text{The *objectivism* *misses* the *lived* *meaning* (the *no* *engagement*).} \\
-3. & \text{The *hybrid* *integrates* the *two* (the *subjective* *attraction* + the *objective* *value*).} \\
+1. & \text{The subjectivism validates the trivial (the no depth).} \\
+2. & \text{The objectivism misses the lived meaning (the no engagement).} \\
+3. & \text{The hybrid integrates the two (the subjective attraction + the objective value).} \\
 \hline
-4. & \therefore \text{The *hybrid* *captures* the *meaning* (the *Wolf* *insight*).}
+4. & \therefore \text{The hybrid captures the meaning (the Wolf insight).}
 \end{array}
 $$
 
@@ -405,7 +405,7 @@ $$
 **The *structure***.
 
 $$
-\text{The absurd} \ = \ \text{the *collision*} \ (\text{the *human* *demand* for the *meaning*} \ \wedge \ \text{the *silent* *world*})
+\text{The absurd} \ = \ \text{the collision} \ (\text{the human demand for the meaning} \ \wedge \ \text{the silent world})
 $$
 
 **The *arguments***.
@@ -452,7 +452,7 @@ $$
 **The *structure***.
 
 $$
-\text{SWB} = \ \text{the *life* *satisfaction*} \ + \ \text{the *positive* *affect*} \ - \ \text{the *negative* *affect*}
+\text{SWB} = \ \text{the life satisfaction} \ + \ \text{the positive affect} \ - \ \text{the negative affect}
 $$
 
 **The *components***.
@@ -488,7 +488,7 @@ $$
 **The *structure***.
 
 $$
-H(t) = \text{the *set* *point*} \ + \ \text{the *transient* *deviation*} \ (\text{the *adaptation* *returns* to the *baseline*})
+H(t) = \text{the set point} \ + \ \text{the transient deviation} \ (\text{the adaptation returns to the baseline})
 $$
 
 **The *evidence***. The *Brickman*, *Coates* & *Janoff*-*Bulman* (1978) *study* (the *lottery* *winners* *and* the *paraplegics*), and the *longitudinal* *studies* (the *adaptation* to the *widowhood*, the *disability*), and the *heritability* (the *twin* *studies*; the *40–50%* *genetic*).
@@ -512,7 +512,7 @@ $$
 **The *structure***.
 
 $$
-\frac{\partial H}{\partial Y} > 0 \ (\text{the *cross*-*section}) \qquad \frac{\partial H}{\partial Y} \approx 0 \ (\text{the *longitudinal*}) \qquad (\text{the *Easterlin* *paradox*})
+\frac{\partial H}{\partial Y} > 0 \ (\text{the cross-section}) \qquad \frac{\partial H}{\partial Y} \approx 0 \ (\text{the longitudinal}) \qquad (\text{the Easterlin paradox})
 $$
 
 **The *evidence***. The *US* *growth* (the *1946–1970*: the *income* *doubled*, the *happiness* *flat*), the *Japan* *growth* (the *1958–1987*), the *cross*-*country* *comparison* (the *Stevenson* & *Wolfers*, “Economic Growth and Subjective Well-Being,” 2008: the *positive* *relation*), and the *contemporary* *literature*.
@@ -536,18 +536,18 @@ $$
 **The *structure***.
 
 $$
-\text{Policy objective} \ = \ \text{the *well*-*being*} \ (\text{the *beyond*-*GDP* *insight*}) \ \wedge \ \text{the *well*-*being* *measure*} \ (\text{the *index*})
+\text{Policy objective} \ = \ \text{the well-being} \ (\text{the beyond-GDP insight}) \ \wedge \ \text{the well-being measure} \ (\text{the index})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *GDP* *is* *not* the *well*-*being* (the *no* *health*, the *no* *environment*, the *no* *community*).} \\
-2. & \text{The *well*-*being* *requires* the *measure* (the *composite* *index*).} \\
-3. & \text{The *measure* *grounds* the *policy* (the *allocation*, the *evaluation*).} \\
+1. & \text{The GDP is not the well-being (the no health, the no environment, the no community).} \\
+2. & \text{The well-being requires the measure (the composite index).} \\
+3. & \text{The measure grounds the policy (the allocation, the evaluation).} \\
 \hline
-4. & \therefore \text{The *well*-*being* *budgets* are *justified* (the *policy* *insight*).}
+4. & \therefore \text{The well-being budgets are justified (the policy insight).}
 \end{array}
 $$
 
@@ -591,18 +591,18 @@ $$
 **The *structure***.
 
 $$
-\text{Eudaimonia} \ = \ \text{the *activity* of the *soul* *in* *accordance* with the *excellence*} \ (\text{the *virtuous* *activity*})
+\text{Eudaimonia} \ = \ \text{the activity of the soul in accordance with the excellence} \ (\text{the virtuous activity})
 $$
 
 **The *function* *argument*** (Aristotle, *NE*, I.7, 1097b22–1098a20).
 
 $$
 \begin{array}{ll}
-1. & \text{The *good* of a *kind* *is* the *excellence* *of* its *characteristic* *activity* (the *function* *argument*).} \\
-2. & \text{The *characteristic* *activity* of the *human* *is* the *rational* *activity* (the *reason*, the *practical* *wisdom*).} \\
-3. & \text{The *excellence* of the *rational* *activity* *is* the *virtue* (the *aretaic* *insight*).} \\
+1. & \text{The good of a kind is the excellence of its characteristic activity (the function argument).} \\
+2. & \text{The characteristic activity of the human is the rational activity (the reason, the practical wisdom).} \\
+3. & \text{The excellence of the rational activity is the virtue (the aretaic insight).} \\
 \hline
-4. & \therefore \text{The *eudaimonia* *is* the *virtuous* *activity* (the *function* *insight*), and the *eudaimonia* *is* the *highest* *good* (the *no* *hedonism*).}
+4. & \therefore \text{The eudaimonia is the virtuous activity (the function insight), and the eudaimonia is the highest good (the no hedonism).}
 \end{array}
 $$
 
@@ -625,18 +625,18 @@ $$
 **The *structure***.
 
 $$
-W(P) = \text{the *development* and the *exercise* of the *human* *nature*} \ (\text{the *perfectionist* *good*})
+W(P) = \text{the development and the exercise of the human nature} \ (\text{the perfectionist good})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *human* *nature* *has* the *potentialities* (the *reason*, the *will*, the *emotion*).} \\
-2. & \text{The *actualization* of the *potentialities* *is* the *good* (the *perfectionist* *insight*).} \\
-3. & \text{The *actualization* *grounds* the *well*-*being* (the *nature* *insight*).} \\
+1. & \text{The human nature has the potentialities (the reason, the will, the emotion).} \\
+2. & \text{The actualization of the potentialities is the good (the perfectionist insight).} \\
+3. & \text{The actualization grounds the well-being (the nature insight).} \\
 \hline
-4. & \therefore \text{The *perfectionism* *is* *true* (the *nature* *insight*), and it *grounds* the *objective* *list* (the *list* *insight*).}
+4. & \therefore \text{The perfectionism is true (the nature insight), and it grounds the objective list (the list insight).}
 \end{array}
 $$
 
@@ -663,7 +663,7 @@ $$
 **The *structure*** (the *Ryff* *six*-*factor*).
 
 $$
-\text{Eudaimonia} = \ \text{the *self*-*acceptance*} + \text{the *positive* *relations*} + \text{the *autonomy*} + \text{the *mastery*} + \text{the *purpose*} + \text{the *growth*}
+\text{Eudaimonia} = \ \text{the self-acceptance} + \text{the positive relations} + \text{the autonomy} + \text{the mastery} + \text{the purpose} + \text{the growth}
 $$
 
 **The *virtue***. The *account* *operationalizes* the *eudaimonia* (the *scales*), and it *grounds* the *positive* *psychology* (the *intervention*, the *therapy*), and it *fits* the *practice* (the *flourishing*).
@@ -702,11 +702,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *death* *is* the *nonexistence* (the *no* *experience*, the *no* *subject*).} \\
-2. & \text{The *harm* *requires* the *subject* (the *someone* *who* *is* *harmed*).} \\
-3. & \text{The *nonexistence* *has* *no* *subject* (the *no* *one* *to* *harm*).} \\
+1. & \text{The death is the nonexistence (the no experience, the no subject).} \\
+2. & \text{The harm requires the subject (the someone who is harmed).} \\
+3. & \text{The nonexistence has no subject (the no one to harm).} \\
 \hline
-4. & \therefore \text{The *death* *is* *not* *bad* *for* the *dead* (the *Epicurean* *insight*), and the *fear* *is* *irrational* (the *no* *fear* *insight*).
+4. & \therefore \text{The death is not bad for the dead (the Epicurean insight), and the fear is irrational (the no fear insight).}
 \end{array}
 $$
 
@@ -729,18 +729,18 @@ $$
 **The *structure***.
 
 $$
-\text{Death is bad for } P \iff \text{the *life* *P* *would* *have* *lived* \ is *better* \ than the *life* *P* *lived*}
+\text{Death is bad for } P \iff \text{the life P would have lived \ is better \ than the life P lived}
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *death* *deprives* the *person* of the *goods* (the *comparative* *insight*).} \\
-2. & \text{The *deprivation* *is* the *harm* (the *no* *experience* *required*).} \\
-3. & \text{The *harm* *grounds* the *badness* (the *comparative* *insight*).} \\
+1. & \text{The death deprives the person of the goods (the comparative insight).} \\
+2. & \text{The deprivation is the harm (the no experience required).} \\
+3. & \text{The harm grounds the badness (the comparative insight).} \\
 \hline
-4. & \therefore \text{The *death* *is* *bad* *for* the *person* (the *deprivation* *insight*), and the *Epicurean* *argument* *fails* (the *comparative* *insight*).}
+4. & \therefore \text{The death is bad for the person (the deprivation insight), and the Epicurean argument fails (the comparative insight).}
 \end{array}
 $$
 
@@ -767,7 +767,7 @@ $$
 **The *structure***.
 
 $$
-\text{Pre-natal nonexistence (not bad)} \ \sim \ \text{Post-mortem nonexistence (not bad)} \ \Rightarrow \ \text{the *no* *badness* of the *death*}
+\text{Pre-natal nonexistence (not bad)} \ \sim \ \text{Post-mortem nonexistence (not bad)} \ \Rightarrow \ \text{the no badness of the death}
 $$
 
 **The *arguments***.
@@ -796,11 +796,11 @@ $$
 
 $$
 \begin{array}{ll}
-\text{The *before*}: & \text{The *person* is *alive*, *not* *dead*; the *no* *harm*.} \\
-\text{The *during*}: & \text{The *person* *does* not *exist*; the *no* *subject*.} \\
-\text{The *after*}: & \text{The *person* *does* not *exist*; the *no* *subject*.} \\
+\text{The before}: & \text{The person is alive, not dead; the no harm.} \\
+\text{The during}: & \text{The person does not exist; the no subject.} \\
+\text{The after}: & \text{The person does not exist; the no subject.} \\
 \end{array}
-\Rightarrow \ \text{the *no* *time* *for* the *badness*}
+\Rightarrow \ \text{the no time for the badness}
 $$
 
 **The *solutions***.
@@ -823,11 +823,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *categorical* *desires* (the *projects* that make the *life* worth living) *depend* on the *finite* *life* (the *urgency*, the *no* *infinite* *future*).} \\
-2. & \text{The *immortality* *would* *saturate* the *categorical* *desires* (the *everything* *done*, the *no* *novelty*, the *boredom*).} \\
-3. & \text{The *saturation* *makes* the *life* *unbearable* (the *no* *meaning*).} \\
+1. & \text{The categorical desires (the projects that make the life worth living) depend on the finite life (the urgency, the no infinite future).} \\
+2. & \text{The immortality would saturate the categorical desires (the everything done, the no novelty, the boredom).} \\
+3. & \text{The saturation makes the life unbearable (the no meaning).} \\
 \hline
-4. & \therefore \text{The *immortality* *would* *be* *bad* *for* *us* (the *Williams* *insight*), and the *finite* *life* *is* *the* *condition* of the *meaning* (the *finite* *insight*).}
+4. & \therefore \text{The immortality would be bad for us (the Williams insight), and the finite life is the condition of the meaning (the finite insight).}
 \end{array}
 $$
 
@@ -867,7 +867,7 @@ $$
 **The *structure***.
 
 $$
-\text{Suicide is rational} \iff \text{the *life* *remaining* is *worse* than the *death*} \ (\text{the *prudential* *comparison*})
+\text{Suicide is rational} \iff \text{the life remaining is worse than the death} \ (\text{the prudential comparison})
 $$
 
 **The *arguments***.
@@ -910,11 +910,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *suffering* *is* *unavoidable* (the *human* *condition*).} \\
-2. & \text{The *meaning* *requires* the *response* to the *suffering* (the *attitude*, the *solidarity*, the *growth*).} \\
-3. & \text{The *response* *transforms* the *suffering* (the *meaning* *insight*).} \\
+1. & \text{The suffering is unavoidable (the human condition).} \\
+2. & \text{The meaning requires the response to the suffering (the attitude, the solidarity, the growth).} \\
+3. & \text{The response transforms the suffering (the meaning insight).} \\
 \hline
-4. & \therefore \text{The *suffering* *can* be *meaningful* (the *Frankl* *insight*), and the *meaning* *is* *not* *the* *absence* of the *suffering* (the *no* *hedonism*).}
+4. & \therefore \text{The suffering can be meaningful (the Frankl insight), and the meaning is not the absence of the suffering (the no hedonism).}
 \end{array}
 $$
 
@@ -935,7 +935,7 @@ $$
 **The *structure***.
 
 $$
-\text{Consolation} \ = \ \text{the *correction* of the *judgments*} \ (\text{the *cognitive* *therapy*} \ \Rightarrow \ \text{the *tranquility*})
+\text{Consolation} \ = \ \text{the correction of the judgments} \ (\text{the cognitive therapy} \ \Rightarrow \ \text{the tranquility})
 $$
 
 **The *arguments***.
@@ -1027,12 +1027,12 @@ The *table* is a *map*, not a *verdict*. The *reader* who *wants* to *choose* a 
 
 $$
 \begin{array}{ll}
-1. & \text{The *authentic* *happiness*} \ (\text{the *hybrid* *insight*}) \ \text{and the *human* *nature*} \ (\text{the *perfectionist* *insight}). \\
-2. & \text{The *empirical* *measure*} \ (\text{the *partial* *insight*}) \ \text{and the *fitting* *fulfillment*} \ (\text{the *meaning* *insight}). \\
-3. & \text{The *no* *cosmic* *meaning*} \ (\text{the *naturalistic* *insight*}) \ \text{and the *finite* *life*} \ (\text{the *Williams* *insight}). \\
-4. & \text{The *therapy* of the *judgments*} \ (\text{the *practice* *insight*}) \ \text{and the *reflective* *equilibrium*} \ (\text{the *method* *insight}). \\
+1. & \text{The authentic happiness} \ (\text{the hybrid insight}) \ \text{and the human nature} \ (\text{the perfectionist insight}). \\
+2. & \text{The empirical measure} \ (\text{the partial insight}) \ \text{and the fitting fulfillment} \ (\text{the meaning insight}). \\
+3. & \text{The no cosmic meaning} \ (\text{the naturalistic insight}) \ \text{and the finite life} \ (\text{the Williams insight}). \\
+4. & \text{The therapy of the judgments} \ (\text{the practice insight}) \ \text{and the reflective equilibrium} \ (\text{the method insight}). \\
 \hline
-5. & \therefore \text{The *eudaimonic* *hybrid*} \ (\text{the *integration* *insight*}), \ *qualified* \text{by the *admission* that the *theory*, the *measurement*, the *meaning*, the *perfectionism*, and the *death* *remain* *contested*.}
+5. & \therefore \text{The eudaimonic hybrid} \ (\text{the integration insight}), \text{qualified by the admission that the theory, the measurement, the meaning, the perfectionism, and the death remain contested.}
 \end{array}
 $$
 

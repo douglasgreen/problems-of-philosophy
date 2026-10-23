@@ -24,6 +24,22 @@ pandoc -f markdown -s --mathml -t html chapters/00-introduction.md
 
 Render a chapter after every change to its mathematics. Pandoc prints `Could not convert TeX math` for any formula it cannot parse (usually an unclosed `\text{…}` or a missing `\\` at the end of a row); there must be no such warnings. The HTML output is the only reliable way to see whether emphasis, bold, and tables survive the conversion.
 
+To check the whole book at once:
+
+```
+for f in chapters/*.md; do pandoc -f markdown -s --mathml -t html "$f" -o /dev/null; done
+```
+
+Every chapter and appendix now renders without a single `Could not convert TeX math` warning. The defects that were there until recently sat in the unrevised chapters, and they came in five shapes, all of them worth recognising on sight:
+
+- an extra `}` at the end of the last row of an argument — by far the commonest fault;
+- a `\text{…}` group that was never closed, or that closed a word too early, so that the rest of the sentence fell outside the group;
+- a `\textit{…}` or a run of `*…*` inside the mathematics, which pandoc renders as literal asterisks;
+- a row with no label in the first column of an `array`;
+- a `\\` at the top level of a display formula, outside any `array`.
+
+Fix the formula and not the prose: the words of the row stay exactly as they were, and the rendered formula must still read as one sentence.
+
 ## Writing conventions
 
 ### Typography
@@ -38,7 +54,7 @@ Render a chapter after every change to its mathematics. Pandoc prints `Could not
 
 ### Italics
 
-Three uses only, as §7 of the Introduction states: a technical term **on its first occurrence**, **emphasis**, and — in Parts II–VII — the **keyword of a sentence**. Italicise deliberately: the point is a countable set of marks, not a wash of italics on every content word. Within a display formula, write plain text inside `\text{…}`; the revised chapters contain no emphasis markers in mathematics.
+Three uses only, as §7 of the Introduction states: a technical term **on its first occurrence**, **emphasis**, and — in Parts II–VII — the **keyword of a sentence**. Italicise deliberately: the point is a countable set of marks, not a wash of italics on every content word. Within a display formula, write plain text inside `\text{…}`; no chapter contains emphasis markers in mathematics, and a `*` in a formula is always a superscript (`J^*(p)`, `P^*`).
 
 ### Bold
 
@@ -84,7 +100,9 @@ $$
 ```
 
 - Every `\text{…}` must be closed, and every row except the last must end with ` \\`. An unclosed brace makes pandoc refuse the whole formula.
-- No Markdown emphasis inside math; it renders as literal asterisks.
+- One `\text{…}` per row, never nested inside another `\text{…}`; a row that mixes prose with symbols puts the prose in `\text{…}` and the symbols outside it.
+- Every row carries a label in the first column (`1.`, `(1)`, `(\mathrm{P1})`); texmath refuses a row whose first cell is empty.
+- No Markdown emphasis inside math; it renders as literal asterisks. The same goes for `\textit{…}` and `\emph{…}`.
 
 ### Tables
 

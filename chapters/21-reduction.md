@@ -121,11 +121,11 @@ SUPERVENIENCE / GROUNDING              ELIMINATION
 
 $$
 \begin{array}{ll}
-1. & \text{The *bridge* *principles*: } \forall x\, (F_2 x \leftrightarrow F_1 x) \text{ (the *identification* of the *predicates*).} \\
-2. & \text{The *laws* of } T_1: L_1, \ldots, L_n. \\
-3. & \text{The *laws* of } T_2: M_1, \ldots, M_k. \\
+1. & \text{The bridge principles: } \forall x\, (F_2 x \leftrightarrow F_1 x) \text{ (the identification of the predicates).} \\
+2. & \text{The laws of } T_1: L_1, \ldots, L_n. \\
+3. & \text{The laws of } T_2: M_1, \ldots, M_k. \\
 \hline
-4. & \text{The *derivation*: } L_1, \ldots, L_n, \text{bridge} \vdash M_1, \ldots, M_k.
+4. & \text{The derivation: } L_1, \ldots, L_n, \text{bridge} \vdash M_1, \ldots, M_k.
 \end{array}
 $$
 
@@ -164,10 +164,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *terms* of } T_2 \text{ change *meaning* in the *reduction* to } T_1. \\
-2. & \text{The *laws* of } T_2 \text{ are *not* *derivable* from } T_1 \text{ if the *meaning* changes.} \\
+1. & \text{The terms of } T_2 \text{ change meaning in the reduction to } T_1. \\
+2. & \text{The laws of } T_2 \text{ are not derivable from } T_1 \text{ if the meaning changes.} \\
 \hline
-3. & \therefore \text{The *reduction* is *replacement*, not *derivation*.}
+3. & \therefore \text{The reduction is replacement, not derivation.}
 \end{array}
 $$
 
@@ -193,11 +193,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *mental* *states* are *correlated* with *brain* *states* (the *empirical* *premise*).} \\
-2. & \text{The *correlation* is *not* *accidental*; it *requires* an *explanation*.} \\
-3. & \text{The *best* *explanation* is *identity* (Occam's razor; Ch. 14, §4).} \\
+1. & \text{The mental states are correlated with brain states (the empirical premise).} \\
+2. & \text{The correlation is not accidental; it requires an explanation.} \\
+3. & \text{The best explanation is identity (Occam's razor; Ch. 14, §4).} \\
 \hline
-4. & \therefore \text{The *mental* *states* are *identical* to *brain* *states*.}
+4. & \therefore \text{The mental states are identical to brain states.}
 \end{array}
 $$
 
@@ -217,11 +217,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *mental* *state* } M \text{ is *realized* by *different* *physical* *states* in *different* *organisms* } (P_1, P_2, P_3, \ldots). \\
-2. & \text{If } M \text{ is *identical* to a *physical* *state*, it must be *identical* to *one* of the } P_i. \\
-3. & \text{No *single* } P_i \text{ is *common* to *all* the *organisms*.} \\
+1. & \text{The mental state } M \text{ is realized by different physical states in different organisms } (P_1, P_2, P_3, \ldots). \\
+2. & \text{If } M \text{ is identical to a physical state, it must be identical to one of the } P_i. \\
+3. & \text{No single } P_i \text{ is common to all the organisms.} \\
 \hline
-4. & \therefore \text{The *mental* *state* is *not* *identical* to any *physical* *state*.}
+4. & \therefore \text{The mental state is not identical to any physical state.}
 \end{array}
 $$
 
@@ -244,7 +244,7 @@ $$
 **The *structure*.**
 
 $$
-M = \text{the *property* that *plays* the *causal* *role* } R
+M = \text{the property that plays the causal role } R
 $$
 
 The *mental* *property* *is* the *functional* *property*; the *physical* *realizer* is the *occupant* of the *role*.
@@ -284,10 +284,10 @@ The *mental* *property* *is* the *functional* *property*; the *physical* *realiz
 
 $$
 \begin{array}{ll}
-1. & \text{The *special* *sciences* *explain* *phenomena* by *describing* *mechanisms*.} \\
-2. & \text{The *description* of a *mechanism* *reduces* the *phenomenon* to the *activities* of the *components*.} \\
+1. & \text{The special sciences explain phenomena by describing mechanisms.} \\
+2. & \text{The description of a mechanism reduces the phenomenon to the activities of the components.} \\
 \hline
-3. & \therefore \text{The *reduction* is *mechanistic*, not *logical* or *identificatory*.}
+3. & \therefore \text{The reduction is mechanistic, not logical or identificatory.}
 \end{array}
 $$
 
@@ -327,11 +327,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Some *properties* of *wholes* are *not* *predictable* from the *properties* of the *parts* and their *arrangement*.} \\
-2. & \text{The *properties* are *not* *deducible* from the *laws* of the *parts*.} \\
-3. & \text{The *properties* are *real*, and they have *causal* *efficacy*.} \\
+1. & \text{Some properties of wholes are not predictable from the properties of the parts and their arrangement.} \\
+2. & \text{The properties are not deducible from the laws of the parts.} \\
+3. & \text{The properties are real, and they have causal efficacy.} \\
 \hline
-4. & \therefore \text{The *properties* are *emergent* (not *reducible*).}
+4. & \therefore \text{The properties are emergent (not reducible).}
 \end{array}
 $$
 
@@ -366,11 +366,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Strong *emergence* *posits* *new* *fundamental* *causal* *laws*.} \\
-2. & \text{The *new* *laws* *are* *not* *derivable* from the *lower* *laws*, and they *are* *not* *epistemically* *accessible*.} \\
-3. & \text{The *positing* of *new* *laws* *is* *ad* *hoc*, and it is *not* *independently* *motivated*.} \\
+1. & \text{Strong emergence posits new fundamental causal laws.} \\
+2. & \text{The new laws are not derivable from the lower laws, and they are not epistemically accessible.} \\
+3. & \text{The positing of new laws is ad hoc, and it is not independently motivated.} \\
 \hline
-4. & \therefore \text{Strong *emergence* is *unmotivated* (and *probably* *false*).}
+4. & \therefore \text{Strong emergence is unmotivated (and probably false).}
 \end{array}
 $$
 
@@ -384,10 +384,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *higher*-level *phenomena* (life, mind, markets) are *not* *predictable* from the *lower* *level* *without* *simulation*.} \\
-2. & \text{The *higher*-level *concepts* *capture* *patterns* that the *lower*-level *concepts* *miss*.} \\
+1. & \text{The higher-level phenomena (life, mind, markets) are not predictable from the lower level without simulation.} \\
+2. & \text{The higher-level concepts capture patterns that the lower-level concepts miss.} \\
 \hline
-3. & \therefore \text{The *special* *sciences* are *weakly* *emergent*.}
+3. & \therefore \text{The special sciences are weakly emergent.}
 \end{array}
 $$
 
@@ -430,7 +430,7 @@ $$
 **The *structure*.**
 
 $$
-F \text{ is *realized* by } G \text{ iff } G \text{ *plays* the *causal* *role* } R_F \text{ *specified* by } F
+F \text{ is realized by } G \text{ iff } G \text{ plays the causal role } R_F \text{ specified by } F
 $$
 
 **The *virtue*.** The *notion* *captures* the *dependence* *without* *identity*, and it *fits* the *multiple* *realizability* *argument*.
@@ -450,7 +450,7 @@ $$
 **The *structure*.**
 
 $$
-\Gamma < \phi \quad \text{(the *facts* } \Gamma \text{ *ground* the *fact* } \phi \text{)}
+\Gamma < \phi \quad \text{(the facts } \Gamma \text{ ground the fact } \phi \text{)}
 $$
 
 **The *virtue*.** The *notion* *captures* the *explanatory* *direction* of the *dependence*, and it is *more* *fine-grained* than *supervenience*.
@@ -489,13 +489,13 @@ The *causal* *exclusion* *argument* (Ch. 18, §4.1; Ch. 23, §5) is the *central
 
 $$
 \begin{array}{ll}
-1. & \text{The *physical* *domain* is *causally* *closed*.} \\
-2. & \text{The *higher*-level *property* } H \text{ *causes* the *physical* *event* } P. \\
-3. & \text{The *physical* *event* } P \text{ has a *sufficient* *physical* *cause* } P^*. \\
-4. & \text{If } H \text{ *causes* } P \text{ and } P^* \text{ *causes* } P, \text{ the *cause* is *overdetermined*.} \\
-5. & \text{Overdetermination is *implausible* for *every* *case*.} \\
+1. & \text{The physical domain is causally closed.} \\
+2. & \text{The higher-level property } H \text{ causes the physical event } P. \\
+3. & \text{The physical event } P \text{ has a sufficient physical cause } P^*. \\
+4. & \text{If } H \text{ causes } P \text{ and } P^* \text{ causes } P, \text{ the cause is overdetermined.} \\
+5. & \text{Overdetermination is implausible for every case.} \\
 \hline
-6. & \therefore \text{The *higher*-level *property* does *not* *cause* } P.
+6. & \therefore \text{The higher-level property does not cause } P.
 \end{array}
 $$
 
@@ -523,11 +523,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *special* *sciences* *classify* *events* by *properties* that are *multiply* *realizable*.} \\
-2. & \text{The *multiple* *realizability* *blocks* *type* *reduction* (§3.2).} \\
-3. & \text{The *explanations* of the *special* *sciences* are *causal* *explanations* at their *own* *level*.} \\
+1. & \text{The special sciences classify events by properties that are multiply realizable.} \\
+2. & \text{The multiple realizability blocks type reduction (§3.2).} \\
+3. & \text{The explanations of the special sciences are causal explanations at their own level.} \\
 \hline
-4. & \therefore \text{The *special* *sciences* are *autonomous*.}
+4. & \therefore \text{The special sciences are autonomous.}
 \end{array}
 $$
 
@@ -547,11 +547,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *higher*-level *patterns* are *real* (they *support* *counterfactuals* and *interventions*).} \\
-2. & \text{The *patterns* *supervene* on the *lower*-level *facts*.} \\
-3. & \text{The *supervenience* does *not* *reduce* the *patterns*; it *explains* their *dependence*.} \\
+1. & \text{The higher-level patterns are real (they support counterfactuals and interventions).} \\
+2. & \text{The patterns supervene on the lower-level facts.} \\
+3. & \text{The supervenience does not reduce the patterns; it explains their dependence.} \\
 \hline
-4. & \therefore \text{The *special* *sciences* are *autonomous* *in* *explanation*, *dependent* *in* *ontology*.}
+4. & \therefore \text{The special sciences are autonomous in explanation, dependent in ontology.}
 \end{array}
 $$
 
@@ -585,10 +585,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *levels* are *defined* by the *explanatory* *interests*.} \\
-2. & \text{The *interests* *vary* with the *inquirer* and the *context*.} \\
+1. & \text{The levels are defined by the explanatory interests.} \\
+2. & \text{The interests vary with the inquirer and the context.} \\
 \hline
-3. & \therefore \text{The *levels* are *perspectival*, not *absolute*.}
+3. & \therefore \text{The levels are perspectival, not absolute.}
 \end{array}
 $$
 
@@ -621,10 +621,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *sciences* *use* *different* *relations* to *connect* the *levels*.} \\
-2. & \text{No *single* *relation* *captures* *all* the *cases*.} \\
+1. & \text{The sciences use different relations to connect the levels.} \\
+2. & \text{No single relation captures all the cases.} \\
 \hline
-3. & \therefore \text{The *correct* *account* is *pluralist*.}
+3. & \therefore \text{The correct account is pluralist.}
 \end{array}
 $$
 
@@ -725,10 +725,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *grounding* *relation* *requires* a *terminus* (the *regress* *cannot* be *infinite*).} \\
-2. & \text{The *terminus* is the *fundamental* *level*.} \\
+1. & \text{The grounding relation requires a terminus (the regress cannot be infinite).} \\
+2. & \text{The terminus is the fundamental level.} \\
 \hline
-3. & \therefore \text{There is a *fundamental* *level*.}
+3. & \therefore \text{There is a fundamental level.}
 \end{array}
 $$
 
@@ -742,10 +742,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *entities* of the *special* *sciences* are *composed* of *physical* *entities*.} \\
-2. & \text{The *composition* *relation* *terminates* in the *physical*.} \\
+1. & \text{The entities of the special sciences are composed of physical entities.} \\
+2. & \text{The composition relation terminates in the physical.} \\
 \hline
-3. & \therefore \text{Physics is *fundamental*.}
+3. & \therefore \text{Physics is fundamental.}
 \end{array}
 $$
 
@@ -763,11 +763,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Every *grounded* *fact* is *grounded* in a *further* *fact*.} \\
-2. & \text{The *further* *fact* is *itself* *grounded* (unless it is *fundamental*).} \\
-3. & \text{If *every* *fact* is *grounded*, the *regress* is *infinite*.} \\
+1. & \text{Every grounded fact is grounded in a further fact.} \\
+2. & \text{The further fact is itself grounded (unless it is fundamental).} \\
+3. & \text{If every fact is grounded, the regress is infinite.} \\
 \hline
-4. & \therefore \text{There is no *fundamental* *level* (or the *regress* is *vicious*).}
+4. & \therefore \text{There is no fundamental level (or the regress is vicious).}
 \end{array}
 $$
 
@@ -819,10 +819,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *kinds* *support* *induction*, *explanation*, and *intervention* (Ch. 15, §5.1).} \\
-2. & \text{The *support* *requires* *natural* *properties* (the *properties* that *carve* *nature* *at* its *joints*).} \\
+1. & \text{The kinds support induction, explanation, and intervention (Ch. 15, §5.1).} \\
+2. & \text{The support requires natural properties (the properties that carve nature at its joints).} \\
 \hline
-3. & \therefore \text{The *kinds* are *real*.}
+3. & \therefore \text{The kinds are real.}
 \end{array}
 $$
 
@@ -830,10 +830,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *kinds* of the *special* *sciences* *do* not *have* *sharp* *boundaries*.} \\
-2. & \text{The *real* *kinds* *have* *sharp* *boundaries* (the *fundamental* *properties*).} \\
+1. & \text{The kinds of the special sciences do not have sharp boundaries.} \\
+2. & \text{The real kinds have sharp boundaries (the fundamental properties).} \\
 \hline
-3. & \therefore \text{The *kinds* of the *special* *sciences* are *not* *real*.}
+3. & \therefore \text{The kinds of the special sciences are not real.}
 \end{array}
 $$
 
@@ -872,10 +872,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *special* *sciences* *classify* the *world* in *different* *ways*.} \\
-2. & \text{The *classifications* are *not* *reducible* to a *single* *classification* (the *fundamental*).} \\
+1. & \text{The special sciences classify the world in different ways.} \\
+2. & \text{The classifications are not reducible to a single classification (the fundamental).} \\
 \hline
-3. & \therefore \text{The *kinds* are *plural*.}
+3. & \therefore \text{The kinds are plural.}
 \end{array}
 $$
 

@@ -62,11 +62,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *authority* is the *power* to *change* the *reasons* (the *pre*-*emption*; the *second*-*order* *role*).} \\
-2. & \text{The *power* *must* be *justified* by the *service* (the *subjects*' *interests*, the *compliance* with the *reasons*).} \\
-3. & \text{The *service* *requires* the *superior* *reliability* (the *NJT*).} \\
+1. & \text{The authority is the power to change the reasons (the pre-emption; the second-order role).} \\
+2. & \text{The power must be justified by the service (the subjects' interests, the compliance with the reasons).} \\
+3. & \text{The service requires the superior reliability (the NJT).} \\
 \hline
-4. & \therefore \text{The *authority* *is justified* *when* the *NJT* *holds* (the *Raz* *insight*).}
+4. & \therefore \text{The authority is justified when the NJT holds (the Raz insight).}
 \end{array}
 $$
 
@@ -89,7 +89,7 @@ $$
 **The *structure***.
 
 $$
-\text{Political authority} \ = \ \text{the *consent* of the *governed*} \ \Rightarrow \ \text{the *legitimate* *coercion*}
+\text{Political authority} \ = \ \text{the consent of the governed} \ \Rightarrow \ \text{the legitimate coercion}
 $$
 
 **The *varieties***.
@@ -131,18 +131,18 @@ $$
 **The *structure***.
 
 $$
-\text{Autonomy (the *duty* of *self*-*legislation*)} \ \wedge \ \text{Authority (the *duty* of *obedience*)} \ \Rightarrow \ \text{Contradiction}
+\text{Autonomy (the duty of self-legislation)} \ \wedge \ \text{Authority (the duty of obedience)} \ \Rightarrow \ \text{Contradiction}
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *autonomy* *requires* the *agent* to *act* *on* *her* *own* *judgment* (the *Kantian* *insight*).} \\
-2. & \text{The *authority* *requires* the *agent* to *obey* *the* *command* *regardless* of the *own* *judgment* (the *deference*).} \\
-3. & \text{The *two* *cannot* be *reconciled* (the *contradiction*).} \\
+1. & \text{The autonomy requires the agent to act on her own judgment (the Kantian insight).} \\
+2. & \text{The authority requires the agent to obey the command regardless of the own judgment (the deference).} \\
+3. & \text{The two cannot be reconciled (the contradiction).} \\
 \hline
-4. & \therefore \text{The *political* *authority* *is* *illegitimate* (the *philosophical* *anarchism*).}
+4. & \therefore \text{The political authority is illegitimate (the philosophical anarchism).}
 \end{array}
 $$
 
@@ -206,11 +206,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *just* *institutions* *maximize* the *good* (the *consequentialist* *insight*; Ch. 45, §1).} \\
-2. & \text{The *good* *is* the *welfare* (the *hedonism*, the *desire*; Ch. 48, §1).} \\
-3. & \text{The *institutions* *affect* the *welfare* (the *incentives*, the *redistribution*).} \\
+1. & \text{The just institutions maximize the good (the consequentialist insight; Ch. 45, §1).} \\
+2. & \text{The good is the welfare (the hedonism, the desire; Ch. 48, §1).} \\
+3. & \text{The institutions affect the welfare (the incentives, the redistribution).} \\
 \hline
-4. & \therefore \text{The *just* *institutions* *maximize* the *aggregate* *welfare* (the *utilitarian* *justice*).}
+4. & \therefore \text{The just institutions maximize the aggregate welfare (the utilitarian justice).}
 \end{array}
 $$
 
@@ -237,7 +237,7 @@ $$
 **The *structure*** (the *entitlement* *theory*).
 
 $$
-\text{The *entitlement* *theory*}: \ \text{the *justice* in *acquisition*} + \text{the *justice* in *transfer*} + \text{the *rectification*}
+\text{The entitlement theory}: \ \text{the justice in acquisition} + \text{the justice in transfer} + \text{the rectification}
 $$
 
 **The *Wilt* *Chamberlain* *argument*** (Nozick 1974, pp. 160–164). The *patterned* *distribution* $D_1$ is *just* (the *equality*), and the *million* *people* *voluntarily* *pay* the *quarter* to *Chamberlain* ($D_2$), and the *transfer* *is* *just* (the *voluntary* *exchange*), and the *result* $D_2$ *violates* the *pattern*, and the *pattern* *cannot* be *maintained* *without* the *coercion* (the *interference*), and the *coercion* *violates* the *liberty*.
@@ -246,11 +246,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *voluntary* *transfer* *is* *just* (the *liberty* *insight*).} \\
-2. & \text{The *patterned* *principle* *forbids* the *result* of the *voluntary* *transfer* (the *pattern* *insight*).} \\
-3. & \text{The *pattern* *requires* the *interference* with the *voluntary* *transfer* (the *coercion*).} \\
+1. & \text{The voluntary transfer is just (the liberty insight).} \\
+2. & \text{The patterned principle forbids the result of the voluntary transfer (the pattern insight).} \\
+3. & \text{The pattern requires the interference with the voluntary transfer (the coercion).} \\
 \hline
-4. & \therefore \text{The *patterned* *principles* *violate* the *liberty* (the *Nozick* *insight*), and the *entitlement* *theory* *is* *true* (the *historical* *insight*).}
+4. & \therefore \text{The patterned principles violate the liberty (the Nozick insight), and the entitlement theory is true (the historical insight).}
 \end{array}
 $$
 
@@ -278,11 +278,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *self* *is* *constituted* by the *community* (the *constitutive* *attachment*; the *tradition*).} \\
-2. & \text{The *liberal* *justice* *presupposes* the *unencumbered* *self* (the *abstract* *individual*).} \\
-3. & \text{The *unencumbered* *self* *does* not *exist* (the *constitutive* *insight*).} \\
+1. & \text{The self is constituted by the community (the constitutive attachment; the tradition).} \\
+2. & \text{The liberal justice presupposes the unencumbered self (the abstract individual).} \\
+3. & \text{The unencumbered self does not exist (the constitutive insight).} \\
 \hline
-4. & \therefore \text{The *liberal* *justice* *is* *incoherent* (the *communitarian* *insight*), and the *justice* *requires* the *common* *good* (the *common* *good* *insight*).}
+4. & \therefore \text{The liberal justice is incoherent (the communitarian insight), and the justice requires the common good (the common good insight).}
 \end{array}
 $$
 
@@ -305,18 +305,18 @@ $$
 **The *structure*** (the *exploitation*).
 
 $$
-\text{Exploitation} \ = \ \text{the *appropriation* of the *surplus* *value* (the *unpaid* *labor*)} \ (\text{the *rate* of *surplus* *value*}: \ s/v)
+\text{Exploitation} \ = \ \text{the appropriation of the surplus value (the unpaid labor)} \ (\text{the rate of surplus value}: \ s/v)
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *worker* *produces* the *value* (the *labor* *theory* *of* *value*).} \\
-2. & \text{The *capitalist* *pays* the *value* of the *labor* *power* (the *subsistence* *wage*), not the *value* of the *product* (the *surplus*).} \\
-3. & \text{The *difference* is the *surplus* *value* (the *exploitation*).} \\
+1. & \text{The worker produces the value (the labor theory of value).} \\
+2. & \text{The capitalist pays the value of the labor power (the subsistence wage), not the value of the product (the surplus).} \\
+3. & \text{The difference is the surplus value (the exploitation).} \\
 \hline
-4. & \therefore \text{The *capitalist* *exchange* *is* *exploitative* (the *Marxist* *insight*), and the *justice* *requires* the *abolition* of the *exploitation* (the *emancipatory* *insight*).}
+4. & \therefore \text{The capitalist exchange is exploitative (the Marxist insight), and the justice requires the abolition of the exploitation (the emancipatory insight).}
 \end{array}
 $$
 
@@ -343,18 +343,18 @@ $$
 **The *structure*** (the *non*-*domination*).
 
 $$
-\text{Freedom as non-domination}: \ \neg \exists \ \text{an *agent*} \ A \ \text{with the *capacity* to *interfere* *arbitrarily* in the *affairs* of the *agent*} \ B
+\text{Freedom as non-domination}: \ \neg \exists \ \text{an agent} \ A \ \text{with the capacity to interfere arbitrarily in the affairs of the agent} \ B
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *liberal* *freedom* (the *non*-*interference*) *misses* the *domination* (the *slave* of the *benevolent* *master* *is* *unfree*, *though* *not* *interfered* *with*).} \\
-2. & \text{The *domination* *is* the *arbitrary* *power* (the *capacity* *to* *interfere* *without* the *accountability*).} \\
-3. & \text{The *non*-*domination* *captures* the *republican* *intuition* (the *no* *master*).} \\
+1. & \text{The liberal freedom (the non-interference) misses the domination (the slave of the benevolent master is unfree, though not interfered with).} \\
+2. & \text{The domination is the arbitrary power (the capacity to interfere without the accountability).} \\
+3. & \text{The non-domination captures the republican intuition (the no master).} \\
 \hline
-4. & \therefore \text{The *republican* *freedom* *is* *distinct* and *superior* (the *republican* *insight*), and the *justice* *requires* the *non*-*domination* (the *republican* *justice*).}
+4. & \therefore \text{The republican freedom is distinct and superior (the republican insight), and the justice requires the non-domination (the republican justice).}
 \end{array}
 $$
 
@@ -402,11 +402,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *equal* *basic* *liberties* (the *liberty* *principle*).} \\
-2. & \text{The *fair* *equality* of *opportunity* (the *opportunity* *principle*).} \\
-3. & \text{The *difference* *principle*: the *inequalities* are *just* *iff* they are to the *greatest* *benefit* of the *least* *advantaged* *members* *of* the *society*.} \\
+1. & \text{The equal basic liberties (the liberty principle).} \\
+2. & \text{The fair equality of opportunity (the opportunity principle).} \\
+3. & \text{The difference principle: the inequalities are just iff they are to the greatest benefit of the least advantaged members of the society.} \\
 \hline
-& \text{The *lexical* *priority*: the *first* *principle* *prior* to the *second*; the *opportunity* *prior* to the *difference*.}
+4. & \text{The lexical priority: the first principle prior to the second; the opportunity prior to the difference.}
 \end{array}
 $$
 
@@ -414,11 +414,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *principles* *must* be *fair* (the *reasonable* *choice*; the *no* *arbitrary* *advantages*).} \\
-2. & \text{The *veil* of *ignorance* *removes* the *arbitrary* *advantages* (the *talents*, the *class*, the *luck*; the *moral* *arbitrariness* *insight*).} \\
-3. & \text{The *reasonable* *choice* *behind* the *veil* *yields* the *two* *principles* (the *maximin* *choice*; the *strains* of *commitment*, the *self*-*respect*, the *stability*).} \\
+1. & \text{The principles must be fair (the reasonable choice; the no arbitrary advantages).} \\
+2. & \text{The veil of ignorance removes the arbitrary advantages (the talents, the class, the luck; the moral arbitrariness insight).} \\
+3. & \text{The reasonable choice behind the veil yields the two principles (the maximin choice; the strains of commitment, the self-respect, the stability).} \\
 \hline
-4. & \therefore \text{The *two* *principles* are the *just* *terms* (the *Rawlsian* *insight*).}
+4. & \therefore \text{The two principles are the just terms (the Rawlsian insight).}
 \end{array}
 $$
 
@@ -445,18 +445,18 @@ $$
 **The *structure***.
 
 $$
-\text{Distribution} \ D \ \text{is equal} \ \iff \ \neg \exists \ i, j: \ i \ \text{prefers} \ D_j \ \text{to} \ D_i \ \ (\text{the *envy test*})
+\text{Distribution} \ D \ \text{is equal} \ \iff \ \neg \exists \ i, j: \ i \ \text{prefers} \ D_j \ \text{to} \ D_i \ \ (\text{the envy test})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *equality* *requires* the *equal* *resources* (the *external* + the *internal*).} \\
-2. & \text{The *equal* *resources* *require* the *compensation* for the *brute* *luck* (the *health*, the *talents*).} \\
-3. & \text{The *compensation* *is* *achieved* by the *hypothetical* *insurance* (the *behind* the *veil* *choice*).} \\
+1. & \text{The equality requires the equal resources (the external + the internal).} \\
+2. & \text{The equal resources require the compensation for the brute luck (the health, the talents).} \\
+3. & \text{The compensation is achieved by the hypothetical insurance (the behind the veil choice).} \\
 \hline
-4. & \therefore \text{The *equality* of *resources* *is* *defined* by the *envy* *test* and *achieved* by the *insurance* (the *Dworkinian* *insight*).}
+4. & \therefore \text{The equality of resources is defined by the envy test and achieved by the insurance (the Dworkinian insight).}
 \end{array}
 $$
 
@@ -479,7 +479,7 @@ $$
 **The *structure***.
 
 $$
-\text{Justice} = \text{the *compensation* for the *brute* *luck*} + \text{the *responsibility* for the *option* *luck*}
+\text{Justice} = \text{the compensation for the brute luck} + \text{the responsibility for the option luck}
 $$
 
 **The *objections*** (Anderson, “What Is the Point of Equality?” 1999, §2–3; the *relational* *critique*).
@@ -503,18 +503,18 @@ $$
 **The *structure***.
 
 $$
-\text{Justice} \ = \ \text{the *threshold* of the *central* *capabilities*} \ (\text{the *real* *freedom* to *choose* and *act*})
+\text{Justice} \ = \ \text{the threshold of the central capabilities} \ (\text{the real freedom to choose and act})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *resources* (the *income*, the *goods*) *do* not *measure* the *freedom* (the *conversion* *varies*: the *disability*, the *climate*, the *gender*).} \\
-2. & \text{The *freedom* *requires* the *capabilities* (the *real* *opportunities* to *function*).} \\
-3. & \text{The *capabilities* *ground* the *justice* (the *threshold*, the *human* *dignity*).} \\
+1. & \text{The resources (the income, the goods) do not measure the freedom (the conversion varies: the disability, the climate, the gender).} \\
+2. & \text{The freedom requires the capabilities (the real opportunities to function).} \\
+3. & \text{The capabilities ground the justice (the threshold, the human dignity).} \\
 \hline
-4. & \therefore \text{The *capabilities* *are* the *metric* (the *Sen*-*Nussbaum* *insight*), and the *justice* *requires* the *threshold* (the *human* *dignity* *insight*).}
+4. & \therefore \text{The capabilities are the metric (the Sen-Nussbaum insight), and the justice requires the threshold (the human dignity insight).}
 \end{array}
 $$
 
@@ -537,18 +537,18 @@ $$
 **The *structure***.
 
 $$
-\text{Equality} \ = \ \text{the *equal* *relations*} \ (\text{the *no* *domination*, the *no* *stigma*, the *no* *exploitation*}) \ > \ \text{the *equal* *distribution*}
+\text{Equality} \ = \ \text{the equal relations} \ (\text{the no domination, the no stigma, the no exploitation}) \ > \ \text{the equal distribution}
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *distribution* *is* *not* the *goal* (the *equal* *distribution* *can* *coexist* *with* *domination*, *stigma*, *exploitation*).} \\
-2. & \text{The *equality* *is* the *relation* (the *equal* *standing*, the *democratic* *relation*).} \\
-3. & \text{The *relation* *requires* the *resources* (the *instrumental* *insight*) *and* the *institutions* (the *no* *hierarchy*).} \\
+1. & \text{The distribution is not the goal (the equal distribution can coexist with domination, stigma, exploitation).} \\
+2. & \text{The equality is the relation (the equal standing, the democratic relation).} \\
+3. & \text{The relation requires the resources (the instrumental insight) and the institutions (the no hierarchy).} \\
 \hline
-4. & \therefore \text{The *relational* *equality* *is* the *goal* (the *Anderson* *insight*).}
+4. & \therefore \text{The relational equality is the goal (the Anderson insight).}
 \end{array}
 $$
 
@@ -600,11 +600,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *negative* *freedom* *is* *the* *absence* of the *interference* (the *liberal* *insight*).} \\
-2. & \text{The *positive* *freedom* *is* the *self*-*mastery* (the *idealist* *insight*), and the *self*-*mastery* *can* be *imposed* (the *real* *self* *vs.* the *empirical* *self*), and the *imposition* *is* the *tyranny* (the *Berlin* *insight*).} \\
-3. & \text{The *positive* *freedom* *risks* the *totalitarianism* (the *no* *interference* *justified* *by* the *true* *self*).} \\
+1. & \text{The negative freedom is the absence of the interference (the liberal insight).} \\
+2. & \text{The positive freedom is the self-mastery (the idealist insight), and the self-mastery can be imposed (the real self vs. the empirical self), and the imposition is the tyranny (the Berlin insight).} \\
+3. & \text{The positive freedom risks the totalitarianism (the no interference justified by the true self).} \\
 \hline
-4. & \therefore \text{The *negative* *freedom* *is* *safer* (the *Berlin* *insight*), and the *positive* *freedom* *is* *dangerous* (the *Berlin* *critique*).}
+4. & \therefore \text{The negative freedom is safer (the Berlin insight), and the positive freedom is dangerous (the Berlin critique).}
 \end{array}
 $$
 
@@ -627,7 +627,7 @@ $$
 **The *structure*** (§2.6).
 
 $$
-\text{Freedom as non-domination} \ \Rightarrow \ \text{the *no* *mastery* (the *no* *arbitrary* *power*, *regardless* of the *interference*)}
+\text{Freedom as non-domination} \ \Rightarrow \ \text{the no mastery (the no arbitrary power, regardless of the interference)}
 $$
 
 **The *virtue***. The *account* *captures* the *structural* *freedom* (the *no* *arbitrary* *power*), and it *grounds* the *institutions* (the *rule* of *law*, the *accountability*, the *contestation*), and it *connects* the *liberty* to the *justice* (§3.5).
@@ -647,18 +647,18 @@ $$
 **The *structure*** (the *hierarchical* *model*).
 
 $$
-\text{Autonomy} \ \iff \ \text{the *first*-*order* *desire} \ D_1 \ \text{is *endorsed* by the *second*-*order* *desire*} \ D_2 \ (\text{the *no* *conflict*})
+\text{Autonomy} \ \iff \ \text{the first-order desire} \ D_1 \ \text{is endorsed by the second-order desire} \ D_2 \ (\text{the no conflict})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *agent* *acts* *on* the *desires* (the *first*-*order* *states*).} \\
-2. & \text{The *agent* *is* *autonomous* *when* the *will* *endorses* the *desires* (the *second*-*order* *state*).} \\
-3. & \text{The *endorsement* *grounds* the *responsibility* (the *action* *is* the *agent*'s).} \\
+1. & \text{The agent acts on the desires (the first-order states).} \\
+2. & \text{The agent is autonomous when the will endorses the desires (the second-order state).} \\
+3. & \text{The endorsement grounds the responsibility (the action is the agent's).} \\
 \hline
-4. & \therefore \text{The *autonomy* *is* the *hierarchical* *endorsement* (the *Frankfurt* *insight*).}
+4. & \therefore \text{The autonomy is the hierarchical endorsement (the Frankfurt insight).}
 \end{array}
 $$
 
@@ -681,18 +681,18 @@ $$
 **The *harm* *principle***.
 
 $$
-\text{Coercion} \ \text{is justified} \ \iff \ \text{the *coercion* prevents the *harm* to the *others} \ (\text{the *only* *justification*})
+\text{Coercion} \ \text{is justified} \ \iff \ \text{the coercion prevents the harm to the others} \ (\text{the only justification})
 $$
 
 **The *argument*** (Mill 1859, Ch. 1).
 
 $$
 \begin{array}{ll}
-1. & \text{The *agent* *is* *the* *best* *judge* of the *own* *good* (the *epistemic* *insight*).} \\
-2. & \text{The *coercion* *for* the *agent*'s *own* *good* *is* *paternalism* (the *interference* with the *autonomy*).} \\
-3. & \text{The *paternalism* *is* *not* *justified* (the *liberty* *insight*).} \\
+1. & \text{The agent is the best judge of the own good (the epistemic insight).} \\
+2. & \text{The coercion for the agent's own good is paternalism (the interference with the autonomy).} \\
+3. & \text{The paternalism is not justified (the liberty insight).} \\
 \hline
-4. & \therefore \text{The *coercion* *is* *justified* *only* by the *harm* to the *others* (the *harm* *principle*).}
+4. & \therefore \text{The coercion is justified only by the harm to the others (the harm principle).}
 \end{array}
 $$
 
@@ -725,18 +725,18 @@ $$
 **The *structure***.
 
 $$
-\text{Nudge} \ = \ \text{the *choice*-*preserving* *intervention*} \ (\text{the *no* *coercion*, the *no* *significant* *cost*})
+\text{Nudge} \ = \ \text{the choice-preserving intervention} \ (\text{the no coercion, the no significant cost})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *agents* *are* *boundedly* *rational* (the *biases*, the *heuristics*, the *inertia*).} \\
-2. & \text{The *choice* *architecture* *shapes* the *choices* (the *defaults*, the *framing*; the *no* *neutral* *architecture*).} \\
-3. & \text{The *nudge* *improves* the *welfare* *without* the *coercion* (the *libertarian* *paternalism*).} \\
+1. & \text{The agents are boundedly rational (the biases, the heuristics, the inertia).} \\
+2. & \text{The choice architecture shapes the choices (the defaults, the framing; the no neutral architecture).} \\
+3. & \text{The nudge improves the welfare without the coercion (the libertarian paternalism).} \\
 \hline
-4. & \therefore \text{The *nudge* *is* *a* *legitimate* *policy* (the *Thaler*-*Sunstein* *insight*).}
+4. & \therefore \text{The nudge is a legitimate policy (the Thaler-Sunstein insight).}
 \end{array}
 $$
 
@@ -801,18 +801,18 @@ $$
 **The *structure***.
 
 $$
-\text{Egalitarianism}: \ \text{the *gap*} \ g \ \text{is *bad* *in* *itself} \qquad \text{Prioritarianism}: \ \text{the *welfare*} \ u \ \text{has the *diminishing* *marginal* *moral* *value}
+\text{Egalitarianism}: \ \text{the gap} \ g \ \text{is bad in itself} \qquad \text{Prioritarianism}: \ \text{the welfare} \ u \ \text{has the diminishing marginal moral value}
 $$
 
 **The *argument*** (Parfit 1997, §3).
 
 $$
 \begin{array}{ll}
-1. & \text{The *levelling* *down* (the *reducing* the *better* *off* *without* the *benefit* to the *worse* *off*) *is* *bad* (the *anti*-*levelling* *insight*).} \\
-2. & \text{The *egalitarianism* *commends* the *levelling* *down* (the *reduction* of the *gap*), and the *prioritarianism* *does* not (the *no* *benefit* to the *worse* *off*).} \\
-3. & \text{The *anti*-*levelling* *insight* *favors* the *prioritarianism*.} \\
+1. & \text{The levelling down (the reducing the better off without the benefit to the worse off) is bad (the anti-levelling insight).} \\
+2. & \text{The egalitarianism commends the levelling down (the reduction of the gap), and the prioritarianism does not (the no benefit to the worse off).} \\
+3. & \text{The anti-levelling insight favors the prioritarianism.} \\
 \hline
-4. & \therefore \text{The *prioritarianism* *is* *superior* (the *Parfit* *insight*).}
+4. & \therefore \text{The prioritarianism is superior (the Parfit insight).}
 \end{array}
 $$
 
@@ -833,7 +833,7 @@ $$
 **The *structure***.
 
 $$
-\text{Egalitarianism} \ \Rightarrow \ \text{the *levelling* *down} \ \Rightarrow \ \text{the *absurdity*}
+\text{Egalitarianism} \ \Rightarrow \ \text{the levelling down} \ \Rightarrow \ \text{the absurdity}
 $$
 
 **The *significance***. The *objection* *is* the *strongest* *case* against the *distributive* *egalitarianism* (the *telic* *form*), and the *response* *is* the *relational* *equality* (the *non*-*distributional*) or the *priority* (§5.2).
@@ -855,18 +855,18 @@ $$
 **The *structure***.
 
 $$
-\text{Moral equality} \ = \ \text{the *equal* *intrinsic* *worth*} \ (\text{the *equal* *moral* *consideration*) \ \text{independent* of the *metric*}
+\text{Moral equality} \ = \ \text{the equal intrinsic worth (the equal moral consideration) independent of the metric}
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *persons* *have* the *equal* *intrinsic* *worth* (the *moral* *insight*).} \\
-2. & \text{The *worth* *grounds* the *equal* *consideration* (the *no* *arbitrary* *exclusion*).} \\
-3. & \text{The *consideration* *grounds* the *equal* *rights* and the *democracy* (the *relational* *insight*).} \\
+1. & \text{The persons have the equal intrinsic worth (the moral insight).} \\
+2. & \text{The worth grounds the equal consideration (the no arbitrary exclusion).} \\
+3. & \text{The consideration grounds the equal rights and the democracy (the relational insight).} \\
 \hline
-4. & \therefore \text{The *moral* *equality* *is* *the* *foundation* (the *moral* *equality* *insight*).}
+4. & \therefore \text{The moral equality is the foundation (the moral equality insight).}
 \end{array}
 $$
 
@@ -903,11 +903,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *structural* *injustice* *persists* (the *segregation*, the *no* *equal* *opportunity*, the *no* *integration*).} \\
-2. & \text{The *remedy* *requires* the *affirmative* *action* (the *integration*, the *no* *stigma*).} \\
-3. & \text{The *remedy* *respects* the *moral* *equality* (the *relational* *insight*).} \\
+1. & \text{The structural injustice persists (the segregation, the no equal opportunity, the no integration).} \\
+2. & \text{The remedy requires the affirmative action (the integration, the no stigma).} \\
+3. & \text{The remedy respects the moral equality (the relational insight).} \\
 \hline
-4. & \therefore \text{The *affirmative* *action* *is* *justified* (the *forward*-*looking* *insight*).}
+4. & \therefore \text{The affirmative action is justified (the forward-looking insight).}
 \end{array}
 $$
 
@@ -946,11 +946,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *collective* *judgment* *can* be *better* than the *individual* (the *Condorcet* *jury* *theorem*, the *aggregation*).} \\
-2. & \text{The *democracy* *aggregates* the *information* (the *diverse* *perspectives*, the *error* *correction*).} \\
-3. & \text{The *better* *judgment* *produces* the *better* *outcomes* (the *protection* of the *interests*, the *no* *tyranny*).} \\
+1. & \text{The collective judgment can be better than the individual (the Condorcet jury theorem, the aggregation).} \\
+2. & \text{The democracy aggregates the information (the diverse perspectives, the error correction).} \\
+3. & \text{The better judgment produces the better outcomes (the protection of the interests, the no tyranny).} \\
 \hline
-4. & \therefore \text{The *democracy* *is* *instrumentally* *justified* (the *epistemic* *insight*).}
+4. & \therefore \text{The democracy is instrumentally justified (the epistemic insight).}
 \end{array}
 $$
 
@@ -980,11 +980,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *persons* *have* the *equal* *political* *standing* (the *moral* *equality*; §5.4).} \\
-2. & \text{The *equal* *standing* *requires* the *equal* *participation* (the *autonomy*).} \\
-3. & \text{The *participation* *is* the *democracy* (the *self*-*government*).} \\
+1. & \text{The persons have the equal political standing (the moral equality; §5.4).} \\
+2. & \text{The equal standing requires the equal participation (the autonomy).} \\
+3. & \text{The participation is the democracy (the self-government).} \\
 \hline
-4. & \therefore \text{The *democracy* *is* *intrinsically* *valuable* (the *Waldron* *insight*).}
+4. & \therefore \text{The democracy is intrinsically valuable (the Waldron insight).}
 \end{array}
 $$
 
@@ -1009,18 +1009,18 @@ $$
 **The *public* *reason*** (Rawls 1993, Ch. 4).
 
 $$
-\text{The *public* *reason}: \ \text{the *laws* are *justified* *by* the *reasons* *that* *all* the *reasonable* *citizens* *can* *accept} \ (\text{the *overlapping* *consensus*})
+\text{The public reason}: \ \text{the laws are justified by the reasons that all the reasonable citizens can accept} \ (\text{the overlapping consensus})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *reasonable* *pluralism* (the *diversity* of the *comprehensive* *doctrines*; the *burdens* of *judgment*).} \\
-2. & \text{The *legitimacy* *requires* the *justification* *to* the *all* the *reasonable* (the *no* *sectarian* *imposition*).} \\
-3. & \text{The *justification* *requires* the *public* *reason* (the *common* *ground*).} \\
+1. & \text{The reasonable pluralism (the diversity of the comprehensive doctrines; the burdens of judgment).} \\
+2. & \text{The legitimacy requires the justification to the all the reasonable (the no sectarian imposition).} \\
+3. & \text{The justification requires the public reason (the common ground).} \\
 \hline
-4. & \therefore \text{The *legitimacy* *requires* the *public* *reason* (the *Rawlsian* *insight*).}
+4. & \therefore \text{The legitimacy requires the public reason (the Rawlsian insight).}
 \end{array}
 $$
 
@@ -1043,7 +1043,7 @@ $$
 **The *theorem*** (Arrow 1951). No *social* *welfare* *function* *satisfies* the *four* *conditions* (the *unrestricted* *domain*, the *weak* *Pareto*, the *independence* of *irrelevant* *alternatives*, the *non*-*dictatorship*) *simultaneously* (the *theorem*: the *impossibility*).
 
 $$
-\text{Unrestricted domain} \ \wedge \ \text{Weak Pareto} \ \wedge \ \text{IIA} \ \wedge \ \text{Non-dictatorship} \ \Rightarrow \ \bot \ \ (\text{the *Arrow* *impossibility*})
+\text{Unrestricted domain} \ \wedge \ \text{Weak Pareto} \ \wedge \ \text{IIA} \ \wedge \ \text{Non-dictatorship} \ \Rightarrow \ \bot \ \ (\text{the Arrow impossibility})
 $$
 
 **The *significance***. The *theorem* *shows* that the *aggregation* *of* the *preferences* *is* *not* *neutral* (the *no* *perfect* *procedure*), and it *challenges* the *democracy* (the *no* *consistent* *collective* *choice*; the *cycling*; the *strategic* *voting*), and it *grounds* the *institutional* *design* (the *constitutional* *constraints*, the *agenda*-*setting*, the *deliberation*).
@@ -1078,11 +1078,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *deliberation* *requires* the *diversity* (the *perspectives*, the *experience*).} \\
-2. & \text{The *diversity* *requires* the *descriptive* *representation* (the *presence* of the *group*).} \\
-3. & \text{The *presence* *improves* the *deliberation* (the *epistemic* *insight*).} \\
+1. & \text{The deliberation requires the diversity (the perspectives, the experience).} \\
+2. & \text{The diversity requires the descriptive representation (the presence of the group).} \\
+3. & \text{The presence improves the deliberation (the epistemic insight).} \\
 \hline
-4. & \therefore \text{The *descriptive* *representation* *is* *justified* (the *diversity* *insight*).}
+4. & \therefore \text{The descriptive representation is justified (the diversity insight).}
 \end{array}
 $$
 
@@ -1094,11 +1094,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *demos* *is* *constituted* by the *boundary* (the *no* *prior* *demos*).} \\
-2. & \text{The *boundary* *requires* the *principle* (the *who* *is* *affected*).} \\
-3. & \text{The *all*-*affected* *principle* *grounds* the *boundary* (the *inclusion*).} \\
+1. & \text{The demos is constituted by the boundary (the no prior demos).} \\
+2. & \text{The boundary requires the principle (the who is affected).} \\
+3. & \text{The all-affected principle grounds the boundary (the inclusion).} \\
 \hline
-4. & \therefore \text{The *boundary* *is* *grounded* in the *affected* *principle* (the *inclusion* *insight*), and the *demos* *is* *not* *circular* (the *grounding* *insight*).}
+4. & \therefore \text{The boundary is grounded in the affected principle (the inclusion insight), and the demos is not circular (the grounding insight).}
 \end{array}
 $$
 
@@ -1116,11 +1116,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *rights* are *contested* (the *reasonable* *disagreement*).} \\
-2. & \text{The *courts* *are* *not* *more* *reliable* *than* the *legislature* (the *no* *epistemic* *superiority*).} \\
-3. & \text{The *legislature* *is* *the* *democratic* (the *equal* *participation*; §6.2).} \\
+1. & \text{The rights are contested (the reasonable disagreement).} \\
+2. & \text{The courts are not more reliable than the legislature (the no epistemic superiority).} \\
+3. & \text{The legislature is the democratic (the equal participation; §6.2).} \\
 \hline
-4. & \therefore \text{The *judicial* *review* *is* *not* *justified* (the *Waldron* *insight*).}
+4. & \therefore \text{The judicial review is not justified (the Waldron insight).}
 \end{array}
 $$
 
@@ -1132,11 +1132,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *competence* *varies* (the *ignorance*, the *irrationality*).} \\
-2. & \text{The *power* *should* *track* the *competence* (the *epistemic* *insight*).} \\
-3. & \text{The *democracy* *does* not *track* the *competence* (the *equal* *power* *regardless* of the *competence*).} \\
+1. & \text{The competence varies (the ignorance, the irrationality).} \\
+2. & \text{The power should track the competence (the epistemic insight).} \\
+3. & \text{The democracy does not track the competence (the equal power regardless of the competence).} \\
 \hline
-4. & \therefore \text{The *epistocracy* *is* *justified* (the *Brennan* *insight*).}
+4. & \therefore \text{The epistocracy is justified (the Brennan insight).}
 \end{array}
 $$
 
@@ -1171,18 +1171,18 @@ $$
 **The *structure***.
 
 $$
-\text{Statism}: \ \text{Justice}_{\text{domestic}} \ \wedge \ \text{Humanity}_{\text{global}} \qquad \text{Cosmopolitanism}: \ \text{Justice}_{\text{global}} \ \wedge \ \text{the *no* *boundary*}
+\text{Statism}: \ \text{Justice}_{\text{domestic}} \ \wedge \ \text{Humanity}_{\text{global}} \qquad \text{Cosmopolitanism}: \ \text{Justice}_{\text{global}} \ \wedge \ \text{the no boundary}
 $$
 
 **The *argument* (the *cosmopolitan***; Beitz 1979, Pt. III).
 
 $$
 \begin{array}{ll}
-1. & \text{The *global* *institutions* *are* *coercive* (the *trade*, the *finance*, the *intellectual* *property*; Pogge 2002, Ch. 1).} \\
-2. & \text{The *coercion* *requires* the *justification* (the *justice*).} \\
-3. & \text{The *justification* *is* *the* *same* *globally* (the *equal* *moral* *worth*).} \\
+1. & \text{The global institutions are coercive (the trade, the finance, the intellectual property; Pogge 2002, Ch. 1).} \\
+2. & \text{The coercion requires the justification (the justice).} \\
+3. & \text{The justification is the same globally (the equal moral worth).} \\
 \hline
-4. & \therefore \text{The *global* *justice* *is* *required* (the *cosmopolitan* *insight*).}
+4. & \therefore \text{The global justice is required (the cosmopolitan insight).}
 \end{array}
 $$
 
@@ -1216,11 +1216,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *freedom* *of* *movement* *is* *a* *basic* *liberty* (the *autonomy*, the *no* *coercion*).} \\
-2. & \text{The *border* *coercion* *restricts* the *movement* (the *coercion*).} \\
-3. & \text{The *coercion* *requires* the *justification* (the *no* *arbitrary* *restriction*).} \\
+1. & \text{The freedom of movement is a basic liberty (the autonomy, the no coercion).} \\
+2. & \text{The border coercion restricts the movement (the coercion).} \\
+3. & \text{The coercion requires the justification (the no arbitrary restriction).} \\
 \hline
-4. & \therefore \text{The *open* *borders* *are* *justified* (the *Carens* *insight*), and the *closed* *borders* *are* *unjust* (the *no* *justification*).}
+4. & \therefore \text{The open borders are justified (the Carens insight), and the closed borders are unjust (the no justification).}
 \end{array}
 $$
 
@@ -1247,18 +1247,18 @@ $$
 **The *structure***.
 
 $$
-\text{Responsibility} \ = \ f(\text{the *historical* *emissions*}, \ \text{the *capacity*}, \ \text{the *benefit*}) \ \ (\text{the *differentiated* *responsibility*})
+\text{Responsibility} \ = \ f(\text{the historical emissions}, \ \text{the capacity}, \ \text{the benefit}) \ \ (\text{the differentiated responsibility})
 $$
 
 **The *argument*** (Shue 1999, §2–3).
 
 $$
 \begin{array}{ll}
-1. & \text{The *emissions* *cause* the *harm* (the *causal* *insight*).} \\
-2. & \text{The *harm* *falls* *disproportionately* on the *poor* (the *vulnerability* *insight*).} \\
-3. & \text{The *beneficiaries* *have* the *duty* (the *no* *free*-*riding*, the *capacity*, the *historical* *insight*).} \\
+1. & \text{The emissions cause the harm (the causal insight).} \\
+2. & \text{The harm falls disproportionately on the poor (the vulnerability insight).} \\
+3. & \text{The beneficiaries have the duty (the no free-riding, the capacity, the historical insight).} \\
 \hline
-4. & \therefore \text{The *differentiated* *responsibility* *is* *required* (the *climate* *justice* *insight*).}
+4. & \therefore \text{The differentiated responsibility is required (the climate justice insight).}
 \end{array}
 $$
 
@@ -1280,11 +1280,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *historical* *injustice* *occurred* (the *slavery*, the *colonialism*, the *dispossession*).} \\
-2. & \text{The *injustice* *leaves* the *ongoing* *harm* (the *structural* *inequality*, the *wealth* *gap*, the *stigma*; §3.5).} \\
-3. & \text{The *harm* *requires* the *remedy* (the *compensation*, the *rectification*, the *structural* *change*).} \\
+1. & \text{The historical injustice occurred (the slavery, the colonialism, the dispossession).} \\
+2. & \text{The injustice leaves the ongoing harm (the structural inequality, the wealth gap, the stigma; §3.5).} \\
+3. & \text{The harm requires the remedy (the compensation, the rectification, the structural change).} \\
 \hline
-4. & \therefore \text{The *reparations* *are* *required* (the *remedial* *insight*).}
+4. & \therefore \text{The reparations are required (the remedial insight).}
 \end{array}
 $$
 
@@ -1349,11 +1349,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *rights* *exist* *for* the *sake* of the *right*-*holders* (the *interests*).} \\
-2. & \text{The *interest* *grounds* the *duty* of the *others* (the *sufficient* *interest*).} \\
-3. & \text{The *duty* *is* *the* *content* of the *right* (the *correlativity*).} \\
+1. & \text{The rights exist for the sake of the right-holders (the interests).} \\
+2. & \text{The interest grounds the duty of the others (the sufficient interest).} \\
+3. & \text{The duty is the content of the right (the correlativity).} \\
 \hline
-4. & \therefore \text{The *rights* *protect* the *interests* (the *interest* *insight*).}
+4. & \therefore \text{The rights protect the interests (the interest insight).}
 \end{array}
 $$
 
@@ -1376,18 +1376,18 @@ $$
 **The *structure***.
 
 $$
-\text{Human right} \ = \ \text{the *universal* *moral* *claim*} \ (\text{the *no* *exception*} \ \text{on the *grounds* of the *nationality*, the *status*, the *culture*})
+\text{Human right} \ = \ \text{the universal moral claim} \ (\text{the no exception} \ \text{on the grounds of the nationality, the status, the culture})
 $$
 
 **The *argument*** (Griffin 2008, Ch. 2).
 
 $$
 \begin{array}{ll}
-1. & \text{The *persons* *have* the *agency* (the *personhood*, the *normative* *agency*).} \\
-2. & \text{The *agency* *requires* the *protections* (the *life*, the *liberty*, the *subsistence*).} \\
-3. & \text{The *protections* *are* *universal* (the *no* *exception*).} \\
+1. & \text{The persons have the agency (the personhood, the normative agency).} \\
+2. & \text{The agency requires the protections (the life, the liberty, the subsistence).} \\
+3. & \text{The protections are universal (the no exception).} \\
 \hline
-4. & \therefore \text{The *human* *rights* *are* *grounded* in the *agency* (the *Griffin* *insight*), and they are *universal* (the *human* *rights* *insight*).}
+4. & \therefore \text{The human rights are grounded in the agency (the Griffin insight), and they are universal (the human rights insight).}
 \end{array}
 $$
 
@@ -1412,18 +1412,18 @@ $$
 **The *Dworkinian* *trumps*** (Dworkin 1977, Ch. 7).
 
 $$
-\text{Right} \ = \ \text{the *trump* *over* the *collective* *goal} \ (\text{the *constraint* *on* the *aggregation*})
+\text{Right} \ = \ \text{the trump over the collective goal} \ (\text{the constraint on the aggregation})
 $$
 
 **The *argument*** (Dworkin 1977, Ch. 7).
 
 $$
 \begin{array}{ll}
-1. & \text{The *rights* *protect* the *individual* *against* the *majority* (the *anti*-*aggregation*).} \\
-2. & \text{The *protection* *requires* the *trump* (the *no* *balance* *against* the *collective* *goal*).} \\
-3. & \text{The *trump* *is* *the* *right* (the *no* *weighting*).} \\
+1. & \text{The rights protect the individual against the majority (the anti-aggregation).} \\
+2. & \text{The protection requires the trump (the no balance against the collective goal).} \\
+3. & \text{The trump is the right (the no weighting).} \\
 \hline
-4. & \therefore \text{The *rights* *are* *the* *trumps* (the *Dworkinian* *insight*).}
+4. & \therefore \text{The rights are the trumps (the Dworkinian insight).}
 \end{array}
 $$
 
@@ -1519,14 +1519,14 @@ The *table* is a *map*, not a *verdict*. The *reader* who *wants* to *choose* a 
 
 $$
 \begin{array}{ll}
-1. & \text{The *fair* *terms*} \ (\text{the *Rawlsian* *insight*}) \ \text{and the *relational* *equality*} \ (\text{the *equal* *standing* *insight}). \\
-2. & \text{The *plural* *profile* of *freedom*} \ (\text{the *negative* + the *non*-*domination* + the *autonomy* *insight}). \\
-3. & \text{The *deliberative* *democracy*} \ (\text{the *equal* *standing* + the *collective* *competence* *insight}). \\
-4. & \text{The *qualified* *cosmopolitanism*} \ (\text{the *equal* *worth* + the *global* *institutions* *insight}). \\
-5. & \text{The *prima* *facie* *rights*} \ (\text{the *interest* + the *threshold* + the *constitutional* *insight}). \\
-6. & \text{The *realistic* *utopianism*} \ (\text{the *feasibility* *insight}). \\
+1. & \text{The fair terms} \ (\text{the Rawlsian insight}) \ \text{and the relational equality} \ (\text{the equal standing insight}). \\
+2. & \text{The plural profile of freedom} \ (\text{the negative + the non-domination + the autonomy insight}). \\
+3. & \text{The deliberative democracy} \ (\text{the equal standing + the collective competence insight}). \\
+4. & \text{The qualified cosmopolitanism} \ (\text{the equal worth + the global institutions insight}). \\
+5. & \text{The prima facie rights} \ (\text{the interest + the threshold + the constitutional insight}). \\
+6. & \text{The realistic utopianism} \ (\text{the feasibility insight}). \\
 \hline
-7. & \therefore \text{The *liberal*-*republican* *synthesis*} \ (\text{the *integration* *insight*}), \ *qualified* \text{by the *admission* that the *legitimacy*, the *metric*, the *responsibility*, the *paternalism*, the *global* *boundaries*, \text{ and the *rights* *foundation* *remain* *contested*.}
+7. & \therefore \text{The liberal-republican synthesis (the integration insight), qualified by the admission that the legitimacy, the metric, the responsibility, the paternalism, the global boundaries, and the rights foundation remain contested.}
 \end{array}
 $$
 

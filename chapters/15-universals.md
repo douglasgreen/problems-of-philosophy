@@ -35,10 +35,10 @@ $$
 1. & \text{This rose is red.} \\
 2. & \text{That sunset is red.} \\
 3. & \text{This drop of blood is red.} \\
-4. & \text{The three things are *different* particulars.} \\
-5. & \text{They are *the same* in respect of color.} \\
+4. & \text{The three things are different particulars.} \\
+5. & \text{They are the same in respect of color.} \\
 \hline
-6. & \therefore \text{There is *something* that they share — or the appearance of sharing must be explained away.}
+6. & \therefore \text{There is something that they share — or the appearance of sharing must be explained away.}
 \end{array}
 $$
 
@@ -71,11 +71,11 @@ Russell's treatment is in *The Problems of Philosophy*, Chs. IX–X, and it is t
 
 $$
 \begin{array}{ll}
-1. & \text{The proposition "red is a color" is *true* even if no red thing exists.} \\
-2. & \text{The truth of the proposition *requires* that redness *be* something.} \\
-3. & \text{The *something* is not a *particular* (it is *shared* by all possible red things).} \\
+1. & \text{The proposition “red is a color” is true even if no red thing exists.} \\
+2. & \text{The truth of the proposition requires that redness be something.} \\
+3. & \text{The something is not a particular (it is shared by all possible red things).} \\
 \hline
-4. & \therefore \text{Redness is a *universal* that *exists* independently of its instances.}
+4. & \therefore \text{Redness is a universal that exists independently of its instances.}
 \end{array}
 $$
 
@@ -89,13 +89,13 @@ The *most* *famous* *objection* to *transcendent* realism is the **third-man reg
 
 $$
 \begin{array}{ll}
-1. & \text{The man, Callias, is a man because he *participates* in the Form of Man.} \\
-2. & \text{The Form of Man is *itself* a man (it is the *paradigm* of man).} \\
-3. & \text{Callias and the Form of Man are *both* men.} \\
-4. & \text{They are both men because they *participate* in a *third* Form of Man.} \\
-5. & \text{The third Form is *itself* a man, and so on.} \\
+1. & \text{The man, Callias, is a man because he participates in the Form of Man.} \\
+2. & \text{The Form of Man is itself a man (it is the paradigm of man).} \\
+3. & \text{Callias and the Form of Man are both men.} \\
+4. & \text{They are both men because they participate in a third Form of Man.} \\
+5. & \text{The third Form is itself a man, and so on.} \\
 \hline
-6. & \therefore \text{The regress is *infinite*, and the theory *explains* nothing.}
+6. & \therefore \text{The regress is infinite, and the theory explains nothing.}
 \end{array}
 $$
 
@@ -151,11 +151,11 @@ The *most* *important* *development* in the *contemporary* *debate* is the *shif
 
 $$
 \begin{array}{ll}
-1. & \text{All there is is *particulars* (the *nominalist* *premise*).} \\
-2. & \text{The *word* "red" is a *particular* (a *sound*, a *mark*).} \\
-3. & \text{The *application* of "red" to a thing is a *convention*.} \\
+1. & \text{All there is is particulars (the nominalist premise).} \\
+2. & \text{The word “red” is a particular (a sound, a mark).} \\
+3. & \text{The application of “red” to a thing is a convention.} \\
 \hline
-4. & \therefore \text{Redness is *nothing* *over* *and* *above* the *word* and the *convention*.}
+4. & \therefore \text{Redness is nothing over and above the word and the convention.}
 \end{array}
 $$
 
@@ -199,10 +199,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Properties are *explanatorily* *redundant*: the *resemblance* *among* *red* *things* *explains* *everything* that *redness* *explains*.} \\
-2. & \text{The *resemblance* is a *relation* *among* *particulars* (it is *not* a *universal*).} \\
+1. & \text{Properties are explanatorily redundant: the resemblance among red things explains everything that redness explains.} \\
+2. & \text{The resemblance is a relation among particulars (it is not a universal).} \\
 \hline
-3. & \therefore \text{There are *no* *universals*; there is *only* *resemblance*.}
+3. & \therefore \text{There are no universals; there is only resemblance.}
 \end{array}
 $$
 
@@ -307,12 +307,12 @@ David Armstrong (*Universals: An Opinionated Introduction*, 1989; *A World of St
 
 $$
 \begin{array}{ll}
-1. & \text{Every *contingent* *truth* *requires* a *truthmaker*.} \\
-2. & \text{The *truth* “this apple is red” is *contingent*.} \\
-3. & \text{The *truthmaker* is a *state* of *affairs*: the *apple*’s *instantiating* *redness*.} \\
-4. & \text{The *state* of *affairs* *requires* both the *particular* and the *universal*.} \\
+1. & \text{Every contingent truth requires a truthmaker.} \\
+2. & \text{The truth “this apple is red” is contingent.} \\
+3. & \text{The truthmaker is a state of affairs: the apple’s instantiating redness.} \\
+4. & \text{The state of affairs requires both the particular and the universal.} \\
 \hline
-5. & \therefore \text{Universals are *real*, and they are *constituents* of *states* of *affairs*.}
+5. & \therefore \text{Universals are real, and they are constituents of states of affairs.}
 \end{array}
 $$
 
@@ -330,11 +330,11 @@ The *most* *serious* *objection* to *immanent* realism is the **instantiation** 
 
 $$
 \begin{array}{ll}
-1. & \text{A *particular* } a \text{ *instantiates* a *universal* } F. \\
-2. & \text{The *instantiation* relation is *itself* a *relation*, and *relations* are *universals* (on the *realist* *view*).} \\
-3. & \text{The *instantiation* relation must be *instantiated* by } a \text{ and } F \text{ — which *requires* a *further* *relation*, and so on.} \\
+1. & \text{A particular } a \text{ instantiates a universal } F. \\
+2. & \text{The instantiation relation is itself a relation, and relations are universals (on the realist view).} \\
+3. & \text{The instantiation relation must be instantiated by } a \text{ and } F \text{ — which requires a further relation, and so on.} \\
 \hline
-4. & \therefore \text{The *regress* is *infinite*.}
+4. & \therefore \text{The regress is infinite.}
 \end{array}
 $$
 
@@ -356,11 +356,11 @@ The *most* *ambitious* *part* of Armstrong’s *system* is his **structural* *re
 
 $$
 \begin{array}{ll}
-1. & \text{Each *universal* has a *nature*: what it is.} \\
-2. & \text{The *nature* is *determined* by the *relations* of *resemblance* and *difference* *among* the *universals*.} \\
-3. & \text{The *relations* are *real*, and they are *higher-order* *universals*.} \\
+1. & \text{Each universal has a nature: what it is.} \\
+2. & \text{The nature is determined by the relations of resemblance and difference among the universals.} \\
+3. & \text{The relations are real, and they are higher-order universals.} \\
 \hline
-4. & \therefore \text{The *totality* of *universals* is a *structured* *structure* *without* an *external* *foundation*.}
+4. & \therefore \text{The totality of universals is a structured structure without an external foundation.}
 \end{array}
 $$
 
@@ -407,11 +407,11 @@ The *most* *striking* *application* of *naturalness* is Lewis’s **reference* *
 
 $$
 \begin{array}{ll}
-1. & \text{Any *theory* has *infinitely* *many* *models* (by the Löwenheim–Skolem theorem).} \\
-2. & \text{The *models* *assign* *different* *referents* to the *terms* of the *theory*.} \\
-3. & \text{Nothing *in* the *theory* *selects* *one* *model* *over* *the* *others*.} \\
+1. & \text{Any theory has infinitely many models (by the Löwenheim–Skolem theorem).} \\
+2. & \text{The models assign different referents to the terms of the theory.} \\
+3. & \text{Nothing in the theory selects one model over the others.} \\
 \hline
-4. & \therefore \text{Reference is *indeterminate*; there is *no* *fact* *of* the *matter* *about* what our *terms* *refer* to.}
+4. & \therefore \text{Reference is indeterminate; there is no fact of the matter about what our terms refer to.}
 \end{array}
 $$
 
@@ -440,10 +440,10 @@ The *most* *consequential* *debate* *about* *properties* is the *debate* *betwee
 
 $$
 \begin{array}{ll}
-1. & \text{Every *property* is *known* *through* its *causal* *role*.} \\
-2. & \text{The *causal* *role* is *constitutive* of the *property* (there is *nothing* *more* to *know*).} \\
+1. & \text{Every property is known through its causal role.} \\
+2. & \text{The causal role is constitutive of the property (there is nothing more to know).} \\
 \hline
-3. & \therefore \text{All *properties* are *dispositional*.}
+3. & \therefore \text{All properties are dispositional.}
 \end{array}
 $$
 
@@ -453,10 +453,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{A *disposition* is *grounded* in a *categorical* *basis*.} \\
-2. & \text{The *basis* is *not* *itself* a *disposition* (otherwise the *regress* is *infinite*).} \\
+1. & \text{A disposition is grounded in a categorical basis.} \\
+2. & \text{The basis is not itself a disposition (otherwise the regress is infinite).} \\
 \hline
-3. & \therefore \text{The *fundamental* *properties* are *categorical*.}
+3. & \therefore \text{The fundamental properties are categorical.}
 \end{array}
 $$
 
@@ -522,11 +522,11 @@ The *most* *famous* *problem* for *abstract* *objects* is **Benacerraf’s dilem
 
 $$
 \begin{array}{ll}
-1. & \text{Mathematical *truths* are *about* *abstract* *objects* (the *semantic* *premise*).} \\
-2. & \text{Knowledge *requires* a *causal* *connection* *between* the *knower* and the *known* (the *causal* *theory* of *knowledge*).} \\
-3. & \text{Abstract *objects* are *causally* *inert*.} \\
+1. & \text{Mathematical truths are about abstract objects (the semantic premise).} \\
+2. & \text{Knowledge requires a causal connection between the knower and the known (the causal theory of knowledge).} \\
+3. & \text{Abstract objects are causally inert.} \\
 \hline
-4. & \therefore \text{Mathematical *knowledge* is *impossible*.}
+4. & \therefore \text{Mathematical knowledge is impossible.}
 \end{array}
 $$
 
@@ -613,11 +613,11 @@ The *most* *radical* *form* of *structuralism* is **ontic* *structuralism*** (Fr
 
 $$
 \begin{array}{ll}
-1. & \text{Physics *describes* the *world* *in* *terms* of *relations* (quantum *entanglement*, gauge *symmetry*, *spacetime* *structure*).} \\
-2. & \text{The *relations* *do* not *presuppose* *relata* with *intrinsic* *natures* (the *entanglement* *relations* are *prior* to the *particles*).} \\
-3. & \text{The *best* *interpretation* of *physics* *treats* the *structure* as *fundamental*.} \\
+1. & \text{Physics describes the world in terms of relations (quantum entanglement, gauge symmetry, spacetime structure).} \\
+2. & \text{The relations do not presuppose relata with intrinsic natures (the entanglement relations are prior to the particles).} \\
+3. & \text{The best interpretation of physics treats the structure as fundamental.} \\
 \hline
-4. & \therefore \text{There are *no* *objects* *over* *and* *above* the *structure*.}
+4. & \therefore \text{There are no objects over and above the structure.}
 \end{array}
 $$
 

@@ -31,10 +31,10 @@ The chapter proceeds in nine movements. §1 examines the *covering-law* *model* 
 
 $$
 \begin{array}{ll}
-(\mathrm{L}_1), \ldots, (\mathrm{L}_k) & \text{The *laws* of nature} \\
-(\mathrm{C}_1), \ldots, (\mathrm{C}_n) & \text{The *initial* *conditions} \\
+(\mathrm{L}_1), \ldots, (\mathrm{L}_k) & \text{The laws of nature} \\
+(\mathrm{C}_1), \ldots, (\mathrm{C}_n) & \text{The initial conditions} \\
 \hline
-(\mathrm{E}) & \text{The *explanandum* (the *event* *described*)}
+(\mathrm{E}) & \text{The explanandum (the event described)}
 \end{array}
 $$
 
@@ -60,7 +60,7 @@ $$
 **The *schema***.
 
 $$
-\frac{P(E \mid C) = r \quad C}{\text{Therefore } E \quad \text{with *probability* } r}
+\frac{P(E \mid C) = r \quad C}{\text{Therefore } E \quad \text{with probability } r}
 $$
 
 **The *requirement* *of* *maximal* *specificity*** (the *RMS*). The *statistical* *syllogism* is *ambiguous* (the *same* *case* can be *subsumed* under *different* *reference* *classes*), and the *RMS* *requires* the *explanans* to *use* the *most* *specific* *reference* *class* *available*.
@@ -85,11 +85,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *flagpole* *height} \ (h) \text{ and the *shadow* *length} \ (s) \text{ are *connected* by a *law*: } s = h / \tan \theta. \\
-2. & \text{The *law* *allows* the *deduction* of } s \text{ from } h, \text{ and the *deduction* of } h \text{ from } s. \\
-3. & \text{The *explanation* of } s \text{ by } h \text{ is *legitimate*; the *explanation* of } h \text{ by } s \text{ is *not*.} \\
+1. & \text{The flagpole height} \ (h) \text{ and the shadow length} \ (s) \text{ are connected by a law: } s = h / \tan \theta. \\
+2. & \text{The law allows the deduction of } s \text{ from } h, \text{ and the deduction of } h \text{ from } s. \\
+3. & \text{The explanation of } s \text{ by } h \text{ is legitimate; the explanation of } h \text{ by } s \text{ is not.} \\
 \hline
-4. & \therefore \text{The *D-N* *model* *confuses* the *symmetry* of the *deduction* with the *asymmetry* of the *explanation*.}
+4. & \therefore \text{The D-N model confuses the symmetry of the deduction with the asymmetry of the explanation.}
 \end{array}
 $$
 
@@ -123,18 +123,18 @@ $$
 **The *structure***.
 
 $$
-\text{Explanation}(E) = \text{the *cause* of } E \ (\text{or the *causal* *mechanism*})
+\text{Explanation}(E) = \text{the cause of } E \ (\text{or the causal mechanism})
 $$
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
-1. & \text{The *scientific* *explanations* *identify* the *causes* (the *practice*).} \\
-2. & \text{The *identification* *requires* a *causal* *relation* (the *asymmetry*, the *relevance*).} \\
-3. & \text{The *causal* *relation* *explains* the *asymmetry* and the *relevance* (the *objections* to the *D-N* *model*).} \\
+1. & \text{The scientific explanations identify the causes (the practice).} \\
+2. & \text{The identification requires a causal relation (the asymmetry, the relevance).} \\
+3. & \text{The causal relation explains the asymmetry and the relevance (the objections to the D-N model).} \\
 \hline
-4. & \therefore \text{The *causation* is the *core* of *explanation* (the *causal* *theory*).}
+4. & \therefore \text{The causation is the core of explanation (the causal theory).}
 \end{array}
 $$
 
@@ -147,7 +147,7 @@ $$
 **The *structure***.
 
 $$
-P(E \mid C \wedge A) \neq P(E \mid C) \quad \text{(the *relevance* of } A\text{)}
+P(E \mid C \wedge A) \neq P(E \mid C) \quad \text{(the relevance of } A\text{)}
 $$
 
 **The *virtue***. The *model* *captures* the *statistical* *explanations* (the *correlations* that *make* a *difference*), and it *avoids* the *high*-*probability* *requirement* (the *explanation* is *the* *relevance*, not the *probability*).
@@ -165,7 +165,7 @@ $$
 **The *structure***.
 
 $$
-X \text{ *explains* } Y \quad \text{iff} \quad \text{an *intervention* on } X \text{ *changes* } Y
+X \text{ explains } Y \quad \text{iff} \quad \text{an intervention on } X \text{ changes } Y
 $$
 
 **The *virtue***. The *account* *grounds* the *explanation* in the *manipulability* (the *practical* *intuition*), and it *fits* the *experimental* *method* (the *randomized* *controlled* *trial*), and it *avoids* the *mystery* of the *causal* *relation* (the *intervention* is *operational*).
@@ -205,11 +205,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *scientific* *explanations* *unify* the *phenomena* (the *practice*: the *Newtonian* *mechanics* *unifies* the *terrestrial* and the *celestial* *motion*).} \\
-2. & \text{The *unification* *reduces* the *number* of *independent* *phenomena*.} \\
-3. & \text{The *reduction* *is* the *explanation* (the *understanding* is the *unity*).} \\
+1. & \text{The scientific explanations unify the phenomena (the practice: the Newtonian mechanics unifies the terrestrial and the celestial motion).} \\
+2. & \text{The unification reduces the number of independent phenomena.} \\
+3. & \text{The reduction is the explanation (the understanding is the unity).} \\
 \hline
-4. & \therefore \text{The *explanation* is the *unification* (the *unificationist* *theory*).}
+4. & \therefore \text{The explanation is the unification (the unificationist theory).}
 \end{array}
 $$
 
@@ -232,7 +232,7 @@ $$
 **The *structure***.
 
 $$
-\text{Explanation} = \text{the *instantiation* of a *schematic* *argument*
+\text{Explanation} = \text{the instantiation of a schematic argument
 }
 $$
 
@@ -255,7 +255,7 @@ $$
 **The *structure***.
 
 $$
-\text{Depth} = \text{the *generality* of the *causal* *elements*
+\text{Depth} = \text{the generality of the causal elements
 }
 $$
 
@@ -300,10 +300,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *special* *sciences* (the *biology*, the *neuroscience*, the *cognitive* *science*) *explain* by *describing* *mechanisms* (the *practice*).} \\
-2. & \text{The *description* *of* a *mechanism* *reduces* the *phenomenon* to the *activities* of the *components* (the *explanation*).} \\
+1. & \text{The special sciences (the biology, the neuroscience, the cognitive science) explain by describing mechanisms (the practice).} \\
+2. & \text{The description of a mechanism reduces the phenomenon to the activities of the components (the explanation).} \\
 \hline
-3. & \therefore \text{The *explanation* is the *mechanism* *description* (the *mechanistic* *theory*).}
+3. & \therefore \text{The explanation is the mechanism description (the mechanistic theory).}
 \end{array}
 $$
 
@@ -317,10 +317,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *phenomenon* *can* be *explained* at the *different* *levels* (the *molecular*, the *cellular*, the *circuit*).} \\
-2. & \text{The *levels* *are* *all* *causally* *relevant* (the *organization* *determines* the *activities*).} \\
+1. & \text{The phenomenon can be explained at the different levels (the molecular, the cellular, the circuit).} \\
+2. & \text{The levels are all causally relevant (the organization determines the activities).} \\
 \hline
-3. & \therefore \text{The *explanation* *requires* a *principled* *choice* of the *level* (the *levels* *problem*).}
+3. & \therefore \text{The explanation requires a principled choice of the level (the levels problem).}
 \end{array}
 $$
 
@@ -346,10 +346,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *mechanism* *explains* the *phenomenon* when it *works* *normally* (the *disease* is the *deviation*).} \\
-2. & \text{The *normal* *operation* *requires* a *norm* (the *function*, the *proper* *function*; Ch. 42, §2).} \\
+1. & \text{The mechanism explains the phenomenon when it works normally (the disease is the deviation).} \\
+2. & \text{The normal operation requires a norm (the function, the proper function; Ch. 42, §2).} \\
 \hline
-3. & \therefore \text{The *mechanism* *description* *presupposes* a *normative* *theory* (the *normativity* *problem*).}
+3. & \therefore \text{The mechanism description presupposes a normative theory (the normativity problem).}
 \end{array}
 $$
 
@@ -420,7 +420,7 @@ where:
 **The *structure***.
 
 $$
-\text{Explain}(P \ \text{rather than} \ Q) = \text{the *cause* that *makes* the *difference* between } P \text{ and } Q
+\text{Explain}(P \ \text{rather than} \ Q) = \text{the cause that makes the difference between } P \text{ and } Q
 $$
 
 **The *virtue***. The *theory* *captures* the *contrastive* *nature* of the *explanation* (the *same* *fact* *demands* the *different* *explanations* *depending* on the *contrast*), and it *fits* the *causal* *difference*-*making* (Ch. 18, §2).
@@ -443,11 +443,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *why*-*question* *presupposes* the *topic* (the *cat* *died*; the *presupposition* *is* *true*).} \\
-2. & \text{The *presupposition* *determines* the *appropriate* *answer* (the *answer* must *explain* the *topic*, and the *contrast*).} \\
-3. & \text{The *answer* *depends* on the *interest* (the *contrast* *class*, the *relevance* *relation*).} \\
+1. & \text{The why-question presupposes the topic (the cat died; the presupposition is true).} \\
+2. & \text{The presupposition determines the appropriate answer (the answer must explain the topic, and the contrast).} \\
+3. & \text{The answer depends on the interest (the contrast class, the relevance relation).} \\
 \hline
-4. & \therefore \text{The *why*-*questions* are *pragmatic* (the *pragmatic* *theory*).}
+4. & \therefore \text{The why-questions are pragmatic (the pragmatic theory).}
 \end{array}
 $$
 
@@ -486,10 +486,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *understanding* *requires* the *grasp* of the *explanatory* *relations* (the *why*, the *how*).} \\
-2. & \text{The *knowledge* *does* not *require* the *grasp* (the *propositional* *knowledge* *can* be *isolated*).} \\
+1. & \text{The understanding requires the grasp of the explanatory relations (the why, the how).} \\
+2. & \text{The knowledge does not require the grasp (the propositional knowledge can be isolated).} \\
 \hline
-3. & \therefore \text{The *understanding* is *not* reducible to the *knowledge* (the *distinction*).}
+3. & \therefore \text{The understanding is not reducible to the knowledge (the distinction).}
 \end{array}
 $$
 
@@ -512,7 +512,7 @@ $$
 **The *structure***.
 
 $$
-\text{Understanding}(T) = \text{the *ability* to *use* } T \text{ *in* the *context*}
+\text{Understanding}(T) = \text{the ability to use } T \text{ in the context}
 $$
 
 **The *virtue***. The *account* *grounds* the *understanding* in the *practice*, and it *fits* the *scientific* *education* (the *student* *understands* when she can *use* the *theory*), and it *avoids* the *mystery* of the *grasp*.
@@ -552,11 +552,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *biological* *explanation* *uses* the *functional* *notions* (the *heart* *is* *for* *pumping*).} \\
-2. & \text{The *functional* *notions* are *teleological* (they *refer* to the *function*, the *goal*).} \\
-3. & \text{The *teleological* *notions* *require* the *selection* *history* (the *etiological* *account*; Ch. 42, §2).} \\
+1. & \text{The biological explanation uses the functional notions (the heart is for pumping).} \\
+2. & \text{The functional notions are teleological (they refer to the function, the goal).} \\
+3. & \text{The teleological notions require the selection history (the etiological account; Ch. 42, §2).} \\
 \hline
-4. & \therefore \text{The *biological* *explanation* is *teleological* (the *teleological* *insight*), and the *teleology* is *naturalized* by the *selection* (the *naturalistic* *insight*).}
+4. & \therefore \text{The biological explanation is teleological (the teleological insight), and the teleology is naturalized by the selection (the naturalistic insight).}
 \end{array}
 $$
 
@@ -579,11 +579,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *psychological* *explanation* *cites* the *reasons* (she *left* *because* she *believed* the *train* *was* *leaving*).} \\
-2. & \text{The *reasons* *rationalize* the *action* (they *make* it *intelligible*, not merely *caused*).} \\
-3. & \text{The *rationalization* *requires* the *normative* *structure* (the *logic* of the *reasons*; Ch. 28, §2).} \\
+1. & \text{The psychological explanation cites the reasons (she left because she believed the train was leaving).} \\
+2. & \text{The reasons rationalize the action (they make it intelligible, not merely caused).} \\
+3. & \text{The rationalization requires the normative structure (the logic of the reasons; Ch. 28, §2).} \\
 \hline
-4. & \therefore \text{The *psychological* *explanation* is *reason*-*giving* (the *reasons* *insight*), and the *reasons* *are* *causes* (the *causal* *insight*).}
+4. & \therefore \text{The psychological explanation is reason-giving (the reasons insight), and the reasons are causes (the causal insight).}
 \end{array}
 $$
 
@@ -606,11 +606,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *historical* *explanation* *narrates* the *events* (the *story* *of* the *revolution*, the *story* of the *war*).} \\
-2. & \text{The *narrative* *connects* the *events* (the *causal* *links*, the *motives*, the *contingencies*).} \\
-3. & \text{The *connection* is *not* the *subsumption* (the *narrative* *does* not *require* the *laws*).} \\
+1. & \text{The historical explanation narrates the events (the story of the revolution, the story of the war).} \\
+2. & \text{The narrative connects the events (the causal links, the motives, the contingencies).} \\
+3. & \text{The connection is not the subsumption (the narrative does not require the laws).} \\
 \hline
-4. & \therefore \text{The *historical* *explanation* is *narrative* (the *narrative* *insight*), and the *narrative* *is* *causal* (the *causal* *insight*).}
+4. & \therefore \text{The historical explanation is narrative (the narrative insight), and the narrative is causal (the causal insight).}
 \end{array}
 $$
 
@@ -632,10 +632,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *explanation* *differs* *across* the *domains* (the *causal* in the *physics*, the *teleological* in the *biology*, the *narrative* in the *history*, the *proof* in the *mathematics*).} \\
-2. & \text{The *differences* *are* *not* *reducible* to a *single* *account* (the *teleology*, the *narrative* *resist* the *causal* *account*).} \\
+1. & \text{The explanation differs across the domains (the causal in the physics, the teleological in the biology, the narrative in the history, the proof in the mathematics).} \\
+2. & \text{The differences are not reducible to a single account (the teleology, the narrative resist the causal account).} \\
 \hline
-3. & \therefore \text{The *explanation* is *plural* (the *explanatory* *pluralism*).}
+3. & \therefore \text{The explanation is plural (the explanatory pluralism).}
 \end{array}
 $$
 
@@ -671,10 +671,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *mathematicians* *distinguish* the *proofs* that *explain* from the *proofs* that *do* not (the *practice*).} \\
-2. & \text{The *distinction* *requires* the *notion* of *mathematical* *explanation* (the *explanatory* *property*).} \\
+1. & \text{The mathematicians distinguish the proofs that explain from the proofs that do not (the practice).} \\
+2. & \text{The distinction requires the notion of mathematical explanation (the explanatory property).} \\
 \hline
-3. & \therefore \text{The *mathematical* *explanation* *exists* (the *explanatory* *view*).}
+3. & \therefore \text{The mathematical explanation exists (the explanatory view).}
 \end{array}
 $$
 
@@ -685,7 +685,7 @@ $$
 **The *structure***.
 
 $$
-\text{Explanation}(p) = \text{the *proof* that *depends* on the *characteristic* *property* of } p
+\text{Explanation}(p) = \text{the proof that depends on the characteristic property of } p
 $$
 
 **The *example***. The *explanation* of the *theorem* “$1+2+\cdots+n = n(n+1)/2$” is the *algebraic* *proof* (it *depends* on the *algebraic* *structure* of the *sum*), not the *inductive* *proof* (it *verifies* the *cases*, and it does *not* *explain* *why* the *identity* *holds*).
@@ -726,7 +726,7 @@ $$
 **The *structure***.
 
 $$
-\text{Explanation}(p) = \text{the *proof* that *identifies* the *ground* of } p
+\text{Explanation}(p) = \text{the proof that identifies the ground of } p
 $$
 
 **The *virtue***. The *account* *grounds* the *mathematical* *explanation* in the *grounding* *relation* (the *structural* *insight*), and it *fits* the *mathematical* *practice* (the *distinction* between the *explanatory* and the *non*-*explanatory* *proofs*).
@@ -786,10 +786,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *adaptationist* *explanation* *posits* a *selection* *history* (the *trait* was *selected* for the *function*).} \\
-2. & \text{The *history* is *not* *tested* (the *narrative* is *plausible*, and it is *not* *falsified*).} \\
+1. & \text{The adaptationist explanation posits a selection history (the trait was selected for the function).} \\
+2. & \text{The history is not tested (the narrative is plausible, and it is not falsified).} \\
 \hline
-3. & \therefore \text{The *explanation* is a *just*-*so* *story* (the *speculative* *narrative*), and it *fails* the *testability* *criterion*.
+3. & \therefore \text{The explanation is a just-so story (the speculative narrative), and it fails the testability criterion.}
 \end{array}
 $$
 
@@ -811,10 +811,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *explanation* *adds* the *information* (the *informativeness* *criterion*).} \\
-2. & \text{The *circularity* and the *redescription* *add* no *information* (they *restate* the *explanandum*).} \\
+1. & \text{The explanation adds the information (the informativeness criterion).} \\
+2. & \text{The circularity and the redescription add no information (they restate the explanandum).} \\
 \hline
-3. & \therefore \text{The *circularity* and the *redescription* *are* *not* *explanations* (the *vices*).}
+3. & \therefore \text{The circularity and the redescription are not explanations (the vices).}
 \end{array}
 $$
 

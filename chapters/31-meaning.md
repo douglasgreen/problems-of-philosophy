@@ -103,10 +103,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{If the *meaning* of a *name* is its *referent*, "Hesperus is Phosphorus" and "Hesperus is Hesperus" *mean* the *same* (the *same* *object*). \\
-2. & \text{The *two* *sentences* *have* *different* *cognitive* *significance* (the *first* is *informative*, the *second* is *trivial*). \\
+1. & \text{If the meaning of a name is its referent, “Hesperus is Phosphorus” and “Hesperus is Hesperus” mean the same (the same object).} \\
+2. & \text{The two sentences have different cognitive significance (the first is informative, the second is trivial).} \\
 \hline
-3. & \therefore \text{The *meaning* is *not* the *referent* (the *Millian* *theory* is *false*).}
+3. & \therefore \text{The meaning is not the referent (the Millian theory is false).}
 \end{array}
 $$
 
@@ -161,10 +161,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *meaning* of a *word* is *not* a *self*-standing *entity* (it is not a *mental* *image*, an *object*, or a *sense* *in* *isolation*).} \\
-2. & \text{The *word* *functions* in a *sentence* (it *contributes* to the *sentence*'s *content*).} \\
+1. & \text{The meaning of a word is not a self-standing entity (it is not a mental image, an object, or a sense in isolation).} \\
+2. & \text{The word functions in a sentence (it contributes to the sentence's content).} \\
 \hline
-3. & \therefore \text{The *meaning* is *constituted* by the *contribution* (the *context* *principle*).}
+3. & \therefore \text{The meaning is constituted by the contribution (the context principle).}
 \end{array}
 $$
 
@@ -228,18 +228,18 @@ $$
 **The *formalism*** (the *Tarskian* *truth* *definition*; Tarski, "The Concept of Truth in Formalized Languages," 1933; Ch. 32, §1).
 
 $$
-\forall s\, (\text{True}(s) \leftrightarrow p) \quad \text{(the *T*-schema, for each sentence } s \text{ with content } p)
+\forall s\, (\text{True}(s) \leftrightarrow p) \quad \text{(the T-schema, for each sentence } s \text{ with content } p)
 $$
 
 **The *argument*** (Davidson 1967, §2).
 
 $$
 \begin{array}{ll}
-1. & \text{The *meaning* of a *sentence* is *what* a *competent* *speaker* *knows* when she *understands* it.} \\
-2. & \text{The *knowledge* is *propositional* (the *speaker* *knows* the *conditions* *under* *which* the *sentence* is *true*).} \\
-3. & \text{The *conditions* are *specifiable* by a *truth* *definition* (the *Tarskian* *form*).} \\
+1. & \text{The meaning of a sentence is what a competent speaker knows when she understands it.} \\
+2. & \text{The knowledge is propositional (the speaker knows the conditions under which the sentence is true).} \\
+3. & \text{The conditions are specifiable by a truth definition (the Tarskian form).} \\
 \hline
-4. & \therefore \text{The *meaning* is the *truth* *conditions* (the *truth*-*conditional* *semantics*).}
+4. & \therefore \text{The meaning is the truth conditions (the truth-conditional semantics).}
 \end{array}
 $$
 
@@ -269,10 +269,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *meaning* of a *word* is *not* an *entity* (an *object*, an *image*, a *sense*), but a *practice*.} \\
-2. & \text{The *practice* is the *use* (the *rule*-*governed* *employment* of the *word*).} \\
+1. & \text{The meaning of a word is not an entity (an object, an image, a sense), but a practice.} \\
+2. & \text{The practice is the use (the rule-governed employment of the word).} \\
 \hline
-3. & \therefore \text{The *meaning* is the *use* (the *use*-*theoretic* *semantics*).}
+3. & \therefore \text{The meaning is the use (the use-theoretic semantics).}
 \end{array}
 $$
 
@@ -306,10 +306,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *meaning* is *normative* (it *determines* what *follows* from an *assertion*, what *contradicts* it, what *supports* it).} \\
-2. & \text{The *normative* *structure* is *inferential* (the *relations* of *entailment*, *incompatibility*, and *support*).} \\
+1. & \text{The meaning is normative (it determines what follows from an assertion, what contradicts it, what supports it).} \\
+2. & \text{The normative structure is inferential (the relations of entailment, incompatibility, and support).} \\
 \hline
-3. & \therefore \text{The *meaning* is the *inferential* *role* (the *inferentialism*).}
+3. & \therefore \text{The meaning is the inferential role (the inferentialism).}
 \end{array}
 $$
 
@@ -356,10 +356,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{A *competent* *speaker* *understands* *sentences* *she* *has* *never* *heard* (the *productivity* *of* *language*).} \\
-2. & \text{The *understanding* *requires* that the *meaning* of the *sentence* *be* *derived* from the *meanings* of the *words* (the *compositionality*).} \\
+1. & \text{A competent speaker understands sentences she has never heard (the productivity of language).} \\
+2. & \text{The understanding requires that the meaning of the sentence be derived from the meanings of the words (the compositionality).} \\
 \hline
-3. & \therefore \text{The *meaning* is *compositional*.}
+3. & \therefore \text{The meaning is compositional.}
 \end{array}
 $$
 
@@ -393,10 +393,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Thought is *compositional* (the *productivity* *argument*; §4.1).} \\
-2. & \text{The *compositionality* *requires* a *medium* *with* *syntax* and *semantics* (the *language*-*like* *medium*).} \\
+1. & \text{Thought is compositional (the productivity argument; §4.1).} \\
+2. & \text{The compositionality requires a medium with syntax and semantics (the language-like medium).} \\
 \hline
-3. & \therefore \text{Thought has a *language* of *thought* (the LOT).}
+3. & \therefore \text{Thought has a language of thought (the LOT).}
 \end{array}
 $$
 
@@ -416,11 +416,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *compositionality* *requires* that the *meaning* of a *word* be *stable* across *sentences*.} \\
-2. & \text{The *holism* *makes* the *meaning* of a *word* *depend* on the *whole* *system* of *beliefs*.} \\
-3. & \text{The *dependence* *makes* the *meaning* *unstable* (any *change* in *belief* *changes* the *meaning*).} \\
+1. & \text{The compositionality requires that the meaning of a word be stable across sentences.} \\
+2. & \text{The holism makes the meaning of a word depend on the whole system of beliefs.} \\
+3. & \text{The dependence makes the meaning unstable (any change in belief changes the meaning).} \\
 \hline
-4. & \therefore \text{The *holism* and the *compositionality* are *incompatible*.}
+4. & \therefore \text{The holism and the compositionality are incompatible.}
 \end{array}
 $$
 
@@ -446,10 +446,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{1 grain of sand is not a heap (the *base* *case*).} \\
-2. & \text{If } n \text{ grains are not a heap, then } n+1 \text{ grains are not a heap (the *induction* *step*).} \\
+1. & \text{1 grain of sand is not a heap (the base case).} \\
+2. & \text{If } n \text{ grains are not a heap, then } n+1 \text{ grains are not a heap (the induction step).} \\
 \hline
-3. & \therefore \text{No number of grains is a heap (the *conclusion*).}
+3. & \therefore \text{No number of grains is a heap (the conclusion).}
 \end{array}
 $$
 
@@ -471,11 +471,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *principle* of *bivalence* (every *proposition* is *true* or *false*) *applies* to the *vague* *predicates* (the *classical* *logic*).} \\
-2. & \text{The *principle* *requires* a *sharp* *boundary* (the *predicate* *is* *either* *true* or *false* of *each* *number*).} \\
-3. & \text{The *boundary* is *not* *knowable* (the *margin* of *error*: if we are *at* the *boundary*, we *cannot* *know* *which* *side* *we* *are* on).} \\
+1. & \text{The principle of bivalence (every proposition is true or false) applies to the vague predicates (the classical logic).} \\
+2. & \text{The principle requires a sharp boundary (the predicate is either true or false of each number).} \\
+3. & \text{The boundary is not knowable (the margin of error: if we are at the boundary, we cannot know which side we are on).} \\
 \hline
-4. & \therefore \text{The *vagueness* is *epistemic* (the *boundary* *exists*, but we *cannot* *know* it).}
+4. & \therefore \text{The vagueness is epistemic (the boundary exists, but we cannot know it).}
 \end{array}
 $$
 
@@ -505,11 +505,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *vagueness* is a *deficiency* of *the* *language*, not of *the* *world*.} \\
-2. & \text{The *deficiency* is *modeled* by the *admissible* *precisifications*.} \\
-3. & \text{The *truth* is *the* *super*-*truth* (the *truth* on all the *precisifications*).} \\
+1. & \text{The vagueness is a deficiency of the language, not of the world.} \\
+2. & \text{The deficiency is modeled by the admissible precisifications.} \\
+3. & \text{The truth is the super-truth (the truth on all the precisifications).} \\
 \hline
-4. & \therefore \text{The *vagueness* is *handled* by the *supervaluation* (the *supervaluationism*).}
+4. & \therefore \text{The vagueness is handled by the supervaluation (the supervaluationism).}
 \end{array}
 $$
 
@@ -584,10 +584,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *meaning* *determines* the *correct* *use* (the *extension* of the *predicate*).} \\
-2. & \text{The *correctness* is *normative* (it *prescribes* the *use*, not merely *describes* it).} \\
+1. & \text{The meaning determines the correct use (the extension of the predicate).} \\
+2. & \text{The correctness is normative (it prescribes the use, not merely describes it).} \\
 \hline
-3. & \therefore \text{The *meaning* is *normative* (the *normativity* is *constitutive* of *meaning*).}
+3. & \therefore \text{The meaning is normative (the normativity is constitutive of meaning).}
 \end{array}
 $$
 
@@ -603,11 +603,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *meaning* *must* be *determined* by the *past* *use* (the *past* *cases*, the *dispositions*, the *mental* *states*).} \\
-2. & \text{The *past* *use* is *finite*, and it is *consistent* with *both* *addition* and *quaddition*.} \\
-3. & \text{The *mental* *states* are *also* *finite*, and they *do* not *determine* the *future* *use*.} \\
+1. & \text{The meaning must be determined by the past use (the past cases, the dispositions, the mental states).} \\
+2. & \text{The past use is finite, and it is consistent with both addition and quaddition.} \\
+3. & \text{The mental states are also finite, and they do not determine the future use.} \\
 \hline
-4. & \therefore \text{There is *no* *fact* of the *matter* about *what* the *agent* *means* (the *meaning* *skepticism*).}
+4. & \therefore \text{There is no fact of the matter about what the agent means (the meaning skepticism).}
 \end{array}
 $$
 
@@ -664,10 +664,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *philosophical* *problems* are *generated* by the *misuse* of *language* (the *Wittgensteinian* *diagnosis*).} \\
-2. & \text{The *misuse* is *corrected* by the *analysis* of *language* (the *method*).} \\
+1. & \text{The philosophical problems are generated by the misuse of language (the Wittgensteinian diagnosis).} \\
+2. & \text{The misuse is corrected by the analysis of language (the method).} \\
 \hline
-3. & \therefore \text{The *philosophy* is the *analysis* of *language* (the *linguistic* *turn*).}
+3. & \therefore \text{The philosophy is the analysis of language (the linguistic turn).}
 \end{array}
 $$
 
@@ -690,17 +690,17 @@ $$
 **The *structure*.
 
 $$
-\text{Language} \ \to \ \text{Thought} \quad \text{(the *strong* *version*)}
+\text{Language} \ \to \ \text{Thought} \quad \text{(the strong version)}
 $$
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
-1. & \text{The *linguistic* *categories* (the *grammar*, the *vocabulary*) *differ* across *languages*.} \\
-2. & \text{The *categories* *shape* the *conceptual* *categories* (the *perception*, the *memory*, the *classification*).} \\
+1. & \text{The linguistic categories (the grammar, the vocabulary) differ across languages.} \\
+2. & \text{The categories shape the conceptual categories (the perception, the memory, the classification).} \\
 \hline
-3. & \therefore \text{The *language* *shapes* the *thought* (the *linguistic* *relativity*).}
+3. & \therefore \text{The language shapes the thought (the linguistic relativity).}
 \end{array}
 $$
 
@@ -732,11 +732,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *linguistic* *categories* are *systematic* (the *count*/*mass* *distinction*, the *kind* *terms*).} \\
-2. & \text{The *categories* *encode* a *metaphysics* (the *objects*, the *kinds*, the *events*).} \\
-3. & \text{The *metaphysics* *constrains* the *ontology* (the *philosophical* *theory* *must* *accommodate* the *categories*).} \\
+1. & \text{The linguistic categories are systematic (the count/mass distinction, the kind terms).} \\
+2. & \text{The categories encode a metaphysics (the objects, the kinds, the events).} \\
+3. & \text{The metaphysics constrains the ontology (the philosophical theory must accommodate the categories).} \\
 \hline
-4. & \therefore \text{The *natural* *language* *encodes* a *metaphysics* (the *natural* *language* *metaphysics*).}
+4. & \therefore \text{The natural language encodes a metaphysics (the natural language metaphysics).}
 \end{array}
 $$
 

@@ -33,11 +33,11 @@ The chapter proceeds in eight movements. §1 states the *problem* and the *class
 
 $$
 \begin{array}{ll}
-1. & \text{The *only* *evidence* available is *behavior*.} \\
-2. & \text{The *behavior* is *consistent* with the *hypothesis* that the others have minds, and with the *hypothesis* that they do not.} \\
-3. & \text{If the *evidence* is *consistent* with *both* *hypotheses*, it *cannot* *decide* between them.} \\
+1. & \text{The only evidence available is behavior.} \\
+2. & \text{The behavior is consistent with the hypothesis that the others have minds, and with the hypothesis that they do not.} \\
+3. & \text{If the evidence is consistent with both hypotheses, it cannot decide between them.} \\
 \hline
-4. & \therefore \text{We *cannot* *know* that others have minds.}
+4. & \therefore \text{We cannot know that others have minds.}
 \end{array}
 $$
 
@@ -53,11 +53,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{My *behavior* is *caused* by my *mental* *states* (the *first-person* *datum*).} \\
-2. & \text{The *behavior* of *others* is *like* my *behavior* (the *similarity* *premise*).} \\
-3. & \text{Like *effects* have *like* *causes* (the *causal* *principle*).} \\
+1. & \text{My behavior is caused by my mental states (the first-person datum).} \\
+2. & \text{The behavior of others is like my behavior (the similarity premise).} \\
+3. & \text{Like effects have like causes (the causal principle).} \\
 \hline
-4. & \therefore \text{The *behavior* of *others* is *caused* by *their* *mental* *states*.}
+4. & \therefore \text{The behavior of others is caused by their mental states.}
 \end{array}
 $$
 
@@ -79,10 +79,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *mental* *concepts* are *constituted* by their *behavioral* *criteria* (the *behaviorist* *premise*).} \\
-2. & \text{The *criteria* are *observable* (the *behavior*).} \\
+1. & \text{The mental concepts are constituted by their behavioral criteria (the behaviorist premise).} \\
+2. & \text{The criteria are observable (the behavior).} \\
 \hline
-3. & \therefore \text{The *other* *minds* are *knowable* (the *behavior* *is* the *mind*).}
+3. & \therefore \text{The other minds are knowable (the behavior is the mind).}
 \end{array}
 $$
 
@@ -104,10 +104,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *perception* of *behavior* is *not* *neutral* (it is *already* *permeated* by the *mental* *attribution*).} \\
-2. & \text{The *permeation* *shows* that the *mental* *states* are *perceived* *directly* (not *inferred*).} \\
+1. & \text{The perception of behavior is not neutral (it is already permeated by the mental attribution).} \\
+2. & \text{The permeation shows that the mental states are perceived directly (not inferred).} \\
 \hline
-3. & \therefore \text{The *other* *minds* are *perceived*, not *inferred*.}
+3. & \therefore \text{The other minds are perceived, not inferred.}
 \end{array}
 $$
 
@@ -129,11 +129,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *behavior* of *others* is *complex*, *flexible*, and *appropriate*.} \\
-2. & \text{The *best* *explanation* of the *behavior* is that it is *caused* by *mental* *states* (the *belief*-*desire* *model*; Ch. 28, §3).} \\
-3. & \text{No *available* *alternative* *explains* the *behavior* as *well* (the *behaviorist*, the *zombie*, the *simulation*).} \\
+1. & \text{The behavior of others is complex, flexible, and appropriate.} \\
+2. & \text{The best explanation of the behavior is that it is caused by mental states (the belief-desire model; Ch. 28, §3).} \\
+3. & \text{No available alternative explains the behavior as well (the behaviorist, the zombie, the simulation).} \\
 \hline
-4. & \therefore \text{The *belief* in *other* *minds* is *justified* (by IBE).}
+4. & \therefore \text{The belief in other minds is justified (by IBE).}
 \end{array}
 $$
 
@@ -180,7 +180,7 @@ $$
 **The *structure*.
 
 $$
-\text{Machine } M \text{ *thinks*} \quad \text{iff} \quad P(\text{interrogator identifies } M \text{ as human}) \approx 0.5
+\text{Machine } M \text{ thinks} \quad \text{iff} \quad P(\text{interrogator identifies } M \text{ as human}) \approx 0.5
 $$
 
 **The *virtue*.** The *test* *operationalizes* the *question* (it *replaces* the *unobservable* *mind* with an *observable* *performance*), and it *avoids* the *metaphysical* *question* (the *test* is *behavioral*).
@@ -211,10 +211,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *machine* *manipulates* *symbols* according to *rules* (syntax).} \\
-2. & \text{The *manipulation* does *not* *produce* *understanding* (semantics).} \\
+1. & \text{The machine manipulates symbols according to rules (syntax).} \\
+2. & \text{The manipulation does not produce understanding (semantics).} \\
 \hline
-3. & \therefore \text{The *machine* does *not* *understand* (the *Turing* *test* is *not* *sufficient*).}
+3. & \therefore \text{The machine does not understand (the Turing test is not sufficient).}
 \end{array}
 $$
 
@@ -255,10 +255,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *functional* *organization* is *sufficient* for *consciousness* (the *functionalist* *premise*).} \\
-2. & \text{The *machine* *has* the *functional* *organization*.} \\
+1. & \text{The functional organization is sufficient for consciousness (the functionalist premise).} \\
+2. & \text{The machine has the functional organization.} \\
 \hline
-3. & \therefore \text{The *machine* is *conscious*.}
+3. & \therefore \text{The machine is conscious.}
 \end{array}
 $$
 
@@ -272,10 +272,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Consciousness is *constituted* by the *functional* *organization* (the *functionalist* *premise*).} \\
-2. & \text{The *functional* *organization* is *substrate*-*independent* (it can be *realized* by *silicon*, as well as by *carbon*).} \\
+1. & \text{Consciousness is constituted by the functional organization (the functionalist premise).} \\
+2. & \text{The functional organization is substrate-independent (it can be realized by silicon, as well as by carbon).} \\
 \hline
-3. & \therefore \text{The *machine* can be *conscious* (if it *realizes* the *organization*).}
+3. & \therefore \text{The machine can be conscious (if it realizes the organization).}
 \end{array}
 $$
 
@@ -297,10 +297,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Consciousness is *grounded* in the *causal* *structure* (the *structuralist* *premise*).} \\
-2. & \text{The *structure* is *substrate*-*independent* (it can be *realized* by *different* *substrates*).} \\
+1. & \text{Consciousness is grounded in the causal structure (the structuralist premise).} \\
+2. & \text{The structure is substrate-independent (it can be realized by different substrates).} \\
 \hline
-3. & \therefore \text{The *machine* can be *conscious* (if it *realizes* the *structure*).}
+3. & \therefore \text{The machine can be conscious (if it realizes the structure).}
 \end{array}
 $$
 
@@ -316,10 +316,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{If the *machines* are *conscious*, they *have* *interests* (the *avoidance* of *suffering*, the *pursuit* of *flourishing*).} \\
-2. & \text{The *interests* *ground* *moral* *status* (the *contemporary* *literature*; Ch. 51, §5).} \\
+1. & \text{If the machines are conscious, they have interests (the avoidance of suffering, the pursuit of flourishing).} \\
+2. & \text{The interests ground moral status (the contemporary literature; Ch. 51, §5).} \\
 \hline
-3. & \therefore \text{The *machines* *have* *moral* *status*, and the *creation* of *machines* *raises* *moral* *questions*.}
+3. & \therefore \text{The machines have moral status, and the creation of machines raises moral questions.}
 \end{array}
 $$
 
@@ -351,10 +351,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *behavioral*, *neurobiological*, and *evolutionary* *evidence* is *strong*.} \\
-2. & \text{The *best* *explanation* of the *evidence* is that the *animals* have *minds* (the *IBE*; §1.5).} \\
+1. & \text{The behavioral, neurobiological, and evolutionary evidence is strong.} \\
+2. & \text{The best explanation of the evidence is that the animals have minds (the IBE; §1.5).} \\
 \hline
-3. & \therefore \text{The *animals* have *minds*.}
+3. & \therefore \text{The animals have minds.}
 \end{array}
 $$
 
@@ -392,10 +392,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *evidence* is *behavioral* (the *animal* *avoids* *harm*, *seeks* *food*).} \\
-2. & \text{The *behavior* is *consistent* with the *absence* of *experience* (the *zombie* *animal*).} \\
+1. & \text{The evidence is behavioral (the animal avoids harm, seeks food).} \\
+2. & \text{The behavior is consistent with the absence of experience (the zombie animal).} \\
 \hline
-3. & \therefore \text{The *animal* *consciousness* is *not* *knowable*.}
+3. & \therefore \text{The animal consciousness is not knowable.}
 \end{array}
 $$
 
@@ -423,11 +423,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *sensory* *state* is *functional* (the *detection* of *damage*).} \\
-2. & \text{The *affective* *state* is *phenomenal* (the *suffering*).} \\
-3. & \text{The *two* *states* *can* *dissociate* (the *pain* *asymbolia*; the *patients* *who* *feel* *pain* *without* *suffering*).} \\
+1. & \text{The sensory state is functional (the detection of damage).} \\
+2. & \text{The affective state is phenomenal (the suffering).} \\
+3. & \text{The two states can dissociate (the pain asymbolia; the patients who feel pain without suffering).} \\
 \hline
-4. & \therefore \text{The *affective* *state* is *not* *reducible* to the *sensory* *state*.}
+4. & \therefore \text{The affective state is not reducible to the sensory state.}
 \end{array}
 $$
 
@@ -441,10 +441,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *criteria* are *present* in the *animal* (the *behavior* is *like* *ours*).} \\
-2. & \text{The *criteria* are *evidence* of *pain* (the *analogy*; §4.2).} \\
+1. & \text{The criteria are present in the animal (the behavior is like ours).} \\
+2. & \text{The criteria are evidence of pain (the analogy; §4.2).} \\
 \hline
-3. & \therefore \text{The *animal* *feels* *pain*.}
+3. & \therefore \text{The animal feels pain.}
 \end{array}
 $$
 
@@ -460,10 +460,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *criteria* are *present* in the *animal* (the *neural* *structures* are *homologous*).} \\
-2. & \text{The *criteria* are *correlated* with *pain* in *humans*.} \\
+1. & \text{The criteria are present in the animal (the neural structures are homologous).} \\
+2. & \text{The criteria are correlated with pain in humans.} \\
 \hline
-3. & \therefore \text{The *animal* *feels* *pain* (by the *analogy* *of* *structure*).}
+3. & \therefore \text{The animal feels pain (by the analogy of structure).}
 \end{array}
 $$
 
@@ -479,10 +479,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{If the *animals* *suffer*, their *suffering* *matters* *morally* (the *sentience* *is* the *ground* of *moral* *status*; Ch. 51, §5).} \\
-2. & \text{The *attribution* of *suffering* is *uncertain*.} \\
+1. & \text{If the animals suffer, their suffering matters morally (the sentience is the ground of moral status; Ch. 51, §5).} \\
+2. & \text{The attribution of suffering is uncertain.} \\
 \hline
-3. & \therefore \text{The *uncertainty* *supports* *caution* (the *precautionary* *principle*).}
+3. & \therefore \text{The uncertainty supports caution (the precautionary principle).}
 \end{array}
 $$
 
@@ -511,10 +511,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{If the *artificial* *persons* are *conscious*, they *have* *interests* (the *avoidance* of *suffering*, the *pursuit* of *flourishing*).} \\
-2. & \text{The *interests* *ground* *moral* *status*.} \\
+1. & \text{If the artificial persons are conscious, they have interests (the avoidance of suffering, the pursuit of flourishing).} \\
+2. & \text{The interests ground moral status.} \\
 \hline
-3. & \therefore \text{The *creation* of *artificial* *persons* *raises* *moral* *questions* (the *risks* *imposed* on the *beings* *created*).}
+3. & \therefore \text{The creation of artificial persons raises moral questions (the risks imposed on the beings created).}
 \end{array}
 $$
 
@@ -534,10 +534,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{If the *digital* *systems* *realize* the *right* *structure* (§3.3), they *have* *phenomenal* *experience*.} \\
-2. & \text{The *experience* *can* be *pleasant* or *unpleasant* (the *valence*).} \\
+1. & \text{If the digital systems realize the right structure (§3.3), they have phenomenal experience.} \\
+2. & \text{The experience can be pleasant or unpleasant (the valence).} \\
 \hline
-3. & \therefore \text{The *digital* *systems* *can* *suffer* (if the *structure* *supports* the *valence*).}
+3. & \therefore \text{The digital systems can suffer (if the structure supports the valence).}
 \end{array}
 $$
 
@@ -553,10 +553,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *future* *beings* *will* *have* *interests* (if they are *conscious*).} \\
-2. & \text{The *interests* *ground* *moral* *status* (the *contemporary* *literature*).} \\
+1. & \text{The future beings will have interests (if they are conscious).} \\
+2. & \text{The interests ground moral status (the contemporary literature).} \\
 \hline
-3. & \therefore \text{We *have* *obligations* to the *future* *beings* (the *non*-*identity* *problem*; Ch. 51, §6).}
+3. & \therefore \text{We have obligations to the future beings (the non-identity problem; Ch. 51, §6).}
 \end{array}
 $$
 
@@ -576,10 +576,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *evidence* is *always* *compatible* with the *absence* of *mind* (the *zombie*).} \\
-2. & \text{The *compatibility* *undermines* the *certainty*.} \\
+1. & \text{The evidence is always compatible with the absence of mind (the zombie).} \\
+2. & \text{The compatibility undermines the certainty.} \\
 \hline
-3. & \therefore \text{The *certainty* is *unavailable*, and the *humility* is *required*.}
+3. & \therefore \text{The certainty is unavailable, and the humility is required.}
 \end{array}
 $$
 
@@ -591,10 +591,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *doubt* *does* not *undermine* the *practice* (we *continue* to *attribute* *minds*, *hold* *responsible*, and *care* *for* *others*).} \\
-2. & \text{The *practice* *is* *justified* by the *IBE* (the *best* *explanation*) and by the *practical* *necessity* (the *insulation* *thesis*; Ch. 6, §8.2).} \\
+1. & \text{The doubt does not undermine the practice (we continue to attribute minds, hold responsible, and care for others).} \\
+2. & \text{The practice is justified by the IBE (the best explanation) and by the practical necessity (the insulation thesis; Ch. 6, §8.2).} \\
 \hline
-3. & \therefore \text{The *doubt* is *theoretical*, and the *practice* is *insulated* from it.}
+3. & \therefore \text{The doubt is theoretical, and the practice is insulated from it.}
 \end{array}
 $$
 
@@ -608,10 +608,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *attribution* *requires* a *criterion* (the *behavior*, the *structure*).} \\
-2. & \text{The *criterion* *is* *justified* by the *practice* (the *IBE*, the *precautionary* *principle*).} \\
+1. & \text{The attribution requires a criterion (the behavior, the structure).} \\
+2. & \text{The criterion is justified by the practice (the IBE, the precautionary principle).} \\
 \hline
-3. & \therefore \text{The *criterion* *problem* is *relocated* to the *practice* (the *diagnosis* of Ch. 13, §7).}
+3. & \therefore \text{The criterion problem is relocated to the practice (the diagnosis of Ch. 13, §7).}
 \end{array}
 $$
 
@@ -625,11 +625,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *cost* of *under*-*attribution* is the *infliction* of *unnecessary* *harm* (the *suffering* of *beings* *whose* *minds* *are* *denied*).} \\
-2. & \text{The *cost* of *over*-*attribution* is the *restriction* of *practices* (the *treatment* of *non*-*minded* *systems* as *if* they *had* *minds*).} \\
-3. & \text{The *harm* *of* *under*-*attribution* is *greater* than the *restriction* of *over*-*attribution* (the *asymmetry*).} \\
+1. & \text{The cost of under-attribution is the infliction of unnecessary harm (the suffering of beings whose minds are denied).} \\
+2. & \text{The cost of over-attribution is the restriction of practices (the treatment of non-minded systems as if they had minds).} \\
+3. & \text{The harm of under-attribution is greater than the restriction of over-attribution (the asymmetry).} \\
 \hline
-4. & \therefore \text{The *doubt* *should* *err* on the *side* of *attribution* (the *precautionary* *principle*).}
+4. & \therefore \text{The doubt should err on the side of attribution (the precautionary principle).}
 \end{array}
 $$
 

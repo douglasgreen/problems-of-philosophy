@@ -30,12 +30,12 @@ The *starting point* of the modern debate is Kant's *Critique of Pure Reason*, a
 
 $$
 \begin{array}{ll}
-1. & \text{A *real* predicate adds to the *concept* of the subject.} \\
-2. & \text{The *concept* of a thing is *complete* before we ask whether it *exists*.} \\
-3. & \text{If existence were a *real* predicate, the *concept* of a *nonexistent* thing would be *incomplete*, and the *addition* of existence would *change* the *concept*.} \\
-4. & \text{But the *concept* of a *hundred* *thalers* is the *same* whether they *exist* or not.} \\
+1. & \text{A real predicate adds to the concept of the subject.} \\
+2. & \text{The concept of a thing is complete before we ask whether it exists.} \\
+3. & \text{If existence were a real predicate, the concept of a nonexistent thing would be incomplete, and the addition of existence would change the concept.} \\
+4. & \text{But the concept of a hundred thalers is the same whether they exist or not.} \\
 \hline
-5. & \therefore \text{Existence is *not* a *real* predicate.}
+5. & \therefore \text{Existence is not a real predicate.}
 \end{array}
 $$
 
@@ -141,12 +141,12 @@ Bertrand Russell’s “On Denoting” (1905) is the *most* *famous* *critique* 
 
 $$
 \begin{array}{ll}
-1. & \text{Meinong: “the round square” is an *object* that is *both* round and square.} \\
-2. & \text{“The round square is square” is *true* (by Meinong’s *principle*).} \\
-3. & \text{“The round square is not square” is *also* *true* (it is *round*, and nothing can be both a *square* and *not* a *square* … or so Russell *argues*).} \\
-4. & \text{The *contradiction* is *unacceptable*.} \\
+1. & \text{Meinong: “the round square” is an object that is both round and square.} \\
+2. & \text{“The round square is square” is true (by Meinong’s principle).} \\
+3. & \text{“The round square is not square” is also true (it is round, and nothing can be both a square and not a square … or so Russell argues).} \\
+4. & \text{The contradiction is unacceptable.} \\
 \hline
-5. & \therefore \text{Meinong’s *theory* is *false*.}
+5. & \therefore \text{Meinong’s theory is false.}
 \end{array}
 $$
 
@@ -250,12 +250,12 @@ The *most* *serious* *objection* to Quine’s *criterion* is the **translation**
 
 $$
 \begin{array}{ll}
-1. & \text{Ontological commitment is a *property* of a *theory* *in* a *regimented* *language*.} \\
-2. & \text{A *theory* can be *regimented* in *different* *ways*, with *different* *ontologies*.} \\
-3. & \text{Example: *arithmetic* can be *regimented* with *numbers* ($\exists n\, \mathrm{Prime}(n)$) or with *sets* ($\exists s\,(\mathrm{Set}(s) \wedge \ldots)$).} \\
-4. & \text{The *two* *regimentations* are *equivalent* (they *entail* the *same* *observational* *consequences*).} \\
+1. & \text{Ontological commitment is a property of a theory in a regimented language.} \\
+2. & \text{A theory can be regimented in different ways, with different ontologies.} \\
+3. & \text{Example: arithmetic can be regimented with numbers ($\exists n\, \mathrm{Prime}(n)$) or with sets ($\exists s\,(\mathrm{Set}(s) \wedge \ldots)$).} \\
+4. & \text{The two regimentations are equivalent (they entail the same observational consequences).} \\
 \hline
-5. & \therefore \text{The *ontology* is *not* *determined* by the *theory*; it is *determined* by the *translation*.}
+5. & \therefore \text{The ontology is not determined by the theory; it is determined by the translation.}
 \end{array}
 $$
 
@@ -277,10 +277,10 @@ The *most* *influential* *application* of *Quine’s* *criterion* is the **indis
 
 $$
 \begin{array}{ll}
-1. & \text{We ought to have *ontological* *commitment* to all and only the *entities* that are *indispensable* to our *best* *scientific* *theories*.} \\
-2. & \text{Mathematical entities (numbers, sets, functions) are *indispensable* to our *best* *scientific* *theories*.} \\
+1. & \text{We ought to have ontological commitment to all and only the entities that are indispensable to our best scientific theories.} \\
+2. & \text{Mathematical entities (numbers, sets, functions) are indispensable to our best scientific theories.} \\
 \hline
-3. & \therefore \text{We ought to have *ontological* *commitment* to *mathematical* *entities*.}
+3. & \therefore \text{We ought to have ontological commitment to mathematical entities.}
 \end{array}
 $$
 
@@ -346,11 +346,11 @@ The *opposite* *pole* to *Ockham* is the *“ethics* *of* *multiplication”* �
 
 $$
 \begin{array}{ll}
-1. & \text{Parsimony is a *virtue* only if it *tracks* *truth*.} \\
-2. & \text{The *tracking* is *not* *guaranteed}: some *true* *theories* are *complex*, and some *simple* *theories* are *false*.} \\
-3. & \text{The *choice* *between* *simple* and *complex* *theories* is an *IBE*, and the *IBE* *weighs* *parsimony* against the *other* *virtues*.} \\
+1. & \text{Parsimony is a virtue only if it tracks truth.} \\
+2. & \text{The tracking is not guaranteed: some true theories are complex, and some simple theories are false.} \\
+3. & \text{The choice between simple and complex theories is an IBE, and the IBE weighs parsimony against the other virtues.} \\
 \hline
-4. & \therefore \text{The *multiplication* is *justified* when the *explanatory* *gain* *outweighs* the *ontological* *cost*.}
+4. & \therefore \text{The multiplication is justified when the explanatory gain outweighs the ontological cost.}
 \end{array}
 $$
 
@@ -364,11 +364,11 @@ The *most* *radical* *critique* of *parsimony* is due to Michael Huemer (“When
 
 $$
 \begin{array}{ll}
-1. & \text{There is *no* *evidence* that the *world* is *simple*.} \\
-2. & \text{The *history* of *science* shows that the *world* is *more* *complex* than the *simple* *theories* *predicted* (quantum mechanics, relativity, evolution).} \\
-3. & \text{The *virtue* of *parsimony* is *not* *truth-conducive*; it is a *heuristic* *for* *theory* *construction*.} \\
+1. & \text{There is no evidence that the world is simple.} \\
+2. & \text{The history of science shows that the world is more complex than the simple theories predicted (quantum mechanics, relativity, evolution).} \\
+3. & \text{The virtue of parsimony is not truth-conducive; it is a heuristic for theory construction.} \\
 \hline
-4. & \therefore \text{Parsimony is *not* a *guide* to *truth*.}
+4. & \therefore \text{Parsimony is not a guide to truth.}
 \end{array}
 $$
 
@@ -388,11 +388,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Discourse } D \text{ is *useful* and *indispensable*.} \\
-2. & \text{The *literal* *interpretation* of } D \text{ *requires* *entities* we *do* not *want* to *posit*.} \\
-3. & \text{The *fictionalist* *treats* } D \text{ as a *fiction*: the *sentences* are *not* *true*, but they are *useful* *for* *prediction*, *explanation*, and *communication*.} \\
+1. & \text{Discourse } D \text{ is useful and indispensable.} \\
+2. & \text{The literal interpretation of } D \text{ requires entities we do not want to posit.} \\
+3. & \text{The fictionalist treats } D \text{ as a fiction: the sentences are not true, but they are useful for prediction, explanation, and communication.} \\
 \hline
-4. & \therefore \text{We *accept* } D \text{ without *ontological* *commitment*.}
+4. & \therefore \text{We accept } D \text{ without ontological commitment.}
 \end{array}
 $$
 
@@ -454,10 +454,10 @@ The *meta*-debate *about* ontology is a *debate* *about* the *nature* of the *in
 
 $$
 \begin{array}{ll}
-1. & \text{The *only* *standards* of *inquiry* are the *standards* of *empirical* *science*.} \\
-2. & \text{Ontology is a *form* of *inquiry*.} \\
+1. & \text{The only standards of inquiry are the standards of empirical science.} \\
+2. & \text{Ontology is a form of inquiry.} \\
 \hline
-3. & \therefore \text{The *standards* of *ontology* are the *standards* of *science*.}
+3. & \therefore \text{The standards of ontology are the standards of science.}
 \end{array}
 $$
 
@@ -473,11 +473,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Science *describes* the *world* at *many* *levels* (physics, chemistry, biology, psychology).} \\
-2. & \text{The *description* *presupposes* a *structure*: some *things* are *more* *fundamental* than *others*.} \\
-3. & \text{The *structure* is *not* *itself* a *scientific* *claim*; it is a *metaphysical* *claim*.} \\
+1. & \text{Science describes the world at many levels (physics, chemistry, biology, psychology).} \\
+2. & \text{The description presupposes a structure: some things are more fundamental than others.} \\
+3. & \text{The structure is not itself a scientific claim; it is a metaphysical claim.} \\
 \hline
-4. & \therefore \text{Ontology is the *study* of the *structure*, and it is *not* *continuous* with *science*.}
+4. & \therefore \text{Ontology is the study of the structure, and it is not continuous with science.}
 \end{array}
 $$
 
@@ -497,11 +497,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{A *framework* is a *system* of *linguistic* *rules* that *introduces* a *domain* *of* *entities*.} \\
-2. & \text{An *internal* *question* (“are there *numbers*?”) is *answered* *within* the *framework* (by the *rules*).} \\
-3. & \text{An *external* *question* (“are there *really* *numbers*?”) is *not* a *theoretical* *question*; it is a *practical* *question* *about* *which* *framework* to *adopt*.} \\
+1. & \text{A framework is a system of linguistic rules that introduces a domain of entities.} \\
+2. & \text{An internal question (“are there numbers?”) is answered within the framework (by the rules).} \\
+3. & \text{An external question (“are there really numbers?”) is not a theoretical question; it is a practical question about which framework to adopt.} \\
 \hline
-4. & \therefore \text{Ontological *questions* are *either* *trivial* *or* *pragmatic*.}
+4. & \therefore \text{Ontological questions are either trivial or pragmatic.}
 \end{array}
 $$
 
@@ -529,11 +529,11 @@ The *method* of *ontology* is *inference* to the *best* *theory* — the *same* 
 
 $$
 \begin{array}{ll}
-1. & \text{The *candidate* *theories* are *compared* on the *criteria*: simplicity, strength, explanatory power, conservatism, coherence with science.} \\
-2. & \text{The *comparison* is *holistic*: no *single* *criterion* is *decisive*.} \\
-3. & \text{The *best* *theory* is the one that *scores* *best* *overall*.} \\
+1. & \text{The candidate theories are compared on the criteria: simplicity, strength, explanatory power, conservatism, coherence with science.} \\
+2. & \text{The comparison is holistic: no single criterion is decisive.} \\
+3. & \text{The best theory is the one that scores best overall.} \\
 \hline
-4. & \therefore \text{The *ontology* is *justified* by the *overall* *virtues* of the *theory*.}
+4. & \therefore \text{The ontology is justified by the overall virtues of the theory.}
 \end{array}
 $$
 

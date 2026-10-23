@@ -31,7 +31,7 @@ The *chapter* proceeds in *nine* *movements*. §1 examines the *Humean* *theory*
 **The *structure***.
 
 $$
-\text{Motivating reason} \ = \ \langle \text{belief (the *means*)}, \ \text{desire (the *end*)} \rangle
+\text{Motivating reason} \ = \ \langle \text{belief (the means)}, \ \text{desire (the end)} \rangle
 $$
 
 **The *components***.
@@ -59,11 +59,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Having a *motivating* *reason* is, inter alia, *having* a *goal* (the *purposive* *state*).} \\
-2. & \text{Having a *goal* is being in a *state* with which the *world* *must* *fit* (the *world*-to-*mind* *direction*).} \\
-3. & \text{Being in such a *state* is *desiring* that } p \ (\text{the *conative* *state}). \\
+1. & \text{Having a motivating reason is, inter alia, having a goal (the purposive state).} \\
+2. & \text{Having a goal is being in a state with which the world must fit (the world-to-mind direction).} \\
+3. & \text{Being in such a state is desiring that } p \ (\text{the conative state}). \\
 \hline
-4. & \therefore \text{The *motivating* *reason* *involves* the *desire* (the *Humean* *thesis*).}
+4. & \therefore \text{The motivating reason involves the desire (the Humean thesis).}
 \end{array}
 $$
 
@@ -80,18 +80,18 @@ $$
 **The *structure***.
 
 $$
-\text{Moral judgment} \ = \ \text{a state with both the *belief* content and the *desire* direction of fit}
+\text{Moral judgment} \ = \ \text{a state with both the belief content and the desire direction of fit}
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *moral* *judgment* *represents* the *fact* (the *belief*-*like* *content*).} \\
-2. & \text{The *moral* *judgment* *disposes* the *agent* to the *action* (the *desire*-*like* *direction*).} \\
-3. & \text{The *judgment* is *indivisible* (the *representation* *and* the *disposition* *are* *one* *state*).} \\
+1. & \text{The moral judgment represents the fact (the belief-like content).} \\
+2. & \text{The moral judgment disposes the agent to the action (the desire-like direction).} \\
+3. & \text{The judgment is indivisible (the representation and the disposition are one state).} \\
 \hline
-4. & \therefore \text{The *besire* *exists* (the *refutation* of the *Humean* *distinctness*).}
+4. & \therefore \text{The besire exists (the refutation of the Humean distinctness).}
 \end{array}
 $$
 
@@ -106,18 +106,18 @@ $$
 **The *structure***.
 
 $$
-\text{Motivating reason} \ = \ \text{the *fact*} \ (\text{the state of affairs}) \ \text{that} \ \text{counts in favor of the action}
+\text{Motivating reason} \ = \ \text{the fact} \ (\text{the state of affairs}) \ \text{that} \ \text{counts in favor of the action}
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *agent* *acts* *for* a *reason* (the *reason* *explains* the *action*).} \\
-2. & \text{The *reason* *is* the *fact* (the *child* *is* *drowning*), not the *belief* or the *desire* (the *externalism* of the *reasons*).} \\
-3. & \text{The *belief* *in* the *normative* *fact* *can* *motivate* (the *fact* *presents* the *action* *as* *called* *for*).} \\
+1. & \text{The agent acts for a reason (the reason explains the action).} \\
+2. & \text{The reason is the fact (the child is drowning), not the belief or the desire (the externalism of the reasons).} \\
+3. & \text{The belief in the normative fact can motivate (the fact presents the action as called for).} \\
 \hline
-4. & \therefore \text{The *belief* *can* *motivate* (the *pure* *cognitivism*), and the *Humean* *theory* *fails* (the *no*-*desire* *thesis*).}
+4. & \therefore \text{The belief can motivate (the pure cognitivism), and the Humean theory fails (the no-desire thesis).}
 \end{array}
 $$
 
@@ -188,11 +188,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *moral* *judgments* are *practical* (they *tell* the *agent* what to *do*; the *action*-*guiding* *nature*).} \\
-2. & \text{The *practical* *judgments* *would* be *intolerably* *queer* if they *did* not *motivate* (the *sincerity* *condition*: the *judgment* *without* the *motivation* *is* *insincere*).} \\
-3. & \text{The *sincerity* *condition* *requires* the *internal* *connection* (the *judgment* *motivates* *by* *its* *nature*).} \\
+1. & \text{The moral judgments are practical (they tell the agent what to do; the action-guiding nature).} \\
+2. & \text{The practical judgments would be intolerably queer if they did not motivate (the sincerity condition: the judgment without the motivation is insincere).} \\
+3. & \text{The sincerity condition requires the internal connection (the judgment motivates by its nature).} \\
 \hline
-4. & \therefore \text{The *MJI* *is* *true* (the *internalism* *insight*).}
+4. & \therefore \text{The MJI is true (the internalism insight).}
 \end{array}
 $$
 
@@ -208,11 +208,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *amoralist* *is* *conceivable* (the *judgment* *without* the *motivation*).} \\
-2. & \text{The *amoralist* *is* *actual* (the *psychopath*, the *sociopath*).} \\
-3. & \text{The *MJI* *denies* the *possibility* (the *necessary* *connection*).} \\
+1. & \text{The amoralist is conceivable (the judgment without the motivation).} \\
+2. & \text{The amoralist is actual (the psychopath, the sociopath).} \\
+3. & \text{The MJI denies the possibility (the necessary connection).} \\
 \hline
-4. & \therefore \text{The *MJI* *is* *false* (the *externalism* *insight*).}
+4. & \therefore \text{The MJI is false (the externalism insight).}
 \end{array}
 $$
 
@@ -287,18 +287,18 @@ $$
 **The *structure***.
 
 $$
-\text{Reason for } A \text{ to } \phi \ \iff \ \text{the *sound* *deliberative* *route* from } S_A \text{ *yields* the *motivation* to } \phi
+\text{Reason for } A \text{ to } \phi \ \iff \ \text{the sound deliberative route from } S_A \text{ yields the motivation to } \phi
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{A *reason* must be *able* to *explain* the *action* (the *explanatory* *constraint*).} \\
-2. & \text{The *explanation* *requires* the *motivation* (the *action* *is* *explained* *by* the *motive*).} \\
-3. & \text{The *motivation* *requires* the *S* (the *agent*'s *existing* *desires*, *dispositions*, *projects*).} \\
+1. & \text{A reason must be able to explain the action (the explanatory constraint).} \\
+2. & \text{The explanation requires the motivation (the action is explained by the motive).} \\
+3. & \text{The motivation requires the S (the agent's existing desires, dispositions, projects).} \\
 \hline
-4. & \therefore \text{The *reason* *must* be *internal* (the *Williams* *insight*), and the *external* *reasons* are *obscure* (the *bluff*).}
+4. & \therefore \text{The reason must be internal (the Williams insight), and the external reasons are obscure (the bluff).}
 \end{array}
 $$
 
@@ -349,18 +349,18 @@ $$
 **The *structure***.
 
 $$
-\text{Exclusionary reason} \ e \ \text{excludes} \ r \ \text{as a reason to } \phi \ (\text{the *second*-*order* role})
+\text{Exclusionary reason} \ e \ \text{excludes} \ r \ \text{as a reason to } \phi \ (\text{the second-order role})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *practical* *reasoning* *excludes* the *reasons* (the *promise* *excludes* the *countervailing* *inclinations*).} \\
-2. & \text{The *exclusion* *is* *not* the *weighing* (the *balance* *of* *strength*), but the *exclusion* (the *second*-*order* *role*).} \\
-3. & \text{The *structure* *explains* the *authority* (the *law*, the *promise*, the *command*).} \\
+1. & \text{The practical reasoning excludes the reasons (the promise excludes the countervailing inclinations).} \\
+2. & \text{The exclusion is not the weighing (the balance of strength), but the exclusion (the second-order role).} \\
+3. & \text{The structure explains the authority (the law, the promise, the command).} \\
 \hline
-4. & \therefore \text{The *exclusionary* *reasons* are *real* (the *Raz* *insight*).}
+4. & \therefore \text{The exclusionary reasons are real (the Raz insight).}
 \end{array}
 $$
 
@@ -410,11 +410,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *moral* *responsibility* *requires* the *control*} \ (\text{the *CP*}). \\
-2. & \text{The *moral* *judgment* *depends* on the *factors* *beyond* the *control* (the *outcome*, the *circumstance*, the *character*, the *causes*).} \\
-3. & \text{The *two* *are* *incompatible* (the *paradox*). \\
+1. & \text{The moral responsibility requires the control} \ (\text{the CP}). \\
+2. & \text{The moral judgment depends on the factors beyond the control (the outcome, the circumstance, the character, the causes).} \\
+3. & \text{The two are incompatible (the paradox).} \\
 \hline
-4. & \therefore \text{The *responsibility* *collapses* (the *luck* *pessimism*), or the *CP* *is* *false* (the *luck* *realism*), or the *moral* *judgment* is *not* the *responsibility* *judgment* (the *dissolution*).}
+4. & \therefore \text{The responsibility collapses (the luck pessimism), or the CP is false (the luck realism), or the moral judgment is not the responsibility judgment (the dissolution).}
 \end{array}
 $$
 
@@ -435,11 +435,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *responsibility* *has* *two* *faces* (the *attributability* and the *accountability*).} \\
-2. & \text{The *luck* *affects* the *accountability* (the *resultant* *luck*: the *blame* *depends* on the *outcome*) and *not* the *attributability* (the *quality* of *will* *is* *the* *same*).} \\
-3. & \text{The *two* *faces* *are* *distinct* (the *dissolution* of the *paradox*).} \\
+1. & \text{The responsibility has two faces (the attributability and the accountability).} \\
+2. & \text{The luck affects the accountability (the resultant luck: the blame depends on the outcome) and not the attributability (the quality of will is the same).} \\
+3. & \text{The two faces are distinct (the dissolution of the paradox).} \\
 \hline
-4. & \therefore \text{The *moral* *luck* is *real* (the *accountability*) and *not* *fatal* (the *attributability*), and the *responsibility* *survives* (the *Watson* *insight*).}
+4. & \therefore \text{The moral luck is real (the accountability) and not fatal (the attributability), and the responsibility survives (the Watson insight).}
 \end{array}
 $$
 
@@ -454,18 +454,18 @@ $$
 **The *structure***.
 
 $$
-R(A, \phi) \ \text{via the ignorance} \ \iff \ \text{the *ignorance* is *traced* to the *earlier* *benighting* *act} \ \psi \ \text{for which} \ A \ \text{is responsible}
+R(A, \phi) \ \text{via the ignorance} \ \iff \ \text{the ignorance is traced to the earlier benighting act} \ \psi \ \text{for which} \ A \ \text{is responsible}
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *agent* *who* *acts* *from* the *non*-*culpable* *ignorance* *is* *not* *responsible* (the *epistemic* *excuse*).} \\
-2. & \text{The *agent* *who* *acted* *carelessly* *earlier* (the *benighting* *act*) *is* *responsible* *for* the *later* *ignorance* (the *tracing*).} \\
-3. & \text{The *tracing* *preserves* the *responsibility* *without* the *occurrent* *knowledge* (the *trace* *insight*).} \\
+1. & \text{The agent who acts from the non-culpable ignorance is not responsible (the epistemic excuse).} \\
+2. & \text{The agent who acted carelessly earlier (the benighting act) is responsible for the later ignorance (the tracing).} \\
+3. & \text{The tracing preserves the responsibility without the occurrent knowledge (the trace insight).} \\
 \hline
-4. & \therefore \text{The *responsibility* *is* *grounded* in the *benighting* *acts* (the *tracing* *insight*).}
+4. & \therefore \text{The responsibility is grounded in the benighting acts (the tracing insight).}
 \end{array}
 $$
 
@@ -488,18 +488,18 @@ $$
 **The *structure***.
 
 $$
-\text{Affected ignorance} \ = \ \text{the *avoidance* of the knowledge that the *agent* *could* *have} \ (\text{the *motivated* *blindness*})
+\text{Affected ignorance} \ = \ \text{the avoidance of the knowledge that the agent could have} \ (\text{the motivated blindness})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *moral* *ignorance* *is* *often* *motivated* (the *agent* *benefits* from *not* *knowing*).} \\
-2. & \text{The *motivated* *ignorance* *is* *not* *innocent* (the *agent* *is* *responsible* for the *avoidance*).} \\
-3. & \text{The *structures* *produce* the *ignorance* (the *social* *epistemology*: the *hermeneutical* *injustice*; the *testimonial* *injustice*; Ch. 11, §4).} \\
+1. & \text{The moral ignorance is often motivated (the agent benefits from not knowing).} \\
+2. & \text{The motivated ignorance is not innocent (the agent is responsible for the avoidance).} \\
+3. & \text{The structures produce the ignorance (the social epistemology: the hermeneutical injustice; the testimonial injustice; Ch. 11, §4).} \\
 \hline
-4. & \therefore \text{The *responsibility* *extends* to the *ignorance* (the *affected* *ignorance* *insight*), and the *epistemic* *condition* *is* *social* (the *social* *insight*).}
+4. & \therefore \text{The responsibility extends to the ignorance (the affected ignorance insight), and the epistemic condition is social (the social insight).}
 \end{array}
 $$
 
@@ -550,18 +550,18 @@ $$
 **The *structure***.
 
 $$
-\text{Emotion} \ E \ = \ \text{the *judgment* that} \ V \ \text{matters (the *value* *judgment*)} \ + \ \text{the *bodily* *arousal* (the *affect*)} + \ \text{the *action* *tendency*}
+\text{Emotion} \ E \ = \ \text{the judgment that} \ V \ \text{matters (the value judgment)} \ + \ \text{the bodily arousal (the affect)} + \ \text{the action tendency}
 $$
 
 **The *argument*** (Nussbaum 2001, Ch. 1).
 
 $$
 \begin{array}{ll}
-1. & \text{The *emotions* *have* the *intentional* *objects* (the *grief* *is* *about* the *loss*; the *anger* *is* *about* the *wrong*).} \\
-2. & \text{The *intentional* *objects* *are* *evaluated* (the *loss* *is* *seen* *as* *the* *loss*; the *wrong* *is* *seen* *as* the *wrong*).} \\
-3. & \text{The *evaluation* *is* the *judgment* *of* *value* (the *propositional* *content*, the *appraisal*).} \\
+1. & \text{The emotions have the intentional objects (the grief is about the loss; the anger is about the wrong).} \\
+2. & \text{The intentional objects are evaluated (the loss is seen as the loss; the wrong is seen as the wrong).} \\
+3. & \text{The evaluation is the judgment of value (the propositional content, the appraisal).} \\
 \hline
-4. & \therefore \text{The *emotions* *are* *value* *judgments* (the *cognitive* *insight*), and they *can* be *rational* (the *rational* *insight*).}
+4. & \therefore \text{The emotions are value judgments (the cognitive insight), and they can be rational (the rational insight).}
 \end{array}
 $$
 
@@ -578,7 +578,7 @@ $$
 **The *structure***.
 
 $$
-\text{Fittingness} \ (\text{the *value* *fits* the *emotion}) \quad \neq \quad \text{Warrant} \ (\text{the *evidence* *supports* the *emotion})
+\text{Fittingness} \ (\text{the value fits the emotion}) \quad \neq \quad \text{Warrant} \ (\text{the evidence supports the emotion})
 $$
 
 **The *significance***. The *distinction* *grounds* the *emotion* *critique* (the *emotion* *is* *unfitting*, *unreliable*, *misfocused*), and it *explains* the *recalcitrance* (the *phobia* *persists*), and it *connects* the *emotion* to the *rationality* (the *fittingness* *is* the *evaluative* *norm*; §5.1).
@@ -590,7 +590,7 @@ $$
 **The *structure***.
 
 $$
-\text{Empathy} \ \rightarrow \ \text{the *altruistic* *motivation*} \ (\text{the *ultimate* *goal*: the *welfare* of the *other*})
+\text{Empathy} \ \rightarrow \ \text{the altruistic motivation} \ (\text{the ultimate goal: the welfare of the other})
 $$
 
 **The *evidence***. The *Batson* *experiments*: the *high*-*empathy* *subjects* *help* *even* *when* the *helping* *does* *not* *relieve* *their* *own* *distress* (the *easy* *escape* *condition*), and the *helping* *persists* (the *altruistic* *insight*), and the *egoistic* *alternative* (the *Cialdini* *negative*-*state* *relief* *model*) *cannot* *explain* the *high*-*empathy* *helping* (the *reply* *is* *contested*).
@@ -608,11 +608,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *empathy* *is* a *spotlight* (the *narrow*, *vivid*, *parochial* *illumination*).} \\
-2. & \text{The *morality* *requires* the *impartial* *aggregation* (the *numbers*, the *distance*, the *strangers*).} \\
-3. & \text{The *empathy* *misleads* the *moral* *judgment* (the *identifiable* *victim*, the *in-group*).} \\
+1. & \text{The empathy is a spotlight (the narrow, vivid, parochial illumination).} \\
+2. & \text{The morality requires the impartial aggregation (the numbers, the distance, the strangers).} \\
+3. & \text{The empathy misleads the moral judgment (the identifiable victim, the in-group).} \\
 \hline
-4. & \therefore \text{The *empathy* *is* *not* the *moral* *compass* (the *Bloom* *insight*), and the *reason* *must* *correct* the *empathy* (the *rationalist* *insight*).}
+4. & \therefore \text{The empathy is not the moral compass (the Bloom insight), and the reason must correct the empathy (the rationalist insight).}
 \end{array}
 $$
 
@@ -663,7 +663,7 @@ $$
 **The *structure***.
 
 $$
-\text{Akrasia} \ \text{is *impossible*}: \ \Box \neg \big( \text{the agent *knows* that } \phi \text{ is worse and *chooses* } \phi \text{ over } \psi \text{ (better)} \big)
+\text{Akrasia} \ \text{is impossible}: \ \Box \neg \big( \text{the agent knows that } \phi \text{ is worse and chooses } \phi \text{ over } \psi \text{ (better)} \big)
 $$
 
 **The *significance*.** The *paradox* *defines* the *problem* (the *weakness* of *will*), and the *denial* is *counterintuitive* (the *akrasia* *is* *experienced*), and the *debate* *is* *the* *history* of the *reply*.
@@ -675,7 +675,7 @@ $$
 **The *structure***.
 
 $$
-\text{Akrasia} = \text{the *universal* knowledge *present* but the *particular* premise *obscured* (the *passion*)}
+\text{Akrasia} = \text{the universal knowledge present but the particular premise obscured (the passion)}
 $$
 
 **The *significance***. The *reply* *preserves* the *knowledge* (the *no* *ignorance* *of* the *universal*) and *explains* the *failure* (the *particular*), and it *grounds* the *continence* (the *enkrateia*: the *victory* of the *judgment* *over* the *appetite*), and it *fits* the *experience* (the *drunk* *recites* *Empedocles*).
@@ -690,7 +690,7 @@ $$
 \begin{array}{ll}
 J_1: & (\text{all things considered}) \ \phi \ \text{is better than} \ \psi \\
 J_2: & (\text{unconditional, here and now}) \ \psi \ \text{is better than} \ \phi \\
-& \text{The *agent* *acts* *on*} \ J_2 \ (\text{the *akratic* *action*}), \ \text{and} \ J_1 \ \text{and} \ J_2 \ \text{are *logically* *consistent*} \ (\text{the *conditional*} \ vs. \ \text{the *unconditional*})
+& \text{The agent acts on} \ J_2 \ (\text{the akratic action}), \ \text{and} \ J_1 \ \text{and} \ J_2 \ \text{are logically consistent} \ (\text{the conditional} \ vs. \ \text{the unconditional})
 \end{array}
 $$
 
@@ -698,11 +698,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *akratic* *action* *is* *intentional* (the *agent* *does* it *for* *reasons*).} \\
-2. & \text{The *intentional* *action* *is* *better* *in* *the* *light* *of* *the* *agent*'s *reasons* (the *unconditional* *judgment*).} \\
-3. & \text{The *unconditional* *judgment* *is* *consistent* *with* the *all*-*things*-*considered* *judgment* (the *logical* *point*).} \\
+1. & \text{The akratic action is intentional (the agent does it for reasons).} \\
+2. & \text{The intentional action is better in the light of the agent's reasons (the unconditional judgment).} \\
+3. & \text{The unconditional judgment is consistent with the all-things-considered judgment (the logical point).} \\
 \hline
-4. & \therefore \text{The *akrasia* *is* *possible* *without* *the* *contradiction* (the *Davidson* *insight*).}
+4. & \therefore \text{The akrasia is possible without the contradiction (the Davidson insight).}
 \end{array}
 $$
 
@@ -737,7 +737,7 @@ $$
 **The *structure***.
 
 $$
-\text{Self-control} \ = \ \text{the *inner* *effort*} \ + \ \text{the *external* *scaffolding*} \ (\text{the *plans*, the *habits*, the *situations*, the *commitments*, the *social* *support})
+\text{Self-control} \ = \ \text{the inner effort} \ + \ \text{the external scaffolding} \ (\text{the plans, the habits, the situations, the commitments, the social support})
 $$
 
 **The *significance***. The *thesis* *answers* the *situationist* *challenge* (the *situation* *is* *not* *the* *enemy* *of* the *character*; it *is* the *material* of the *character*; Ch. 45, §3.4), and it *grounds* the *virtue* in the *practice* (the *habituation*, the *design*), and it *fits* the *empirical* *evidence* (the *implementation* *intentions*, the *habits*).
@@ -771,7 +771,7 @@ $$
 **The *structure***.
 
 $$
-\text{Implicit bias} \ = \ \text{the automatic association} \ (\text{the *group*} \leftrightarrow \ \text{the *attribute*}) \ \text{that shapes the response without the awareness}
+\text{Implicit bias} \ = \ \text{the automatic association} \ (\text{the group} \leftrightarrow \ \text{the attribute}) \ \text{that shapes the response without the awareness}
 $$
 
 **The *significance*.** The *bias* *challenges* the *account* of the *responsibility* (the *agent* *acts* *from* the *bias* *without* *knowing*; §4.3), and it *challenges* the *virtue* *ethics* (the *character* *is* *not* *transparent* to the *agent*), and it *connects* the *moral* *psychology* to the *social* *epistemology* (Ch. 11, §4) and to the *political* *philosophy* (Ch. 47, §2).
@@ -802,11 +802,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *responsibility* *is* the *attributability* (the *action* *expresses* the *agent*'s *quality* of *will*; §4.2).} \\
-2. & \text{The *implicit* *bias* *expresses* the *agent*'s *quality* of *will* (the *agent*'s *values*, the *agent*'s *identity*, the *agent*'s *history*).} \\
-3. & \text{The *expression* *is* *real* (the *bias* *is* the *agent*'s, not the *invader*'s).} \\
+1. & \text{The responsibility is the attributability (the action expresses the agent's quality of will; §4.2).} \\
+2. & \text{The implicit bias expresses the agent's quality of will (the agent's values, the agent's identity, the agent's history).} \\
+3. & \text{The expression is real (the bias is the agent's, not the invader's).} \\
 \hline
-4. & \therefore \text{The *agent* *is* *responsible* *for* the *implicit* *bias* (the *attributionist* *insight*).}
+4. & \therefore \text{The agent is responsible for the implicit bias (the attributionist insight).}
 \end{array}
 $$
 
@@ -864,18 +864,18 @@ $$
 **The *structure***.
 
 $$
-\text{Testimony} \ \rightarrow \ \text{the *knowledge*} \quad \text{and} \quad \text{the *understanding*} \ \not\rightarrow \ \text{the *testimony*} \ (\text{the *asymmetry*})
+\text{Testimony} \ \rightarrow \ \text{the knowledge} \quad \text{and} \quad \text{the understanding} \ \not\rightarrow \ \text{the testimony} \ (\text{the asymmetry})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *moral* *understanding* *requires* the *grasp* of the *reasons* (the *why*, the *connections*, the *justification*).} \\
-2. & \text{The *grasp* *is* *achieved* by the *agent* (the *reflection*, the *inquiry*, the *engagement*), not *transmitted* by the *assertion*.} \\
-3. & \text{The *testimony* *transmits* the *proposition* (the *knowledge*) and *not* the *grasp* (the *understanding*).} \\
+1. & \text{The moral understanding requires the grasp of the reasons (the why, the connections, the justification).} \\
+2. & \text{The grasp is achieved by the agent (the reflection, the inquiry, the engagement), not transmitted by the assertion.} \\
+3. & \text{The testimony transmits the proposition (the knowledge) and not the grasp (the understanding).} \\
 \hline
-4. & \therefore \text{The *testimony* *does* *not* *transmit* the *understanding* (the *pessimistic* *insight*), and the *agent* *who* *relies* on the *testimony* *is* *epistemically* *deficient* (the *deference* *problem*).
+4. & \therefore \text{The testimony does not transmit the understanding (the pessimistic insight), and the agent who relies on the testimony is epistemically deficient (the deference problem).}
 \end{array}
 $$
 
@@ -898,7 +898,7 @@ $$
 **The *structure***.
 
 $$
-\text{Autonomy} \ \Rightarrow \ \text{the *no* *deference*} \quad \text{and} \quad \text{the *deference*} \ \Rightarrow \ \text{the *heteronomy*}
+\text{Autonomy} \ \Rightarrow \ \text{the no deference} \quad \text{and} \quad \text{the deference} \ \Rightarrow \ \text{the heteronomy}
 $$
 
 **The *significance***. The *argument* *grounds* the *pessimism* in the *autonomy*, and it *connects* the *moral* *testimony* to the *practical* *reason* (§3) and to the *political* *philosophy* (Ch. 47, §1).
@@ -923,10 +923,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *moral* *disagreement* *persists* among the *experts* (the *philosophers*, the *theologians*), and the *disagreement* *undermines* the *expertise* (the *peer* *disagreement*; Ch. 11, §3).} \\
-2. & \text{The *moral* *knowledge* *requires* the *first*-*person* *engagement* (the *autonomy*).} \\
+1. & \text{The moral disagreement persists among the experts (the philosophers, the theologians), and the disagreement undermines the expertise (the peer disagreement; Ch. 11, §3).} \\
+2. & \text{The moral knowledge requires the first-person engagement (the autonomy).} \\
 \hline
-3. & \therefore \text{The *moral* *expertise* is *not* *the* *genuine* *expertise* (the *no*-*expertise* *insight*), and the *moral* *testimony* *is* *not* *authoritative* (the *autonomy* *insight*).}
+3. & \therefore \text{The moral expertise is not the genuine expertise (the no-expertise insight), and the moral testimony is not authoritative (the autonomy insight).}
 \end{array}
 $$
 
@@ -1004,15 +1004,15 @@ The *table* is a *map*, not a *verdict*. The *reader* who *wants* to *choose* a 
 
 $$
 \begin{array}{ll}
-1. & \text{The *belief*/*desire* *distinctness*} \ (\text{the *Humean* *insight*}) \ \text{and the *two*-*track* *motivation*} \ (\text{the *psychopath* *insight}). \\
-2. & \text{The *weak* *internalism*} \ (\text{the *normal* *connection*}) \ \text{and the *substantive* *rationality*} \ (\text{the *ends* *insight}). \\
-3. & \text{The *attributionist* *responsibility*} \ (\text{the *quality* of *will*}) \ \text{and the *affected* *ignorance*} \ (\text{the *social* *insight}). \\
-4. & \text{The *cognitive* *emotion*} \ (\text{the *fittingness*}) \ \text{and the *dual* *process*} \ (\text{the *development* *insight}). \\
-5. & \text{The *architecture* *self*-*control*} \ (\text{the *plans*, the *habits*}) \ \text{and the *empirical* *humility*} \ (\text{the *replication* *insight}). \\
-6. & \text{The *attributionist* *bias*} \ (\text{the *social* *connection*}) \ \text{and the *structural* *remedy*} \ (\text{the *practice* *insight}). \\
-7. & \text{The *qualified* *testimony*} \ (\text{the *knowledge* *transmitted*, the *understanding* *earned*}) \ \text{and the *trust*} \ (\text{the *relational* *insight}). \\
+1. & \text{The belief/desire distinctness} \ (\text{the Humean insight}) \ \text{and the two-track motivation} \ (\text{the psychopath insight}). \\
+2. & \text{The weak internalism} \ (\text{the normal connection}) \ \text{and the substantive rationality} \ (\text{the ends insight}). \\
+3. & \text{The attributionist responsibility} \ (\text{the quality of will}) \ \text{and the affected ignorance} \ (\text{the social insight}). \\
+4. & \text{The cognitive emotion} \ (\text{the fittingness}) \ \text{and the dual process} \ (\text{the development insight}). \\
+5. & \text{The architecture self-control} \ (\text{the plans, the habits}) \ \text{and the empirical humility} \ (\text{the replication insight}). \\
+6. & \text{The attributionist bias} \ (\text{the social connection}) \ \text{and the structural remedy} \ (\text{the practice insight}). \\
+7. & \text{The qualified testimony} \ (\text{the knowledge transmitted, the understanding earned}) \ \text{and the trust} \ (\text{the relational insight}). \\
 \hline
-8. & \therefore \text{The *two*-*track* *synthesis*} \ (\text{the *integration* *insight*}), \ *qualified* \text{by the *admission* that the *internalism*, the *reasons*, the *tracing*, the *empathy*, the *willpower*, the *IAT*, \text{ and the *expertise* *remain* *contested*.}
+8. & \therefore \text{The two-track synthesis (the integration insight), qualified by the admission that the internalism, the reasons, the tracing, the empathy, the willpower, the IAT, and the expertise remain contested.}
 \end{array}
 $$
 

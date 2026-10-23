@@ -47,10 +47,10 @@ The *realism* debate is *notoriously* confused, and the *confusion* is *structur
 
 $$
 \begin{array}{ll}
-1. & \text{The *scientific* *image* of the *world* is *independent* of the *observer*.} \\
-2. & \text{The *independence* *requires* a *mind-independent* *reality*.} \\
+1. & \text{The scientific image of the world is independent of the observer.} \\
+2. & \text{The independence requires a mind-independent reality.} \\
 \hline
-3. & \therefore \text{There is a *mind-independent* *reality*.}
+3. & \therefore \text{There is a mind-independent reality.}
 \end{array}
 $$
 
@@ -86,11 +86,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{To *know* the *meaning* of a *sentence* is to *know* its *use* (the *manifestation* *requirement*).} \\
-2. & \text{The *use* is *constituted* by the *conditions* *under* which the *sentence* is *asserted*.} \\
-3. & \text{The *assertion* *conditions* are *verification*-conditions.} \\
+1. & \text{To know the meaning of a sentence is to know its use (the manifestation requirement).} \\
+2. & \text{The use is constituted by the conditions under which the sentence is asserted.} \\
+3. & \text{The assertion conditions are verification-conditions.} \\
 \hline
-4. & \therefore \text{The *truth* *conditions* *cannot* *outrun* the *verification*-conditions.}
+4. & \therefore \text{The truth conditions cannot outrun the verification-conditions.}
 \end{array}
 $$
 
@@ -165,10 +165,10 @@ In words: $x$ *makes* $p$ *true* iff the *existence* of $x$ *necessitates* the *
 
 $$
 \begin{array}{ll}
-1. & \text{*Truth* is a *relation* between a *proposition* and the *world*.} \\
-2. & \text{The *relation* *requires* a *relatum* in the *world* (the *truthmaker*).} \\
+1. & \text{Truth is a relation between a proposition and the world.} \\
+2. & \text{The relation requires a relatum in the world (the truthmaker).} \\
 \hline
-3. & \therefore \text{Every *truth* has a *truthmaker*.}
+3. & \therefore \text{Every truth has a truthmaker.}
 \end{array}
 $$
 
@@ -238,10 +238,10 @@ The *maximalist* *faces* *five* *problem* *cases*.
 
 $$
 \begin{array}{ll}
-1. & \text{The *internal* questions are *answered* by the *rules* of the *framework*.} \\
-2. & \text{The *external* questions have no *theoretical* *answer* (there is *no* *framework*-neutral *standard*).} \\
+1. & \text{The internal questions are answered by the rules of the framework.} \\
+2. & \text{The external questions have no theoretical answer (there is no framework-neutral standard).} \\
 \hline
-3. & \therefore \text{Ontological *questions* are *either* *trivial* or *pragmatic*.}
+3. & \therefore \text{Ontological questions are either trivial or pragmatic.}
 \end{array}
 $$
 
@@ -261,10 +261,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *concept* of a *table* *specifies* the *conditions* *under* *which* *something* *counts* *as* a *table*.} \\
-2. & \text{The *empirical* *facts* *determine* *whether* the *conditions* *are* *satisfied*.} \\
+1. & \text{The concept of a table specifies the conditions under which something counts as a table.} \\
+2. & \text{The empirical facts determine whether the conditions are satisfied.} \\
 \hline
-3. & \therefore \text{The *question* “are there *tables*?” is *answered* by *conceptual* *analysis* *plus* *empirical* *facts*.}
+3. & \therefore \text{The question “are there tables?” is answered by conceptual analysis plus empirical facts.}
 \end{array}
 $$
 
@@ -286,10 +286,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *deflationist* *theory* *makes* *claims* *about* the *nature* of *ontology*.} \\
-2. & \text{The *claims* are *metaphysical* (they *concern* the *structure* of *reality* and *language*).} \\
+1. & \text{The deflationist theory makes claims about the nature of ontology.} \\
+2. & \text{The claims are metaphysical (they concern the structure of reality and language).} \\
 \hline
-3. & \therefore \text{The *deflationist* *theory* is *itself* a *form* of *metaphysics*.}
+3. & \therefore \text{The deflationist theory is itself a form of metaphysics.}
 \end{array}
 $$
 
@@ -307,11 +307,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Some *descriptions* of the *world* are *more* *fundamental* than *others* (the *structure* *thesis*; Ch. 19, §6.3).} \\
-2. & \text{The *fundamental* *description* *uses* the *privileged* *quantifier* and *predicates*.} \\
-3. & \text{The *deflationist* *debates* *ignore* the *distinction*.} \\
+1. & \text{Some descriptions of the world are more fundamental than others (the structure thesis; Ch. 19, §6.3).} \\
+2. & \text{The fundamental description uses the privileged quantifier and predicates.} \\
+3. & \text{The deflationist debates ignore the distinction.} \\
 \hline
-4. & \therefore \text{The *realist* *position* is *vindicated* by the *structure* *of* *Ontologese*.}
+4. & \therefore \text{The realist position is vindicated by the structure of Ontologese.}
 \end{array}
 $$
 
@@ -379,10 +379,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *sciences* *aim* at a *privileged* *description* (the *fundamental* *theory*).} \\
-2. & \text{Metaphysics *aims* at the *same* *description*.} \\
+1. & \text{The sciences aim at a privileged description (the fundamental theory).} \\
+2. & \text{Metaphysics aims at the same description.} \\
 \hline
-3. & \therefore \text{Metaphysics is the *search* for *structure*.}
+3. & \therefore \text{Metaphysics is the search for structure.}
 \end{array}
 $$
 
@@ -431,10 +431,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Philosophy has *unresolved* *disagreement* *for* *centuries*.} \\
-2. & \text{If a *discipline* has *unresolved* *disagreement* *for* *centuries*, the *disagreement* is *evidence* that the *questions* are *hard* or the *methods* are *weak*.} \\
+1. & \text{Philosophy has unresolved disagreement for centuries.} \\
+2. & \text{If a discipline has unresolved disagreement for centuries, the disagreement is evidence that the questions are hard or the methods are weak.} \\
 \hline
-3. & \therefore \text{Philosophical *confidence* should be *calibrated* to the *disagreement*.}
+3. & \therefore \text{Philosophical confidence should be calibrated to the disagreement.}
 \end{array}
 $$
 
@@ -519,10 +519,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *criteria* *conflict* (the *cases* *show* it).} \\
-2. & \text{No *algorithm* *resolves* the *conflict* (the *criteria* are *not* *commensurable*).} \\
+1. & \text{The criteria conflict (the cases show it).} \\
+2. & \text{No algorithm resolves the conflict (the criteria are not commensurable).} \\
 \hline
-3. & \therefore \text{The *resolution* is a *judgment*.}
+3. & \therefore \text{The resolution is a judgment.}
 \end{array}
 $$
 

@@ -54,8 +54,8 @@ The chapter proceeds in eight movements. §1 examines *platonism* and *Benacerra
 
 $$
 \begin{array}{ll}
-(\mathrm{S}) & \text{The *semantics*: the *mathematical* *statements* are *true* only if they *refer* to the *abstract* *objects* (the *semantic* *realism*).} \\
-(\mathrm{E}) & \text{The *epistemology*: the *knowledge* *requires* a *causal* *connection* between the *knower* and the *known* (the *causal* *theory* of *knowledge*).}
+(\mathrm{S}) & \text{The semantics: the mathematical statements are true only if they refer to the abstract objects (the semantic realism).} \\
+(\mathrm{E}) & \text{The epistemology: the knowledge requires a causal connection between the knower and the known (the causal theory of knowledge).}
 \end{array}
 $$
 
@@ -63,11 +63,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{If (S), the *mathematical* *truths* are *about* the *abstract* *objects* (the *semantic* *thesis*).} \\
-2. & \text{The *abstract* *objects* are *causally* *inert* (they *have* no *causal* *powers*).} \\
-3. & \text{If (E), the *knowledge* of the *abstract* *objects* is *impossible* (the *no* *causal* *connection*).} \\
+1. & \text{If (S), the mathematical truths are about the abstract objects (the semantic thesis).} \\
+2. & \text{The abstract objects are causally inert (they have no causal powers).} \\
+3. & \text{If (E), the knowledge of the abstract objects is impossible (the no causal connection).} \\
 \hline
-4. & \therefore \text{The *mathematical* *knowledge* is *impossible* (the *dilemma*).}
+4. & \therefore \text{The mathematical knowledge is impossible (the dilemma).}
 \end{array}
 $$
 
@@ -112,11 +112,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Both the *reductions* *satisfy* the *axioms* of *arithmetic* (the *Peano* *axioms*).} \\
-2. & \text{The *reductions* *disagree* on the *identity* *statements* (the *von* *Neumann* *2* has the *two* *members*, and the *Zermelo* *2* has the *one* *member*).} \\
-3. & \text{The *choice* *between* the *reductions* is *arbitrary* (there is *no* *fact* of the *matter* about *which* is the *correct* *one*, and the *arithmetic* *does* not *distinguish* them).} \\
+1. & \text{Both the reductions satisfy the axioms of arithmetic (the Peano axioms).} \\
+2. & \text{The reductions disagree on the identity statements (the von Neumann 2 has the two members, and the Zermelo 2 has the one member).} \\
+3. & \text{The choice between the reductions is arbitrary (there is no fact of the matter about which is the correct one, and the arithmetic does not distinguish them).} \\
 \hline
-4. & \therefore \text{The *numbers* are *not* the *sets* (the *reduction* *fails*), and the *numbers* are the *positions* in the *structure* (the *structural* *insight*).}
+4. & \therefore \text{The numbers are not the sets (the reduction fails), and the numbers are the positions in the structure (the structural insight).}
 \end{array}
 $$
 
@@ -147,7 +147,7 @@ $$
 **The *structure***. The *Fregean* *program*.
 
 $$
-\text{Arithmetic} \ \subseteq \ \text{Logic} \quad \text{(the *logicist* *reduction*)}
+\text{Arithmetic} \ \subseteq \ \text{Logic} \quad \text{(the logicist reduction)}
 $$
 
 **The *Fregean* *definitions***.
@@ -155,13 +155,13 @@ $$
 **(i) The *direction* *abstraction*** (the *paradigm*).
 
 $$
-\text{Dir}(a) = \text{Dir}(b) \ \leftrightarrow \ a \parallel b \quad \text{(the *parallelism*)}
+\text{Dir}(a) = \text{Dir}(b) \ \leftrightarrow \ a \parallel b \quad \text{(the parallelism)}
 $$
 
 **(ii) The *Hume’s* *principle*** (the *numerical* *abstraction*).
 
 $$
-\#F = \#G \ \leftrightarrow \ F \approx G \quad \text{(the *equinumerosity*; the *one*-*to*-*one* *correspondence*)}
+\#F = \#G \ \leftrightarrow \ F \approx G \quad \text{(the equinumerosity; the one-to-one correspondence)}
 $$
 
 where $F \approx G$ means that there is a *bijection* between the $F$s and the $G$s.
@@ -172,10 +172,10 @@ where $F \approx G$ means that there is a *bijection* between the $F$s and the $
 
 $$
 \begin{array}{ll}
-1. & \text{The *Hume’s* *principle* is *analytic* (it is *constitutive* of the *concept* of *number*).} \\
-2. & \text{The *second*-*order* *logic* *plus* the *Hume’s* *principle* *derives* the *PA*$_2$ (the *Frege’s* *theorem*).} \\
+1. & \text{The Hume’s principle is analytic (it is constitutive of the concept of number).} \\
+2. & \text{The second-order logic plus the Hume’s principle derives the PA$_2$ (the Frege’s theorem).} \\
 \hline
-3. & \therefore \text{The *arithmetic* is *analytic* (the *neo*-*logicist* *insight*), and the *logicism* is *vindicated* (the *revised* *form*).}
+3. & \therefore \text{The arithmetic is analytic (the neo-logicist insight), and the logicism is vindicated (the revised form).}
 \end{array}
 $$
 
@@ -212,18 +212,18 @@ $$
 **The *structure***.
 
 $$
-\text{Mathematics} = \text{the *formal* *system*} \ (\text{the *symbols*, the *rules*})
+\text{Mathematics} = \text{the formal system} \ (\text{the symbols, the rules})
 $$
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
-1. & \text{The *mathematics* *uses* the *symbols* (the *formulas*, the *proofs*).} \\
-2. & \text{The *symbols* *are* *manipulated* according to the *rules* (the *syntax*).} \\
-3. & \text{The *manipulation* is *sufficient* for the *mathematical* *practice* (the *practice*).} \\
+1. & \text{The mathematics uses the symbols (the formulas, the proofs).} \\
+2. & \text{The symbols are manipulated according to the rules (the syntax).} \\
+3. & \text{The manipulation is sufficient for the mathematical practice (the practice).} \\
 \hline
-4. & \therefore \text{The *mathematics* is the *formalism* (the *formalist* *insight*).}
+4. & \therefore \text{The mathematics is the formalism (the formalist insight).}
 \end{array}
 $$
 
@@ -274,11 +274,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *mathematical* *truth* is the *constructibility* (the *BHK* *insight*).} \\
-2. & \text{The *constructibility* *requires* the *proof* (the *verification*).} \\
-3. & \text{The *proof* is *not* *available* for the *undecided* *statements* (the *excluded* *middle*).} \\
+1. & \text{The mathematical truth is the constructibility (the BHK insight).} \\
+2. & \text{The constructibility requires the proof (the verification).} \\
+3. & \text{The proof is not available for the undecided statements (the excluded middle).} \\
 \hline
-4. & \therefore \text{The *excluded* *middle* is *not* *valid* (the *intuitionist* *insight*), and the *classical* *mathematics* is *not* *constructive* (the *revisionist* *insight*).}
+4. & \therefore \text{The excluded middle is not valid (the intuitionist insight), and the classical mathematics is not constructive (the revisionist insight).}
 \end{array}
 $$
 
@@ -321,17 +321,17 @@ $$
 **The *structure***.
 
 $$
-\text{Mathematics} \ \text{studies the *structures*} \ (\text{the *relations* among the *positions*})
+\text{Mathematics} \ \text{studies the structures} \ (\text{the relations among the positions})
 $$
 
 **The *argument* (the *Benacerraf* *insight*).
 
 $$
 \begin{array}{ll}
-1. & \text{The *mathematical* *objects* can be *reduced* to the *different* *sets* (the *von* *Neumann*, the *Zermelo*), and the *reductions* *agree* on the *structural* *truths* (the *arithmetic*), and the *disagree* on the *identity* *statements*.} \\
-2. & \text{The *structural* *truths* are the *mathematical* *content* (the *practice*), and the *identity* *statements* are *not* *determined* (the *arbitrariness*). \\
+1. & \text{The mathematical objects can be reduced to the different sets (the von Neumann, the Zermelo), and the reductions agree on the structural truths (the arithmetic), and the disagree on the identity statements.} \\
+2. & \text{The structural truths are the mathematical content (the practice), and the identity statements are not determined (the arbitrariness).} \\
 \hline
-3. & \therefore \text{The *mathematics* is *about* the *structures* (the *structural* *insight*), not the *objects*.}
+3. & \therefore \text{The mathematics is about the structures (the structural insight), not the objects.}
 \end{array}
 $$
 
@@ -352,10 +352,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *structure* *determines* the *positions* (the *relations* are *constitutive*).} \\
-2. & \text{The *structure* *exists* *independently* of the *particular* *instances* (the *pattern* is *repeatable*).} \\
+1. & \text{The structure determines the positions (the relations are constitutive).} \\
+2. & \text{The structure exists independently of the particular instances (the pattern is repeatable).} \\
 \hline
-3. & \therefore \text{The *structure* is a *universal* (the *ante* *rem* *insight*), and the *mathematics* *studies* the *structures* (the *structural* *insight*).}
+3. & \therefore \text{The structure is a universal (the ante rem insight), and the mathematics studies the structures (the structural insight).}
 \end{array}
 $$
 
@@ -383,10 +383,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *category* *theory* *captures* the *structures* (the *objects* *up* to the *isomorphism*).} \\
-2. & \text{The *structures* are the *mathematical* *content* (the *structural* *insight*).} \\
+1. & \text{The category theory captures the structures (the objects up to the isomorphism).} \\
+2. & \text{The structures are the mathematical content (the structural insight).} \\
 \hline
-3. & \therefore \text{The *category* *theory* *is* the *structuralist* *foundations* (the *contemporary* *insight*), and the *objects* are the *structural* *positions* (the *no*-*intrinsic* *natures*).}
+3. & \therefore \text{The category theory is the structuralist foundations (the contemporary insight), and the objects are the structural positions (the no-intrinsic natures).}
 \end{array}
 $$
 
@@ -422,17 +422,17 @@ $$
 **The *structure***.
 
 $$
-\text{Mathematics} \ \text{is *reconstructed*} \ (\text{the *nominalist* *paraphrase*})
+\text{Mathematics} \ \text{is reconstructed} \ (\text{the nominalist paraphrase})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *abstract* *objects* are *epistemically* *inaccessible* (the *Benacerraf* *dilemma*).} \\
-2. & \text{The *inaccessible* *entities* *should* be *dispensed* with (the *parsimony*; Ch. 14, §4).} \\
+1. & \text{The abstract objects are epistemically inaccessible (the Benacerraf dilemma).} \\
+2. & \text{The inaccessible entities should be dispensed with (the parsimony; Ch. 14, §4).} \\
 \hline
-3. & \therefore \text{The *abstract* *objects* *should* be *dispensed* with (the *nominalist* *insight*), and the *mathematics* *should* be *reconstructed* (the *program*).}
+3. & \therefore \text{The abstract objects should be dispensed with (the nominalist insight), and the mathematics should be reconstructed (the program).}
 \end{array}
 $$
 
@@ -450,10 +450,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *physics* can be *formulated* *nominalistically* (the *reconstruction*).} \\
-2. & \text{The *mathematics* is a *conservative* *extension* (the *representation* *theorem*).} \\
+1. & \text{The physics can be formulated nominalistically (the reconstruction).} \\
+2. & \text{The mathematics is a conservative extension (the representation theorem).} \\
 \hline
-3. & \therefore \text{The *mathematics* is *not* *indispensable* (the *nominalist* *insight*), and the *abstract* *objects* *can* be *dispensed* with (the *nominalist* *program*).}
+3. & \therefore \text{The mathematics is not indispensable (the nominalist insight), and the abstract objects can be dispensed with (the nominalist program).}
 \end{array}
 $$
 
@@ -481,10 +481,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{We *ought* to have the *ontological* *commitment* to the *entities* that are *indispensable* to the *best* *scientific* *theories* (the *naturalistic* *premise*).} \\
-2. & \text{The *mathematical* *entities* are *indispensable* to the *best* *scientific* *theories* (the *empirical* *premise*).} \\
+1. & \text{We ought to have the ontological commitment to the entities that are indispensable to the best scientific theories (the naturalistic premise).} \\
+2. & \text{The mathematical entities are indispensable to the best scientific theories (the empirical premise).} \\
 \hline
-3. & \therefore \text{We *ought* to have the *ontological* *commitment* to the *mathematical* *entities* (the *indispensability* *insight*).}
+3. & \therefore \text{We ought to have the ontological commitment to the mathematical entities (the indispensability insight).}
 \end{array}
 $$
 
@@ -511,18 +511,18 @@ $$
 **The *structure***.
 
 $$
-\text{Mathematics} = \text{a *useful* *fiction*} \ (\text{the *statements* are not *literally* *true*})
+\text{Mathematics} = \text{a useful fiction} \ (\text{the statements are not literally true})
 $$
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
-1. & \text{The *mathematical* *objects* are *epistemically* *inaccessible* (the *Benacerraf* *dilemma*).} \\
-2. & \text{The *inaccessible* *entities* *are* *not* *posited* (the *nominalism*).} \\
-3. & \text{The *mathematics* is *useful* (the *practice*).} \\
+1. & \text{The mathematical objects are epistemically inaccessible (the Benacerraf dilemma).} \\
+2. & \text{The inaccessible entities are not posited (the nominalism).} \\
+3. & \text{The mathematics is useful (the practice).} \\
 \hline
-4. & \therefore \text{The *mathematics* is a *useful* *fiction* (the *fictionalism*), and the *statements* are *not* *literally* *true* (the *fictionalist* *insight*).}
+4. & \therefore \text{The mathematics is a useful fiction (the fictionalism), and the statements are not literally true (the fictionalist insight).}
 \end{array}
 $$
 
@@ -567,11 +567,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *mathematical* *axioms* are *not* *derived* from the *logic* (the *Frege* *program* *fails*).} \\
-2. & \text{The *axioms* are *known* *a* *priori* (the *practice*: the *set*-*theoretic* *axioms*, the *large* *cardinals*).} \\
-3. & \text{The *a* *priori* *knowledge* *requires* the *faculty* (the *intuition*).} \\
+1. & \text{The mathematical axioms are not derived from the logic (the Frege program fails).} \\
+2. & \text{The axioms are known a priori (the practice: the set-theoretic axioms, the large cardinals).} \\
+3. & \text{The a priori knowledge requires the faculty (the intuition).} \\
 \hline
-4. & \therefore \text{The *mathematical* *intuition* *grounds* the *axioms* (the *Gödel* *insight*).}
+4. & \therefore \text{The mathematical intuition grounds the axioms (the Gödel insight).}
 \end{array}
 $$
 
@@ -595,11 +595,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *proof* *is* the *public* *verification* (the *social* *insight*).} \\
-2. & \text{The *public* *verification* *requires* the *surveyability* (the *human* *checkability*).} \\
-3. & \text{The *computer*-*assisted* *proofs* are *not* *surveyable* (the *human* *cannot* *check* the *computation*).} \\
+1. & \text{The proof is the public verification (the social insight).} \\
+2. & \text{The public verification requires the surveyability (the human checkability).} \\
+3. & \text{The computer-assisted proofs are not surveyable (the human cannot check the computation).} \\
 \hline
-4. & \therefore \text{The *computer*-*assisted* *proofs* *are* *not* *proofs* (the *Tymoczko* *insight*), and the *mathematical* *knowledge* *is* *not* *purely* *a* *priori* (the *empirical* *insight*).}
+4. & \therefore \text{The computer-assisted proofs are not proofs (the Tymoczko insight), and the mathematical knowledge is not purely a priori (the empirical insight).}
 \end{array}
 $$
 
@@ -630,10 +630,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *formal* *verification* *is* the *machine*-*checkable* *proof* (the *Hales* 2014; the *four*-*color* 2005; the *contemporary* *literature*).} \\
-2. & \text{The *verification* *is* *more* *rigorous* than the *informal* *proof* (the *human* *error* *is* *eliminated*). \\
+1. & \text{The formal verification is the machine-checkable proof (the Hales 2014; the four-color 2005; the contemporary literature).} \\
+2. & \text{The verification is more rigorous than the informal proof (the human error is eliminated).} \\
 \hline
-3. & \therefore \text{The *formal* *verification* *is* the *most* *rigorous* *proof* (the *formalist* *insight*), and the *apriority* *is* *realized* in the *machine* (the *contemporary* *insight*).}
+3. & \therefore \text{The formal verification is the most rigorous proof (the formalist insight), and the apriority is realized in the machine (the contemporary insight).}
 \end{array}
 $$
 
@@ -674,11 +674,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *mathematics* is *developed* *a* *priori* (the *practice*).} \\
-2. & \text{The *mathematics* *describes* the *physical* *world* with the *precision* (the *empirical* *fact*).} \\
-3. & \text{The *precision* *requires* an *explanation* (the *why* *question*).} \\
+1. & \text{The mathematics is developed a priori (the practice).} \\
+2. & \text{The mathematics describes the physical world with the precision (the empirical fact).} \\
+3. & \text{The precision requires an explanation (the why question).} \\
 \hline
-4. & \therefore \text{The *applicability* is *mysterious* (the *Wigner* *puzzle*).}
+4. & \therefore \text{The applicability is mysterious (the Wigner puzzle).}
 \end{array}
 $$
 
@@ -725,11 +725,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *physics* *describes* the *structure* (the *relations*; Ch. 19, §1.5).} \\
-2. & \text{The *mathematics* *describes* the *structure* (the *patterns*; Ch. 43, §3).} \\
-3. & \text{The *structure* is the *common* *content* (the *structural* *insight*).} \\
+1. & \text{The physics describes the structure (the relations; Ch. 19, §1.5).} \\
+2. & \text{The mathematics describes the structure (the patterns; Ch. 43, §3).} \\
+3. & \text{The structure is the common content (the structural insight).} \\
 \hline
-4. & \therefore \text{The *applicability* is *explained* by the *structural* *correspondence* (the *structural* *insight*).}
+4. & \therefore \text{The applicability is explained by the structural correspondence (the structural insight).}
 \end{array}
 $$
 
@@ -781,11 +781,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The CH is *independent* of ZFC (the *Gödel*–*Cohen* *insight*).} \\
-2. & \text{The *independence* *shows* that the ZFC *does* not *decide* the CH (the *formal* *insight*).} \\
-3. & \text{The *decision* *requires* the *new* *axioms* (the *axiomatic* *insight*).} \\
+1. & \text{The CH is independent of ZFC (the Gödel–Cohen insight).} \\
+2. & \text{The independence shows that the ZFC does not decide the CH (the formal insight).} \\
+3. & \text{The decision requires the new axioms (the axiomatic insight).} \\
 \hline
-4. & \therefore \text{The CH *requires* the *new* *axioms* (the *Gödel* *insight*; Ch. 43, §7.2), and the *choice* *is* the *philosophical* *question* (the *foundational* *insight*).}
+4. & \therefore \text{The CH requires the new axioms (the Gödel insight; Ch. 43, §7.2), and the choice is the philosophical question (the foundational insight).}
 \end{array}
 $$
 
@@ -805,10 +805,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *new* *axioms* *decide* the CH (the *practice*; the *determinacy*, the *forcing* axioms).} \\
-2. & \text{The *decision* is *justified* by the *intrinsic* and the *extrinsic* *criteria* (the *Gödel* *insight*).} \\
+1. & \text{The new axioms decide the CH (the practice; the determinacy, the forcing axioms).} \\
+2. & \text{The decision is justified by the intrinsic and the extrinsic criteria (the Gödel insight).} \\
 \hline
-3. & \therefore \text{The CH is *decidable* (the *axiomatic* *insight*), and the *decision* *depends* on the *choice* of the *axioms* (the *foundational* *insight*).}
+3. & \therefore \text{The CH is decidable (the axiomatic insight), and the decision depends on the choice of the axioms (the foundational insight).}
 \end{array}
 $$
 
@@ -836,10 +836,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *set* *theory* has the *multiverse* (the *forcing* *extensions*) or the *universe* (the *V*).} \\
-2. & \text{The *multiverse* *supports* the *relativism* (the *truth* *relative* to the *universe*), and the *universe* *supports* the *realism* (the *truth* *absolute*).} \\
+1. & \text{The set theory has the multiverse (the forcing extensions) or the universe (the V).} \\
+2. & \text{The multiverse supports the relativism (the truth relative to the universe), and the universe supports the realism (the truth absolute).} \\
 \hline
-3. & \therefore \text{The *choice* is the *philosophical* *question* (the *foundational* *insight*), and the *realism* and the *relativism* are *both* *defensible* (the *pluralist* *insight*).}
+3. & \therefore \text{The choice is the philosophical question (the foundational insight), and the realism and the relativism are both defensible (the pluralist insight).}
 \end{array}
 $$
 
@@ -852,17 +852,17 @@ $$
 **The *structure***. The *consistency* *strength* *hierarchy*.
 
 $$
-\mathrm{ZFC} \ < \ \mathrm{ZFC} + \text{the *inaccessible*} \ < \ \cdots \ < \ \mathrm{ZFC} + \mathrm{PD} \ < \ \cdots
+\mathrm{ZFC} \ < \ \mathrm{ZFC} + \text{the inaccessible} \ < \ \cdots \ < \ \mathrm{ZFC} + \mathrm{PD} \ < \ \cdots
 $$
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
-1. & \text{The *determinacy* *axioms* *settle* the *questions* (the *projective* *sets*, the *regularity*).} \\
-2. & \text{The *large* *cardinals* *provide* the *consistency* *strength* (the *hierarchy*).} \\
+1. & \text{The determinacy axioms settle the questions (the projective sets, the regularity).} \\
+2. & \text{The large cardinals provide the consistency strength (the hierarchy).} \\
 \hline
-3. & \therefore \text{The *determinacy* *and* the *large* *cardinals* *ground* the *justification* (the *structural* *insight*), and the *hierarchy* is the *criterion* of the *acceptability* (the *consistency* *strength* *insight*).}
+3. & \therefore \text{The determinacy and the large cardinals ground the justification (the structural insight), and the hierarchy is the criterion of the acceptability (the consistency strength insight).}
 \end{array}
 $$
 

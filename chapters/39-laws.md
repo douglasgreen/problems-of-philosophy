@@ -42,18 +42,18 @@ The chapter proceeds in eight movements. §1 examines the *nature* of *laws* and
 **The *structure***.
 
 $$
-\text{Law}(\phi) \quad \text{iff} \quad \phi \text{ is an *axiom* (or *theorem*) of the *best* *system} \ \mathcal{B}
+\text{Law}(\phi) \quad \text{iff} \quad \phi \text{ is an axiom (or theorem) of the best system} \ \mathcal{B}
 $$
 
 **The *argument*** (Lewis 1973, 1986, 1994; Ramsey 1928; Mill 1843).
 
 $$
 \begin{array}{ll}
-1. & \text{The *laws* are the *generalizations* that *support* the *counterfactuals* and the *explanations*.} \\
-2. & \text{The *support* is *explained* by the *systematic* *role* of the *generalization* in the *best* *system*.} \\
-3. & \text{The *systematic* *role* is *constituted* by the *simplicity* and the *strength* of the *system*.} \\
+1. & \text{The laws are the generalizations that support the counterfactuals and the explanations.} \\
+2. & \text{The support is explained by the systematic role of the generalization in the best system.} \\
+3. & \text{The systematic role is constituted by the simplicity and the strength of the system.} \\
 \hline
-4. & \therefore \text{The *laws* are the *regularities* of the *best* *system* (the *regularity* *account*).}
+4. & \therefore \text{The laws are the regularities of the best system (the regularity account).}
 \end{array}
 $$
 
@@ -87,11 +87,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *laws* *support* the *counterfactuals* (the *law* “all $F$s are $G$” *supports* “if $x$ were $F$, $x$ would be $G$”).} \\
-2. & \text{The *support* *requires* the *necessity* (the *regularity* *alone* does *not* *support* the *counterfactuals*).} \\
-3. & \text{The *necessity* *requires* the *relation* of *necessitation* between the *universals*.} \\
+1. & \text{The laws support the counterfactuals (the law “all $F$s are $G$” supports “if $x$ were $F$, $x$ would be $G$”).} \\
+2. & \text{The support requires the necessity (the regularity alone does not support the counterfactuals).} \\
+3. & \text{The necessity requires the relation of necessitation between the universals.} \\
 \hline
-4. & \therefore \text{The *laws* are the *relations* of *necessitation* (the *necessitarian* *account*).}
+4. & \therefore \text{The laws are the relations of necessitation (the necessitarian account).}
 \end{array}
 $$
 
@@ -118,18 +118,18 @@ $$
 **The *structure***.
 
 $$
-\text{Law}(F, G) \quad \text{iff} \quad \text{the *essence* of } F \text{ *necessitates* } G
+\text{Law}(F, G) \quad \text{iff} \quad \text{the essence of } F \text{ necessitates } G
 $$
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
-1. & \text{The *properties* are *powers* (the *causal* *roles* are *constitutive* of the *properties*; Ch. 18, §6.2).} \\
-2. & \text{The *powers* *necessitate* their *manifestations* (the *power* is *essentially* the *power* to *produce* the *effect*).} \\
-3. & \text{The *laws* are the *manifestations* of the *powers* (the *laws* *follow* from the *essences*).} \\
+1. & \text{The properties are powers (the causal roles are constitutive of the properties; Ch. 18, §6.2).} \\
+2. & \text{The powers necessitate their manifestations (the power is essentially the power to produce the effect).} \\
+3. & \text{The laws are the manifestations of the powers (the laws follow from the essences).} \\
 \hline
-4. & \therefore \text{The *laws* are *grounded* in the *essences* (the *dispositionalist* *account*).}
+4. & \therefore \text{The laws are grounded in the essences (the dispositionalist account).}
 \end{array}
 $$
 
@@ -173,11 +173,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *special* *sciences* *state* the *generalizations* with the *ceteris* *paribus* *clauses* (the *practice*).} \\
-2. & \text{The *clauses* are *not* *eliminable* (the *conditions* are *not* *specifiable* *in* *advance*, and the *formulation* is *open*-*ended*).} \\
-3. & \text{The *laws* (in the *strict* *sense*) *cannot* *contain* the *clauses* (the *clauses* are *indefinite*, and the *laws* are *universal*).} \\
+1. & \text{The special sciences state the generalizations with the ceteris paribus clauses (the practice).} \\
+2. & \text{The clauses are not eliminable (the conditions are not specifiable in advance, and the formulation is open-ended).} \\
+3. & \text{The laws (in the strict sense) cannot contain the clauses (the clauses are indefinite, and the laws are universal).} \\
 \hline
-4. & \therefore \text{The *special* *sciences* *lack* the *laws* (the *ceteris* *paribus* *problem*).}
+4. & \therefore \text{The special sciences lack the laws (the ceteris paribus problem).}
 \end{array}
 $$
 
@@ -191,12 +191,12 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *ceteris* *paribus* *clause* *says* "all *other* *things* *being* *equal*". \\
-2. & \text{The *clause* is *either* *specified* (the *conditions* *are* *listed*) or *unspecified*. \\
-3. & \text{If *specified*, the *clause* is *reducible* to the *strict* *law* (the *law* *with* the *conditions*).} \\
-4. & \text{If *unspecified*, the *clause* is *vacuous* (the *law* *says* nothing *definite*).} \\
+1. & \text{The ceteris paribus clause says “all other things being equal”.} \\
+2. & \text{The clause is either specified (the conditions are listed) or unspecified.} \\
+3. & \text{If specified, the clause is reducible to the strict law (the law with the conditions).} \\
+4. & \text{If unspecified, the clause is vacuous (the law says nothing definite).} \\
 \hline
-5. & \therefore \text{The *ceteris* *paribus* *laws* are *either* *strict* *laws* (and *usually* *false*) or *not* *laws* (the *dilemma*).}
+5. & \therefore \text{The ceteris paribus laws are either strict laws (and usually false) or not laws (the dilemma).}
 \end{array}
 $$
 
@@ -220,11 +220,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *special* *sciences* *classify* the *events* by the *properties* that are *multiply* *realizable* (the *monetary* *exchange*, the *belief*, the *gene*).} \\
-2. & \text{The *multiple* *realizability* *blocks* the *type* *reduction* (Ch. 23, §3.2).} \\
-3. & \text{The *explanations* of the *special* *sciences* are *causal* at their *own* *level*.} \\
+1. & \text{The special sciences classify the events by the properties that are multiply realizable (the monetary exchange, the belief, the gene).} \\
+2. & \text{The multiple realizability blocks the type reduction (Ch. 23, §3.2).} \\
+3. & \text{The explanations of the special sciences are causal at their own level.} \\
 \hline
-4. & \therefore \text{The *special* *sciences* are *autonomous* (the *autonomy* *thesis*).}
+4. & \therefore \text{The special sciences are autonomous (the autonomy thesis).}
 \end{array}
 $$
 
@@ -248,11 +248,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *laws* of *physics* (the *Newtonian* *law*, the *Coulomb* *law*) are *idealizations* (they *hold* *only* in the *absence* of the *other* *forces*).} \\
-2. & \text{The *idealizations* *do* not *describe* the *actual* *systems* (the *actual* *systems* *have* the *multiple* *forces*, and the *laws* *are* *false* *of* them).} \\
-3. & \text{The *scientific* *explanations* *use* the *capacities* (the *tendencies* that *are* *real* *but* *not* *strict* *laws*).} \\
+1. & \text{The laws of physics (the Newtonian law, the Coulomb law) are idealizations (they hold only in the absence of the other forces).} \\
+2. & \text{The idealizations do not describe the actual systems (the actual systems have the multiple forces, and the laws are false of them).} \\
+3. & \text{The scientific explanations use the capacities (the tendencies that are real but not strict laws).} \\
 \hline
-4. & \therefore \text{The *laws* of *physics* *lie* (the *thesis*), and the *science* *explains* by the *capacities* (the *capacities* *account*).}
+4. & \therefore \text{The laws of physics lie (the thesis), and the science explains by the capacities (the capacities account).}
 \end{array}
 $$
 
@@ -292,10 +292,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *inductions* *project* the *predicates* (the "green" *projects*, the "grue" *does* not; Ch. 10, §3.1).} \\
-2. & \text{The *projection* *requires* the *predicates* to *carve* *nature* *at* its *joints* (the *natural* *kinds*; Ch. 15, §5.1).} \\
+1. & \text{The inductions project the predicates (the “green” projects, the “grue” does not; Ch. 10, §3.1).} \\
+2. & \text{The projection requires the predicates to carve nature at its joints (the natural kinds; Ch. 15, §5.1).} \\
 \hline
-3. & \therefore \text{The *natural* *kinds* are *the* *ground* of the *projectibility* (the *natural* *kinds* *thesis*).}
+3. & \therefore \text{The natural kinds are the ground of the projectibility (the natural kinds thesis).}
 \end{array}
 $$
 
@@ -308,18 +308,18 @@ $$
 **The *structure***.
 
 $$
-\text{Kind}(K) \quad \text{iff} \quad K \text{ is a *cluster* of *properties* *held* *together* *by* a *mechanism*} \ M
+\text{Kind}(K) \quad \text{iff} \quad K \text{ is a cluster of properties held together by a mechanism} \ M
 $$
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
-1. & \text{The *biological* *kinds* (the *species*, the *taxa*) *do* not *have* the *single* *essences* (the *members* *vary*, and the *boundaries* are *vague*).} \\
-2. & \text{The *kinds* *have* the *clusters* of the *properties* that *co*-*occur* (the *homeostatic* *mechanisms* *maintain* the *clusters*).} \\
-3. & \text{The *clusters* *ground* the *inductions* and the *projections* (the *properties* *co*-*vary* *because* of the *mechanisms*).} \\
+1. & \text{The biological kinds (the species, the taxa) do not have the single essences (the members vary, and the boundaries are vague).} \\
+2. & \text{The kinds have the clusters of the properties that co-occur (the homeostatic mechanisms maintain the clusters).} \\
+3. & \text{The clusters ground the inductions and the projections (the properties co-vary because of the mechanisms).} \\
 \hline
-4. & \therefore \text{The *natural* *kinds* are the *homeostatic* *property* *clusters* (the *HPC* *account*).}
+4. & \therefore \text{The natural kinds are the homeostatic property clusters (the HPC account).}
 \end{array}
 $$
 
@@ -352,11 +352,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *species* *concepts* *capture* the *different* *biological* *patterns* (the *interbreeding*, the *phylogeny*, the *ecological* *niche*).} \\
-2. & \text{The *patterns* are *real* (they *are* *not* *conventional*), and the *patterns* *cross*-*cut* *one* another.} \\
-3. & \text{The *concepts* *are* *not* *reducible* to a *single* *concept*.} \\
+1. & \text{The species concepts capture the different biological patterns (the interbreeding, the phylogeny, the ecological niche).} \\
+2. & \text{The patterns are real (they are not conventional), and the patterns cross-cut one another.} \\
+3. & \text{The concepts are not reducible to a single concept.} \\
 \hline
-4. & \therefore \text{The *species* *pluralism* (the *pluralist* *insight*).}
+4. & \therefore \text{The species pluralism (the pluralist insight).}
 \end{array}
 $$
 
@@ -378,11 +378,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *chemical* *kinds* *have* the *microstructures* (the *atomic* *number*, the *electron* *configuration*).} \\
-2. & \text{The *microstructures* *explain* the *observable* *properties* (the *reactivity*, the *color*, the *melting* *point*).} \\
-3. & \text{The *microstructures* *ground* the *projections* (the *kind* *supports* the *inductions*).} \\
+1. & \text{The chemical kinds have the microstructures (the atomic number, the electron configuration).} \\
+2. & \text{The microstructures explain the observable properties (the reactivity, the color, the melting point).} \\
+3. & \text{The microstructures ground the projections (the kind supports the inductions).} \\
 \hline
-4. & \therefore \text{The *chemical* *kinds* are *grounded* in the *microstructures* (the *essentialist* *insight*), and the *properties* are *not* *reducible* to the *microstructure* (the *emergentist* *insight*).}
+4. & \therefore \text{The chemical kinds are grounded in the microstructures (the essentialist insight), and the properties are not reducible to the microstructure (the emergentist insight).}
 \end{array}
 $$
 
@@ -426,11 +426,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *critical* *phenomena* *exhibit* the *universality* (the *same* *exponents* *across* the *different* *systems*).} \\
-2. & \text{The *universality* *is* *explained* by the *renormalization* *group* (the *scale* *invariance*, the *fixed* *points*).} \\
-3. & \text{The *renormalization* *requires* the *infinite* *limit* (the *thermodynamic* *limit*), and the *limit* *is* *not* *realized* in the *finite* *systems*.} \\
+1. & \text{The critical phenomena exhibit the universality (the same exponents across the different systems).} \\
+2. & \text{The universality is explained by the renormalization group (the scale invariance, the fixed points).} \\
+3. & \text{The renormalization requires the infinite limit (the thermodynamic limit), and the limit is not realized in the finite systems.} \\
 \hline
-4. & \therefore \text{The *explanation* *requires* the *idealization* (the *infinite* *limit*), and the *idealization* *is* *not* *reducible* to the *finite* *systems* (the *emergent* *insight*).}
+4. & \therefore \text{The explanation requires the idealization (the infinite limit), and the idealization is not reducible to the finite systems (the emergent insight).}
 \end{array}
 $$
 
@@ -444,11 +444,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *Mendelian* *gene* is *defined* by the *phenotypic* *effects* (the *inheritance* *pattern*).} \\
-2. & \text{The *molecular* *gene* is *defined* by the *DNA* *sequence* (the *transcription*, the *translation*).} \\
-3. & \text{The *two* *concepts* *diverge* (the *pleiotropy*, the *polygeny*, the *alternative* *splicing*), and the *divergence* *blocks* the *reduction* (Ch. 21, §9.2).} \\
+1. & \text{The Mendelian gene is defined by the phenotypic effects (the inheritance pattern).} \\
+2. & \text{The molecular gene is defined by the DNA sequence (the transcription, the translation).} \\
+3. & \text{The two concepts diverge (the pleiotropy, the polygeny, the alternative splicing), and the divergence blocks the reduction (Ch. 21, §9.2).} \\
 \hline
-4. & \therefore \text{The *gene* *concept* *is* *plural* (the *pluralist* *insight*), and the *reduction* *is* *partial* (the *reduction* *of the *explanation* *does* not *eliminate* the *Mendelian* *level).}
+4. & \therefore \text{The gene concept is plural (the pluralist insight), and the reduction is partial (the reduction of the explanation does not eliminate the Mendelian level).}
 \end{array}
 $$
 
@@ -478,17 +478,17 @@ $$
 **The *structure***.
 
 $$
-\text{Theory} = \text{a *family* of *models*} \ \{M_1, M_2, \ldots\}
+\text{Theory} = \text{a family of models} \ \{M_1, M_2, \ldots\}
 $$
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
-1. & \text{The *scientific* *practice* *uses* the *models* (the *dynamical* *models*, the *statistical* *models*, the *computational* *models*).} \\
-2. & \text{The *models* are *not* the *axioms* (they are *structures* that *satisfy* the *axioms*, and the *same* *axioms* *have* the *many* *models*).} \\
+1. & \text{The scientific practice uses the models (the dynamical models, the statistical models, the computational models).} \\
+2. & \text{The models are not the axioms (they are structures that satisfy the axioms, and the same axioms have the many models).} \\
 \hline
-3. & \therefore \text{The *theories* are the *families* of *models* (the *semantic* *view*).}
+3. & \therefore \text{The theories are the families of models (the semantic view).}
 \end{array}
 $$
 
@@ -502,11 +502,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *models* *describe* the *idealized* *systems* (the *frictionless* *plane*, the *ideal* *gas*, the *rational* *agent*).} \\
-2. & \text{The *idealized* *systems* *are* *not* *real* (the *friction* *exists*, the *gas* *is* *not* *ideal*, the *agent* *is* *not* *rational*).} \\
-3. & \text{The *models* *represent* the *real* *systems* *without* *describing* them *truly* (the *representation* *is* *fictional*).} \\
+1. & \text{The models describe the idealized systems (the frictionless plane, the ideal gas, the rational agent).} \\
+2. & \text{The idealized systems are not real (the friction exists, the gas is not ideal, the agent is not rational).} \\
+3. & \text{The models represent the real systems without describing them truly (the representation is fictional).} \\
 \hline
-4. & \therefore \text{The *models* are *fictions* (the *fictionalist* *insight*).}
+4. & \therefore \text{The models are fictions (the fictionalist insight).}
 \end{array}
 $$
 
@@ -528,10 +528,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *explanation* *requires* the *truth* (the *explanation* is *factive*; Ch. 38, §6).} \\
-2. & \text{The *models* are *false* (the *idealizations*; §5.2).} \\
+1. & \text{The explanation requires the truth (the explanation is factive; Ch. 38, §6).} \\
+2. & \text{The models are false (the idealizations; §5.2).} \\
 \hline
-3. & \therefore \text{The *models* *cannot* *explain* (the *problem*).}
+3. & \therefore \text{The models cannot explain (the problem).}
 \end{array}
 $$
 
@@ -573,10 +573,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *scientific* *claims* are *justified* by the *evidence* (the *epistemic* *norms*).} \\
-2. & \text{The *evidence* is *independent* of the *values* (the *observation*, the *experiment*, the *logic*).} \\
+1. & \text{The scientific claims are justified by the evidence (the epistemic norms).} \\
+2. & \text{The evidence is independent of the values (the observation, the experiment, the logic).} \\
 \hline
-3. & \therefore \text{The *science* is *value*-*free* (the *value*-*free* *ideal*).}
+3. & \therefore \text{The science is value-free (the value-free ideal).}
 \end{array}
 $$
 
@@ -590,11 +590,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *acceptance* of a *hypothesis* *requires* the *decision* that the *evidence* is *sufficient*.} \\
-2. & \text{The *decision* *depends* on the *costs* of the *Type* *I* and the *Type* *II* *errors* (the *false* *positive*, the *false* *negative*).} \\
-3. & \text{The *costs* are *values* (the *health*, the *safety*, the *economic* *interests*).} \\
+1. & \text{The acceptance of a hypothesis requires the decision that the evidence is sufficient.} \\
+2. & \text{The decision depends on the costs of the Type I and the Type II errors (the false positive, the false negative).} \\
+3. & \text{The costs are values (the health, the safety, the economic interests).} \\
 \hline
-4. & \therefore \text{The *acceptance* *requires* the *values* (the *inductive* *risk* *argument*).}
+4. & \therefore \text{The acceptance requires the values (the inductive risk argument).}
 \end{array}
 $$
 
@@ -618,11 +618,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *individual* *inquiry* *is* *subject* to the *bias* (the *confirmation* *bias*, the *interests*).} \\
-2. & \text{The *community* *can* *correct* the *bias* (if the *conditions* of the *criticism* are *satisfied*).} \\
-3. & \text{The *conditions* are *normative* (they *require* the *equality*, the *diversity*, the *transparency*).} \\
+1. & \text{The individual inquiry is subject to the bias (the confirmation bias, the interests).} \\
+2. & \text{The community can correct the bias (if the conditions of the criticism are satisfied).} \\
+3. & \text{The conditions are normative (they require the equality, the diversity, the transparency).} \\
 \hline
-4. & \therefore \text{The *objectivity* is *social* and *normative* (the *social* *account*).}
+4. & \therefore \text{The objectivity is social and normative (the social account).}
 \end{array}
 $$
 
@@ -677,10 +677,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *philosophy* of *mind* *uses* the *claims* of the *special* *sciences* (the *psychology*, the *neuroscience*).} \\
-2. & \text{The *claims* *presuppose* the *theory* of the *laws* and the *kinds* (§1–§3).} \\
+1. & \text{The philosophy of mind uses the claims of the special sciences (the psychology, the neuroscience).} \\
+2. & \text{The claims presuppose the theory of the laws and the kinds (§1–§3).} \\
 \hline
-3. & \therefore \text{The *philosophy* of *science* *constrains* the *philosophy* of *mind* (the *constraint*).}
+3. & \therefore \text{The philosophy of science constrains the philosophy of mind (the constraint).}
 \end{array}
 $$
 
@@ -694,10 +694,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *metaphysics* *of the *laws* *depends* on the *science* (the *best* *system*, the *necessitation*, the *disposition*).} \\
-2. & \text{The *science* *provides* the *data* and the *constraints* (the *practice*, the *experiment*).} \\
+1. & \text{The metaphysics of the laws depends on the science (the best system, the necessitation, the disposition).} \\
+2. & \text{The science provides the data and the constraints (the practice, the experiment).} \\
 \hline
-3. & \therefore \text{The *philosophy* of *science* *constrains* the *metaphysics* (the *constraint*).}
+3. & \therefore \text{The philosophy of science constrains the metaphysics (the constraint).}
 \end{array}
 $$
 
@@ -711,10 +711,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *ethics* of the *science* *depends* on the *theory* of the *values* in the *science* (§6).} \\
-2. & \text{The *theory* of the *values* *depends* on the *theory* of the *inquiry* (Ch. 8, §5).} \\
+1. & \text{The ethics of the science depends on the theory of the values in the science (§6).} \\
+2. & \text{The theory of the values depends on the theory of the inquiry (Ch. 8, §5).} \\
 \hline
-3. & \therefore \text{The *philosophy* of *science* *constrains* the *ethics* (the *constraint*).}
+3. & \therefore \text{The philosophy of science constrains the ethics (the constraint).}
 \end{array}
 $$
 
@@ -728,10 +728,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *epistemology* *of the *science* *depends* on the *theory* of the *testimony* (the *trust*, the *expertise*; Ch. 11, §1).} \\
-2. & \text{The *theory* of the *testimony* *depends* on the *theory* of the *institutions* (Ch. 11, §5).} \\
+1. & \text{The epistemology of the science depends on the theory of the testimony (the trust, the expertise; Ch. 11, §1).} \\
+2. & \text{The theory of the testimony depends on the theory of the institutions (Ch. 11, §5).} \\
 \hline
-3. & \therefore \text{The *philosophy* of *science* *constrains* the *epistemology* (the *constraint*).}
+3. & \therefore \text{The philosophy of science constrains the epistemology (the constraint).}
 \end{array}
 $$
 

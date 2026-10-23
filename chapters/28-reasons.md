@@ -47,11 +47,11 @@ The chapter proceeds in eight movements. §1 examines *Davidson*'s *thesis* that
 
 $$
 \begin{array}{ll}
-1. & \text{The *explanation* of an action by a reason is a *rationalization*: the reason *makes* the action *intelligible* (it *shows* the action as *reasonable* from the agent's *perspective*).} \\
-2. & \text{The *rationalization* *works* only if the reason is *causally* *connected* to the action (the *reason* must have *produced* the *action*).} \\
-3. & \text{The *connection* is *causal*, not *logical*.} \\
+1. & \text{The explanation of an action by a reason is a rationalization: the reason makes the action intelligible (it shows the action as reasonable from the agent's perspective).} \\
+2. & \text{The rationalization works only if the reason is causally connected to the action (the reason must have produced the action).} \\
+3. & \text{The connection is causal, not logical.} \\
 \hline
-4. & \therefore \text{Reasons are *causes*.}
+4. & \therefore \text{Reasons are causes.}
 \end{array}
 $$
 
@@ -78,11 +78,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{A *reason* and the *action* it explains are *logically* *connected* (the *reason* *entails* or *makes* *intelligible* the *action*).} \\
-2. & \text{A *causal* relation is *contingent* (the *cause* *can* *occur* without the *effect*).} \\
-3. & \text{If the *relation* is *logical*, it *cannot* be *causal*.} \\
+1. & \text{A reason and the action it explains are logically connected (the reason entails or makes intelligible the action).} \\
+2. & \text{A causal relation is contingent (the cause can occur without the effect).} \\
+3. & \text{If the relation is logical, it cannot be causal.} \\
 \hline
-4. & \therefore \text{Reasons are *not* causes.}
+4. & \therefore \text{Reasons are not causes.}
 \end{array}
 $$
 
@@ -118,9 +118,9 @@ where $e_R$ and $e_A$ are the *events* and $D_R$ and $D_A$ are the *descriptions
 
 $$
 \begin{array}{ll}
-(\mathrm{P}_1) & \text{The *mental* is *causally* *efficacious* (the *mental* *causes* *physical* *events*).} \\
-(\mathrm{P}_2) & \text{The *physical* *is* *causally* *closed* (every *physical* *event* has a *sufficient* *physical* *cause*).} \\
-(\mathrm{P}_3) & \text{The *mental* is *not* *nomologically* *reducible* (no *strict* *psychological* *laws*).}
+(\mathrm{P}_1) & \text{The mental is causally efficacious (the mental causes physical events).} \\
+(\mathrm{P}_2) & \text{The physical is causally closed (every physical event has a sufficient physical cause).} \\
+(\mathrm{P}_3) & \text{The mental is not nomologically reducible (no strict psychological laws).}
 \end{array}
 $$
 
@@ -129,7 +129,7 @@ $$
 $$
 \begin{array}{ll}
 1. & \text{If } \mathrm{P}_1 \text{ and } \mathrm{P}_2 \text{ are true, mental events are identical to physical events (identity).} \\
-2. & \text{If } \mathrm{P}_3 \text{ is true, the identity is not nomological (it is *anomalous*).} \\
+2. & \text{If } \mathrm{P}_3 \text{ is true, the identity is not nomological (it is anomalous).} \\
 \hline
 3. & \therefore \text{Anomalous monism (identity without reduction).}
 \end{array}
@@ -153,11 +153,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *mental* *event* *causes* the *action* *because* of its *content* (the *belief* *that* the *train* *is* *leaving* *causes* the *running* *because* of *what* the *belief* *represents*).} \\
-2. & \text{The *content* is *not* a *physical* *property* (it is a *representational* *property*; Ch. 25, §4).} \\
-3. & \text{The *physical* *causation* is *indifferent* to the *content*.} \\
+1. & \text{The mental event causes the action because of its content (the belief that the train is leaving causes the running because of what the belief represents).} \\
+2. & \text{The content is not a physical property (it is a representational property; Ch. 25, §4).} \\
+3. & \text{The physical causation is indifferent to the content.} \\
 \hline
-4. & \therefore \text{The *content* is *not* *causally* *efficacious* (epiphenomenalism about content).}
+4. & \therefore \text{The content is not causally efficacious (epiphenomenalism about content).}
 \end{array}
 $$
 
@@ -210,9 +210,9 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{A *belief* is a *representation* of the *world* (it *aims* at *truth*).} \\
-2. & \text{A *representation* *alone* *cannot* *produce* an *action* (it *tells* us *what* is the *case*, not *what* to *do*).} \\
-3. & \text{An *action* *requires* a *conative* *state* (a *desire*, a *pro-attitude*).} \\
+1. & \text{A belief is a representation of the world (it aims at truth).} \\
+2. & \text{A representation alone cannot produce an action (it tells us what is the case, not what to do).} \\
+3. & \text{An action requires a conative state (a desire, a pro-attitude).} \\
 \hline
 4. & \therefore \text{Beliefs alone cannot motivate (motivation requires a desire).}
 \end{array}
@@ -235,18 +235,18 @@ $$
 **The *definition*.
 
 $$
-\text{Agent } A \text{ has a *reason* to } \phi \quad \text{iff} \quad \exists s \in S_A\, (s \text{ *favors* } \phi\text{-ing, after *sound* *deliberation*})
+\text{Agent } A \text{ has a reason to } \phi \quad \text{iff} \quad \exists s \in S_A\, (s \text{ favors } \phi\text{-ing, after sound deliberation})
 $$
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
-1. & \text{An *explanation* of an action by a reason *must* *connect* the reason to the agent's *motivations* (the *"belief-desire"* *model*).} \\
-2. & \text{If the reason does not *connect*, the explanation is *not* an *explanation* (it is a *"bluff"*).} \\
-3. & \text{The *external* reason *statement* is a *bluff* (it *does* not *explain* the action).} \\
+1. & \text{An explanation of an action by a reason must connect the reason to the agent's motivations (the “belief-desire” model).} \\
+2. & \text{If the reason does not connect, the explanation is not an explanation (it is a “bluff”).} \\
+3. & \text{The external reason statement is a bluff (it does not explain the action).} \\
 \hline
-4. & \therefore \text{There are *no* *external* reasons (the *internalist* *thesis*).}
+4. & \therefore \text{There are no external reasons (the internalist thesis).}
 \end{array}
 $$
 
@@ -268,10 +268,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *normative* *reason* is a *fact* (the *train* *is* *leaving*).} \\
-2. & \text{The *fact* is *independent* of the agent's *motivations* (it *obtains* *regardless* of whether the agent *cares*).} \\
+1. & \text{The normative reason is a fact (the train is leaving).} \\
+2. & \text{The fact is independent of the agent's motivations (it obtains regardless of whether the agent cares).} \\
 \hline
-3. & \therefore \text{The *normative* *reasons* are *external* (they *exist* *independently* of the *agent*'s *motivations*).}
+3. & \therefore \text{The normative reasons are external (they exist independently of the agent's motivations).}
 \end{array}
 $$
 
@@ -317,8 +317,8 @@ $$
 
 $$
 \begin{array}{ll}
-\text{Belief}: & B(p) \text{ is *correct* iff } p \\
-\text{Desire}: & D(p) \text{ is *satisfied* iff } p
+\text{Belief}: & B(p) \text{ is correct iff } p \\
+\text{Desire}: & D(p) \text{ is satisfied iff } p
 \end{array}
 $$
 
@@ -354,10 +354,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *desire* is *directed* at an *object* (the *agent* *wants* it).} \\
-2. & \text{The *direction* *presupposes* an *evaluation* (the *agent* *values* the *object*, at least *instrumentally*).} \\
+1. & \text{The desire is directed at an object (the agent wants it).} \\
+2. & \text{The direction presupposes an evaluation (the agent values the object, at least instrumentally).} \\
 \hline
-3. & \therefore \text{The *desire* *represents* the *object* as *good*.}
+3. & \therefore \text{The desire represents the object as good.}
 \end{array}
 $$
 
@@ -404,11 +404,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *instrumental* *principle* *presupposes* that the *agent* *has* *ends*, and the *ends* *require* *justification*.} \\
-2. & \text{The *justification* *requires* a *substantive* *norm* (the *“*categorical*”* *norm*; the *“*object*-*given*”* *reason*).} \\
-3. & \text{The *substantive* *norm* *is* *not* *reducible* to the *instrumental* *principle*.} \\
+1. & \text{The instrumental principle presupposes that the agent has ends, and the ends require justification.} \\
+2. & \text{The justification requires a substantive norm (the “categorical” norm; the “object-given” reason).} \\
+3. & \text{The substantive norm is not reducible to the instrumental principle.} \\
 \hline
-4. & \therefore \text{The *instrumentalist* *view* is *false*.}
+4. & \therefore \text{The instrumentalist view is false.}
 \end{array}
 $$
 
@@ -433,10 +433,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *procedural* *rationality* is *not* *sufficient* for *substantive* *rationality* (a *coherent* *set* of *states* *can* be *false*).} \\
-2. & \text{The *substantive* *rationality* *requires* a *standard* *of* *correctness*.} \\
+1. & \text{The procedural rationality is not sufficient for substantive rationality (a coherent set of states can be false).} \\
+2. & \text{The substantive rationality requires a standard of correctness.} \\
 \hline
-3. & \therefore \text{The *two* *kinds* are *distinct*, and the *substantive* *is* *not* *reducible* to the *procedural*.}
+3. & \therefore \text{The two kinds are distinct, and the substantive is not reducible to the procedural.}
 \end{array}
 $$
 
@@ -450,10 +450,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *ideal* *rationality* (the *maximization* of *expected* *utility*) *requires* *unlimited* *computational* *capacity*.} \\
-2. & \text{The *capacity* is *limited*.} \\
+1. & \text{The ideal rationality (the maximization of expected utility) requires unlimited computational capacity.} \\
+2. & \text{The capacity is limited.} \\
 \hline
-3. & \therefore \text{The *rationality* is *bounded* (the *agent* *satisficies*, rather than *maximizes*).}
+3. & \therefore \text{The rationality is bounded (the agent satisficies, rather than maximizes).}
 \end{array}
 $$
 
@@ -469,10 +469,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *empirical* *evidence* shows that *agents* *deviate* *systematically* from the *model* (the *framing* *effects*, the *anchoring*, the *loss* *aversion*; §7.2).} \\
-2. & \text{The *deviations* are *not* *random* (they are *predictable*).} \\
+1. & \text{The empirical evidence shows that agents deviate systematically from the model (the framing effects, the anchoring, the loss aversion; §7.2).} \\
+2. & \text{The deviations are not random (they are predictable).} \\
 \hline
-3. & \therefore \text{The *model* is an *idealization*, not a *description*.}
+3. & \therefore \text{The model is an idealization, not a description.}
 \end{array}
 $$
 
@@ -519,10 +519,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Both *kinds* *require* *consistency* (the *logical* *coherence* of the *states*).} \\
-2. & \text{Both *kinds* *require* the *fitting* of the *state* to its *object* (the *belief* to the *fact*; the *intention* to the *good*).} \\
+1. & \text{Both kinds require consistency (the logical coherence of the states).} \\
+2. & \text{Both kinds require the fitting of the state to its object (the belief to the fact; the intention to the good).} \\
 \hline
-3. & \therefore \text{The *norms* are *symmetric* (the *same* *norms* *apply* to *both*).}
+3. & \therefore \text{The norms are symmetric (the same norms apply to both).}
 \end{array}
 $$
 
@@ -536,11 +536,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *belief* *aims* at *truth* (the *mind*-to-*world* *direction*).} \\
-2. & \text{The *intention* *aims* at *action* (the *world*-to-*mind* *direction*).} \\
-3. & \text{The *directions* are *distinct* (the *direction* *of* *fit*; §3.1).} \\
+1. & \text{The belief aims at truth (the mind-to-world direction).} \\
+2. & \text{The intention aims at action (the world-to-mind direction).} \\
+3. & \text{The directions are distinct (the direction of fit; §3.1).} \\
 \hline
-4. & \therefore \text{The *norms* are *asymmetric*.}
+4. & \therefore \text{The norms are asymmetric.}
 \end{array}
 $$
 
@@ -576,10 +576,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Everyone *desires* the *good* (the *Socratic* *premise*).} \\
-2. & \text{If one *knows* the *good*, one *does* it (the *intellectualist* *premise*).} \\
+1. & \text{Everyone desires the good (the Socratic premise).} \\
+2. & \text{If one knows the good, one does it (the intellectualist premise).} \\
 \hline
-3. & \therefore \text{Wrongdoing is *ignorance* (the *agent* *mistakes* the *bad* for the *good*).}
+3. & \therefore \text{Wrongdoing is ignorance (the agent mistakes the bad for the good).}
 \end{array}
 $$
 
@@ -615,11 +615,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *agent* *judges* that } \phi \text{ is *best* (the *all*-*things*-*considered* *judgment*).} \\
-2. & \text{The *agent* *acts* on a *reason* that *favors* } \neg\phi \text{ (a *prima* *facie* *reason*).} \\
-3. & \text{The *reason* *causes* the *action*, but it is *not* the *agent*'s *best* *judgment*.} \\
+1. & \text{The agent judges that } \phi \text{ is best (the all-things-considered judgment).} \\
+2. & \text{The agent acts on a reason that favors } \neg\phi \text{ (a prima facie reason).} \\
+3. & \text{The reason causes the action, but it is not the agent's best judgment.} \\
 \hline
-4. & \therefore \text{Akrasia is *possible* (the *action* is *intentional* but *not* *rational*).}
+4. & \therefore \text{Akrasia is possible (the action is intentional but not rational).}
 \end{array}
 $$
 
@@ -635,11 +635,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *all*-*things*-*considered* *judgment* is *motivating* (the *internalist* *premise*).} \\
-2. & \text{The *motivation* is *stronger* than the *prima* *facie* *motivation* (the *judgment* *outweighs* the *reason*).} \\
-3. & \text{The *agent* *acts* on the *weaker* *motivation*.} \\
+1. & \text{The all-things-considered judgment is motivating (the internalist premise).} \\
+2. & \text{The motivation is stronger than the prima facie motivation (the judgment outweighs the reason).} \\
+3. & \text{The agent acts on the weaker motivation.} \\
 \hline
-4. & \therefore \text{The *agent* *acts* *against* her *strongest* *motivation*, and the *action* is *unintelligible* (the *paradox* of *akrasia*).}
+4. & \therefore \text{The agent acts against her strongest motivation, and the action is unintelligible (the paradox of akrasia).}
 \end{array}
 $$
 
@@ -659,11 +659,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{To *deceive* *yourself*, you must *know* the *truth* (the *deception* *requires* the *knowledge*).} \\
-2. & \text{To *be* *deceived*, you must *believe* the *falsehood* (the *deception* *requires* the *belief*).} \\
-3. & \text{You *cannot* *know* and *believe* the *contradictory* (the *contradiction* *is* *impossible*).} \\
+1. & \text{To deceive yourself, you must know the truth (the deception requires the knowledge).} \\
+2. & \text{To be deceived, you must believe the falsehood (the deception requires the belief).} \\
+3. & \text{You cannot know and believe the contradictory (the contradiction is impossible).} \\
 \hline
-4. & \therefore \text{Self-deception is *impossible* (the *paradox*).}
+4. & \therefore \text{Self-deception is impossible (the paradox).}
 \end{array}
 $$
 

@@ -47,10 +47,10 @@ The chapter proceeds in eight movements. §1 examines the *nature* of *life* and
 
 $$
 \begin{array}{ll}
-1. & \text{The *virus* *reproduces* and *evolves* (the *replicator* *criterion*).} \\
-2. & \text{The *virus* *does* not *metabolize* or *self-organize* (the *metabolic* *criterion*).} \\
+1. & \text{The virus reproduces and evolves (the replicator criterion).} \\
+2. & \text{The virus does not metabolize or self-organize (the metabolic criterion).} \\
 \hline
-3. & \therefore \text{The *virus* *is* a *borderline* *case* (the *cluster* *concept*), and the *definition* *of* *life* is *not* *sharp*.}
+3. & \therefore \text{The virus is a borderline case (the cluster concept), and the definition of life is not sharp.}
 \end{array}
 $$
 
@@ -63,7 +63,7 @@ $$
 **The *structure***.
 
 $$
-\text{Life} = \text{a *self*-*producing* *network* of *processes* that *maintains* its *own* *organization*}
+\text{Life} = \text{a self-producing network of processes that maintains its own organization}
 $$
 
 **The *virtue***. The *account* *captures* the *difference* between the *living* and the *non-living* (the *crystal* *self-organizes*, and it *does* not *self-produce*; the *cell* *self-produces*), and it *avoids* the *reproductive* *criterion* (the *sterile* *organism* is *alive*), and it *grounds* the *life* in the *organization*, not the *molecules*.
@@ -86,10 +86,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *Darwinian* *conditions* (the *variation*, the *heredity*, the *differential* *fitness*) *define* the *evolution* (the *Lewontin* *insight*).} \\
-2. & \text{The *evolution* is the *defining* *characteristic* of the *life* (the *Dobzhansky* *insight*).} \\
+1. & \text{The Darwinian conditions (the variation, the heredity, the differential fitness) define the evolution (the Lewontin insight).} \\
+2. & \text{The evolution is the defining characteristic of the life (the Dobzhansky insight).} \\
 \hline
-3. & \therefore \text{The *life* is the *Darwinian* *population* (the *evolutionary* *criterion*).}
+3. & \therefore \text{The life is the Darwinian population (the evolutionary criterion).}
 \end{array}
 $$
 
@@ -113,10 +113,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *living* *systems* *are* *too* *heterogeneous* to *have* a *single* *essence* (the *virus*, the *bacterium*, the *eukaryote*, the *multicellular* *organism*).} \\
-2. & \text{The *definitions* *are* *instruments* (the *different* *purposes* *require* the *different* *criteria*).} \\
+1. & \text{The living systems are too heterogeneous to have a single essence (the virus, the bacterium, the eukaryote, the multicellular organism).} \\
+2. & \text{The definitions are instruments (the different purposes require the different criteria).} \\
 \hline
-3. & \therefore \text{The *life* is *not* a *natural* *kind* (the *pluralist* *insight*), and the *definition* is *pragmatic*.}
+3. & \therefore \text{The life is not a natural kind (the pluralist insight), and the definition is pragmatic.}
 \end{array}
 $$
 
@@ -150,11 +150,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *biological* *functions* are *teleological* (they *refer* to the *ends*).} \\
-2. & \text{The *teleology* *requires* a *naturalistic* *reduction* (the *naturalism*; Ch. 25, §1.3).} \\
-3. & \text{The *reduction* *must* *capture* the *normativity* (the *dysfunction*).} \\
+1. & \text{The biological functions are teleological (they refer to the ends).} \\
+2. & \text{The teleology requires a naturalistic reduction (the naturalism; Ch. 25, §1.3).} \\
+3. & \text{The reduction must capture the normativity (the dysfunction).} \\
 \hline
-4. & \therefore \text{The *function* *debate* is the *test* *case* for the *naturalization* *of* *teleology* (the *function* *problem*).}
+4. & \therefore \text{The function debate is the test case for the naturalization of teleology (the function problem).}
 \end{array}
 $$
 
@@ -165,18 +165,18 @@ $$
 **The *structure***.
 
 $$
-\text{Function}(x, F) \quad \text{iff} \quad F \text{ is the *effect* for which } x\text{’s *type* was *selected*}
+\text{Function}(x, F) \quad \text{iff} \quad F \text{ is the effect for which } x\text{’s type was selected}
 $$
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
-1. & \text{The *function* *ascriptions* are *teleological* (they *refer* to the *ends*).} \\
-2. & \text{The *ends* are *causally* *grounded* in the *selection* (the *trait* *exists* *because* it *did* the *effect*).} \\
-3. & \text{The *selection* *is* a *naturalistic* *process* (the *variation*, the *heredity*, the *fitness*).} \\
+1. & \text{The function ascriptions are teleological (they refer to the ends).} \\
+2. & \text{The ends are causally grounded in the selection (the trait exists because it did the effect).} \\
+3. & \text{The selection is a naturalistic process (the variation, the heredity, the fitness).} \\
 \hline
-4. & \therefore \text{The *function* is the *selected* *effect* (the *etiological* *account*).}
+4. & \therefore \text{The function is the selected effect (the etiological account).}
 \end{array}
 $$
 
@@ -203,17 +203,17 @@ $$
 **The *structure***.
 
 $$
-\text{Function}(x, F, S) \quad \text{iff} \quad F \text{ is a *capacity* of } x \text{ that *contributes* to the *capacity* } C \text{ of the *system* } S
+\text{Function}(x, F, S) \quad \text{iff} \quad F \text{ is a capacity of } x \text{ that contributes to the capacity } C \text{ of the system } S
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *function* *analysis* is a *decomposition* of a *system* into the *capacities* (the *functional* *analysis*).} \\
-2. & \text{The *decomposition* *does* not *require* the *selection* (it *is* a *synchronic* *analysis*). \\
+1. & \text{The function analysis is a decomposition of a system into the capacities (the functional analysis).} \\
+2. & \text{The decomposition does not require the selection (it is a synchronic analysis).} \\
 \hline
-3. & \therefore \text{The *function* is the *causal* *contribution* (the *causal*-*role* *account*).}
+3. & \therefore \text{The function is the causal contribution (the causal-role account).}
 \end{array}
 $$
 
@@ -237,10 +237,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *etiological* *account* *captures* the *selected* *traits* (the *hearts*, the *eyes*).} \\
-2. & \text{The *causal*-*role* *account* *captures* the *non*-*selected* *traits* (the *spandrels*, the *artifacts*).} \\
+1. & \text{The etiological account captures the selected traits (the hearts, the eyes).} \\
+2. & \text{The causal-role account captures the non-selected traits (the spandrels, the artifacts).} \\
 \hline
-3. & \therefore \text{The *function* *ascriptions* are *plural* (the *pluralist* *insight*).}
+3. & \therefore \text{The function ascriptions are plural (the pluralist insight).}
 \end{array}
 $$
 
@@ -264,11 +264,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *function* *ascription* *implies* the *norm* (the *dysfunction*).} \\
-2. & \text{The *norm* *requires* a *normative* *ground* (the *selection*, the *statistics*, the *value*).} \\
-3. & \text{The *ground* is the *selection* (the *etiological* *insight*).} \\
+1. & \text{The function ascription implies the norm (the dysfunction).} \\
+2. & \text{The norm requires a normative ground (the selection, the statistics, the value).} \\
+3. & \text{The ground is the selection (the etiological insight).} \\
 \hline
-4. & \therefore \text{The *normativity* is *grounded* in the *selection* (the *etiological* *insight*), and it is *compatible* with the *naturalism* (the *naturalistic* *insight*), and it is *not* *reducible* to the *statistics* (the *normative* *insight*).}
+4. & \therefore \text{The normativity is grounded in the selection (the etiological insight), and it is compatible with the naturalism (the naturalistic insight), and it is not reducible to the statistics (the normative insight).}
 \end{array}
 $$
 
@@ -282,10 +282,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *teleological* *talk* is *indispensable* for the *adaptationist* *explanation* (the *reverse* *engineering*).} \\
-2. & \text{The *indispensability* *is* *not* *eliminated* by the *reduction* (the *reduced* *notion* *is* *still* *teleological*).} \\
+1. & \text{The teleological talk is indispensable for the adaptationist explanation (the reverse engineering).} \\
+2. & \text{The indispensability is not eliminated by the reduction (the reduced notion is still teleological).} \\
 \hline
-3. & \therefore \text{The *teleological* *talk* *persists* (the *irreducibility* *of* the *explanatory* *role*), and it is *grounded* in the *selection* (the *naturalistic* *insight*).}
+3. & \therefore \text{The teleological talk persists (the irreducibility of the explanatory role), and it is grounded in the selection (the naturalistic insight).}
 \end{array}
 $$
 
@@ -315,7 +315,7 @@ $$
 **The *BSC*** (Mayr, *Systematics and the Origin of Species*, 1942, p. 120).
 
 $$
-\text{Species} = \text{a *maximal* *set* of *interbreeding* *populations* that is *reproductively* *isolated*} \ \text{from the *others*}
+\text{Species} = \text{a maximal set of interbreeding populations that is reproductively isolated} \ \text{from the others}
 $$
 
 **The *PSC*** (Cracraft, “Species Concepts and Speciation Analysis,” 1983; de Queiroz & Donoghue, “Phylogenetic Systematics and the Species Problem,” 1988). The *species* is the *smallest* *diagnosable* *cluster* of the *organisms* *sharing* the *common* *ancestry*.
@@ -328,11 +328,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *species* *concepts* *capture* the *different* *biological* *patterns* (the *interbreeding*, the *ancestry*, the *niche*, the *morphology*).} \\
-2. & \text{The *patterns* are *real* (they *are* *not* *conventional*), and the *patterns* *cross*-*cut* *one* another.} \\
-3. & \text{The *concepts* *are* *not* *reducible* to a *single* *concept* (the *irreducibility*).} \\
+1. & \text{The species concepts capture the different biological patterns (the interbreeding, the ancestry, the niche, the morphology).} \\
+2. & \text{The patterns are real (they are not conventional), and the patterns cross-cut one another.} \\
+3. & \text{The concepts are not reducible to a single concept (the irreducibility).} \\
 \hline
-4. & \therefore \text{The *species* *pluralism* (the *pluralist* *insight*), and the *species* *is* *not* a *single* *natural* *kind*.}
+4. & \therefore \text{The species pluralism (the pluralist insight), and the species is not a single natural kind.}
 \end{array}
 $$
 
@@ -344,11 +344,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *species* *are* *spatiotemporally* *restricted* (the *Homo* *sapiens* *exists* *here* and *now*, *not* *everywhere*).} \\
-2. & \text{The *species* *are* *historically* *connected* (the *members* *are* *connected* by the *ancestry*, not *only* by the *shared* *properties*).} \\
-3. & \text{The *spatiotemporal* *restriction* and the *historical* *connection* are the *marks* of the *individuals* (the *Aristotelian* *criterion*; Ch. 15, §2).} \\
+1. & \text{The species are spatiotemporally restricted (the Homo sapiens exists here and now, not everywhere).} \\
+2. & \text{The species are historically connected (the members are connected by the ancestry, not only by the shared properties).} \\
+3. & \text{The spatiotemporal restriction and the historical connection are the marks of the individuals (the Aristotelian criterion; Ch. 15, §2).} \\
 \hline
-4. & \therefore \text{The *species* are *individuals* (the *Ghiselin*–*Hull* *thesis*).}
+4. & \therefore \text{The species are individuals (the Ghiselin–Hull thesis).}
 \end{array}
 $$
 
@@ -372,10 +372,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *different* *species* *concepts* *capture* the *different* *real* *biological* *patterns* (the *interbreeding*, the *phylogeny*, the *niche*, the *morphology*).} \\
-2. & \text{The *patterns* *cross*-*cut* (a *single* *population* *can* *be* a *species* *under* *one* *concept* and *not* under *another*).} \\
+1. & \text{The different species concepts capture the different real biological patterns (the interbreeding, the phylogeny, the niche, the morphology).} \\
+2. & \text{The patterns cross-cut (a single population can be a species under one concept and not under another).} \\
 \hline
-3. & \therefore \text{The *species* *pluralism* (the *pluralist* *insight*), and the *species* *is* *not* a *single* *natural* *kind*.}
+3. & \therefore \text{The species pluralism (the pluralist insight), and the species is not a single natural kind.}
 \end{array}
 $$
 
@@ -409,10 +409,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *biological* *individuals* *are* *too* *heterogeneous* *to* *have* a *single* *criterion* (the *organisms*, the *colonies*, the *holobionts*).} \\
-2. & \text{The *different* *criteria* *cross*-*cut* (the *colony* *satisfies* the *evolutionary* *criterion* and *not* the *immunological*).} \\
+1. & \text{The biological individuals are too heterogeneous to have a single criterion (the organisms, the colonies, the holobionts).} \\
+2. & \text{The different criteria cross-cut (the colony satisfies the evolutionary criterion and not the immunological).} \\
 \hline
-3. & \therefore \text{The *biological* *individual* *is* a *plural* *notion* (the *pluralist* *insight*), and the *individuality* *is* a *matter* of *degree* (the *continuum* *insight*).}
+3. & \therefore \text{The biological individual is a plural notion (the pluralist insight), and the individuality is a matter of degree (the continuum insight).}
 \end{array}
 $$
 
@@ -453,10 +453,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *gene* *concepts* *capture* the *different* *biological* *patterns* (the *coding*, the *inheritance*, the *selection*, the *regulation*).} \\
-2. & \text{The *patterns* *cross*-*cut* (the *pleiotropy*, the *polygeny*, the *epigenetics*).} \\
+1. & \text{The gene concepts capture the different biological patterns (the coding, the inheritance, the selection, the regulation).} \\
+2. & \text{The patterns cross-cut (the pleiotropy, the polygeny, the epigenetics).} \\
 \hline
-3. & \therefore \text{The *gene* *concept* is *plural* (the *pluralist* *insight*), and the *reduction* *is* *partial* (the *Mendelian* *level* *remains* *explanatorily* *necessary*).}
+3. & \therefore \text{The gene concept is plural (the pluralist insight), and the reduction is partial (the Mendelian level remains explanatorily necessary).}
 \end{array}
 $$
 
@@ -468,10 +468,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *genes* *make* a *difference* to the *phenotypes* (the *difference*-*making* *insight*).} \\
-2. & \text{The *difference* *is* *measured* by the *statistical* *analysis* (the *heritability*, the *association*).} \\
+1. & \text{The genes make a difference to the phenotypes (the difference-making insight).} \\
+2. & \text{The difference is measured by the statistical analysis (the heritability, the association).} \\
 \hline
-3. & \therefore \text{The *genes* are *causes* (the *causal* *insight*), and the *causation* is *context*-*dependent* (the *interactionist* *insight*).}
+3. & \therefore \text{The genes are causes (the causal insight), and the causation is context-dependent (the interactionist insight).}
 \end{array}
 $$
 
@@ -485,11 +485,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *genes* *code* for the *proteins* (the *transcription*, the *translation*).} \\
-2. & \text{The *coding* *is* a *form* of the *information* *transmission* (the *Shannon* *insight*).} \\
-3. & \text{The *transmission* *is* *semantic* (the *code* *means* the *protein*; the *teleosemantic* *insight*).} \\
+1. & \text{The genes code for the proteins (the transcription, the translation).} \\
+2. & \text{The coding is a form of the information transmission (the Shannon insight).} \\
+3. & \text{The transmission is semantic (the code means the protein; the teleosemantic insight).} \\
 \hline
-4. & \therefore \text{The *genes* *carry* the *information* (the *informational* *insight*), and the *information* *is* *context*-*dependent* (the *epigenetic* *insight*).}
+4. & \therefore \text{The genes carry the information (the informational insight), and the information is context-dependent (the epigenetic insight).}
 \end{array}
 $$
 
@@ -525,11 +525,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *development* *is* *caused* by the *multiple* *factors* (the *genes*, the *environment*, the *epigenetics*).} \\
-2. & \text{The *factors* *are* *causally* *on* a *par* (the *interactionism*).} \\
-3. & \text{The *parity* *undermines* the *privileged* *role* of the *genes* (the *genetic* *determinism*).} \\
+1. & \text{The development is caused by the multiple factors (the genes, the environment, the epigenetics).} \\
+2. & \text{The factors are causally on a par (the interactionism).} \\
+3. & \text{The parity undermines the privileged role of the genes (the genetic determinism).} \\
 \hline
-4. & \therefore \text{The *developmental* *systems* *account* (the *parity* *insight*), and the *genetic* *determinism* is *false* (the *interactionist* *insight*).}
+4. & \therefore \text{The developmental systems account (the parity insight), and the genetic determinism is false (the interactionist insight).}
 \end{array}
 $$
 
@@ -570,9 +570,9 @@ $$
 
 $$
 \begin{array}{ll}
-(1) & \text{The *variation* (the *individuals* *differ* in the *traits*).} \\
-(2) & \text{The *heritability* (the *traits* are *inherited*).} \\
-(3) & \text{The *differential* *fitness* (the *traits* *affect* the *reproductive* *success*).}
+(1) & \text{The variation (the individuals differ in the traits).} \\
+(2) & \text{The heritability (the traits are inherited).} \\
+(3) & \text{The differential fitness (the traits affect the reproductive success).}
 \end{array}
 $$
 
@@ -580,10 +580,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{If (1), (2), and (3), then the *trait* *frequencies* *change* (the *selection* *follows*).} \\
-2. & \text{The *selection* is the *mechanism* of the *adaptation* (the *Darwinian* *insight*).} \\
+1. & \text{If (1), (2), and (3), then the trait frequencies change (the selection follows).} \\
+2. & \text{The selection is the mechanism of the adaptation (the Darwinian insight).} \\
 \hline
-3. & \therefore \text{The *selection* *explains* the *adaptation* (the *selectionist* *insight*), and the *explanation* is *mechanistic* (the *mechanistic* *insight*; Ch. 38, §4).}
+3. & \therefore \text{The selection explains the adaptation (the selectionist insight), and the explanation is mechanistic (the mechanistic insight; Ch. 38, §4).}
 \end{array}
 $$
 
@@ -597,10 +597,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *selection* is the *only* *natural* *mechanism* that *produces* the *complex* *adaptive* *design* (the *Darwinian* *insight*).} \\
-2. & \text{The *complex* *design* is *pervasive* (the *organisms* *are* *complex*).} \\
+1. & \text{The selection is the only natural mechanism that produces the complex adaptive design (the Darwinian insight).} \\
+2. & \text{The complex design is pervasive (the organisms are complex).} \\
 \hline
-3. & \therefore \text{The *adaptationism* is the *best* *explanation* of the *complex* *design* (the *adaptationist* *insight*).}
+3. & \therefore \text{The adaptationism is the best explanation of the complex design (the adaptationist insight).}
 \end{array}
 $$
 
@@ -612,11 +612,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *traits* *can* be the *products* of the *selection*, the *drift*, the *developmental* *constraints*, the *by*-*products* (the *alternatives*).} \\
-2. & \text{The *adaptationism* *explains* the *traits* by the *selection* (the *strategy*), and the *strategy* *must* *exclude* the *alternatives* (the *evidence*).} \\
-3. & \text{The *exclusion* *requires* the *evidence* (the *optimality* *models*, the *comparative* *method*), and the *evidence* *is* *contested* (the *“*just*-*so* *stories”*).} \\
+1. & \text{The traits can be the products of the selection, the drift, the developmental constraints, the by-products (the alternatives).} \\
+2. & \text{The adaptationism explains the traits by the selection (the strategy), and the strategy must exclude the alternatives (the evidence).} \\
+3. & \text{The exclusion requires the evidence (the optimality models, the comparative method), and the evidence is contested (the “just-so stories”).} \\
 \hline
-4. & \therefore \text{The *adaptationism* is a *research* *strategy* (the *heuristic*), and it *must* be *constrained* by the *evidence* (the *evidential* *standard*), and the *standard* *is* *contested* (the *critique*).}
+4. & \therefore \text{The adaptationism is a research strategy (the heuristic), and it must be constrained by the evidence (the evidential standard), and the standard is contested (the critique).}
 \end{array}
 $$
 
@@ -639,10 +639,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *replicators* are the *genes* (the *copied* *entities*).} \\
-2. & \text{The *selection* *requires* the *replication* (the *inheritance*).} \\
+1. & \text{The replicators are the genes (the copied entities).} \\
+2. & \text{The selection requires the replication (the inheritance).} \\
 \hline
-3. & \therefore \text{The *gene* is the *unit* of the *selection* (the *gene*-*centric* *insight*).}
+3. & \therefore \text{The gene is the unit of the selection (the gene-centric insight).}
 \end{array}
 $$
 
@@ -666,11 +666,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *mind* is a *set* of the *adaptations* (the *evolutionary* *insight*).} \\
-2. & \text{The *adaptations* were *selected* in the *EEA* (the *environmental* *insight*).} \\
-3. & \text{The *EEA* is *different* from the *current* *environment* (the *mismatch* *insight*).} \\
+1. & \text{The mind is a set of the adaptations (the evolutionary insight).} \\
+2. & \text{The adaptations were selected in the EEA (the environmental insight).} \\
+3. & \text{The EEA is different from the current environment (the mismatch insight).} \\
 \hline
-4. & \therefore \text{The *mind* *has* the *modules* that *were* *adaptive* in the *EEA* (the *evolutionary* *psychology* *insight*), and the *modules* *explain* the *behavior*.}
+4. & \therefore \text{The mind has the modules that were adaptive in the EEA (the evolutionary psychology insight), and the modules explain the behavior.}
 \end{array}
 $$
 
@@ -698,11 +698,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *adaptationist* *explanation* is an *inference* to the *best* *explanation* (Ch. 10, §6).} \\
-2. & \text{The *inference* *requires* the *comparison* with the *alternatives* (the *drift*, the *constraint*, the *by*-*product*).} \\
-3. & \text{The *comparison* *requires* the *evidence* (the *independent* *tests*).} \\
+1. & \text{The adaptationist explanation is an inference to the best explanation (Ch. 10, §6).} \\
+2. & \text{The inference requires the comparison with the alternatives (the drift, the constraint, the by-product).} \\
+3. & \text{The comparison requires the evidence (the independent tests).} \\
 \hline
-4. & \therefore \text{The *adaptationism* *is* *justified* by the *evidence* (the *standard*), and the *evidence* *is* *the* *criterion* (the *evidential* *standard*).}
+4. & \therefore \text{The adaptationism is justified by the evidence (the standard), and the evidence is the criterion (the evidential standard).}
 \end{array}
 $$
 
@@ -745,11 +745,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *biological* *function* is *normative* (the *dysfunction*; §2.5).} \\
-2. & \text{The *mental* *content* is *normative* (the *misrepresentation*, the *correctness*; Ch. 25, §1.4).} \\
-3. & \text{The *function* *grounds* the *content* (the *teleosemantic* *insight*).} \\
+1. & \text{The biological function is normative (the dysfunction; §2.5).} \\
+2. & \text{The mental content is normative (the misrepresentation, the correctness; Ch. 25, §1.4).} \\
+3. & \text{The function grounds the content (the teleosemantic insight).} \\
 \hline
-4. & \therefore \text{The *content* is *grounded* in the *biological* *function* (the *teleosemantics*), and the *normativity* of the *content* is *naturalized* (the *naturalistic* *insight*).}
+4. & \therefore \text{The content is grounded in the biological function (the teleosemantics), and the normativity of the content is naturalized (the naturalistic insight).}
 \end{array}
 $$
 
@@ -760,7 +760,7 @@ $$
 **The *structure***.
 
 $$
-\text{Represents}(r, p) \quad \text{iff} \quad \text{the *proper* *function* of } r \text{ is to *indicate* } p \text{ (the *producer*) and to *guide* the *consumer*}
+\text{Represents}(r, p) \quad \text{iff} \quad \text{the proper function of } r \text{ is to indicate } p \text{ (the producer) and to guide the consumer}
 $$
 
 **The *virtue***. The *theory* *grounds* the *content* in the *selection* *history* (the *producer* *semantics*), and it *captures* the *normativity* (the *misrepresentation* is the *failure* of the *proper* *function*), and it *connects* the *content* to the *consumer* (the *consumer* *semantics*).
@@ -788,10 +788,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *content* *guides* the *behavior* (the *consumer* *uses* the *signal*).} \\
-2. & \text{The *guidance* *is* the *function* (the *consumer* *semantics*).} \\
+1. & \text{The content guides the behavior (the consumer uses the signal).} \\
+2. & \text{The guidance is the function (the consumer semantics).} \\
 \hline
-3. & \therefore \text{The *content* is *determined* by the *consumer* *semantics* (the *consumer* *insight*), and the *producer* *semantics* is *necessary* (the *producer* *insight*).}
+3. & \therefore \text{The content is determined by the consumer semantics (the consumer insight), and the producer semantics is necessary (the producer insight).}
 \end{array}
 $$
 
@@ -815,11 +815,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *teleosemantics* *grounds* the *normativity* (the *proper* *function*).} \\
-2. & \text{The *informational* *account* *grounds* the *indicator* *relation* (the *correlation*).} \\
-3. & \text{The *combination* *avoids* the *objections* to *each* (the *swampman*, the *disjunction*; Ch. 25, §2.2–2.3).} \\
+1. & \text{The teleosemantics grounds the normativity (the proper function).} \\
+2. & \text{The informational account grounds the indicator relation (the correlation).} \\
+3. & \text{The combination avoids the objections to each (the swampman, the disjunction; Ch. 25, §2.2–2.3).} \\
 \hline
-4. & \therefore \text{The *biosemantics* is the *most* *defensible* *account* (the *biosemantic* *insight*).}
+4. & \therefore \text{The biosemantics is the most defensible account (the biosemantic insight).}
 \end{array}
 $$
 
@@ -843,11 +843,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *mental* *content* is *normative* (the *correctness* *conditions*; Ch. 25, §1.4).} \\
-2. & \text{The *normativity* *requires* a *naturalistic* *ground* (the *function*, the *information*).} \\
-3. & \text{The *ground* is the *biological* *function* (the *teleosemantic* *insight*).} \\
+1. & \text{The mental content is normative (the correctness conditions; Ch. 25, §1.4).} \\
+2. & \text{The normativity requires a naturalistic ground (the function, the information).} \\
+3. & \text{The ground is the biological function (the teleosemantic insight).} \\
 \hline
-4. & \therefore \text{The *normativity* *is* *grounded* in the *function* (the *teleosemantic* *insight*), and the *ground* *is* *naturalistic* (the *naturalistic* *insight*), and the *ground* *is* *not* *sufficient* (the *explanatory* *gap*; the *reply* is *contested*).}
+4. & \therefore \text{The normativity is grounded in the function (the teleosemantic insight), and the ground is naturalistic (the naturalistic insight), and the ground is not sufficient (the explanatory gap; the reply is contested).}
 \end{array}
 $$
 
@@ -891,10 +891,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Every *organism* *has* a *good* *of* *its* *own* (the *teleological* *center*; §2).} \\
-2. & \text{The *good* *grounds* the *intrinsic* *value* (the *biocentric* *premise*).} \\
+1. & \text{Every organism has a good of its own (the teleological center; §2).} \\
+2. & \text{The good grounds the intrinsic value (the biocentric premise).} \\
 \hline
-3. & \therefore \text{Every *organism* has the *intrinsic* *value* (the *biocentrism*).}
+3. & \therefore \text{Every organism has the intrinsic value (the biocentrism).}
 \end{array}
 $$
 
@@ -918,10 +918,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *ecosystems* *have* the *properties* (the *integrity*, the *stability*, the *diversity*) that *ground* the *value*.} \\
-2. & \text{The *properties* are *not* *reducible* to the *individual* *organisms* (the *holistic* *insight*).} \\
+1. & \text{The ecosystems have the properties (the integrity, the stability, the diversity) that ground the value.} \\
+2. & \text{The properties are not reducible to the individual organisms (the holistic insight).} \\
 \hline
-3. & \therefore \text{The *ecosystems* *have* the *intrinsic* *value* (the *ecocentrism*), and the *value* is *irreducible* (the *holistic* *insight*).}
+3. & \therefore \text{The ecosystems have the intrinsic value (the ecocentrism), and the value is irreducible (the holistic insight).}
 \end{array}
 $$
 
@@ -945,10 +945,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *biology* *describes* the *natural* *facts* (the *functions*, the *ecosystems*, the *species*).} \\
-2. & \text{The *ethics* *requires* the *normative* *premises* (the *is*/*ought* *gap*; Ch. 44, §1).} \\
+1. & \text{The biology describes the natural facts (the functions, the ecosystems, the species).} \\
+2. & \text{The ethics requires the normative premises (the is/ought gap; Ch. 44, §1).} \\
 \hline
-3. & \therefore \text{The *value* of *nature* *cannot* be *derived* from the *biology* *alone* (the *naturalistic* *fallacy*), and the *value* *requires* the *independent* *normative* *argument*.}
+3. & \therefore \text{The value of nature cannot be derived from the biology alone (the naturalistic fallacy), and the value requires the independent normative argument.}
 \end{array}
 $$
 
@@ -970,11 +970,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *naturalness* is a *descriptive* *property* (the *causal* *history*, the *selection*).} \\
-2. & \text{The *value* is a *normative* *property* (the *good*, the *ought*).} \\
-3. & \text{The *normative* *property* is *not* *reducible* to the *descriptive* (the *is*/*ought* *gap*; Ch. 44, §1).} \\
+1. & \text{The naturalness is a descriptive property (the causal history, the selection).} \\
+2. & \text{The value is a normative property (the good, the ought).} \\
+3. & \text{The normative property is not reducible to the descriptive (the is/ought gap; Ch. 44, §1).} \\
 \hline
-4. & \therefore \text{The *naturalness* does* *not* *ground* the *value* (the *anti*-*naturalism*), and the *value* *requires* the *independent* *normative* *argument* (the *normative* *insight*).}
+4. & \therefore \text{The naturalness does not ground the value (the anti-naturalism), and the value requires the independent normative argument (the normative insight).}
 \end{array}
 $$
 

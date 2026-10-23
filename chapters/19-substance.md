@@ -128,11 +128,11 @@ The *problem* is stated most *vividly* by Arthur Eddington, in the *introduction
 
 $$
 \begin{array}{ll}
-1. & \text{Physics *describes* the world *in* *terms* of *equations* that *relate* *quantities* to one another.} \\
-2. & \text{The *equations* *preserve* their *form* under *transformations* (coordinate changes, gauge changes, duality).} \\
-3. & \text{What is *preserved* is the *structure*, not the *intrinsic* *nature* of the *entities* that *occupy* the *structure*.} \\
+1. & \text{Physics describes the world in terms of equations that relate quantities to one another.} \\
+2. & \text{The equations preserve their form under transformations (coordinate changes, gauge changes, duality).} \\
+3. & \text{What is preserved is the structure, not the intrinsic nature of the entities that occupy the structure.} \\
 \hline
-4. & \therefore \text{Physics tells us about the *structure*, not about the *intrinsic* *nature*.}
+4. & \therefore \text{Physics tells us about the structure, not about the intrinsic nature.}
 \end{array}
 $$
 
@@ -176,11 +176,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{A *particular* is *distinct* from *every* *other* *particular*, even one with *exactly* the same *properties*.} \\
-2. & \text{The *distinctness* *requires* a *principle* of *individuation*.} \\
-3. & \text{The *principle* is the *bare* *particular* (the *substratum*).} \\
+1. & \text{A particular is distinct from every other particular, even one with exactly the same properties.} \\
+2. & \text{The distinctness requires a principle of individuation.} \\
+3. & \text{The principle is the bare particular (the substratum).} \\
 \hline
-4. & \therefore \text{There are *bare* *particulars*.}
+4. & \therefore \text{There are bare particulars.}
 \end{array}
 $$
 
@@ -206,11 +206,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *only* *entities* *we* *observe* are *properties* (or *tropes*).} \\
-2. & \text{The *postulation* of a *substratum* is *unobservable* and *unmotivated*.} \\
-3. & \text{The *bundle* of *properties* *explains* everything the *substratum* *explains* (except *individuation*, which can be *explained* by *compresence*).} \\
+1. & \text{The only entities we observe are properties (or tropes).} \\
+2. & \text{The postulation of a substratum is unobservable and unmotivated.} \\
+3. & \text{The bundle of properties explains everything the substratum explains (except individuation, which can be explained by compresence).} \\
 \hline
-4. & \therefore \text{The *bundle* *theory* is *preferable*.}
+4. & \therefore \text{The bundle theory is preferable.}
 \end{array}
 $$
 
@@ -234,11 +234,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{A *substance* *persists* through *change*, and the *persistence* *requires* *criteria* *of* *identity*.} \\
-2. & \text{The *criteria* *are* *supplied* by the *sortal* *kind*.} \\
-3. & \text{The *kind* is *not* a *mere* *cluster* of *properties*; it is a *principle* of *unity* and *persistence*.} \\
+1. & \text{A substance persists through change, and the persistence requires criteria of identity.} \\
+2. & \text{The criteria are supplied by the sortal kind.} \\
+3. & \text{The kind is not a mere cluster of properties; it is a principle of unity and persistence.} \\
 \hline
-4. & \therefore \text{Substance is *sortal-dependent*.}
+4. & \therefore \text{Substance is sortal-dependent.}
 \end{array}
 $$
 
@@ -294,11 +294,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{"Physical" is *defined* either by *current* *physics* or by an *ideal* *future* *physics*.} \\
-2. & \text{If *defined* by *current* *physics*, physicalism is *false* (current physics is *incomplete*).} \\
-3. & \text{If *defined* by *ideal* *future* *physics*, physicalism is *unintelligible* (we do not know what the ideal physics will contain).} \\
+1. & \text{“Physical” is defined either by current physics or by an ideal future physics.} \\
+2. & \text{If defined by current physics, physicalism is false (current physics is incomplete).} \\
+3. & \text{If defined by ideal future physics, physicalism is unintelligible (we do not know what the ideal physics will contain).} \\
 \hline
-4. & \therefore \text{Physicalism is either *false* or *unintelligible*.}
+4. & \therefore \text{Physicalism is either false or unintelligible.}
 \end{array}
 $$
 
@@ -329,10 +329,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *special* *sciences* have *autonomous* *laws*, *irreducible* to *physics*.} \\
-2. & \text{The *autonomy* *does* not *imply* a *new* *substance*; the *levels* *supervene* on the *physical*.} \\
+1. & \text{The special sciences have autonomous laws, irreducible to physics.} \\
+2. & \text{The autonomy does not imply a new substance; the levels supervene on the physical.} \\
 \hline
-3. & \therefore \text{The *world* is *hierarchically* *organized*, *with* the *physical* as the *base*.}
+3. & \therefore \text{The world is hierarchically organized, with the physical as the base.}
 \end{array}
 $$
 
@@ -350,10 +350,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Physics *describes* the *world* *in* *terms* of *structure* (§1.5).} \\
-2. & \text{The *best* *interpretation* of *physics* *treats* the *structure* as *fundamental*.} \\
+1. & \text{Physics describes the world in terms of structure (§1.5).} \\
+2. & \text{The best interpretation of physics treats the structure as fundamental.} \\
 \hline
-3. & \therefore \text{Physicalism is *structuralism*.}
+3. & \therefore \text{Physicalism is structuralism.}
 \end{array}
 $$
 
@@ -373,13 +373,13 @@ The *most* *influential* *objection* to *non-reductive* *physicalism* is the **c
 
 $$
 \begin{array}{ll}
-1. & \text{The *physical* *domain* is *causally* *closed*: every *physical* *event* has a *sufficient* *physical* *cause*.} \\
-2. & \text{The *mental* *event* } M \text{ *causes* the *physical* *event* } P. \\
-3. & \text{The *physical* *event* } P \text{ has a *sufficient* *physical* *cause* } P^*. \\
-4. & \text{If } M \text{ *causes* } P, \text{ and } P^* \text{ *causes* } P, \text{ the *cause* is *overdetermined*.} \\
-5. & \text{Overdetermination is *implausible* (the *mental* *cause* is *excluded* by the *physical* *cause*).} \\
+1. & \text{The physical domain is causally closed: every physical event has a sufficient physical cause.} \\
+2. & \text{The mental event } M \text{ causes the physical event } P. \\
+3. & \text{The physical event } P \text{ has a sufficient physical cause } P^*. \\
+4. & \text{If } M \text{ causes } P, \text{ and } P^* \text{ causes } P, \text{ the cause is overdetermined.} \\
+5. & \text{Overdetermination is implausible (the mental cause is excluded by the physical cause).} \\
 \hline
-6. & \therefore \text{The *mental* *event* } M \text{ does *not* *cause* } P \text{ (or *epiphenomenalism* is *true*).}
+6. & \therefore \text{The mental event } M \text{ does not cause } P \text{ (or epiphenomenalism is true).}
 \end{array}
 $$
 
@@ -407,11 +407,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *special* *sciences* *classify* *events* by *properties* that *are* *multiply* *realizable*.} \\
-2. & \text{The *multiple* *realizability* *blocks* *type* *reduction*.} \\
-3. & \text{The *explanations* *of* the *special* *sciences* *are* *causal* *explanations* *at* their *own* *level*.} \\
+1. & \text{The special sciences classify events by properties that are multiply realizable.} \\
+2. & \text{The multiple realizability blocks type reduction.} \\
+3. & \text{The explanations of the special sciences are causal explanations at their own level.} \\
 \hline
-4. & \therefore \text{The *special* *sciences* are *autonomous*.}
+4. & \therefore \text{The special sciences are autonomous.}
 \end{array}
 $$
 
@@ -439,11 +439,11 @@ The *equation* is *linear* and *deterministic*: the *wavefunction* *evolves* int
 
 $$
 \begin{array}{ll}
-1. & \text{The *wavefunction* *evolves* *linearly* (Schrödinger).} \\
-2. & \text{The *wavefunction* *after* *measurement* is a *superposition*.} \\
-3. & \text{The *measurement* *outcome* is *definite*.} \\
+1. & \text{The wavefunction evolves linearly (Schrödinger).} \\
+2. & \text{The wavefunction after measurement is a superposition.} \\
+3. & \text{The measurement outcome is definite.} \\
 \hline
-4. & \therefore \text{The *theory* is *incomplete* or the *evolution* is *not* *linear* (or *both*).}
+4. & \therefore \text{The theory is incomplete or the evolution is not linear (or both).}
 \end{array}
 $$
 
@@ -497,11 +497,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *quantum* *correlations* *violate* the *Bell* *inequalities*.} \\
-2. & \text{The *violation* is *experimentally* *confirmed* (Aspect et al. 1982; the *loophole-free* *tests*, 2015).} \\
-3. & \text{No *local* *hidden-variable* *theory* can *reproduce* the *violations*.} \\
+1. & \text{The quantum correlations violate the Bell inequalities.} \\
+2. & \text{The violation is experimentally confirmed (Aspect et al. 1982; the loophole-free tests, 2015).} \\
+3. & \text{No local hidden-variable theory can reproduce the violations.} \\
 \hline
-4. & \therefore \text{The *world* is *nonlocal* (or *non-separable*).}
+4. & \therefore \text{The world is nonlocal (or non-separable).}
 \end{array}
 $$
 
@@ -544,11 +544,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Scientific *theories* are *empirically* *successful*.} \\
-2. & \text{The *success* would be a *miracle* if the *theories* were *not* *approximately* *true*.} \\
-3. & \text{We should *not* *accept* *miracles*.} \\
+1. & \text{Scientific theories are empirically successful.} \\
+2. & \text{The success would be a miracle if the theories were not approximately true.} \\
+3. & \text{We should not accept miracles.} \\
 \hline
-4. & \therefore \text{The *theories* are *approximately* *true* (scientific *realism*).}
+4. & \therefore \text{The theories are approximately true (scientific realism).}
 \end{array}
 $$
 
@@ -562,10 +562,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *history* of *science* is a *history* of *successful* *theories* that *turned* *out* to be *false* (phlogiston, caloric, the *luminiferous* *ether*, *Newtonian* *mechanics*).} \\
-2. & \text{Our *current* *theories* are *probably* *false* (by *induction*).} \\
+1. & \text{The history of science is a history of successful theories that turned out to be false (phlogiston, caloric, the luminiferous ether, Newtonian mechanics).} \\
+2. & \text{Our current theories are probably false (by induction).} \\
 \hline
-3. & \therefore \text{Scientific *realism* is *probably* *false*.}
+3. & \therefore \text{Scientific realism is probably false.}
 \end{array}
 $$
 
@@ -594,11 +594,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *structure* is *specified* *only* *up* to *isomorphism* (the *Ramsey* *sentence*).} \\
-2. & \text{The *isomorphism* *does* not *pick* *out* a *unique* *structure*.} \\
-3. & \text{The *claim* that the *structure* *is* *preserved* is *vacuous* (any *structure* *can* be *preserved* by *some* *interpretation*).} \\
+1. & \text{The structure is specified only up to isomorphism (the Ramsey sentence).} \\
+2. & \text{The isomorphism does not pick out a unique structure.} \\
+3. & \text{The claim that the structure is preserved is vacuous (any structure can be preserved by some interpretation).} \\
 \hline
-4. & \therefore \text{The *ESR* *is* *uninformative*.}
+4. & \therefore \text{The ESR is uninformative.}
 \end{array}
 $$
 
@@ -632,12 +632,12 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Physics *describes* the *relational* *structure* of the *world* (§1.5).} \\
-2. & \text{The *structure* *requires* an *intrinsic* *nature* to be *instantiated*.} \\
-3. & \text{The *intrinsic* *nature* is *not* *described* by *physics*.} \\
-4. & \text{The *only* *intrinsic* *nature* we *know* is *experience* (Ch. 12, §1).} \\
+1. & \text{Physics describes the relational structure of the world (§1.5).} \\
+2. & \text{The structure requires an intrinsic nature to be instantiated.} \\
+3. & \text{The intrinsic nature is not described by physics.} \\
+4. & \text{The only intrinsic nature we know is experience (Ch. 12, §1).} \\
 \hline
-5. & \therefore \text{The *intrinsic* *nature* of the *physical* is *experience* (or *proto-experience*).}
+5. & \therefore \text{The intrinsic nature of the physical is experience (or proto-experience).}
 \end{array}
 $$
 
@@ -659,12 +659,12 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Panpsychism: *fundamental* *entities* *have* *experiences*.} \\
-2. & \text{Human *minds* *have* *unified* *experiences*.} \\
-3. & \text{The *unity* *requires* a *combination* *relation* (the *micro-experiences* *combine* into the *macro-experience*).} \\
-4. & \text{The *combination* *relation* is *mysterious* (it is *as* *mysterious* as *emergence*).} \\
+1. & \text{Panpsychism: fundamental entities have experiences.} \\
+2. & \text{Human minds have unified experiences.} \\
+3. & \text{The unity requires a combination relation (the micro-experiences combine into the macro-experience).} \\
+4. & \text{The combination relation is mysterious (it is as mysterious as emergence).} \\
 \hline
-5. & \therefore \text{Panpsychism *does* not *solve* the *hard* *problem*; it *relocates* it.}
+5. & \therefore \text{Panpsychism does not solve the hard problem; it relocates it.}
 \end{array}
 $$
 
@@ -688,11 +688,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Structural *realism*: physics *describes* the *structure*, not the *intrinsic* *nature*.} \\
-2. & \text{The *intrinsic* *nature* *must* be *something* (the *structure* *requires* *instantiation*).} \\
-3. & \text{The *only* *intrinsic* *nature* *known* is *experience*.} \\
+1. & \text{Structural realism: physics describes the structure, not the intrinsic nature.} \\
+2. & \text{The intrinsic nature must be something (the structure requires instantiation).} \\
+3. & \text{The only intrinsic nature known is experience.} \\
 \hline
-4. & \therefore \text{The *intrinsic* *nature* is *experience* (panpsychism) or *proto-experience* (panprotopsychism).}
+4. & \therefore \text{The intrinsic nature is experience (panpsychism) or proto-experience (panprotopsychism).}
 \end{array}
 $$
 

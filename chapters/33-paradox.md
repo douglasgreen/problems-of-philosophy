@@ -88,12 +88,12 @@ $$
 
 $$
 \begin{array}{ll}
-1. & T(C) \leftrightarrow (T(C) \to p) \quad \text{(the *schema*)} \\
+1. & T(C) \leftrightarrow (T(C) \to p) \quad \text{(the schema)} \\
 2. & T(C) \to (T(C) \to p) \quad \text{(from 1)} \\
-3. & T(C) \to p \quad \text{(from 2, *contraction*)} \\
+3. & T(C) \to p \quad \text{(from 2, contraction)} \\
 4. & (T(C) \to p) \to T(C) \quad \text{(from 1)} \\
-5. & T(C) \quad \text{(from 3, 4, *modus ponens*)} \\
-6. & p \quad \text{(from 3, 5, *modus ponens*)}
+5. & T(C) \quad \text{(from 3, 4, modus ponens)} \\
+6. & p \quad \text{(from 3, 5, modus ponens)}
 \end{array}
 $$
 
@@ -134,15 +134,15 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Assume the *knowability* *principle*: } \forall p\, (p \to \Diamond K p). \\
-2. & \text{Consider } p \wedge \neg K p \text{ (a *truth* that is *not* known).} \\
+1. & \text{Assume the knowability principle: } \forall p\, (p \to \Diamond K p). \\
+2. & \text{Consider } p \wedge \neg K p \text{ (a truth that is not known).} \\
 3. & \text{By (1), } \Diamond K(p \wedge \neg K p). \\
-4. & \text{By the *distribution* of *knowledge* over *conjunction*: } K(a \wedge b) \to (Ka \wedge Kb). \\
+4. & \text{By the distribution of knowledge over conjunction: } K(a \wedge b) \to (Ka \wedge Kb). \\
 5. & \text{So } \Diamond(Kp \wedge K\neg Kp). \\
-6. & \text{By *factivity*: } K\neg Kp \to \neg Kp. \\
-7. & \text{So } \Diamond(Kp \wedge \neg Kp) \text{ — a *contradiction*.} \\
+6. & \text{By factivity: } K\neg Kp \to \neg Kp. \\
+7. & \text{So } \Diamond(Kp \wedge \neg Kp) \text{ — a contradiction.} \\
 \hline
-8. & \therefore \text{The *knowability* *principle* is *false* (some *truths* are *unknowable*).}
+8. & \therefore \text{The knowability principle is false (some truths are unknowable).}
 \end{array}
 $$
 
@@ -231,7 +231,7 @@ The *language* $\mathcal{L}_{n+1}$ *contains* the *truth* *predicate* *for* $\ma
 **The *structure***. Let $(\mathcal{E}, \mathcal{A})$ be the *pair* of the *extension* (the *true* *sentences*) and the *anti*-*extension* (the *false* *sentences*), with $\mathcal{E} \cap \mathcal{A} = \emptyset$. The *operator* $\Phi$ *takes* the *pair* to a *new* *pair*:
 
 $$
-\Phi(\mathcal{E}, \mathcal{A}) = (\{p : p \text{ is *true* on the *hypothesis* } \mathcal{E} \wedge \neg p \text{ false on } \mathcal{A}\}, \ldots)
+\Phi(\mathcal{E}, \mathcal{A}) = (\{p : p \text{ is true on the hypothesis } \mathcal{E} \wedge \neg p \text{ false on } \mathcal{A}\}, \ldots)
 $$
 
 The *operator* is *monotone* (the *extension* *grows*), and the *fixed* *point* is *reached* by *iteration*.
@@ -281,7 +281,7 @@ $$
 **The *structure***.
 
 $$
-\text{True}(p, c) \quad \text{(the *truth* *depends* on the *context* } c)
+\text{True}(p, c) \quad \text{(the truth depends on the context } c)
 $$
 
 **The *virtue***. The *theory* *preserves* the *unity* of the *truth* *predicate* (it is a *single* *predicate*, with *context*-*dependent* *extension*), and it *handles* the *Liar* (the *sentence* *changes* the *context*, and the *sentence* *is* *true* *relative* to the *new* *context*).
@@ -310,11 +310,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *semantic* *paradoxes* are *valid* *arguments* (the *derivations* are *classically* *valid*).} \\
-2. & \text{The *conclusions* are *contradictions* (the *Liar* is *both* *true* and *false*).} \\
-3. & \text{The *contradictions* are *true* (the *dialetheist* *accepts* them).} \\
+1. & \text{The semantic paradoxes are valid arguments (the derivations are classically valid).} \\
+2. & \text{The conclusions are contradictions (the Liar is both true and false).} \\
+3. & \text{The contradictions are true (the dialetheist accepts them).} \\
 \hline
-4. & \therefore \text{The *Liar* is a *true* *contradiction* (the *dialetheism*).}
+4. & \therefore \text{The Liar is a true contradiction (the dialetheism).}
 \end{array}
 $$
 
@@ -367,12 +367,12 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *epistemicist* *posits* a *sharp* *boundary} n \text{ (the *last* *non}-*heap).} \\
-2. & \text{The *boundary* \text{ is } *knowable* \text{ (the } *epistemicist* \text{ } *accepts* \text{ } *knowledge* \text{ of } *some* \text{ } *sharp* \text{ } *boundary*).} \\
-3. & \text{The *higher}-*order* *boundary* \text{ (the } *boundary* \text{ between the } *definite* \text{ and the } *borderline*) \text{ is } *also* \text{ } *sharp* \text{ (by the } *epistemicist* \text{ } *assumption*).} \\
-4. & \text{The } *higher*-*order* *sorites* \text{ *generates* a } *contradiction* \text{ (the } *boundary* \text{ is } *not* \text{ } *sharp* \text{ *at* *any* *level*).} \\
+1. & \text{The epistemicist posits a sharp boundary (the last non-heap).} \\
+2. & \text{The boundary is knowable (the epistemicist accepts knowledge of some sharp boundary).} \\
+3. & \text{The higher-order boundary (the boundary between the definite and the borderline) is also sharp (by the epistemicist assumption).} \\
+4. & \text{The higher-order sorites generates a contradiction (the boundary is not sharp at any level).} \\
 \hline
-5. & \therefore \text{The *epistemicism* *fails* (the *boundary* *cannot* be *sharp* *without* \text{ } *higher*-*order* \text{ } *vagueness*).}
+5. & \therefore \text{The epistemicism fails (the boundary cannot be sharp without higher-order vagueness).}
 \end{array}
 $$
 
@@ -448,12 +448,12 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Identify the *disputed* *term* (the *word* *that* *carries* the *disagreement*).} \\
-2. & \text{Specify the *candidate* *meanings* (the *senses* *available* *in* the *language*).} \\
-3. & \text{Determine whether the *parties* *agree* on the *facts* *given* the *meanings* (the *factual* *question*).} \\
-4. & \text{Determine whether the *disagreement* *survives* the *specification* (the *residual* *question*).} \\
+1. & \text{Identify the disputed term (the word that carries the disagreement).} \\
+2. & \text{Specify the candidate meanings (the senses available in the language).} \\
+3. & \text{Determine whether the parties agree on the facts given the meanings (the factual question).} \\
+4. & \text{Determine whether the disagreement survives the specification (the residual question).} \\
 \hline
-5. & \therefore \text{The *dispute* is *merely* *verbal*, *broadly* *verbal*, or *substantive* (the *classification*).}
+5. & \therefore \text{The dispute is merely verbal, broadly verbal, or substantive (the classification).}
 \end{array}
 $$
 
@@ -515,11 +515,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *analysis* of a *concept* *serves* a *purpose* (the *classification*, the *prediction*, the *normative* *evaluation*).} \\
-2. & \text{The *purpose* is *not* *given* by the *concept* (it is a *choice*).} \\
-3. & \text{The *choice* *requires* a *normative* *argument* (why *this* purpose rather than *that*?).} \\
+1. & \text{The analysis of a concept serves a purpose (the classification, the prediction, the normative evaluation).} \\
+2. & \text{The purpose is not given by the concept (it is a choice).} \\
+3. & \text{The choice requires a normative argument (why this purpose rather than that?).} \\
 \hline
-4. & \therefore \text{The *ameliorative* *question* is *prior* (the *conceptual* *engineering* *program*).}
+4. & \therefore \text{The ameliorative question is prior (the conceptual engineering program).}
 \end{array}
 $$
 
@@ -607,11 +607,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *limit* of *thought* is that *beyond* *which* *thought* *cannot* *go*.} \\
-2. & \text{The *limit* *can* be *thought* (we *think* about the *limit*, and we *say* what it is).} \\
-3. & \text{The *thought* of the *limit* *contradicts* the *limit* (the *limit* is *beyond* *thought*, and the *thought* *reaches* it).} \\
+1. & \text{The limit of thought is that beyond which thought cannot go.} \\
+2. & \text{The limit can be thought (we think about the limit, and we say what it is).} \\
+3. & \text{The thought of the limit contradicts the limit (the limit is beyond thought, and the thought reaches it).} \\
 \hline
-4. & \therefore \text{The *limit* is *dialetheic* (the *contradiction* is *true*).}
+4. & \therefore \text{The limit is dialetheic (the contradiction is true).}
 \end{array}
 $$
 
@@ -635,11 +635,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *language* *pictures* the *world* (the *picture* *theory*; the *Tractatus* *thesis*).} \\
-2. & \text{The *limits* of *the* *picture* are the *limits* of the *world* (the *picture* *cannot* *picture* its *own* *limits*).} \\
-3. & \text{The *philosophy* *cannot* *speak* about the *limits* (the *attempt* *generates* *nonsense*).} \\
+1. & \text{The language pictures the world (the picture theory; the Tractatus thesis).} \\
+2. & \text{The limits of the picture are the limits of the world (the picture cannot picture its own limits).} \\
+3. & \text{The philosophy cannot speak about the limits (the attempt generates nonsense).} \\
 \hline
-4. & \therefore \text{The *philosophy* *shows* the *limits* (the *Tractarian* *thesis*).}
+4. & \therefore \text{The philosophy shows the limits (the Tractarian thesis).}
 \end{array}
 $$
 
@@ -672,11 +672,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *conceptual* *schemes* *have* *changed* *historically* (the *scientific* *revolutions*, the *political* *revolutions*).} \\
-2. & \text{The *changes* *are* *not* *merely* *verbal* (the *new* *concepts* *support* *new* *inferences*, *predictions*, and *interventions*).} \\
-3. & \text{The *changes* *are* *driven* by *empirical* and *normative* *considerations*.} \\
+1. & \text{The conceptual schemes have changed historically (the scientific revolutions, the political revolutions).} \\
+2. & \text{The changes are not merely verbal (the new concepts support new inferences, predictions, and interventions).} \\
+3. & \text{The changes are driven by empirical and normative considerations.} \\
 \hline
-4. & \therefore \text{The *conceptual* *revolutions* are *real* and *rationally* *assessable*.}
+4. & \therefore \text{The conceptual revolutions are real and rationally assessable.}
 \end{array}
 $$
 
@@ -704,11 +704,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *concepts* *are* *shaped* by *social* *practices* (the *classification*, the *norms*, the *institutions*).} \\
-2. & \text{The *practices* *are* *shaped* by *power* (the *dominant* *groups* *impose* their *concepts*).} \\
-3. & \text{The *imposition* *serves* *the* *interests* of the *dominant* *groups* (the *marginalized* *groups* *are* *classified* in *ways* that *serve* the *dominant*).} \\
+1. & \text{The concepts are shaped by social practices (the classification, the norms, the institutions).} \\
+2. & \text{The practices are shaped by power (the dominant groups impose their concepts).} \\
+3. & \text{The imposition serves the interests of the dominant groups (the marginalized groups are classified in ways that serve the dominant).} \\
 \hline
-4. & \therefore \text{The *concepts* are *ethical* and *political* (the *ethics* of *concepts*).}
+4. & \therefore \text{The concepts are ethical and political (the ethics of concepts).}
 \end{array}
 $$
 
@@ -722,12 +722,12 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *group* has an *experience* (the *harassment*, the *discrimination*).} \\
-2. & \text{The *concepts* for the *experience* are *absent* (the *collective* *resources* *lack* the *concept*).} \\
-3. & \text{The *absence* *prevents* the *group* from *understanding* and *communicating* the *experience*.} \\
-4. & \text{The *absence* *is* *not* *accidental* (it *reflects* the *marginalization* of the *group*).} \\
+1. & \text{The group has an experience (the harassment, the discrimination).} \\
+2. & \text{The concepts for the experience are absent (the collective resources lack the concept).} \\
+3. & \text{The absence prevents the group from understanding and communicating the experience.} \\
+4. & \text{The absence is not accidental (it reflects the marginalization of the group).} \\
 \hline
-5. & \therefore \text{The *group* *suffers* a *hermeneutical* *injustice* (the *ethics* of *concepts*).}
+5. & \therefore \text{The group suffers a hermeneutical injustice (the ethics of concepts).}
 \end{array}
 $$
 

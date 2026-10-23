@@ -32,7 +32,7 @@ The chapter *closes* with the *applications* (§7) and an *honest verdict* (§8)
 The *formal* *core* of modality is the pair of operators:
 
 $$
-\Box p \quad \text{("it is necessary that } p \text{")}, \qquad \Diamond p \quad \text{("it is possible that } p \text{")}
+\Box p \quad \text{(“it is necessary that } p \text{”)}, \qquad \Diamond p \quad \text{(“it is possible that } p \text{”)}
 $$
 
 They are *interdefinable*:
@@ -110,13 +110,13 @@ The *most* *influential* *attack* on *de re* *modality* is Quine’s, in *three*
 
 $$
 \begin{array}{ll}
-1. & \text{De re *modality* *requires* that a *thing* have a *property* *necessarily*, *independently* of how it is *described*.} \\
-2. & \text{But the *truth* of a *de re* *modal* *claim* *depends* on the *description* under which the *thing* is *considered*.} \\
-3. & \text{Example: *the number of planets* is *necessarily* *greater* than 7, but *9* is *not* *necessarily* *greater* than 7 (it is *necessarily* *equal* to 9, and *only* *contingently* *equal* to the *number* of planets … wait, *actually* 9 is *necessarily* *greater* than 7). The *classic* *example* is *different*: *Cicero* is *necessarily* *Cicero*, but *Tully* is *not* *necessarily* *Cicero* (if the *names* are *not* *known* to be *co-referential).} \\
-4. & \text{The *dependence* *shows* that *de re* *modality* *presupposes* an *Aristotelian* *essentialism* — a *distinction* between *essential* and *accidental* *properties*.} \\
-5. & \text{Essentialism is *unintelligible*: there is *no* *fact* of the *matter* about *which* *properties* are *essential*.} \\
+1. & \text{De re modality requires that a thing have a property necessarily, independently of how it is described.} \\
+2. & \text{But the truth of a de re modal claim depends on the description under which the thing is considered.} \\
+3. & \text{Example: the number of planets is necessarily greater than 7, but 9 is not necessarily greater than 7 (it is necessarily equal to 9, and only contingently equal to the number of planets … wait, actually 9 is necessarily greater than 7). The classic example is different: Cicero is necessarily Cicero, but Tully is not necessarily Cicero (if the names are not known to be co-referential).} \\
+4. & \text{The dependence shows that de re modality presupposes an Aristotelian essentialism — a distinction between essential and accidental properties.} \\
+5. & \text{Essentialism is unintelligible: there is no fact of the matter about which properties are essential.} \\
 \hline
-6. & \therefore \text{De re *modality* is *unintelligible*; *quantified* *modal* *logic* is *ill-founded*.}
+6. & \therefore \text{De re modality is unintelligible; quantified modal logic is ill-founded.}
 \end{array}
 $$
 
@@ -307,11 +307,11 @@ The *most* *important* *development* in *post-Kripkean* *metaphysics* is the *re
 
 $$
 \begin{array}{ll}
-1. & \text{The *identity* *statements* of science and ordinary life are *necessary* (Ch. 9, §3.3).} \\
-2. & \text{The *necessities* *revelation* of the *natures* of things.} \\
-3. & \text{The *natures* are *essences*.} \\
+1. & \text{The identity statements of science and ordinary life are necessary (Ch. 9, §3.3).} \\
+2. & \text{The necessities revelation of the natures of things.} \\
+3. & \text{The natures are essences.} \\
 \hline
-4. & \therefore \text{Essentialism is *true*.}
+4. & \therefore \text{Essentialism is true.}
 \end{array}
 $$
 
@@ -442,11 +442,11 @@ The **Humphrey objection** is the *most* *famous* *objection* to *counterpart* *
 
 $$
 \begin{array}{ll}
-1. & \text{Counterpart *theory* *says* that *Humphrey* *exists* *in* *one* *world* *only*; the *Humphrey* *who* *wins* the *election* *is* a *counterpart*.} \\
-2. & \text{But *Humphrey* *intuitively* *could* *have* *won* — *he*, *the* *very* *man*, *could* *have* *won*.} \\
-3. & \text{The *counterpart* *theory* *denies* the *intuition*: *Humphrey* *could* *not* *have* *won*; *only* a *counterpart* *could* *have* *won*.} \\
+1. & \text{Counterpart theory says that Humphrey exists in one world only; the Humphrey who wins the election is a counterpart.} \\
+2. & \text{But Humphrey intuitively could have won — he, the very man, could have won.} \\
+3. & \text{The counterpart theory denies the intuition: Humphrey could not have won; only a counterpart could have won.} \\
 \hline
-4. & \therefore \text{Counterpart *theory* is *false*.}
+4. & \therefore \text{Counterpart theory is false.}
 \end{array}
 $$
 
@@ -540,10 +540,10 @@ The *relationship* *between* *modality* and the *a priori* was *introduced* in C
 
 $$
 \begin{array}{ll}
-1. & \text{To *know* that } \Diamond p \text{ is to *know* that } p \text{ is *not* *excluded* *by* the *concepts* *involved*.} \\
-2. & \text{The *knowledge* that } p \text{ is *not* *excluded* *by* the *concepts* is *a* *priori* (Ch. 9, §3).} \\
+1. & \text{To know that } \Diamond p \text{ is to know that } p \text{ is not excluded by the concepts involved.} \\
+2. & \text{The knowledge that } p \text{ is not excluded by the concepts is a priori (Ch. 9, §3).} \\
 \hline
-3. & \therefore \text{Modal *knowledge* is *a* *priori* (at least in part).}
+3. & \therefore \text{Modal knowledge is a priori (at least in part).}
 \end{array}
 $$
 
@@ -564,7 +564,7 @@ $$
 The *classical* *answer* is the **conceivability–possibility* *thesis*** (CP):
 
 $$
-(\mathrm{CP}) \quad \text{If } p \text{ is *ideally* *conceivable*, then } p \text{ is *metaphysically* *possible*.}
+(\mathrm{CP}) \quad \text{If } p \text{ is ideally conceivable, then } p \text{ is metaphysically possible.}
 $$
 
 **The *proponents*.** Hume (*Treatise*, 1739–40, I.ii.2; *Enquiry*, 1748, IV.i); Yablo (“Is Conceivability a Guide to Possibility?”, 1993); Chalmers (*The Conscious Mind*, 1996, Ch. 4; “Does Conceivability Entail Possibility?”, 2002).
@@ -573,10 +573,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{If } p \text{ is *ideally* *conceivable*, then *no* *contradiction* is *involved* in *conceiving* it.} \\
-2. & \text{If *no* *contradiction* is *involved*, then } p \text{ is *metaphysically* *possible*.} \\
+1. & \text{If } p \text{ is ideally conceivable, then no contradiction is involved in conceiving it.} \\
+2. & \text{If no contradiction is involved, then } p \text{ is metaphysically possible.} \\
 \hline
-3. & \therefore \text{Conceivability *entails* possibility.}
+3. & \therefore \text{Conceivability entails possibility.}
 \end{array}
 $$
 
@@ -629,10 +629,10 @@ The *most* *radical* *position* is **modal* *skepticism*** (van Inwagen, “Moda
 
 $$
 \begin{array}{ll}
-1. & \text{Modal *knowledge* *requires* *a* *reliable* *method* of *access* to *modal* *facts*.} \\
-2. & \text{There is *no* *such* *method*: conceivability is *unreliable*; counterfactual *reasoning* is *circular*; essences are *mysterious*.} \\
+1. & \text{Modal knowledge requires a reliable method of access to modal facts.} \\
+2. & \text{There is no such method: conceivability is unreliable; counterfactual reasoning is circular; essences are mysterious.} \\
 \hline
-3. & \therefore \text{Modal *knowledge* is *impossible*.}
+3. & \therefore \text{Modal knowledge is impossible.}
 \end{array}
 $$
 

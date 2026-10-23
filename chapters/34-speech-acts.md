@@ -51,12 +51,12 @@ The chapter proceeds in nine movements. §1 examines the *performative* and its 
 
 $$
 \begin{array}{ll}
-(\mathrm{A.1}) & \text{There is an *accepted* *conventional* *procedure* *having* a *certain* *effect.} \\
-(\mathrm{A.2}) & \text{The *circumstances* *are* *appropriate* to the *procedure*.} \\
-(\mathrm{B.1}) & \text{The *procedure* is *executed* *correctly* *by* *all* *participants*.} \\
-(\mathrm{B.2}) & \text{The *procedure* is *executed* *completely*.} \\
-(\Gamma.1) & \text{The *participants* *have* the *requisite* *thoughts*, *feelings*, and *intentions*.} \\
-(\Gamma.2) & \text{The *participants* *conduct* *themselves* *accordingly* *afterwards*.}
+(\mathrm{A.1}) & \text{There is an accepted conventional procedure having a certain effect.} \\
+(\mathrm{A.2}) & \text{The circumstances are appropriate to the procedure.} \\
+(\mathrm{B.1}) & \text{The procedure is executed correctly by all participants.} \\
+(\mathrm{B.2}) & \text{The procedure is executed completely.} \\
+(\Gamma.1) & \text{The participants have the requisite thoughts, feelings, and intentions.} \\
+(\Gamma.2) & \text{The participants conduct themselves accordingly afterwards.}
 \end{array}
 $$
 
@@ -80,10 +80,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *constatives* are *assessed* by the *felicity* *conditions* (the *assertion* has its *own* *norms*).} \\
-2. & \text{The *performatives* are *assessed* by the *truth*-*like* *conditions* (the *act* can be *described* *truly* or *falsely*).} \\
+1. & \text{The constatives are assessed by the felicity conditions (the assertion has its own norms).} \\
+2. & \text{The performatives are assessed by the truth-like conditions (the act can be described truly or falsely).} \\
 \hline
-3. & \therefore \text{The *distinction* *collapses* (the *performative*/*constative* *dichotomy* is *not* *fundamental*).}
+3. & \therefore \text{The distinction collapses (the performative/constative dichotomy is not fundamental).}
 \end{array}
 $$
 
@@ -109,9 +109,9 @@ $$
 
 $$
 \begin{array}{ll}
-\text{Phonetic act} & \text{The *production* of the *sounds}. \\
-\text{Phatic act} & \text{The *production* of *words* in a *grammar}. \\
-\text{Rhetic act} & \text{The *production* of a *sentence* *with* a *sense* and a *reference}. \\
+\text{Phonetic act} & \text{The production of the sounds}. \\
+\text{Phatic act} & \text{The production of words in a grammar}. \\
+\text{Rhetic act} & \text{The production of a sentence with a sense and a reference}. \\
 \end{array}
 $$
 
@@ -471,10 +471,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *metaphorical* *sentence* *has* the *literal* *meaning* (the *words* *mean* what they *mean*).} \\
-2. & \text{The *metaphor* *is* the *use* of the *sentence* (the *speaker* *uses* the *literal* *content* to *produce* an *insight*).} \\
+1. & \text{The metaphorical sentence has the literal meaning (the words mean what they mean).} \\
+2. & \text{The metaphor is the use of the sentence (the speaker uses the literal content to produce an insight).} \\
 \hline
-3. & \therefore \text{The *metaphor* *has* *no* *special* *meaning* (the *“*no* *paraphrase*”* *thesis*).}
+3. & \therefore \text{The metaphor has no special meaning (the “no paraphrase” thesis).}
 \end{array}
 $$
 
@@ -715,10 +715,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *words* *perform* *acts* (the *promises*, the *orders*, the *subordinations*).} \\
-2. & \text{The *acts* *change* the *social* *world* (the *obligations*, the *permissions*, the *rankings*).} \\
+1. & \text{The words perform acts (the promises, the orders, the subordinations).} \\
+2. & \text{The acts change the social world (the obligations, the permissions, the rankings).} \\
 \hline
-3. & \therefore \text{The *words* are *not* *“*just* *words*”* (they *have* *effects*).}
+3. & \therefore \text{The words are not “just words” (they have effects).}
 \end{array}
 $$
 

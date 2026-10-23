@@ -29,11 +29,11 @@ The chapter proceeds in eight movements. §1 states Kant's question as the *back
 
 $$
 \begin{array}{ll}
-1. & \text{The *laws* of logic are *certain* (we *cannot* *coherently* *doubt* them).} \\
-2. & \text{The *certainty* is *not* *empirical* (the *empirical* *evidence* *presupposes* the *laws*).} \\
-3. & \text{The *certainty* is *not* *trivial* (the *laws* *do* *substantive* *work* in the *inference*).} \\
+1. & \text{The laws of logic are certain (we cannot coherently doubt them).} \\
+2. & \text{The certainty is not empirical (the empirical evidence presupposes the laws).} \\
+3. & \text{The certainty is not trivial (the laws do substantive work in the inference).} \\
 \hline
-4. & \therefore \text{The *laws* of logic are *a* *priori*, *necessary*, and *substantive* (the *Kantian* *characterization*).}
+4. & \therefore \text{The laws of logic are a priori, necessary, and substantive (the Kantian characterization).}
 \end{array}
 $$
 
@@ -98,10 +98,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *law* "if } p \text{ and } q, \text{ then } p" \text{ is *true* in *virtue* of the *meaning* of "and".} \\
-2. & \text{The *truth* in *virtue* of *meaning* is *analytic* (the *Kantian*/*Fregean* *definition*).} \\
+1. & \text{The law “if } p \text{ and } q, \text{ then } p” \text{ is true in virtue of the meaning of “and”.} \\
+2. & \text{The truth in virtue of meaning is analytic (the Kantian/Fregean definition).} \\
 \hline
-3. & \therefore \text{The *law* is *analytic*.}
+3. & \therefore \text{The law is analytic.}
 \end{array}
 $$
 
@@ -142,11 +142,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *meaning* of a *logical* *constant* is *determined* by its *inference* *rules* (the *inferentialist* *premise*).} \\
-2. & \text{"tonk" is *defined* by the *rules* from } p \text{ to } p \text{ tonk } q \text{ and from } p \text{ tonk } q \text{ to } q. \\
-3. & \text{The *rules* *license* the *inference* from } p \text{ to } q \text{ (for *any* } p, q). \\
+1. & \text{The meaning of a logical constant is determined by its inference rules (the inferentialist premise).} \\
+2. & \text{“tonk” is defined by the rules from } p \text{ to } p \text{ tonk } q \text{ and from } p \text{ tonk } q \text{ to } q. \\
+3. & \text{The rules license the inference from } p \text{ to } q \text{ (for any } p, q). \\
 \hline
-4. & \therefore \text{The *inferentialism* *is* *false* (the *rules* *do* *not* *determine* a *coherent* *meaning*).}
+4. & \therefore \text{The inferentialism is false (the rules do not determine a coherent meaning).}
 \end{array}
 $$
 
@@ -161,7 +161,7 @@ $$
 **The *structure***.
 
 $$
-\text{Meaning}(\wedge) = \text{the *introduction* *rule*} \quad \left(\frac{p \quad q}{p \wedge q}\right)
+\text{Meaning}(\wedge) = \text{the introduction rule} \quad \left(\frac{p \quad q}{p \wedge q}\right)
 $$
 
 **The *virtue***. The *semantics* *grounds* the *meaning* in the *proof* *structure*, and it *fits* the *intuitionistic* *logic* (Ch. 35, §5.1) and the *anti*-*realist* *semantics* (Ch. 22, §1.3).
@@ -189,7 +189,7 @@ $$
 **The *structure***.
 
 $$
-\text{Logical law} = \text{the *convention* of the *language*} \ (\text{the *rule* of the *framework})
+\text{Logical law} = \text{the convention of the language} \ (\text{the rule of the framework})
 $$
 
 **The *argument*. The *logical* *laws* are *not* *refuted* by *experience* (the *experience* *presupposes* them), and the *immunity* *shows* that the *laws* are *conventions* (the *rules* of the *description*, not the *content*).
@@ -206,11 +206,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *conventions* *determine* the *truth* of the *logical* *laws* (the *conventionalist* *premise*).} \\
-2. & \text{The *determination* *requires* the *derivation* of the *consequences* of the *conventions*.} \\
-3. & \text{The *derivation* *requires* logic (the *inference* from the *conventions* to their *consequences*).} \\
+1. & \text{The conventions determine the truth of the logical laws (the conventionalist premise).} \\
+2. & \text{The determination requires the derivation of the consequences of the conventions.} \\
+3. & \text{The derivation requires logic (the inference from the conventions to their consequences).} \\
 \hline
-4. & \therefore \text{The *logic* *is* *presupposed* by the *conventions* (the *conventionalism* is *circular*).}
+4. & \therefore \text{The logic is presupposed by the conventions (the conventionalism is circular).}
 \end{array}
 $$
 
@@ -262,11 +262,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *laws* of logic are *a* *priori* (the *epistemic* *premise*).} \\
-2. & \text{The *world* *conforms* to the *laws* (the *empirical* *premise*).} \\
-3. & \text{The *conformity* *requires* an *explanation* (the *why* *question*).} \\
+1. & \text{The laws of logic are a priori (the epistemic premise).} \\
+2. & \text{The world conforms to the laws (the empirical premise).} \\
+3. & \text{The conformity requires an explanation (the why question).} \\
 \hline
-4. & \therefore \text{The *applicability* is *mysterious* (the *Wigner* *puzzle*).}
+4. & \therefore \text{The applicability is mysterious (the Wigner puzzle).}
 \end{array}
 $$
 
@@ -280,10 +280,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *laws* of logic are *topic*-*neutral* (they *do* not *describe* a *particular* *domain*).} \\
-2. & \text{The *neutrality* *entails* that the *laws* *apply* to *any* *domain*.} \\
+1. & \text{The laws of logic are topic-neutral (they do not describe a particular domain).} \\
+2. & \text{The neutrality entails that the laws apply to any domain.} \\
 \hline
-3. & \therefore \text{The *applicability* is *trivial* (no *explanation* *is* *required*).}
+3. & \therefore \text{The applicability is trivial (no explanation is required).}
 \end{array}
 $$
 
@@ -307,10 +307,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *world* *has* a *factual* *structure* (the *facts*, the *states* of *affairs*; Ch. 15, §4.2).} \\
-2. & \text{The *logic* *describes* the *structure* (the *connectives* *mirror* the *relations* among the *facts*).} \\
+1. & \text{The world has a factual structure (the facts, the states of affairs; Ch. 15, §4.2).} \\
+2. & \text{The logic describes the structure (the connectives mirror the relations among the facts).} \\
 \hline
-3. & \therefore \text{The *applicability* is *grounded* in the *worldly* *structure*.}
+3. & \therefore \text{The applicability is grounded in the worldly structure.}
 \end{array}
 $$
 
@@ -334,11 +334,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *world* *has* a *structure* (the *relations* among the *entities*; Ch. 19, §6.3).} \\
-2. & \text{The *logic* *describes* the *structure* (the *connectives* *capture* the *relations*).} \\
-3. & \text{The *description* *is* the *applicability* (the *fit* is the *structural* *correspondence*).} \\
+1. & \text{The world has a structure (the relations among the entities; Ch. 19, §6.3).} \\
+2. & \text{The logic describes the structure (the connectives capture the relations).} \\
+3. & \text{The description is the applicability (the fit is the structural correspondence).} \\
 \hline
-4. & \therefore \text{The *applicability* is *explained* by the *structural* *realism*.}
+4. & \therefore \text{The applicability is explained by the structural realism.}
 \end{array}
 $$
 
@@ -362,11 +362,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *quantum* *mechanics* *suggests* the *failure* of the *distributive* *law* (the *empirical* *premise*).} \\
-2. & \text{The *distributive* *law* is a *law* of the *classical* *logic* (the *logical* *premise*).} \\
-3. & \text{The *failure* *requires* the *revision* of the *logic* (the *empirical* *challenge*).} \\
+1. & \text{The quantum mechanics suggests the failure of the distributive law (the empirical premise).} \\
+2. & \text{The distributive law is a law of the classical logic (the logical premise).} \\
+3. & \text{The failure requires the revision of the logic (the empirical challenge).} \\
 \hline
-4. & \therefore \text{The *logic* is *empirical* (the *quantum* *logic* *is* *the* *logic* of the *quantum* *domain*).}
+4. & \therefore \text{The logic is empirical (the quantum logic is the logic of the quantum domain).}
 \end{array}
 $$
 
@@ -463,10 +463,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *philosophical* *necessities* *constrain* the *possible* *cases* (the *conceptual* *truths* *hold* in *every* *possible* *world*).} \\
-2. & \text{The *constraint* *requires* a *modal* *fact* (the *necessity*).} \\
+1. & \text{The philosophical necessities constrain the possible cases (the conceptual truths hold in every possible world).} \\
+2. & \text{The constraint requires a modal fact (the necessity).} \\
 \hline
-3. & \therefore \text{The *philosophical* *necessities* are *real* (the *modal* *realism*).}
+3. & \therefore \text{The philosophical necessities are real (the modal realism).}
 \end{array}
 $$
 
@@ -498,11 +498,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *laws* of logic are *true* in *virtue* of the *meanings* of the *connectives* (the *analyticity*; §2.1).} \\
-2. & \text{The *grasp* of the *meanings* is *sufficient* for the *knowledge* of the *laws* (the *epistemic* *analyticity*).} \\
-3. & \text{The *grasp* is *a* *priori* (it is *not* *empirical*).} \\
+1. & \text{The laws of logic are true in virtue of the meanings of the connectives (the analyticity; §2.1).} \\
+2. & \text{The grasp of the meanings is sufficient for the knowledge of the laws (the epistemic analyticity).} \\
+3. & \text{The grasp is a priori (it is not empirical).} \\
 \hline
-4. & \therefore \text{The *logical* *knowledge* is *a* *priori* (the *classical* *conception*).}
+4. & \therefore \text{The logical knowledge is a priori (the classical conception).}
 \end{array}
 $$
 
@@ -526,11 +526,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *theories* are *justified* by the *IBE* (the *best* *explanation*; Ch. 10, §6).} \\
-2. & \text{The *logic* is a *theory* (the *anti*-*exceptionalism*; Ch. 35, §7.3).} \\
-3. & \text{The *IBE* is *empirical* (the *premises* are the *observations*).} \\
+1. & \text{The theories are justified by the IBE (the best explanation; Ch. 10, §6).} \\
+2. & \text{The logic is a theory (the anti-exceptionalism; Ch. 35, §7.3).} \\
+3. & \text{The IBE is empirical (the premises are the observations).} \\
 \hline
-4. & \therefore \text{The *logical* *knowledge* is *empirical* (the *abductivism*).}
+4. & \therefore \text{The logical knowledge is empirical (the abductivism).}
 \end{array}
 $$
 
@@ -556,11 +556,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *logic* *specifies* the *valid* *inferences* (the *descriptive* *premise*).} \\
-2. & \text{The *valid* *inferences* are *good* *inferences* (the *evaluative* *premise*).} \\
-3. & \text{The *good* *inferences* are *normative* (the *ought* *to* *infer*).} \\
+1. & \text{The logic specifies the valid inferences (the descriptive premise).} \\
+2. & \text{The valid inferences are good inferences (the evaluative premise).} \\
+3. & \text{The good inferences are normative (the ought to infer).} \\
 \hline
-4. & \therefore \text{The *logic* is *normative* (the *standard* *view*).}
+4. & \therefore \text{The logic is normative (the standard view).}
 \end{array}
 $$
 
@@ -625,10 +625,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *fundamental* *moral* *truths* (the *torture* is *wrong*) are *known* *without* *empirical* *investigation* (the *intuition*).} \\
-2. & \text{The *intuition* is *a* *priori* (the *grasp* of the *moral* *concept*).} \\
+1. & \text{The fundamental moral truths (the torture is wrong) are known without empirical investigation (the intuition).} \\
+2. & \text{The intuition is a priori (the grasp of the moral concept).} \\
 \hline
-3. & \therefore \text{There are *moral* *a* *priori* *truths* (the *rationalism*).}
+3. & \therefore \text{There are moral a priori truths (the rationalism).}
 \end{array}
 $$
 
@@ -658,10 +658,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *modal* *truths* (the *possibility*, the *necessity*) are *known* *a* *priori* (the *conceivability*).} \\
-2. & \text{The *conceivability* *entails* the *possibility* (the *CP* *thesis*; Ch. 16, §6.2).} \\
+1. & \text{The modal truths (the possibility, the necessity) are known a priori (the conceivability).} \\
+2. & \text{The conceivability entails the possibility (the CP thesis; Ch. 16, §6.2).} \\
 \hline
-3. & \therefore \text{The *modal* *knowledge* is *a* *priori* (the *rationalism*).}
+3. & \therefore \text{The modal knowledge is a priori (the rationalism).}
 \end{array}
 $$
 

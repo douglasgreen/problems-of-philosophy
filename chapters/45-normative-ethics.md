@@ -31,7 +31,7 @@ The *chapter* proceeds in *seven* *movements*. §1 examines the *consequentialis
 **The *structure***.
 
 $$
-\text{Act } A \text{ is right} \iff A \text{ maximizes the *impersonal* good (actual or expected)}
+\text{Act } A \text{ is right} \iff A \text{ maximizes the impersonal good (actual or expected)}
 $$
 
 **The *three* *components***.
@@ -81,11 +81,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *utilitarianism* *requires* the *maximization* of the *impersonal* *good*} \ (\S 1.1). \\
-2. & \text{The *maximization* *requires* the *sacrifice* of the *agent*'s *projects*, *interests*, and *relationships* *whenever* the *sacrifice* *increases* the *aggregate*. \\
-3. & \text{The *universal* *sacrifice* is *psychologically* *impossible* and *morally* *repugnant* (the *alienation*; the *integrity*; the *supererogation*).} \\
+1. & \text{The utilitarianism requires the maximization of the impersonal good} \ (§ 1.1). \\
+2. & \text{The maximization requires the sacrifice of the agent's projects, interests, and relationships whenever the sacrifice increases the aggregate.} \\
+3. & \text{The universal sacrifice is psychologically impossible and morally repugnant (the alienation; the integrity; the supererogation).} \\
 \hline
-4. & \therefore \text{The *utilitarianism* *misdescribes* the *moral* *life* (the *demandingness* *objection*), and the *unrestricted* *maximization* is *false*}.
+4. & \therefore \text{The utilitarianism misdescribes the moral life (the demandingness objection), and the unrestricted maximization is false}.
 \end{array}
 $$
 
@@ -141,18 +141,18 @@ $$
 **The *structure***.
 
 $$
-\text{Act } A \text{ is right} \iff A \text{ conforms to the code } C \text{ whose *universal* *acceptance* maximizes the good}
+\text{Act } A \text{ is right} \iff A \text{ conforms to the code } C \text{ whose universal acceptance maximizes the good}
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *act*-*consequentialism* *demands* the *sacrifice* *that* *no* *one* *can* *bear*} \ (\S 1.3). \\
-2. & \text{The *general* *acceptance* of the *rules* (the *promise*-*keeping*, the *property*, the *care*) *maximizes* the *good* (the *coordination*; the *trust*). \\
-3. & \text{The *rules* *secure* the *coordination* and *restrict* the *demandingness* (the *two-level* *insight*).} \\
+1. & \text{The act-consequentialism demands the sacrifice that no one can bear} \ (§ 1.3). \\
+2. & \text{The general acceptance of the rules (the promise-keeping, the property, the care) maximizes the good (the coordination; the trust).} \\
+3. & \text{The rules secure the coordination and restrict the demandingness (the two-level insight).} \\
 \hline
-4. & \therefore \text{The *right* action is the *rule*-*conforming* *action* (the *rule*-*consequentialism*).}
+4. & \therefore \text{The right action is the rule-conforming action (the rule-consequentialism).}
 \end{array}
 $$
 
@@ -213,8 +213,7 @@ $$
 **(ii) The *Formula* of *Humanity* (FH)**.
 
 $$
-\text{Act so as to use humanity, in your own person or in the person of another,} \\
-\text{always at the same time as an end, never merely as a means}
+\text{Act so as to use humanity, in your own person or in the person of another, always at the same time as an end, never merely as a means}
 $$
 
 **(iii) The *Formula* of the *Kingdom* of *Ends* (FKE)**.
@@ -294,7 +293,7 @@ $$
 **The *structure***.
 
 $$
-\text{Virtue} \ v \ \text{is a *stable* *state* of *character*} \ (\text{a *hexis*}) \ \text{that *disposes* the agent to *feel*, *choose*, and *act* *well*}
+\text{Virtue} \ v \ \text{is a stable state of character} \ (\text{a hexis}) \ \text{that disposes the agent to feel, choose, and act well}
 $$
 
 **The *components***.
@@ -310,11 +309,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *morality* *is* *primarily* *about* the *agent* (the *character*, the *life*), not the *isolated* *act*} \ (\text{the *aretaic* *insight}). \\
-2. & \text{The *act* *is* *right* *if* it is *what* the *virtuous* *person* would *do* (the *v*-*rules*). \\
-3. & \text{The *virtue* *is* *prior* to the *act* (the *aretaic* *primacy*).} \\
+1. & \text{The morality is primarily about the agent (the character, the life), not the isolated act} \ (\text{the aretaic insight}). \\
+2. & \text{The act is right if it is what the virtuous person would do (the v-rules).} \\
+3. & \text{The virtue is prior to the act (the aretaic primacy).} \\
 \hline
-4. & \therefore \text{The *virtue* *ethics* *grounds* the *morality* in the *character* (the *aretaic* *insight}).}
+4. & \therefore \text{The virtue ethics grounds the morality in the character (the aretaic insight}).
 \end{array}
 $$
 
@@ -340,11 +339,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *v*-*rules* *require* the *independent* *specification* of the *virtuous* *person* (the *criterion*). \\
-2. & \text{The *criterion* *requires* the *principles* (the *determinate* *norms*). \\
-3. & \text{The *virtue* *ethics* *denies* the *principles* (the *particularism*; §5.1).} \\
+1. & \text{The v-rules require the independent specification of the virtuous person (the criterion).} \\
+2. & \text{The criterion requires the principles (the determinate norms).} \\
+3. & \text{The virtue ethics denies the principles (the particularism; §5.1).} \\
 \hline
-4. & \therefore \text{The *virtue* *ethics* *cannot* *guide* the *action* (the *guidance* *objection*).}
+4. & \therefore \text{The virtue ethics cannot guide the action (the guidance objection).}
 \end{array}
 $$
 
@@ -358,11 +357,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *virtue* *ethics* *presupposes* the *robust* *character* *traits* (the *cross*-*situational* *consistency* of the *behavior*).} \\
-2. & \text{The *empirical* *psychology* *shows* that the *situation* *predicts* the *behavior* *far* *better* than the *character* (the *Milgram* *obedience*, the *Good* *Samaritan* *study*).} \\
-3. & \text{The *robust* *traits* *do* not *exist* (the *situationist* *conclusion*).} \\
+1. & \text{The virtue ethics presupposes the robust character traits (the cross-situational consistency of the behavior).} \\
+2. & \text{The empirical psychology shows that the situation predicts the behavior far better than the character (the Milgram obedience, the Good Samaritan study).} \\
+3. & \text{The robust traits do not exist (the situationist conclusion).} \\
 \hline
-4. & \therefore \text{The *virtue* *ethics* *is* *empirically* *unsupported* (the *situationist* *objection*).}
+4. & \therefore \text{The virtue ethics is empirically unsupported (the situationist objection).}
 \end{array}
 $$
 
@@ -412,7 +411,7 @@ $$
 **The *structure***.
 
 $$
-\text{Act } A \text{ is wrong} \iff A \text{ is forbidden by the *principles* that *no one* could *reasonably* *reject*}
+\text{Act } A \text{ is wrong} \iff A \text{ is forbidden by the principles that no one could reasonably reject}
 $$
 
 **The *components***.
@@ -431,11 +430,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *morality* *is* the *system* of the *mutual* *justification* (the *contractualist* *insight*).} \\
-2. & \text{The *justification* *requires* the *principles* *no one* could *reasonably* *reject* (the *reasonable* *rejection*).} \\
-3. & \text{The *principles* *ground* the *right* and the *wrong* (the *moral* *facts*).} \\
+1. & \text{The morality is the system of the mutual justification (the contractualist insight).} \\
+2. & \text{The justification requires the principles no one could reasonably reject (the reasonable rejection).} \\
+3. & \text{The principles ground the right and the wrong (the moral facts).} \\
 \hline
-4. & \therefore \text{The *contractualism* *constitutes* the *morality* (the *Scanlonian* *insight*).}
+4. & \therefore \text{The contractualism constitutes the morality (the Scanlonian insight).}
 \end{array}
 $$
 
@@ -489,18 +488,18 @@ $$
 **The *structure***.
 
 $$
-\text{Feature } f \ \text{contributes a *pro tanto* reason} \ r \ \text{in context} \ C_1, \ \text{and the *opposite* reason in context} \ C_2
+\text{Feature } f \ \text{contributes a pro tanto reason} \ r \ \text{in context} \ C_1, \ \text{and the opposite reason in context} \ C_2
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *reasons* are *context*-*sensitive* (the *holism*: the *same* *feature* *counts* *differently* in the *different* *contexts*).} \\
-2. & \text{The *principles* *require* the *context*-*invariant* *reasons* (the *atomism*).} \\
-3. & \text{The *atomism* *is* *false* (the *holism*).} \\
+1. & \text{The reasons are context-sensitive (the holism: the same feature counts differently in the different contexts).} \\
+2. & \text{The principles require the context-invariant reasons (the atomism).} \\
+3. & \text{The atomism is false (the holism).} \\
 \hline
-4. & \therefore \text{There are *no* *moral* *principles* (the *particularism*), and the *judgment* *requires* the *perception* (the *perceptual* *insight*).}
+4. & \therefore \text{There are no moral principles (the particularism), and the judgment requires the perception (the perceptual insight).}
 \end{array}
 $$
 
@@ -525,18 +524,18 @@ $$
 **The *structure***.
 
 $$
-\text{Values} \ V_1, \ldots, V_n \ \text{are *irreducible* (no *common* *measure*), and the conflicts are *real* (the *tragic* *choices*)}
+\text{Values} \ V_1, \ldots, V_n \ \text{are irreducible (no common measure), and the conflicts are real (the tragic choices)}
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *values* are *qualitatively* *distinct* (the *liberty* *is* *not* the *welfare*; the *fidelity* *is* *not* the *justice*).} \\
-2. & \text{The *distinct* *values* *cannot* be *reduced* to a *common* *measure* (the *incommensurability*).} \\
-3. & \text{The *conflicts* *are* *real* (the *tragic* *choices*) and *irresolvable* by a *single* *scale* (the *residue*: the *regret*). \\
+1. & \text{The values are qualitatively distinct (the liberty is not the welfare; the fidelity is not the justice).} \\
+2. & \text{The distinct values cannot be reduced to a common measure (the incommensurability).} \\
+3. & \text{The conflicts are real (the tragic choices) and irresolvable by a single scale (the residue: the regret).} \\
 \hline
-4. & \therefore \text{The *pluralism* is *true* (the *pluralist* *insight*), and the *monism* (the *single* *principle*) is *false*.}
+4. & \therefore \text{The pluralism is true (the pluralist insight), and the monism (the single principle) is false.}
 \end{array}
 $$
 
@@ -550,11 +549,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *considered* *judgments* (the *particular* *moral* *intuitions*).} \\
-2. & \text{The *principles* (the *general* *norms*).} \\
-3. & \text{The *background* *theories* (the *psychology*, the *metaphysics*, the *semantics*).} \\
+1. & \text{The considered judgments (the particular moral intuitions).} \\
+2. & \text{The principles (the general norms).} \\
+3. & \text{The background theories (the psychology, the metaphysics, the semantics).} \\
 \hline
-4. & \therefore \text{The *equilibrium* (the *coherence* of the *three* *levels*), *revised* by the *mutual* *adjustment* (the *method*).}
+4. & \therefore \text{The equilibrium (the coherence of the three levels), revised by the mutual adjustment (the method).}
 \end{array}
 $$
 
@@ -604,11 +603,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *switch* *and* the *bridge* *differ* *morally* (the *intuition*).} \\
-2. & \text{The *consequentialism* *cannot* *distinguish* the *cases* (the *same* *aggregate*, the *one* *dies* for the *five*).} \\
-3. & \text{The *deontology* *distinguishes* the *cases* (the *bridge* *uses* the *fat* *man* *as* a *means*; the *doing*/*allowing*).} \\
+1. & \text{The switch and the bridge differ morally (the intuition).} \\
+2. & \text{The consequentialism cannot distinguish the cases (the same aggregate, the one dies for the five).} \\
+3. & \text{The deontology distinguishes the cases (the bridge uses the fat man as a means; the doing/allowing).} \\
 \hline
-4. & \therefore \text{The *deontology* *fits* the *intuitions* *better* (the *trolley* *insight*), and the *consequentialism* *misdescribes* the *deontic* *structure*.}
+4. & \therefore \text{The deontology fits the intuitions better (the trolley insight), and the consequentialism misdescribes the deontic structure.}
 \end{array}
 $$
 
@@ -632,11 +631,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *agent*'s *projects* *constitute* the *self* (the *identity*). \\
-2. & \text{The *utilitarianism* *requires* the *sacrifice* of the *projects* *whenever* the *aggregate* *requires* it. \\
-3. & \text{The *sacrifice* *destroys* the *self* (the *alienation*; the *one thought too many*). \\
+1. & \text{The agent's projects constitute the self (the identity).} \\
+2. & \text{The utilitarianism requires the sacrifice of the projects whenever the aggregate requires it.} \\
+3. & \text{The sacrifice destroys the self (the alienation; the one thought too many).} \\
 \hline
-4. & \therefore \text{The *utilitarianism* *is* *incompatible* with the *integrity* (the *integrity* *objection*).}
+4. & \therefore \text{The utilitarianism is incompatible with the integrity (the integrity objection).}
 \end{array}
 $$
 
@@ -667,11 +666,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *moral* *responsibility* *requires* the *control* (the *no*-*control* *principle*).} \\
-2. & \text{The *moral* *judgment* *depends* on the *factors* *beyond* the *control* (the *luck*). \\
-3. & \text{The *two* *are* *incompatible* (the *paradox*). \\
+1. & \text{The moral responsibility requires the control (the no-control principle).} \\
+2. & \text{The moral judgment depends on the factors beyond the control (the luck).} \\
+3. & \text{The two are incompatible (the paradox).} \\
 \hline
-4. & \therefore \text{The *moral* *responsibility* *collapses* (the *luck* *pessimism*; Nagel 1979), or the *control* *principle* *is* *false* (the *luck* *realism*).}
+4. & \therefore \text{The moral responsibility collapses (the luck pessimism; Nagel 1979), or the control principle is false (the luck realism).}
 \end{array}
 $$
 
@@ -746,11 +745,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *ethical* *life* *is* *the* *practice* (the *tradition*, the *perception*, the *judgment*).} \\
-2. & \text{The *theory* *is* *not* *required* for the *practice* (the *practice* *precedes* the *theory*).} \\
-3. & \text{The *theory* *is* *harmful* (the *abstraction*, the *rigorism*, the *alienation*). \\
+1. & \text{The ethical life is the practice (the tradition, the perception, the judgment).} \\
+2. & \text{The theory is not required for the practice (the practice precedes the theory).} \\
+3. & \text{The theory is harmful (the abstraction, the rigorism, the alienation).} \\
 \hline
-4. & \therefore \text{The *moral* *theory* *is* *not* *necessary* (the *anti*-*theory* *insight*), and the *practice* *is* *primary* (the *practice* *insight*).}
+4. & \therefore \text{The moral theory is not necessary (the anti-theory insight), and the practice is primary (the practice insight).}
 \end{array}
 $$
 
@@ -817,13 +816,13 @@ The *table* is a *map*, not a *verdict*. The *reader* who *wants* to *choose* a 
 
 $$
 \begin{array}{ll}
-1. & \text{The *impersonal* *aggregation*} \ (\text{the *prioritarian* *insight*}) \ \text{for the *political* *choices*.} \\
-2. & \text{The *deontic* *constraints*} \ (\text{the *Rossian* *insight*}) \ \text{for the *personal* *choices*.} \\
-3. & \text{The *virtue*-*ethical* *character*} \ (\text{the *phronesis* *insight*}) \ \text{for the *perception* *and* the *life*. \\
-4. & \text{The *wide* *reflective* *equilibrium*} \ (\text{the *coherence* *insight*}) \ \text{for the *integration*. \\
-5. & \text{The *pluralism*} \ (\text{the *irreducibility* *insight*}) \ \text{for the *tragic* *choices* *and* the *residue*. \\
+1. & \text{The impersonal aggregation} \ (\text{the prioritarian insight}) \ \text{for the political choices.} \\
+2. & \text{The deontic constraints} \ (\text{the Rossian insight}) \ \text{for the personal choices.} \\
+3. & \text{The virtue-ethical character} \ (\text{the phronesis insight}) \ \text{for the perception and the life.} \\
+4. & \text{The wide reflective equilibrium} \ (\text{the coherence insight}) \ \text{for the integration.} \\
+5. & \text{The pluralism} \ (\text{the irreducibility insight}) \ \text{for the tragic choices and the residue.} \\
 \hline
-6. & \therefore \text{The *hybrid* *theory} \ (\text{the *synthesis* *insight*}), \ *qualified* \text{by the *admission* that the *aggregation*, the *demandingness*, \text{ and the *priority* *remain* *contested*.}
+6. & \therefore \text{The hybrid theory (the synthesis insight), qualified by the admission that the aggregation, the demandingness, and the priority remain contested.}
 \end{array}
 $$
 

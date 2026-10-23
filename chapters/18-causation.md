@@ -185,7 +185,7 @@ $$
 $$
 \begin{array}{ll}
 1. & \text{The nearest world where the shadow is longer is a world where the sun is lower (not where the pole is taller).} \\
-2. & \text{So "had the shadow been longer, the pole would have been taller" is false.} \\
+2. & \text{So “had the shadow been longer, the pole would have been taller” is false.} \\
 3. & \text{The asymmetry of counterfactuals is grounded in the asymmetry of overdetermination.} \\
 \hline
 4. & \therefore \text{The asymmetry of causation is grounded in the asymmetry of counterfactuals.}
@@ -312,10 +312,10 @@ The *most* *influential* *alternative* to the *difference-making* *tradition* is
 
 $$
 \begin{array}{ll}
-1. & \text{Causation is a *connection* between *events*, not a *pattern* of *regularities*.} \\
-2. & \text{The *connection* is *physical*: it is the *transmission* of a *mark* along a *spacetime* *path*.} \\
+1. & \text{Causation is a connection between events, not a pattern of regularities.} \\
+2. & \text{The connection is physical: it is the transmission of a mark along a spacetime path.} \\
 \hline
-3. & \therefore \text{Causation is *reducible* to the *transmission* of *marks* along *causal* *processes*.}
+3. & \therefore \text{Causation is reducible to the transmission of marks along causal processes.}
 \end{array}
 $$
 
@@ -348,10 +348,10 @@ The *most* *important* *contemporary* *development* of the *process* *tradition*
 
 $$
 \begin{array}{ll}
-1. & \text{The *special* *sciences* *explain* *phenomena* by *describing* *mechanisms*.} \\
-2. & \text{The *description* *of* a *mechanism* is a *description* of a *causal* *structure*.} \\
+1. & \text{The special sciences explain phenomena by describing mechanisms.} \\
+2. & \text{The description of a mechanism is a description of a causal structure.} \\
 \hline
-3. & \therefore \text{Causation *in* the *special* *sciences* is *mechanism* *production*.}
+3. & \therefore \text{Causation in the special sciences is mechanism production.}
 \end{array}
 $$
 
@@ -403,11 +403,11 @@ The *most* *important* *conceptual* *distinction* in the *contemporary* *debate*
 
 $$
 \begin{array}{ll}
-1. & \text{The *data* of *causation* include *production*, *difference-making*, *omission*, *pre-emption*, *overdetermination*, and *trumping*.} \\
-2. & \text{No *single* *analysis* *captures* *all* the *data*.} \\
-3. & \text{*Different* *analyses* *capture* *different* *subsets*.} \\
+1. & \text{The data of causation include production, difference-making, omission, pre-emption, overdetermination, and trumping.} \\
+2. & \text{No single analysis captures all the data.} \\
+3. & \text{Different analyses capture different subsets.} \\
 \hline
-4. & \therefore \text{The *best* *account* is *pluralist*.}
+4. & \therefore \text{The best account is pluralist.}
 \end{array}
 $$
 
@@ -494,10 +494,10 @@ The *distinction* was *introduced* in Ch. 15, §5.3, and it is *developed* here.
 
 $$
 \begin{array}{ll}
-1. & \text{Every *property* is *known* *through* its *causal* *role*.} \\
-2. & \text{The *causal* *role* is *constitutive* of the *property*: there is *nothing* *more* to *know*.} \\
+1. & \text{Every property is known through its causal role.} \\
+2. & \text{The causal role is constitutive of the property: there is nothing more to know.} \\
 \hline
-3. & \therefore \text{All *properties* are *dispositional*.}
+3. & \therefore \text{All properties are dispositional.}
 \end{array}
 $$
 
@@ -531,10 +531,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{A *disposition* is *grounded* in a *categorical* *basis*.} \\
-2. & \text{The *basis* is *not* *itself* a *disposition* (otherwise the *regress* is *infinite*).} \\
+1. & \text{A disposition is grounded in a categorical basis.} \\
+2. & \text{The basis is not itself a disposition (otherwise the regress is infinite).} \\
 \hline
-3. & \therefore \text{The *fundamental* *properties* are *categorical*.}
+3. & \therefore \text{The fundamental properties are categorical.}
 \end{array}
 $$
 
@@ -607,10 +607,10 @@ where $N$ is the *relation* of *necessitation* between the *universals* $F$ and 
 
 $$
 \begin{array}{ll}
-1. & \text{The *laws* are *necessary*: they *support* *counterfactuals*, and they *explain* the *regularities*.} \\
-2. & \text{The *necessity* *requires* a *relation* of *necessitation* between *universals*.} \\
+1. & \text{The laws are necessary: they support counterfactuals, and they explain the regularities.} \\
+2. & \text{The necessity requires a relation of necessitation between universals.} \\
 \hline
-3. & \therefore \text{The *laws* are *relations* of *necessitation*.}
+3. & \therefore \text{The laws are relations of necessitation.}
 \end{array}
 $$
 
@@ -636,10 +636,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *laws* are *necessary*.} \\
-2. & \text{The *necessity* is *grounded* in the *essences* of the *properties*.} \\
+1. & \text{The laws are necessary.} \\
+2. & \text{The necessity is grounded in the essences of the properties.} \\
 \hline
-3. & \therefore \text{The *laws* are *consequences* of the *essences*.}
+3. & \therefore \text{The laws are consequences of the essences.}
 \end{array}
 $$
 
@@ -657,10 +657,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *laws* *govern*: they *determine* what *happens*.} \\
-2. & \text{The *governing* is *not* *reducible* to *regularity*, *universals*, or *essence*.} \\
+1. & \text{The laws govern: they determine what happens.} \\
+2. & \text{The governing is not reducible to regularity, universals, or essence.} \\
 \hline
-3. & \therefore \text{The *laws* are *primitive*.}
+3. & \therefore \text{The laws are primitive.}
 \end{array}
 $$
 
@@ -696,11 +696,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Each *special* *science* *identifies* *causes* at its *own* *level* of *description*.} \\
-2. & \text{The *causes* *are* *multiply* *realizable*: the *same* *effect* *can* be *produced* by *different* *physical* *mechanisms*.} \\
-3. & \text{The *multiple* *realizability* *blocks* the *reduction* to *fundamental* *physics*.} \\
+1. & \text{Each special science identifies causes at its own level of description.} \\
+2. & \text{The causes are multiply realizable: the same effect can be produced by different physical mechanisms.} \\
+3. & \text{The multiple realizability blocks the reduction to fundamental physics.} \\
 \hline
-4. & \therefore \text{The *special* *sciences* have *autonomous* *causal* *claims*.}
+4. & \therefore \text{The special sciences have autonomous causal claims.}
 \end{array}
 $$
 

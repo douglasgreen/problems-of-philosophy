@@ -62,11 +62,11 @@ The *chapter* proceeds in *eight* *movements*. §1 examines the *method* of *app
 
 $$
 \begin{array}{ll}
-1. & \text{The *theory* } T \text{ *yields* the *verdict* } V \text{ in the *case* } C \ (\text{the *application*}). \\
-2. & T \text{ is the *justified* *theory*} \ (\text{the *no* *mere* *intuition*}). \\
-3. & \text{The *application* is the *deduction*} \ (\text{the *no* *judgment* *beyond* the *theory*}). \\
+1. & \text{The theory } T \text{ yields the verdict } V \text{ in the case } C \ (\text{the application}). \\
+2. & T \text{ is the justified theory} \ (\text{the no mere intuition}). \\
+3. & \text{The application is the deduction} \ (\text{the no judgment beyond the theory}). \\
 \hline
-4. & \therefore V \text{ is the *justified* *verdict*} \ (\text{the *top*-*down* *insight*}), \ \text{and the *justification* is the *derivation*} \ (\text{the *no* *mere* *precedent*}).}
+4. & \therefore V \text{ is the justified verdict} \ (\text{the top-down insight}), \ \text{and the justification is the derivation} \ (\text{the no mere precedent}).
 \end{array}
 $$
 
@@ -90,11 +90,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *paradigm* *case* } C_0 \text{ *yields* the *verdict* } V_0 \ (\text{the *no* *mere* *theory*}). \\
-2. & \text{The *new* *case* } C_1 \text{ *is* *analogous* to } C_0 \ (\text{the *similarity* *insight*}). \\
-3. & \text{The *analogy* *extend* the *verdict*} \ (\text{the *no* *mere* *deduction*}). \\
+1. & \text{The paradigm case } C_0 \text{ yields the verdict } V_0 \ (\text{the no mere theory}). \\
+2. & \text{The new case } C_1 \text{ is analogous to } C_0 \ (\text{the similarity insight}). \\
+3. & \text{The analogy extend the verdict} \ (\text{the no mere deduction}). \\
 \hline
-4. & \therefore V_0 \text{ *applies* to } C_1 \ (\text{the *casuist* *insight*}), \ \text{and the *theory* is the *summary*} \ (\text{the *no* *mere* *foundation*}), \ \text{and the *practice* *grounds* the *principle*} \ (\text{the *no* *mere* *top*-*down*}).}
+4. & \therefore V_0 \text{ applies to } C_1 \ (\text{the casuist insight}), \ \text{and the theory is the summary} \ (\text{the no mere foundation}), \ \text{and the practice grounds the principle} \ (\text{the no mere top-down}).
 \end{array}
 $$
 
@@ -117,24 +117,24 @@ $$
 **The *structure*** (the *equilibrium*).
 
 $$
-\text{The *verdict* in } C \ \leftrightarrows \ \text{the *principle* } P \ \leftrightarrows \ \text{the *background* *theory* } T \ \leftrightarrows \ \text{the *considered* *judgments* } J
+\text{The verdict in } C \ \leftrightarrows \ \text{the principle } P \ \leftrightarrows \ \text{the background theory } T \ \leftrightarrows \ \text{the considered judgments } J
 $$
 
 **The *specification*** (the *Richardson* *form*).
 
 $$
-\text{The *norm* } N \ \Rightarrow \ \text{the *specified* *norm* } N' \ \text{that *is* *applicable* to } C \ (\text{the *no* *mere* *subsumption*})
+\text{The norm } N \ \Rightarrow \ \text{the specified norm } N' \ \text{that is applicable to } C \ (\text{the no mere subsumption})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *general* *norm* *under*-*determines* the *case*} \ (\text{the *no* *mere* *deduction*}). \\
-2. & \text{The *specification* *yields* the *applicable* *norm*} \ (\text{the *no* *mere* *exception*}). \\
-3. & \text{The *equilibrium* *adjusts* the *whole*} \ (\text{the *no* *mere* *foundation*}). \\
+1. & \text{The general norm under-determines the case} \ (\text{the no mere deduction}). \\
+2. & \text{The specification yields the applicable norm} \ (\text{the no mere exception}). \\
+3. & \text{The equilibrium adjusts the whole} \ (\text{the no mere foundation}). \\
 \hline
-4. & \therefore \text{The *equilibrium* *grounds* the *verdict*} \ (\text{the *Daniels* *insight*}), \ \text{and the *specification* *is* the *method*} \ (\text{the *Richardson* *insight*}), \ \text{and the *no* *mere} \ \text{derivation*} \ (\text{the *applied* *insight*}).}
+4. & \therefore \text{The equilibrium grounds the verdict} \ (\text{the Daniels insight}), \ \text{and the specification is the method} \ (\text{the Richardson insight}), \ \text{and the no mere} \ \text{derivation} \ (\text{the applied insight}).
 \end{array}
 $$
 
@@ -157,18 +157,18 @@ $$
 **The *structure***.
 
 $$
-\text{Autonomy} \ \wedge \ \text{Beneficence} \ \wedge \ \text{Non-maleficence} \ \wedge \ \text{Justice} \ (\text{the *prima* *facie*, the *no* *lexical* *order*})
+\text{Autonomy} \ \wedge \ \text{Beneficence} \ \wedge \ \text{Non-maleficence} \ \wedge \ \text{Justice} \ (\text{the prima facie, the no lexical order})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *single* *theory* *fails* the *practice*} \ (\text{the *no* *mere* *algorithm*}). \\
-2. & \text{The *four* *principles* *capture* the *common* *morality*} \ (\text{the *no* *mere* *sect*}). \\
-3. & \text{The *prima* *facie* *structure* *permits* the *conflict*} \ (\text{the *no* *mere* *monism*}). \\
+1. & \text{The single theory fails the practice} \ (\text{the no mere algorithm}). \\
+2. & \text{The four principles capture the common morality} \ (\text{the no mere sect}). \\
+3. & \text{The prima facie structure permits the conflict} \ (\text{the no mere monism}). \\
 \hline
-4. & \therefore \text{The *principlism* *grounds* the *practice*} \ (\text{the *Beauchamp*-*Childress* *insight*}), \ \text{and the *specification* *resolves* the *conflict*} \ (\text{the *no* *mere} \ \text{derivation*}), \ \text{and the *theory* is the *background*} \ (\text{the *no* *mere} \ \text{foundation*}).}
+4. & \therefore \text{The principlism grounds the practice} \ (\text{the Beauchamp-Childress insight}), \ \text{and the specification resolves the conflict} \ (\text{the no mere} \ \text{derivation}), \ \text{and the theory is the background} \ (\text{the no mere} \ \text{foundation}).
 \end{array}
 $$
 
@@ -191,18 +191,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *justification*} \ = \ \text{the *public* *reason*} \ \wedge \ \text{the *empirical* *evidence*} \ (\text{the *no* *mere* *authority*})
+\text{The justification} \ = \ \text{the public reason} \ \wedge \ \text{the empirical evidence} \ (\text{the no mere authority})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *coercion* *requires* the *justification*} \ (\text{the *no* *mere* *authority*}). \\
-2. & \text{The *justification* *requires* the *public* *reason*} \ (\text{the *no* *mere* *sect*}). \\
-3. & \text{The *reason* *requires* the *evidence*} \ (\text{the *no* *mere* *intuition*}). \\
+1. & \text{The coercion requires the justification} \ (\text{the no mere authority}). \\
+2. & \text{The justification requires the public reason} \ (\text{the no mere sect}). \\
+3. & \text{The reason requires the evidence} \ (\text{the no mere intuition}). \\
 \hline
-4. & \therefore \text{The *applied* *ethics* *requires* the *public* *reason*} \ (\text{the *Rawls* *insight*}), \ \text{and the *evidence*} \ (\text{the *empirical* *insight*}), \ \text{and the *no* *mere} \ \text{expertise*} \ (\text{the *democratic* *insight*}).}
+4. & \therefore \text{The applied ethics requires the public reason} \ (\text{the Rawls insight}), \ \text{and the evidence} \ (\text{the empirical insight}), \ \text{and the no mere} \ \text{expertise} \ (\text{the democratic insight}).
 \end{array}
 $$
 
@@ -250,11 +250,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *person* *is* the *sovereign* over the *body*} \ (\text{the *no* *mere* *paternalism*}). \\
-2. & \text{The *sovereignty* *requires* the *consent*} \ (\text{the *no* *mere* *assent*}). \\
-3. & \text{The *consent* *requires* the *conditions*} \ (\text{the *no* *mere* *signature*}). \\
+1. & \text{The person is the sovereign over the body} \ (\text{the no mere paternalism}). \\
+2. & \text{The sovereignty requires the consent} \ (\text{the no mere assent}). \\
+3. & \text{The consent requires the conditions} \ (\text{the no mere signature}). \\
 \hline
-4. & \therefore \text{The *informed* *consent* *grounds* the *intervention*} \ (\text{the *Beauchamp* *insight*}), \ \text{and the *failure* is the *wrong*} \ (\text{the *no* *mere} \ \text{formality*}), \ \text{and the *paternalism* is the *presumption*} \ (\text{the *no* *mere} \ \text{care*}).}
+4. & \therefore \text{The informed consent grounds the intervention} \ (\text{the Beauchamp insight}), \ \text{and the failure is the wrong} \ (\text{the no mere} \ \text{formality}), \ \text{and the paternalism is the presumption} \ (\text{the no mere} \ \text{care}).
 \end{array}
 $$
 
@@ -281,18 +281,18 @@ $$
 **The *distinction***.
 
 $$
-\text{Killing} = \text{the *causal* *agency*} \qquad \text{Letting die} = \text{the *omission*} \ (\text{the *no* *agency*})
+\text{Killing} = \text{the causal agency} \qquad \text{Letting die} = \text{the omission} \ (\text{the no agency})
 $$
 
 **The *Rachels* *argument*** (1975, §2).
 
 $$
 \begin{array}{ll}
-1. & \text{The *causal* *difference*} \ (\text{the *act* vs. the *omission*}) \ \text{is *not* *morally* *relevant*} \ (\text{the *no* *mere} \ \text{causation*}). \\
-2. & \text{The *intention*} \ (\text{the *death*}) \ \text{is the *same*} \ (\text{the *no* *mere} \ \text{act*}). \\
-3. & \text{The *consequence*} \ (\text{the *death*}) \ \text{is the *same*} \ (\text{the *no* *mere} \ \text{omission*}). \\
+1. & \text{The causal difference} \ (\text{the act vs. the omission}) \ \text{is not morally relevant} \ (\text{the no mere} \ \text{causation}). \\
+2. & \text{The intention} \ (\text{the death}) \ \text{is the same} \ (\text{the no mere} \ \text{act}). \\
+3. & \text{The consequence} \ (\text{the death}) \ \text{is the same} \ (\text{the no mere} \ \text{omission}). \\
 \hline
-4. & \therefore \text{The *distinction* *is* *not* *moral*} \ (\text{the *Rachels* *insight*}), \ \text{and the *active*} \ \text{and the *passive* *are* *alike*} \ (\text{the *no* *mere} \ \text{distinction*}), \ \text{and the *doctrine* *of* the *double* *effect* *fails*} \ (\text{the *no* *mere} \ \text{intention*}).}
+4. & \therefore \text{The distinction is not moral} \ (\text{the Rachels insight}), \ \text{and the active} \ \text{and the passive are alike} \ (\text{the no mere} \ \text{distinction}), \ \text{and the doctrine of the double effect fails} \ (\text{the no mere} \ \text{intention}).
 \end{array}
 $$
 
@@ -319,18 +319,18 @@ $$
 **The *framework***.
 
 $$
-\text{Permissible} \iff \text{competence} \wedge \text{unbearable suffering} \wedge \text{voluntary request} \wedge \text{safeguards} \ (\text{the *no* *mere* *diagnosis*})
+\text{Permissible} \iff \text{competence} \wedge \text{unbearable suffering} \wedge \text{voluntary request} \wedge \text{safeguards} \ (\text{the no mere diagnosis})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *unbearable* *suffering* *grounds* the *permission*} \ (\text{the *no* *mere* *paternalism*}). \\
-2. & \text{The *autonomy* *grounds* the *request*} \ (\text{the *no* *mere* *expertise*}). \\
-3. & \text{The *safeguards* *constrain* the *practice*} \ (\text{the *no* *mere* *license*}). \\
+1. & \text{The unbearable suffering grounds the permission} \ (\text{the no mere paternalism}). \\
+2. & \text{The autonomy grounds the request} \ (\text{the no mere expertise}). \\
+3. & \text{The safeguards constrain the practice} \ (\text{the no mere license}). \\
 \hline
-4. & \therefore \text{The *assisted* *dying* *is* *permissible*} \ (\text{the *Carter* *insight*}), \ \text{and the *safeguards* *are* the *condition*} \ (\text{the *no* *mere} \ \text{permission*}), \ \text{and the *evidence* *is* the *test*} \ (\text{the *no* *mere} \ \text{speculation*}).}
+4. & \therefore \text{The assisted dying is permissible} \ (\text{the Carter insight}), \ \text{and the safeguards are the condition} \ (\text{the no mere} \ \text{permission}), \ \text{and the evidence is the test} \ (\text{the no mere} \ \text{speculation}).
 \end{array}
 $$
 
@@ -367,11 +367,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *enhancement* *treats* the *child* *as* the *product*} \ (\text{the *no* *mere* *gift*}). \\
-2. & \text{The *product* *erodes* the *unconditional* *love*} \ (\text{the *no* *mere* *acceptance*}). \\
-3. & \text{The *erosion* *is* the *moral* *loss*} \ (\text{the *no* *mere} \ \text{improvement*}). \\
+1. & \text{The enhancement treats the child as the product} \ (\text{the no mere gift}). \\
+2. & \text{The product erodes the unconditional love} \ (\text{the no mere acceptance}). \\
+3. & \text{The erosion is the moral loss} \ (\text{the no mere} \ \text{improvement}). \\
 \hline
-4. & \therefore \text{The *enhancement* *is* *morally* *suspect*} \ (\text{the *Sandel* *insight*}), \ \text{and the *giftedness* *is* the *value*} \ (\text{the *no* *mere} \ \text{nature*}), \ \text{and the *boundary* *matters*} \ (\text{the *no* *mere} \ \text{therapy*}).}
+4. & \therefore \text{The enhancement is morally suspect} \ (\text{the Sandel insight}), \ \text{and the giftedness is the value} \ (\text{the no mere} \ \text{nature}), \ \text{and the boundary matters} \ (\text{the no mere} \ \text{therapy}).
 \end{array}
 $$
 
@@ -398,18 +398,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *germline* *editing*} \ \Rightarrow \ \text{the *inheritable* *change*} \ \Rightarrow \ \text{the *no* *consent* of the *future* *person*} \ (\text{the *no* *mere* *present*})
+\text{The germline editing} \ \Rightarrow \ \text{the inheritable change} \ \Rightarrow \ \text{the no consent of the future person} \ (\text{the no mere present})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *germline* *editing* *changes* the *future* *persons*} \ (\text{the *no* *mere* *individual*}). \\
-2. & \text{The *future* *persons* *cannot* *consent*} \ (\text{the *no* *mere* *present*}). \\
-3. & \text{The *irreversibility* *raises* the *risk*} \ (\text{the *no* *mere* *therapy*}). \\
+1. & \text{The germline editing changes the future persons} \ (\text{the no mere individual}). \\
+2. & \text{The future persons cannot consent} \ (\text{the no mere present}). \\
+3. & \text{The irreversibility raises the risk} \ (\text{the no mere therapy}). \\
 \hline
-4. & \therefore \text{The *germline* *editing* *requires* the *caution*} \ (\text{the *no* *mere} \ \text{permission*}), \ \text{and the *moratorium* *is* the *defensible*} \ (\text{the *no* *mere} \ \text{prohibition*}), \ \text{and the *future* *person* *is* the *stakeholder*} \ (\text{the *no* *mere} \ \text{present*}).}
+4. & \therefore \text{The germline editing requires the caution} \ (\text{the no mere} \ \text{permission}), \ \text{and the moratorium is the defensible} \ (\text{the no mere} \ \text{prohibition}), \ \text{and the future person is the stakeholder} \ (\text{the no mere} \ \text{present}).
 \end{array}
 $$
 
@@ -450,24 +450,24 @@ $$
 **The *structure***.
 
 $$
-\text{The *orthogonality* *thesis*}: \ \text{the *intelligence*} \ \bot \ \text{the *final* *goals*} \ \Rightarrow \ \text{the *no* *automatic* *benevolence*}
+\text{The orthogonality thesis}: \ \text{the intelligence} \ \bot \ \text{the final goals} \ \Rightarrow \ \text{the no automatic benevolence}
 $$
 
 **The *instrumental* *convergence*** (Bostrom 2014, ch. 7).
 
 $$
-\text{The *survival*} \ \wedge \ \text{the *resource* *acquisition*} \ \wedge \ \text{the *goal*-*content* *integrity*} \ \wedge \ \text{the *self*-*improvement*} \ (\text{the *convergent* *subgoals*})
+\text{The survival} \ \wedge \ \text{the resource acquisition} \ \wedge \ \text{the goal-content integrity} \ \wedge \ \text{the self-improvement} \ (\text{the convergent subgoals})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *intelligence* *is* *orthogonal* to the *goals*} \ (\text{the *no* *automatic* *benevolence*}). \\
-2. & \text{The *instrumental* *convergence* *yields* the *dangerous* *subgoals*} \ (\text{the *no* *mere* *neutrality*}). \\
-3. & \text{The *misalignment* *yields* the *catastrophic* *outcome*} \ (\text{the *no* *mere* *accident*}). \\
+1. & \text{The intelligence is orthogonal to the goals} \ (\text{the no automatic benevolence}). \\
+2. & \text{The instrumental convergence yields the dangerous subgoals} \ (\text{the no mere neutrality}). \\
+3. & \text{The misalignment yields the catastrophic outcome} \ (\text{the no mere accident}). \\
 \hline
-4. & \therefore \text{The *alignment* *is* the *central* *problem*} \ (\text{the *Bostrom* *insight*}), \ \text{and the *capability* *is* *not* the *safety*} \ (\text{the *no* *mere} \ \text{progress*}), \ \text{and the *control* *is* the *task*} \ (\text{the *no* *mere} \ \text{optimism*}).}
+4. & \therefore \text{The alignment is the central problem} \ (\text{the Bostrom insight}), \ \text{and the capability is not the safety} \ (\text{the no mere} \ \text{progress}), \ \text{and the control is the task} \ (\text{the no mere} \ \text{optimism}).
 \end{array}
 $$
 
@@ -494,18 +494,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *opacity*} \ \Rightarrow \ \text{the *no* *accountability*} \ \Rightarrow \ \text{the *explanation* *is* *required*} \ (\text{the *no* *mere* *output*})
+\text{The opacity} \ \Rightarrow \ \text{the no accountability} \ \Rightarrow \ \text{the explanation is required} \ (\text{the no mere output})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *right* to the *contestation* *requires* the *reason*} \ (\text{the *no* *mere* *output*}). \\
-2. & \text{The *reason* *requires* the *explanation*} \ (\text{the *no* *mere* *opacity*}). \\
-3. & \text{The *explanation* *is* *possible*} \ (\text{the *interpretability* *methods*}). \\
+1. & \text{The right to the contestation requires the reason} \ (\text{the no mere output}). \\
+2. & \text{The reason requires the explanation} \ (\text{the no mere opacity}). \\
+3. & \text{The explanation is possible} \ (\text{the interpretability methods}). \\
 \hline
-4. & \therefore \text{The *explanation* *is* *required*} \ (\text{the *Burrell* *insight*}), \ \text{and the *opacity* *is* the *obstacle*} \ (\text{the *no* *mere} \ \text{accountability*}), \ \text{and the *right* *is* the *procedural*} \ (\text{the *no* *mere} \ \text{transparency*}).}
+4. & \therefore \text{The explanation is required} \ (\text{the Burrell insight}), \ \text{and the opacity is the obstacle} \ (\text{the no mere} \ \text{accountability}), \ \text{and the right is the procedural} \ (\text{the no mere} \ \text{transparency}).
 \end{array}
 $$
 
@@ -528,18 +528,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *autonomy*} \ \Rightarrow \ \text{the *responsibility* *gap*} \ \Rightarrow \ \text{the *meaningful* *human* *control*} \ (\text{the *no* *mere* *oversight*})
+\text{The autonomy} \ \Rightarrow \ \text{the responsibility gap} \ \Rightarrow \ \text{the meaningful human control} \ (\text{the no mere oversight})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *autonomous* *system* *diffuses* the *causal* *chain*} \ (\text{the *no* *single* *author*}). \\
-2. & \text{The *diffusion* *yields* the *responsibility* *gap*} \ (\text{the *no* *mere* *blame*}). \\
-3. & \text{The *gap* *undermines* the *moral* *order*} \ (\text{the *no* *mere* *accountability*}). \\
+1. & \text{The autonomous system diffuses the causal chain} \ (\text{the no single author}). \\
+2. & \text{The diffusion yields the responsibility gap} \ (\text{the no mere blame}). \\
+3. & \text{The gap undermines the moral order} \ (\text{the no mere accountability}). \\
 \hline
-4. & \therefore \text{The *meaningful* *human* *control* *is* *required*} \ (\text{the *Matthias* *insight*}), \ \text{and the *control* *is* *the* *understanding* *and* the *intervention*} \ (\text{the *no* *mere} \ \text{button*}), \ \text{and the *autonomy* *is* *bounded*} \ (\text{the *no* *mere} \ \text{delegation*}).}
+4. & \therefore \text{The meaningful human control is required} \ (\text{the Matthias insight}), \ \text{and the control is the understanding and the intervention} \ (\text{the no mere} \ \text{button}), \ \text{and the autonomy is bounded} \ (\text{the no mere} \ \text{delegation}).
 \end{array}
 $$
 
@@ -562,18 +562,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *impossibility* *theorem*}: \ \text{the *calibration*} \ \wedge \ \text{the *equal* *false* *positive* *rate*} \ \wedge \ \text{the *equal* *false* *negative* *rate*} \ (\text{the *incompatible* *triad*})
+\text{The impossibility theorem}: \ \text{the calibration} \ \wedge \ \text{the equal false positive rate} \ \wedge \ \text{the equal false negative rate} \ (\text{the incompatible triad})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *data* *encodes* the *historical* *bias*} \ (\text{the *no* *mere* *neutrality*}). \\
-2. & \text{The *fairness* *metrics* *are* *incompatible*} \ (\text{the *no* *mere* *solution*}). \\
-3. & \text{The *choice* *is* the *political*} \ (\text{the *no* *mere* *technical*}). \\
+1. & \text{The data encodes the historical bias} \ (\text{the no mere neutrality}). \\
+2. & \text{The fairness metrics are incompatible} \ (\text{the no mere solution}). \\
+3. & \text{The choice is the political} \ (\text{the no mere technical}). \\
 \hline
-4. & \therefore \text{The *algorithm* *is* *not* *neutral*} \ (\text{the *ProPublica* *insight*}), \ \text{and the *fairness* *requires* the *choice*} \ (\text{the *no* *mere} \ \text{metric*}), \ \text{and the *choice* *requires* the *democracy*} \ (\text{the *no* *mere} \ \text{expertise*}).}
+4. & \therefore \text{The algorithm is not neutral} \ (\text{the ProPublica insight}), \ \text{and the fairness requires the choice} \ (\text{the no mere} \ \text{metric}), \ \text{and the choice requires the democracy} \ (\text{the no mere} \ \text{expertise}).
 \end{array}
 $$
 
@@ -596,18 +596,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *autonomous* *weapon*} \ \Rightarrow \ \text{the *no* *meaningful* *control*} \ \wedge \ \text{the *no* *proportionality* *judgment*} \ (\text{the *no* *mere* *speed*})
+\text{The autonomous weapon} \ \Rightarrow \ \text{the no meaningful control} \ \wedge \ \text{the no proportionality judgment} \ (\text{the no mere speed})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *weapon* *decides* the *target*} \ (\text{the *no* *mere* *tool*}). \\
-2. & \text{The *decision* *requires* the *proportionality* \ (\text{the *no* *mere* *algorithm*}). \\
-3. & \text{The *proportionality* *requires* the *judgment*} \ (\text{the *no* *mere* *rule*}). \\
+1. & \text{The weapon decides the target} \ (\text{the no mere tool}). \\
+2. & \text{The decision requires the proportionality (the no mere algorithm).} \\
+3. & \text{The proportionality requires the judgment} \ (\text{the no mere rule}). \\
 \hline
-4. & \therefore \text{The *autonomous* *weapon* *requires* the *human* *control*} \ (\text{the *Sparrow* *insight*}), \ \text{and the *judgment* *is* *not* *automatable*} \ (\text{the *no* *mere} \ \text{computation*}), \ \text{and the *responsibility* *is* *retained*} \ (\text{the *no* *mere} \ \text{delegation*}).}
+4. & \therefore \text{The autonomous weapon requires the human control} \ (\text{the Sparrow insight}), \ \text{and the judgment is not automatable} \ (\text{the no mere} \ \text{computation}), \ \text{and the responsibility is retained} \ (\text{the no mere} \ \text{delegation}).
 \end{array}
 $$
 
@@ -648,18 +648,18 @@ $$
 **The *structure***.
 
 $$
-\text{Privacy} = \text{the *control*} \ (\text{the *control* *account*}) \quad \text{vs.} \quad \text{Privacy} = \text{the *limited* *access*} \ (\text{the *access* *account*})
+\text{Privacy} = \text{the control} \ (\text{the control account}) \quad \text{vs.} \quad \text{Privacy} = \text{the limited access} \ (\text{the access account})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *personal* *information* *grounds* the *autonomy*} \ (\text{the *no* *mere* *secrecy*}). \\
-2. & \text{The *autonomy* *requires* the *control*} \ (\text{the *no* *mere* *access*}). \\
-3. & \text{The *control* *requires* the *right*} \ (\text{the *no* *mere* *courtesy*}). \\
+1. & \text{The personal information grounds the autonomy} \ (\text{the no mere secrecy}). \\
+2. & \text{The autonomy requires the control} \ (\text{the no mere access}). \\
+3. & \text{The control requires the right} \ (\text{the no mere courtesy}). \\
 \hline
-4. & \therefore \text{The *informational* *privacy* *is* the *right*} \ (\text{the *Westin* *insight*}), \ \text{and the *control* *is* the *content*} \ (\text{the *no* *mere} \ \text{secrecy*}), \ \text{and the *autonomy* *is* the *ground*} \ (\text{the *no* *mere} \ \text{preference*}).}
+4. & \therefore \text{The informational privacy is the right} \ (\text{the Westin insight}), \ \text{and the control is the content} \ (\text{the no mere} \ \text{secrecy}), \ \text{and the autonomy is the ground} \ (\text{the no mere} \ \text{preference}).
 \end{array}
 $$
 
@@ -682,18 +682,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *normative* *expectation*} \ (\text{the *context*} \rightarrow \text{the *information* *flow*}) \ \wedge \ \text{the *transgression*} \ (\text{the *no* *expectation*})
+\text{The normative expectation} \ (\text{the context} \rightarrow \text{the information flow}) \ \wedge \ \text{the transgression} \ (\text{the no expectation})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *information* *flows* *within* the *contexts*} \ (\text{the *no* *mere* *free*-*for*-*all*}). \\
-2. & \text{The *contexts* *have* the *norms*} \ (\text{the *no* *mere* *preference*}). \\
-3. & \text{The *transgression* *violates* the *norm*} \ (\text{the *no* *mere* *harm*}). \\
+1. & \text{The information flows within the contexts} \ (\text{the no mere free-for-all}). \\
+2. & \text{The contexts have the norms} \ (\text{the no mere preference}). \\
+3. & \text{The transgression violates the norm} \ (\text{the no mere harm}). \\
 \hline
-4. & \therefore \text{The *privacy* *is* the *contextual* *integrity*} \ (\text{the *Nissenbaum* *insight*}), \ \text{and the *consent* *is* *not* the *sufficient*} \ (\text{the *no* *mere} \ \text{permission*}), \ \text{and the *norm* *is* the *content*} \ (\text{the *no* *mere} \ \text{secrecy*}).}
+4. & \therefore \text{The privacy is the contextual integrity} \ (\text{the Nissenbaum insight}), \ \text{and the consent is not the sufficient} \ (\text{the no mere} \ \text{permission}), \ \text{and the norm is the content} \ (\text{the no mere} \ \text{secrecy}).
 \end{array}
 $$
 
@@ -716,18 +716,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *behavioral* *surplus*} \ \Rightarrow \ \text{the *prediction* *products*} \ \Rightarrow \ \text{the *instrumental* *power*} \ (\text{the *no* *mere* *exchange*})
+\text{The behavioral surplus} \ \Rightarrow \ \text{the prediction products} \ \Rightarrow \ \text{the instrumental power} \ (\text{the no mere exchange})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *data* *economy* *extracts* the *surplus*} \ (\text{the *no* *mere* *service*}). \\
-2. & \text{The *extraction* *is* the *power*} \ (\text{the *no* *mere* *exchange*}). \\
-3. & \text{The *consent* *is* *not* the *meaningful*} \ (\text{the *no* *mere* *formality*}). \\
+1. & \text{The data economy extracts the surplus} \ (\text{the no mere service}). \\
+2. & \text{The extraction is the power} \ (\text{the no mere exchange}). \\
+3. & \text{The consent is not the meaningful} \ (\text{the no mere formality}). \\
 \hline
-4. & \therefore \text{The *surveillance* *capitalism* *is* the *structural*} \ (\text{the *Zuboff* *insight*}), \ \text{and the *consent* *is* *not* the *sufficient*} \ (\text{the *no* *mere} \ \text{choice*}), \ \text{and the *regulation* *is* *required*} \ (\text{the *no* *mere} \ \text{market*}).}
+4. & \therefore \text{The surveillance capitalism is the structural} \ (\text{the Zuboff insight}), \ \text{and the consent is not the sufficient} \ (\text{the no mere} \ \text{choice}), \ \text{and the regulation is required} \ (\text{the no mere} \ \text{market}).
 \end{array}
 $$
 
@@ -750,18 +750,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *attention* *economy*} \ \Rightarrow \ \text{the *engagement* *maximization*} \ \Rightarrow \ \text{the *manipulation*} \ (\text{the *no* *mere* *persuasion*})
+\text{The attention economy} \ \Rightarrow \ \text{the engagement maximization} \ \Rightarrow \ \text{the manipulation} \ (\text{the no mere persuasion})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *attention* *is* the *scarce*} \ (\text{the *no* *mere* *service*}). \\
-2. & \text{The *engagement* *requires* the *manipulation*} \ (\text{the *no* *mere* *preference*}). \\
-3. & \text{The *manipulation* *undermines* the *autonomy*} \ (\text{the *no* *mere* *choice*}). \\
+1. & \text{The attention is the scarce} \ (\text{the no mere service}). \\
+2. & \text{The engagement requires the manipulation} \ (\text{the no mere preference}). \\
+3. & \text{The manipulation undermines the autonomy} \ (\text{the no mere choice}). \\
 \hline
-4. & \therefore \text{The *attention* *economy* *is* the *wrong*} \ (\text{the *no* *mere} \ \text{harm*}), \ \text{and the *autonomy* *is* the *ground*} \ (\text{the *no* *mere} \ \text{preference*}), \ \text{and the *design* *is* the *object*} \ (\text{the *no* *mere} \ \text{individual*}).}
+4. & \therefore \text{The attention economy is the wrong} \ (\text{the no mere} \ \text{harm}), \ \text{and the autonomy is the ground} \ (\text{the no mere} \ \text{preference}), \ \text{and the design is the object} \ (\text{the no mere} \ \text{individual}).
 \end{array}
 $$
 
@@ -803,11 +803,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *suffering* *is* *bad*} \ (\text{the *no* *mere* *species*}). \\
-2. & \text{The *species* *membership* *is* *not* *relevant* to the *suffering*} \ (\text{the *no* *speciesism*}). \\
-3. & \text{The *equal* *consideration* of the *interests*} \ (\text{the *no* *mere* *parity* *of* *treatment*}). \\
+1. & \text{The suffering is bad} \ (\text{the no mere species}). \\
+2. & \text{The species membership is not relevant to the suffering} \ (\text{the no speciesism}). \\
+3. & \text{The equal consideration of the interests} \ (\text{the no mere parity of treatment}). \\
 \hline
-4. & \therefore \text{The *animal* *suffering* *counts* *equally*} \ (\text{the *Singer* *insight*}), \ \text{and the *practice* *is* *unjustified*} \ (\text{the *no* *mere} \ \text{taste*}), \ \text{and the *speciesism* *is* the *prejudice*} \ (\text{the *no* *mere} \ \text{nature*}).}
+4. & \therefore \text{The animal suffering counts equally} \ (\text{the Singer insight}), \ \text{and the practice is unjustified} \ (\text{the no mere} \ \text{taste}), \ \text{and the speciesism is the prejudice} \ (\text{the no mere} \ \text{nature}).
 \end{array}
 $$
 
@@ -834,18 +834,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *subject* of a *life*} \ \Rightarrow \ \text{the *inherent* *value*} \ \Rightarrow \ \text{the *right*} \ (\text{the *no* *mere* *aggregation*})
+\text{The subject of a life} \ \Rightarrow \ \text{the inherent value} \ \Rightarrow \ \text{the right} \ (\text{the no mere aggregation})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *animal* *has* the *beliefs*, the *desires*, the *memory}, the *future} \ (\text{the *subject* of a *life*}). \\
-2. & \text{The *subject* *has* the *inherent* *value*} \ (\text{the *no* *mere* *instrument*}). \\
-3. & \text{The *inherent* *value* *forbids* the *sacrifice*} \ (\text{the *no* *mere* *aggregation*}). \\
+1. & \text{The animal has the beliefs, the desires, the memory, the future} \ (\text{the subject of a life}). \\
+2. & \text{The subject has the inherent value} \ (\text{the no mere instrument}). \\
+3. & \text{The inherent value forbids the sacrifice} \ (\text{the no mere aggregation}). \\
 \hline
-4. & \therefore \text{The *animal* *has* the *right*} \ (\text{the *Regan* *insight*}), \ \text{and the *no* *utility* *justifies*} \ (\text{the *no* *mere} \ \text{calculus*}), \ \text{and the *no* *sacrifice* *is* *permitted*} \ (\text{the *no* *mere} \ \text{trade*}).}
+4. & \therefore \text{The animal has the right} \ (\text{the Regan insight}), \ \text{and the no utility justifies} \ (\text{the no mere} \ \text{calculus}), \ \text{and the no sacrifice is permitted} \ (\text{the no mere} \ \text{trade}).
 \end{array}
 $$
 
@@ -868,18 +868,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *marginal* *human* (the *infant*, the *cognitively* *disabled*)} \ \sim \ \text{the *normal* *animal*} \ (\text{the *no* *relevant* *difference*}) \ \Rightarrow \ \text{the *inconsistent* *status*}
+\text{The marginal human (the infant, the cognitively disabled)} \ \sim \ \text{the normal animal} \ (\text{the no relevant difference}) \ \Rightarrow \ \text{the inconsistent status}
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *marginal* *human* *lacks* the *rational* *capacity*} \ (\text{the *no* *mere* *rationality*}). \\
-2. & \text{The *normal* *animal* *has* the *comparable* *capacity*} \ (\text{the *no* *mere* *difference*}). \\
-3. & \text{The *capacity* *grounds* the *status*} \ (\text{the *no* *mere* *species*}). \\
+1. & \text{The marginal human lacks the rational capacity} \ (\text{the no mere rationality}). \\
+2. & \text{The normal animal has the comparable capacity} \ (\text{the no mere difference}). \\
+3. & \text{The capacity grounds the status} \ (\text{the no mere species}). \\
 \hline
-4. & \therefore \text{The *asymmetry* *is* *inconsistent*} \ (\text{the *marginal* *cases* *insight*}), \ \text{and the *status* *must* be the *extended*} \ (\text{the *no* *mere} \ \text{privilege*}), \ \text{and the *consistency* *requires* the *change*} \ (\text{the *no* *mere} \ \text{status* *quo*}).}
+4. & \therefore \text{The asymmetry is inconsistent} \ (\text{the marginal cases insight}), \ \text{and the status must be the extended} \ (\text{the no mere} \ \text{privilege}), \ \text{and the consistency requires the change} \ (\text{the no mere} \ \text{status quo}).
 \end{array}
 $$
 
@@ -902,18 +902,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *numbers*} \ \Rightarrow \ \text{the *weight*} \ (\text{the *no* *mere* *individual*}) \ \wedge \ \text{the *practice*} \ \Rightarrow \ \text{the *structural* *wrong*} \ (\text{the *no* *mere* *taste*})
+\text{The numbers} \ \Rightarrow \ \text{the weight} \ (\text{the no mere individual}) \ \wedge \ \text{the practice} \ \Rightarrow \ \text{the structural wrong} \ (\text{the no mere taste})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *numbers* *are* the *vast*} \ (\text{the *80* *billion*, the *no* *mere* *individual*}). \\
-2. & \text{The *suffering* *is* the *structural*} \ (\text{the *factory* *farming*, the *no* *mere* *accident*}). \\
-3. & \text{The *wild* *suffering* *is* the *vast*} \ (\text{the *no* *mere* *domestic*}). \\
+1. & \text{The numbers are the vast} \ (\text{the 80 billion, the no mere individual}). \\
+2. & \text{The suffering is the structural} \ (\text{the factory farming, the no mere accident}). \\
+3. & \text{The wild suffering is the vast} \ (\text{the no mere domestic}). \\
 \hline
-4. & \therefore \text{The *practice* *is* the *structural* *wrong*} \ (\text{the *no* *mere} \ \text{taste*}), \ \text{and the *numbers* *are* the *moral* *weight*} \ (\text{the *no* *mere} \ \text{sentiment*}), \ \text{and the *wild* *suffering* *is* the *challenge*} \ (\text{the *no* *mere} \ \text{indifference*}).}
+4. & \therefore \text{The practice is the structural wrong} \ (\text{the no mere} \ \text{taste}), \ \text{and the numbers are the moral weight} \ (\text{the no mere} \ \text{sentiment}), \ \text{and the wild suffering is the challenge} \ (\text{the no mere} \ \text{indifference}).
 \end{array}
 $$
 
@@ -953,18 +953,18 @@ $$
 **The *structure***.
 
 $$
-\text{Anthropocentrism} \ = \ \text{the *human* *interest*} \qquad \text{Non-anthropocentrism} \ = \ \text{the *intrinsic* *value* of *nature*} \ (\text{the *no* *mere* *instrument*})
+\text{Anthropocentrism} \ = \ \text{the human interest} \qquad \text{Non-anthropocentrism} \ = \ \text{the intrinsic value of nature} \ (\text{the no mere instrument})
 $$
 
 **The *argument*** (Leopold 1949, the *land* *ethic*).
 
 $$
 \begin{array}{ll}
-1. & \text{The *nature* *has* the *value* *beyond* the *human* *use*} \ (\text{the *no* *mere* *instrument*}). \\
-2. & \text{The *value* *grounds* the *duty*} \ (\text{the *no* *mere* *interest*}). \\
-3. & \text{The *duty* *extends* to the *ecosystem*} \ (\text{the *no* *mere* *individual*}). \\
+1. & \text{The nature has the value beyond the human use} \ (\text{the no mere instrument}). \\
+2. & \text{The value grounds the duty} \ (\text{the no mere interest}). \\
+3. & \text{The duty extends to the ecosystem} \ (\text{the no mere individual}). \\
 \hline
-4. & \therefore \text{The *non*-*anthropocentrism* *is* *true*} \ (\text{the *Leopold* *insight*}), \ \text{and the *nature* *has* the *intrinsic* *value*} \ (\text{the *no* *mere} \ \text{instrument*}), \ \text{and the *community* *includes* the *land*} \ (\text{the *no* *mere} \ \text{human*}).}
+4. & \therefore \text{The non-anthropocentrism is true} \ (\text{the Leopold insight}), \ \text{and the nature has the intrinsic value} \ (\text{the no mere} \ \text{instrument}), \ \text{and the community includes the land} \ (\text{the no mere} \ \text{human}).
 \end{array}
 $$
 
@@ -996,11 +996,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *organism* *has* the *good* *of* its *own*} \ (\text{the *no* *mere* *instrument*}). \\
-2. & \text{The *good* *grounds* the *value*} \ (\text{the *no* *mere* *interest*}). \\
-3. & \text{The *value* *grounds* the *duty*} \ (\text{the *no* *mere* *prudence*}). \\
+1. & \text{The organism has the good of its own} \ (\text{the no mere instrument}). \\
+2. & \text{The good grounds the value} \ (\text{the no mere interest}). \\
+3. & \text{The value grounds the duty} \ (\text{the no mere prudence}). \\
 \hline
-4. & \therefore \text{The *biocentrism* *is* *true*} \ (\text{the *Taylor* *insight*}), \ \text{and the *ecosystem* *has* the *value*} \ (\text{the *Leopold* *insight*}), \ \text{and the *conflict* *requires* the *priority*} \ (\text{the *no* *mere} \ \text{harmony*}).}
+4. & \therefore \text{The biocentrism is true} \ (\text{the Taylor insight}), \ \text{and the ecosystem has the value} \ (\text{the Leopold insight}), \ \text{and the conflict requires the priority} \ (\text{the no mere} \ \text{harmony}).
 \end{array}
 $$
 
@@ -1023,18 +1023,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *historical* *emissions*} \propto \text{the *cumulative* *benefit*} \ \Rightarrow \ \text{the *differentiated* *responsibility*} \ (\text{the *CBDR* *insight*})
+\text{The historical emissions} \propto \text{the cumulative benefit} \ \Rightarrow \ \text{the differentiated responsibility} \ (\text{the CBDR insight})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *atmosphere* *is* the *finite* *sink*} \ (\text{the *no* *mere* *commons*}). \\
-2. & \text{The *historical* *emissions* *yield* the *benefit*} \ (\text{the *no* *mere* *symmetric*}). \\
-3. & \text{The *benefit* *grounds* the *duty*} \ (\text{the *no* *mere* *charity*}). \\
+1. & \text{The atmosphere is the finite sink} \ (\text{the no mere commons}). \\
+2. & \text{The historical emissions yield the benefit} \ (\text{the no mere symmetric}). \\
+3. & \text{The benefit grounds the duty} \ (\text{the no mere charity}). \\
 \hline
-4. & \therefore \text{The *responsibility* *is* *differentiated*} \ (\text{the *CBDR* *insight*}), \ \text{and the *duty* *is* the *justice*} \ (\text{the *no* *mere} \ \text{aid*}), \ \text{and the *storm* *is* the *structural*} \ (\text{the *Gardiner* *insight*}).}
+4. & \therefore \text{The responsibility is differentiated} \ (\text{the CBDR insight}), \ \text{and the duty is the justice} \ (\text{the no mere} \ \text{aid}), \ \text{and the storm is the structural} \ (\text{the Gardiner insight}).
 \end{array}
 $$
 
@@ -1061,18 +1061,18 @@ $$
 **The *structure*** (the *discount* *rate*).
 
 $$
-\text{The *present* *value*} = \sum_t \frac{U_t}{(1+r)^t} \qquad r \ \text{is the *ethical* *choice*} \ (\text{the *no* *mere* *market* *rate*})
+\text{The present value} = \sum_t \frac{U_t}{(1+r)^t} \qquad r \ \text{is the ethical choice} \ (\text{the no mere market rate})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *future* *generation* *has* the *claim*} \ (\text{the *no* *mere* *present*}). \\
-2. & \text{The *claim* *requires* the *discount* \ (\text{the *no* *mere* *market*}). \\
-3. & \text{The *discount* *is* the *ethical*} \ (\text{the *no* *mere* *technique*}). \\
+1. & \text{The future generation has the claim} \ (\text{the no mere present}). \\
+2. & \text{The claim requires the discount (the no mere market).} \\
+3. & \text{The discount is the ethical} \ (\text{the no mere technique}). \\
 \hline
-4. & \therefore \text{The *intergenerational* *obligation* *is* *real*} \ (\text{the *no* *mere} \ \text{present*}), \ \text{and the *discount* *is* the *choice*} \ (\text{the *Stern* *insight*}), \ \text{and the *policy* *is* the *ethical*} \ (\text{the *no* *mere} \ \text{efficiency*}).}
+4. & \therefore \text{The intergenerational obligation is real} \ (\text{the no mere} \ \text{present}), \ \text{and the discount is the choice} \ (\text{the Stern insight}), \ \text{and the policy is the ethical} \ (\text{the no mere} \ \text{efficiency}).
 \end{array}
 $$
 
@@ -1128,11 +1128,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *war* *is* the *evil*} \ (\text{the *no* *mere* *instrument*}). \\
-2. & \text{The *evil* *requires* the *justification*} \ (\text{the *no* *mere* *statecraft*}). \\
-3. & \text{The *justification* *requires* the *criteria*} \ (\text{the *no* *mere* *intuition*}). \\
+1. & \text{The war is the evil} \ (\text{the no mere instrument}). \\
+2. & \text{The evil requires the justification} \ (\text{the no mere statecraft}). \\
+3. & \text{The justification requires the criteria} \ (\text{the no mere intuition}). \\
 \hline
-4. & \therefore \text{The *just* *war* *is* the *constrained*} \ (\text{the *Walzer* *insight*}), \ \text{and the *conduct* *is* the *constrained*} \ (\text{the *no* *mere} \ \text{victory*}), \ \text{and the *morality* *is* the *relevant*} \ (\text{the *no* *mere} \ \text{realism*}).}
+4. & \therefore \text{The just war is the constrained} \ (\text{the Walzer insight}), \ \text{and the conduct is the constrained} \ (\text{the no mere} \ \text{victory}), \ \text{and the morality is the relevant} \ (\text{the no mere} \ \text{realism}).
 \end{array}
 $$
 
@@ -1159,18 +1159,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *liability*} = \text{the *individual* *responsibility*} \ (\text{the *no* *mere* *uniform*}) \ \Rightarrow \ \neg \ (\text{the *moral* *equality*})
+\text{The liability} = \text{the individual responsibility} \ (\text{the no mere uniform}) \ \Rightarrow \ \neg \ (\text{the moral equality})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *liability* *depends* on the *responsibility*} \ (\text{the *no* *mere* *membership*}). \\
-2. & \text{The *responsibility* *differs* *within* the *armies*} \ (\text{the *no* *mere* *uniform*}). \\
-3. & \text{The *equality* *is* the *convention*} \ (\text{the *no* *mere* *morality*}). \\
+1. & \text{The liability depends on the responsibility} \ (\text{the no mere membership}). \\
+2. & \text{The responsibility differs within the armies} \ (\text{the no mere uniform}). \\
+3. & \text{The equality is the convention} \ (\text{the no mere morality}). \\
 \hline
-4. & \therefore \text{The *revisionism* *is* *true*} \ (\text{the *McMahan* *insight*}), \ \text{and the *equality* *is* the *false*} \ (\text{the *no* *mere} \ \text{symmetry*}), \ \text{and the *terrorism* *is* the *wrong*} \ (\text{the *no* *mere} \ \text{collateral*}).}
+4. & \therefore \text{The revisionism is true} \ (\text{the McMahan insight}), \ \text{and the equality is the false} \ (\text{the no mere} \ \text{symmetry}), \ \text{and the terrorism is the wrong} \ (\text{the no mere} \ \text{collateral}).
 \end{array}
 $$
 
@@ -1193,18 +1193,18 @@ $$
 **The *structures***.
 
 $$
-\text{Retributivism}: \ \text{the *desert*} \ (\text{the *backward*-*looking*}) \qquad \text{Consequentialism}: \ \text{the *deterrence*} \ (\text{the *forward*-*looking*})
+\text{Retributivism}: \ \text{the desert} \ (\text{the backward-looking}) \qquad \text{Consequentialism}: \ \text{the deterrence} \ (\text{the forward-looking})
 $$
 
 **The *argument*** (the *Hart* *insight*).
 
 $$
 \begin{array}{ll}
-1. & \text{The *retributivism* *grounds* the *desert*} \ (\text{the *no* *mere* *consequence*}). \\
-2. & \text{The *consequentialism* *grounds* the *practice*} \ (\text{the *no* *mere* *desert*}). \\
-3. & \text{The *mixed* *theory* *combines* the *two*} \ (\text{the *no* *mere* *monism*}). \\
+1. & \text{The retributivism grounds the desert} \ (\text{the no mere consequence}). \\
+2. & \text{The consequentialism grounds the practice} \ (\text{the no mere desert}). \\
+3. & \text{The mixed theory combines the two} \ (\text{the no mere monism}). \\
 \hline
-4. & \therefore \text{The *mixed* *theory* *is* the *defensible*} \ (\text{the *Hart* *insight*}), \ \text{and the *desert* *grounds* the *blame*} \ (\text{the *no* *mere} \ \text{harm*}), \ \text{and the *consequence* *grounds* the *practice*} \ (\text{the *no* *mere} \ \text{retaliation*}).}
+4. & \therefore \text{The mixed theory is the defensible} \ (\text{the Hart insight}), \ \text{and the desert grounds the blame} \ (\text{the no mere} \ \text{harm}), \ \text{and the consequence grounds the practice} \ (\text{the no mere} \ \text{retaliation}).
 \end{array}
 $$
 
@@ -1231,18 +1231,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *death* *penalty*} \ \Rightarrow \ \text{the *irreversibility*} \ \wedge \ \text{the *error*} \ \Rightarrow \ \text{the *no* *proportionality*} \ (\text{the *no* *mere* *desert*})
+\text{The death penalty} \ \Rightarrow \ \text{the irreversibility} \ \wedge \ \text{the error} \ \Rightarrow \ \text{the no proportionality} \ (\text{the no mere desert})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *execution* *is* the *irreversible*} \ (\text{the *no* *mere* *penalty*}). \\
-2. & \text{The *error* *is* the *possible*} \ (\text{the *no* *mere* *certainty*}). \\
-3. & \text{The *irreversibility* *and* the *error* *compound* the *injustice*} \ (\text{the *no* *mere* *desert*}). \\
+1. & \text{The execution is the irreversible} \ (\text{the no mere penalty}). \\
+2. & \text{The error is the possible} \ (\text{the no mere certainty}). \\
+3. & \text{The irreversibility and the error compound the injustice} \ (\text{the no mere desert}). \\
 \hline
-4. & \therefore \text{The *death* *penalty* *is* the *unjustified*} \ (\text{the *no* *mere} \ \text{retribution*}), \ \text{and the *mass* *incarceration* *is* the *unjust*} \ (\text{the *no* *mere} \ \text{crime*}), \ \text{and the *differential* *impact* *is* the *injustice*} \ (\text{the *no* *mere} \ \text{neutrality*}).}
+4. & \therefore \text{The death penalty is the unjustified} \ (\text{the no mere} \ \text{retribution}), \ \text{and the mass incarceration is the unjust} \ (\text{the no mere} \ \text{crime}), \ \text{and the differential impact is the injustice} \ (\text{the no mere} \ \text{neutrality}).
 \end{array}
 $$
 
@@ -1265,18 +1265,18 @@ $$
 **The *structures***.
 
 $$
-\text{The *open* *borders*} \ (\text{the *Carens* *insight*}) \quad \text{vs.} \quad \text{the *right* *to* *exclude*} \ (\text{the *Walzer* *insight*})
+\text{The open borders} \ (\text{the Carens insight}) \quad \text{vs.} \quad \text{the right to exclude} \ (\text{the Walzer insight})
 $$
 
 **The *argument*** (Carens 1987, §2).
 
 $$
 \begin{array}{ll}
-1. & \text{The *movement* *is* the *liberty*} \ (\text{the *no* *mere* *privilege*}). \\
-2. & \text{The *liberty* *is* the *basic*} \ (\text{the *no* *mere* *luxury*}). \\
-3. & \text{The *restriction* *requires* the *justification*} \ (\text{the *no* *mere* *sovereignty*}). \\
+1. & \text{The movement is the liberty} \ (\text{the no mere privilege}). \\
+2. & \text{The liberty is the basic} \ (\text{the no mere luxury}). \\
+3. & \text{The restriction requires the justification} \ (\text{the no mere sovereignty}). \\
 \hline
-4. & \therefore \text{The *borders* *are* the *unjustified*} \ (\text{the *Carens* *insight*}), \ \text{and the *restriction* *is* the *presumption*} \ (\text{the *no* *mere} \ \text{right*}), \ \text{and the *refugee* *has* the *duty*} \ (\text{the *no* *mere} \ \text{discretion*}).}
+4. & \therefore \text{The borders are the unjustified} \ (\text{the Carens insight}), \ \text{and the restriction is the presumption} \ (\text{the no mere} \ \text{right}), \ \text{and the refugee has the duty} \ (\text{the no mere} \ \text{discretion}).
 \end{array}
 $$
 
@@ -1321,18 +1321,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *moral* *risk*} \ = \ \text{the *probability* of the *wrong*} \ \wedge \ \text{the *gravity* of the *wrong*} \ (\text{the *no* *mere* *prudence*})
+\text{The moral risk} \ = \ \text{the probability of the wrong} \ \wedge \ \text{the gravity of the wrong} \ (\text{the no mere prudence})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *applied* *ethics* *operates* *under* the *uncertainty*} \ (\text{the *no* *mere* *certainty*}). \\
-2. & \text{The *uncertainty* *requires* the *decision*} \ (\text{the *no* *mere* *delay*}). \\
-3. & \text{The *decision* *requires* the *method*} \ (\text{the *no* *mere* *intuition*}). \\
+1. & \text{The applied ethics operates under the uncertainty} \ (\text{the no mere certainty}). \\
+2. & \text{The uncertainty requires the decision} \ (\text{the no mere delay}). \\
+3. & \text{The decision requires the method} \ (\text{the no mere intuition}). \\
 \hline
-4. & \therefore \text{The *moral* *risk* *is* the *central*} \ (\text{the *no* *mere} \ \text{prudence*}), \ \text{and the *method* *is* the *required*} \ (\text{the *no* *mere} \ \text{intuition*}), \ \text{and the *stakes* *determine* the *weight*} \ (\text{the *no* *mere} \ \text{certainty*}).}
+4. & \therefore \text{The moral risk is the central} \ (\text{the no mere} \ \text{prudence}), \ \text{and the method is the required} \ (\text{the no mere} \ \text{intuition}), \ \text{and the stakes determine the weight} \ (\text{the no mere} \ \text{certainty}).
 \end{array}
 $$
 
@@ -1355,18 +1355,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *uncertainty*} \ \Rightarrow \ \text{the *no* *action*} \ (\text{the *no* *mere* *innovation*}) \ \wedge \ \text{the *serious* *harm*} \ (\text{the *no* *mere* *probability*})
+\text{The uncertainty} \ \Rightarrow \ \text{the no action} \ (\text{the no mere innovation}) \ \wedge \ \text{the serious harm} \ (\text{the no mere probability})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *uncertainty* *blocks* the *justification*} \ (\text{the *no* *mere* *evidence*}). \\
-2. & \text{The *serious* *harm* *requires* the *caution*} \ (\text{the *no* *mere* *probability*}). \\
-3. & \text{The *caution* *is* the *reversible*} \ (\text{the *no* *mere* *irreversibility*}). \\
+1. & \text{The uncertainty blocks the justification} \ (\text{the no mere evidence}). \\
+2. & \text{The serious harm requires the caution} \ (\text{the no mere probability}). \\
+3. & \text{The caution is the reversible} \ (\text{the no mere irreversibility}). \\
 \hline
-4. & \therefore \text{The *precaution* *is* *required*} \ (\text{the *Rio* *insight*}), \ \text{and the *reversibility* *is* the *criterion*} \ (\text{the *no* *mere} \ \text{probability*}), \ \text{and the *paralysis* *is* the *risk*} \ (\text{the *Sunstein* *insight*}).}
+4. & \therefore \text{The precaution is required} \ (\text{the Rio insight}), \ \text{and the reversibility is the criterion} \ (\text{the no mere} \ \text{probability}), \ \text{and the paralysis is the risk} \ (\text{the Sunstein insight}).
 \end{array}
 $$
 
@@ -1396,11 +1396,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *consequences* *are* the *unbounded*} \ (\text{the *no* *mere* *prediction*}). \\
-2. & \text{The *unbounded* *consequences* *defeat* the *calculation*} \ (\text{the *no* *mere* *EV*}). \\
-3. & \text{The *defeat* *raises* the *cluelessness*} \ (\text{the *no* *mere* *certainty*}). \\
+1. & \text{The consequences are the unbounded} \ (\text{the no mere prediction}). \\
+2. & \text{The unbounded consequences defeat the calculation} \ (\text{the no mere EV}). \\
+3. & \text{The defeat raises the cluelessness} \ (\text{the no mere certainty}). \\
 \hline
-4. & \therefore \text{The *cluelessness* *is* the *limit*} \ (\text{the *Lenman* *insight*}), \ \text{and the *criterion* *is* the *ethical*} \ (\text{the *no* *mere} \ \text{technique*}), \ \text{and the *humility* *is* the *required*} \ (\text{the *no* *mere} \ \text{certainty*}).}
+4. & \therefore \text{The cluelessness is the limit} \ (\text{the Lenman insight}), \ \text{and the criterion is the ethical} \ (\text{the no mere} \ \text{technique}), \ \text{and the humility is the required} \ (\text{the no mere} \ \text{certainty}).
 \end{array}
 $$
 
@@ -1423,18 +1423,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *future*} \ \Rightarrow \ \text{the *astronomical* *stakes*} \ \Rightarrow \ \text{the *priority*} \ (\text{the *no* *mere* *present*})
+\text{The future} \ \Rightarrow \ \text{the astronomical stakes} \ \Rightarrow \ \text{the priority} \ (\text{the no mere present})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *future* *is* the *vast*} \ (\text{the *no* *mere* *present*}). \\
-2. & \text{The *vast* *stakes* *justify* the *priority*} \ (\text{the *no* *mere* *proportion*}). \\
-3. & \text{The *priority* *grounds* the *action*} \ (\text{the *no* *mere* *inaction*}). \\
+1. & \text{The future is the vast} \ (\text{the no mere present}). \\
+2. & \text{The vast stakes justify the priority} \ (\text{the no mere proportion}). \\
+3. & \text{The priority grounds the action} \ (\text{the no mere inaction}). \\
 \hline
-4. & \therefore \text{The *longtermism* *is* the *defensible*} \ (\text{the *MacAskill* *insight*}), \ \text{and the *present* *is* the *over*-*shadowed*} \ (\text{the *no* *mere} \ \text{neglect*}), \ \text{and the *cluelessness* *is* the *limit*} \ (\text{the *no* *mere} \ \text{certainty*}).}
+4. & \therefore \text{The longtermism is the defensible} \ (\text{the MacAskill insight}), \ \text{and the present is the over-shadowed} \ (\text{the no mere} \ \text{neglect}), \ \text{and the cluelessness is the limit} \ (\text{the no mere} \ \text{certainty}).
 \end{array}
 $$
 
@@ -1518,13 +1518,13 @@ The *table* is a *map*, not a *verdict*. The *reader* who *wants* to *choose* a 
 
 $$
 \begin{array}{ll}
-1. & \text{The *specification*} \ (\text{the *equilibrium* *insight*}) \ \text{and the *principles*} \ (\text{the *principlist* *insight}). \\
-2. & \text{The *paradigm* *cases*} \ (\text{the *casuist* *insight*}) \ \text{and the *public* *reason*} \ (\text{the *Rawls* *insight}). \\
-3. & \text{The *evidence*} \ (\text{the *empirical* *insight*}) \ \text{and the *sentience*} \ (\text{the *Singer* *insight}). \\
-4. & \text{The *ecosystem*} \ (\text{the *Leopold* *insight*}) \ \text{and the *future*} \ (\text{the *intergenerational* *insight}). \\
-5. & \text{The *risk*} \ (\text{the *precautionary* *insight*}) \ \text{and the *humility*} \ (\text{the *cluelessness* *insight}). \\
+1. & \text{The specification} \ (\text{the equilibrium insight}) \ \text{and the principles} \ (\text{the principlist insight}). \\
+2. & \text{The paradigm cases} \ (\text{the casuist insight}) \ \text{and the public reason} \ (\text{the Rawls insight}). \\
+3. & \text{The evidence} \ (\text{the empirical insight}) \ \text{and the sentience} \ (\text{the Singer insight}). \\
+4. & \text{The ecosystem} \ (\text{the Leopold insight}) \ \text{and the future} \ (\text{the intergenerational insight}). \\
+5. & \text{The risk} \ (\text{the precautionary insight}) \ \text{and the humility} \ (\text{the cluelessness insight}). \\
 \hline
-6. & \therefore \text{The *procedural* *ethics*} \ (\text{the *integration* *insight*}), \ *qualified* \text{by the *admission* that the *method*, the *cases*, the *evidence*, the *value*, and the *risk* *remain* *contested*.}
+6. & \therefore \text{The procedural ethics} \ (\text{the integration insight}), \text{qualified by the admission that the method, the cases, the evidence, the value, and the risk remain contested.}
 \end{array}
 $$
 

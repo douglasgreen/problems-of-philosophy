@@ -73,7 +73,7 @@ $$
 **The *structure*.
 
 $$
-\text{Emotion}(E) = \text{Judgment}(\text{the situation is } F, \text{ where } F \text{ is *evaluatively* *loaded})
+\text{Emotion}(E) = \text{Judgment}(\text{the situation is } F, \text{ where } F \text{ is evaluatively loaded})
 $$
 
 **The *argument*** (Nussbaum 2001, Ch. 1). The *emotions* are *about* *objects* (they have *intentionality*; Ch. 25), and the *relation* to the *object* is *evaluative* (the *grief* is *about* the *loss*, and the *loss* is *evaluated* as *significant*). The *judgment* is the *best* *explanation* of the *intentionality* and the *evaluation*.
@@ -154,18 +154,18 @@ $$
 **The *structure*.
 
 $$
-\text{Emotion}(E) = \text{Perception}(\text{the situation *instantiates* the *evaluative* *property* } F)
+\text{Emotion}(E) = \text{Perception}(\text{the situation instantiates the evaluative property } F)
 $$
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
-1. & \text{The *emotions* are *about* *objects* (the *intentionality*).} \\
-2. & \text{The *emotions* *present* the *objects* *as* *having* *evaluative* *properties* (the *danger*, the *offense*, the *loss*).} \\
-3. & \text{The *presentation* *is* *perceptual* (the *immediacy*, the *non*-*inferential* *character*, the *recalcitrance*).} \\
+1. & \text{The emotions are about objects (the intentionality).} \\
+2. & \text{The emotions present the objects as having evaluative properties (the danger, the offense, the loss).} \\
+3. & \text{The presentation is perceptual (the immediacy, the non-inferential character, the recalcitrance).} \\
 \hline
-4. & \therefore \text{The *emotions* are *perceptions* of *evaluative* *properties*.}
+4. & \therefore \text{The emotions are perceptions of evaluative properties.}
 \end{array}
 $$
 
@@ -219,11 +219,11 @@ The *rationality* of *emotion* *raises* *three* *distinct* *questions*, and the 
 
 $$
 \begin{array}{ll}
-1. & \text{The *emotion* *persists* against the *agent*'s *judgment*.} \\
-2. & \text{If the *emotion* *were* a *judgment*, the *conflict* would be a *contradiction* (the agent would judge *both* that the flight is safe and that it is dangerous).} \\
-3. & \text{The *conflict* is *not* a *contradiction* (the agent does *not* *believe* the *contradiction*).} \\
+1. & \text{The emotion persists against the agent's judgment.} \\
+2. & \text{If the emotion were a judgment, the conflict would be a contradiction (the agent would judge both that the flight is safe and that it is dangerous).} \\
+3. & \text{The conflict is not a contradiction (the agent does not believe the contradiction).} \\
 \hline
-4. & \therefore \text{The *emotion* is *not* a *judgment* (the *perceptual* *theory* is *better*).}
+4. & \therefore \text{The emotion is not a judgment (the perceptual theory is better).}
 \end{array}
 $$
 
@@ -246,7 +246,7 @@ $$
 **The *structure*.
 
 $$
-\text{Emotion } E \text{ *fits* } O \quad \text{iff} \quad O \text{ *has* the *evaluative* *property* that } E \text{ *presents*}
+\text{Emotion } E \text{ fits } O \quad \text{iff} \quad O \text{ has the evaluative property that } E \text{ presents}
 $$
 
 **The *virtue*.** The *notion* *grounds* the *rationality* of *emotion* in an *evaluative* *relation* (not in *truth* or *consistency*), and it *avoids* the *reduction* of the *rationality* to the *belief*-*desire* *coherence*.
@@ -263,11 +263,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *emotion* *presents* the *object* *as* *having* a *thick* *evaluative* *property* (the *danger*, the *offense*, the *cruelty*).} \\
-2. & \text{The *thick* *property* *is* *descriptive* and *evaluative* (it *describes* the *situation* and *evaluates* it).} \\
-3. & \text{The *entanglement* *is* *constitutive* of the *presentation*.} \\
+1. & \text{The emotion presents the object as having a thick evaluative property (the danger, the offense, the cruelty).} \\
+2. & \text{The thick property is descriptive and evaluative (it describes the situation and evaluates it).} \\
+3. & \text{The entanglement is constitutive of the presentation.} \\
 \hline
-4. & \therefore \text{The *emotions* *present* a *fact*-*value* *entangled* *world*.}
+4. & \therefore \text{The emotions present a fact-value entangled world.}
 \end{array}
 $$
 
@@ -285,10 +285,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *emotions* *present* *evaluative* *properties* (the *danger*, the *cruelty*).} \\
-2. & \text{The *evaluative* *properties* *ground* the *moral* *judgments*.} \\
+1. & \text{The emotions present evaluative properties (the danger, the cruelty).} \\
+2. & \text{The evaluative properties ground the moral judgments.} \\
 \hline
-3. & \therefore \text{The *emotions* are a *source* of *moral* *knowledge*.}
+3. & \therefore \text{The emotions are a source of moral knowledge.}
 \end{array}
 $$
 
@@ -350,11 +350,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *reader* *accepts* the *fiction* (the *world* is *different*, the *talking* *animals*).} \\
-2. & \text{The *reader* *resists* the *moral* *fiction* (the *slavery* is *just*).} \\
-3. & \text{The *resistance* *requires* an *explanation*.} \\
+1. & \text{The reader accepts the fiction (the world is different, the talking animals).} \\
+2. & \text{The reader resists the moral fiction (the slavery is just).} \\
+3. & \text{The resistance requires an explanation.} \\
 \hline
-4. & \therefore \text{The *imagination* is *constrained* by the *moral* *judgment* (the *resistance* *shows* the *constraint*).}
+4. & \therefore \text{The imagination is constrained by the moral judgment (the resistance shows the constraint).}
 \end{array}
 $$
 
@@ -384,10 +384,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *understanding* of *others* is *fast* and *automatic*.} \\
-2. & \text{The *speed* *suggests* that we *simulate* the *states* (we *run* the *same* *process* *offline*).} \\
+1. & \text{The understanding of others is fast and automatic.} \\
+2. & \text{The speed suggests that we simulate the states (we run the same process offline).} \\
 \hline
-3. & \therefore \text{The *simulation* *explains* the *understanding*.}
+3. & \therefore \text{The simulation explains the understanding.}
 \end{array}
 $$
 
@@ -434,11 +434,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *notebook* (Otto's) *functions* as a *memory* (it *stores* and *retrieves* the *information*).} \\
-2. & \text{The *function* is *the same* as the *memory* (the *information* is *accessible*, *reliable*, and *integrated* into the *agent*'s *behavior*).} \\
-3. & \text{The *function* *is* the *cognition* (the *functionalist* *premise*).} \\
+1. & \text{The notebook (Otto's) functions as a memory (it stores and retrieves the information).} \\
+2. & \text{The function is the same as the memory (the information is accessible, reliable, and integrated into the agent's behavior).} \\
+3. & \text{The function is the cognition (the functionalist premise).} \\
 \hline
-4. & \therefore \text{The *notebook* is *part* of the *cognitive* *system*.}
+4. & \therefore \text{The notebook is part of the cognitive system.}
 \end{array}
 $$
 
@@ -486,11 +486,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *body* is *experienced* *as* the *medium* of *perception* (the *“*I* *can”*; the *motor* *intentionality*).} \\
-2. & \text{The *medium* *is* *not* an *object* (it is *not* *observed*, but *inhabited*).} \\
-3. & \text{The *lived* *body* *is* the *condition* of the *experience* (the *“*body* *schema”*).} \\
+1. & \text{The body is experienced as the medium of perception (the “I can”; the motor intentionality).} \\
+2. & \text{The medium is not an object (it is not observed, but inhabited).} \\
+3. & \text{The lived body is the condition of the experience (the “body schema”).} \\
 \hline
-4. & \therefore \text{The *body* is *constitutive* of the *experience* (not a *contingent* *vehicle*).}
+4. & \therefore \text{The body is constitutive of the experience (not a contingent vehicle).}
 \end{array}
 $$
 
@@ -522,11 +522,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{If *know*-*how* *were* *know*-*that*, the *exercise* of the *skill* would *require* the *prior* *knowledge* of the *rules*.} \\
-2. & \text{The *knowledge* of the *rules* would *require* the *knowledge* of the *rules* for *applying* the *rules*.} \\
-3. & \text{The *regress* is *infinite*.} \\
+1. & \text{If know-how were know-that, the exercise of the skill would require the prior knowledge of the rules.} \\
+2. & \text{The knowledge of the rules would require the knowledge of the rules for applying the rules.} \\
+3. & \text{The regress is infinite.} \\
 \hline
-4. & \therefore \text{The *know*-*how* is *not* *know*-*that* (it is *primitive*).}
+4. & \therefore \text{The know-how is not know-that (it is primitive).}
 \end{array}
 $$
 
@@ -552,11 +552,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *know*-*how* *ascribes* a *relation* between the *agent* and a *way* of *acting* (the *linguistic* *data*: “Hannah knows how to ride a bicycle”).} \\
-2. & \text{The *relation* is a *form* of *know*-*that* (the *propositional* *knowledge* of the *way*).} \\
-3. & \text{The *practical* *mode* of *presentation* *distinguishes* the *know*-*how* from the *ordinary* *know*-*that*.} \\
+1. & \text{The know-how ascribes a relation between the agent and a way of acting (the linguistic data: “Hannah knows how to ride a bicycle”).} \\
+2. & \text{The relation is a form of know-that (the propositional knowledge of the way).} \\
+3. & \text{The practical mode of presentation distinguishes the know-how from the ordinary know-that.} \\
 \hline
-4. & \therefore \text{The *know*-*how* is a *species* of *know*-*that*.}
+4. & \therefore \text{The know-how is a species of know-that.}
 \end{array}
 $$
 
@@ -615,10 +615,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *unattended* *stimuli* are *not* *consciously* *experienced* (the *inattentional* *blindness*; the *change* *blindness*).} \\
-2. & \text{The *unattended* *stimuli* are *processed* *only* *locally* (the *local* *workspace*).} \\
+1. & \text{The unattended stimuli are not consciously experienced (the inattentional blindness; the change blindness).} \\
+2. & \text{The unattended stimuli are processed only locally (the local workspace).} \\
 \hline
-3. & \therefore \text{The *attention* is *necessary* for *consciousness*.}
+3. & \therefore \text{The attention is necessary for consciousness.}
 \end{array}
 $$
 
@@ -641,11 +641,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *meditative* *practice* *cultivates* the *attention* (the *empirical* *premise*).} \\
-2. & \text{The *cultivation* *produces* *reports* about the *experience* (the *phenomenological* *data*).} \\
-3. & \text{The *reports* *constrain* the *theory* of *attention* and *consciousness*.} \\
+1. & \text{The meditative practice cultivates the attention (the empirical premise).} \\
+2. & \text{The cultivation produces reports about the experience (the phenomenological data).} \\
+3. & \text{The reports constrain the theory of attention and consciousness.} \\
 \hline
-4. & \therefore \text{The *contemplative* *data* are *relevant* to the *philosophy* of *mind*.}
+4. & \therefore \text{The contemplative data are relevant to the philosophy of mind.}
 \end{array}
 $$
 
@@ -678,11 +678,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *brain* *constructs* a *model* of the *organism* (the *self*-*model*).} \\
-2. & \text{The *model* *represents* the *organism* as a *subject* (the *“*transparent”* *self*-*model*).} \\
-3. & \text{The *transparency* *makes* the *model* *invisible* (we *experience* the *world* *through* the *model*).} \\
+1. & \text{The brain constructs a model of the organism (the self-model).} \\
+2. & \text{The model represents the organism as a subject (the “transparent” self-model).} \\
+3. & \text{The transparency makes the model invisible (we experience the world through the model).} \\
 \hline
-4. & \therefore \text{The *subject* is a *model* (a *real* *pattern*, not a *substance*).}
+4. & \therefore \text{The subject is a model (a real pattern, not a substance).}
 \end{array}
 $$
 
@@ -714,10 +714,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *experience* *is* *always* *affectively* *toned* (the *mood*, the *feeling*).} \\
-2. & \text{The *tone* *shapes* the *content* of the *experience* (the *world* *appears* *threatening*, *inviting*, *flat*).} \\
+1. & \text{The experience is always affectively toned (the mood, the feeling).} \\
+2. & \text{The tone shapes the content of the experience (the world appears threatening, inviting, flat).} \\
 \hline
-3. & \therefore \text{The *affect* is *constitutive* of the *experience* (not an *add*-*on*).}
+3. & \therefore \text{The affect is constitutive of the experience (not an add-on).}
 \end{array}
 $$
 
@@ -749,10 +749,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *brain* *predicts* the *internal* *state* (the *interoceptive* *inference*).} \\
-2. & \text{The *prediction* *error* *is* *experienced* as *affect* (the *valence*, the *arousal*).} \\
+1. & \text{The brain predicts the internal state (the interoceptive inference).} \\
+2. & \text{The prediction error is experienced as affect (the valence, the arousal).} \\
 \hline
-3. & \therefore \text{The *affect* is the *content* of the *interoceptive* *prediction*}.}
+3. & \therefore \text{The affect is the content of the interoceptive prediction}.
 \end{array}
 $$
 
@@ -781,10 +781,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *affective* *states* *change* the *perception* of the *world* (the *empirical* *literature*).} \\
-2. & \text{The *change* is *structural* (the *affordances*, the *salience*, the *future*).} \\
+1. & \text{The affective states change the perception of the world (the empirical literature).} \\
+2. & \text{The change is structural (the affordances, the salience, the future).} \\
 \hline
-3. & \therefore \text{The *affect* *shapes* the *lived* *world* (it is *constitutive* of the *experience*).}
+3. & \therefore \text{The affect shapes the lived world (it is constitutive of the experience).}
 \end{array}
 $$
 

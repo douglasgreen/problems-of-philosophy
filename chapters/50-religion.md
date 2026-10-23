@@ -60,7 +60,7 @@ The *chapter* proceeds in *eight* *movements*. §1 examines the *concept* of *Go
 **The *structure***.
 
 $$
-\text{God} \ = \ \text{the *subsistent* *being* *itself*} \ (\text{the } \textit{ipsum esse subsistens}; \text{the *no* *composition*})
+\text{God} \ = \ \text{the subsistent being itself} \ (\text{the ipsum esse subsistens}; \text{the no composition})
 $$
 
 **The *attributes***.
@@ -78,11 +78,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *God* *is* the *perfection* of the *being* (the *no* *defect*; the *worship-worthiness*).} \\
-2. & \text{The *perfection* *excludes* the *composition* (the *no* *parts*, the *no* *potentiality*).} \\
-3. & \text{The *composition* *is* the *ground* of the *becoming* (the *no* *change*).} \\
+1. & \text{The God is the perfection of the being (the no defect; the worship-worthiness).} \\
+2. & \text{The perfection excludes the composition (the no parts, the no potentiality).} \\
+3. & \text{The composition is the ground of the becoming (the no change).} \\
 \hline
-4. & \therefore \text{The *God* *is* the *simple*, the *immutable*, the *eternal* (the *classical* *insight*), and the *attributes* *follow* the *perfection* (the *no* *anthropomorphism*).}
+4. & \therefore \text{The God is the simple, the immutable, the eternal (the classical insight), and the attributes follow the perfection (the no anthropomorphism).}
 \end{array}
 $$
 
@@ -105,18 +105,18 @@ $$
 **The *structure***.
 
 $$
-\text{God} \ = \ \text{the *substance*} \ = \ \text{the *nature*} \quad (\text{the *identity*; the *no* *transcendence*})
+\text{God} \ = \ \text{the substance} \ = \ \text{the nature} \quad (\text{the identity; the no transcendence})
 $$
 
 **The *argument*** (Spinoza, *Ethics*, I, prop. 11–15).
 
 $$
 \begin{array}{ll}
-1. & \text{The *substance* *is* the *necessary* *existence* (the *no* *contingency*).} \\
-2. & \text{The *substance* *is* the *only* *substance* (the *no* *plurality*; the *monism*).} \\
-3. & \text{The *God* *is* the *substance* (the *definition*).} \\
+1. & \text{The substance is the necessary existence (the no contingency).} \\
+2. & \text{The substance is the only substance (the no plurality; the monism).} \\
+3. & \text{The God is the substance (the definition).} \\
 \hline
-4. & \therefore \text{The *God* *is* the *nature* (the *pantheism*), and the *everything* *is* the *mode* (the *no* *transcendence*), and the *identity* *excludes* the *creation* (the *necessity*).}
+4. & \therefore \text{The God is the nature (the pantheism), and the everything is the mode (the no transcendence), and the identity excludes the creation (the necessity).}
 \end{array}
 $$
 
@@ -139,7 +139,7 @@ $$
 **The *structures***.
 
 $$
-\text{Deism} \ = \ \text{the *creator*} \ \wedge \ \neg \ (\text{the *intervention*}) \qquad \text{Process} \ = \ \text{the *persuasion*} \ \wedge \ \neg \ (\text{the *coercion*})
+\text{Deism} \ = \ \text{the creator} \ \wedge \ \neg \ (\text{the intervention}) \qquad \text{Process} \ = \ \text{the persuasion} \ \wedge \ \neg \ (\text{the coercion})
 $$
 
 **The *significance***. The *deism* *avoids* the *miracle* *problem* (§7) and the *providence* *problem* (§4), and the *process* *theism* *avoids* the *omnipotence* *problem* (§3.4) and the *evil* *problem* (§4), and the *two* *positions* *show* that the *classical* *theism* is *not* the *only* *theism* (the *no* *single* *target*).
@@ -161,18 +161,18 @@ $$
 **The *structure***.
 
 $$
-\text{Religious naturalism} \ = \ \text{the *religious* *attitude*} \ \wedge \ \neg \ (\text{the *supernatural* *object*})
+\text{Religious naturalism} \ = \ \text{the religious attitude} \ \wedge \ \neg \ (\text{the supernatural object})
 $$
 
 **The *argument*** (Dewey 1934, ch. 1).
 
 $$
 \begin{array}{ll}
-1. & \text{The *religious* *experience* *has* the *natural* *causes* (the *awe*, the *gratitude*, the *solidarity*).} \\
-2. & \text{The *natural* *causes* *suffice* for the *attitude* (the *no* *supernatural* *object* *required*).} \\
-3. & \text{The *attitude* *grounds* the *religion* (the *no* *mere* *belief*).} \\
+1. & \text{The religious experience has the natural causes (the awe, the gratitude, the solidarity).} \\
+2. & \text{The natural causes suffice for the attitude (the no supernatural object required).} \\
+3. & \text{The attitude grounds the religion (the no mere belief).} \\
 \hline
-4. & \therefore \text{The *religion* *survives* the *naturalism* (the *Dewey* *insight*), and the *piety* *is* the *natural* (the *no* *superstition*), and the *secularism* *is* *not* *required* (the *no* *dichotomy*).}
+4. & \therefore \text{The religion survives the naturalism (the Dewey insight), and the piety is the natural (the no superstition), and the secularism is not required (the no dichotomy).}
 \end{array}
 $$
 
@@ -235,11 +235,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *everything* *that* *begins* *to* *exist* *has* a *cause* (the *causal* *principle*).} \\
-2. & \text{The *universe* *began* *to* *exist* (the *Big* *Bang*, the *thermodynamics*, the *no* *actual* *infinite*).} \\
-3. & \text{The *cause* *is* the *beginningless*, the *personal* (the *no* *physical* *cause*, the *no* *mere* *event*).} \\
+1. & \text{The everything that begins to exist has a cause (the causal principle).} \\
+2. & \text{The universe began to exist (the Big Bang, the thermodynamics, the no actual infinite).} \\
+3. & \text{The cause is the beginningless, the personal (the no physical cause, the no mere event).} \\
 \hline
-4. & \therefore \text{The *universe* *has* a *cause*, and the *cause* *is* *God* (the *Kalam* *insight*).}
+4. & \therefore \text{The universe has a cause, and the cause is God (the Kalam insight).}
 \end{array}
 $$
 
@@ -247,11 +247,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *every* *contingent* *fact* *has* a *sufficient* *reason* (the *PSR*).} \\
-2. & \text{The *existence* of the *universe* *is* a *contingent* *fact* (the *no* *necessity*).} \\
-3. & \text{The *reason* *cannot* be the *contingent* *series* (the *no* *sufficient* *reason* *immanent*).} \\
+1. & \text{The every contingent fact has a sufficient reason (the PSR).} \\
+2. & \text{The existence of the universe is a contingent fact (the no necessity).} \\
+3. & \text{The reason cannot be the contingent series (the no sufficient reason immanent).} \\
 \hline
-4. & \therefore \text{The *reason* *is* a *necessary* *being* (the *Leibnizian* *insight*), and the *necessary* *being* *is* *God* (the *no* *mere* *brute* *fact*).}
+4. & \therefore \text{The reason is a necessary being (the Leibnizian insight), and the necessary being is God (the no mere brute fact).}
 \end{array}
 $$
 
@@ -279,11 +279,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *constants* are *fine*-*tuned* for the *life*} \ (\text{the *life*-*permitting* *range* is *narrow*}: \ \text{the } \Omega_\Lambda, \ \alpha, \ \text{the *mass* *ratio*}). \\
-2. & \text{The *fine*-*tuning* is *improbable* under the *chance*} \ (\text{the *no* *natural* *necessity*}). \\
-3. & \text{The *design* *explains* the *fine*-*tuning*} \ (\text{the *no* *mere* *chance*}). \\
+1. & \text{The constants are fine-tuned for the life} \ (\text{the life-permitting range is narrow}: \ \text{the } \Omega_\Lambda, \ \alpha, \ \text{the mass ratio}). \\
+2. & \text{The fine-tuning is improbable under the chance} \ (\text{the no natural necessity}). \\
+3. & \text{The design explains the fine-tuning} \ (\text{the no mere chance}). \\
 \hline
-4. & \therefore \text{The *fine*-*tuning* *supports* the *design*} \ (\text{the *teleological* *insight*}), \ \text{and the *designer* is *God*} \ (\text{the *no* *mere* *chance*}).}
+4. & \therefore \text{The fine-tuning supports the design} \ (\text{the teleological insight}), \ \text{and the designer is God} \ (\text{the no mere chance}).
 \end{array}
 $$
 
@@ -311,11 +311,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \Diamond \exists x \, \Box G(x) \quad (\text{the *possibility* of the *maximal* *greatness*}). \\
-2. & \Box \big( \exists x \, \Box G(x) \rightarrow \Box \exists x \, \Box G(x) \big) \quad (\text{the *definition* of the *maximal* *greatness*}). \\
-3. & \Diamond p \rightarrow \Box \Diamond p \quad (\text{the } S5 \text{ *axiom*}). \\
+1. & \Diamond \exists x \, \Box G(x) \quad (\text{the possibility of the maximal greatness}). \\
+2. & \Box \big( \exists x \, \Box G(x) \rightarrow \Box \exists x \, \Box G(x) \big) \quad (\text{the definition of the maximal greatness}). \\
+3. & \Diamond p \rightarrow \Box \Diamond p \quad (\text{the } S5 \text{ axiom}). \\
 \hline
-4. & \therefore \Box \exists x \, \Box G(x) \quad (\text{the *necessity*}), \ \text{hence} \ \exists x \, \Box G(x) \ (\text{the *actuality*}).}
+4. & \therefore \Box \exists x \, \Box G(x) \quad (\text{the necessity}), \ \text{hence} \ \exists x \, \Box G(x) \ (\text{the actuality}).
 \end{array}
 $$
 
@@ -343,11 +343,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *objective* *moral* *facts* *exist*} \ (\text{the *moral* *realism*}; \text{Ch. 44, §2}). \\
-2. & \text{The *objective* *moral* *facts* *require* a *ground*} \ (\text{the *no* *brute* *normativity*}). \\
-3. & \text{The *ground* is the *God*} \ (\text{the *goodness* *itself*}; \text{the *Adams* *insight*}). \\
+1. & \text{The objective moral facts exist} \ (\text{the moral realism}; \text{Ch. 44, §2}). \\
+2. & \text{The objective moral facts require a ground} \ (\text{the no brute normativity}). \\
+3. & \text{The ground is the God} \ (\text{the goodness itself}; \text{the Adams insight}). \\
 \hline
-4. & \therefore \text{The *God* *exists*} \ (\text{the *moral* *argument*}), \ \text{and the *moral* *realism* *supports* the *theism*} \ (\text{the *no* *neutrality*}).}
+4. & \therefore \text{The God exists} \ (\text{the moral argument}), \ \text{and the moral realism supports the theism} \ (\text{the no neutrality}).
 \end{array}
 $$
 
@@ -375,11 +375,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *experience* *seems* to *present* the *God*} \ (\text{the *perceptual* *model*}; \text{the *no* *mere* *feeling*}). \\
-2. & \text{The *seeming* *is* *prima* *facie* *evidence*} \ (\text{the *principle* of *credulity*}; \text{the *no* *special* *suspicion*}). \\
-3. & \text{The *defeaters* are *absent*} \ (\text{the *no* *reduction*}, \text{the *no* *contradiction*}). \\
+1. & \text{The experience seems to present the God} \ (\text{the perceptual model}; \text{the no mere feeling}). \\
+2. & \text{The seeming is prima facie evidence} \ (\text{the principle of credulity}; \text{the no special suspicion}). \\
+3. & \text{The defeaters are absent} \ (\text{the no reduction}, \text{the no contradiction}). \\
 \hline
-4. & \therefore \text{The *experience* *grounds* the *belief*} \ (\text{the *Alston* *insight*}), \ \text{and the *belief* is *rational*} \ (\text{the *no* *mere* *feeling*}).}
+4. & \therefore \text{The experience grounds the belief} \ (\text{the Alston insight}), \ \text{and the belief is rational} \ (\text{the no mere feeling}).
 \end{array}
 $$
 
@@ -387,11 +387,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *consciousness* is *not* *reducible* to the *physical*} \ (\text{the *hard* *problem*}; \text{Ch. 24, §2}). \\
-2. & \text{The *non*-*reducible* *consciousness* *requires* a *non*-*physical* *ground*} \ (\text{the *no* *emergence* *ex* *nihilo*}). \\
-3. & \text{The *ground* is the *God*} \ (\text{the *mind*-*first* *metaphysics*}; \text{Ch. 20, §4}). \\
+1. & \text{The consciousness is not reducible to the physical} \ (\text{the hard problem}; \text{Ch. 24, §2}). \\
+2. & \text{The non-reducible consciousness requires a non-physical ground} \ (\text{the no emergence ex nihilo}). \\
+3. & \text{The ground is the God} \ (\text{the mind-first metaphysics}; \text{Ch. 20, §4}). \\
 \hline
-4. & \therefore \text{The *consciousness* *supports* the *theism*} \ (\text{the *Swinburne* *insight*}), \ \text{and the *physicalism* is *incomplete*} \ (\text{the *no* *closure*}).}
+4. & \therefore \text{The consciousness supports the theism} \ (\text{the Swinburne insight}), \ \text{and the physicalism is incomplete} \ (\text{the no closure}).
 \end{array}
 $$
 
@@ -438,12 +438,12 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *God* is *omnipotent*} \ (\text{the *can* *prevent* the *evil*}). \\
-2. & \text{The *God* is *omniscient*} \ (\text{the *knows* the *evil*}). \\
-3. & \text{The *God* is *omnibenevolent*} \ (\text{the *would* *prevent* the *evil*}). \\
-4. & \text{The *evil* *exists*} \ (\text{the *datum*}). \\
+1. & \text{The God is omnipotent} \ (\text{the can prevent the evil}). \\
+2. & \text{The God is omniscient} \ (\text{the knows the evil}). \\
+3. & \text{The God is omnibenevolent} \ (\text{the would prevent the evil}). \\
+4. & \text{The evil exists} \ (\text{the datum}). \\
 \hline
-5. & \therefore \text{The *four* are *inconsistent*} \ (\text{the *no* *consistency*}), \ \text{and the *theism* is *irrational*} \ (\text{the *Mackie* *insight*}).}
+5. & \therefore \text{The four are inconsistent} \ (\text{the no consistency}), \ \text{and the theism is irrational} \ (\text{the Mackie insight}).
 \end{array}
 $$
 
@@ -467,11 +467,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{There is *intense* *suffering* that the *omniscient*, the *omnipotent*, the *omnibenevolent* *being* *could* *prevent* without the *loss* of a *greater* *good*} \ (\text{the *fawn* *case*}). \\
-2. & \text{The *omnibenevolent* *being* *would* *prevent* the *pointless* *suffering*} \ (\text{the *no* *gratuitous* *evil*}). \\
-3. & \text{The *suffering* is *pointless*} \ (\text{the *no* *known* *reason*}). \\
+1. & \text{There is intense suffering that the omniscient, the omnipotent, the omnibenevolent being could prevent without the loss of a greater good} \ (\text{the fawn case}). \\
+2. & \text{The omnibenevolent being would prevent the pointless suffering} \ (\text{the no gratuitous evil}). \\
+3. & \text{The suffering is pointless} \ (\text{the no known reason}). \\
 \hline
-4. & \therefore \text{The *theism* is *improbable*} \ (\text{the *Rowe* *insight*}), \ \text{and the *evidence* *counts* *against* the *God*} \ (\text{the *no* *indifference*}).}
+4. & \therefore \text{The theism is improbable} \ (\text{the Rowe insight}), \ \text{and the evidence counts against the God} \ (\text{the no indifference}).
 \end{array}
 $$
 
@@ -495,10 +495,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{If the *perfectly* *loving* *God* *existed*, the *no* *non*-*resistant* *unbelief* *would* *occur*} \ (\text{the *perfect* *love*}). \\
-2. & \text{The *non*-*resistant* *unbelief* *occurs*} \ (\text{the *sincere* *seeker*}). \\
+1. & \text{If the perfectly loving God existed, the no non-resistant unbelief would occur} \ (\text{the perfect love}). \\
+2. & \text{The non-resistant unbelief occurs} \ (\text{the sincere seeker}). \\
 \hline
-3. & \therefore \text{The *perfectly* *loving* *God* does *not* *exist*} \ (\text{the *Schellenberg* *insight*}), \ \text{and the *hiddenness* is the *evidence*} \ (\text{the *no* *relationship*}).}
+3. & \therefore \text{The perfectly loving God does not exist} \ (\text{the Schellenberg insight}), \ \text{and the hiddenness is the evidence} \ (\text{the no relationship}).
 \end{array}
 $$
 
@@ -522,10 +522,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *omnipotence* *includes* the *power* to *create* the *stone* *too* *heavy* to *lift*} \ (\text{the *maximal* *power*}). \\
-2. & \text{The *stone* *entails* the *no* *power* to *lift*} \ (\text{the *contradiction*}). \\
+1. & \text{The omnipotence includes the power to create the stone too heavy to lift} \ (\text{the maximal power}). \\
+2. & \text{The stone entails the no power to lift} \ (\text{the contradiction}). \\
 \hline
-3. & \therefore \text{The *omnipotence* *is* *incoherent*} \ (\text{the *paradox*}), \ \text{and the *reply* is the *self*-*contradiction* *solution*} \ (\text{the *no* *possible* *world*}).}
+3. & \therefore \text{The omnipotence is incoherent} \ (\text{the paradox}), \ \text{and the reply is the self-contradiction solution} \ (\text{the no possible world}).
 \end{array}
 $$
 
@@ -551,11 +551,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *many* *religions* *disagree* on the *ultimate* *matters*} \ (\text{the *no* *convergence*}). \\
-2. & \text{The *disagreement* is *epistemically* *significant*} \ (\text{the *no* *mere* *sociology*}). \\
-3. & \text{The *significant* *disagreement* *undermines* the *belief*} \ (\text{the *no* *rational* *confidence*}). \\
+1. & \text{The many religions disagree on the ultimate matters} \ (\text{the no convergence}). \\
+2. & \text{The disagreement is epistemically significant} \ (\text{the no mere sociology}). \\
+3. & \text{The significant disagreement undermines the belief} \ (\text{the no rational confidence}). \\
 \hline
-4. & \therefore \text{The *religious* *belief* is *undermined*} \ (\text{the *diversity* *challenge*}), \ \text{and the *exclusivism* *requires* the *defeater*} \ (\text{the *no* *mere* *assertion*}).}
+4. & \therefore \text{The religious belief is undermined} \ (\text{the diversity challenge}), \ \text{and the exclusivism requires the defeater} \ (\text{the no mere assertion}).
 \end{array}
 $$
 
@@ -572,11 +572,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *exclusivism* *is* *not* *defeated* by the *mere* *disagreement*} \ (\text{the *no* *parity*}). \\
-2. & \text{The *defeater* *requires* the *independent* *evidence*} \ (\text{the *no* *mere* *demography*}). \\
-3. & \text{The *independent* *evidence* is *absent*} \ (\text{the *no* *shared* *standard*}). \\
+1. & \text{The exclusivism is not defeated by the mere disagreement} \ (\text{the no parity}). \\
+2. & \text{The defeater requires the independent evidence} \ (\text{the no mere demography}). \\
+3. & \text{The independent evidence is absent} \ (\text{the no shared standard}). \\
 \hline
-4. & \therefore \text{The *exclusivism* is *rational*} \ (\text{the *Plantinga* *insight*}), \ \text{and the *diversity* is *not* *decisive*} \ (\text{the *no* *undermining*}).}
+4. & \therefore \text{The exclusivism is rational} \ (\text{the Plantinga insight}), \ \text{and the diversity is not decisive} \ (\text{the no undermining}).
 \end{array}
 $$
 
@@ -629,11 +629,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *logical* *problem* *requires* the *necessary* *inconsistency*} \ (\text{the *no* *mere} \ \text{prima facie}). \\
-2. & \text{The *free* *will* *defense* *exhibits* a *possible* *world*} \ (\text{the *free* *creatures*, the *transworld* *depravity*}). \\
-3. & \text{The *possible* *world* *establishes* the *consistency*} \ (\text{the *no* *contradiction*}). \\
+1. & \text{The logical problem requires the necessary inconsistency} \ (\text{the no mere} \ \text{prima facie}). \\
+2. & \text{The free will defense exhibits a possible world} \ (\text{the free creatures, the transworld depravity}). \\
+3. & \text{The possible world establishes the consistency} \ (\text{the no contradiction}). \\
 \hline
-4. & \therefore \text{The *logical* *problem* *fails*} \ (\text{the *Plantinga* *insight*}), \ \text{and the *consistency* *is* *established*} \ (\text{the *no* *refutation*}), \ \text{and the *defense* *is* *possible*} \ (\text{the *no* *theodicy*}).}
+4. & \therefore \text{The logical problem fails} \ (\text{the Plantinga insight}), \ \text{and the consistency is established} \ (\text{the no refutation}), \ \text{and the defense is possible} \ (\text{the no theodicy}).
 \end{array}
 $$
 
@@ -657,11 +657,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *evil* *is* *instrumental* to the *virtue*} \ (\text{the *no* *mere* *suffering*}). \\
-2. & \text{The *virtue* *requires* the *struggle*} \ (\text{the *no* *mere* *ease*}; \text{the *no* *soul*-*making* *without* the *risk*}). \\
-3. & \text{The *struggle* *justifies* the *evil*} \ (\text{the *no* *gratuitous*}). \\
+1. & \text{The evil is instrumental to the virtue} \ (\text{the no mere suffering}). \\
+2. & \text{The virtue requires the struggle} \ (\text{the no mere ease}; \text{the no soul-making without the risk}). \\
+3. & \text{The struggle justifies the evil} \ (\text{the no gratuitous}). \\
 \hline
-4. & \therefore \text{The *theodicy* *justifies* the *evil*} \ (\text{the *Hick* *insight*}), \ \text{and the *evil* is *not* *gratuitous*} \ (\text{the *no* *pointless*}), \ \text{and the *world* is the *vale* *of* *soul*-*making*} \ (\text{the *no* *mere* *pleasure*}).}
+4. & \therefore \text{The theodicy justifies the evil} \ (\text{the Hick insight}), \ \text{and the evil is not gratuitous} \ (\text{the no pointless}), \ \text{and the world is the vale of soul-making} \ (\text{the no mere pleasure}).
 \end{array}
 $$
 
@@ -685,11 +685,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *inference* from the *no* *known* *reason* to the *no* *reason* *requires* the *epistemic* *access*} \ (\text{the *CORNEA*}). \\
-2. & \text{The *access* is *denied*} \ (\text{the *no* *omniscience*, the *no* *goodness*}; \text{the *no* *God*’s*-*eye* *view*}). \\
-3. & \text{The *reason* *may* be *unknown*} \ (\text{the *no* *pointless*}). \\
+1. & \text{The inference from the no known reason to the no reason requires the epistemic access} \ (\text{the CORNEA}). \\
+2. & \text{The access is denied} \ (\text{the no omniscience, the no goodness}; \text{the no God’s-eye view}). \\
+3. & \text{The reason may be unknown} \ (\text{the no pointless}). \\
 \hline
-4. & \therefore \text{The *evidential* *argument* *fails*} \ (\text{the *Wykstra* *insight*}), \ \text{and the *suffering* *may* *have* the *unknown* *reason*} \ (\text{the *no* *gratuitous*}).}
+4. & \therefore \text{The evidential argument fails} \ (\text{the Wykstra insight}), \ \text{and the suffering may have the unknown reason} \ (\text{the no gratuitous}).
 \end{array}
 $$
 
@@ -713,11 +713,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *theodicy* *justifies* the *suffering*} \ (\text{the *no* *mere* *evil*}). \\
-2. & \text{The *justification* *trivializes* the *suffering*} \ (\text{the *no* *proportion*}). \\
-3. & \text{The *trivialization* is *morally* *obscene*} \ (\text{the *no* *acceptable* *response*}). \\
+1. & \text{The theodicy justifies the suffering} \ (\text{the no mere evil}). \\
+2. & \text{The justification trivializes the suffering} \ (\text{the no proportion}). \\
+3. & \text{The trivialization is morally obscene} \ (\text{the no acceptable response}). \\
 \hline
-4. & \therefore \text{The *theodicy* *must* be *rejected*} \ (\text{the *Roth* *insight*}), \ \text{and the *protest* is the *response*} \ (\text{the *no* *consolation*}), \ \text{and the *question* *remains*} \ (\text{the *no* *theoretical* *response*}).}
+4. & \therefore \text{The theodicy must be rejected} \ (\text{the Roth insight}), \ \text{and the protest is the response} \ (\text{the no consolation}), \ \text{and the question remains} \ (\text{the no theoretical response}).
 \end{array}
 $$
 
@@ -758,10 +758,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *belief* *requires* the *sufficient* *evidence*} \ (\text{the *no* *credulity*}). \\
-2. & \text{The *religious* *belief* *lacks* the *sufficient* *evidence*} \ (\text{the *no* *proof*}). \\
+1. & \text{The belief requires the sufficient evidence} \ (\text{the no credulity}). \\
+2. & \text{The religious belief lacks the sufficient evidence} \ (\text{the no proof}). \\
 \hline
-3. & \therefore \text{The *religious* *belief* is *irrational*} \ (\text{the *Clifford* *insight*}), \ \text{and the *faith* is the *vice*} \ (\text{the *no* *epistemic* *virtue*}).}
+3. & \therefore \text{The religious belief is irrational} \ (\text{the Clifford insight}), \ \text{and the faith is the vice} \ (\text{the no epistemic virtue}).
 \end{array}
 $$
 
@@ -775,11 +775,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *faith* *transcends* the *reason*} \ (\text{the *no* *inference*}; \text{the *no* *proof*}). \\
-2. & \text{The *reason* is *not* the *judge*} \ (\text{the *no* *tribunal*}). \\
-3. & \text{The *faith* is the *commitment*} \ (\text{the *leap*}; \text{the *no* *mere* *assent*}). \\
+1. & \text{The faith transcends the reason} \ (\text{the no inference}; \text{the no proof}). \\
+2. & \text{The reason is not the judge} \ (\text{the no tribunal}). \\
+3. & \text{The faith is the commitment} \ (\text{the leap}; \text{the no mere assent}). \\
 \hline
-4. & \therefore \text{The *faith* is *rational* *in* its *own* *terms*} \ (\text{the *Kierkegaard* *insight*}), \ \text{and the *reason* is not the *standard*} \ (\text{the *no* *tribunal*}), \ \text{and the *leap* is the *condition*} \ (\text{the *no* *mere} \ \text{evidence}).}
+4. & \therefore \text{The faith is rational in its own terms} \ (\text{the Kierkegaard insight}), \ \text{and the reason is not the standard} \ (\text{the no tribunal}), \ \text{and the leap is the condition} \ (\text{the no mere} \ \text{evidence}).
 \end{array}
 $$
 
@@ -803,11 +803,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *option* is *live*, *forced*, *momentous*} \ (\text{the *no* *mere* *theoretical* *question*}). \\
-2. & \text{The *evidence* is *not* *decisive*} \ (\text{the *no* *intellectual* *verdict*}). \\
-3. & \text{The *suspension* is a *decision*} \ (\text{the *no* *neutrality*}). \\
+1. & \text{The option is live, forced, momentous} \ (\text{the no mere theoretical question}). \\
+2. & \text{The evidence is not decisive} \ (\text{the no intellectual verdict}). \\
+3. & \text{The suspension is a decision} \ (\text{the no neutrality}). \\
 \hline
-4. & \therefore \text{The *belief* is *permissible*} \ (\text{the *James* *insight*}), \ \text{and the *passional* *nature* *grounds* the *choice*} \ (\text{the *no* *evidentialism*}), \ \text{and the *risk* is the *condition* of the *truth*} \ (\text{the *no* *mere} \ \text{safety}).}
+4. & \therefore \text{The belief is permissible} \ (\text{the James insight}), \ \text{and the passional nature grounds the choice} \ (\text{the no evidentialism}), \ \text{and the risk is the condition of the truth} \ (\text{the no mere} \ \text{safety}).
 \end{array}
 $$
 
@@ -831,10 +831,10 @@ $$
 
 $$
 \begin{array}{l|cc}
-& \text{The *God* *exists*} & \text{The *God* does *not* *exist*} \\
+& \text{The God exists} & \text{The God does not exist} \\
 \hline
-\text{The *belief*} & +\infty & -\epsilon \\
-\text{The *unbelief*} & -\infty & +\epsilon
+\text{The belief} & +\infty & -\epsilon \\
+\text{The unbelief} & -\infty & +\epsilon
 \end{array}
 $$
 
@@ -842,11 +842,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *belief* *risks* the *finite* *cost*} \ (\text{the } -\epsilon) \ \text{and *gains* the *infinite* *payoff*} \ (\text{the } +\infty). \\
-2. & \text{The *unbelief* *gains* the *finite* \ (\text{the } +\epsilon) \ \text{and *risks* the *infinite*} \ (\text{the } -\infty). \\
-3. & \text{The *expected* *value* *favors* the *belief*} \ (\text{the *decision*} \ \text{theory}). \\
+1. & \text{The belief risks the finite cost} \ (\text{the } -\epsilon) \ \text{and gains the infinite payoff} \ (\text{the } +\infty). \\
+2. & \text{The unbelief gains the finite} \ (\text{the } +\epsilon) \ \text{and risks the infinite} \ (\text{the } -\infty). \\
+3. & \text{The expected value favors the belief} \ (\text{the decision} \ \text{theory}). \\
 \hline
-4. & \therefore \text{The *belief* is the *rational* *bet*} \ (\text{the *Pascal* *insight*}), \ \text{and the *faith* is the *reasonable*} \ (\text{the *no* *mere* *gamble*}).}
+4. & \therefore \text{The belief is the rational bet} \ (\text{the Pascal insight}), \ \text{and the faith is the reasonable} \ (\text{the no mere gamble}).
 \end{array}
 $$
 
@@ -874,11 +874,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *belief* *can* be *properly* *basic*} \ (\text{the *no* *inferential* *support*}). \\
-2. & \text{The *proper* *basicality* *requires* the *warrant*} \ (\text{the *sensus* *divinitatis*}; \text{the *no* *mere* *fideism*}). \\
-3. & \text{The *warrant* is *defeated* *only* by the *defeater*} \ (\text{the *no* *presumption*}). \\
+1. & \text{The belief can be properly basic} \ (\text{the no inferential support}). \\
+2. & \text{The proper basicality requires the warrant} \ (\text{the sensus divinitatis}; \text{the no mere fideism}). \\
+3. & \text{The warrant is defeated only by the defeater} \ (\text{the no presumption}). \\
 \hline
-4. & \therefore \text{The *belief* is *rational* *without* the *argument*} \ (\text{the *Plantinga* *insight*}), \ \text{and the *evidentialism* is *false*} \ (\text{the *no* *universal* *evidentialism*}), \ \text{and the *faith* is the *knowledge*} \ (\text{the *no* *mere} \ \text{opinion}).}
+4. & \therefore \text{The belief is rational without the argument} \ (\text{the Plantinga insight}), \ \text{and the evidentialism is false} \ (\text{the no universal evidentialism}), \ \text{and the faith is the knowledge} \ (\text{the no mere} \ \text{opinion}).
 \end{array}
 $$
 
@@ -932,8 +932,8 @@ $$
 
 $$
 \begin{array}{ll}
-\text{The *verification*:} & \text{The *meaning*} \ = \ \text{the *method* of the *verification*} \ \Rightarrow \ \text{the *religious* *statement*} \ \text{is *meaningless*}. \\
-\text{The *falsification*:} & \text{The *assertion*} \ \Rightarrow \ \text{the *falsifier*} \ \Rightarrow \ \text{the *no* *falsifier*} \ \Rightarrow \ \text{the *no* *assertion*}.
+\text{The verification:} & \text{The meaning} \ = \ \text{the method of the verification} \ \Rightarrow \ \text{the religious statement} \ \text{is meaningless}. \\
+\text{The falsification:} & \text{The assertion} \ \Rightarrow \ \text{the falsifier} \ \Rightarrow \ \text{the no falsifier} \ \Rightarrow \ \text{the no assertion}.
 \end{array}
 $$
 
@@ -941,10 +941,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *assertion* *requires* the *falsification*} \ (\text{the *no* *unfalsifiable* *claim*}). \\
-2. & \text{The *religious* *assertion* *survives* *every* *evidence*} \ (\text{the *no* *falsifier*}; \text{the *Wisdom* *parable* of the *invisible* *gardener*}). \\
+1. & \text{The assertion requires the falsification} \ (\text{the no unfalsifiable claim}). \\
+2. & \text{The religious assertion survives every evidence} \ (\text{the no falsifier}; \text{the Wisdom parable of the invisible gardener}). \\
 \hline
-3. & \therefore \text{The *religious* *assertion* *dies* the *death* of a *thousand* *qualifications*} \ (\text{the *Flew* *insight*}), \ \text{and the *no* *content*} \ (\text{the *no* *assertion*}).}
+3. & \therefore \text{The religious assertion dies the death of a thousand qualifications} \ (\text{the Flew insight}), \ \text{and the no content} \ (\text{the no assertion}).
 \end{array}
 $$
 
@@ -967,18 +967,18 @@ $$
 **The *structure*** (the *Thomistic* *analogy*).
 
 $$
-\text{The *predicate} \ P \ \text{in the *creature*} \ \sim \ \text{the *perfection*} \ \text{in the *God*} \ (\text{the *no* *univocal*}, \ \text{the *no* *equivocal*})
+\text{The predicate} \ P \ \text{in the creature} \ \sim \ \text{the perfection} \ \text{in the God} \ (\text{the no univocal}, \ \text{the no equivocal})
 $$
 
 **The *argument*** (Aquinas, *ST*, I, q. 13, a. 5).
 
 $$
 \begin{array}{ll}
-1. & \text{The *univocal* *language} \ \text{applies to the *God* and the *creature*} \ \text{in the *same* *sense*} \ (\text{the *no* *transcendence*}). \\
-2. & \text{The *equivocal* *language} \ \text{applies in the *different* *sense*} \ (\text{the *no* *knowledge*}). \\
-3. & \text{The *analogical* *language} \ \text{affirms the *perfection* and *denies* the *mode*} \ (\text{the *no* *anthropomorphism*}). \\
+1. & \text{The univocal language} \ \text{applies to the God and the creature} \ \text{in the same sense} \ (\text{the no transcendence}). \\
+2. & \text{The equivocal language} \ \text{applies in the different sense} \ (\text{the no knowledge}). \\
+3. & \text{The analogical language} \ \text{affirms the perfection and denies the mode} \ (\text{the no anthropomorphism}). \\
 \hline
-4. & \therefore \text{The *analogy* is the *condition* of the *religious* *language*} \ (\text{the *Aquinas* *insight*}), \ \text{and the *via* *negativa* is the *discipline*} \ (\text{the *no* *idol*}).}
+4. & \therefore \text{The analogy is the condition of the religious language} \ (\text{the Aquinas insight}), \ \text{and the via negativa is the discipline} \ (\text{the no idol}).
 \end{array}
 $$
 
@@ -1001,18 +1001,18 @@ $$
 **The *structures***.
 
 $$
-\text{Non-cognitivism} \ = \ \text{the *attitude*-*expression*} \qquad \text{The *grammar*} \ = \ \text{the *use* in the *form* of *life*} \ (\text{the *no* *description*})
+\text{Non-cognitivism} \ = \ \text{the attitude-expression} \qquad \text{The grammar} \ = \ \text{the use in the form of life} \ (\text{the no description})
 $$
 
 **The *argument*** (Phillips 1965, ch. 1).
 
 $$
 \begin{array}{ll}
-1. & \text{The *meaning* of the *religious* *language* is the *use* in the *practice*} \ (\text{the *no* *mere* *reference*}). \\
-2. & \text{The *practice* is the *form* of *life*} \ (\text{the *no* *external* *standard*}). \\
-3. & \text{The *description* *misplaces* the *language*} \ (\text{the *no* *mere* *fact*}). \\
+1. & \text{The meaning of the religious language is the use in the practice} \ (\text{the no mere reference}). \\
+2. & \text{The practice is the form of life} \ (\text{the no external standard}). \\
+3. & \text{The description misplaces the language} \ (\text{the no mere fact}). \\
 \hline
-4. & \therefore \text{The *religion* is the *practice*} \ (\text{the *Phillips* *insight*}), \ \text{and the *language* is the *grammar*} \ (\text{the *no* *description*}), \ \text{and the *belief* is the *form* of *life*} \ (\text{the *no* *mere} \ \text{theory}).}
+4. & \therefore \text{The religion is the practice} \ (\text{the Phillips insight}), \ \text{and the language is the grammar} \ (\text{the no description}), \ \text{and the belief is the form of life} \ (\text{the no mere} \ \text{theory}).
 \end{array}
 $$
 
@@ -1035,18 +1035,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *God*} \ = \ \text{the *beyond*} \ (\text{the *no* *concept*}, \text{the *no* *name*}) \ \Rightarrow \ \text{the *silence*} \ (\text{the *no* *mere* *speech*})
+\text{The God} \ = \ \text{the beyond} \ (\text{the no concept}, \text{the no name}) \ \Rightarrow \ \text{the silence} \ (\text{the no mere speech})
 $$
 
 **The *argument*** (Pseudo-Dionysius, *Mystical Theology*, ch. 1).
 
 $$
 \begin{array}{ll}
-1. & \text{The *God* *transcends* the *concept*} \ (\text{the *no* *comprehension*}). \\
-2. & \text{The *concept* *reaches* the *God* *only* by the *negation*} \ (\text{the *no* *predicate*}). \\
-3. & \text{The *negation* *ends* in the *silence*} \ (\text{the *no* *mere* *speech*}). \\
+1. & \text{The God transcends the concept} \ (\text{the no comprehension}). \\
+2. & \text{The concept reaches the God only by the negation} \ (\text{the no predicate}). \\
+3. & \text{The negation ends in the silence} \ (\text{the no mere speech}). \\
 \hline
-4. & \therefore \text{The *ineffability* is the *doctrine*} \ (\text{the *Pseudo*-*Dionysius* *insight*}), \ \text{and the *silence* is the *worship*} \ (\text{the *no* *mere} \ \text{silence*}), \ \text{and the *language* is the *ladder*} \ (\text{the *no* *mere} \ \text{idol*}).}
+4. & \therefore \text{The ineffability is the doctrine} \ (\text{the Pseudo-Dionysius insight}), \ \text{and the silence is the worship} \ (\text{the no mere} \ \text{silence}), \ \text{and the language is the ladder} \ (\text{the no mere} \ \text{idol}).
 \end{array}
 $$
 
@@ -1102,11 +1102,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *miracle* is the *violation* of the *natural* *law*} \ (\text{the *definition*}). \\
-2. & \text{The *natural* *law* *rests* on the *uniform* *experience*} \ (\text{the *firm* *and* *unalterable* *evidence*}). \\
-3. & \text{The *testimony* is *never* *equal* to the *uniform* *experience*} \ (\text{the *no* *balance*}). \\
+1. & \text{The miracle is the violation of the natural law} \ (\text{the definition}). \\
+2. & \text{The natural law rests on the uniform experience} \ (\text{the firm and unalterable evidence}). \\
+3. & \text{The testimony is never equal to the uniform experience} \ (\text{the no balance}). \\
 \hline
-4. & \therefore \text{The *miracle* is *never* *credible*} \ (\text{the *Hume* *insight*}), \ \text{and the *belief* is the *superstition*} \ (\text{the *no* *evidence*}).}
+4. & \therefore \text{The miracle is never credible} \ (\text{the Hume insight}), \ \text{and the belief is the superstition} \ (\text{the no evidence}).
 \end{array}
 $$
 
@@ -1136,11 +1136,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *prior* of the *miracle* *is* *low*} \ (\text{the *no* *mere* *credulity*}). \\
-2. & \text{The *likelihood* of the *testimony* *is* *high*} \ (\text{the *reliability* of the *testifier*}). \\
-3. & \text{The *posterior* *exceeds* the *prior*} \ (\text{the *evidence* *raises* the *probability*}). \\
+1. & \text{The prior of the miracle is low} \ (\text{the no mere credulity}). \\
+2. & \text{The likelihood of the testimony is high} \ (\text{the reliability of the testifier}). \\
+3. & \text{The posterior exceeds the prior} \ (\text{the evidence raises the probability}). \\
 \hline
-4. & \therefore \text{The *belief* is *rational* *where* the *testimony* is *strong*} \ (\text{the *Earman* *insight*}), \ \text{and the *Humean* *argument* *fails*} \ (\text{the *no* *mere} \ \text{balance*}), \ \text{and the *prior* is the *key*} \ (\text{the *no* *mere} \ \text{testimony*}).}
+4. & \therefore \text{The belief is rational where the testimony is strong} \ (\text{the Earman insight}), \ \text{and the Humean argument fails} \ (\text{the no mere} \ \text{balance}), \ \text{and the prior is the key} \ (\text{the no mere} \ \text{testimony}).
 \end{array}
 $$
 
@@ -1163,18 +1163,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *extraordinary* *claim*} \ \Rightarrow \ \text{the *extraordinary* *evidence*} \ \wedge \ \text{the *institutional* *conditions*} \ (\text{the *no* *mere* *testimony*})
+\text{The extraordinary claim} \ \Rightarrow \ \text{the extraordinary evidence} \ \wedge \ \text{the institutional conditions} \ (\text{the no mere testimony})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *extraordinary* *claim* *raises* the *prior* *cost*} \ (\text{the *no* *mere* *assertion*}). \\
-2. & \text{The *testimony* is *shaped* by the *interest*} \ (\text{the *no* *mere* *transmission*}; \text{the *hermeneutics*}). \\
-3. & \text{The *inquiry* *requires* the *institutions*} \ (\text{the *no* *mere* *individual*}). \\
+1. & \text{The extraordinary claim raises the prior cost} \ (\text{the no mere assertion}). \\
+2. & \text{The testimony is shaped by the interest} \ (\text{the no mere transmission}; \text{the hermeneutics}). \\
+3. & \text{The inquiry requires the institutions} \ (\text{the no mere individual}). \\
 \hline
-4. & \therefore \text{The *belief* *requires* the *extraordinary* *evidence*} \ (\text{the *no* *mere* *credulity*}), \ \text{and the *inquiry* is the *collective*} \ (\text{the *no* *mere} \ \text{testimony*}), \ \text{and the *conditions* *ground* the *rationality*} \ (\text{the *no* *mere} \ \text{individual*}).}
+4. & \therefore \text{The belief requires the extraordinary evidence} \ (\text{the no mere credulity}), \ \text{and the inquiry is the collective} \ (\text{the no mere} \ \text{testimony}), \ \text{and the conditions ground the rationality} \ (\text{the no mere} \ \text{individual}).
 \end{array}
 $$
 
@@ -1264,13 +1264,13 @@ The *table* is a *map*, not a *verdict*. The *reader* who *wants* to *choose* a 
 
 $$
 \begin{array}{ll}
-1. & \text{The *no* *proof* and the *no* *disproof*} \ (\text{the *epistemic* *humility* *insight*}) \ \text{and the *cumulative* *case*} \ (\text{the *probability* *insight*}). \\
-2. & \text{The *problem* of *evil* as the *deepest* *difficulty*} \ (\text{the *Rowe* *insight*}) \ \text{and the *free* *will* *defense* as the *answer* to the *logical*} \ (\text{the *Plantinga* *insight*}). \\
-3. & \text{The *faith* *rational* *without* the *proof*} \ (\text{the *Reformed* *insight*}) \ \text{and the *fideist* *risk*} \ (\text{the *Kierkegaard* *insight*}). \\
-4. & \text{The *analogical* *language*} \ (\text{the *Aquinas* *insight*}) \ \text{and the *apophatic* *silence*} \ (\text{the *Pseudo*-*Dionysius* *insight*}). \\
-5. & \text{The *practice* as the *form* of the *life*} \ (\text{the *Wittgensteinian* *insight*}) \ \text{and the *no* *anthropomorphism*} \ (\text{the *via* *negativa* *insight*}). \\
+1. & \text{The no proof and the no disproof} \ (\text{the epistemic humility insight}) \ \text{and the cumulative case} \ (\text{the probability insight}). \\
+2. & \text{The problem of evil as the deepest difficulty} \ (\text{the Rowe insight}) \ \text{and the free will defense as the answer to the logical} \ (\text{the Plantinga insight}). \\
+3. & \text{The faith rational without the proof} \ (\text{the Reformed insight}) \ \text{and the fideist risk} \ (\text{the Kierkegaard insight}). \\
+4. & \text{The analogical language} \ (\text{the Aquinas insight}) \ \text{and the apophatic silence} \ (\text{the Pseudo-Dionysius insight}). \\
+5. & \text{The practice as the form of the life} \ (\text{the Wittgensteinian insight}) \ \text{and the no anthropomorphism} \ (\text{the via negativa insight}). \\
 \hline
-6. & \therefore \text{The *qualified* *humility*} \ (\text{the *integration* *insight*}), \ *qualified* \text{by the *admission* that the *existence*, the *concept*, the *evil*, the *faith*, the *language*, and the *miracle* *remain* *contested*.}
+6. & \therefore \text{The qualified humility} \ (\text{the integration insight}), \text{qualified by the admission that the existence, the concept, the evil, the faith, the language, and the miracle remain contested.}
 \end{array}
 $$
 

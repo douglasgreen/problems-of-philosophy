@@ -47,9 +47,9 @@ The principle is stated at the end of Ch. V:
 
 $$
 \begin{array}{ll}
-1. & \text{To understand a proposition, one must be *acquainted with* its constituents.} \\
-2. & \text{If a constituent is not *given* in acquaintance, one can only *describe* it by other constituents.} \\
-3. & \text{The description is itself composed of constituents that must be *given*.} \\
+1. & \text{To understand a proposition, one must be acquainted with its constituents.} \\
+2. & \text{If a constituent is not given in acquaintance, one can only describe it by other constituents.} \\
+3. & \text{The description is itself composed of constituents that must be given.} \\
 4. & \text{The regress of descriptions must terminate in acquaintance.} \\
 \hline
 5. & \therefore \text{Every proposition we understand is composed of constituents we are acquainted with.}
@@ -84,8 +84,8 @@ Chapter 11 showed that testimony is a *basic* source of knowledge. If that is ri
 
 $$
 \begin{array}{ll}
-1. & \text{We understand propositions whose constituents we are *not* acquainted with.} \\
-2. & \text{Example: "Napoleon was defeated at Waterloo." I have never been acquainted with Napoleon, nor with Waterloo, nor with the defeat.} \\
+1. & \text{We understand propositions whose constituents we are not acquainted with.} \\
+2. & \text{Example: “Napoleon was defeated at Waterloo.” I have never been acquainted with Napoleon, nor with Waterloo, nor with the defeat.} \\
 3. & \text{I understand the proposition; I can use it in reasoning; I can assess its evidence.} \\
 \hline
 4. & \therefore \text{The principle of acquaintance is false.}
@@ -191,10 +191,10 @@ The theory of descriptions has been the target of *three* major objections.
 
 $$
 \begin{array}{ll}
-1. & \text{The *use* of a definite description *presupposes* the existence of its referent.} \\
-2. & \text{If the presupposition *fails*, the sentence is *not* *false*; it *fails to make a statement*.} \\
+1. & \text{The use of a definite description presupposes the existence of its referent.} \\
+2. & \text{If the presupposition fails, the sentence is not false; it fails to make a statement.} \\
 \hline
-3. & \therefore \text{The theory of descriptions *misdescribes* the *use*.}
+3. & \therefore \text{The theory of descriptions misdescribes the use.}
 \end{array}
 $$
 
@@ -268,11 +268,11 @@ Kripke's argument against descriptivism has *three* parts.
 
 $$
 \begin{array}{ll}
-1. & \text{"Aristotle might not have taught Alexander" is *true* (he could have done something else).} \\
-2. & \text{"The teacher of Alexander might not have taught Alexander" is *false* (if someone taught Alexander, they taught Alexander — the description is non-rigid).} \\
-3. & \text{If "Aristotle" meant "the teacher of Alexander," the two sentences would have the same truth value.} \\
+1. & \text{“Aristotle might not have taught Alexander” is true (he could have done something else).} \\
+2. & \text{“The teacher of Alexander might not have taught Alexander” is false (if someone taught Alexander, they taught Alexander — the description is non-rigid).} \\
+3. & \text{If “Aristotle” meant “the teacher of Alexander,” the two sentences would have the same truth value.} \\
 \hline
-4. & \therefore \text{"Aristotle" does not mean "the teacher of Alexander."}
+4. & \therefore \text{“Aristotle” does not mean “the teacher of Alexander.”}
 \end{array}
 $$
 
@@ -282,10 +282,10 @@ The argument *generalizes*: for *any* description $D$ associated with the name $
 
 $$
 \begin{array}{ll}
-1. & \text{"Aristotle was the teacher of Alexander" is a *discovery*, not a *trivial* truth.} \\
-2. & \text{If "Aristotle" meant "the teacher of Alexander," the sentence would be *analytic* (true in virtue of meaning).} \\
+1. & \text{“Aristotle was the teacher of Alexander” is a discovery, not a trivial truth.} \\
+2. & \text{If “Aristotle” meant “the teacher of Alexander,” the sentence would be analytic (true in virtue of meaning).} \\
 \hline
-3. & \therefore \text{"Aristotle" does not mean "the teacher of Alexander."}
+3. & \therefore \text{“Aristotle” does not mean “the teacher of Alexander.”}
 \end{array}
 $$
 
@@ -365,11 +365,11 @@ John Perry's "The Essential Indexical" (1979) is the *most* influential argument
 
 $$
 \begin{array}{ll}
-1. & \text{The belief "I am making a mess" *explains* Perry's *action* (he stops).} \\
-2. & \text{The belief "Perry is making a mess" *does not* explain the action (if Perry does not know he is Perry).} \\
-3. & \text{The two beliefs have the *same propositional content* (on the *descriptivist* view, they are the same *fact*).} \\
+1. & \text{The belief “I am making a mess” explains Perry's action (he stops).} \\
+2. & \text{The belief “Perry is making a mess” does not explain the action (if Perry does not know he is Perry).} \\
+3. & \text{The two beliefs have the same propositional content (on the descriptivist view, they are the same fact).} \\
 \hline
-4. & \therefore \text{The *indexical* belief is *essential*; it cannot be *reduced* to a *non-indexical* belief.}
+4. & \therefore \text{The indexical belief is essential; it cannot be reduced to a non-indexical belief.}
 \end{array}
 $$
 
@@ -421,11 +421,11 @@ The *successor* to the *principle of acquaintance* is **Russell's principle** (a
 
 $$
 \begin{array}{ll}
-1. & \text{Singular thought is *about* a *particular* object.} \\
-2. & \text{The thought must *discriminate* the object from *all* other objects.} \\
-3. & \text{The *discrimination* requires *knowledge* of *which* object it is.} \\
+1. & \text{Singular thought is about a particular object.} \\
+2. & \text{The thought must discriminate the object from all other objects.} \\
+3. & \text{The discrimination requires knowledge of which object it is.} \\
 \hline
-4. & \therefore \text{Singular thought requires *knowledge* of *which*.}
+4. & \therefore \text{Singular thought requires knowledge of which.}
 \end{array}
 $$
 
@@ -520,10 +520,10 @@ Gareth Evans (*The Varieties of Reference*, 1982, p. 225) offers the *most* *inf
 $$
 \begin{array}{ll}
 1. & Q: \text{Do I believe } p? \\
-2. & \text{I answer } Q \text{ by answering the *first-order* question } p. \\
-3. & \text{If I *answer* } p \text{ *affirmatively*, I *conclude* that I *believe* } p. \\
+2. & \text{I answer } Q \text{ by answering the first-order question } p. \\
+3. & \text{If I answer } p \text{ affirmatively, I conclude that I believe } p. \\
 \hline
-4. & \therefore \text{Self-knowledge is *transparent*: it is *achieved* by *looking* at the *world*.}
+4. & \therefore \text{Self-knowledge is transparent: it is achieved by looking at the world.}
 \end{array}
 $$
 
@@ -622,11 +622,11 @@ The *principle* of *acquaintance* is *false*, but a *revised* version survives.
 
 $$
 \begin{array}{ll}
-1. & \text{Singular thought is *about* a particular object.} \\
-2. & \text{The thought is *anchored* by an *epistemic* *connection* to the object.} \\
-3. & \text{The *connection* can be *perceptual*, *memorial*, *testimonial*, or *causal*.} \\
+1. & \text{Singular thought is about a particular object.} \\
+2. & \text{The thought is anchored by an epistemic connection to the object.} \\
+3. & \text{The connection can be perceptual, memorial, testimonial, or causal.} \\
 \hline
-4. & \therefore \text{Singular thought is *anchored*, but not *necessarily* *by* *acquaintance*.}
+4. & \therefore \text{Singular thought is anchored, but not necessarily by acquaintance.}
 \end{array}
 $$
 

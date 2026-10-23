@@ -117,11 +117,11 @@ ANIMALISM   NARRATIVE
 
 $$
 \begin{array}{ll}
-1. & \text{I can *doubt* the *existence* of my *body* (the *skeptical* *premise*; Ch. 6, §2).} \\
-2. & \text{I *cannot* *doubt* the *existence* of my *self* (the *cogito*).} \\
-3. & \text{If *A* can be *doubted* and *B* cannot, *A* is *not* *B*.} \\
+1. & \text{I can doubt the existence of my body (the skeptical premise; Ch. 6, §2).} \\
+2. & \text{I cannot doubt the existence of my self (the cogito).} \\
+3. & \text{If A can be doubted and B cannot, A is not B.} \\
 \hline
-4. & \therefore \text{The *self* is *not* the *body* (it is an *immaterial* *substance*).}
+4. & \therefore \text{The self is not the body (it is an immaterial substance).}
 \end{array}
 $$
 
@@ -129,10 +129,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *unity* of *consciousness* *requires* a *subject* that is *not* *divisible* into *parts*.} \\
-2. & \text{The *material* *substances* (the *brain*, the *body*) are *divisible* into *parts*.} \\
+1. & \text{The unity of consciousness requires a subject that is not divisible into parts.} \\
+2. & \text{The material substances (the brain, the body) are divisible into parts.} \\
 \hline
-3. & \therefore \text{The *subject* is an *immaterial*, *simple* *substance*.}
+3. & \therefore \text{The subject is an immaterial, simple substance.}
 \end{array}
 $$
 
@@ -156,10 +156,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *facts* of *personal* *identity* are *not* *entailed* by the *physical* and *psychological* *facts* (the *reductionist* *premise*, *denied*).} \\
-2. & \text{If the *facts* are *not* *entailed* by the *physical* and *psychological* *facts*, they are *further* *facts*.} \\
+1. & \text{The facts of personal identity are not entailed by the physical and psychological facts (the reductionist premise, denied).} \\
+2. & \text{If the facts are not entailed by the physical and psychological facts, they are further facts.} \\
 \hline
-3. & \therefore \text{Personal *identity* is a *further* *fact*.}
+3. & \therefore \text{Personal identity is a further fact.}
 \end{array}
 $$
 
@@ -181,10 +181,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{"I think" *presupposes* an "I" (the *grammatical* *subject*).} \\
-2. & \text{The *presupposition* is *not* *given* in the *experience* of *thinking* (the *experience* is *impersonal*).} \\
+1. & \text{“I think” presupposes an “I” (the grammatical subject).} \\
+2. & \text{The presupposition is not given in the experience of thinking (the experience is impersonal).} \\
 \hline
-3. & \therefore \text{The "I" is *not* *established* by the *cogito*.}
+3. & \therefore \text{The “I” is not established by the cogito.}
 \end{array}
 $$
 
@@ -204,10 +204,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Every *idea* is *derived* from an *impression* (the *empiricist* *principle*).} \\
-2. & \text{There is *no* *impression* of a *persistent* *self* (introspection *reveals* *only* *particular* *perceptions*).} \\
+1. & \text{Every idea is derived from an impression (the empiricist principle).} \\
+2. & \text{There is no impression of a persistent self (introspection reveals only particular perceptions).} \\
 \hline
-3. & \therefore \text{There is *no* *idea* of a *self* *apart* *from* the *perceptions*.}
+3. & \therefore \text{There is no idea of a self apart from the perceptions.}
 \end{array}
 $$
 
@@ -224,7 +224,7 @@ $$
 **The *structure*.**
 
 $$
-\text{Person } A \text{ at } t_1 = \text{Person } B \text{ at } t_2 \quad \text{iff} \quad B \text{ *remembers* (or *can* *remember*) the *experiences* of } A
+\text{Person } A \text{ at } t_1 = \text{Person } B \text{ at } t_2 \quad \text{iff} \quad B \text{ remembers (or can remember) the experiences of } A
 $$
 
 **The *examples*.** The *prince* and the *cobbler*: if the *soul* of the *prince* enters the *body* of the *cobbler*, the *person* is the *prince* (the *memory* *follows* the *soul*). The *little* *finger*: if the *consciousness* of the *little* *finger* *remains* with the *finger* when it is *cut* *off*, the *finger* is the *person*.
@@ -260,11 +260,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Personal *identity* *requires* *psychological* *continuity* (the *Lockean* *premise*).} \\
-2. & \text{The *continuity* is a *matter* of *degree* (the *connectedness* *varies*).} \\
-3. & \text{The *continuity* *survives* the *fission* (the *two* *successors* are *continuous* with the *original*).} \\
+1. & \text{Personal identity requires psychological continuity (the Lockean premise).} \\
+2. & \text{The continuity is a matter of degree (the connectedness varies).} \\
+3. & \text{The continuity survives the fission (the two successors are continuous with the original).} \\
 \hline
-4. & \therefore \text{Identity is *not* *what* *matters*; *continuity* is.}
+4. & \therefore \text{Identity is not what matters; continuity is.}
 \end{array}
 $$
 
@@ -288,11 +288,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Memory is *memory* of *my* *own* *past* *experiences* (the *definition* *of* *memory*).} \\
-2. & \text{If memory is *memory* of *my* *own* *past* *experiences*, the *identity* of the *person* is *presupposed* by the *memory*.} \\
-3. & \text{The *memory* *criterion* *explains* *identity* *by* *memory*.} \\
+1. & \text{Memory is memory of my own past experiences (the definition of memory).} \\
+2. & \text{If memory is memory of my own past experiences, the identity of the person is presupposed by the memory.} \\
+3. & \text{The memory criterion explains identity by memory.} \\
 \hline
-4. & \therefore \text{The *criterion* is *circular*.}
+4. & \therefore \text{The criterion is circular.}
 \end{array}
 $$
 
@@ -303,7 +303,7 @@ $$
 **The *definition***.
 
 $$
-\text{Quasi-memory}(S, E) \quad \text{iff} \quad S \text{ *carries* the *information* from } E \text{ *and* } S \text{ *represents* } E \text{ as *its* *own* *past* *experience*}
+\text{Quasi-memory}(S, E) \quad \text{iff} \quad S \text{ carries the information from } E \text{ and } S \text{ represents } E \text{ as its own past experience}
 $$
 
 **The *virtue*.** The *reply* *breaks* the *circle*: the *quasi-memory* is *defined* *without* *reference* to *identity*, and the *identity* is *defined* *in* *terms* of the *quasi-memory*.
@@ -320,11 +320,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *general* *remembers* the *officer*'s *experiences* (and is *therefore* *identical* to the *officer*, by the *memory* *criterion*).} \\
-2. & \text{The *officer* *remembers* the *boy*'s *experiences* (and is *therefore* *identical* to the *boy*).} \\
-3. & \text{The *general* does *not* *remember* the *boy*'s *experiences* (and is *therefore* *not* *identical* to the *boy*).} \\
+1. & \text{The general remembers the officer's experiences (and is therefore identical to the officer, by the memory criterion).} \\
+2. & \text{The officer remembers the boy's experiences (and is therefore identical to the boy).} \\
+3. & \text{The general does not remember the boy's experiences (and is therefore not identical to the boy).} \\
 \hline
-4. & \therefore \text{The *memory* *criterion* *violates* *transitivity* (the *general* is *identical* to the *officer* *and* *not* *identical* to the *boy*, *while* the *officer* *is* *identical* to the *boy*).}
+4. & \therefore \text{The memory criterion violates transitivity (the general is identical to the officer and not identical to the boy, while the officer is identical to the boy).}
 \end{array}
 $$
 
@@ -344,11 +344,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *memory* is *realized* by a *physical* *trace*.} \\
-2. & \text{The *trace* can be *duplicated* (the *“*twin*”* *case*; the *brain* *split*).} \\
-3. & \text{If the *trace* is *duplicated*, the *memory* is *duplicated*, and the *identity* is *duplicated*.} \\
+1. & \text{The memory is realized by a physical trace.} \\
+2. & \text{The trace can be duplicated (the “twin” case; the brain split).} \\
+3. & \text{If the trace is duplicated, the memory is duplicated, and the identity is duplicated.} \\
 \hline
-4. & \therefore \text{The *memory* *criterion* *implies* that *identity* can be *duplicated*, which is *impossible* (identity is *transitive*).}
+4. & \therefore \text{The memory criterion implies that identity can be duplicated, which is impossible (identity is transitive).}
 \end{array}
 $$
 
@@ -370,11 +370,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{You are a *material* *object* (the *naturalistic* *premise*; Ch. 19, §3).} \\
-2. & \text{The *material* *object* that you are is *the* *human* *animal* (the *biological* *premise*).} \\
-3. & \text{The *human* *animal* *persists* by *biological* *continuity* (the *metaphysical* *premise*).} \\
+1. & \text{You are a material object (the naturalistic premise; Ch. 19, §3).} \\
+2. & \text{The material object that you are is the human animal (the biological premise).} \\
+3. & \text{The human animal persists by biological continuity (the metaphysical premise).} \\
 \hline
-4. & \therefore \text{You persist by *biological* *continuity*.}
+4. & \therefore \text{You persist by biological continuity.}
 \end{array}
 $$
 
@@ -390,13 +390,13 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{There is a *human* *animal* *in* *your* *chair* (the *biological* *premise*).} \\
-2. & \text{The *animal* *has* a *brain* and *behaves* *as* you *do* (the *empirical* *premise*).} \\
-3. & \text{The *animal* *thinks* (the *psychological* *premise*).} \\
-4. & \text{If you are *not* the *animal*, there are *two* *thinkers* *in* *your* *chair* (you and the *animal*).} \\
-5. & \text{There is *only* *one* *thinker* *in* *your* *chair* (the *common-sense* *premise*).} \\
+1. & \text{There is a human animal in your chair (the biological premise).} \\
+2. & \text{The animal has a brain and behaves as you do (the empirical premise).} \\
+3. & \text{The animal thinks (the psychological premise).} \\
+4. & \text{If you are not the animal, there are two thinkers in your chair (you and the animal).} \\
+5. & \text{There is only one thinker in your chair (the common-sense premise).} \\
 \hline
-6. & \therefore \text{You *are* the *animal*.}
+6. & \therefore \text{You are the animal.}
 \end{array}
 $$
 
@@ -434,11 +434,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Identity is *transitive*: if } a = b \text{ and } b = c, \text{ then } a = c. \\
-2. & \text{If *Alice* = *Alice*-*Left* and *Alice* = *Alice*-*Right*, then *Alice*-*Left* = *Alice*-*Right*.} \\
-3. & \text{But *Alice*-*Left* and *Alice*-*Right* are *distinct* (they are *spatially* *separated* and *psychologically* *divergent*).} \\
+1. & \text{Identity is transitive: if } a = b \text{ and } b = c, \text{ then } a = c. \\
+2. & \text{If Alice = Alice-Left and Alice = Alice-Right, then Alice-Left = Alice-Right.} \\
+3. & \text{But Alice-Left and Alice-Right are distinct (they are spatially separated and psychologically divergent).} \\
 \hline
-4. & \therefore \text{Alice cannot be *identical* to *both*.}
+4. & \therefore \text{Alice cannot be identical to both.}
 \end{array}
 $$
 
@@ -452,11 +452,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *facts* of *personal* *identity* are *constituted* by *psychological* *continuity* (the *reductionist* *premise*).} \\
-2. & \text{The *continuity* is *describable* *impersonally* (the *quasi-memory* *chains*, the *causal* *relations*).} \\
-3. & \text{The *description* *does* not *require* the *concept* of *identity*.} \\
+1. & \text{The facts of personal identity are constituted by psychological continuity (the reductionist premise).} \\
+2. & \text{The continuity is describable impersonally (the quasi-memory chains, the causal relations).} \\
+3. & \text{The description does not require the concept of identity.} \\
 \hline
-4. & \therefore \text{Identity is *not* a *further* *fact*.}
+4. & \therefore \text{Identity is not a further fact.}
 \end{array}
 $$
 
@@ -468,11 +468,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *fission* *case* *shows* that *identity* can *fail* while *survival* *succeeds* (both *successors* *survive*).} \\
-2. & \text{If *identity* can *fail* while *survival* *succeeds*, *identity* is *not* *what* *matters*.} \\
-3. & \text{What *matters* is *psychological* *continuity* (the *relation* that *grounds* *survival*).} \\
+1. & \text{The fission case shows that identity can fail while survival succeeds (both successors survive).} \\
+2. & \text{If identity can fail while survival succeeds, identity is not what matters.} \\
+3. & \text{What matters is psychological continuity (the relation that grounds survival).} \\
 \hline
-4. & \therefore \text{Identity is *not* *what* *matters*; *continuity* is.}
+4. & \therefore \text{Identity is not what matters; continuity is.}
 \end{array}
 $$
 
@@ -486,11 +486,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *pre*-*fission* *person* is a *four*-*dimensional* *whole* (the *four*-*dimensionalist* *premise*; Ch. 17, §4.3).} \\
-2. & \text{The *whole* *includes* *both* *branches* (the *two* *successors*).} \\
-3. & \text{The *two* *successors* are *stages* of the *whole*, not *entire* *persons*.} \\
+1. & \text{The pre-fission person is a four-dimensional whole (the four-dimensionalist premise; Ch. 17, §4.3).} \\
+2. & \text{The whole includes both branches (the two successors).} \\
+3. & \text{The two successors are stages of the whole, not entire persons.} \\
 \hline
-4. & \therefore \text{Identity is *preserved* (the *whole* *is* the *person*).}
+4. & \therefore \text{Identity is preserved (the whole is the person).}
 \end{array}
 $$
 
@@ -539,11 +539,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *brain* *constructs* a *narrative* *of* its *own* *activity* (the *empirical* *premise*).} \\
-2. & \text{The *narrative* *posits* a *central* *character* (the *self*).} \\
-3. & \text{The *character* is *not* a *thing* *over* *and* *above* the *narrative*.} \\
+1. & \text{The brain constructs a narrative of its own activity (the empirical premise).} \\
+2. & \text{The narrative posits a central character (the self).} \\
+3. & \text{The character is not a thing over and above the narrative.} \\
 \hline
-4. & \therefore \text{The *self* is a *construct* (a *real* *pattern*, not a *substance*).}
+4. & \therefore \text{The self is a construct (a real pattern, not a substance).}
 \end{array}
 $$
 
@@ -565,11 +565,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{If the *self* were a *substance*, it would be *permanent* and *unchanging*.} \\
-2. & \text{Everything that is *observed* is *impermanent* and *changing*.} \\
-3. & \text{The *self* is *not* *observed* *apart* from the *aggregates*.} \\
+1. & \text{If the self were a substance, it would be permanent and unchanging.} \\
+2. & \text{Everything that is observed is impermanent and changing.} \\
+3. & \text{The self is not observed apart from the aggregates.} \\
 \hline
-4. & \therefore \text{The *self* is *not* a *substance*.}
+4. & \therefore \text{The self is not a substance.}
 \end{array}
 $$
 
@@ -596,9 +596,9 @@ $$
 $$
 \begin{array}{ll}
 1. & Q: \text{Do I believe } p? \\
-2. & \text{I answer } Q \text{ by answering the *first*-*order* *question* } p. \\
+2. & \text{I answer } Q \text{ by answering the first-order question } p. \\
 \hline
-3. & \therefore \text{Self-knowledge is *transparent* (achieved by *looking* at the *world*).}
+3. & \therefore \text{Self-knowledge is transparent (achieved by looking at the world).}
 \end{array}
 $$
 
@@ -674,10 +674,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *retributive* *justification* *requires* *identity* (the *same* *person* *deserves* the *punishment*).} \\
-2. & \text{Identity is *not* *what* *matters* (the *reductionist* *premise*).} \\
+1. & \text{The retributive justification requires identity (the same person deserves the punishment).} \\
+2. & \text{Identity is not what matters (the reductionist premise).} \\
 \hline
-3. & \therefore \text{The *retributive* *justification* is *undermined*.}
+3. & \therefore \text{The retributive justification is undermined.}
 \end{array}
 $$
 

@@ -30,7 +30,7 @@ The chapter proceeds in nine movements. §1 examines *confirmation* and the *rav
 **The *structure***.
 
 $$
-E \ \text{confirms} \ H \quad \text{iff} \quad E \ \text{is a *positive* *instance* of} \ H
+E \ \text{confirms} \ H \quad \text{iff} \quad E \ \text{is a positive instance of} \ H
 $$
 
 **The *example***. The *hypothesis* “all ravens are black” is *confirmed* by each *black* *raven*, and *disconfirmed* by each *non-black* *raven*.
@@ -47,11 +47,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *hypothesis* "all ravens are black" } (H_1) \text{ is *logically* *equivalent* to "all non-black things are non-ravens" } (H_2). \\
-2. & \text{A *white* *shoe* is a *positive* *instance* of } H_2 \text{ (it is a non-black thing that is a non-raven).} \\
-3. & \text{By the *equivalence* *condition*, the *white* *shoe* *confirms* } H_2, \text{ and *therefore* } H_1. \\
+1. & \text{The hypothesis “all ravens are black” } (H_1) \text{ is logically equivalent to “all non-black things are non-ravens” } (H_2). \\
+2. & \text{A white shoe is a positive instance of } H_2 \text{ (it is a non-black thing that is a non-raven).} \\
+3. & \text{By the equivalence condition, the white shoe confirms } H_2, \text{ and therefore } H_1. \\
 \hline
-4. & \therefore \text{A *white* *shoe* *confirms* "all ravens are black" (the *paradox*).}
+4. & \therefore \text{A white shoe confirms “all ravens are black” (the paradox).}
 \end{array}
 $$
 
@@ -105,10 +105,10 @@ For the *white* *shoe*, $P(E \mid H)$ and $P(E \mid \neg H)$ are *both* *close* 
 
 $$
 \begin{array}{ll}
-1. & \text{The *Bayesian* *confirmation* *requires* } P(H \mid E) > P(H) \text{ (the *definition*).} \\
-2. & \text{If } E \text{ is *already* *known*, the *agent* has *already* *conditionalized* on } E, \text{ and } P(H \mid E) = P(H). \\
+1. & \text{The Bayesian confirmation requires } P(H \mid E) > P(H) \text{ (the definition).} \\
+2. & \text{If } E \text{ is already known, the agent has already conditionalized on } E, \text{ and } P(H \mid E) = P(H). \\
 \hline
-3. & \therefore \text{The *old* *evidence* *confirms* *nothing* (the *problem*).}
+3. & \therefore \text{The old evidence confirms nothing (the problem).}
 \end{array}
 $$
 
@@ -138,11 +138,11 @@ and the *sum* *requires* the *specification* of the *catch*-*all* $(H_1 \vee H_2
 
 $$
 \begin{array}{ll}
-1. & \text{The *Bayesian* *confirmation* *requires* the *probability* } P(E) \text{ (the *marginal* *likelihood*).} \\
-2. & \text{The } P(E) \text{ *requires* the *specification* of the *catch*-*all* (the *alternatives*).} \\
-3. & \text{The *catch*-*all* is *not* *specifiable* (the *unconceived* *alternatives*).} \\
+1. & \text{The Bayesian confirmation requires the probability } P(E) \text{ (the marginal likelihood).} \\
+2. & \text{The } P(E) \text{ requires the specification of the catch-all (the alternatives).} \\
+3. & \text{The catch-all is not specifiable (the unconceived alternatives).} \\
 \hline
-4. & \therefore \text{The *Bayesian* *account* *presupposes* the *unavailable* *totality* (the *problem*).}
+4. & \therefore \text{The Bayesian account presupposes the unavailable totality (the problem).}
 \end{array}
 $$
 
@@ -207,11 +207,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *paradigms* *determine* the *meaning* of the *terms* and the *standards* of the *assessment* (the *incommensurability*).} \\
-2. & \text{The *evidence* is *paradigm*-*laden* (it *cannot* be *described* *neutrally*).} \\
-3. & \text{The *choice* *between* the *paradigms* *cannot* be *determined* by the *neutral* *evidence*.} \\
+1. & \text{The paradigms determine the meaning of the terms and the standards of the assessment (the incommensurability).} \\
+2. & \text{The evidence is paradigm-laden (it cannot be described neutrally).} \\
+3. & \text{The choice between the paradigms cannot be determined by the neutral evidence.} \\
 \hline
-4. & \therefore \text{The *theory* *choice* is *not* *determined* by the *norms* (the *Kuhnian* *challenge*).}
+4. & \therefore \text{The theory choice is not determined by the norms (the Kuhnian challenge).}
 \end{array}
 $$
 
@@ -258,10 +258,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *actual* *science* *violates* the *methodological* *rules* (the *Galileo* *case*: the *telescope* *observations* *contradicted* the *common* *sense*, and *Galileo* *relied* on the *rhetoric* and the *propaganda*).} \\
-2. & \text{The *violations* are *not* *irrational* (they *are* *necessary* for the *progress*).} \\
+1. & \text{The actual science violates the methodological rules (the Galileo case: the telescope observations contradicted the common sense, and Galileo relied on the rhetoric and the propaganda).} \\
+2. & \text{The violations are not irrational (they are necessary for the progress).} \\
 \hline
-3. & \therefore \text{There is no *universal* *method* (the *anarchism*), and the *science* is *one* *tradition* among the *many* (the *relativism*).}
+3. & \therefore \text{There is no universal method (the anarchism), and the science is one tradition among the many (the relativism).}
 \end{array}
 $$
 
@@ -348,11 +348,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *theories* *have* the *observational* *consequences* (the *empirical* *content*).} \\
-2. & \text{The *same* *observational* *consequences* *can* be *captured* by the *different* *theories* (the *equivalence*).} \\
-3. & \text{The *evidence* *cannot* *distinguish* the *equivalent* *theories* (the *theoretical* *claims* *differ*).} \\
+1. & \text{The theories have the observational consequences (the empirical content).} \\
+2. & \text{The same observational consequences can be captured by the different theories (the equivalence).} \\
+3. & \text{The evidence cannot distinguish the equivalent theories (the theoretical claims differ).} \\
 \hline
-4. & \therefore \text{The *evidence* *underdetermines* the *theoretical* *claims* (the *strong* *underdetermination*).}
+4. & \therefore \text{The evidence underdetermines the theoretical claims (the strong underdetermination).}
 \end{array}
 $$
 
@@ -371,10 +371,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *strong* *underdetermination* *requires* the *permanent* *equivalence* (the *rivals* are *empirically* *equivalent* *in* *every* *respect*).} \\
-2. & \text{The *equivalence* is *not* *established* (the *rivals* *are* *equivalent* *relative* to the *current* *auxiliaries*, and the *auxiliaries* *can* be *changed*).} \\
+1. & \text{The strong underdetermination requires the permanent equivalence (the rivals are empirically equivalent in every respect).} \\
+2. & \text{The equivalence is not established (the rivals are equivalent relative to the current auxiliaries, and the auxiliaries can be changed).} \\
 \hline
-3. & \therefore \text{The *strong* *underdetermination* is *not* *established* (the *transient* *underdetermination* is *real*, and the *permanent* is *speculative*).
+3. & \therefore \text{The strong underdetermination is not established (the transient underdetermination is real, and the permanent is speculative).}
 \end{array}
 $$
 
@@ -398,11 +398,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *history* of the *science* *shows* that the *current* *theories* *were* *replaced* by the *theories* *that* *were* *not* *imagined* (the *unconceived* *alternatives*).} \\
-2. & \text{The *unconceived* *alternatives* *are* *not* *in* the *evidence* (the *evidence* *cannot* *distinguish* the *alternatives* *we* *have* *not* *imagined*).} \\
-3. & \text{The *confidence* in the *current* *theories* *is* *undermined* by the *unconceived* *alternatives*.} \\
+1. & \text{The history of the science shows that the current theories were replaced by the theories that were not imagined (the unconceived alternatives).} \\
+2. & \text{The unconceived alternatives are not in the evidence (the evidence cannot distinguish the alternatives we have not imagined).} \\
+3. & \text{The confidence in the current theories is undermined by the unconceived alternatives.} \\
 \hline
-4. & \therefore \text{The *realism* *is* *undermined* (the *confidence* *is* *not* *justified*), and the *anti*-*realism* *is* *supported* (the *theories* *are* *the* *current* *best* *organizations* of the *evidence*).}
+4. & \therefore \text{The realism is undermined (the confidence is not justified), and the anti-realism is supported (the theories are the current best organizations of the evidence).}
 \end{array}
 $$
 
@@ -450,11 +450,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *observation* *requires* the *concepts* (the *description* of the *observation* *uses* the *concepts*).} \\
-2. & \text{The *concepts* are *theory*-*laden* (they *are* *constituted* by the *theory*). \\
-3. & \text{The *observation* is *theory*-*laden* (the *different* *theories* *yield* the *different* *observations*). \\
+1. & \text{The observation requires the concepts (the description of the observation uses the concepts).} \\
+2. & \text{The concepts are theory-laden (they are constituted by the theory).} \\
+3. & \text{The observation is theory-laden (the different theories yield the different observations).} \\
 \hline
-4. & \therefore \text{The *observations* *are* *not* *neutral* (the *theory*-*ladenness* *thesis*).}
+4. & \therefore \text{The observations are not neutral (the theory-ladenness thesis).}
 \end{array}
 $$
 
@@ -478,10 +478,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *basic* *perception* *is* *modular* (the *encapsulated*, the *bottom*-*up*).} \\
-2. & \text{The *modular* *perception* *is* *not* *penetrated* by the *theory* (the *illusions* *persist*).} \\
+1. & \text{The basic perception is modular (the encapsulated, the bottom-up).} \\
+2. & \text{The modular perception is not penetrated by the theory (the illusions persist).} \\
 \hline
-3. & \therefore \text{The *basic* *observation* is *not* *theory*-*laden* (the *critique*).}
+3. & \therefore \text{The basic observation is not theory-laden (the critique).}
 \end{array}
 $$
 
@@ -535,11 +535,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *scientific* *theories* are *empirically* *successful* (the *prediction*, the *intervention*, the *technological* *application*).} \\
-2. & \text{The *success* would be a *miracle* if the *theories* were *not* *approximately* *true*.} \\
-3. & \text{We should *not* *accept* the *miracles* (the *inference* *to* the *best* *explanation*).} \\
+1. & \text{The scientific theories are empirically successful (the prediction, the intervention, the technological application).} \\
+2. & \text{The success would be a miracle if the theories were not approximately true.} \\
+3. & \text{We should not accept the miracles (the inference to the best explanation).} \\
 \hline
-4. & \therefore \text{The *theories* are *approximately* *true* (the *realism*).}
+4. & \therefore \text{The theories are approximately true (the realism).}
 \end{array}
 $$
 
@@ -563,10 +563,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *history* of *science* is a *history* of *successful* *theories* that *were* *false* (the *phlogiston*, the *caloric*, the *luminiferous* *ether*, the *vital* *force*, the *Newtonian* *mechanics*).} \\
-2. & \text{The *current* *theories* are *probably* *false* (by the *induction*).} \\
+1. & \text{The history of science is a history of successful theories that were false (the phlogiston, the caloric, the luminiferous ether, the vital force, the Newtonian mechanics).} \\
+2. & \text{The current theories are probably false (by the induction).} \\
 \hline
-3. & \therefore \text{The *realism* is *probably* *false* (the *pessimistic* *meta*-*induction*).}
+3. & \therefore \text{The realism is probably false (the pessimistic meta-induction).}
 \end{array}
 $$
 
@@ -591,7 +591,7 @@ $$
 **The *structure***.
 
 $$
-\text{Realism} = \text{the *truth* of the *working* *posits*} \ (\text{not the *idle* ones})
+\text{Realism} = \text{the truth of the working posits} \ (\text{not the idle ones})
 $$
 
 **The *virtue***. The *selective* *realism* *avoids* the *pessimistic* *meta*-*induction* (the *idle* *posits* *were* *false*, and the *working* *posits* *survive*), and it *preserves* the *no*-*miracles* *argument* (the *success* is *explained* by the *working* *posits*).
@@ -639,10 +639,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *experimenters* *manipulate* the *entities* (the *electron* *beams*, the *quarks* *in* the *scattering*).} \\
-2. & \text{The *manipulation* *requires* the *entities* *to* *be* *real* (the *intervention* *is* *the* *criterion* of the *reality*).} \\
+1. & \text{The experimenters manipulate the entities (the electron beams, the quarks in the scattering).} \\
+2. & \text{The manipulation requires the entities to be real (the intervention is the criterion of the reality).} \\
 \hline
-3. & \therefore \text{The *entities* *are* *real* (the *entity* *realism*).}
+3. & \therefore \text{The entities are real (the entity realism).}
 \end{array}
 $$
 
@@ -670,10 +670,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *theories* *make* *claims* *about* the *unobservable* (the *electrons*, the *quarks*).} \\
-2. & \text{The *claims* *cannot* be *tested* *directly* (the *unobservable* *is* *not* *observable*).} \\
+1. & \text{The theories make claims about the unobservable (the electrons, the quarks).} \\
+2. & \text{The claims cannot be tested directly (the unobservable is not observable).} \\
 \hline
-3. & \therefore \text{The *belief* in the *theories* *should* be *the* *belief* *in* the *empirical* *adequacy* (the *constructive* *empiricism*), and the *unobservable* *claims* *should* be *accepted* *without* *belief*.}
+3. & \therefore \text{The belief in the theories should be the belief in the empirical adequacy (the constructive empiricism), and the unobservable claims should be accepted without belief.}
 \end{array}
 $$
 
@@ -721,10 +721,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *scientific* *theories* *make* the *risky* *predictions* (the *testable* *consequences*).} \\
-2. & \text{The *pseudoscientific* *theories* *are* *compatible* with *every* *observation* (the *no* *risky* *prediction*).} \\
+1. & \text{The scientific theories make the risky predictions (the testable consequences).} \\
+2. & \text{The pseudoscientific theories are compatible with every observation (the no risky prediction).} \\
 \hline
-3. & \therefore \text{The *criterion* is the *falsifiability* (the *Popperian* *criterion*).}
+3. & \therefore \text{The criterion is the falsifiability (the Popperian criterion).}
 \end{array}
 $$
 
@@ -806,11 +806,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *experts* *have* the *evidence* and the *training* (the *competence*).} \\
-2. & \text{The *consensus* *aggregates* the *independent* *judgments* (the *Condorcet* *insight*).} \\
-3. & \text{The *aggregation* *raises* the *probability* *of* the *truth* (the *statistical* *insight*).} \\
+1. & \text{The experts have the evidence and the training (the competence).} \\
+2. & \text{The consensus aggregates the independent judgments (the Condorcet insight).} \\
+3. & \text{The aggregation raises the probability of the truth (the statistical insight).} \\
 \hline
-4. & \therefore \text{The *consensus* is *evidence* for the *truth* (the *epistemic* *authority* of the *consensus*).}
+4. & \therefore \text{The consensus is evidence for the truth (the epistemic authority of the consensus).}
 \end{array}
 $$
 
@@ -843,11 +843,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *manufactured* *doubt* *undermines* the *public* *trust* in the *science* (the *perceived* *uncertainty*).} \\
-2. & \text{The *undermining* *delays* the *action* (the *regulation*, the *policy*). \\
-3. & \text{The *delay* *serves* the *interests* of the *funders* (the *industries*). \\
+1. & \text{The manufactured doubt undermines the public trust in the science (the perceived uncertainty).} \\
+2. & \text{The undermining delays the action (the regulation, the policy).} \\
+3. & \text{The delay serves the interests of the funders (the industries).} \\
 \hline
-4. & \therefore \text{The *manufactured* *doubt* is a *form* of *epistemic* *injustice* (the *testimonial* and the *hermeneutical*; Ch. 11, §4).}
+4. & \therefore \text{The manufactured doubt is a form of epistemic injustice (the testimonial and the hermeneutical; Ch. 11, §4).}
 \end{array}
 $$
 

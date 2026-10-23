@@ -102,7 +102,7 @@ TRUTHMAKING PRAGMATISM DISQUOTATIONALISM
 **The *structure***.
 
 $$
-\text{True}(p) \quad \text{iff} \quad p \text{ *corresponds* to the fact } F
+\text{True}(p) \quad \text{iff} \quad p \text{ corresponds to the fact } F
 $$
 
 **Russell's *version*** (the *multiple* *relation* *theory*, 1912, Ch. XII). A *belief* is a *relation* of the *subject* to *several* *objects* (the *constituents* of the *proposition*), and the *belief* is *true* if the *objects* *are* *related* *in* the *way* the *belief* *represents* them as *related*.
@@ -131,10 +131,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *statement* is a *description* (a *representation* of a *state* of *affairs*).} \\
-2. & \text{The *statement* is *true* iff the *state* of *affairs* *obtains* (the *state* *is* *real*).} \\
+1. & \text{The statement is a description (a representation of a state of affairs).} \\
+2. & \text{The statement is true iff the state of affairs obtains (the state is real).} \\
 \hline
-3. & \therefore \text{The *truth* is the *correspondence* to the *obtaining* *state* of *affairs*.}
+3. & \therefore \text{The truth is the correspondence to the obtaining state of affairs.}
 \end{array}
 $$
 
@@ -160,12 +160,12 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{"Snow is white" is *true*.} \\
-2. & \text{"Snow is white" is *logically* *equivalent* to "the *unique* } x \text{ such that } (x = x \wedge \text{snow is white}) = \text{the *unique* } x \text{ such that } (x = x)". \\
-3. & \text{The *two* *sentences* *refer* to the *same* *fact* (the *substitution* *preserves* the *reference*, if the *reference* is *the* *fact*).} \\
-4. & \text{The *argument* *generalizes*: *any* *true* *sentence* *refers* to the *same* *fact* (the *Great* *Fact*).} \\
+1. & \text{“Snow is white” is true.} \\
+2. & \text{“Snow is white” is logically equivalent to “the unique } x \text{ such that } (x = x \wedge \text{snow is white})” = \text{“the unique } x \text{ such that } (x = x)”. \\
+3. & \text{The two sentences refer to the same fact (the substitution preserves the reference, if the reference is the fact).} \\
+4. & \text{The argument generalizes: any true sentence refers to the same fact (the Great Fact).} \\
 \hline
-5. & \therefore \text{The *correspondence* *theory* *cannot* *distinguish* *facts* (the *facts* *are* *not* *fine*-*grained*).}
+5. & \therefore \text{The correspondence theory cannot distinguish facts (the facts are not fine-grained).}
 \end{array}
 $$
 
@@ -202,17 +202,17 @@ $$
 **The *structure***.
 
 $$
-\text{True}(p) \quad \text{iff} \quad p \text{ *coheres* with the *whole* *system* } \Sigma
+\text{True}(p) \quad \text{iff} \quad p \text{ coheres with the whole system } \Sigma
 $$
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
-1. & \text{The *truth* of a *proposition* *depends* on its *relations* to *other* *propositions* (the *holistic* *premise*; Ch. 8, §3).} \\
-2. & \text{The *relations* are *constitutive* of the *truth* (the *coherence* *is* the *truth*).} \\
+1. & \text{The truth of a proposition depends on its relations to other propositions (the holistic premise; Ch. 8, §3).} \\
+2. & \text{The relations are constitutive of the truth (the coherence is the truth).} \\
 \hline
-3. & \therefore \text{The *truth* is the *coherence* (the *coherence* *theory*).}
+3. & \therefore \text{The truth is the coherence (the coherence theory).}
 \end{array}
 $$
 
@@ -237,7 +237,7 @@ $$
 **The *structure***.
 
 $$
-\text{True}(p) \quad \text{iff} \quad p \text{ is the *opinion* *that* *inquiry* *would* *converge* on}
+\text{True}(p) \quad \text{iff} \quad p \text{ is the opinion that inquiry would converge on}
 $$
 
 **The *virtue***. The *theory* *captures* the *connection* between *truth* and *inquiry*, and it *fits* the *scientific* *practice* (the *convergence* of *inquiry*).
@@ -275,7 +275,7 @@ $$
 **The *structure***.
 
 $$
-\text{True}(p) \quad \text{iff} \quad p \text{ is the *opinion* *fated* to be *agreed* upon by the *community* of *inquirers*}
+\text{True}(p) \quad \text{iff} \quad p \text{ is the opinion fated to be agreed upon by the community of inquirers}
 $$
 
 **The *virtue***. The *theory* *connects* the *truth* to the *practice* of *inquiry*, and it *fits* the *scientific* *practice* (the *self*-*correcting* *method*).
@@ -293,7 +293,7 @@ $$
 **The *structure***.
 
 $$
-\text{True}(p) \quad \text{iff} \quad p \text{ is *expedient* (useful, practical, satisfying) in the *long* *run*}
+\text{True}(p) \quad \text{iff} \quad p \text{ is expedient (useful, practical, satisfying) in the long run}
 $$
 
 **The *virtue***. The *theory* *captures* the *practical* *dimension* of *truth* (the *beliefs* *are* *instruments* for *action*), and it *fits* the *pragmatist* *epistemology* (Ch. 10, §6).
@@ -315,7 +315,7 @@ $$
 **The *structure***.
 
 $$
-\text{True}(p) \quad \text{iff} \quad p \text{ is *warrantedly* *assertible*} \text{ (in the *inquiry*)}
+\text{True}(p) \quad \text{iff} \quad p \text{ is warrantedly assertible} \text{ (in the inquiry)}
 $$
 
 **The *virtue***. The *theory* *connects* the *truth* to the *inquiry* and to the *practice*, and it *fits* the *pragmatist* *epistemology* (Ch. 8, §5).
@@ -360,10 +360,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{"It is true that snow is white" *says* the *same* as "snow is white".} \\
-2. & \text{"Snow is white" *says* *nothing* *about* *truth* (it is *about* *snow*).} \\
+1. & \text{“It is true that snow is white” says the same as “snow is white”.} \\
+2. & \text{“Snow is white” says nothing about truth (it is about snow).} \\
 \hline
-3. & \therefore \text{The *word* "true" is *redundant* (the *redundancy* *theory*).}
+3. & \therefore \text{The word “true” is redundant (the redundancy theory).}
 \end{array}
 $$
 
@@ -386,7 +386,7 @@ $$
 **The *structure***.
 
 $$
-\forall s\, (\text{True}(s) \leftrightarrow \text{the *content* of } s)
+\forall s\, (\text{True}(s) \leftrightarrow \text{the content of } s)
 $$
 
 **The *virtue***. The *theory* *explains* the *generalization* (the *truth* *predicate* *expresses* the *infinite* *conjunctions*), and it *avoids* the *metaphysical* *commitments* of the *correspondence* *theory*.
@@ -408,7 +408,7 @@ $$
 **The *structure***.
 
 $$
-\text{The *T*-schema} \text{ (the *equivalence* *schema*) *is* the *whole* *theory* of *truth*}
+\text{The T-schema} \text{ (the equivalence schema) is the whole theory of truth}
 $$
 
 **The *virtue***. The *theory* *explains* the *generalization*, the *opaque* *contexts*, and the *T*-schema, *without* the *metaphysical* *commitments* of the *correspondence* *theory*. The *theory* is the *most* *sophisticated* *deflationary* *account*.
@@ -428,7 +428,7 @@ $$
 **The *structure***.
 
 $$
-\text{"That is true"} \quad \text{functions as} \quad \text{"That" (a *pronoun* for the *sentence*)}
+\text{“That is true”} \quad \text{functions as} \quad \text{“That” (a pronoun for the sentence)}
 $$
 
 **The *virtue***. The *theory* *avoids* the *ontological* *commitment* to *propositions* (the *truth* *predicate* is a *device*, not a *property*), and it *fits* the *inferentialist* *account* (Ch. 31, §3.4).
@@ -470,10 +470,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *truth* is a *relation* between a *proposition* and the *world*.} \\
-2. & \text{The *relation* *requires* a *relatum* in the *world* (the *truthmaker*).} \\
+1. & \text{The truth is a relation between a proposition and the world.} \\
+2. & \text{The relation requires a relatum in the world (the truthmaker).} \\
 \hline
-3. & \therefore \text{Every *truth* has a *truthmaker*.}
+3. & \therefore \text{Every truth has a truthmaker.}
 \end{array}
 $$
 
@@ -540,11 +540,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *empirical* *truths* *correspond* to the *world* (the *truthmaker* *intuition*).} \\
-2. & \text{The *moral* *truths* *depend* on the *warrant* (the *moral* *truth* is *not* a *correspondence* to a *moral* *fact*; the *realism* is *contested*; Ch. 44, §2).} \\
-3. & \text{The *mathematical* *truths* *depend* on the *coherence* of the *axioms* (the *structure*; Ch. 15, §7).} \\
+1. & \text{The empirical truths correspond to the world (the truthmaker intuition).} \\
+2. & \text{The moral truths depend on the warrant (the moral truth is not a correspondence to a moral fact; the realism is contested; Ch. 44, §2).} \\
+3. & \text{The mathematical truths depend on the coherence of the axioms (the structure; Ch. 15, §7).} \\
 \hline
-4. & \therefore \text{The *truth* is *plural* (the *alethic* *pluralism*).}
+4. & \therefore \text{The truth is plural (the alethic pluralism).}
 \end{array}
 $$
 
@@ -583,10 +583,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *definitions* of *truth* (the *correspondence*, the *coherence*, the *pragmatist*) *all* *fail* (the *objections* are *decisive*).} \\
-2. & \text{The *failure* *shows* that the *truth* is *not* *definable* (the *primitive* *concept*).} \\
+1. & \text{The definitions of truth (the correspondence, the coherence, the pragmatist) all fail (the objections are decisive).} \\
+2. & \text{The failure shows that the truth is not definable (the primitive concept).} \\
 \hline
-3. & \therefore \text{The *truth* is *primitive* (the *primitivism*).}
+3. & \therefore \text{The truth is primitive (the primitivism).}
 \end{array}
 $$
 
@@ -628,17 +628,17 @@ $$
 **The *structure***.
 
 $$
-\text{True}(p, c_s, c_a) \quad \text{(the *truth* *depends* on the *speaker*'s *context* } c_s \text{ and the *assessor*'s *context* } c_a)
+\text{True}(p, c_s, c_a) \quad \text{(the truth depends on the speaker's context } c_s \text{ and the assessor's context } c_a)
 $$
 
 **The *argument* (MacFarlane 2014, Ch. 3).
 
 $$
 \begin{array}{ll}
-1. & \text{The *faultless* *disagreement* (two *people* *disagree* about a *taste* *predicate*, and *both* are *right* from their *own* *perspective*).} \\
-2. & \text{The *faultless* *disagreement* is *explained* by the *assessment* *sensitivity* (the *truth* *depends* on the *assessor*).} \\
+1. & \text{The faultless disagreement (two people disagree about a taste predicate, and both are right from their own perspective).} \\
+2. & \text{The faultless disagreement is explained by the assessment sensitivity (the truth depends on the assessor).} \\
 \hline
-3. & \therefore \text{The *truth* is *assessment*-*sensitive* (for the *taste* *predicates*).}
+3. & \therefore \text{The truth is assessment-sensitive (for the taste predicates).}
 \end{array}
 $$
 
@@ -660,12 +660,12 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *relativist* *claims* that the *truth* is *relative*.} \\
-2. & \text{The *claim* is *itself* a *truth* *claim* (the *relativist* *asserts* it as *true*).} \\
-3. & \text{If the *truth* is *relative*, the *claim* is *true* *only* *relative* to a *framework*.} \\
-4. & \text{The *claim* *cannot* *bind* the *opponent* (the *opponent* *can* *reject* the *framework*).} \\
+1. & \text{The relativist claims that the truth is relative.} \\
+2. & \text{The claim is itself a truth claim (the relativist asserts it as true).} \\
+3. & \text{If the truth is relative, the claim is true only relative to a framework.} \\
+4. & \text{The claim cannot bind the opponent (the opponent can reject the framework).} \\
 \hline
-5. & \therefore \text{The *relativism* is *self*-*undermining* (the *argument* *is* *contested*; Ch. 13, §4).}
+5. & \therefore \text{The relativism is self-undermining (the argument is contested; Ch. 13, §4).}
 \end{array}
 $$
 
@@ -703,11 +703,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *truth* is *valuable* *because* it *leads* to *success* (the *instrumental* *value*).} \\
-2. & \text{If the *truth* is *valuable* *only* *instrumentally*, the *value* is *exhausted* by the *success*.} \\
-3. & \text{The *success* *can* be *achieved* *without* the *truth* (the *useful* *falsehood*), and the *truth* *can* *fail* to *achieve* the *success* (the *inconvenient* *truth*).} \\
+1. & \text{The truth is valuable because it leads to success (the instrumental value).} \\
+2. & \text{If the truth is valuable only instrumentally, the value is exhausted by the success.} \\
+3. & \text{The success can be achieved without the truth (the useful falsehood), and the truth can fail to achieve the success (the inconvenient truth).} \\
 \hline
-4. & \therefore \text{The *instrumental* *value* *does* not *explain* the *distinctive* *value* of *truth* (the *swamping*).}
+4. & \therefore \text{The instrumental value does not explain the distinctive value of truth (the swamping).}
 \end{array}
 $$
 
@@ -736,10 +736,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *inquiry* *requires* a *constraint* (the *beliefs* *must* be *corrected* by the *world*).} \\
-2. & \text{The *constraint* is the *truth* (the *true* *beliefs* *survive* the *correction*, and the *false* *beliefs* *are* *revised*).} \\
+1. & \text{The inquiry requires a constraint (the beliefs must be corrected by the world).} \\
+2. & \text{The constraint is the truth (the true beliefs survive the correction, and the false beliefs are revised).} \\
 \hline
-3. & \therefore \text{The *truth* is *valuable* *because* it *provides* the *friction* (the *constraint* of *inquiry*).}
+3. & \therefore \text{The truth is valuable because it provides the friction (the constraint of inquiry).}
 \end{array}
 $$
 

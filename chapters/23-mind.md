@@ -120,11 +120,11 @@ THEORY    (realization)  (eliminated)
 
 $$
 \begin{array}{ll}
-1. & \text{I can *doubt* that I have a body (the *skeptical* *premise*; Ch. 6, §2).} \\
-2. & \text{I *cannot* *doubt* that I have a *mind* (the *cogito*).} \\
-3. & \text{If *A* can be *doubted* and *B* cannot, *A* is *not* *B*.} \\
+1. & \text{I can doubt that I have a body (the skeptical premise; Ch. 6, §2).} \\
+2. & \text{I cannot doubt that I have a mind (the cogito).} \\
+3. & \text{If A can be doubted and B cannot, A is not B.} \\
 \hline
-4. & \therefore \text{The *mind* is *not* the *body* (the *real* *distinction*).}
+4. & \therefore \text{The mind is not the body (the real distinction).}
 \end{array}
 $$
 
@@ -148,10 +148,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{A *substance* *acts* on another *only* *if* it is *extended* (the *mechanistic* *picture* of *causation*).} \\
-2. & \text{The *mind* is *not* *extended* (the *Cartesian* *definition*).} \\
+1. & \text{A substance acts on another only if it is extended (the mechanistic picture of causation).} \\
+2. & \text{The mind is not extended (the Cartesian definition).} \\
 \hline
-3. & \therefore \text{The *mind* *cannot* *act* on the *body*.}
+3. & \therefore \text{The mind cannot act on the body.}
 \end{array}
 $$
 
@@ -213,11 +213,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *mental* *states* are *correlated* with *brain* *states* (the *empirical* *premise*).} \\
-2. & \text{The *correlation* is *not* *accidental*; it *requires* an *explanation*.} \\
-3. & \text{The *best* *explanation* is *identity* (the *simplest* *explanation*; Ch. 14, §4).} \\
+1. & \text{The mental states are correlated with brain states (the empirical premise).} \\
+2. & \text{The correlation is not accidental; it requires an explanation.} \\
+3. & \text{The best explanation is identity (the simplest explanation; Ch. 14, §4).} \\
 \hline
-4. & \therefore \text{The *mental* *states* are *identical* to *brain* *states*.}
+4. & \therefore \text{The mental states are identical to brain states.}
 \end{array}
 $$
 
@@ -239,11 +239,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *mental* *state* } M \text{ is *realized* by *different* *physical* *states* in *different* *organisms* } (P_1, P_2, P_3, \ldots). \\
-2. & \text{If } M \text{ is *identical* to a *physical* *state*, it must be *identical* to *one* of the } P_i. \\
-3. & \text{No *single* } P_i \text{ is *common* to *all* the *organisms*.} \\
+1. & \text{The mental state } M \text{ is realized by different physical states in different organisms } (P_1, P_2, P_3, \ldots). \\
+2. & \text{If } M \text{ is identical to a physical state, it must be identical to one of the } P_i. \\
+3. & \text{No single } P_i \text{ is common to all the organisms.} \\
 \hline
-4. & \therefore \text{The *mental* *state* is *not* *identical* to any *physical* *state*.}
+4. & \therefore \text{The mental state is not identical to any physical state.}
 \end{array}
 $$
 
@@ -282,7 +282,7 @@ $$
 **The *structure*.**
 
 $$
-M = \text{the *state* that *plays* the *causal* *role* } R_M
+M = \text{the state that plays the causal role } R_M
 $$
 
 The *mental* *state* is *the* *occupant* of the *role*; the *physical* *state* is *the* *occupant* at the *physical* *level*.
@@ -334,12 +334,12 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Searle *manipulates* *symbols* *according* to *rules* (syntax).} \\
-2. & \text{Searle does *not* *understand* *Chinese* (no *semantics*).} \\
-3. & \text{The *system* (the *room* + *Searle* + *rules*) *manipulates* *symbols* according to *rules*.} \\
-4. & \text{The *system* does *not* *understand* *Chinese* (no *semantics*).} \\
+1. & \text{Searle manipulates symbols according to rules (syntax).} \\
+2. & \text{Searle does not understand Chinese (no semantics).} \\
+3. & \text{The system (the room + Searle + rules) manipulates symbols according to rules.} \\
+4. & \text{The system does not understand Chinese (no semantics).} \\
 \hline
-5. & \therefore \text{Symbol *manipulation* (syntax) is *not* *sufficient* for *understanding* (semantics).}
+5. & \therefore \text{Symbol manipulation (syntax) is not sufficient for understanding (semantics).}
 \end{array}
 $$
 
@@ -398,13 +398,13 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *physical* *domain* is *causally* *closed*: every *physical* *event* has a *sufficient* *physical* *cause*.} \\
-2. & \text{The *mental* *event* } M \text{ *causes* the *physical* *event* } P. \\
-3. & \text{The *physical* *event* } P \text{ has a *sufficient* *physical* *cause* } P^*. \\
-4. & \text{If } M \text{ *causes* } P \text{ and } P^* \text{ *causes* } P, \text{ the *cause* is *overdetermined*.} \\
-5. & \text{Overdetermination is *implausible* for *every* *case*.} \\
+1. & \text{The physical domain is causally closed: every physical event has a sufficient physical cause.} \\
+2. & \text{The mental event } M \text{ causes the physical event } P. \\
+3. & \text{The physical event } P \text{ has a sufficient physical cause } P^*. \\
+4. & \text{If } M \text{ causes } P \text{ and } P^* \text{ causes } P, \text{ the cause is overdetermined.} \\
+5. & \text{Overdetermination is implausible for every case.} \\
 \hline
-6. & \therefore \text{The *mental* *event* } M \text{ does *not* *cause* } P \text{ (or *epiphenomenalism* is *true*).}
+6. & \therefore \text{The mental event } M \text{ does not cause } P \text{ (or epiphenomenalism is true).}
 \end{array}
 $$
 
@@ -442,11 +442,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *folk* *theory* *posits* *theoretical* *entities* (beliefs, desires) to *explain* *behavior*.} \\
-2. & \text{The *theory* is *stagnant* and *incomplete* (it does not *explain* *mental* *illness*, *dreams*, *memory*, *learning*).} \\
-3. & \text{The *theory* is *scientifically* *inferior* to *neuroscience* (the *replacement* *theory*).} \\
+1. & \text{The folk theory posits theoretical entities (beliefs, desires) to explain behavior.} \\
+2. & \text{The theory is stagnant and incomplete (it does not explain mental illness, dreams, memory, learning).} \\
+3. & \text{The theory is scientifically inferior to neuroscience (the replacement theory).} \\
 \hline
-4. & \therefore \text{The *folk* *entities* *do* not *exist*; they *should* be *eliminated*.}
+4. & \therefore \text{The folk entities do not exist; they should be eliminated.}
 \end{array}
 $$
 
@@ -498,11 +498,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *phenomenal* *properties* (qualia) are *not* *reducible* to *physical* *properties* (the *knowledge* *argument*; Ch. 24, §3).} \\
-2. & \text{The *phenomenal* *properties* are *real* (they are *the* *content* of *experience*).} \\
-3. & \text{The *physical* *properties* are *real* (the *physical* *world* *exists*).} \\
+1. & \text{The phenomenal properties (qualia) are not reducible to physical properties (the knowledge argument; Ch. 24, §3).} \\
+2. & \text{The phenomenal properties are real (they are the content of experience).} \\
+3. & \text{The physical properties are real (the physical world exists).} \\
 \hline
-4. & \therefore \text{The *phenomenal* *properties* are *distinct* from the *physical* *properties*.}
+4. & \therefore \text{The phenomenal properties are distinct from the physical properties.}
 \end{array}
 $$
 
@@ -520,11 +520,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *physical* *domain* is *causally* *closed* (§5.2).} \\
-2. & \text{The *mental* *states* are *distinct* from the *physical* *states* (property *dualism*).} \\
-3. & \text{If the *mental* *states* *caused* the *physical*, the *physical* *domain* would not be *closed*.} \\
+1. & \text{The physical domain is causally closed (§5.2).} \\
+2. & \text{The mental states are distinct from the physical states (property dualism).} \\
+3. & \text{If the mental states caused the physical, the physical domain would not be closed.} \\
 \hline
-4. & \therefore \text{The *mental* *states* do *not* *cause* the *physical* *states*.}
+4. & \therefore \text{The mental states do not cause the physical states.}
 \end{array}
 $$
 

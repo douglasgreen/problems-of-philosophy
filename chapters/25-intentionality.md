@@ -30,7 +30,7 @@ The chapter proceeds in eight movements. §1 states Brentano's thesis and the na
 **The *structure*.**
 
 $$
-\text{Mental state } S \text{ is *intentional* iff } S \text{ is *of* or *about* something}
+\text{Mental state } S \text{ is intentional iff } S \text{ is of or about something}
 $$
 
 **The *examples*.** A *belief* is a belief *that* $p$; a *desire* is a desire *for* $x$; a *perception* is a perception *of* $y$; a *fear* is a fear *of* $z$. The *object* of the state is the *intentional* object.
@@ -47,11 +47,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Intentional states are *relations* to *intentional* objects.} \\
-2. & \text{Some intentional objects do *not* exist (ghosts, unicorns, Sherlock Holmes).} \\
-3. & \text{A *relation* cannot relate a subject to a *nonexistent* object (the *relational* *principle*).} \\
+1. & \text{Intentional states are relations to intentional objects.} \\
+2. & \text{Some intentional objects do not exist (ghosts, unicorns, Sherlock Holmes).} \\
+3. & \text{A relation cannot relate a subject to a nonexistent object (the relational principle).} \\
 \hline
-4. & \therefore \text{Either the intentional *object* *exists* (as a *nonexistent* *entity*; Ch. 14, §2), or the *relation* *model* is *false*.}
+4. & \therefore \text{Either the intentional object exists (as a nonexistent entity; Ch. 14, §2), or the relation model is false.}
 \end{array}
 $$
 
@@ -75,10 +75,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Intentionality *supervenes* on the *physical* (the *naturalistic* *premise*).} \\
-2. & \text{The *supervenience* *requires* a *determination* *relation* (the *content*-*determining* *facts* are *physical*).} \\
+1. & \text{Intentionality supervenes on the physical (the naturalistic premise).} \\
+2. & \text{The supervenience requires a determination relation (the content-determining facts are physical).} \\
 \hline
-3. & \therefore \text{Intentionality is *naturalizable* (in *principle*).}
+3. & \therefore \text{Intentionality is naturalizable (in principle).}
 \end{array}
 $$
 
@@ -113,13 +113,13 @@ $$
 **The *structure*.**
 
 $$
-\text{State } S \text{ *means* } F \quad \text{iff} \quad S \text{ *carries* the *information* that } F
+\text{State } S \text{ means } F \quad \text{iff} \quad S \text{ carries the information that } F
 $$
 
 **The *definition* of *information*** (Dretske 1981, Ch. 3; the *Shannon* *framework*, adapted).
 
 $$
-\text{A state } s \text{ *carries* the *information* that } F \text{ iff } P(F \mid s) = 1 \text{ (the *conditional* *probability* is 1)}
+\text{A state } s \text{ carries the information that } F \text{ iff } P(F \mid s) = 1 \text{ (the conditional probability is 1)}
 $$
 
 The *conditional* *probability* is *the* *probability* that $F$ *obtains*, *given* that $s$ *obtains*. The *state* *carries* the *information* that $F$ *just* *in* *case* $F$ *is* *certain*, *given* $s$.
@@ -142,11 +142,11 @@ The *conditional* *probability* is *the* *probability* that $F$ *obtains*, *give
 
 $$
 \begin{array}{ll}
-1. & \text{The *state* *carries* the *information* that } (F \vee G). \\
-2. & \text{If *content* = *information*, the *state* *means* } (F \vee G). \\
-3. & \text{The *state* *means* } F \text{ (the *frog* *represents* the *object* as a *fly*).} \\
+1. & \text{The state carries the information that } (F \vee G). \\
+2. & \text{If content = information, the state means } (F \vee G). \\
+3. & \text{The state means } F \text{ (the frog represents the object as a fly).} \\
 \hline
-4. & \therefore \text{Content is *not* identical to *information*.}
+4. & \therefore \text{Content is not identical to information.}
 \end{array}
 $$
 
@@ -165,7 +165,7 @@ $$
 **The *structure*.**
 
 $$
-\text{State } S \text{ *means* } F \quad \text{iff} \quad \text{the *function* of } S \text{ is to *indicate* } F
+\text{State } S \text{ means } F \quad \text{iff} \quad \text{the function of } S \text{ is to indicate } F
 $$
 
 **The *definition* of *function*** (Millikan 1984, Ch. 1; the *“proper* *function”* *account*). A *function* is a *relational* *property*: the *function* of a *trait* is the *effect* that *explains* its *selection* *history*.
@@ -223,7 +223,7 @@ $$
 **The *structure*.**
 
 $$
-\text{Content}(S) = \text{the *inferential* *role* of } S \text{ in the *cognitive* *economy}
+\text{Content}(S) = \text{the inferential role of } S \text{ in the cognitive economy}
 $$
 
 **The *virtue*.** The *theory* *fits* the *holistic* *nature* of *meaning* (the *meaning* of a *concept* is *constituted* by its *relations* to *other* *concepts*), and it *explains* the *inferential* *role* of *content*.
@@ -268,11 +268,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Oscar and Twin Oscar are *intrinsically* *identical* (the *empirical* *premise*).} \\
-2. & \text{Oscar's "water" *refers* to H₂O; Twin Oscar's "water" *refers* to XYZ (the *semantic* *premise*).} \\
-3. & \text{If the *references* are *different*, the *contents* are *different*.} \\
+1. & \text{Oscar and Twin Oscar are intrinsically identical (the empirical premise).} \\
+2. & \text{Oscar's “water” refers to H₂O; Twin Oscar's “water” refers to XYZ (the semantic premise).} \\
+3. & \text{If the references are different, the contents are different.} \\
 \hline
-4. & \therefore \text{The *content* is *not* *determined* by the *intrinsic* *state* (it is *wide*).}
+4. & \therefore \text{The content is not determined by the intrinsic state (it is wide).}
 \end{array}
 $$
 
@@ -288,10 +288,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *subject* is *intrinsically* *identical* to a *subject* in a *community* with a *different* *concept*.} \\
-2. & \text{The *contents* of the *beliefs* are *different* (the *community*’s *concept* *differs*).} \\
+1. & \text{The subject is intrinsically identical to a subject in a community with a different concept.} \\
+2. & \text{The contents of the beliefs are different (the community’s concept differs).} \\
 \hline
-3. & \therefore \text{The *content* is *wide* (it *depends* on the *social* *environment*).}
+3. & \therefore \text{The content is wide (it depends on the social environment).}
 \end{array}
 $$
 
@@ -322,10 +322,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Causation is *local*: the *cause* is *in* the *head*.} \\
-2. & \text{The *wide* *content* is *not* *in* the *head* (it *includes* the *environment*).} \\
+1. & \text{Causation is local: the cause is in the head.} \\
+2. & \text{The wide content is not in the head (it includes the environment).} \\
 \hline
-3. & \therefore \text{The *wide* *content* *cannot* *cause* *behavior*.}
+3. & \therefore \text{The wide content cannot cause behavior.}
 \end{array}
 $$
 
@@ -356,10 +356,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *perceptual* *experience* *represents* *more* *detail* than the *subject* *can* *conceptualize* (the *richness* *of* *experience*; Ch. 24, §1.3).} \\
-2. & \text{The *content* of the *experience* is *not* *captured* by the *concepts* the *subject* *has*.} \\
+1. & \text{The perceptual experience represents more detail than the subject can conceptualize (the richness of experience; Ch. 24, §1.3).} \\
+2. & \text{The content of the experience is not captured by the concepts the subject has.} \\
 \hline
-3. & \therefore \text{The *content* is *non-conceptual*.}
+3. & \therefore \text{The content is non-conceptual.}
 \end{array}
 $$
 
@@ -402,10 +402,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Justification *requires* that the *justifier* stand in *logical* *relations* to the *justified*.} \\
-2. & \text{The *non-conceptual* *content* does not stand in *logical* *relations* (it is *not* a *proposition*).} \\
+1. & \text{Justification requires that the justifier stand in logical relations to the justified.} \\
+2. & \text{The non-conceptual content does not stand in logical relations (it is not a proposition).} \\
 \hline
-3. & \therefore \text{The *non-conceptual* *content* cannot *justify* a *belief*.}
+3. & \therefore \text{The non-conceptual content cannot justify a belief.}
 \end{array}
 $$
 
@@ -425,11 +425,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Thought is *systematic* (the *ability* to think } aRb \text{ *implies* the *ability* to think } bRa). \\
-2. & \text{The *systematicity* *requires* a *compositional* *medium*.} \\
-3. & \text{The *medium* is *language*-like (it has *syntax* and *semantics*).} \\
+1. & \text{Thought is systematic (the ability to think } aRb \text{ implies the ability to think } bRa). \\
+2. & \text{The systematicity requires a compositional medium.} \\
+3. & \text{The medium is language-like (it has syntax and semantics).} \\
 \hline
-4. & \therefore \text{Thought has a *language* of *thought*.}
+4. & \therefore \text{Thought has a language of thought.}
 \end{array}
 $$
 
@@ -461,10 +461,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *thought* is *about* an *object*.} \\
-2. & \text{If the *thought* is *about* an *object*, the *object* *exists* (the *relational* *principle*).} \\
+1. & \text{The thought is about an object.} \\
+2. & \text{If the thought is about an object, the object exists (the relational principle).} \\
 \hline
-3. & \therefore \text{The *object* *exists* (as a *nonexistent* *entity*).}
+3. & \therefore \text{The object exists (as a nonexistent entity).}
 \end{array}
 $$
 
@@ -514,10 +514,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *we*-*intention* is *not* *reducible* to } (I \text{ intend}) + (I \text{ believe that you intend}) + \ldots \\
-2. & \text{The *reduction* *misses* the *“we”* (the *collective* *subject*).} \\
+1. & \text{The we-intention is not reducible to } (I \text{ intend}) + (I \text{ believe that you intend}) + \ldots \\
+2. & \text{The reduction misses the “we” (the collective subject).} \\
 \hline
-3. & \therefore \text{The *we*-*intention* is *primitive*.}
+3. & \therefore \text{The we-intention is primitive.}
 \end{array}
 $$
 
@@ -569,10 +569,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Social *facts* are *not* *physical* *facts* (they are *not* *reducible* to the *physical*).} \\
-2. & \text{The *social* *facts* are *constituted* by *collective* *intentionality*.} \\
+1. & \text{Social facts are not physical facts (they are not reducible to the physical).} \\
+2. & \text{The social facts are constituted by collective intentionality.} \\
 \hline
-3. & \therefore \text{The *social* *facts* are *real*, but *mind*-*dependent*.}
+3. & \therefore \text{The social facts are real, but mind-dependent.}
 \end{array}
 $$
 

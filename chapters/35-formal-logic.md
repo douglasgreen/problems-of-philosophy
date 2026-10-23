@@ -41,11 +41,11 @@ The *chapter* proceeds in seven movements. §1 states the *pay-off* *question*. 
 
 $$
 \begin{array}{ll}
-1. & \text{The *validity* *check* *presupposes* a *formalization* (the *translation* of the *argument*).} \\
-2. & \text{The *formalization* is *not* *unique* (the *same* *argument* *can* be *formalized* in *different* *logics*).} \\
-3. & \text{The *choice* of *logic* *determines* the *verdict* (Ch. 3, §3.3).} \\
+1. & \text{The validity check presupposes a formalization (the translation of the argument).} \\
+2. & \text{The formalization is not unique (the same argument can be formalized in different logics).} \\
+3. & \text{The choice of logic determines the verdict (Ch. 3, §3.3).} \\
 \hline
-4. & \therefore \text{The *philosophical* *work* is in the *choice*, not in the *check}.}
+4. & \therefore \text{The philosophical work is in the choice, not in the check}.
 \end{array}
 $$
 
@@ -82,11 +82,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *surface* *grammar* *suggests* a *singular* *proposition* (a *subject* *term* *denoting* an *object*).} \\
-2. & \text{The *analysis* *reveals* a *quantificational* *structure* (the *existential*, the *universal*, the *identity*).} \\
-3. & \text{The *difference* *changes* the *consequences* (the *sentence* is *false*, not *truth*-*valueless*; the *existential* *import* *disappears*).} \\
+1. & \text{The surface grammar suggests a singular proposition (a subject term denoting an object).} \\
+2. & \text{The analysis reveals a quantificational structure (the existential, the universal, the identity).} \\
+3. & \text{The difference changes the consequences (the sentence is false, not truth-valueless; the existential import disappears).} \\
 \hline
-4. & \therefore \text{The *formal* *analysis* *does* *philosophical* *work* (it *dissolves* the *puzzle*).}
+4. & \therefore \text{The formal analysis does philosophical work (it dissolves the puzzle).}
 \end{array}
 $$
 
@@ -273,11 +273,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{If } \vdash \phi, \text{ then } \vdash K_i \phi \text{ (the *necessitation* *rule*).} \\
-2. & \text{If } \vdash K_i(\phi \to \psi) \text{ and } \vdash K_i \phi, \text{ then } \vdash K_i \psi \text{ (the *K* *axiom*).} \\
-3. & \text{The *agents* *do* not *know* *all* *the* *logical* *truths*, and *do* not *know* *all* the *consequences*. \\
+1. & \text{If } \vdash \phi, \text{ then } \vdash K_i \phi \text{ (the necessitation rule).} \\
+2. & \text{If } \vdash K_i(\phi \to \psi) \text{ and } \vdash K_i \phi, \text{ then } \vdash K_i \psi \text{ (the K axiom).} \\
+3. & \text{The agents do not know all the logical truths, and do not know all the consequences.} \\
 \hline
-4. & \therefore \text{The *standard* *epistemic* *logic* *is* *an* *idealization* (the *logical* *omniscience* *is* *false*).}
+4. & \therefore \text{The standard epistemic logic is an idealization (the logical omniscience is false).}
 \end{array}
 $$
 
@@ -390,7 +390,7 @@ $$
 **The *Principal* *Principle*** (Lewis 1980; “A Subjectivist's Guide to Objective Chance”).
 
 $$
-P(A \mid \text{ch}(A) = x \wedge E) = x \quad \text{(for *admissible* } E)
+P(A \mid \text{ch}(A) = x \wedge E) = x \quad \text{(for admissible } E)
 $$
 
 **The *structure***. The *credence* *tracks* the *chance*, and the *tracking* is the *norm* of the *rational* *agent* (the *reply* to the *problem* of the *priors*: the *priors* *are* *constrained* by the *chances*; Ch. 10, §5).
@@ -520,11 +520,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *validity* *is* *defined* *relative* to a *notion* of *case* (the *possible* *world*, the *situation*, the *proof*).} \\
-2. & \text{The *notions* of *case* *differ* (the *classical*, the *relevant*, the *constructive*).} \\
-3. & \text{The *differences* *yield* the *different* *logics*.} \\
+1. & \text{The validity is defined relative to a notion of case (the possible world, the situation, the proof).} \\
+2. & \text{The notions of case differ (the classical, the relevant, the constructive).} \\
+3. & \text{The differences yield the different logics.} \\
 \hline
-4. & \therefore \text{The *logical* *pluralism* (the *many* *validities*).}
+4. & \therefore \text{The logical pluralism (the many validities).}
 \end{array}
 $$
 
@@ -635,11 +635,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *logical* *laws* are *not* *analytic* (the *analytic*/*synthetic* *distinction* *fails*; Ch. 9, §2.4).} \\
-2. & \text{The *logical* *laws* are *central* *beliefs* in the *web* (they *are* *entrenched*, not *certain*).} \\
-3. & \text{The *central* *beliefs* are *revisable* (the *revision* *is* *drastic*, but *possible*).} \\
+1. & \text{The logical laws are not analytic (the analytic/synthetic distinction fails; Ch. 9, §2.4).} \\
+2. & \text{The logical laws are central beliefs in the web (they are entrenched, not certain).} \\
+3. & \text{The central beliefs are revisable (the revision is drastic, but possible).} \\
 \hline
-4. & \therefore \text{The *logical* *laws* are *not* *a* *priori* (they are *revisable*).}
+4. & \therefore \text{The logical laws are not a priori (they are revisable).}
 \end{array}
 $$
 
@@ -659,11 +659,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *quantum* *logic* *rejects* the *distributive* *law* ($p \wedge (q \vee r) \leftrightarrow (p \wedge q) \vee (p \wedge r)$).} \\
-2. & \text{The *rejection* *changes* the *meaning* of the *connectives* (the *“*and*”*, *“*or*”* are *not* the *classical* *ones*).} \\
-3. & \text{The *change* *is* *not* a *revision* of the *logic* (it is a *different* *logic*, not a *revision* of the *same* *one*).} \\
+1. & \text{The quantum logic rejects the distributive law ($p \wedge (q \vee r) \leftrightarrow (p \wedge q) \vee (p \wedge r)$).} \\
+2. & \text{The rejection changes the meaning of the connectives (the “and”, “or” are not the classical ones).} \\
+3. & \text{The change is not a revision of the logic (it is a different logic, not a revision of the same one).} \\
 \hline
-4. & \therefore \text{The *logical* *laws* are *not* *revised* (the *meanings* are *changed*).}
+4. & \therefore \text{The logical laws are not revised (the meanings are changed).}
 \end{array}
 $$
 
@@ -683,11 +683,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *logical* *theory* *is* *chosen* by the *theoretical* *virtues* (the *simplicity*, the *strength*, the *explanatory* *power*).} \\
-2. & \text{The *virtues* are the *same* as those of the *scientific* *theories* (Ch. 10, §6; Ch. 21, §9).} \\
-3. & \text{The *theories* are *revisable* (the *revision* is *driven* by the *data*).} \\
+1. & \text{The logical theory is chosen by the theoretical virtues (the simplicity, the strength, the explanatory power).} \\
+2. & \text{The virtues are the same as those of the scientific theories (Ch. 10, §6; Ch. 21, §9).} \\
+3. & \text{The theories are revisable (the revision is driven by the data).} \\
 \hline
-4. & \therefore \text{The *logic* is *not* *exceptional* (the *anti*-*exceptionalism*).}
+4. & \therefore \text{The logic is not exceptional (the anti-exceptionalism).}
 \end{array}
 $$
 

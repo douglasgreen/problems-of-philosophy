@@ -41,13 +41,13 @@ Let $E(x, y)$ mean “$x$ is earlier than $y$.” The B-series is the structure 
 The A-series is given by the *tense operators* or the *A-predicates*:
 
 $$
-F(x) \quad \text{("}x\text{ is future")}, \qquad N(x) \quad \text{("}x\text{ is present")}, \qquad P(x) \quad \text{("}x\text{ is past")}
+F(x) \quad \text{(“}x\text{ is future”)}, \qquad N(x) \quad \text{(“}x\text{ is present”)}, \qquad P(x) \quad \text{(“}x\text{ is past”)}
 $$
 
 or, in the *operator* idiom (Prior 1957, 1967):
 
 $$
-\mathcal{F}p \quad \text{("it will be that } p\text{")}, \qquad \mathcal{P}p \quad \text{("it was that } p\text{")}, \qquad \mathcal{N}p \quad \text{("it is now that } p\text{")}
+\mathcal{F}p \quad \text{(“it will be that } p\text{”)}, \qquad \mathcal{P}p \quad \text{(“it was that } p\text{”)}, \qquad \mathcal{N}p \quad \text{(“it is now that } p\text{”)}
 $$
 
 **The question.** Is the A-series *real* — is tense an *objective* feature of the world — or is it a *projection* of our experience onto a tenseless reality?
@@ -119,11 +119,11 @@ McTaggart’s argument is the *most* *famous* *argument* *against* the *reality*
 
 $$
 \begin{array}{ll}
-1. & \text{Time *essentially* involves change.} \\
-2. & \text{Change *essentially* involves the *A-series* (things *become* past, *become* present, *become* future).} \\
-3. & \text{The *A-series* is *self-contradictory*.} \\
+1. & \text{Time essentially involves change.} \\
+2. & \text{Change essentially involves the A-series (things become past, become present, become future).} \\
+3. & \text{The A-series is self-contradictory.} \\
 \hline
-4. & \therefore \text{Time is *unreal*.}
+4. & \therefore \text{Time is unreal.}
 \end{array}
 $$
 
@@ -160,12 +160,12 @@ The *most* *serious* *objection* to *presentism* is the **truthmaker objection**
 $$
 \begin{array}{ll}
 1. & \text{Presentism: only the present exists.} \\
-2. & \text{The claim "the Battle of Hastings occurred in 1066" is *true*.} \\
-3. & \text{Every *true* *claim* *requires* a *truthmaker* (Ch. 22, §2).} \\
-4. & \text{The *truthmaker* would be the *event* of the *Battle* of *Hastings*.} \\
-5. & \text{But the *event* does *not* *exist* (it is *past*).} \\
+2. & \text{The claim “the Battle of Hastings occurred in 1066” is true.} \\
+3. & \text{Every true claim requires a truthmaker (Ch. 22, §2).} \\
+4. & \text{The truthmaker would be the event of the Battle of Hastings.} \\
+5. & \text{But the event does not exist (it is past).} \\
 \hline
-6. & \therefore \text{Presentism *cannot* *provide* a *truthmaker* for *true* *claims* *about* the *past*.}
+6. & \therefore \text{Presentism cannot provide a truthmaker for true claims about the past.}
 \end{array}
 $$
 
@@ -195,12 +195,12 @@ A *related* *objection* *concerns* the *rate* of *passage*.
 
 $$
 \begin{array}{ll}
-1. & \text{If time *passes*, it *passes* *at* a *rate*.} \\
-2. & \text{The *rate* would be *seconds* *per* *second* — a *trivial* *identity*.} \\
-3. & \text{If the *rate* is *seconds* *per* *second*, the *passage* is *not* *a* *change*.} \\
-4. & \text{If the *rate* is *something* *else*, we need a *second* *time* *dimension* *in* *which* the *rate* is *measured*, and *that* *dimension* *requires* its *own* *passage*, and so on.} \\
+1. & \text{If time passes, it passes at a rate.} \\
+2. & \text{The rate would be seconds per second — a trivial identity.} \\
+3. & \text{If the rate is seconds per second, the passage is not a change.} \\
+4. & \text{If the rate is something else, we need a second time dimension in which the rate is measured, and that dimension requires its own passage, and so on.} \\
 \hline
-5. & \therefore \text{The *passage* of *time* is *unintelligible*.}
+5. & \therefore \text{The passage of time is unintelligible.}
 \end{array}
 $$
 
@@ -395,12 +395,12 @@ The *debate* is *unresolved*, and it is *connected* to the *A/B* *debate*: the *
 
 $$
 \begin{array}{ll}
-1. & \text{Endurantism: the *poker* is *wholly* *present* at } t_1 \text{ and at } t_2. \\
-2. & \text{The *poker* is *straight* at } t_1 \text{ and *bent* at } t_2. \\
-3. & \text{Straightness and bentness are *intrinsic* *properties*.} \\
-4. & \text{If the *poker* has *both* *properties* *simpliciter*, it is *both* *straight* and *bent* — *contradiction*.} \\
+1. & \text{Endurantism: the poker is wholly present at } t_1 \text{ and at } t_2. \\
+2. & \text{The poker is straight at } t_1 \text{ and bent at } t_2. \\
+3. & \text{Straightness and bentness are intrinsic properties.} \\
+4. & \text{If the poker has both properties simpliciter, it is both straight and bent — contradiction.} \\
 \hline
-5. & \therefore \text{Endurantism is *false* (or *intrinsic* *properties* *are* *relational* — which *changes* the *subject*).}
+5. & \therefore \text{Endurantism is false (or intrinsic properties are relational — which changes the subject).}
 \end{array}
 $$
 
@@ -432,11 +432,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Identity is *transitive*: if } a = b \text{ and } b = c, \text{ then } a = c. \\
-2. & \text{If *Alice* = *Alice-Left* and *Alice* = *Alice-Right*, then *Alice-Left* = *Alice-Right*.} \\
-3. & \text{But *Alice-Left* and *Alice-Right* are *distinct* persons (they are *spatially* *separated* and *psychologically* *divergent*).} \\
+1. & \text{Identity is transitive: if } a = b \text{ and } b = c, \text{ then } a = c. \\
+2. & \text{If Alice = Alice-Left and Alice = Alice-Right, then Alice-Left = Alice-Right.} \\
+3. & \text{But Alice-Left and Alice-Right are distinct persons (they are spatially separated and psychologically divergent).} \\
 \hline
-4. & \therefore \text{Alice cannot be *identical* to *both*.}
+4. & \therefore \text{Alice cannot be identical to both.}
 \end{array}
 $$
 

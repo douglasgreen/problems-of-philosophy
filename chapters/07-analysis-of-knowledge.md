@@ -503,8 +503,8 @@ $$
 \begin{array}{ll}
 1. & \text{Knowledge is justified true belief plus a fourth condition (or some analysis of the same form).} \\
 2. & \text{True belief is valuable.} \\
-3. & \text{The value of justification is \textit{instrumental} to true belief: justification is valuable because it tends to produce true belief.} \\
-4. & \text{If justification’s value is instrumental to true belief, then once the belief is true, the justification adds no \textit{additional} value.} \\
+3. & \text{The value of justification is instrumental to true belief: justification is valuable because it tends to produce true belief.} \\
+4. & \text{If justification’s value is instrumental to true belief, then once the belief is true, the justification adds no additional value.} \\
 \hline
 5. & \therefore \text{Knowledge is not more valuable than true belief.}
 \end{array}

@@ -69,11 +69,11 @@ The *chapter* proceeds in *eight* *movements*. §1 examines the *aesthetic* as a
 
 $$
 \begin{array}{ll}
-1. & \text{The *aesthetic* *properties* *supervene* on the *non*-*aesthetic* (the *base*; the *no* *free*-*floating* *beauty*).} \\
-2. & \text{The *supervenience* does *not* *reduce* the *aesthetic* to the *non*-*aesthetic* (the *no* *definitive* *rules*; the *Sibley* *insight*).} \\
-3. & \text{The *gap* is *bridged* by *taste* (the *perception*, the *discernment*; the *non*-*inferential* *insight*).} \\
+1. & \text{The aesthetic properties supervene on the non-aesthetic (the base; the no free-floating beauty).} \\
+2. & \text{The supervenience does not reduce the aesthetic to the non-aesthetic (the no definitive rules; the Sibley insight).} \\
+3. & \text{The gap is bridged by taste (the perception, the discernment; the non-inferential insight).} \\
 \hline
-4. & \therefore \text{The *aesthetic* *properties* are *real* (the *no* *projection*) and *emergent* (the *non*-*reducible*), and the *taste* is the *organon* (the *Sibley* *insight*).}
+4. & \therefore \text{The aesthetic properties are real (the no projection) and emergent (the non-reducible), and the taste is the organon (the Sibley insight).}
 \end{array}
 $$
 
@@ -106,11 +106,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *aesthetic* *experience* has the *distinctive* *phenomenology* (the *attention*, the *coherence*, the *completeness*).} \\
-2. & \text{The *phenomenology* is *not* the *ordinary* *experience* (the *no* *practical* *engagement*; the *no* *mere* *sensuous* *agreeableness*).} \\
-3. & \text{The *experience* *grounds* the *judgment* (the *felt* *value*).} \\
+1. & \text{The aesthetic experience has the distinctive phenomenology (the attention, the coherence, the completeness).} \\
+2. & \text{The phenomenology is not the ordinary experience (the no practical engagement; the no mere sensuous agreeableness).} \\
+3. & \text{The experience grounds the judgment (the felt value).} \\
 \hline
-4. & \therefore \text{The *aesthetic* *experience* is *distinct* (the *Beardsley* *insight*), and it *anchors* the *aesthetic* *domain* (§1.1).}
+4. & \therefore \text{The aesthetic experience is distinct (the Beardsley insight), and it anchors the aesthetic domain (§1.1).}
 \end{array}
 $$
 
@@ -143,11 +143,11 @@ $$
 
 $$
 \begin{array}{ll}
-\text{Thesis:} & \text{The *judgment* of *taste* is *not* *grounded* on the *concepts*} \ (\text{the *no* *rule*}). \\
-\text{Antithesis:} & \text{The *judgment* of *taste* *claims* the *assent* of *everyone*} \ (\text{the *universality*}). \\
+\text{Thesis:} & \text{The judgment of taste is not grounded on the concepts} \ (\text{the no rule}). \\
+\text{Antithesis:} & \text{The judgment of taste claims the assent of everyone} \ (\text{the universality}). \\
 \hline
-\text{Resolution:} & \text{The *ground* is the *feeling* of the *free* *play* (the *no* *concept*), and the *claim* is the *universal* *voice*} \\
-& \text{(the *sensus communis*; the *no* *private* *feeling*).}
+\text{Resolution:} & \text{The ground is the feeling of the free play (the no concept), and the claim is the universal voice} \\
+& \text{(the sensus communis; the no private feeling).}
 \end{array}
 $$
 
@@ -173,11 +173,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *aesthetic* *response* *occurs* *everywhere* (the *garden*, the *kitchen*, the *street*, the *body*).} \\
-2. & \text{The *art* *is* *not* the *necessary* *object* (the *no* *museum* *insight*).} \\
-3. & \text{The *response* *grounds* the *domain* (the *no* *art* *monopoly*).} \\
+1. & \text{The aesthetic response occurs everywhere (the garden, the kitchen, the street, the body).} \\
+2. & \text{The art is not the necessary object (the no museum insight).} \\
+3. & \text{The response grounds the domain (the no art monopoly).} \\
 \hline
-4. & \therefore \text{The *aesthetic* is *not* *art*-*centered* (the *Saito* *insight*), and the *everyday* *aesthetics* *is* *part* of the *domain* (the *no* *elitism*).}
+4. & \therefore \text{The aesthetic is not art-centered (the Saito insight), and the everyday aesthetics is part of the domain (the no elitism).}
 \end{array}
 $$
 
@@ -198,7 +198,7 @@ $$
 **The *structure***.
 
 $$
-\text{Beauty} \ = \ \text{the *unity* in *variety*} \ (\text{the *proportion*}, \text{the *integration*}, \text{the *fittingness*})
+\text{Beauty} \ = \ \text{the unity in variety} \ (\text{the proportion}, \text{the integration}, \text{the fittingness})
 $$
 
 **The *varieties***.
@@ -219,18 +219,18 @@ $$
 **The *Humean* *structure***.
 
 $$
-\text{Beauty} \ = \ \text{the *sentiment*} \ (\text{the *no* *object* *quality*}) \ \wedge \ \text{the *standard*} \ = \ \text{the *convergence* of the *true* *judges*}
+\text{Beauty} \ = \ \text{the sentiment} \ (\text{the no object quality}) \ \wedge \ \text{the standard} \ = \ \text{the convergence of the true judges}
 $$
 
 **The *argument*** (Hume 1757, ¶8).
 
 $$
 \begin{array}{ll}
-1. & \text{The *beauty* *is* *not* a *quality* of the *object* (the *no* *perception* of the *beauty* *by* the *senses*; the *no* *measurement*).} \\
-2. & \text{The *beauty* *is* the *sentiment* of the *spectator* (the *gustatory* *insight*).} \\
-3. & \text{The *sentiment* *is* *grounded* in the *taste* (the *delicacy* of the *imagination*, the *practice*, the *comparison*, the *no* *prejudice*).} \\
+1. & \text{The beauty is not a quality of the object (the no perception of the beauty by the senses; the no measurement).} \\
+2. & \text{The beauty is the sentiment of the spectator (the gustatory insight).} \\
+3. & \text{The sentiment is grounded in the taste (the delicacy of the imagination, the practice, the comparison, the no prejudice).} \\
 \hline
-4. & \therefore \text{The *beauty* *is* *subjective* (the *sentimentalism*), and the *standard* is the *convergence* of the *true* *judges* (the *no* *absolute* *standard*; the *Humean* *insight*).}
+4. & \therefore \text{The beauty is subjective (the sentimentalism), and the standard is the convergence of the true judges (the no absolute standard; the Humean insight).}
 \end{array}
 $$
 
@@ -266,11 +266,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *aesthetic* *emotion* *is* *triggered* by the *form* (the *lines*, the *colors*), and *not* by the *content* (the *no* *representation*).} \\
-2. & \text{The *form* is the *significant* *form* (the *unity* in *variety*; the *no* *narrative*).} \\
-3. & \text{The *form* *grounds* the *artistic* *value* (the *no* *content*).} \\
+1. & \text{The aesthetic emotion is triggered by the form (the lines, the colors), and not by the content (the no representation).} \\
+2. & \text{The form is the significant form (the unity in variety; the no narrative).} \\
+3. & \text{The form grounds the artistic value (the no content).} \\
 \hline
-4. & \therefore \text{The *formalism* *is* *true* (the *Bell* *insight*), and the *aesthetic* *value* *is* *autonomous* (the *no* *moral* *reduction*; §7).}
+4. & \therefore \text{The formalism is true (the Bell insight), and the aesthetic value is autonomous (the no moral reduction; §7).}
 \end{array}
 $$
 
@@ -294,11 +294,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *aesthetic* *judgment* *purports* to *track* the *value* (the *normative* *claim*; the *no* *mere* *liking*).} \\
-2. & \text{The *purport* *is* *not* *systematically* *illusory* (the *no* *error* *theory*; the *charity*).} \\
-3. & \text{The *value* *requires* the *property* (the *no* *projection*; the *no* *response* *only*).} \\
+1. & \text{The aesthetic judgment purports to track the value (the normative claim; the no mere liking).} \\
+2. & \text{The purport is not systematically illusory (the no error theory; the charity).} \\
+3. & \text{The value requires the property (the no projection; the no response only).} \\
 \hline
-4. & \therefore \text{The *beauty* is *real* (the *no* *subjectivism*), and the *judgment* *tracks* it (the *no* *mere* *feeling*), and the *disagreement* is the *error* (the *no* *relativism*).}
+4. & \therefore \text{The beauty is real (the no subjectivism), and the judgment tracks it (the no mere feeling), and the disagreement is the error (the no relativism).}
 \end{array}
 $$
 
@@ -354,11 +354,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *art* *is* *creative* and *expansive* (the *new* *forms* *continually* *appear*).} \\
-2. & \text{The *definition* *would* *close* the *concept* (the *no* *new* *forms*).} \\
-3. & \text{The *closure* *is* *false* to the *practice* (the *no* *adequacy*).} \\
+1. & \text{The art is creative and expansive (the new forms continually appear).} \\
+2. & \text{The definition would close the concept (the no new forms).} \\
+3. & \text{The closure is false to the practice (the no adequacy).} \\
 \hline
-4. & \therefore \text{The *art* *cannot* be *defined* (the *no* *essence*), and the *concept* is *open* (the *Weitz* *insight*), and the *family* *resemblance* *suffices* (the *no* *definition*).}
+4. & \therefore \text{The art cannot be defined (the no essence), and the concept is open (the Weitz insight), and the family resemblance suffices (the no definition).}
 \end{array}
 $$
 
@@ -379,7 +379,7 @@ $$
 **The *structure***.
 
 $$
-\text{Art} \ = \ \text{the *imitation*} \ (\text{the *representation* of the *reality*}) \quad (\text{the *mimetic* *insight*})
+\text{Art} \ = \ \text{the imitation} \ (\text{the representation of the reality}) \quad (\text{the mimetic insight})
 $$
 
 **The *virtue***. The *account* *captures* the *representational* *art* (the *painting*, the *drama*, the *novel*), and it *explains* the *pleasure* of the *recognition* (the *Aristotelian* *insight*), and it *grounds* the *criticism* (the *fidelity*).
@@ -401,18 +401,18 @@ $$
 **The *structure*** (the *Tolstoyan* *form*).
 
 $$
-\text{Art} \ = \ \text{the *infection*} \ (\text{the *communication* of the *emotion*} \ \text{from the *artist* to the *audience*})
+\text{Art} \ = \ \text{the infection} \ (\text{the communication of the emotion} \ \text{from the artist to the audience})
 $$
 
 **The *argument*** (Tolstoy 1897, Ch. 5).
 
 $$
 \begin{array}{ll}
-1. & \text{The *art* *arises* from the *emotion* of the *artist* (the *no* *mere* *craft*).} \\
-2. & \text{The *emotion* is *communicated* to the *audience* (the *infection*).} \\
-3. & \text{The *communication* *grounds* the *artistic* *value* (the *no* *mere* *form*).} \\
+1. & \text{The art arises from the emotion of the artist (the no mere craft).} \\
+2. & \text{The emotion is communicated to the audience (the infection).} \\
+3. & \text{The communication grounds the artistic value (the no mere form).} \\
 \hline
-4. & \therefore \text{The *art* *is* the *expression* (the *Tolstoyan* *insight*), and the *value* is the *sincerity* and the *clarity* (the *no* *virtuosity*).}
+4. & \therefore \text{The art is the expression (the Tolstoyan insight), and the value is the sincerity and the clarity (the no virtuosity).}
 \end{array}
 $$
 
@@ -439,18 +439,18 @@ $$
 **The *structure*** (the *Dickie* *form*).
 
 $$
-\text{Art} \ = \ \text{the *artifact*} \ \wedge \ \text{the *status* *conferred* by the *artworld*} \ (\text{the *no* *aesthetic* *requirement*})
+\text{Art} \ = \ \text{the artifact} \ \wedge \ \text{the status conferred by the artworld} \ (\text{the no aesthetic requirement})
 $$
 
 **The *argument*** (Dickie 1974, Ch. 1).
 
 $$
 \begin{array}{ll}
-1. & \text{The *readymade* *is* *art* (the *Duchamp* *insight*; the *Fountain*, 1917).} \\
-2. & \text{The *readymade* *has* *no* *aesthetic* *property* *distinctive* of the *art* (the *no* *significant* *form*).} \\
-3. & \text{The *art* *status* *requires* the *conferral* (the *no* *intrinsic* *property*).} \\
+1. & \text{The readymade is art (the Duchamp insight; the Fountain, 1917).} \\
+2. & \text{The readymade has no aesthetic property distinctive of the art (the no significant form).} \\
+3. & \text{The art status requires the conferral (the no intrinsic property).} \\
 \hline
-4. & \therefore \text{The *art* *is* the *institutional* *status* (the *Dickie* *insight*), and the *artworld* *grounds* the *status* (the *no* *aesthetic* *essentialism*).}
+4. & \therefore \text{The art is the institutional status (the Dickie insight), and the artworld grounds the status (the no aesthetic essentialism).}
 \end{array}
 $$
 
@@ -477,18 +477,18 @@ $$
 **The *structure*** (the *Levinson* *form*).
 
 $$
-\text{Art} \ = \ \text{the *artifact*} \ \wedge \ \text{the *intention* to be *regarded* *as* the *predecessors* \ were *regarded*}
+\text{Art} \ = \ \text{the artifact} \ \wedge \ \text{the intention to be regarded as the predecessors \ were regarded}
 $$
 
 **The *argument*** (Levinson 1979, §3).
 
 $$
 \begin{array}{ll}
-1. & \text{The *art* *is* the *practice* *extended* *through* *time* (the *no* *atemporal* *essence*).} \\
-2. & \text{The *extension* *requires* the *relation* to the *predecessors* (the *no* *first* *art* *problem*).} \\
-3. & \text{The *relation* *grounds* the *status* (the *no* *mere* *institution*).} \\
+1. & \text{The art is the practice extended through time (the no atemporal essence).} \\
+2. & \text{The extension requires the relation to the predecessors (the no first art problem).} \\
+3. & \text{The relation grounds the status (the no mere institution).} \\
 \hline
-4. & \therefore \text{The *art* is the *historical* *intention* (the *Levinson* *insight*), and the *definition* is *open* (the *no* *closed* *list*), and the *first* *art* is the *ur*-*art* (the *no* *regress*).}
+4. & \therefore \text{The art is the historical intention (the Levinson insight), and the definition is open (the no closed list), and the first art is the ur-art (the no regress).}
 \end{array}
 $$
 
@@ -511,7 +511,7 @@ $$
 **The *structure*** (the *Gaut* *form*).
 
 $$
-\text{Art}(x) \iff x \ \text{satisfies a *weighted* *subset* of the *criteria*} \ C_1, \dots, C_n \ (\text{the *no* *single* *necessary* *condition*})
+\text{Art}(x) \iff x \ \text{satisfies a weighted subset of the criteria} \ C_1, \dots, C_n \ (\text{the no single necessary condition})
 $$
 
 **The *criteria*** (Gaut 2000, §2).
@@ -531,11 +531,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *definition* *fails* (the *no* *single* *necessary* *condition*; the *Weitz* *insight*).} \\
-2. & \text{The *concept* *is* *not* *empty* (the *no* *mere* *resemblance*; the *criteria* *matter*).} \\
-3. & \text{The *criteria* *cluster* (the *no* *single* *essence*; the *weighted* *subset*).} \\
+1. & \text{The definition fails (the no single necessary condition; the Weitz insight).} \\
+2. & \text{The concept is not empty (the no mere resemblance; the criteria matter).} \\
+3. & \text{The criteria cluster (the no single essence; the weighted subset).} \\
 \hline
-4. & \therefore \text{The *art* is a *cluster* *concept* (the *Gaut* *insight*), and the *definition* *is* *pluralistic* (the *no* *monism*), and the *borderline* *cases* are *real* (the *no* *sharp* *boundary*).}
+4. & \therefore \text{The art is a cluster concept (the Gaut insight), and the definition is pluralistic (the no monism), and the borderline cases are real (the no sharp boundary).}
 \end{array}
 $$
 
@@ -558,7 +558,7 @@ $$
 **The *structure***.
 
 $$
-\text{Art} \ = \ \text{the *artifact* *whose* *function* is the *aesthetic* *experience*} \ (\text{the *aesthetic* *definition*})
+\text{Art} \ = \ \text{the artifact whose function is the aesthetic experience} \ (\text{the aesthetic definition})
 $$
 
 **The *objections***.
@@ -593,11 +593,11 @@ $$
 
 $$
 \begin{array}{ll}
-(1) & \text{We *feel* *emotions* for the *fictions*} \ (\text{the *datum*}). \\
-(2) & \text{We *believe* the *fictions* do *not* *exist*} \ (\text{the *datum*}). \\
-(3) & \text{The *emotion* *requires* the *belief* in the *existence*} \ (\text{the *datum*}). \\
+(1) & \text{We feel emotions for the fictions} \ (\text{the datum}). \\
+(2) & \text{We believe the fictions do not exist} \ (\text{the datum}). \\
+(3) & \text{The emotion requires the belief in the existence} \ (\text{the datum}). \\
 \hline
-& \therefore \ (1), (2), (3) \ \text{cannot *all* be *true*} \ (\text{the *Radford* *paradox*).}
+(4) & \therefore \ (1), (2), (3) \ \text{cannot all be true} \ (\text{the Radford paradox}).
 \end{array}
 $$
 
@@ -617,18 +617,18 @@ $$
 **The *structure***.
 
 $$
-\text{Quasi-emotion} \ = \ \text{the *make*-*believe* *emotion*} \ (\text{the *fictional* *truth*} \ \wedge \ \text{the *no* *belief*})
+\text{Quasi-emotion} \ = \ \text{the make-believe emotion} \ (\text{the fictional truth} \ \wedge \ \text{the no belief})
 $$
 
 **The *argument*** (Walton 1978, §2–3).
 
 $$
 \begin{array}{ll}
-1. & \text{The *fiction* *is* the *prop* in the *game* of *make*-*believe* (the *no* *belief* *required*).} \\
-2. & \text{The *game* *generates* the *quasi*-*emotion* (the *no* *genuine* *emotion*).} \\
-3. & \text{The *quasi*-*emotion* *explains* the *phenomenology* (the *felt* *pity*).} \\
+1. & \text{The fiction is the prop in the game of make-believe (the no belief required).} \\
+2. & \text{The game generates the quasi-emotion (the no genuine emotion).} \\
+3. & \text{The quasi-emotion explains the phenomenology (the felt pity).} \\
 \hline
-4. & \therefore \text{The *paradox* *dissolves* (the *no* *inconsistency*), and the *fiction* *engages* the *emotion* (the *quasi*-*insight*), and the *genuine* *emotion* *is* *not* *required* (the *no* *belief*).}
+4. & \therefore \text{The paradox dissolves (the no inconsistency), and the fiction engages the emotion (the quasi-insight), and the genuine emotion is not required (the no belief).}
 \end{array}
 $$
 
@@ -651,18 +651,18 @@ $$
 **The *structure***.
 
 $$
-\text{Emotion} \ = \ \text{the *thought*} \ (\text{the *propositional* *content*}) \ \wedge \ \text{the *evaluation*} \ (\text{the *no* *belief* *required*})
+\text{Emotion} \ = \ \text{the thought} \ (\text{the propositional content}) \ \wedge \ \text{the evaluation} \ (\text{the no belief required})
 $$
 
 **The *argument*** (Lamarque 1981, §3).
 
 $$
 \begin{array}{ll}
-1. & \text{The *emotion* *requires* the *thought* of the *object* (the *no* *merely* *perceptual* *givenness*).} \\
-2. & \text{The *thought* *does* not *require* the *belief* in the *existence* (the *no* *existence* *condition*).} \\
-3. & \text{The *fiction* *generates* the *thought* (the *no* *pretense* *required*).} \\
+1. & \text{The emotion requires the thought of the object (the no merely perceptual givenness).} \\
+2. & \text{The thought does not require the belief in the existence (the no existence condition).} \\
+3. & \text{The fiction generates the thought (the no pretense required).} \\
 \hline
-4. & \therefore \text{The *fiction* *generates* the *genuine* *emotion* (the *Lamarque* *insight*), and the *paradox* *dissolves* (the *no* *belief*), and the *emotion* *is* *rational* (the *thought* *insight*).}
+4. & \therefore \text{The fiction generates the genuine emotion (the Lamarque insight), and the paradox dissolves (the no belief), and the emotion is rational (the thought insight).}
 \end{array}
 $$
 
@@ -685,7 +685,7 @@ $$
 **The *structure***.
 
 $$
-\text{The *pleasure*} \ = \ \text{the *conversion* of the *pain*} \ (\text{the *form*}, \text{the *insight*}, \text{the *no* *mere* *pain*})
+\text{The pleasure} \ = \ \text{the conversion of the pain} \ (\text{the form}, \text{the insight}, \text{the no mere pain})
 $$
 
 **The *accounts***.
@@ -701,11 +701,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *tragedy* *produces* the *pain* (the *sadness*, the *horror*).} \\
-2. & \text{The *tragedy* *produces* the *pleasure* (the *delight*, the *engagement*).} \\
-3. & \text{The *pleasure* *of* the *art* *converts* the *pain* (the *no* *inconsistency*).} \\
+1. & \text{The tragedy produces the pain (the sadness, the horror).} \\
+2. & \text{The tragedy produces the pleasure (the delight, the engagement).} \\
+3. & \text{The pleasure of the art converts the pain (the no inconsistency).} \\
 \hline
-4. & \therefore \text{The *paradox* *dissolves* (the *conversion* *insight*), and the *negative* *emotion* *grounds* the *aesthetic* *value* (the *no* *mere* *positive* *emotion*).}
+4. & \therefore \text{The paradox dissolves (the conversion insight), and the negative emotion grounds the aesthetic value (the no mere positive emotion).}
 \end{array}
 $$
 
@@ -758,18 +758,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *meaning* of the *work*} \ = \ \text{the *author*’s *intention*} \ (\text{the *no* *mere* *text*})
+\text{The meaning of the work} \ = \ \text{the author’s intention} \ (\text{the no mere text})
 $$
 
 **The *argument*** (Hirsch 1967, Ch. 1).
 
 $$
 \begin{array}{ll}
-1. & \text{The *text* *underdetermines* the *meaning* (the *no* *unique* *reading*).} \\
-2. & \text{The *determinacy* *requires* the *intention* (the *no* *arbitrary* *meaning*).} \\
-3. & \text{The *intention* is *recoverable* from the *text* (the *no* *infallible* *access*).} \\
+1. & \text{The text underdetermines the meaning (the no unique reading).} \\
+2. & \text{The determinacy requires the intention (the no arbitrary meaning).} \\
+3. & \text{The intention is recoverable from the text (the no infallible access).} \\
 \hline
-4. & \therefore \text{The *meaning* is the *author*’s *intention* (the *Hirsch* *insight*), and the *interpretation* is *determinate* (the *no* *infinite* *readings*), and the *text* *evidences* the *intention* (the *no* *mystery*).}
+4. & \therefore \text{The meaning is the author’s intention (the Hirsch insight), and the interpretation is determinate (the no infinite readings), and the text evidences the intention (the no mystery).}
 \end{array}
 $$
 
@@ -792,18 +792,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *meaning* of the *work*} \ = \ \text{the *text*} \ (\text{the *no* *author*’s *intention*})
+\text{The meaning of the work} \ = \ \text{the text} \ (\text{the no author’s intention})
 $$
 
 **The *argument*** (Wimsatt & Beardsley 1946, §2).
 
 $$
 \begin{array}{ll}
-1. & \text{The *intention* is *not* *available* (the *no* *private* *access*).} \\
-2. & \text{The *text* is *public* (the *no* *author*’s *monopoly*).} \\
-3. & \text{The *public* *object* *grounds* the *meaning* (the *no* *genetic* *criticism*).} \\
+1. & \text{The intention is not available (the no private access).} \\
+2. & \text{The text is public (the no author’s monopoly).} \\
+3. & \text{The public object grounds the meaning (the no genetic criticism).} \\
 \hline
-4. & \therefore \text{The *meaning* is the *text* (the *anti*-*intentionalism*), and the *author* *intention* *is* the *fallacy* (the *no* *origin* *authority*), and the *reader* *constitutes* the *meaning* (the *no* *privileged* *origin*).}
+4. & \therefore \text{The meaning is the text (the anti-intentionalism), and the author intention is the fallacy (the no origin authority), and the reader constitutes the meaning (the no privileged origin).}
 \end{array}
 $$
 
@@ -826,18 +826,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *meaning* of the *work*} \ = \ \text{the *best* *hypothesis* of the *author*’s intention} \ (\text{the *no* *private* *access*})
+\text{The meaning of the work} \ = \ \text{the best hypothesis of the author’s intention} \ (\text{the no private access})
 $$
 
 **The *argument*** (Levinson 1992, §4).
 
 $$
 \begin{array}{ll}
-1. & \text{The *intention* *matters* (the *no* *mere* *text*; the *no* *arbitrary* *reading*).} \\
-2. & \text{The *actual* *intention* is *not* *available* (the *no* *private* *access*).} \\
-3. & \text{The *hypothesis* *captures* the *intention* (the *no* *genetic* *fallacy*).} \\
+1. & \text{The intention matters (the no mere text; the no arbitrary reading).} \\
+2. & \text{The actual intention is not available (the no private access).} \\
+3. & \text{The hypothesis captures the intention (the no genetic fallacy).} \\
 \hline
-4. & \therefore \text{The *meaning* is the *hypothetical* *intention* (the *Levinson* *insight*), and the *interpretation* *avoids* the *fallacy* (the *no* *private* *access*), and the *author* *matters* (the *no* *death*).}
+4. & \therefore \text{The meaning is the hypothetical intention (the Levinson insight), and the interpretation avoids the fallacy (the no private access), and the author matters (the no death).}
 \end{array}
 $$
 
@@ -860,18 +860,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *meaning* of the *work*} \ = \ \text{the *interpretation* *that* *maximizes* the *value*} \ (\text{the *no* *mere* *description*})
+\text{The meaning of the work} \ = \ \text{the interpretation that maximizes the value} \ (\text{the no mere description})
 $$
 
 **The *argument*** (Davies 1982, §3).
 
 $$
 \begin{array}{ll}
-1. & \text{The *interpretation* *aims* at the *value* of the *work* (the *no* *mere* *description*).} \\
-2. & \text{The *value* *selects* the *reading* (the *no* *arbitrary* *meaning*).} \\
-3. & \text{The *reading* *is* *constrained* by the *text* (the *no* *free* *improvement*).} \\
+1. & \text{The interpretation aims at the value of the work (the no mere description).} \\
+2. & \text{The value selects the reading (the no arbitrary meaning).} \\
+3. & \text{The reading is constrained by the text (the no free improvement).} \\
 \hline
-4. & \therefore \text{The *meaning* is the *value*-*maximizing* *reading* (the *Davies* *insight*), and the *criticism* *grounds* the *meaning* (the *no* *mere* *description*), and the *text* *constrains* the *reading* (the *no* *arbitrary*).}
+4. & \therefore \text{The meaning is the value-maximizing reading (the Davies insight), and the criticism grounds the meaning (the no mere description), and the text constrains the reading (the no arbitrary).}
 \end{array}
 $$
 
@@ -912,11 +912,11 @@ $$
 
 $$
 \begin{array}{ll}
-(1) & \text{The *aesthetic* *knowledge* *requires* the *acquaintance*} \ (\text{the *first*-*hand* *datum*}). \\
-(2) & \text{The *testimony* *is* *not* the *acquaintance*} \ (\text{the *second*-*hand* *datum*}). \\
-(3) & \text{The *criticism* *transmits* the *aesthetic* *knowledge*} \ (\text{the *practice*}). \\
+(1) & \text{The aesthetic knowledge requires the acquaintance} \ (\text{the first-hand datum}). \\
+(2) & \text{The testimony is not the acquaintance} \ (\text{the second-hand datum}). \\
+(3) & \text{The criticism transmits the aesthetic knowledge} \ (\text{the practice}). \\
 \hline
-& \therefore \text{The *three* *cannot* *all* be *true*} \ (\text{the *Hopkins* *puzzle*).}
+(4) & \therefore \text{The three cannot all be true} \ (\text{the Hopkins puzzle}).
 \end{array}
 $$
 
@@ -928,11 +928,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *aesthetic* *judgment* *rests* on the *experience* (the *no* *inference* from the *testimony*).} \\
-2. & \text{The *testimony* *does* not *provide* the *experience* (the *no* *transfer*).} \\
-3. & \text{The *knowledge* *requires* the *warrant* (the *no* *mere* *belief*).} \\
+1. & \text{The aesthetic judgment rests on the experience (the no inference from the testimony).} \\
+2. & \text{The testimony does not provide the experience (the no transfer).} \\
+3. & \text{The knowledge requires the warrant (the no mere belief).} \\
 \hline
-4. & \therefore \text{The *testimony* *cannot* *transmit* the *aesthetic* *knowledge* (the *pessimism*), and the *criticism* *is* the *prompt* (the *no* *knowledge*), and the *acquaintance* *is* *necessary* (the *no* *second*-*hand*).}
+4. & \therefore \text{The testimony cannot transmit the aesthetic knowledge (the pessimism), and the criticism is the prompt (the no knowledge), and the acquaintance is necessary (the no second-hand).}
 \end{array}
 $$
 
@@ -955,18 +955,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *aesthetic* *knowledge*} \ = \ \text{the *testimony*} \ (\text{the *warrant*}) \ \wedge \ \text{the *reliability* of the *testifier*} \ (\text{the *no* *acquaintance* *necessary*})
+\text{The aesthetic knowledge} \ = \ \text{the testimony} \ (\text{the warrant}) \ \wedge \ \text{the reliability of the testifier} \ (\text{the no acquaintance necessary})
 $$
 
 **The *argument*** (Meskin 2004, §3).
 
 $$
 \begin{array}{ll}
-1. & \text{The *testimony* *is* a *basic* *source* of *knowledge* (the *no* *aesthetic* *exception*; Ch. 11, §1).} \\
-2. & \text{The *reliability* of the *testifier* *grounds* the *warrant* (the *no* *mere* *belief*).} \\
-3. & \text{The *knowledge* *does* not *require* the *acquaintance* (the *no* *first*-*hand* *condition*).} \\
+1. & \text{The testimony is a basic source of knowledge (the no aesthetic exception; Ch. 11, §1).} \\
+2. & \text{The reliability of the testifier grounds the warrant (the no mere belief).} \\
+3. & \text{The knowledge does not require the acquaintance (the no first-hand condition).} \\
 \hline
-4. & \therefore \text{The *testimony* *transmits* the *aesthetic* *knowledge* (the *optimism*), and the *critic* *is* the *expert* (the *no* *egalitarianism*), and the *acquaintance* *is* *not* *necessary* (the *no* *privilege*).}
+4. & \therefore \text{The testimony transmits the aesthetic knowledge (the optimism), and the critic is the expert (the no egalitarianism), and the acquaintance is not necessary (the no privilege).}
 \end{array}
 $$
 
@@ -989,7 +989,7 @@ $$
 **The *structure***.
 
 $$
-\text{The *aesthetic* *expertise*} \ = \ \text{the *trained* *perception*} \ \wedge \ \text{the *knowledge* of the *tradition*} \ \wedge \ \text{the *articulation*}
+\text{The aesthetic expertise} \ = \ \text{the trained perception} \ \wedge \ \text{the knowledge of the tradition} \ \wedge \ \text{the articulation}
 $$
 
 **The *virtue***. The *account* *grounds* the *deference* (the *no* *mere* *authority*), and it *fits* the *practice* (the *training*, the *criticism*), and it *connects* the *aesthetics* to the *virtue* *epistemology* (the *perceptual* *expertise*; Ch. 8, §7).
@@ -1040,18 +1040,18 @@ $$
 **The *structure*** (the *Carroll* *form*).
 
 $$
-\text{The *aesthetic* *value*} \ = \ \text{the *moral* *value*} \ \text{when the *moral* *stance* is *prescribed*} \ (\text{the *no* *mere* *depiction*})
+\text{The aesthetic value} \ = \ \text{the moral value} \ \text{when the moral stance is prescribed} \ (\text{the no mere depiction})
 $$
 
 **The *argument*** (Carroll 1996, §3).
 
 $$
 \begin{array}{ll}
-1. & \text{The *work* *prescribes* the *response* (the *no* *mere* *depiction*; the *narrative* *structure*).} \\
-2. & \text{The *prescribed* *response* *is* *morally* *evaluable* (the *no* *neutrality*).} \\
-3. & \text{The *evaluable* *response* *affects* the *aesthetic* *value* (the *no* *independence*).} \\
+1. & \text{The work prescribes the response (the no mere depiction; the narrative structure).} \\
+2. & \text{The prescribed response is morally evaluable (the no neutrality).} \\
+3. & \text{The evaluable response affects the aesthetic value (the no independence).} \\
 \hline
-4. & \therefore \text{The *moralism* *is* *true* (the *Carroll* *insight*), and the *moral* *defect* *is* the *aesthetic* *defect* (the *no* *autonomism*), and the *connection* *is* *moderate* (the *no* *reduction*).}
+4. & \therefore \text{The moralism is true (the Carroll insight), and the moral defect is the aesthetic defect (the no autonomism), and the connection is moderate (the no reduction).}
 \end{array}
 $$
 
@@ -1074,18 +1074,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *aesthetic* *value*} \ \bot \ \text{the *moral* *value*} \ (\text{the *no* *connection*})
+\text{The aesthetic value} \ \bot \ \text{the moral value} \ (\text{the no connection})
 $$
 
 **The *argument*** (the *formalist* *insight*).
 
 $$
 \begin{array}{ll}
-1. & \text{The *aesthetic* *value* *supervenes* on the *formal* *properties* (the *no* *moral* *property*).} \\
-2. & \text{The *formal* *properties* are *independent* of the *moral* *content* (the *no* *entailment*).} \\
-3. & \text{The *independent* *properties* *ground* the *evaluation* (the *no* *reduction*).} \\
+1. & \text{The aesthetic value supervenes on the formal properties (the no moral property).} \\
+2. & \text{The formal properties are independent of the moral content (the no entailment).} \\
+3. & \text{The independent properties ground the evaluation (the no reduction).} \\
 \hline
-4. & \therefore \text{The *aesthetic* *value* is *autonomous* (the *autonomism*), and the *moral* *criticism* is the *category* *mistake* (the *no* *relevance*).}
+4. & \therefore \text{The aesthetic value is autonomous (the autonomism), and the moral criticism is the category mistake (the no relevance).}
 \end{array}
 $$
 
@@ -1108,18 +1108,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *immoral* *stance*} \ \Rightarrow \ \text{the *aesthetic* *merit*} \ (\text{the *robust* *immoralism*})
+\text{The immoral stance} \ \Rightarrow \ \text{the aesthetic merit} \ (\text{the robust immoralism})
 $$
 
 **The *argument*** (Eaton 2012, §2).
 
 $$
 \begin{array}{ll}
-1. & \text{The *work* *can* *engage* the *immoral* *stance* *aesthetically* (the *no* *mere* *defect*).} \\
-2. & \text{The *engagement* *can* be the *merit* (the *no* *mere* *tolerance*).} \\
-3. & \text{The *merit* *is* *aesthetic* (the *no* *mere* *moral* *interest*).} \\
+1. & \text{The work can engage the immoral stance aesthetically (the no mere defect).} \\
+2. & \text{The engagement can be the merit (the no mere tolerance).} \\
+3. & \text{The merit is aesthetic (the no mere moral interest).} \\
 \hline
-4. & \therefore \text{The *immoralism* is *robust* (the *Eaton* *insight*), and the *value* *interaction* is *plural* (the *no* *moralism*), and the *moralism* is *false* (the *no* *moderate* *insight*).}
+4. & \therefore \text{The immoralism is robust (the Eaton insight), and the value interaction is plural (the no moralism), and the moralism is false (the no moderate insight).}
 \end{array}
 $$
 
@@ -1142,18 +1142,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *value* of the *art*} \ = \ \text{the *cognitive*} \ \wedge \ \text{the *emotional*} \ \wedge \ \text{the *social*} \ \wedge \ \text{the *aesthetic*}
+\text{The value of the art} \ = \ \text{the cognitive} \ \wedge \ \text{the emotional} \ \wedge \ \text{the social} \ \wedge \ \text{the aesthetic}
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *art* *enlarges* the *experience* (the *imagination*, the *perspective*).} \\
-2. & \text{The *enlargement* *grounds* the *knowledge* and the *feeling* (the *no* *mere* *entertainment*).} \\
-3. & \text{The *knowledge* and the *feeling* *connect* to the *good* *life* (the *no* *isolation*).} \\
+1. & \text{The art enlarges the experience (the imagination, the perspective).} \\
+2. & \text{The enlargement grounds the knowledge and the feeling (the no mere entertainment).} \\
+3. & \text{The knowledge and the feeling connect to the good life (the no isolation).} \\
 \hline
-4. & \therefore \text{The *art* *has* the *cognitive*, the *emotional*, the *social*, and the *aesthetic* *value* (the *plural* *insight*), and the *value* *connects* to the *well*-*being* (the *no* *autonomism* *of* *value*), and the *autonomism* *of* *the* *evaluation* *is* *compatible* with the *plurality* *of* the *value* (the *no* *reduction*).}
+4. & \therefore \text{The art has the cognitive, the emotional, the social, and the aesthetic value (the plural insight), and the value connects to the well-being (the no autonomism of value), and the autonomism of the evaluation is compatible with the plurality of the value (the no reduction).}
 \end{array}
 $$
 
@@ -1241,12 +1241,12 @@ The *table* is a *map*, not a *verdict*. The *reader* who *wants* to *choose* a 
 
 $$
 \begin{array}{ll}
-1. & \text{The *merited* *response*} \ (\text{the *realist* *insight*}) \ \text{and the *trained* *perception*} \ (\text{the *Sibley* *insight}). \\
-2. & \text{The *cluster* *anchored* in the *history*} \ (\text{the *Gaut*-*Levinson* *insight*}) \ \text{and the *genuine* *emotion*} \ (\text{the *Lamarque*-*Walton* *insight}). \\
-3. & \text{The *hypothetical* *intention*} \ (\text{the *Levinson* *insight*}) \ \text{and the *qualified* *testimony*} \ (\text{the *optimism* *insight}). \\
-4. & \text{The *plural* *value*} \ (\text{the *no* *reduction* *insight*}) \ \text{and the *reflective* *equilibrium*} \ (\text{the *method* *insight}). \\
+1. & \text{The merited response} \ (\text{the realist insight}) \ \text{and the trained perception} \ (\text{the Sibley insight}). \\
+2. & \text{The cluster anchored in the history} \ (\text{the Gaut-Levinson insight}) \ \text{and the genuine emotion} \ (\text{the Lamarque-Walton insight}). \\
+3. & \text{The hypothetical intention} \ (\text{the Levinson insight}) \ \text{and the qualified testimony} \ (\text{the optimism insight}). \\
+4. & \text{The plural value} \ (\text{the no reduction insight}) \ \text{and the reflective equilibrium} \ (\text{the method insight}). \\
 \hline
-5. & \therefore \text{The *aesthetic* *realism*} \ (\text{the *integration* *insight*}), \ *qualified* \text{by the *admission* that the *properties*, the *definition*, the *emotion*, the *interpretation*, the *testimony*, and the *value* *remain* *contested*.}
+5. & \therefore \text{The aesthetic realism} \ (\text{the integration insight}), \text{qualified by the admission that the properties, the definition, the emotion, the interpretation, the testimony, and the value remain contested.}
 \end{array}
 $$
 

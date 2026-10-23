@@ -43,11 +43,11 @@ The chapter proceeds in seven movements. §1 examines the *substantivalism*/*rel
 
 $$
 \begin{array}{ll}
-1. & \text{The *water* *climbs* the *sides* when it is *rotating* (the *empirical* *premise*).} \\
-2. & \text{The *rotation* is *not* *relative* to the *bucket* (the *bucket* and the *water* *spin* *together*, and the *water* *climbs*).} \\
-3. & \text{The *rotation* *requires* a *frame* (the *absolute* *space*) *distinct* from the *bodies*.} \\
+1. & \text{The water climbs the sides when it is rotating (the empirical premise).} \\
+2. & \text{The rotation is not relative to the bucket (the bucket and the water spin together, and the water climbs).} \\
+3. & \text{The rotation requires a frame (the absolute space) distinct from the bodies.} \\
 \hline
-4. & \therefore \text{The *absolute* *space* *exists* (the *Newtonian* *conclusion*).}
+4. & \therefore \text{The absolute space exists (the Newtonian conclusion).}
 \end{array}
 $$
 
@@ -57,10 +57,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *absolute* *space* is *unobservable* (no *experiment* *detects* it *independently* of the *bodies*).} \\
-2. & \text{The *unobservable* *entities* should be *dispensed* with (the *parsimony*; Ch. 14, §4).} \\
+1. & \text{The absolute space is unobservable (no experiment detects it independently of the bodies).} \\
+2. & \text{The unobservable entities should be dispensed with (the parsimony; Ch. 14, §4).} \\
 \hline
-3. & \therefore \text{The *absolute* *space* is *not* *real* (the *relational* *conclusion*).}
+3. & \therefore \text{The absolute space is not real (the relational conclusion).}
 \end{array}
 $$
 
@@ -82,10 +82,10 @@ But it has *no* *absolute* *rest* (the *velocity* is *not* *absolute*, and the *
 
 $$
 \begin{array}{ll}
-1. & \text{The *Newtonian* *laws* are *invariant* under the *Galilean* *transformations* (the *boost*, the *rotation*, the *translation*).} \\
-2. & \text{The *invariance* *shows* that the *absolute* *rest* is *not* *observable* (the *laws* do *not* *distinguish* the *frames*).} \\
+1. & \text{The Newtonian laws are invariant under the Galilean transformations (the boost, the rotation, the translation).} \\
+2. & \text{The invariance shows that the absolute rest is not observable (the laws do not distinguish the frames).} \\
 \hline
-3. & \therefore \text{The *absolute* *rest* is *not* *real* (the *neo*-*Newtonian* *revision*), and the *absolute* *acceleration* *is* (the *bucket* *requires* it).
+3. & \therefore \text{The absolute rest is not real (the neo-Newtonian revision), and the absolute acceleration is (the bucket requires it).}
 \end{array}
 $$
 
@@ -101,11 +101,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{If the *points* of the *manifold* are *individuals* (the *manifold* *substantivalism*), the *two* *models* *represent* the *distinct* *physical* *situations* (the *same* *matter* *distribution* *outside* the *hole*, the *different* *metric* *inside*).} \\
-2. & \text{The *two* *models* *have* the *same* *observable* *consequences* (the *diffeomorphism* *preserves* the *empirical* *content*).} \\
-3. & \text{The *two* *models* *show* that the *theory* *does* not *determine* the *metric* *inside* the *hole* (the *indeterminism*).} \\
+1. & \text{If the points of the manifold are individuals (the manifold substantivalism), the two models represent the distinct physical situations (the same matter distribution outside the hole, the different metric inside).} \\
+2. & \text{The two models have the same observable consequences (the diffeomorphism preserves the empirical content).} \\
+3. & \text{The two models show that the theory does not determine the metric inside the hole (the indeterminism).} \\
 \hline
-4. & \therefore \text{The *manifold* *substantivalism* *leads* to the *indeterminism* (the *hole* *argument*).}
+4. & \therefore \text{The manifold substantivalism leads to the indeterminism (the hole argument).}
 \end{array}
 $$
 
@@ -199,11 +199,11 @@ where $R_{\mu\nu}$ is the *Ricci* *tensor*, $R$ is the *scalar* *curvature*, $\L
 
 $$
 \begin{array}{ll}
-1. & \text{The *inertial* *mass* and the *gravitational* *mass* are *equal* (the *empirical* *premise*; the *Eötvös* *experiments*).} \\
-2. & \text{The *equality* *implies* that the *free* *fall* is *independent* of the *composition* (the *universality*).} \\
-3. & \text{The *universality* *suggests* that the *gravity* is the *geometry* (the *geometrization*).} \\
+1. & \text{The inertial mass and the gravitational mass are equal (the empirical premise; the Eötvös experiments).} \\
+2. & \text{The equality implies that the free fall is independent of the composition (the universality).} \\
+3. & \text{The universality suggests that the gravity is the geometry (the geometrization).} \\
 \hline
-4. & \therefore \text{The *gravity* is the *curvature* (the *geometrization*).}
+4. & \therefore \text{The gravity is the curvature (the geometrization).}
 \end{array}
 $$
 
@@ -225,11 +225,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *evidence* *measures* the *relations* among the *bodies* (the *distances*, the *angles*).} \\
-2. & \text{The *relations* *are* *compatible* with the *different* *geometries* (the *Euclidean* with the *universal* *forces*, the *non*-*Euclidean* without them).} \\
-3. & \text{The *choice* is *not* *determined* by the *evidence* (the *conventionality*).} \\
+1. & \text{The evidence measures the relations among the bodies (the distances, the angles).} \\
+2. & \text{The relations are compatible with the different geometries (the Euclidean with the universal forces, the non-Euclidean without them).} \\
+3. & \text{The choice is not determined by the evidence (the conventionality).} \\
 \hline
-4. & \therefore \text{The *geometry* is *conventional* (the *conventionalist* *thesis*).}
+4. & \therefore \text{The geometry is conventional (the conventionalist thesis).}
 \end{array}
 $$
 
@@ -253,10 +253,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *relativity* *implies* that the *simultaneity* *is* *relative* (the *frame*-*dependence*).} \\
-2. & \text{The *A*-*theory* *requires* the *absolute* *simultaneity* (the *privileged* *present*).} \\
+1. & \text{The relativity implies that the simultaneity is relative (the frame-dependence).} \\
+2. & \text{The A-theory requires the absolute simultaneity (the privileged present).} \\
 \hline
-3. & \therefore \text{The *A*-*theory* is *incompatible* with the *relativity* (the *no*-*A*-*theory* *argument*), and the *B*-*theory* is *supported*.}
+3. & \therefore \text{The A-theory is incompatible with the relativity (the no-A-theory argument), and the B-theory is supported.}
 \end{array}
 $$
 
@@ -300,18 +300,18 @@ $$
 **The *structure***.
 
 $$
-\text{Past Hypothesis}: \ \text{the *universe* *began* in a *low*-*entropy* *state*}
+\text{Past Hypothesis}: \ \text{the universe began in a low-entropy state}
 $$
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
-1. & \text{The *statistical* *mechanics* *predicts* that the *entropy* *increases* *from* a *low*-*entropy* *state* (the *statistical* *insight*).} \\
-2. & \text{The *prediction* *requires* the *low*-*entropy* *initial* *state* (the *initial* *condition*).} \\
-3. & \text{The *initial* *condition* is *not* *derived* from the *dynamics* (the *past* *hypothesis*).} \\
+1. & \text{The statistical mechanics predicts that the entropy increases from a low-entropy state (the statistical insight).} \\
+2. & \text{The prediction requires the low-entropy initial state (the initial condition).} \\
+3. & \text{The initial condition is not derived from the dynamics (the past hypothesis).} \\
 \hline
-4. & \therefore \text{The *arrow* *requires* the *past* *hypothesis* (the *Albert* *insight*).}
+4. & \therefore \text{The arrow requires the past hypothesis (the Albert insight).}
 \end{array}
 $$
 
@@ -349,10 +349,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *relativity* *implies* that the *all* *times* are *equally* *real* (the *block*).} \\
-2. & \text{The *block* *implies* that the *passage* is *not* *fundamental* (the *B*-*theory*).} \\
+1. & \text{The relativity implies that the all times are equally real (the block).} \\
+2. & \text{The block implies that the passage is not fundamental (the B-theory).} \\
 \hline
-3. & \therefore \text{The *block* *universe* (the *most* *defensible* *reading*).}
+3. & \therefore \text{The block universe (the most defensible reading).}
 \end{array}
 $$
 
@@ -432,7 +432,7 @@ $$
 **The *quantum* *prediction***.
 
 $$
-|S| = 2\sqrt{2} \ \text{(the *Tsirelson* *bound*)}
+|S| = 2\sqrt{2} \ \text{(the Tsirelson bound)}
 $$
 
 **The *empirical* *result***. The *violations* of the *Bell* *inequality* are *confirmed* (Aspect et al. 1982; the *loophole*-*free* *tests* 2015: Hensen et al., Giustina et al., Shalm et al.), and the *local* *hidden*-*variable* *theories* are *ruled* *out*.
@@ -447,10 +447,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *Bell* *theorem* *rules* *out* the *local* *hidden*-*variable* *theories* (the *nonlocality*).} \\
-2. & \text{The *marginal* *probabilities* are *independent* of the *distant* *measurements* (the *no*-*signalling*).} \\
+1. & \text{The Bell theorem rules out the local hidden-variable theories (the nonlocality).} \\
+2. & \text{The marginal probabilities are independent of the distant measurements (the no-signalling).} \\
 \hline
-3. & \therefore \text{The *nonlocality* is *real* but *peaceful* (the *no*-*signalling* *insight*).}
+3. & \therefore \text{The nonlocality is real but peaceful (the no-signalling insight).}
 \end{array}
 $$
 
@@ -480,10 +480,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{If the *quantum* *state* is *epistemic*, the *two* *distinct* *states* can *overlap* (the *same* *ontic* *state*, the *different* *quantum* *states*).} \\
-2. & \text{The *overlap* *is* *incompatible* with the *preparation* *independence* and the *quantum* *predictions* (the *theorem*).} \\
+1. & \text{If the quantum state is epistemic, the two distinct states can overlap (the same ontic state, the different quantum states).} \\
+2. & \text{The overlap is incompatible with the preparation independence and the quantum predictions (the theorem).} \\
 \hline
-3. & \therefore \text{The *quantum* *state* is *ontic* (the *PBR* *insight*), and the *ψ*-*epistemic* *views* *must* *deny* the *preparation* *independence* (the *QBism*).
+3. & \therefore \text{The quantum state is ontic (the PBR insight), and the ψ-epistemic views must deny the preparation independence (the QBism).}
 \end{array}
 $$
 
@@ -529,11 +529,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *unitary* *evolution* is *universal* (the *no*-*collapse* *premise*).} \\
-2. & \text{The *universal* *evolution* *produces* the *superposition* of the *measurement* *outcomes*.} \\
-3. & \text{The *superposition* *is* *interpreted* as the *branching* (the *relative* *states*).} \\
+1. & \text{The unitary evolution is universal (the no-collapse premise).} \\
+2. & \text{The universal evolution produces the superposition of the measurement outcomes.} \\
+3. & \text{The superposition is interpreted as the branching (the relative states).} \\
 \hline
-4. & \therefore \text{The *Everett* *interpretation* (the *many* *worlds*).}
+4. & \therefore \text{The Everett interpretation (the many worlds).}
 \end{array}
 $$
 
@@ -578,7 +578,7 @@ $$
 **The *structure***.
 
 $$
-|\psi\rangle \ \to \ \frac{\hat{L}_i |\psi\rangle}{\|\hat{L}_i |\psi\rangle\|} \quad \text{with the *probability* } \lambda
+|\psi\rangle \ \to \ \frac{\hat{L}_i |\psi\rangle}{\|\hat{L}_i |\psi\rangle\|} \quad \text{with the probability } \lambda
 $$
 
 **The *virtue***. The *theory* *solves* the *measurement* *problem* (the *definite* *outcomes*), and it *is* *testable* (the *collapse* *rate* *deviates* from the *quantum* *predictions*), and it *fits* the *macroscopic* *classicality*.
@@ -601,11 +601,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *wavefunction* *assigns* the *probabilities* (the *agent*'s *beliefs*).} \\
-2. & \text{The *probabilities* are *personal* (the *different* *agents* can *assign* the *different* *states*).} \\
-3. & \text{The *measurement* *outcome* is the *personal* *experience*.} \\
+1. & \text{The wavefunction assigns the probabilities (the agent's beliefs).} \\
+2. & \text{The probabilities are personal (the different agents can assign the different states).} \\
+3. & \text{The measurement outcome is the personal experience.} \\
 \hline
-4. & \therefore \text{The *quantum* *state* is *subjective* (the *QBism*).}
+4. & \therefore \text{The quantum state is subjective (the QBism).}
 \end{array}
 $$
 
@@ -629,11 +629,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *state* is *always* *relative* to an *observer* (the *relational* *premise*).} \\
-2. & \text{The *observer* is *a* *physical* *system* (the *relational* *ontology*).} \\
-3. & \text{The *state* *changes* *when* the *observer* *interacts* with the *system*.} \\
+1. & \text{The state is always relative to an observer (the relational premise).} \\
+2. & \text{The observer is a physical system (the relational ontology).} \\
+3. & \text{The state changes when the observer interacts with the system.} \\
 \hline
-4. & \therefore \text{The *state* is *relational* (the *relational* *QM*).}
+4. & \therefore \text{The state is relational (the relational QM).}
 \end{array}
 $$
 
@@ -704,11 +704,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *erasure* of a *bit* *reduces* the *entropy* of the *memory* (by } k_B \ln 2\text{).} \\
-2. & \text{The *second* *law* *requires* the *entropy* of the *environment* to *increase* (by at least } k_B \ln 2\text{).} \\
-3. & \text{The *increase* *dissipates* the *energy* (the *Landauer* *bound*).} \\
+1. & \text{The erasure of a bit reduces the entropy of the memory (by } k_B \ln 2\text{).} \\
+2. & \text{The second law requires the entropy of the environment to increase (by at least } k_B \ln 2\text{).} \\
+3. & \text{The increase dissipates the energy (the Landauer bound).} \\
 \hline
-4. & \therefore \text{The *erasure* *costs* the *energy* (the *Landauer* *principle*).}
+4. & \therefore \text{The erasure costs the energy (the Landauer principle).}
 \end{array}
 $$
 
@@ -744,10 +744,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *physical* *properties* *are* *specified* by the *yes*/*no* *answers* (the *bits*).} \\
-2. & \text{The *answers* *require* an *observer* (the *participatory* *universe*).} \\
+1. & \text{The physical properties are specified by the yes/no answers (the bits).} \\
+2. & \text{The answers require an observer (the participatory universe).} \\
 \hline
-3. & \therefore \text{The *information* is *fundamental* (the *it* *from* *bit*).}
+3. & \therefore \text{The information is fundamental (the it from bit).}
 \end{array}
 $$
 
@@ -773,11 +773,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *physical* *information* is *formal* (the *Shannon* *entropy*, the *algorithmic* *complexity*).} \\
-2. & \text{The *semantic* *content* *requires* the *intentionality* (the *aboutness*, the *norms*; Ch. 25).} \\
-3. & \text{The *physics* *does* not *provide* the *intentionality* (the *formal* *information* *is* *not* the *meaning*).} \\
+1. & \text{The physical information is formal (the Shannon entropy, the algorithmic complexity).} \\
+2. & \text{The semantic content requires the intentionality (the aboutness, the norms; Ch. 25).} \\
+3. & \text{The physics does not provide the intentionality (the formal information is not the meaning).} \\
 \hline
-4. & \therefore \text{The *physics* *grounds* the *formal* *information*, and the *meaning* *requires* the *further* *account* (the *naturalistic* *account*, the *teleosemantics*; Ch. 25, §2.3).}
+4. & \therefore \text{The physics grounds the formal information, and the meaning requires the further account (the naturalistic account, the teleosemantics; Ch. 25, §2.3).}
 \end{array}
 $$
 
@@ -817,10 +817,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *physics* *constrains* the *metaphysics* (the *no*-*go* *theorems*, the *symmetries*).} \\
-2. & \text{The *physics* *underdetermines* the *metaphysics* (the *empirical* *equivalence*).} \\
+1. & \text{The physics constrains the metaphysics (the no-go theorems, the symmetries).} \\
+2. & \text{The physics underdetermines the metaphysics (the empirical equivalence).} \\
 \hline
-3. & \therefore \text{The *philosophy* of *physics* is *constrained* and *underdetermined* (the *methodological* *stance*).}
+3. & \therefore \text{The philosophy of physics is constrained and underdetermined (the methodological stance).}
 \end{array}
 $$
 
@@ -847,10 +847,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *interpretations* *predict* the *same* *empirical* *results* (the *empirical* *equivalence*; Ch. 40, §3).} \\
-2. & \text{The *choice* *requires* the *theoretical* *virtues* (the *simplicity*, the *explanatory* *power*, the *coherence}; Ch. 4, §3).} \\
+1. & \text{The interpretations predict the same empirical results (the empirical equivalence; Ch. 40, §3).} \\
+2. & \text{The choice requires the theoretical virtues (the simplicity, the explanatory power, the coherence; Ch. 4, §3).} \\
 \hline
-3. & \therefore \text{The *choice* is *underdetermined* by the *physics* (the *interpretive* *pluralism*).}
+3. & \therefore \text{The choice is underdetermined by the physics (the interpretive pluralism).}
 \end{array}
 $$
 
@@ -873,10 +873,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *physics* *uses* the *technical* *notions* (the *state*, the *observable*, the *entanglement*).} \\
-2. & \text{The *misuse* *transfers* the *technical* *notions* to the *unrelated* *domains* (the *consciousness*, the *healing*) without the *argument*.} \\
+1. & \text{The physics uses the technical notions (the state, the observable, the entanglement).} \\
+2. & \text{The misuse transfers the technical notions to the unrelated domains (the consciousness, the healing) without the argument.} \\
 \hline
-3. & \therefore \text{The *misuse* is a *fallacy* (the *equivocation*; Ch. 2, §2.3), and the *physics* does not *support* the *claims*.}
+3. & \therefore \text{The misuse is a fallacy (the equivocation; Ch. 2, §2.3), and the physics does not support the claims.}
 \end{array}
 $$
 

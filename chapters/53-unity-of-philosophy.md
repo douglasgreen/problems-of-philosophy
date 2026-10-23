@@ -61,18 +61,18 @@ The *chapter* proceeds in *eight* *movements*. §1 states the *question* and the
 **The *structure*** (the *Sellars* *form*).
 
 $$
-\text{The *philosophy*} \ = \ \text{the *synoptic* *account*} \ (\text{the *no* *mere* *specialism*}) \ \wedge \ \text{the *analysis*} \ (\text{the *no* *mere* *topic*})
+\text{The philosophy} \ = \ \text{the synoptic account} \ (\text{the no mere specialism}) \ \wedge \ \text{the analysis} \ (\text{the no mere topic})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *philosophy* *aims* at the *synoptic* *account*} \ (\text{the *no* *mere* *specialism*}). \\
-2. & \text{The *synoptic* *account* *requires* the *analysis*} \ (\text{the *no* *mere* *summary*}). \\
-3. & \text{The *analysis* *requires* the *whole*} \ (\text{the *no* *mere* *fragment*}). \\
+1. & \text{The philosophy aims at the synoptic account} \ (\text{the no mere specialism}). \\
+2. & \text{The synoptic account requires the analysis} \ (\text{the no mere summary}). \\
+3. & \text{The analysis requires the whole} \ (\text{the no mere fragment}). \\
 \hline
-4. & \therefore \text{The *philosophy* is the *one* *inquiry*} \ (\text{the *Sellars* *insight*}), \ \text{and the *parts* are the *aspects*} \ (\text{the *no* *mere} \ \text{aggregate*}), \ \text{and the *unity* is the *method* *and* the *object*} \ (\text{the *no* *mere} \ \text{institution*}).}
+4. & \therefore \text{The philosophy is the one inquiry} \ (\text{the Sellars insight}), \ \text{and the parts are the aspects} \ (\text{the no mere} \ \text{aggregate}), \ \text{and the unity is the method and the object} \ (\text{the no mere} \ \text{institution}).
 \end{array}
 $$
 
@@ -99,18 +99,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *philosophy*} \ = \ \text{the *family*} \ (\text{the *no* *single* *subject*}) \ \wedge \ \text{the *resemblance*} \ (\text{the *no* *mere* *essence*})
+\text{The philosophy} \ = \ \text{the family} \ (\text{the no single subject}) \ \wedge \ \text{the resemblance} \ (\text{the no mere essence})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *domains* *have* the *no* *shared* *object*} \ (\text{the *no* *single* *subject*}). \\
-2. & \text{The *domains* *have* the *no* *shared* *method*} \ (\text{the *no* *single* *instrument*}). \\
-3. & \text{The *family* *resemblance* *holds* the *parts*} \ (\text{the *no* *mere* *essence*}). \\
+1. & \text{The domains have the no shared object} \ (\text{the no single subject}). \\
+2. & \text{The domains have the no shared method} \ (\text{the no single instrument}). \\
+3. & \text{The family resemblance holds the parts} \ (\text{the no mere essence}). \\
 \hline
-4. & \therefore \text{The *philosophy* is the *family*} \ (\text{the *pluralist* *insight*}), \ \text{and the *unity* is the *convenient*} \ (\text{the *no* *mere} \ \text{fact*}), \ \text{and the *no* *single* *discipline*} \ (\text{the *no* *mere} \ \text{institution*}).}
+4. & \therefore \text{The philosophy is the family} \ (\text{the pluralist insight}), \ \text{and the unity is the convenient} \ (\text{the no mere} \ \text{fact}), \ \text{and the no single discipline} \ (\text{the no mere} \ \text{institution}).
 \end{array}
 $$
 
@@ -163,11 +163,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *ethics* *requires* the *epistemic* *question*} \ (\text{the *no* *mere* *isolation*}). \\
-2. & \text{The *mind* *requires* the *epistemic* *question*} \ (\text{the *no* *mere* *isolation*}). \\
-3. & \text{The *language* and the *value* *require* the *metaphysical*} \ (\text{the *no* *mere* *autonomy*}). \\
+1. & \text{The ethics requires the epistemic question} \ (\text{the no mere isolation}). \\
+2. & \text{The mind requires the epistemic question} \ (\text{the no mere isolation}). \\
+3. & \text{The language and the value require the metaphysical} \ (\text{the no mere autonomy}). \\
 \hline
-4. & \therefore \text{The *domains* *interdepend*} \ (\text{the *no* *mere} \ \text{neighbors*}), \ \text{and the *interdependence* *grounds* the *unity*} \ (\text{the *no* *mere} \ \text{convention*}), \ \text{and the *no* *autonomy* *is* the *result*} \ (\text{the *no* *mere} \ \text{island*}).}
+4. & \therefore \text{The domains interdepend} \ (\text{the no mere} \ \text{neighbors}), \ \text{and the interdependence grounds the unity} \ (\text{the no mere} \ \text{convention}), \ \text{and the no autonomy is the result} \ (\text{the no mere} \ \text{island}).
 \end{array}
 $$
 
@@ -190,18 +190,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *metaphysics*} \ \leftrightarrows \ \text{the *epistemology*} \ \leftrightarrows \ \text{the *language*} \ \leftrightarrows \ \text{the *value*} \ (\text{the *no* *mere* *foundation*})
+\text{The metaphysics} \ \leftrightarrows \ \text{the epistemology} \ \leftrightarrows \ \text{the language} \ \leftrightarrows \ \text{the value} \ (\text{the no mere foundation})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *metaphysics* *requires* the *epistemic* *access*} \ (\text{the *no* *mere* *speculation*}). \\
-2. & \text{The *epistemology* *requires* the *metaphysical* *truth*} \ (\text{the *no* *mere* *coherence*}). \\
-3. & \text{The *two* *require* the *language* and the *value*} \ (\text{the *no* *mere* *autonomy*}). \\
+1. & \text{The metaphysics requires the epistemic access} \ (\text{the no mere speculation}). \\
+2. & \text{The epistemology requires the metaphysical truth} \ (\text{the no mere coherence}). \\
+3. & \text{The two require the language and the value} \ (\text{the no mere autonomy}). \\
 \hline
-4. & \therefore \text{The *dependence* is *reciprocal*} \ (\text{the *no* *mere} \ \text{foundation*}), \ \text{and the *no* *foundation* is the *result*} \ (\text{the *no* *mere} \ \text{archimedean*}), \ \text{and the *equilibrium* is the *method*} \ (\text{the *no* *mere} \ \text{system*}).}
+4. & \therefore \text{The dependence is reciprocal} \ (\text{the no mere} \ \text{foundation}), \ \text{and the no foundation is the result} \ (\text{the no mere} \ \text{archimedean}), \ \text{and the equilibrium is the method} \ (\text{the no mere} \ \text{system}).
 \end{array}
 $$
 
@@ -225,11 +225,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *epistemic* *norm* is the *value*} \ (\text{the *no* *mere* *description*}). \\
-2. & \text{The *value* *requires* the *epistemic* *access*} \ (\text{the *no* *mere* *intuition*}). \\
-3. & \text{The *two* *require* the *whole* of the *inquiry*} \ (\text{the *no* *mere* *specialism*}). \\
+1. & \text{The epistemic norm is the value} \ (\text{the no mere description}). \\
+2. & \text{The value requires the epistemic access} \ (\text{the no mere intuition}). \\
+3. & \text{The two require the whole of the inquiry} \ (\text{the no mere specialism}). \\
 \hline
-4. & \therefore \text{The *dependence* is the *deepest*} \ (\text{the *no* *mere} \ \text{neighborhood*}), \ \text{and the *normative* is the *common*} \ (\text{the *no* *mere} \ \text{fact*}), \ \text{and the *unity* is the *normative*} \ (\text{the *no* *mere} \ \text{description*}).}
+4. & \therefore \text{The dependence is the deepest} \ (\text{the no mere} \ \text{neighborhood}), \ \text{and the normative is the common} \ (\text{the no mere} \ \text{fact}), \ \text{and the unity is the normative} \ (\text{the no mere} \ \text{description}).
 \end{array}
 $$
 
@@ -269,11 +269,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *progress* *requires* the *division*} \ (\text{the *no* *mere* *dilettantism*}). \\
-2. & \text{The *whole* *requires* the *survey*} \ (\text{the *no* *mere* *fragment*}). \\
-3. & \text{The *two* *pull* *apart*} \ (\text{the *no* *mere* *harmony*}). \\
+1. & \text{The progress requires the division} \ (\text{the no mere dilettantism}). \\
+2. & \text{The whole requires the survey} \ (\text{the no mere fragment}). \\
+3. & \text{The two pull apart} \ (\text{the no mere harmony}). \\
 \hline
-4. & \therefore \text{The *dilemma* *is* the *structural*} \ (\text{the *no* *mere} \ \text{preference*}), \ \text{and the *choice* *is* the *costly*} \ (\text{the *no* *mere} \ \text{free*}), \ \text{and the *no* *harmony* *is* the *condition*} \ (\text{the *no* *mere} \ \text{ideal*}).}
+4. & \therefore \text{The dilemma is the structural} \ (\text{the no mere} \ \text{preference}), \ \text{and the choice is the costly} \ (\text{the no mere} \ \text{free}), \ \text{and the no harmony is the condition} \ (\text{the no mere} \ \text{ideal}).
 \end{array}
 $$
 
@@ -285,11 +285,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *literature* *exceeds* the *single* *capacity*} \ (\text{the *no* *mere* *polymath*}). \\
-2. & \text{The *competence* *requires* the *depth*} \ (\text{the *no* *mere* *survey*}). \\
-3. & \text{The *depth* *requires* the *division*} \ (\text{the *no* *mere* *generalist*}). \\
+1. & \text{The literature exceeds the single capacity} \ (\text{the no mere polymath}). \\
+2. & \text{The competence requires the depth} \ (\text{the no mere survey}). \\
+3. & \text{The depth requires the division} \ (\text{the no mere generalist}). \\
 \hline
-4. & \therefore \text{The *specialization* *is* *necessary*} \ (\text{the *no* *mere} \ \text{choice*}), \ \text{and the *division* *yields* the *progress*} \ (\text{the *no* *mere} \ \text{fashion*}), \ \text{and the *no* *polymath* *is* the *result*} \ (\text{the *no* *mere} \ \text{ideal*}).}
+4. & \therefore \text{The specialization is necessary} \ (\text{the no mere} \ \text{choice}), \ \text{and the division yields the progress} \ (\text{the no mere} \ \text{fashion}), \ \text{and the no polymath is the result} \ (\text{the no mere} \ \text{ideal}).
 \end{array}
 $$
 
@@ -313,11 +313,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *philosophy* *aims* at the *synoptic*} \ (\text{the *no* *mere* *detail*}). \\
-2. & \text{The *synoptic* *requires* the *survey*} \ (\text{the *no* *mere* *specialism*}). \\
-3. & \text{The *survey* *is* the *philosophical*} \ (\text{the *no* *mere* *second*-*order*}). \\
+1. & \text{The philosophy aims at the synoptic} \ (\text{the no mere detail}). \\
+2. & \text{The synoptic requires the survey} \ (\text{the no mere specialism}). \\
+3. & \text{The survey is the philosophical} \ (\text{the no mere second-order}). \\
 \hline
-4. & \therefore \text{The *specialization* *without* the *survey* *fails*} \ (\text{the *no* *mere} \ \text{technique*}), \ \text{and the *whole* *is* the *goal*} \ (\text{the *no* *mere} \ \text{fragment*}), \ \text{and the *no* *mere* *detail* *is* the *philosophy*} \ (\text{the *no* *mere} \ \text{technique*}).}
+4. & \therefore \text{The specialization without the survey fails} \ (\text{the no mere} \ \text{technique}), \ \text{and the whole is the goal} \ (\text{the no mere} \ \text{fragment}), \ \text{and the no mere detail is the philosophy} \ (\text{the no mere} \ \text{technique}).
 \end{array}
 $$
 
@@ -340,18 +340,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *serial* *specialism*} \ \Rightarrow \ \text{the *periodic* *synthesis*} \ (\text{the *no* *mere* *compromise*})
+\text{The serial specialism} \ \Rightarrow \ \text{the periodic synthesis} \ (\text{the no mere compromise})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *specialism* *yields* the *results*} \ (\text{the *no* *mere* *detail*}). \\
-2. & \text{The *synthesis* *yields* the *map*} \ (\text{the *no* *mere* *fragment*}). \\
-3. & \text{The *two* *are* *complementary*} \ (\text{the *no* *mere* *trade*-*off*}). \\
+1. & \text{The specialism yields the results} \ (\text{the no mere detail}). \\
+2. & \text{The synthesis yields the map} \ (\text{the no mere fragment}). \\
+3. & \text{The two are complementary} \ (\text{the no mere trade-off}). \\
 \hline
-4. & \therefore \text{The *serial* *and* the *periodic* *are* the *solution*} \ (\text{the *no* *mere} \ \text{compromise*}), \ \text{and the *map* *is* the *second*-*order*} \ (\text{the *no* *mere} \ \text{content*}), \ \text{and the *no* *mere* *trade*-*off* *is* the *result*} \ (\text{the *no* *mere} \ \text{tragedy*}).}
+4. & \therefore \text{The serial and the periodic are the solution} \ (\text{the no mere} \ \text{compromise}), \ \text{and the map is the second-order} \ (\text{the no mere} \ \text{content}), \ \text{and the no mere trade-off is the result} \ (\text{the no mere} \ \text{tragedy}).
 \end{array}
 $$
 
@@ -390,18 +390,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *philosophy*} \ \subset \ \text{the *sciences*} \ (\text{the *no* *mere* *autonomy*}) \ \wedge \ \text{the *no* *first* *philosophy*} \ (\text{the *no* *mere* *foundation*})
+\text{The philosophy} \ \subset \ \text{the sciences} \ (\text{the no mere autonomy}) \ \wedge \ \text{the no first philosophy} \ (\text{the no mere foundation})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *philosophy* *generalizes* the *science*} \ (\text{the *no* *mere* *autonomy*}). \\
-2. & \text{The *generalization* *requires* the *empirical*} \ (\text{the *no* *mere* *armchair*}). \\
-3. & \text{The *no* *first* *philosophy*} \ (\text{the *no* *mere* *foundation*}). \\
+1. & \text{The philosophy generalizes the science} \ (\text{the no mere autonomy}). \\
+2. & \text{The generalization requires the empirical} \ (\text{the no mere armchair}). \\
+3. & \text{The no first philosophy} \ (\text{the no mere foundation}). \\
 \hline
-4. & \therefore \text{The *continuity* *is* the *doctrine*} \ (\text{the *Quine* *insight*}), \ \text{and the *no* *autonomy* *is* the *result*} \ (\text{the *no* *mere} \ \text{foundation*}), \ \text{and the *science* *is* the *model*} \ (\text{the *no* *mere} \ \text{speculation*}).}
+4. & \therefore \text{The continuity is the doctrine} \ (\text{the Quine insight}), \ \text{and the no autonomy is the result} \ (\text{the no mere} \ \text{foundation}), \ \text{and the science is the model} \ (\text{the no mere} \ \text{speculation}).
 \end{array}
 $$
 
@@ -424,18 +424,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *philosophical* *question*} \ = \ \text{the *conditions* *of* *intelligibility*} \ (\text{the *no* *mere* *science*})
+\text{The philosophical question} \ = \ \text{the conditions of intelligibility} \ (\text{the no mere science})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *question* *is* the *second*-*order*} \ (\text{the *no* *mere* *science*}). \\
-2. & \text{The *second*-*order* *is* the *distinct*} \ (\text{the *no* *mere* *continuity*}). \\
-3. & \text{The *distinct* *is* the *autonomous*} \ (\text{the *no* *mere* *reduction*}). \\
+1. & \text{The question is the second-order} \ (\text{the no mere science}). \\
+2. & \text{The second-order is the distinct} \ (\text{the no mere continuity}). \\
+3. & \text{The distinct is the autonomous} \ (\text{the no mere reduction}). \\
 \hline
-4. & \therefore \text{The *autonomy* *is* the *doctrine*} \ (\text{the *no* *mere} \ \text{continuity*}), \ \text{and the *distinct* *is* the *object*} \ (\text{the *no* *mere} \ \text{science*}), \ \text{and the *no* *reduction* *is* the *result*} \ (\text{the *no* *mere} \ \text{continuity*}).}
+4. & \therefore \text{The autonomy is the doctrine} \ (\text{the no mere} \ \text{continuity}), \ \text{and the distinct is the object} \ (\text{the no mere} \ \text{science}), \ \text{and the no reduction is the result} \ (\text{the no mere} \ \text{continuity}).
 \end{array}
 $$
 
@@ -458,18 +458,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *no* *sharp* *line*} \ \wedge \ \text{the *gradient*} \ (\text{the *no* *mere* *chaos*}) \ \wedge \ \text{the *second*-*order*} \ (\text{the *no* *mere* *first*-*order*})
+\text{The no sharp line} \ \wedge \ \text{the gradient} \ (\text{the no mere chaos}) \ \wedge \ \text{the second-order} \ (\text{the no mere first-order})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *no* *sharp* *line*} \ (\text{the *no* *mere* *criterion*}). \\
-2. & \text{The *gradient* *is* the *second*-*order*} \ (\text{the *no* *mere* *first*-*order*}). \\
-3. & \text{The *second*-*order* *is* the *practice*} \ (\text{the *no* *mere* *rule*}). \\
+1. & \text{The no sharp line} \ (\text{the no mere criterion}). \\
+2. & \text{The gradient is the second-order} \ (\text{the no mere first-order}). \\
+3. & \text{The second-order is the practice} \ (\text{the no mere rule}). \\
 \hline
-4. & \therefore \text{The *demarcation* is the *gradient*} \ (\text{the *no* *mere} \ \text{criterion*}), \ \text{and the *philosophy* is the *second*-*order*} \ (\text{the *no* *mere} \ \text{first*-*order*}), \ \text{and the *practice* is the *result*} \ (\text{the *no* *mere} \ \text{rule*}).}
+4. & \therefore \text{The demarcation is the gradient} \ (\text{the no mere} \ \text{criterion}), \ \text{and the philosophy is the second-order} \ (\text{the no mere} \ \text{first-order}), \ \text{and the practice is the result} \ (\text{the no mere} \ \text{rule}).
 \end{array}
 $$
 
@@ -508,18 +508,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *philosophy*} \ \leftarrow \ \text{the *humanities*} \ (\text{the *no* *mere* *ornament*}) \ \wedge \ \text{the *thick* *description*} \ (\text{the *no* *mere* *abstraction*})
+\text{The philosophy} \ \leftarrow \ \text{the humanities} \ (\text{the no mere ornament}) \ \wedge \ \text{the thick description} \ (\text{the no mere abstraction})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *literature* *yields* the *thick* *description*} \ (\text{the *no* *mere* *ornament*}). \\
-2. & \text{The *history* *yields* the *context*} \ (\text{the *no* *mere* *abstraction*}). \\
-3. & \text{The *religion* *yields* the *practice*} \ (\text{the *no* *mere* *doctrine*}). \\
+1. & \text{The literature yields the thick description} \ (\text{the no mere ornament}). \\
+2. & \text{The history yields the context} \ (\text{the no mere abstraction}). \\
+3. & \text{The religion yields the practice} \ (\text{the no mere doctrine}). \\
 \hline
-4. & \therefore \text{The *humanities* *are* the *data*} \ (\text{the *no* *mere} \ \text{ornament*}), \ \text{and the *description* *is* the *philosophical*} \ (\text{the *no* *mere} \ \text{example*}), \ \text{and the *no* *mere* *science* *is* the *result*} \ (\text{the *no* *mere} \ \text{abstraction*}).}
+4. & \therefore \text{The humanities are the data} \ (\text{the no mere} \ \text{ornament}), \ \text{and the description is the philosophical} \ (\text{the no mere} \ \text{example}), \ \text{and the no mere science is the result} \ (\text{the no mere} \ \text{abstraction}).
 \end{array}
 $$
 
@@ -542,18 +542,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *philosophy*} \ = \ \text{the *humanistic* *discipline*} \ (\text{the *no* *mere* *science*}) \ \wedge \ \text{the *understanding*} \ (\text{the *no* *mere* *prediction*})
+\text{The philosophy} \ = \ \text{the humanistic discipline} \ (\text{the no mere science}) \ \wedge \ \text{the understanding} \ (\text{the no mere prediction})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *philosophy* *aims* at the *understanding*} \ (\text{the *no* *mere* *prediction*}). \\
-2. & \text{The *understanding* *draws* on the *history*} \ (\text{the *no* *mere* *abstraction*}). \\
-3. & \text{The *humanistic* *is* the *distinct*} \ (\text{the *no* *mere* *science*}). \\
+1. & \text{The philosophy aims at the understanding} \ (\text{the no mere prediction}). \\
+2. & \text{The understanding draws on the history} \ (\text{the no mere abstraction}). \\
+3. & \text{The humanistic is the distinct} \ (\text{the no mere science}). \\
 \hline
-4. & \therefore \text{The *philosophy* is the *humanistic*} \ (\text{the *Williams* *insight*}), \ \text{and the *understanding* is the *goal*} \ (\text{the *no* *mere} \ \text{prediction*}), \ \text{and the *no* *mere* *abstraction* *is* the *result*} \ (\text{the *no* *mere} \ \text{science*}).}
+4. & \therefore \text{The philosophy is the humanistic} \ (\text{the Williams insight}), \ \text{and the understanding is the goal} \ (\text{the no mere} \ \text{prediction}), \ \text{and the no mere abstraction is the result} \ (\text{the no mere} \ \text{science}).
 \end{array}
 $$
 
@@ -592,18 +592,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *philosophy* of *X*} \ = \ \text{the *apparatus*} \ \otimes \ \text{the *domain* *X*} \ (\text{the *no* *mere* *inventory*})
+\text{The philosophy of X} \ = \ \text{the apparatus} \ \otimes \ \text{the domain X} \ (\text{the no mere inventory})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *apparatus* *applies* to the *domain*} \ (\text{the *no* *mere* *inventory*}). \\
-2. & \text{The *domain* *tests* the *apparatus*} \ (\text{the *no* *mere* *ornament*}). \\
-3. & \text{The *two* *are* *reciprocal*} \ (\text{the *no* *mere* *one*-*way*}). \\
+1. & \text{The apparatus applies to the domain} \ (\text{the no mere inventory}). \\
+2. & \text{The domain tests the apparatus} \ (\text{the no mere ornament}). \\
+3. & \text{The two are reciprocal} \ (\text{the no mere one-way}). \\
 \hline
-4. & \therefore \text{The *philosophy* of *X* is the *reciprocal*} \ (\text{the *no* *mere} \ \text{inventory*}), \ \text{and the *domain* *fertilizes* the *general*} \ (\text{the *no* *mere} \ \text{ornament*}), \ \text{and the *no* *mere* *inventory* *is* the *result*} \ (\text{the *no* *mere} \ \text{dependence*}).}
+4. & \therefore \text{The philosophy of X is the reciprocal} \ (\text{the no mere} \ \text{inventory}), \ \text{and the domain fertilizes the general} \ (\text{the no mere} \ \text{ornament}), \ \text{and the no mere inventory is the result} \ (\text{the no mere} \ \text{dependence}).
 \end{array}
 $$
 
@@ -635,18 +635,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *X*-ification} \ : \ \text{the *philosophy* of *X*} \ \rightarrow \ \text{the *X* *studies*} \ (\text{the *no* *mere* *apparatus*})
+\text{The X-ification} \ : \ \text{the philosophy of X} \ \rightarrow \ \text{the X studies} \ (\text{the no mere apparatus})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *general* *question* *is* *absorbed*} \ (\text{the *no* *mere* *distinct*}). \\
-2. & \text{The *second*-*order* *becomes* the *first*-*order*} \ (\text{the *no* *mere* *order*}). \\
-3. & \text{The *apparatus* *vanishes*} \ (\text{the *no* *mere* *content*}). \\
+1. & \text{The general question is absorbed} \ (\text{the no mere distinct}). \\
+2. & \text{The second-order becomes the first-order} \ (\text{the no mere order}). \\
+3. & \text{The apparatus vanishes} \ (\text{the no mere content}). \\
 \hline
-4. & \therefore \text{The *X*-ification* *fails*} \ (\text{the *no* *mere} \ \text{handmaiden*}), \ \text{and the *distinct* *is* the *loss*} \ (\text{the *no* *mere} \ \text{inventory*}), \ \text{and the *second*-*order* *is* the *condition*} \ (\text{the *no* *mere} \ \text{content*}).}
+4. & \therefore \text{The X-ification fails} \ (\text{the no mere} \ \text{handmaiden}), \ \text{and the distinct is the loss} \ (\text{the no mere} \ \text{inventory}), \ \text{and the second-order is the condition} \ (\text{the no mere} \ \text{content}).
 \end{array}
 $$
 
@@ -670,11 +670,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *domain* *tests* the *apparatus*} \ (\text{the *no* *mere* *ornament*}). \\
-2. & \text{The *domain* *fertilizes* the *general*} \ (\text{the *no* *mere* *one*-*way*}). \\
-3. & \text{The *bridge* *connects* the *inquiries*} \ (\text{the *no* *mere* *insulation*}). \\
+1. & \text{The domain tests the apparatus} \ (\text{the no mere ornament}). \\
+2. & \text{The domain fertilizes the general} \ (\text{the no mere one-way}). \\
+3. & \text{The bridge connects the inquiries} \ (\text{the no mere insulation}). \\
 \hline
-4. & \therefore \text{The *philosophy* of *X* *yields* the *virtues*} \ (\text{the *no* *mere} \ \text{danger*}), \ \text{and the *test* *is* the *value*} \ (\text{the *no* *mere} \ \text{ornament*}), \ \text{and the *bridge* *is* the *result*} \ (\text{the *no* *mere} \ \text{insulation*}).}
+4. & \therefore \text{The philosophy of X yields the virtues} \ (\text{the no mere} \ \text{danger}), \ \text{and the test is the value} \ (\text{the no mere} \ \text{ornament}), \ \text{and the bridge is the result} \ (\text{the no mere} \ \text{insulation}).
 \end{array}
 $$
 
@@ -725,11 +725,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *problems* *recur* *across* the *domains*} \ (\text{the *no* *mere* *fashion*}). \\
-2. & \text{The *recurrence* is the *form*} \ (\text{the *no* *mere* *identity*}). \\
-3. & \text{The *form* *grounds* the *unity*} \ (\text{the *no* *mere* *convention*}). \\
+1. & \text{The problems recur across the domains} \ (\text{the no mere fashion}). \\
+2. & \text{The recurrence is the form} \ (\text{the no mere identity}). \\
+3. & \text{The form grounds the unity} \ (\text{the no mere convention}). \\
 \hline
-4. & \therefore \text{The *permanent* *grounds* the *unity*} \ (\text{the *no* *mere} \ \text{family*}), \ \text{and the *form* *is* the *object*} \ (\text{the *no* *mere} \ \text{topic*}), \ \text{and the *recurrence* *is* the *evidence*} \ (\text{the *no* *mere} \ \text{coincidence*}).}
+4. & \therefore \text{The permanent grounds the unity} \ (\text{the no mere} \ \text{family}), \ \text{and the form is the object} \ (\text{the no mere} \ \text{topic}), \ \text{and the recurrence is the evidence} \ (\text{the no mere} \ \text{coincidence}).
 \end{array}
 $$
 
@@ -763,11 +763,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *local* *are* the *generated*} \ (\text{the *no* *mere* *timeless*}). \\
-2. & \text{The *local* *are* the *progress*} \ (\text{the *no* *mere* *fashion*}). \\
-3. & \text{The *local* *are* the *distinct*} \ (\text{the *no* *mere* *application*}). \\
+1. & \text{The local are the generated} \ (\text{the no mere timeless}). \\
+2. & \text{The local are the progress} \ (\text{the no mere fashion}). \\
+3. & \text{The local are the distinct} \ (\text{the no mere application}). \\
 \hline
-4. & \therefore \text{The *local* *are* the *real*} \ (\text{the *no* *mere} \ \text{permanent*}), \ \text{and the *progress* *is* the *local*} \ (\text{the *no* *mere} \ \text{global*}), \ \text{and the *distinct* *is* the *value*} \ (\text{the *no* *mere} \ \text{application*}).}
+4. & \therefore \text{The local are the real} \ (\text{the no mere} \ \text{permanent}), \ \text{and the progress is the local} \ (\text{the no mere} \ \text{global}), \ \text{and the distinct is the value} \ (\text{the no mere} \ \text{application}).
 \end{array}
 $$
 
@@ -790,18 +790,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *unifying* *method*} \ = \ \text{the *argument*} \ \wedge \ \text{the *distinction*} \ \wedge \ \text{the *equilibrium*} \ \wedge \ \text{the *diagnosis*}
+\text{The unifying method} \ = \ \text{the argument} \ \wedge \ \text{the distinction} \ \wedge \ \text{the equilibrium} \ \wedge \ \text{the diagnosis}
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *method* *transfers* *across* the *domains*} \ (\text{the *no* *mere* *insulation*}). \\
-2. & \text{The *transfer* *is* the *evidence*} \ (\text{the *no* *mere* *convention*}). \\
-3. & \text{The *evidence* *grounds* the *unity*} \ (\text{the *no* *mere* *family*}). \\
+1. & \text{The method transfers across the domains} \ (\text{the no mere insulation}). \\
+2. & \text{The transfer is the evidence} \ (\text{the no mere convention}). \\
+3. & \text{The evidence grounds the unity} \ (\text{the no mere family}). \\
 \hline
-4. & \therefore \text{The *method* *unites*} \ (\text{the *no* *mere} \ \text{family*}), \ \text{and the *form* *is* the *object*} \ (\text{the *no* *mere} \ \text{content*}), \ \text{and the *transfer* *is* the *proof*} \ (\text{the *no* *mere} \ \text{institution*}).}
+4. & \therefore \text{The method unites} \ (\text{the no mere} \ \text{family}), \ \text{and the form is the object} \ (\text{the no mere} \ \text{content}), \ \text{and the transfer is the proof} \ (\text{the no mere} \ \text{institution}).
 \end{array}
 $$
 
@@ -835,11 +835,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *concept* *recurs* *across* the *chapters*} \ (\text{the *no* *mere* *chapter*}). \\
-2. & \text{The *recurrence* *reveals* the *dependence*} \ (\text{the *no* *mere* *isolation*}). \\
-3. & \text{The *dependence* *is* the *unity*} \ (\text{the *no* *mere* *claim*}). \\
+1. & \text{The concept recurs across the chapters} \ (\text{the no mere chapter}). \\
+2. & \text{The recurrence reveals the dependence} \ (\text{the no mere isolation}). \\
+3. & \text{The dependence is the unity} \ (\text{the no mere claim}). \\
 \hline
-4. & \therefore \text{The *tracing* *demonstrates* the *unity*} \ (\text{the *no* *mere} \ \text{assertion*}), \ \text{and the *form* *is* the *object*} \ (\text{the *no* *mere} \ \text{chapter*}), \ \text{and the *book* *is* the *whole*} \ (\text{the *no* *mere} \ \text{anthology*}).}
+4. & \therefore \text{The tracing demonstrates the unity} \ (\text{the no mere} \ \text{assertion}), \ \text{and the form is the object} \ (\text{the no mere} \ \text{chapter}), \ \text{and the book is the whole} \ (\text{the no mere} \ \text{anthology}).
 \end{array}
 $$
 
@@ -920,12 +920,12 @@ The *table* *is* the *map*, not the *verdict*. The *reader* who *wants* to *choo
 
 $$
 \begin{array}{ll}
-1. & \text{The *formal* *unity*} \ (\text{the *no* *mere* *family*}) \ \text{and the *material* *plurality*} \ (\text{the *no* *mere* *unity*}). \\
-2. & \text{The *interdependence*} \ (\text{the *no* *mere* *courtesy*}) \ \text{and the *equilibrium*} \ (\text{the *no* *mere* *foundation*}). \\
-3. & \text{The *complementarity*} \ (\text{the *no* *mere* *trade*-*off*}) \ \text{and the *second*-*order*} \ (\text{the *no* *mere* *first*-*order*}). \\
-4. & \text{The *X*-*ification* *as* the *danger*} \ (\text{the *no* *mere* *handmaiden*}) \ \text{and the *survey*} \ (\text{the *no* *mere* *fragment*}). \\
+1. & \text{The formal unity} \ (\text{the no mere family}) \ \text{and the material plurality} \ (\text{the no mere unity}). \\
+2. & \text{The interdependence} \ (\text{the no mere courtesy}) \ \text{and the equilibrium} \ (\text{the no mere foundation}). \\
+3. & \text{The complementarity} \ (\text{the no mere trade-off}) \ \text{and the second-order} \ (\text{the no mere first-order}). \\
+4. & \text{The X-ification as the danger} \ (\text{the no mere handmaiden}) \ \text{and the survey} \ (\text{the no mere fragment}). \\
 \hline
-5. & \therefore \text{The *formal* *unity*} \ (\text{the *integration* *insight*}), \ *qualified* \text{by the *admission* that the *object*, the *method*, the *interdependence*, the *complementarity*, the *relations*, and the *permanent* *remain* *contested*.}
+5. & \therefore \text{The formal unity} \ (\text{the integration insight}), \text{qualified by the admission that the object, the method, the interdependence, the complementarity, the relations, and the permanent remain contested.}
 \end{array}
 $$
 

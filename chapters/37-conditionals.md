@@ -59,10 +59,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *material* *conditional* is *true* whenever the *antecedent* is *false* (the *definition*).} \\
-2. & \text{The *ordinary* “if” is *not* *true* whenever the *antecedent* is *false* (the *intuition*).} \\
+1. & \text{The material conditional is true whenever the antecedent is false (the definition).} \\
+2. & \text{The ordinary “if” is not true whenever the antecedent is false (the intuition).} \\
 \hline
-3. & \therefore \text{The *material* *conditional* is *not* the *ordinary* “if” (the *paradoxes*).}
+3. & \therefore \text{The material conditional is not the ordinary “if” (the paradoxes).}
 \end{array}
 $$
 
@@ -76,11 +76,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *material* *conditional* *captures* the *truth* *conditions* of "if".} \\
-2. & \text{The *assertion* of a *conditional* *carries* the *implicature* that the *antecedent* is *possible* (the *maxim* of *quantity*: the *speaker* *would* *not* *assert* a *vacuous* *conditional*).} \\
-3. & \text{The *implicature* *explains* the *intuition* (the *assertion* *seems* *false* because it *implicates* something *false*).} \\
+1. & \text{The material conditional captures the truth conditions of “if”.} \\
+2. & \text{The assertion of a conditional carries the implicature that the antecedent is possible (the maxim of quantity: the speaker would not assert a vacuous conditional).} \\
+3. & \text{The implicature explains the intuition (the assertion seems false because it implicates something false).} \\
 \hline
-4. & \therefore \text{The *material* *conditional* *is* the *conditional* (the *pragmatist* *response*).}
+4. & \therefore \text{The material conditional is the conditional (the pragmatist response).}
 \end{array}
 $$
 
@@ -143,11 +143,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *material* *conditional* *fails* on the *paradoxes* (the *vacuity*, the *explosion*).} \\
-2. & \text{The *failure* *is* *explained* by the *absence* of *necessity* (the *material* *conditional* *is* *contingent* on the *truth* *values*).} \\
-3. & \text{The *conditional* *requires* the *necessity* (the *connection* *between* the *antecedent* and the *consequent*).} \\
+1. & \text{The material conditional fails on the paradoxes (the vacuity, the explosion).} \\
+2. & \text{The failure is explained by the absence of necessity (the material conditional is contingent on the truth values).} \\
+3. & \text{The conditional requires the necessity (the connection between the antecedent and the consequent).} \\
 \hline
-4. & \therefore \text{The *conditional* is the *strict* *conditional* (the *modal* *analysis*).}
+4. & \therefore \text{The conditional is the strict conditional (the modal analysis).}
 \end{array}
 $$
 
@@ -259,11 +259,11 @@ where $f(w, p)$ is the *set* of *worlds* *nearest* to $w$ *in* which $p$ *obtain
 
 $$
 \begin{array}{ll}
-1. & \text{The *counterfactual* is *analyzed* by the *possible* *worlds* (the *semantics*).} \\
-2. & \text{The *possible* *worlds* are *defined* by the *counterfactuals* (the *worlds* *are* the *ways* the *world* *could* be; the *modality*).} \\
-3. & \text{The *two* *definitions* *presuppose* each other.} \\
+1. & \text{The counterfactual is analyzed by the possible worlds (the semantics).} \\
+2. & \text{The possible worlds are defined by the counterfactuals (the worlds are the ways the world could be; the modality).} \\
+3. & \text{The two definitions presuppose each other.} \\
 \hline
-4. & \therefore \text{The *analysis* is *circular* (the *circularity* *worry*).}
+4. & \therefore \text{The analysis is circular (the circularity worry).}
 \end{array}
 $$
 
@@ -320,13 +320,13 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Assume } P(p \to q) = P(q \mid p) \text{ (the *Adams* *thesis*).} \\
-2. & \text{The *thesis* *implies* that the *conditional* is a *proposition* (the *truth*-*conditional* *semantics*).} \\
-3. & \text{The *proposition* *must* be *either* the *material* *conditional* *or* a *stronger* *conditional*.} \\
-4. & \text{The *material* *conditional* *fails* the *thesis* (the *triviality*).} \\
-5. & \text{The *stronger* *conditional* *fails* the *substitution* (the *triviality*).} \\
+1. & \text{Assume } P(p \to q) = P(q \mid p) \text{ (the Adams thesis).} \\
+2. & \text{The thesis implies that the conditional is a proposition (the truth-conditional semantics).} \\
+3. & \text{The proposition must be either the material conditional or a stronger conditional.} \\
+4. & \text{The material conditional fails the thesis (the triviality).} \\
+5. & \text{The stronger conditional fails the substitution (the triviality).} \\
 \hline
-6. & \therefore \text{The *thesis* *implies* the *triviality* (the *conditional* *probability* *is* *either* 0 *or* 1).}
+6. & \therefore \text{The thesis implies the triviality (the conditional probability is either 0 or 1).}
 \end{array}
 $$
 
@@ -347,17 +347,17 @@ $$
 **The *structure***.
 
 $$
-Y_x(u) = \text{the *value* of } Y \text{ *under* the *intervention* } do(X = x) \text{ *in* the *world* } u
+Y_x(u) = \text{the value of } Y \text{ under the intervention } do(X = x) \text{ in the world } u
 $$
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
-1. & \text{The *counterfactual* "if } X \text{ were } x, Y \text{ would be } y" \text{ is *defined* by the *intervention* (the *do*-*calculus*).} \\
-2. & \text{The *intervention* is *specified* by the *structural* *equations* (the *causal* *model*).} \\
+1. & \text{The counterfactual “if } X \text{ were } x, Y \text{ would be } y” \text{ is defined by the intervention (the do-calculus).} \\
+2. & \text{The intervention is specified by the structural equations (the causal model).} \\
 \hline
-3. & \therefore \text{The *counterfactual* is *grounded* in the *causal* *model* (the *causal* *approach*).}
+3. & \therefore \text{The counterfactual is grounded in the causal model (the causal approach).}
 \end{array}
 $$
 
@@ -422,11 +422,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *but*-*for* *test* *requires* the *counterfactual} \neg a \ \Box\!\to\ \neg h \text{ (the *harm* *would* *not* have *occurred* *without* the *act*).} \\
-2. & \text{The *counterfactual* *requires* the *nearest* *world* (the *similarity* *ordering*; §3.2).} \\
-3. & \text{The *ordering* *determines* the *attribution* (the *causal* *claim*).} \\
+1. & \text{The but-for test requires the counterfactual} \neg a \ \Box\!\to\ \neg h \text{ (the harm would not have occurred without the act).} \\
+2. & \text{The counterfactual requires the nearest world (the similarity ordering; §3.2).} \\
+3. & \text{The ordering determines the attribution (the causal claim).} \\
 \hline
-4. & \therefore \text{The *legal* *attribution* *presupposes* the *counterfactual* *semantics* (the *law* *is* *a* *test* *case* for the *semantics*).}
+4. & \therefore \text{The legal attribution presupposes the counterfactual semantics (the law is a test case for the semantics).}
 \end{array}
 $$
 
@@ -454,11 +454,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *agent* is *responsible* for the *action* when the *action* *makes* *a* *difference* (the *difference*-*making* *condition*).} \\
-2. & \text{The *difference* is *captured* by the *counterfactual} (the \textit{action} \ \Box\!\to\ \textit{outcome}). \\
-3. & \text{The *counterfactual* *depends* on the *nearest* *world* (the *similarity* *ordering*).} \\
+1. & \text{The agent is responsible for the action when the action makes a difference (the difference-making condition).} \\
+2. & \text{The difference is captured by the counterfactual} \ (\text{the action} \ \Box\!\to\ \text{the outcome}). \\
+3. & \text{The counterfactual depends on the nearest world (the similarity ordering).} \\
 \hline
-4. & \therefore \text{The *responsibility* *is* *grounded* in the *counterfactual* *dependence* (the *structure* *of* *responsibility*).}
+4. & \therefore \text{The responsibility is grounded in the counterfactual dependence (the structure of responsibility).}
 \end{array}
 $$
 
@@ -579,11 +579,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *causation* is *analyzed* by the *counterfactual} (\neg c \ \Box\!\to\ \neg e; \text{ Ch. 18, §2.1}).} \\
-2. & \text{The *counterfactual* is *analyzed* by the *similarity* *ordering* (the *nearest* *world*; §3.2).} \\
-3. & \text{The *ordering* *depends* on the *causal* *structure* (the *legal* *regularities*, the *causal* *laws*).} \\
+1. & \text{The causation is analyzed by the counterfactual} (\neg c \ \Box\!\to\ \neg e; \text{ Ch. 18, §2.1}). \\
+2. & \text{The counterfactual is analyzed by the similarity ordering (the nearest world; §3.2).} \\
+3. & \text{The ordering depends on the causal structure (the legal regularities, the causal laws).} \\
 \hline
-4. & \therefore \text{The *two* *analyses* *presuppose* each other (the *circularity* *worry*).}
+4. & \therefore \text{The two analyses presuppose each other (the circularity worry).}
 \end{array}
 $$
 
@@ -613,11 +613,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *causation* is *defined* by the *intervention} (X \text{ causes } Y \text{ iff the *intervention* on } X \text{ changes } Y; \text{ Ch. 18, §3.1}). \\
-2. & \text{The *counterfactual* is *defined* by the *intervention} (Y_x \text{ is the *value* of } Y \text{ *under* the *intervention*}; \text{ §4.3}). \\
-3. & \text{The *two* *definitions* *share* the *intervention* (the *primitive*), and the *two* *are* *distinct* (the *causal* relation, the *counterfactual* *value*).} \\
+1. & \text{The causation is defined by the intervention} (X \text{ causes } Y \text{ iff the intervention on } X \text{ changes } Y; \text{ Ch. 18, §3.1}). \\
+2. & \text{The counterfactual is defined by the intervention} (Y_x \text{ is the value of } Y \text{ under the intervention}; \text{ §4.3}). \\
+3. & \text{The two definitions share the intervention (the primitive), and the two are distinct (the causal relation, the counterfactual value).} \\
 \hline
-4. & \therefore \text{The *circularity* is *broken* by the *intervention* (the *interventionist* *resolution*).}
+4. & \therefore \text{The circularity is broken by the intervention (the interventionist resolution).}
 \end{array}
 $$
 

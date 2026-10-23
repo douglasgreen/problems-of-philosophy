@@ -62,11 +62,11 @@ The *chapter* proceeds in *eight* *movements*. §1 states the *question* and *re
 
 $$
 \begin{array}{ll}
-1. & \text{The *philosophy* *yields* the *no* *certainty*} \ (\text{the *no* *mere* *result*}). \\
-2. & \text{The *no* *certainty* *yields* the *enlargement*} \ (\text{the *contemplation* *insight*}). \\
-3. & \text{The *enlargement* *yields* the *freedom*} \ (\text{the *no* *mere* *custom*}). \\
+1. & \text{The philosophy yields the no certainty} \ (\text{the no mere result}). \\
+2. & \text{The no certainty yields the enlargement} \ (\text{the contemplation insight}). \\
+3. & \text{The enlargement yields the freedom} \ (\text{the no mere custom}). \\
 \hline
-4. & \therefore \text{The *value* is the *intrinsic*} \ (\text{the *no* *mere} \ \text{utility*}), \ \text{and the *contemplation* *is* the *good*} \ (\text{the *no* *mere} \ \text{information*}), \ \text{and the *freedom* *is* the *goal*} \ (\text{the *no* *mere} \ \text{prejudice*}).}
+4. & \therefore \text{The value is the intrinsic} \ (\text{the no mere} \ \text{utility}), \ \text{and the contemplation is the good} \ (\text{the no mere} \ \text{information}), \ \text{and the freedom is the goal} \ (\text{the no mere} \ \text{prejudice}).
 \end{array}
 $$
 
@@ -125,18 +125,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *understanding*} \ = \ \text{the *grasp* of the *structure*} \ (\text{the *no* *mere* *fact*}) \ \wedge \ \text{the *intrinsic* *value*} \ (\text{the *no* *mere* *instrument*})
+\text{The understanding} \ = \ \text{the grasp of the structure} \ (\text{the no mere fact}) \ \wedge \ \text{the intrinsic value} \ (\text{the no mere instrument})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *understanding* *is* the *grasp* of the *structure*} \ (\text{the *no* *mere* *information*}). \\
-2. & \text{The *grasp* *is* the *intrinsic* *good*} \ (\text{the *no* *mere* *instrument*}). \\
-3. & \text{The *philosophy* *yields* the *grasp*} \ (\text{the *no* *mere* *erudition*}). \\
+1. & \text{The understanding is the grasp of the structure} \ (\text{the no mere information}). \\
+2. & \text{The grasp is the intrinsic good} \ (\text{the no mere instrument}). \\
+3. & \text{The philosophy yields the grasp} \ (\text{the no mere erudition}). \\
 \hline
-4. & \therefore \text{The *understanding* *is* the *intrinsic* *value*} \ (\text{the *no* *mere} \ \text{utility*}), \ \text{and the *philosophy* *yields* the *understanding*} \ (\text{the *no* *mere} \ \text{information*}), \ \text{and the *value* *is* the *no* *mere* \text{instrument*}.}
+4. & \therefore \text{The understanding is the intrinsic value} \ (\text{the no mere} \ \text{utility}), \ \text{and the philosophy yields the understanding} \ (\text{the no mere} \ \text{information}), \ \text{and the value is the no mere instrument.}
 \end{array}
 $$
 
@@ -159,18 +159,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *intellectual* *virtues*} \ = \ \text{the *constitutive* *good*} \ (\text{the *no* *mere* *product*}) \ \wedge \ \text{the *transferable*} \ (\text{the *no* *mere* *enclosure*})
+\text{The intellectual virtues} \ = \ \text{the constitutive good} \ (\text{the no mere product}) \ \wedge \ \text{the transferable} \ (\text{the no mere enclosure})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *philosophy* *requires* the *honesty*} \ (\text{the *no* *mere* *rhetoric*}). \\
-2. & \text{The *honesty* *is* the *constitutive* *good*} \ (\text{the *no* *mere* *product*}). \\
-3. & \text{The *good* *is* the *transferable*} \ (\text{the *no* *mere* *enclosure*}). \\
+1. & \text{The philosophy requires the honesty} \ (\text{the no mere rhetoric}). \\
+2. & \text{The honesty is the constitutive good} \ (\text{the no mere product}). \\
+3. & \text{The good is the transferable} \ (\text{the no mere enclosure}). \\
 \hline
-4. & \therefore \text{The *virtues* *are* the *intrinsic* *goods*} \ (\text{the *no* *mere} \ \text{skill*}), \ \text{and the *practice* *is* the *formation*} \ (\text{the *no* *mere} \ \text{product*}), \ \text{and the *transfer* *is* the *value*} \ (\text{the *no* *mere} \ \text{enclosure*}).}
+4. & \therefore \text{The virtues are the intrinsic goods} \ (\text{the no mere} \ \text{skill}), \ \text{and the practice is the formation} \ (\text{the no mere} \ \text{product}), \ \text{and the transfer is the value} \ (\text{the no mere} \ \text{enclosure}).
 \end{array}
 $$
 
@@ -193,18 +193,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *freedom*} \ = \ \text{the *escape* from the *custom*} \ (\text{the *no* *mere* *prejudice*}) \ \wedge \ \text{the *cognitive*} \ (\text{the *no* *mere* *feeling*})
+\text{The freedom} \ = \ \text{the escape from the custom} \ (\text{the no mere prejudice}) \ \wedge \ \text{the cognitive} \ (\text{the no mere feeling})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *custom* *is* the *unreflective*} \ (\text{the *no* *mere* *truth*}). \\
-2. & \text{The *philosophy* *exposes* the *custom*} \ (\text{the *no* *mere* *acceptance*}). \\
-3. & \text{The *exposure* *is* the *freedom*} \ (\text{the *no* *mere* *feeling*}). \\
+1. & \text{The custom is the unreflective} \ (\text{the no mere truth}). \\
+2. & \text{The philosophy exposes the custom} \ (\text{the no mere acceptance}). \\
+3. & \text{The exposure is the freedom} \ (\text{the no mere feeling}). \\
 \hline
-4. & \therefore \text{The *freedom* *is* the *intrinsic* *good*} \ (\text{the *Russell* *insight*}), \ \text{and the *exposure* *is* the *cognitive*} \ (\text{the *no* *mere} \ \text{prejudice*}), \ \text{and the *universal* *is* the *value*} \ (\text{the *no* *mere} \ \text{elite*}).}
+4. & \therefore \text{The freedom is the intrinsic good} \ (\text{the Russell insight}), \ \text{and the exposure is the cognitive} \ (\text{the no mere} \ \text{prejudice}), \ \text{and the universal is the value} \ (\text{the no mere} \ \text{elite}).
 \end{array}
 $$
 
@@ -243,18 +243,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *philosophy*} \ \Rightarrow \ \text{the *critical* *thinking*} \ \Rightarrow \ \text{the *transfer*} \ (\text{the *no* *mere* *claim*})
+\text{The philosophy} \ \Rightarrow \ \text{the critical thinking} \ \Rightarrow \ \text{the transfer} \ (\text{the no mere claim})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *philosophy* *requires* the *argument*} \ (\text{the *no* *mere* *content*}). \\
-2. & \text{The *argument* *is* the *transferable*} \ (\text{the *no* *mere* *enclosure*}). \\
-3. & \text{The *transfer* *is* the *evidence*} \ (\text{the *no* *mere* *claim*}). \\
+1. & \text{The philosophy requires the argument} \ (\text{the no mere content}). \\
+2. & \text{The argument is the transferable} \ (\text{the no mere enclosure}). \\
+3. & \text{The transfer is the evidence} \ (\text{the no mere claim}). \\
 \hline
-4. & \therefore \text{The *critical* *thinking* *is* the *instrumental* *good*} \ (\text{the *no* *mere} \ \text{enclosure*}), \ \text{and the *transfer* *is* the *value*} \ (\text{the *no* *mere} \ \text{claim*}), \ \text{and the *evidence* *is* the *contested*} \ (\text{the *no* *mere} \ \text{guarantee*}).}
+4. & \therefore \text{The critical thinking is the instrumental good} \ (\text{the no mere} \ \text{enclosure}), \ \text{and the transfer is the value} \ (\text{the no mere} \ \text{claim}), \ \text{and the evidence is the contested} \ (\text{the no mere} \ \text{guarantee}).
 \end{array}
 $$
 
@@ -277,18 +277,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *philosophy*} \ \Rightarrow \ \text{the *concepts*} \ \Rightarrow \ \text{the *institutions*} \ (\text{the *no* *mere* *theory*})
+\text{The philosophy} \ \Rightarrow \ \text{the concepts} \ \Rightarrow \ \text{the institutions} \ (\text{the no mere theory})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *deliberation* *requires* the *concepts*} \ (\text{the *no* *mere* *opinion*}). \\
-2. & \text{The *concepts* *shape* the *institutions*} \ (\text{the *no* *mere* *theory*}). \\
-3. & \text{The *institutions* *shape* the *life*} \ (\text{the *no* *mere* *abstraction*}). \\
+1. & \text{The deliberation requires the concepts} \ (\text{the no mere opinion}). \\
+2. & \text{The concepts shape the institutions} \ (\text{the no mere theory}). \\
+3. & \text{The institutions shape the life} \ (\text{the no mere abstraction}). \\
 \hline
-4. & \therefore \text{The *philosophy* *serves* the *institutions*} \ (\text{the *no* *mere} \ \text{ornament*}), \ \text{and the *public* *is* the *beneficiary*} \ (\text{the *no* *mere} \ \text{individual*}), \ \text{and the *service* *is* the *value*} \ (\text{the *no* *mere} \ \text{luxury*}).}
+4. & \therefore \text{The philosophy serves the institutions} \ (\text{the no mere} \ \text{ornament}), \ \text{and the public is the beneficiary} \ (\text{the no mere} \ \text{individual}), \ \text{and the service is the value} \ (\text{the no mere} \ \text{luxury}).
 \end{array}
 $$
 
@@ -311,18 +311,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *philosophy*} \ \Rightarrow \ \text{the *concrete* *case*} \ (\text{the *no* *mere* *abstraction*}) \ \wedge \ \text{the *instrumental* *good*} \ (\text{the *no* *mere* *luxury*})
+\text{The philosophy} \ \Rightarrow \ \text{the concrete case} \ (\text{the no mere abstraction}) \ \wedge \ \text{the instrumental good} \ (\text{the no mere luxury})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *case* *requires* the *clarity*} \ (\text{the *no* *mere* *intuition*}). \\
-2. & \text{The *clarity* *requires* the *philosophy*} \ (\text{the *no* *mere* *expertise*}). \\
-3. & \text{The *service* *is* the *concrete*} \ (\text{the *no* *mere* *abstraction*}). \\
+1. & \text{The case requires the clarity} \ (\text{the no mere intuition}). \\
+2. & \text{The clarity requires the philosophy} \ (\text{the no mere expertise}). \\
+3. & \text{The service is the concrete} \ (\text{the no mere abstraction}). \\
 \hline
-4. & \therefore \text{The *philosophy* *serves* the *urgent*} \ (\text{the *no* *mere} \ \text{luxury*}), \ \text{and the *concrete* *is* the *value*} \ (\text{the *no* *mere} \ \text{abstraction*}), \ \text{and the *service* *is* the *evidence*} \ (\text{the *no* *mere} \ \text{claim*}).}
+4. & \therefore \text{The philosophy serves the urgent} \ (\text{the no mere} \ \text{luxury}), \ \text{and the concrete is the value} \ (\text{the no mere} \ \text{abstraction}), \ \text{and the service is the evidence} \ (\text{the no mere} \ \text{claim}).
 \end{array}
 $$
 
@@ -361,18 +361,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *examined* *life*} \ = \ \text{the *self*-*scrutiny*} \ (\text{the *no* *mere* *information*}) \ \wedge \ \text{the *worth*} \ (\text{the *no* *mere* *comfort*})
+\text{The examined life} \ = \ \text{the self-scrutiny} \ (\text{the no mere information}) \ \wedge \ \text{the worth} \ (\text{the no mere comfort})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *worth* *requires* the *examination*} \ (\text{the *no* *mere* *comfort*}). \\
-2. & \text{The *examination* *is* the *practice*} \ (\text{the *no* *mere* *doctrine*}). \\
-3. & \text{The *practice* *is* the *exemplary* *good*} \ (\text{the *no* *mere* *example*}). \\
+1. & \text{The worth requires the examination} \ (\text{the no mere comfort}). \\
+2. & \text{The examination is the practice} \ (\text{the no mere doctrine}). \\
+3. & \text{The practice is the exemplary good} \ (\text{the no mere example}). \\
 \hline
-4. & \therefore \text{The *examined* *life* *is* the *good*} \ (\text{the *Socratic* *insight*}), \ \text{and the *scrutiny* *is* the *practice*} \ (\text{the *no* *mere} \ \text{doctrine*}), \ \text{and the *worth* *is* the *condition*} \ (\text{the *no* *mere} \ \text{comfort*}).}
+4. & \therefore \text{The examined life is the good} \ (\text{the Socratic insight}), \ \text{and the scrutiny is the practice} \ (\text{the no mere} \ \text{doctrine}), \ \text{and the worth is the condition} \ (\text{the no mere} \ \text{comfort}).
 \end{array}
 $$
 
@@ -395,18 +395,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *ethics* of *belief*} \ = \ \text{the *evidence*} \ (\text{the *no* *mere* *wish*}) \ \wedge \ \text{the *responsibility*} \ (\text{the *no* *mere* *private*})
+\text{The ethics of belief} \ = \ \text{the evidence} \ (\text{the no mere wish}) \ \wedge \ \text{the responsibility} \ (\text{the no mere private})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *belief* *has* the *consequences*} \ (\text{the *no* *mere* *private*}). \\
-2. & \text{The *consequences* *require* the *evidence*} \ (\text{the *no* *mere* *wish*}). \\
-3. & \text{The *evidence* *requires* the *practice*} \ (\text{the *no* *mere* *doctrine*}). \\
+1. & \text{The belief has the consequences} \ (\text{the no mere private}). \\
+2. & \text{The consequences require the evidence} \ (\text{the no mere wish}). \\
+3. & \text{The evidence requires the practice} \ (\text{the no mere doctrine}). \\
 \hline
-4. & \therefore \text{The *ethics* *of* *belief* *is* the *practice*} \ (\text{the *no* *mere} \ \text{theory*}), \ \text{and the *responsibility* *is* the *good*} \ (\text{the *no* *mere} \ \text{private*}), \ \text{and the *philosophy* *cultivates* the *responsibility*} \ (\text{the *no* *mere} \ \text{doctrine*}).}
+4. & \therefore \text{The ethics of belief is the practice} \ (\text{the no mere} \ \text{theory}), \ \text{and the responsibility is the good} \ (\text{the no mere} \ \text{private}), \ \text{and the philosophy cultivates the responsibility} \ (\text{the no mere} \ \text{doctrine}).
 \end{array}
 $$
 
@@ -429,18 +429,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *examination*} \ \wedge \ \text{the *acceptance*} \ (\text{the *no* *mere* *paralysis*}) \ \wedge \ \text{the *balance*} \ (\text{the *no* *mere* *skill*})
+\text{The examination} \ \wedge \ \text{the acceptance} \ (\text{the no mere paralysis}) \ \wedge \ \text{the balance} \ (\text{the no mere skill})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *examination* *requires* the *hinges*} \ (\text{the *no* *mere* *endless*}). \\
-2. & \text{The *hinges* *are* the *unexamined*} \ (\text{the *no* *mere* *doubts*}). \\
-3. & \text{The *balance* *is* the *wisdom*} \ (\text{the *no* *mere* *skill*}). \\
+1. & \text{The examination requires the hinges} \ (\text{the no mere endless}). \\
+2. & \text{The hinges are the unexamined} \ (\text{the no mere doubts}). \\
+3. & \text{The balance is the wisdom} \ (\text{the no mere skill}). \\
 \hline
-4. & \therefore \text{The *limits* *are* the *condition*} \ (\text{the *no* *mere} \ \text{defect*}), \ \text{and the *acceptance* *is* the *practice*} \ (\text{the *no* *mere} \ \text{paralysis*}), \ \text{and the *balance* *is* the *good*} \ (\text{the *no* *mere} \ \text{questioning*}).}
+4. & \therefore \text{The limits are the condition} \ (\text{the no mere} \ \text{defect}), \ \text{and the acceptance is the practice} \ (\text{the no mere} \ \text{paralysis}), \ \text{and the balance is the good} \ (\text{the no mere} \ \text{questioning}).
 \end{array}
 $$
 
@@ -479,18 +479,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *usefulness*} = \text{the *product*} \ (\text{the *no* *mere* *idleness*}) \ \wedge \ \text{the *philosophy*} \ \text{yields} \ \text{the *no* *product*} \ \Rightarrow \ \text{the *philosophy*} \ \text{is} \ \text{the *useless*}
+\text{The usefulness} = \text{the product} \ (\text{the no mere idleness}) \ \wedge \ \text{the philosophy} \ \text{yields} \ \text{the no product} \ \Rightarrow \ \text{the philosophy} \ \text{is} \ \text{the useless}
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *usefulness* *is* the *product*} \ (\text{the *no* *mere* *idleness*}). \\
-2. & \text{The *philosophy* *yields* the *no* *product*} \ (\text{the *no* *mere* *success*}). \\
-3. & \text{The *no* *product* *is* the *failure*} \ (\text{the *no* *mere* *value*}). \\
+1. & \text{The usefulness is the product} \ (\text{the no mere idleness}). \\
+2. & \text{The philosophy yields the no product} \ (\text{the no mere success}). \\
+3. & \text{The no product is the failure} \ (\text{the no mere value}). \\
 \hline
-4. & \therefore \text{The *philosophy* *is* the *useless*} \ (\text{the *utility* *insight*}), \ \text{and the *idleness* *is* the *charge*} \ (\text{the *no* *mere} \ \text{rhetoric*}), \ \text{and the *failure* *is* the *decisive*} \ (\text{the *no* *mere} \ \text{defense*}).}
+4. & \therefore \text{The philosophy is the useless} \ (\text{the utility insight}), \ \text{and the idleness is the charge} \ (\text{the no mere} \ \text{rhetoric}), \ \text{and the failure is the decisive} \ (\text{the no mere} \ \text{defense}).
 \end{array}
 $$
 
@@ -502,11 +502,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *charge* *narrows* the *usefulness*} \ (\text{the *no* *mere* *product*}). \\
-2. & \text{The *narrowing* *begs* the *question*} \ (\text{the *no* *mere* *test*}). \\
-3. & \text{The *intrinsic* *is* the *value*} \ (\text{the *no* *mere* *idleness*}). \\
+1. & \text{The charge narrows the usefulness} \ (\text{the no mere product}). \\
+2. & \text{The narrowing begs the question} \ (\text{the no mere test}). \\
+3. & \text{The intrinsic is the value} \ (\text{the no mere idleness}). \\
 \hline
-4. & \therefore \text{The *charge* *fails*} \ (\text{the *no* *mere} \ \text{decisive*}), \ \text{and the *intrinsic* *is* the *defense*} \ (\text{the *no* *mere} \ \text{utility*}), \ \text{and the *comparison* *is* the *evidence*} \ (\text{the *no* *mere} \ \text{product*}).}
+4. & \therefore \text{The charge fails} \ (\text{the no mere} \ \text{decisive}), \ \text{and the intrinsic is the defense} \ (\text{the no mere} \ \text{utility}), \ \text{and the comparison is the evidence} \ (\text{the no mere} \ \text{product}).
 \end{array}
 $$
 
@@ -529,18 +529,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *reply*} \ \Rightarrow \ \text{the *rationalization*} \ (\text{the *no* *mere* *defense*}) \ \wedge \ \text{the *privilege*} \ (\text{the *no* *mere* *denial*})
+\text{The reply} \ \Rightarrow \ \text{the rationalization} \ (\text{the no mere defense}) \ \wedge \ \text{the privilege} \ (\text{the no mere denial})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *reply* *serves* the *interest*} \ (\text{the *no* *mere* *disinterest*}). \\
-2. & \text{The *interest* *shapes* the *claim*} \ (\text{the *no* *mere* *defense*}). \\
-3. & \text{The *honesty* *requires* the *admission*} \ (\text{the *no* *mere* *sales* *talk*}). \\
+1. & \text{The reply serves the interest} \ (\text{the no mere disinterest}). \\
+2. & \text{The interest shapes the claim} \ (\text{the no mere defense}). \\
+3. & \text{The honesty requires the admission} \ (\text{the no mere sales talk}). \\
 \hline
-4. & \therefore \text{The *reply* *is* the *cost*} \ (\text{the *no* *mere} \ \text{pure*}), \ \text{and the *privilege* *is* the *real*} \ (\text{the *no* *mere} \ \text{denial*}), \ \text{and the *admission* *is* the *value*} \ (\text{the *no* *mere} \ \text{apologetics*}).}
+4. & \therefore \text{The reply is the cost} \ (\text{the no mere} \ \text{pure}), \ \text{and the privilege is the real} \ (\text{the no mere} \ \text{denial}), \ \text{and the admission is the value} \ (\text{the no mere} \ \text{apologetics}).
 \end{array}
 $$
 
@@ -579,18 +579,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *philosophy*} \ \Rightarrow \ \text{the *rhetoric*} \ (\text{the *no* *mere* *clarity*}) \ \wedge \ \text{the *obscurity*} \ (\text{the *no* *mere* *humility*})
+\text{The philosophy} \ \Rightarrow \ \text{the rhetoric} \ (\text{the no mere clarity}) \ \wedge \ \text{the obscurity} \ (\text{the no mere humility})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *philosophy* *yields* the *rhetoric*} \ (\text{the *no* *mere* *clarity*}). \\
-2. & \text{The *rhetoric* *serves* the *power*} \ (\text{the *no* *mere* *critique*}). \\
-3. & \text{The *obscurity* *disguises* the *authority*} \ (\text{the *no* *mere* *humility*}). \\
+1. & \text{The philosophy yields the rhetoric} \ (\text{the no mere clarity}). \\
+2. & \text{The rhetoric serves the power} \ (\text{the no mere critique}). \\
+3. & \text{The obscurity disguises the authority} \ (\text{the no mere humility}). \\
 \hline
-4. & \therefore \text{The *philosophy* *is* the *dangerous*} \ (\text{the *sophistry* *insight*}), \ \text{and the *rhetoric* *is* the *charge*} \ (\text{the *no* *mere} \ \text{clarity*}), \ \text{and the *obscurity* *is* the *symptom*} \ (\text{the *no* *mere} \ \text{humility*}).}
+4. & \therefore \text{The philosophy is the dangerous} \ (\text{the sophistry insight}), \ \text{and the rhetoric is the charge} \ (\text{the no mere} \ \text{clarity}), \ \text{and the obscurity is the symptom} \ (\text{the no mere} \ \text{humility}).
 \end{array}
 $$
 
@@ -601,18 +601,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *danger*} \ \Rightarrow \ \text{the *discipline*} \ (\text{the *no* *mere* *purity*}) \ \wedge \ \text{the *institution*} \ (\text{the *no* *mere* *individual*})
+\text{The danger} \ \Rightarrow \ \text{the discipline} \ (\text{the no mere purity}) \ \wedge \ \text{the institution} \ (\text{the no mere individual})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *danger* *is* the *real*} \ (\text{the *no* *mere* *denial*}). \\
-2. & \text{The *remedy* *is* the *argument*} \ (\text{the *no* *mere* *purity*}). \\
-3. & \text{The *argument* *is* the *institutional*} \ (\text{the *no* *mere* *individual*}). \\
+1. & \text{The danger is the real} \ (\text{the no mere denial}). \\
+2. & \text{The remedy is the argument} \ (\text{the no mere purity}). \\
+3. & \text{The argument is the institutional} \ (\text{the no mere individual}). \\
 \hline
-4. & \therefore \text{The *discipline* *is* the *remedy*} \ (\text{the *no* *mere} \ \text{purity*}), \ \text{and the *institution* *is* the *safeguard*} \ (\text{the *no* *mere} \ \text{individual*}), \ \text{and the *no* *purity* *is* the *admission*} \ (\text{the *no* *mere} \ \text{safety*}).}
+4. & \therefore \text{The discipline is the remedy} \ (\text{the no mere} \ \text{purity}), \ \text{and the institution is the safeguard} \ (\text{the no mere} \ \text{individual}), \ \text{and the no purity is the admission} \ (\text{the no mere} \ \text{safety}).
 \end{array}
 $$
 
@@ -645,11 +645,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *cases* *are* the *real*} \ (\text{the *no* *mere* *hypothesis*}). \\
-2. & \text{The *cases* *show* the *danger*} \ (\text{the *no* *mere* *anecdote*}). \\
-3. & \text{The *honesty* *is* the *response*} \ (\text{the *no* *mere* *apologetics*}). \\
+1. & \text{The cases are the real} \ (\text{the no mere hypothesis}). \\
+2. & \text{The cases show the danger} \ (\text{the no mere anecdote}). \\
+3. & \text{The honesty is the response} \ (\text{the no mere apologetics}). \\
 \hline
-4. & \therefore \text{The *danger* *is* the *evidenced*} \ (\text{the *no* *mere} \ \text{rhetoric*}), \ \text{and the *honesty* *is* the *value*} \ (\text{the *no* *mere} \ \text{denial*}), \ \text{and the *discipline* *is* the *remedy*} \ (\text{the *no* *mere} \ \text{purity*}).}
+4. & \therefore \text{The danger is the evidenced} \ (\text{the no mere} \ \text{rhetoric}), \ \text{and the honesty is the value} \ (\text{the no mere} \ \text{denial}), \ \text{and the discipline is the remedy} \ (\text{the no mere} \ \text{purity}).
 \end{array}
 $$
 
@@ -699,11 +699,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *value* *is* the *practice*} \ (\text{the *no* *mere* *conviction*}). \\
-2. & \text{The *practice* *is* the *habit*} \ (\text{the *no* *mere* *resolution*}). \\
-3. & \text{The *habit* *is* the *formation*} \ (\text{the *no* *mere* *course*}). \\
+1. & \text{The value is the practice} \ (\text{the no mere conviction}). \\
+2. & \text{The practice is the habit} \ (\text{the no mere resolution}). \\
+3. & \text{The habit is the formation} \ (\text{the no mere course}). \\
 \hline
-4. & \therefore \text{The *transformation* *is* the *value*} \ (\text{the *no* *mere} \ \text{thesis*}), \ \text{and the *formation* *is* the *good*} \ (\text{the *no* *mere} \ \text{product*}), \ \text{and the *lifelong* *is* the *condition*} \ (\text{the *no* *mere} \ \text{episode*}).}
+4. & \therefore \text{The transformation is the value} \ (\text{the no mere} \ \text{thesis}), \ \text{and the formation is the good} \ (\text{the no mere} \ \text{product}), \ \text{and the lifelong is the condition} \ (\text{the no mere} \ \text{episode}).
 \end{array}
 $$
 
@@ -726,18 +726,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *curriculum*} \ = \ \text{the *spiral*} \ (\text{the *no* *mere* *sequence*}) \ \wedge \ \text{the *lifelong*} \ (\text{the *no* *mere* *degree*})
+\text{The curriculum} \ = \ \text{the spiral} \ (\text{the no mere sequence}) \ \wedge \ \text{the lifelong} \ (\text{the no mere degree})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *consumption* *yields* the *no* *formation*} \ (\text{the *no* *mere* *reading*}). \\
-2. & \text{The *formation* *requires* the *spiral*} \ (\text{the *no* *mere* *sequence*}). \\
-3. & \text{The *spiral* *requires* the *lifelong*} \ (\text{the *no* *mere* *degree*}). \\
+1. & \text{The consumption yields the no formation} \ (\text{the no mere reading}). \\
+2. & \text{The formation requires the spiral} \ (\text{the no mere sequence}). \\
+3. & \text{The spiral requires the lifelong} \ (\text{the no mere degree}). \\
 \hline
-4. & \therefore \text{The *curriculum* *is* the *value*} \ (\text{the *no* *mere} \ \text{consumption*}), \ \text{and the *spiral* *is* the *method*} \ (\text{the *no* *mere} \ \text{sequence*}), \ \text{and the *lifelong* *is* the *condition*} \ (\text{the *no* *mere} \ \text{degree*}).}
+4. & \therefore \text{The curriculum is the value} \ (\text{the no mere} \ \text{consumption}), \ \text{and the spiral is the method} \ (\text{the no mere} \ \text{sequence}), \ \text{and the lifelong is the condition} \ (\text{the no mere} \ \text{degree}).
 \end{array}
 $$
 
@@ -760,18 +760,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *institutions*} \ \Rightarrow \ \text{the *critique*} \ (\text{the *no* *mere* *loyalty*}) \ \Rightarrow \ \text{the *reform*} \ (\text{the *no* *mere* *denunciation*})
+\text{The institutions} \ \Rightarrow \ \text{the critique} \ (\text{the no mere loyalty}) \ \Rightarrow \ \text{the reform} \ (\text{the no mere denunciation})
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *value* *requires* the *institutions*} \ (\text{the *no* *mere* *individual*}). \\
-2. & \text{The *institutions* *require* the *critique*} \ (\text{the *no* *mere* *loyalty*}). \\
-3. & \text{The *critique* *requires* the *reform*} \ (\text{the *no* *mere* *denunciation*}). \\
+1. & \text{The value requires the institutions} \ (\text{the no mere individual}). \\
+2. & \text{The institutions require the critique} \ (\text{the no mere loyalty}). \\
+3. & \text{The critique requires the reform} \ (\text{the no mere denunciation}). \\
 \hline
-4. & \therefore \text{The *institution* *is* the *condition*} \ (\text{the *no* *mere} \ \text{individual*}), \ \text{and the *critique* *is* the *practice*} \ (\text{the *no* *mere} \ \text{loyalty*}), \ \text{and the *reform* *is* the *value*} \ (\text{the *no* *mere} \ \text{theory*}).}
+4. & \therefore \text{The institution is the condition} \ (\text{the no mere} \ \text{individual}), \ \text{and the critique is the practice} \ (\text{the no mere} \ \text{loyalty}), \ \text{and the reform is the value} \ (\text{the no mere} \ \text{theory}).
 \end{array}
 $$
 
@@ -805,11 +805,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *book* *is* *tested* by the *markers*} \ (\text{the *no* *mere* *claim*}). \\
-2. & \text{The *test* *is* the *mixed*} \ (\text{the *no* *mere* *triumph*}). \\
-3. & \text{The *honesty* *is* the *value*} \ (\text{the *no* *mere* *advertisement*}). \\
+1. & \text{The book is tested by the markers} \ (\text{the no mere claim}). \\
+2. & \text{The test is the mixed} \ (\text{the no mere triumph}). \\
+3. & \text{The honesty is the value} \ (\text{the no mere advertisement}). \\
 \hline
-4. & \therefore \text{The *book* *is* the *partial*} \ (\text{the *no* *mere} \ \text{triumph*}), \ \text{and the *honesty* *is* the *claim*} \ (\text{the *no* *mere} \ \text{sales* *talk*}), \ \text{and the *test* *is* the *value*} \ (\text{the *no* *mere} \ \text{claim*}).}
+4. & \therefore \text{The book is the partial} \ (\text{the no mere} \ \text{triumph}), \ \text{and the honesty is the claim} \ (\text{the no mere} \ \text{sales talk}), \ \text{and the test is the value} \ (\text{the no mere} \ \text{claim}).
 \end{array}
 $$
 
@@ -888,12 +888,12 @@ The *table* is the *map*, not the *verdict*. The *reader* who *wants* to *choose
 
 $$
 \begin{array}{ll}
-1. & \text{The *intrinsic*} \ (\text{the *no* *utility* *insight*}) \ \text{and the *instrumental*} \ (\text{the *transfer* *insight}). \\
-2. & \text{The *constitutive*} \ (\text{the *formation* *insight*}) \ \text{and the *exemplary*} \ (\text{the *examined* *life* *insight}). \\
-3. & \text{The *honesty*} \ (\text{the *no* *apologetics* *insight*}) \ \text{and the *distribution*} \ (\text{the *no* *privilege* *insight}). \\
-4. & \text{The *humility*} \ (\text{the *no* *purity* *insight*}) \ \text{and the *practice*} \ (\text{the *no* *mere* *theory* *insight}). \\
+1. & \text{The intrinsic} \ (\text{the no utility insight}) \ \text{and the instrumental} \ (\text{the transfer insight}). \\
+2. & \text{The constitutive} \ (\text{the formation insight}) \ \text{and the exemplary} \ (\text{the examined life insight}). \\
+3. & \text{The honesty} \ (\text{the no apologetics insight}) \ \text{and the distribution} \ (\text{the no privilege insight}). \\
+4. & \text{The humility} \ (\text{the no purity insight}) \ \text{and the practice} \ (\text{the no mere theory insight}). \\
 \hline
-5. & \therefore \text{The *qualified* *pluralism*} \ (\text{the *integration* *insight*}), \ *qualified* \text{by the *admission* that the *measure*, the *transfer*, the *worth*, the *access*, and the *institution* *remain* *contested*.}
+5. & \therefore \text{The qualified pluralism} \ (\text{the integration insight}), \text{qualified by the admission that the measure, the transfer, the worth, the access, and the institution remain contested.}
 \end{array}
 $$
 

@@ -28,11 +28,11 @@ Chisholm’s formulation is the standard one, and it is worth stating with preci
 There are two questions that any epistemology must answer:
 
 $$
-(\mathrm{A}) \quad \text{What do we know? (What is the *extent* of our knowledge?)}
+(\mathrm{A}) \quad \text{What do we know? (What is the extent of our knowledge?)}
 $$
 
 $$
-(\mathrm{B}) \quad \text{How do we know? (What is the *criterion* of knowledge?)}
+(\mathrm{B}) \quad \text{How do we know? (What is the criterion of knowledge?)}
 $$
 
 The **criterion problem** is the problem that these two questions cannot be answered *independently* of each other.
@@ -41,11 +41,11 @@ The **criterion problem** is the problem that these two questions cannot be answ
 
 $$
 \begin{array}{ll}
-1. & \text{To answer (A), we need a criterion (B) by which to *assess* the candidate instances.} \\
-2. & \text{To answer (B), we need a body of *instances* (A) against which to *test* the candidate criterion.} \\
-3. & \text{Neither is *independent*: each presupposes the other.} \\
+1. & \text{To answer (A), we need a criterion (B) by which to assess the candidate instances.} \\
+2. & \text{To answer (B), we need a body of instances (A) against which to test the candidate criterion.} \\
+3. & \text{Neither is independent: each presupposes the other.} \\
 \hline
-4. & \therefore \text{Neither can be *justified* without *presupposing* the other.}
+4. & \therefore \text{Neither can be justified without presupposing the other.}
 \end{array}
 $$
 
@@ -125,12 +125,12 @@ The *particularist* *argument* is the *most* *influential* *response* to the cri
 
 $$
 \begin{array}{ll}
-1. & \text{There are *particular* *instances* of knowledge that are *more* *certain* than any *criterion*.} \\
+1. & \text{There are particular instances of knowledge that are more certain than any criterion.} \\
 2. & \text{Example: I know that I have hands; I know that $2+2=4$; I know that I am in pain.} \\
-3. & \text{The *certainty* of the *instances* is *greater* than the *certainty* of any *philosophical* *criterion*.} \\
-4. & \text{In a *conflict* of *certainties*, the *greater* *certainty* *wins*.} \\
+3. & \text{The certainty of the instances is greater than the certainty of any philosophical criterion.} \\
+4. & \text{In a conflict of certainties, the greater certainty wins.} \\
 \hline
-5. & \therefore \text{The *criterion* is *derived* from the *instances*, not the *reverse*.}
+5. & \therefore \text{The criterion is derived from the instances, not the reverse.}
 \end{array}
 $$
 
@@ -152,11 +152,11 @@ The *methodist* *argument* is the *classical* *modern* *response*, and it is the
 
 $$
 \begin{array}{ll}
-1. & \text{The *criterion* is *prior* to the *instances*: the *instances* are *knowledge* only if they *satisfy* the *criterion*.} \\
-2. & \text{The *criterion* can be *established* by *reflection* on the *nature* of *knowledge* (Descartes’ *analysis* of *clear* and *distinct* *perception*; the empiricists’ *analysis* of *impressions*).} \\
-3. & \text{The *instances* that *fail* the *criterion* are *not* knowledge.} \\
+1. & \text{The criterion is prior to the instances: the instances are knowledge only if they satisfy the criterion.} \\
+2. & \text{The criterion can be established by reflection on the nature of knowledge (Descartes’ analysis of clear and distinct perception; the empiricists’ analysis of impressions).} \\
+3. & \text{The instances that fail the criterion are not knowledge.} \\
 \hline
-4. & \therefore \text{The *criterion* is *derived* from the *analysis*, and the *instances* are *assessed* by it.}
+4. & \therefore \text{The criterion is derived from the analysis, and the instances are assessed by it.}
 \end{array}
 $$
 
@@ -239,7 +239,7 @@ $$
 1. & \text{Protagoras: for every } p, \text{ if } S \text{ believes } p, \text{ then } p \text{ is true for } S. \\
 2. & \text{Many people believe } \neg(\text{Protagoras}). \\
 3. & \text{Therefore, } \neg(\text{Protagoras}) \text{ is true for them.} \\
-4. & \text{If the thesis is *universally* true, it is true for them.} \\
+4. & \text{If the thesis is universally true, it is true for them.} \\
 5. & \text{Therefore, } \neg(\text{Protagoras}) \text{ is true.} \\
 \hline
 6. & \therefore \text{Protagoras is false.}
@@ -363,11 +363,11 @@ A *stronger* *reply*: the *relativist*’s *thesis* is *not* a *first-order* *cl
 
 $$
 \begin{array}{ll}
-1. & \text{The *first-order* *claims* are *relative* to an *epistemic* *system*.} \\
-2. & \text{The *second-order* *claim* — “justification is relative” — is *not* a *first-order* *claim*; it is a *meta*-claim.} \\
-3. & \text{The *meta*-claim* is *assessed* by *meta*-standards, which are *not* *the* *standards* of the *first-order* *domain*.} \\
+1. & \text{The first-order claims are relative to an epistemic system.} \\
+2. & \text{The second-order claim — “justification is relative” — is not a first-order claim; it is a meta-claim.} \\
+3. & \text{The meta-claim is assessed by meta-standards, which are not the standards of the first-order domain.} \\
 \hline
-4. & \therefore \text{The *self-refutation* *argument* *does* not *apply*.}
+4. & \therefore \text{The self-refutation argument does not apply.}
 \end{array}
 $$
 
@@ -411,11 +411,11 @@ Thomas Nagel’s *The View from Nowhere* (1986) is the *most* *influential* *acc
 
 $$
 \begin{array}{ll}
-1. & \text{The *subjective* *perspective* is the *starting* *point*: the *world* as it *appears* to a *particular* *subject* *here* and *now*. \\
-2. & \text{The *objective* *perspective* is *reached* by *abstracting* from the *particularities* — the *here*, the *now*, the *me*.} \\
-3. & \text{The *abstraction* is *never* *complete*: there is *always* a *residue* of *subjectivity* — the *phenomenal*, the *evaluative*, the *existential*.} \\
+1. & \text{The subjective perspective is the starting point: the world as it appears to a particular subject here and now.} \\
+2. & \text{The objective perspective is reached by abstracting from the particularities — the here, the now, the me.} \\
+3. & \text{The abstraction is never complete: there is always a residue of subjectivity — the phenomenal, the evaluative, the existential.} \\
 \hline
-4. & \therefore \text{Objectivity is a *direction*, not a *destination*.}
+4. & \therefore \text{Objectivity is a direction, not a destination.}
 \end{array}
 $$
 
@@ -435,11 +435,11 @@ Donna Haraway’s “Situated Knowledges” (1988) is the *most* *influential* *
 
 $$
 \begin{array}{ll}
-1. & \text{All *knowledge* is *situated*: it is *achieved* from a *particular* *location*, with *particular* *interests*.} \\
-2. & \text{The *“view* *from* *nowhere”* is *not* *neutral*; it is the *view* of the *powerful*, *masquerading* as *universal*.} \\
-3. & \text{Objectivity is *not* *detachment*; it is *accountability* — the *willingness* to be *answerable* for the *location* *from* which one *knows*.} \\
+1. & \text{All knowledge is situated: it is achieved from a particular location, with particular interests.} \\
+2. & \text{The “view from nowhere” is not neutral; it is the view of the powerful, masquerading as universal.} \\
+3. & \text{Objectivity is not detachment; it is accountability — the willingness to be answerable for the location from which one knows.} \\
 \hline
-4. & \therefore \text{Objectivity is *situated*, not *aperspectival*.}
+4. & \therefore \text{Objectivity is situated, not aperspectival.}
 \end{array}
 $$
 
@@ -514,10 +514,10 @@ The **error theory** *about* *knowledge* is the *analogue* of *Mackie’s* *erro
 
 $$
 \begin{array}{ll}
-1. & \text{Knowledge attributions presuppose *objective* *norms* of justification.} \\
-2. & \text{There are no *objective* *norms* of justification (the *relativist* *premise*).} \\
+1. & \text{Knowledge attributions presuppose objective norms of justification.} \\
+2. & \text{There are no objective norms of justification (the relativist premise).} \\
 \hline
-3. & \therefore \text{Knowledge attributions are *systematically* *false*.}
+3. & \therefore \text{Knowledge attributions are systematically false.}
 \end{array}
 $$
 
@@ -603,11 +603,11 @@ The *first* *element* is *particularism*: the *starting* *point* is *not* the *c
 
 $$
 \begin{array}{ll}
-1. & \text{Any *philosophical* *argument* *uses* *premises* that are *less* *certain* than the *ordinary* *beliefs* it *attacks*.} \\
-2. & \text{The *ordinary* *beliefs* (that I have hands, that $2+2=4$, that I am in pain) are *more* *certain* than the *premises* of *the* *skeptical* *argument*.} \\
-3. & \text{In a *conflict* of *certainties*, the *greater* *wins*.} \\
+1. & \text{Any philosophical argument uses premises that are less certain than the ordinary beliefs it attacks.} \\
+2. & \text{The ordinary beliefs (that I have hands, that $2+2=4$, that I am in pain) are more certain than the premises of the skeptical argument.} \\
+3. & \text{In a conflict of certainties, the greater wins.} \\
 \hline
-4. & \therefore \text{The *skeptical* *argument* is *unsound*.}
+4. & \therefore \text{The skeptical argument is unsound.}
 \end{array}
 $$
 
@@ -623,11 +623,11 @@ The *second* *element* is *reflective* *equilibrium*: the *instances* and the *c
 
 $$
 \begin{array}{ll}
-1. & \text{The *criterion* is *derived* from the *instances*, and the *instances* are *assessed* by the *criterion*.} \\
-2. & \text{The *derivation* and the *assessment* are *not* *sequential*; they are *mutual*.} \\
-3. & \text{The *mutual* *adjustment* *produces* a *state* in which the *instances* and the *criteria* *support* one another.} \\
+1. & \text{The criterion is derived from the instances, and the instances are assessed by the criterion.} \\
+2. & \text{The derivation and the assessment are not sequential; they are mutual.} \\
+3. & \text{The mutual adjustment produces a state in which the instances and the criteria support one another.} \\
 \hline
-4. & \therefore \text{The *justification* is *holistic*, not *foundational*.}
+4. & \therefore \text{The justification is holistic, not foundational.}
 \end{array}
 $$
 
@@ -641,11 +641,11 @@ The *third* *element* is *social* *calibration*: the *objectivity* is *achieved*
 
 $$
 \begin{array}{ll}
-1. & \text{The *individual* *inquirer* is *subject* to *bias*, *error*, and *parochialism*.} \\
-2. & \text{The *community* can *correct* the *bias* — *if* it *satisfies* the *conditions* of *criticism*.} \\
-3. & \text{The *correction* is *not* *guaranteed*, but it is *the* *best* *available* *mechanism*.} \\
+1. & \text{The individual inquirer is subject to bias, error, and parochialism.} \\
+2. & \text{The community can correct the bias — if it satisfies the conditions of criticism.} \\
+3. & \text{The correction is not guaranteed, but it is the best available mechanism.} \\
 \hline
-4. & \therefore \text{The *objectivity* is *socially* *achieved*, not *individually* *guaranteed*.}
+4. & \therefore \text{The objectivity is socially achieved, not individually guaranteed.}
 \end{array}
 $$
 
@@ -659,11 +659,11 @@ The *fourth* *element* is *fallibilism*: all *knowledge* is *revisable*, and the
 
 $$
 \begin{array}{ll}
-1. & \text{The *history* of *inquiry* is a *history* of *refuted* *theories* and *revised* *norms*.} \\
-2. & \text{The *recognition* of the *history* *undermines* *the* *claim* to *certainty*.} \\
-3. & \text{The *recognition* *does* not *undermine* the *claim* to *justification*.} \\
+1. & \text{The history of inquiry is a history of refuted theories and revised norms.} \\
+2. & \text{The recognition of the history undermines the claim to certainty.} \\
+3. & \text{The recognition does not undermine the claim to justification.} \\
 \hline
-4. & \therefore \text{Knowledge is *justified*, *fallible*, and *revisable*.}
+4. & \therefore \text{Knowledge is justified, fallible, and revisable.}
 \end{array}
 $$
 
@@ -677,11 +677,11 @@ The *fifth* *element* is *the* *epistemic* *virtues*: *humility*, *courage*, *ho
 
 $$
 \begin{array}{ll}
-1. & \text{The *justification* of a *belief* is *not* *sufficient* for *good* *inquiry*.} \\
-2. & \text{The *inquirer* *needs* the *dispositions* to *seek* *objections*, *acknowledge* *error*, and *resist* *dogma*.} \\
-3. & \text{The *dispositions* are the *virtues*.} \\
+1. & \text{The justification of a belief is not sufficient for good inquiry.} \\
+2. & \text{The inquirer needs the dispositions to seek objections, acknowledge error, and resist dogma.} \\
+3. & \text{The dispositions are the virtues.} \\
 \hline
-4. & \therefore \text{The *virtues* are *constitutive* of *good* *inquiry*.}
+4. & \therefore \text{The virtues are constitutive of good inquiry.}
 \end{array}
 $$
 

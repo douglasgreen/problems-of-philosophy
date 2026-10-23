@@ -47,7 +47,7 @@ The *word* “consciousness” *names* *at least* *four* *distinct* *concepts*, 
 **The *structure*.**
 
 $$
-\text{State } S \text{ is *phenomenally conscious* iff } \exists x\, (\text{there is something it is like for } x \text{ to be in } S)
+\text{State } S \text{ is phenomenally conscious iff } \exists x\, (\text{there is something it is like for } x \text{ to be in } S)
 $$
 
 **The *examples*.** The *taste* of coffee, the *smell* of a rose, the *feeling* of *pain*, the *visual* *experience* of *red*, the *emotional* *experience* of *grief*.
@@ -82,10 +82,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *easy* *problems* are *explained* by *functional* *mechanisms* (the *functionalist* *premise*).} \\
-2. & \text{The *functional* *mechanisms* do *not* *explain* *why* there is *something* it is *like* to be in the *state* (the *explanatory* *gap*).} \\
+1. & \text{The easy problems are explained by functional mechanisms (the functionalist premise).} \\
+2. & \text{The functional mechanisms do not explain why there is something it is like to be in the state (the explanatory gap).} \\
 \hline
-3. & \therefore \text{The *hard* *problem* is *not* *reducible* to the *easy* *problems*.}
+3. & \therefore \text{The hard problem is not reducible to the easy problems.}
 \end{array}
 $$
 
@@ -99,12 +99,12 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *identity* between *pain* and *C-fiber* *firing* is *contingent* (it is *discovered* *a* *posteriori*).} \\
-2. & \text{The *identity* does *not* *explain* *why* *pain* *feels* the *way* it *does*.} \\
-3. & \text{The *explanation* *requires* a *conceptual* *connection* *between* the *physical* and the *phenomenal*.} \\
-4. & \text{The *connection* is *not* *available* (the *concepts* are *distinct*).} \\
+1. & \text{The identity between pain and C-fiber firing is contingent (it is discovered a posteriori).} \\
+2. & \text{The identity does not explain why pain feels the way it does.} \\
+3. & \text{The explanation requires a conceptual connection between the physical and the phenomenal.} \\
+4. & \text{The connection is not available (the concepts are distinct).} \\
 \hline
-5. & \therefore \text{The *explanatory* *gap* is *real*.}
+5. & \therefore \text{The explanatory gap is real.}
 \end{array}
 $$
 
@@ -144,11 +144,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{Mary *knows* *everything* *physical* *about* *color* *vision* *before* *leaving* the *room*.} \\
-2. & \text{When she *leaves*, she *learns* *something* *new*: *what* *red* *looks* *like*.} \\
-3. & \text{If she *learns* *something* *new*, the *new* *knowledge* is *not* *physical* *knowledge* (it is *not* *included* in the *physical* *facts* *she* *already* *knew*).} \\
+1. & \text{Mary knows everything physical about color vision before leaving the room.} \\
+2. & \text{When she leaves, she learns something new: what red looks like.} \\
+3. & \text{If she learns something new, the new knowledge is not physical knowledge (it is not included in the physical facts she already knew).} \\
 \hline
-4. & \therefore \text{There are *non-physical* *facts* (the *phenomenal* *facts*).}
+4. & \therefore \text{There are non-physical facts (the phenomenal facts).}
 \end{array}
 $$
 
@@ -180,11 +180,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{It is *conceivable* that there be a *zombie* (a *physical* *duplicate* *without* *consciousness*).} \\
-2. & \text{If it is *conceivable*, it is *metaphysically* *possible* (the *conceivability–possibility* *thesis*; Ch. 16, §6.2).} \\
-3. & \text{If it is *metaphysically* *possible*, *physicalism* is *false* (the *physical* *facts* do *not* *entail* the *phenomenal* *facts*).} \\
+1. & \text{It is conceivable that there be a zombie (a physical duplicate without consciousness).} \\
+2. & \text{If it is conceivable, it is metaphysically possible (the conceivability–possibility thesis; Ch. 16, §6.2).} \\
+3. & \text{If it is metaphysically possible, physicalism is false (the physical facts do not entail the phenomenal facts).} \\
 \hline
-4. & \therefore \text{Physicalism is *false*.}
+4. & \therefore \text{Physicalism is false.}
 \end{array}
 $$
 
@@ -214,10 +214,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *functional* *organization* is *sufficient* for *consciousness* (the *functionalist* *premise*; Ch. 23, §4).} \\
-2. & \text{The *Chinese* *nation* *has* the *functional* *organization* but *no* *phenomenal* *experience*.} \\
+1. & \text{The functional organization is sufficient for consciousness (the functionalist premise; Ch. 23, §4).} \\
+2. & \text{The Chinese nation has the functional organization but no phenomenal experience.} \\
 \hline
-3. & \therefore \text{Functionalism is *false*.}
+3. & \therefore \text{Functionalism is false.}
 \end{array}
 $$
 
@@ -244,7 +244,7 @@ $$
 **The *structure*.**
 
 $$
-\text{State } S \text{ is *conscious* iff } \exists H\, (H \text{ is a *representation* *of* } S)
+\text{State } S \text{ is conscious iff } \exists H\, (H \text{ is a representation of } S)
 $$
 
 **The *virtue*.** The *theory* *explains* the *difference* between *conscious* and *unconscious* *states* (the *higher-order* *representation* *makes* the *difference*), and it *fits* the *introspective* *access*.
@@ -323,11 +323,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *phenomenal* *properties* (qualia) are *introspectively* *represented* *as* *they* *seem* (the *“seeming”*).} \\
-2. & \text{The *introspective* *representations* are *the* *only* *data*.} \\
-3. & \text{The *introspective* *representations* *misrepresent* the *mental* *states* (they *attribute* *phenomenal* *properties* to *states* that *do* *not* *have* them).} \\
+1. & \text{The phenomenal properties (qualia) are introspectively represented as they seem (the “seeming”).} \\
+2. & \text{The introspective representations are the only data.} \\
+3. & \text{The introspective representations misrepresent the mental states (they attribute phenomenal properties to states that do not have them).} \\
 \hline
-4. & \therefore \text{The *phenomenal* *properties* are *illusions*.}
+4. & \therefore \text{The phenomenal properties are illusions.}
 \end{array}
 $$
 
@@ -347,11 +347,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *phenomenal* *concepts* *refer* to *physical* *properties*.} \\
-2. & \text{The *phenomenal* *concepts* *present* the *properties* *under* a *distinctive* *mode* (the *first-person*).} \\
-3. & \text{The *gap* *between* the *physical* *concept* and the *phenomenal* *concept* is an *epistemic* *gap*, not a *metaphysical* *gap*.} \\
+1. & \text{The phenomenal concepts refer to physical properties.} \\
+2. & \text{The phenomenal concepts present the properties under a distinctive mode (the first-person).} \\
+3. & \text{The gap between the physical concept and the phenomenal concept is an epistemic gap, not a metaphysical gap.} \\
 \hline
-4. & \therefore \text{Physicalism is *compatible* with the *explanatory* *gap*.}
+4. & \therefore \text{Physicalism is compatible with the explanatory gap.}
 \end{array}
 $$
 
@@ -395,10 +395,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *hard* *problem* is *generated* by our *intuitions* and *reports* (the *“problem* *intuitions”*).} \\
-2. & \text{The *intuitions* and *reports* are *cognitive* *phenomena*, *explainable* by *cognitive* *science*.} \\
+1. & \text{The hard problem is generated by our intuitions and reports (the “problem intuitions”).} \\
+2. & \text{The intuitions and reports are cognitive phenomena, explainable by cognitive science.} \\
 \hline
-3. & \therefore \text{The *meta-problem* is *tractable*, and its *solution* may *dissolve* the *hard* *problem*.}
+3. & \therefore \text{The meta-problem is tractable, and its solution may dissolve the hard problem.}
 \end{array}
 $$
 
@@ -423,10 +423,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *problem* *intuitions* are *fully* *explained* by *cognitive* *science* (the *meta-problem* is *solved*).} \\
-2. & \text{The *explanation* *shows* that the *intuitions* are *misrepresentations* (the *phenomenal* *properties* *do* not *exist*).} \\
+1. & \text{The problem intuitions are fully explained by cognitive science (the meta-problem is solved).} \\
+2. & \text{The explanation shows that the intuitions are misrepresentations (the phenomenal properties do not exist).} \\
 \hline
-3. & \therefore \text{The *hard* *problem* *dissolves*.}
+3. & \therefore \text{The hard problem dissolves.}
 \end{array}
 $$
 
@@ -440,10 +440,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *problem* *intuitions* are *not* *fully* *explained* by *cognitive* *science* (the *meta-problem* is *unsolved*).} \\
-2. & \text{The *intuitions* *track* a *real* *feature* of the *world* (the *phenomenal* *properties*).} \\
+1. & \text{The problem intuitions are not fully explained by cognitive science (the meta-problem is unsolved).} \\
+2. & \text{The intuitions track a real feature of the world (the phenomenal properties).} \\
 \hline
-3. & \therefore \text{The *hard* *problem* is *real* and *unresolved*.}
+3. & \therefore \text{The hard problem is real and unresolved.}
 \end{array}
 $$
 
@@ -571,11 +571,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{If the *self* were a *substance*, it would be *permanent* and *unchanging*.} \\
-2. & \text{Everything that is *observed* is *impermanent* and *changing*.} \\
-3. & \text{The *self* is *not* *observed* *apart* from the *aggregates*.} \\
+1. & \text{If the self were a substance, it would be permanent and unchanging.} \\
+2. & \text{Everything that is observed is impermanent and changing.} \\
+3. & \text{The self is not observed apart from the aggregates.} \\
 \hline
-4. & \therefore \text{The *self* is *not* a *substance*.}
+4. & \therefore \text{The self is not a substance.}
 \end{array}
 $$
 
@@ -591,11 +591,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *witness* is *that* *in* *which* all *experience* *appears*.} \\
-2. & \text{The *witness* is *not* *itself* an *object* of *experience* (it is *the* *subject*).} \\
-3. & \text{The *witness* is *unitary* and *unchanging*.} \\
+1. & \text{The witness is that in which all experience appears.} \\
+2. & \text{The witness is not itself an object of experience (it is the subject).} \\
+3. & \text{The witness is unitary and unchanging.} \\
 \hline
-4. & \therefore \text{The *self* is *pure* *consciousness* (the *witness*).}
+4. & \therefore \text{The self is pure consciousness (the witness).}
 \end{array}
 $$
 
@@ -611,10 +611,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *meditative* *states* are *correlated* with *neural* *changes* (the *empirical* *premise*).} \\
-2. & \text{The *changes* *explain* the *reports* *without* *positing* *non-physical* *consciousness*.} \\
+1. & \text{The meditative states are correlated with neural changes (the empirical premise).} \\
+2. & \text{The changes explain the reports without positing non-physical consciousness.} \\
 \hline
-3. & \therefore \text{The *reports* are *compatible* with *physicalism*.}
+3. & \therefore \text{The reports are compatible with physicalism.}
 \end{array}
 $$
 

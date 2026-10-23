@@ -62,11 +62,11 @@ The *chapter* proceeds in *eight* *movements*. §1 states the *question* and *re
 
 $$
 \begin{array}{ll}
-1. & \text{The *central* *questions* *remain* *disputed*} \ (\text{the *no* *convergence*}). \\
-2. & \text{The *discipline* *without* *settled* *answers* *yields* the *no* *knowledge*} \ (\text{the *Russell* *pessimism*}). \\
-3. & \text{The *value* *lies* in the *contemplation*, *not* in the *result*} \ (\text{the *union* *insight*}). \\
+1. & \text{The central questions remain disputed} \ (\text{the no convergence}). \\
+2. & \text{The discipline without settled answers yields the no knowledge} \ (\text{the Russell pessimism}). \\
+3. & \text{The value lies in the contemplation, not in the result} \ (\text{the union insight}). \\
 \hline
-4. & \therefore \text{The *philosophy* *gives* the *probable* *opinions*} \ (\text{the *no* *certainty*}), \ \text{and the *value* is the *practical*} \ (\text{the *enlargement*}), \ \text{and the *knowledge* *is* *not* the *goal*} \ (\text{the *no* *mere} \ \text{result*}).}
+4. & \therefore \text{The philosophy gives the probable opinions} \ (\text{the no certainty}), \ \text{and the value is the practical} \ (\text{the enlargement}), \ \text{and the knowledge is not the goal} \ (\text{the no mere} \ \text{result}).
 \end{array}
 $$
 
@@ -103,11 +103,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *limit* *question* *admits* of the *four* *loci* \ (\text{the *question*, the *method*, the *outcome*, the *ground*}).} \\
-2. & \text{The *loci* *yield* the *four* *diagnoses* \ (\text{the *no* *single* *failure*}).} \\
-3. & \text{The *diagnoses* *imply* the *different* *remedies* \ (\text{the *no* *single* *cure*}).} \\
+1. & \text{The limit question admits of the four loci (the question, the method, the outcome, the ground).} \\
+2. & \text{The loci yield the four diagnoses (the no single failure).} \\
+3. & \text{The diagnoses imply the different remedies (the no single cure).} \\
 \hline
-4. & \therefore \text{The *verdict* *requires* the *weighing*} \ (\text{the *no* *single} \ \text{answer*}), \ \text{and the *weighing* *is* the *philosophical*} \ (\text{the *no* *mere} \ \text{sociology*}), \ \text{and the *no* *diagnosis* *is* \text{the} *whole*} \ (\text{the *no* *reduction*}).}
+4. & \therefore \text{The verdict requires the weighing} \ (\text{the no single} \ \text{answer}), \ \text{and the weighing is the philosophical} \ (\text{the no mere} \ \text{sociology}), \ \text{and the no diagnosis is the whole} \ (\text{the no reduction}).
 \end{array}
 $$
 
@@ -135,18 +135,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *elucidation*} \rightarrow \text{the *insight*} \rightarrow \text{the *discarding*} \ (\text{the *no* *residue* of the *proposition*})
+\text{The elucidation} \rightarrow \text{the insight} \rightarrow \text{the discarding} \ (\text{the no residue of the proposition})
 $$
 
 **The *argument*** (Wittgenstein 1921, 6.54).
 
 $$
 \begin{array}{ll}
-1. & \text{The *philosophy* *clarifies* the *thought} \ (\text{the *no* *mere* *doctrine*}). \\
-2. & \text{The *clarification* *uses* the *propositions*} \ (\text{the *no* *mere* *content*}). \\
-3. & \text{The *propositions* *are* *discarded* *with* the *climb*} \ (\text{the *ladder* *insight*}). \\
+1. & \text{The philosophy clarifies the thought} \ (\text{the no mere doctrine}). \\
+2. & \text{The clarification uses the propositions} \ (\text{the no mere content}). \\
+3. & \text{The propositions are discarded with the climb} \ (\text{the ladder insight}). \\
 \hline
-4. & \therefore \text{The *philosophy* *ends* *in* the *silence*} \ (\text{the *no* *mere} \ \text{result*}), \ \text{and the *insight* *is* the *showing*} \ (\text{the *no* *mere} \ \text{saying*}), \ \text{and the *no* *doctrine* *is* the *point*} \ (\text{the *no* *mere} \ \text{thesis*}).}
+4. & \therefore \text{The philosophy ends in the silence} \ (\text{the no mere} \ \text{result}), \ \text{and the insight is the showing} \ (\text{the no mere} \ \text{saying}), \ \text{and the no doctrine is the point} \ (\text{the no mere} \ \text{thesis}).
 \end{array}
 $$
 
@@ -169,18 +169,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *grammatical* *confusion*} \rightarrow \text{the *description*} \rightarrow \text{the *dissolution*} \ (\text{the *no* *mere* *answer*})
+\text{The grammatical confusion} \rightarrow \text{the description} \rightarrow \text{the dissolution} \ (\text{the no mere answer})
 $$
 
 **The *argument*** (Wittgenstein 1953, §109).
 
 $$
 \begin{array}{ll}
-1. & \text{The *problems* *arise* from the *misuse* of the *language*} \ (\text{the *grammatical* *insight*}). \\
-2. & \text{The *description* of the *use* *dissolves* the *problem*} \ (\text{the *no* *mere* *theory*}). \\
-3. & \text{The *dissolution* *leaves* the *practice* *intact*} \ (\text{the *no* *mere* *revision*}). \\
+1. & \text{The problems arise from the misuse of the language} \ (\text{the grammatical insight}). \\
+2. & \text{The description of the use dissolves the problem} \ (\text{the no mere theory}). \\
+3. & \text{The dissolution leaves the practice intact} \ (\text{the no mere revision}). \\
 \hline
-4. & \therefore \text{The *philosophy* is the *therapy*} \ (\text{the *no* *mere} \ \text{doctrine*}), \ \text{and the *problem* is the *confusion*} \ (\text{the *no* *mere* \ \text{mystery*}), \ \text{and the *no* *revision* is the *result*} \ (\text{the *no* *mere} \ \text{system*}).}
+4. & \therefore \text{The philosophy is the therapy} \ (\text{the no mere} \ \text{doctrine}), \ \text{and the problem is the confusion} \ (\text{the no mere mystery), and the no revision is the result (the no mere system).}
 \end{array}
 $$
 
@@ -223,18 +223,18 @@ $$
 **The *structure***.
 
 $$
-\text{The *internal* *question*} \ \text{(the *answer* *within* the *framework*)} \quad \text{vs.} \quad \text{The *external* *question*} \ \text{(the *choice* of the *framework*)} \ (\text{the *no* *truth* *value*})
+\text{The internal question} \ \text{(the answer within the framework)} \quad \text{vs.} \quad \text{The external question} \ \text{(the choice of the framework)} \ (\text{the no truth value})
 $$
 
 **The *argument*** (Carnap 1950, §2).
 
 $$
 \begin{array}{ll}
-1. & \text{The *internal* *question* *presupposes* the *framework*} \ (\text{the *no* *mere* *metaphysics*}). \\
-2. & \text{The *external* *question* *is* the *practical* *choice*} \ (\text{the *no* *truth* *value*}). \\
-3. & \text{The *choice* *is* *assessed* by the *expediency*} \ (\text{the *no* *mere* *correspondence*}). \\
+1. & \text{The internal question presupposes the framework} \ (\text{the no mere metaphysics}). \\
+2. & \text{The external question is the practical choice} \ (\text{the no truth value}). \\
+3. & \text{The choice is assessed by the expediency} \ (\text{the no mere correspondence}). \\
 \hline
-4. & \therefore \text{The *ontological* *question* is the *practical*} \ (\text{the *Carnap* *insight*}), \ \text{and the *metaphysics* is the *pseudo*-*question*} \ (\text{the *no* *mere} \ \text{dispute*}), \ \text{and the *framework* *is* the *unit*} \ (\text{the *no* *mere} \ \text{object*}).}
+4. & \therefore \text{The ontological question is the practical} \ (\text{the Carnap insight}), \ \text{and the metaphysics is the pseudo-question} \ (\text{the no mere} \ \text{dispute}), \ \text{and the framework is the unit} \ (\text{the no mere} \ \text{object}).
 \end{array}
 $$
 
@@ -261,7 +261,7 @@ $$
 **The *structure***.
 
 $$
-\text{The *conceptual* *truth*} \ \Rightarrow \ \text{the *existence* *claim*} \ \Rightarrow \ \text{the *triviality*} \ (\text{the *no* *mere* *mystery*})
+\text{The conceptual truth} \ \Rightarrow \ \text{the existence claim} \ \Rightarrow \ \text{the triviality} \ (\text{the no mere mystery})
 $$
 
 **The *objections***.
@@ -306,11 +306,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *epistemology* *is* the *chapter* of the *psychology*} \ (\text{the *no* *first* *philosophy*}). \\
-2. & \text{The *chapter* *answers* the *acquisition* *question*} \ (\text{the *descriptive* *insight*}). \\
-3. & \text{The *description* *replaces* the *justification*} \ (\text{the *replacement* *insight*}). \\
+1. & \text{The epistemology is the chapter of the psychology} \ (\text{the no first philosophy}). \\
+2. & \text{The chapter answers the acquisition question} \ (\text{the descriptive insight}). \\
+3. & \text{The description replaces the justification} \ (\text{the replacement insight}). \\
 \hline
-4. & \therefore \text{The *naturalized* *epistemology* is the *successor*} \ (\text{the *Quine* *insight*}), \ \text{and the *no* *foundation* *is* the *result*} \ (\text{the *no* *mere} \ \text{archimedean*}), \ \text{and the *continuity* *is* the *doctrine*} \ (\text{the *no* *mere} \ \text{autonomy*}).}
+4. & \therefore \text{The naturalized epistemology is the successor} \ (\text{the Quine insight}), \ \text{and the no foundation is the result} \ (\text{the no mere} \ \text{archimedean}), \ \text{and the continuity is the doctrine} \ (\text{the no mere} \ \text{autonomy}).
 \end{array}
 $$
 
@@ -364,11 +364,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *problem* *arises* from the *misuse*} \ (\text{the *diagnostic* *insight*}). \\
-2. & \text{The *tool* *detects* the *misuse*} \ (\text{the *no* *mere* *intuition*}). \\
-3. & \text{The *detection* *dissolves* the *problem*} \ (\text{the *no* *mere* *answer*}). \\
+1. & \text{The problem arises from the misuse} \ (\text{the diagnostic insight}). \\
+2. & \text{The tool detects the misuse} \ (\text{the no mere intuition}). \\
+3. & \text{The detection dissolves the problem} \ (\text{the no mere answer}). \\
 \hline
-4. & \therefore \text{The *diagnosis* is the *skill*} \ (\text{the *no* *mere} \ \text{algorithm*}), \ \text{and the *tool* is the *criterion*} \ (\text{the *no* *single} \ \text{test*}), \ \text{and the *dissolution* is the *result*} \ (\text{the *no* *mere} \ \text{theory*}).}
+4. & \therefore \text{The diagnosis is the skill} \ (\text{the no mere} \ \text{algorithm}), \ \text{and the tool is the criterion} \ (\text{the no single} \ \text{test}), \ \text{and the dissolution is the result} \ (\text{the no mere} \ \text{theory}).
 \end{array}
 $$
 
@@ -390,11 +390,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *problem* *presupposes* the *false* *grammar*} \ (\text{the *no* *mere* *object*}). \\
-2. & \text{The *grammar* *is* the *mistake*} \ (\text{the *no* *mere* *mystery*}). \\
-3. & \text{The *dissolution* *leaves* the *practice* *intact*} \ (\text{the *no* *mere* *loss*}). \\
+1. & \text{The problem presupposes the false grammar} \ (\text{the no mere object}). \\
+2. & \text{The grammar is the mistake} \ (\text{the no mere mystery}). \\
+3. & \text{The dissolution leaves the practice intact} \ (\text{the no mere loss}). \\
 \hline
-4. & \therefore \text{The *success* is the *dissolution*} \ (\text{the *no* *mere} \ \text{answer*}), \ \text{and the *settled* *is* the *negative*} \ (\text{the *no* *mere} \ \text{construction*}), \ \text{and the *result* is the *clarification*} \ (\text{the *no* *mere} \ \text{doctrine*}).}
+4. & \therefore \text{The success is the dissolution} \ (\text{the no mere} \ \text{answer}), \ \text{and the settled is the negative} \ (\text{the no mere} \ \text{construction}), \ \text{and the result is the clarification} \ (\text{the no mere} \ \text{doctrine}).
 \end{array}
 $$
 
@@ -428,11 +428,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *diagnosis* *dissolves* the *genuine*} \ (\text{the *no* *mere* *pseudo*}). \\
-2. & \text{The *dissolution* *leaves* the *practice* *unexplained*} \ (\text{the *no* *mere* *gain*}). \\
-3. & \text{The *cost* *is* the *loss*} \ (\text{the *no* *mere* *liberation*}). \\
+1. & \text{The diagnosis dissolves the genuine} \ (\text{the no mere pseudo}). \\
+2. & \text{The dissolution leaves the practice unexplained} \ (\text{the no mere gain}). \\
+3. & \text{The cost is the loss} \ (\text{the no mere liberation}). \\
 \hline
-4. & \therefore \text{The *over*-*diagnosis* *fails*} \ (\text{the *no* *mere} \ \text{caution*}), \ \text{and the *genuine* *survives*} \ (\text{the *no* *mere} \ \text{dissolution*}), \ \text{and the *criterion* *matters*} \ (\text{the *no* *mere} \ \text{skill*}).}
+4. & \therefore \text{The over-diagnosis fails} \ (\text{the no mere} \ \text{caution}), \ \text{and the genuine survives} \ (\text{the no mere} \ \text{dissolution}), \ \text{and the criterion matters} \ (\text{the no mere} \ \text{skill}).
 \end{array}
 $$
 
@@ -481,11 +481,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *intuition* is the *evidence* of the *armchair*} \ (\text{the *no* *mere* *assumption*}). \\
-2. & \text{The *intuition* is the *unstable*} \ (\text{the *order*, the *framing*, the *culture*}). \\
-3. & \text{The *unstable* *evidence* *undermines* the *method*} \ (\text{the *no* *mere* *warrant*}). \\
+1. & \text{The intuition is the evidence of the armchair} \ (\text{the no mere assumption}). \\
+2. & \text{The intuition is the unstable} \ (\text{the order, the framing, the culture}). \\
+3. & \text{The unstable evidence undermines the method} \ (\text{the no mere warrant}). \\
 \hline
-4. & \therefore \text{The *armchair* is *undermined*} \ (\text{the *no* *mere} \ \text{reliability*}), \ \text{and the *data* *is* the *psychological*} \ (\text{the *no* *mere} \ \text{evidence*}), \ \text{and the *method* *is* the *empirical*} \ (\text{the *no* *mere} \ \text{reflection*}).}
+4. & \therefore \text{The armchair is undermined} \ (\text{the no mere} \ \text{reliability}), \ \text{and the data is the psychological} \ (\text{the no mere} \ \text{evidence}), \ \text{and the method is the empirical} \ (\text{the no mere} \ \text{reflection}).
 \end{array}
 $$
 
@@ -497,11 +497,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *x*-phi *assumes* the *intuition* *is* the *evidence*} \ (\text{the *no* *mere* *fact*}). \\
-2. & \text{The *philosophy* *argues* from the *premises*} \ (\text{the *no* *mere* *intuition*}). \\
-3. & \text{The *survey* *measures* the *report*} \ (\text{the *no* *mere* *state*}). \\
+1. & \text{The x-phi assumes the intuition is the evidence} \ (\text{the no mere fact}). \\
+2. & \text{The philosophy argues from the premises} \ (\text{the no mere intuition}). \\
+3. & \text{The survey measures the report} \ (\text{the no mere state}). \\
 \hline
-4. & \therefore \text{The *x*-phi *targets* the *straw*} \ (\text{the *no* *mere} \ \text{evidence*}), \ \text{and the *philosophy* *survives*} \ (\text{the *no* *mere} \ \text{refutation*}), \ \text{and the *method* *is* the *argument*} \ (\text{the *no* *mere} \ \text{survey*}).}
+4. & \therefore \text{The x-phi targets the straw} \ (\text{the no mere} \ \text{evidence}), \ \text{and the philosophy survives} \ (\text{the no mere} \ \text{refutation}), \ \text{and the method is the argument} \ (\text{the no mere} \ \text{survey}).
 \end{array}
 $$
 
@@ -557,11 +557,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *local* *results* *are* *settled*} \ (\text{the *no* *mere* *opinion*}). \\
-2. & \text{The *settled* *is* the *local*} \ (\text{the *no* *mere* *global*}). \\
-3. & \text{The *local* *is* the *knowledge*} \ (\text{the *no* *mere* *consensus*}). \\
+1. & \text{The local results are settled} \ (\text{the no mere opinion}). \\
+2. & \text{The settled is the local} \ (\text{the no mere global}). \\
+3. & \text{The local is the knowledge} \ (\text{the no mere consensus}). \\
 \hline
-4. & \therefore \text{The *philosophy* *has* *knowledge*} \ (\text{the *no* *mere} \ \text{pessimism*}), \ \text{and the *knowledge* *is* the *local*} \ (\text{the *no* *mere} \ \text{global*}), \ \text{and the *local* *is* the *transferable*} \ (\text{the *no* *mere} \ \text{insulation*}).}
+4. & \therefore \text{The philosophy has knowledge} \ (\text{the no mere} \ \text{pessimism}), \ \text{and the knowledge is the local} \ (\text{the no mere} \ \text{global}), \ \text{and the local is the transferable} \ (\text{the no mere} \ \text{insulation}).
 \end{array}
 $$
 
@@ -587,11 +587,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *dissolution* *removes* the *pseudo*-*entity*} \ (\text{the *no* *mere* *opinion*}). \\
-2. & \text{The *removal* *is* the *knowledge*} \ (\text{the *no* *mere* *loss*}). \\
-3. & \text{The *residue* *is* the *genuine*} \ (\text{the *no* *mere* *nothing*}). \\
+1. & \text{The dissolution removes the pseudo-entity} \ (\text{the no mere opinion}). \\
+2. & \text{The removal is the knowledge} \ (\text{the no mere loss}). \\
+3. & \text{The residue is the genuine} \ (\text{the no mere nothing}). \\
 \hline
-4. & \therefore \text{The *dissolution* *is* the *result*} \ (\text{the *no* *mere} \ \text{rhetoric*}), \ \text{and the *negative* *is* the *positive*} \ (\text{the *no* *mere} \ \text{slogan*}), \ \text{and the *residue* *is* the *next* *question*} \ (\text{the *no* *mere} \ \text{end*}).}
+4. & \therefore \text{The dissolution is the result} \ (\text{the no mere} \ \text{rhetoric}), \ \text{and the negative is the positive} \ (\text{the no mere} \ \text{slogan}), \ \text{and the residue is the next question} \ (\text{the no mere} \ \text{end}).
 \end{array}
 $$
 
@@ -620,11 +620,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *open* *questions* *remain*} \ (\text{the *no* *mere* *failure*}). \\
-2. & \text{The *openness* *is* the *structure*} \ (\text{the *no* *mere* *accident*}). \\
-3. & \text{The *structure* *is* the *honest*} \ (\text{the *no* *mere* *evasion*}). \\
+1. & \text{The open questions remain} \ (\text{the no mere failure}). \\
+2. & \text{The openness is the structure} \ (\text{the no mere accident}). \\
+3. & \text{The structure is the honest} \ (\text{the no mere evasion}). \\
 \hline
-4. & \therefore \text{The *openness* *is* the *result*} \ (\text{the *no* *mere} \ \text{failure*}), \ \text{and the *honesty* *is* the *virtue*} \ (\text{the *no* *mere} \ \text{dogma*}), \ \text{and the *no* *closure* *is* the *condition*} \ (\text{the *no* *mere} \ \text{defect*}).}
+4. & \therefore \text{The openness is the result} \ (\text{the no mere} \ \text{failure}), \ \text{and the honesty is the virtue} \ (\text{the no mere} \ \text{dogma}), \ \text{and the no closure is the condition} \ (\text{the no mere} \ \text{defect}).
 \end{array}
 $$
 
@@ -648,11 +648,11 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *question* *presupposes* the *false* *grammar*} \ (\text{the *no* *mere* *mystery*}). \\
-2. & \text{The *re*-*posing* *is* the *result*} \ (\text{the *no* *mere* *surrender*}). \\
-3. & \text{The *re*-*posing* *is* the *progress*} \ (\text{the *no* *mere* *rhetoric*}). \\
+1. & \text{The question presupposes the false grammar} \ (\text{the no mere mystery}). \\
+2. & \text{The re-posing is the result} \ (\text{the no mere surrender}). \\
+3. & \text{The re-posing is the progress} \ (\text{the no mere rhetoric}). \\
 \hline
-4. & \therefore \text{The *mis*-*posing* *is* the *diagnosis*} \ (\text{the *no* *mere} \ \text{failure*}), \ \text{and the *re*-*posing* *is* the *constructive*} \ (\text{the *no* *mere} \ \text{dissolution*}), \ \text{and the *progress* *is* the *reframing*} \ (\text{the *no* *mere} \ \text{answer*}).}
+4. & \therefore \text{The mis-posing is the diagnosis} \ (\text{the no mere} \ \text{failure}), \ \text{and the re-posing is the constructive} \ (\text{the no mere} \ \text{dissolution}), \ \text{and the progress is the reframing} \ (\text{the no mere} \ \text{answer}).
 \end{array}
 $$
 
@@ -720,12 +720,12 @@ The *table* is a *map*, not a *verdict*. The *reader* who *wants* to *choose* a 
 
 $$
 \begin{array}{ll}
-1. & \text{The *local* *knowledge*} \ (\text{the *no* *pessimism*}) \ \text{and the *no* *global* *convergence*} \ (\text{the *no* *optimism*}). \\
-2. & \text{The *negative* *knowledge*} \ (\text{the *dissolution* *insight*}) \ \text{and the *reframing*} \ (\text{the *mis*-*posed* *insight*}). \\
-3. & \text{The *humbled* *intuition*} \ (\text{the *x*-phi* *insight*}) \ \text{and the *tested* *argument*} \ (\text{the *critique* *insight*}). \\
-4. & \text{The *liberal* *naturalism*} \ (\text{the *no* *mere* *autonomy*}) \ \text{and the *openness*} \ (\text{the *no* *closure*}). \\
+1. & \text{The local knowledge} \ (\text{the no pessimism}) \ \text{and the no global convergence} \ (\text{the no optimism}). \\
+2. & \text{The negative knowledge} \ (\text{the dissolution insight}) \ \text{and the reframing} \ (\text{the mis-posed insight}). \\
+3. & \text{The humbled intuition} \ (\text{the x-phi insight}) \ \text{and the tested argument} \ (\text{the critique insight}). \\
+4. & \text{The liberal naturalism} \ (\text{the no mere autonomy}) \ \text{and the openness} \ (\text{the no closure}). \\
 \hline
-5. & \therefore \text{The *reflective* *fallibilism*} \ (\text{the *integration* *insight*}), \ *qualified* \text{by the *admission* that the *scope*, the *method*, the *authority*, the *progress*, the *naturalism*, the *diagnosis*, and the *intuition* *remain* *contested*.}
+5. & \therefore \text{The reflective fallibilism} \ (\text{the integration insight}), \text{qualified by the admission that the scope, the method, the authority, the progress, the naturalism, the diagnosis, and the intuition remain contested.}
 \end{array}
 $$
 
