@@ -13,7 +13,7 @@
 
 Chapter 33 ended with *paradox* — the point at which the *concepts* of *semantics* break down. This chapter approaches the *same* *territory* from a *different* *direction*: not from the *content* of the utterance but from the *act* of uttering it.
 
-The *shift* is *decisive*, and it was *Austin*'s. The *tradition* that *preceded* him treated language as a *system* of *representations* — strings of symbols with *truth conditions*. Austin *observed* that *most* of what we *do* with language is *not* *representation*. We *promise*, *warn*, *name*, *marry*, *bet*, *order*, *apologise*, *insult*, and *insinuate*. These *acts* are *not* *assessable* as *true* or *false* in the first instance; they are *assessable* as *felicitous* or *infelicitous*, *appropriate* or *inappropriate*, *binding* or *void*. And the *conditions* of *felicity* are *social*, *institutional*, and *normative* — they are the point at which *language* meets *power*.
+The *shift* is *decisive*, and it was *Austin*'s. The *tradition* that *preceded* him treated language as a *system* of *representations* — strings of symbols with *truth conditions*. Austin *observed* that *most* of what we *do* with language is *not* *representation*. We *promise*, *warn*, *name*, *marry*, *bet*, *order*, *apologize*, *insult*, and *insinuate*. These *acts* are *not* *assessable* as *true* or *false* in the first instance; they are *assessable* as *felicitous* or *infelicitous*, *appropriate* or *inappropriate*, *binding* or *void*. And the *conditions* of *felicity* are *social*, *institutional*, and *normative* — they are the point at which *language* meets *power*.
 
 The chapter's *thesis* is that the *pragmatic* *dimension* of language is *not* a *peripheral* *addition* to the *semantic* *core* but a *constitutive* *dimension* of the *same* phenomenon; that the *semantics/pragmatics* *boundary* is *real* but *contested*; that *presupposition* reveals the *normative* *background* against which every *utterance* is *made*; and that the *speech-act* *framework*, *properly* *developed*, is the *most* *powerful* *tool* that *philosophy* has for understanding *language* as a *social* *practice*.
 
@@ -35,7 +35,7 @@ The chapter proceeds in nine movements. §1 examines the *performative* and its 
 | “I promise to pay you five pounds” | It *creates* an obligation | *Binding* or *void* |
 | “I bet you sixpence it will rain tomorrow” | It *places* a bet | *Effective* or *ineffective* |
 | “I pronounce you husband and wife” | It *marries* the couple | *Valid* or *invalid* |
-| “I apologise for the delay” | It *apologises* | *Sincere* or *insincere* |
+| “I apologize for the delay” | It *apologizes* | *Sincere* or *insincere* |
 
 **The *thesis***. The *utterances* are **performative**: in *saying* the *words*, the *speaker* *does* the *act*, and the *act* is *not* a *description* of the *act* (the *utterance* does *not* *describe* a *naming*; it *is* the *naming*).
 
@@ -64,7 +64,7 @@ $$
 
 | The *kind* | The *condition* *violated* | The *example* |
 |---|---|---|
-| **Misinvocation** | A.1, A.2 | The *ship-naming* by someone *not* *authorised*; the *baptism* in a *country* that *does* not *recognise* the *church* |
+| **Misinvocation** | A.1, A.2 | The *ship-naming* by someone *not* *authorized*; the *baptism* in a *country* that *does* not *recognize* the *church* |
 | **Misexecution** | B.1, B.2 | The *marriage* *ceremony* with the *wrong* *words*; the *bet* that is *not* *completed* |
 | **Abuse** | Γ.1, Γ.2 | The *insincere* *promise*; the *apology* without *regret*; the *warning* without *belief* |
 
@@ -97,7 +97,7 @@ $$
 
 ### 2.1 The structure
 
-**The *thesis*** (Austin 1962, Lecture VIII, pp. 94–108). The *total* *speech* *act* is *analysed* into *three* *acts*.
+**The *thesis*** (Austin 1962, Lecture VIII, pp. 94–108). The *total* *speech* *act* is *analyzed* into *three* *acts*.
 
 | The *act* | The *definition* | The *example* |
 |---|---|---|
@@ -121,7 +121,7 @@ $$
 
 ### 2.2 The formal distinction
 
-**The *structure* (the *Searlean* *formalisation*; Searle 1969, Ch. 2).
+**The *structure* (the *Searlean* *formalization*; Searle 1969, Ch. 2).
 
 $$
 \text{Speech act} = F(p)
@@ -144,7 +144,7 @@ $$
 
 **The *question***. Is the *illocutionary* *act* *complete* when the *hearer* *understands* it (the *uptake*), or *independently* of the *hearer*?
 
-**Austin's *requirement*** (1962, p. 117). The *illocutionary* *act* *requires* the *uptake* (the *hearer*'s *recognition* of the *force*). The *order* is *given* only if the *hearer* *recognises* it as an *order*.
+**Austin's *requirement*** (1962, p. 117). The *illocutionary* *act* *requires* the *uptake* (the *hearer*'s *recognition* of the *force*). The *order* is *given* only if the *hearer* *recognizes* it as an *order*.
 
 **The *objection***. The *uptake* *requirement* makes the *illocutionary* *act* *depend* on the *hearer*, and the *dependence* *blurs* the *distinction* between the *illocutionary* (the *act* *done* *in* *saying*) and the *perlocutionary* (the *act* *done* *by* *saying*).
 
@@ -248,7 +248,7 @@ $$
 U \ \text{meant}_{\text{nn}} \ \text{something by} \ x \quad \text{iff} \quad U \ \text{intended} \ x \ \text{to produce some effect in an audience by means of the recognition of that intention}
 $$
 
-**The *structure***. The *intention* is *reflexive*: the *speaker* *intends* the *hearer* to *recognise* the *intention*, and the *recognition* is the *means* by which the *effect* is *produced*.
+**The *structure***. The *intention* is *reflexive*: the *speaker* *intends* the *hearer* to *recognize* the *intention*, and the *recognition* is the *means* by which the *effect* is *produced*.
 
 **The *virtue***. The *analysis* *explains* the *difference* between the *natural* *meaning* (the *smoke* *means* *fire*, and the *meaning* is *causal*) and the *non-natural* *meaning* (the *utterance* *means* something, and the *meaning* is *intentional*), and it *grounds* the *meaning* in the *communicative* *intention*.
 
@@ -304,7 +304,7 @@ $$
 | The *property* | The *definition* | The *test* |
 |---|---|---|
 | **Calculability** | The *implicature* can be *derived* from the *content*, the *CP*, and the *context* | The *reconstruction* of the *inference* |
-| **Cancellability** | The *implicature* can be *cancelled* without *contradiction* | “Some passed, and in fact all did” |
+| **Cancellability** | The *implicature* can be *canceled* without *contradiction* | “Some passed, and in fact all did” |
 | **Non-detachability** | The *implicature* *survives* the *substitution* of *synonyms* | “A few passed” (the *same* *implicature*) |
 | **Determinacy** | The *implicature* is *determined* by the *context* | The *contested* *property* |
 
@@ -338,7 +338,7 @@ $$
 
 ### 5.2 Relevance theory
 
-**The *thesis*** (Sperber & Wilson, *Relevance: Communication and Cognition*, 1986; 2nd ed., 1995). The *communication* is *governed* by the *principle* *of* *relevance* (the *cognitive* *effect* *relative* to the *processing* *effort*), and the *implicature* is a *by*-*product* of the *relevance* *maximisation*.
+**The *thesis*** (Sperber & Wilson, *Relevance: Communication and Cognition*, 1986; 2nd ed., 1995). The *communication* is *governed* by the *principle* *of* *relevance* (the *cognitive* *effect* *relative* to the *processing* *effort*), and the *implicature* is a *by*-*product* of the *relevance* *maximization*.
 
 **The *structure***.
 
@@ -354,7 +354,7 @@ $$
 
 **The *reply***. The *relevance* is a *theoretical* *notion* (the *effect* and the *effort* are *defined* *within* the *theory*), and the *reply* *grounds* the *theory* in the *empirical* *predictions*. The *reply* is *contested*.
 
-**(ii) The *‘*no* *social* *dimension*’* *objection*. The *theory* *ignores* the *social* *norms* (the *politeness*, the *power*, the *institutions*; §9), and the *communication* is *not* *only* *relevance* *maximisation*.
+**(ii) The *‘*no* *social* *dimension*’* *objection*. The *theory* *ignores* the *social* *norms* (the *politeness*, the *power*, the *institutions*; §9), and the *communication* is *not* *only* *relevance* *maximization*.
 
 **The *reply***. The *social* *norms* are *part* of the *context* (the *relevance* *depends* on the *norms*), and the *reply* *integrates* the *social* *dimension* into the *theory*. The *reply* is *contested*.
 
@@ -367,7 +367,7 @@ $$
 | **Semantic minimalism** | There is a *minimal* *proposition* (the *literal* *content*) | Cappelen & Lepore, *Insensitive Semantics* (2005) |
 | **Contextualism** | The *truth* *conditions* *depend* on the *context* (the *free* *enrichment*) | Recanati (2004); Travis (1985) |
 | **Relativism** | The *truth* *depends* on the *assessor* (the *assessment* *sensitivity*; Ch. 32, §8.2) | MacFarlane (2014) |
-| **Relevance theory** | The *content* is *inferred* by the *relevance* *maximisation* | Sperber & Wilson (1986) |
+| **Relevance theory** | The *content* is *inferred* by the *relevance* *maximization* | Sperber & Wilson (1986) |
 
 **The *stakes***. The *boundary* *determines* the *theory* of *meaning* (Ch. 31, §3.2), the *theory* of *truth* (Ch. 32, §5), and the *theory* of *communication* (the *pragmatics*).
 
@@ -403,8 +403,8 @@ $$
 | **Negation** | *Projects* | “The King of France is not bald” (still presupposes) |
 | **Question** | *Projects* | “Is the King of France bald?” (still presupposes) |
 | **Modal** | *Projects* | “The King of France might be bald” (still presupposes) |
-| **Conditional** | *Cancelled* | “If there is a King of France, the King of France is bald” (no presupposition) |
-| **Conjunction** | *Cancelled* | “There is a King of France, and the King of France is bald” (no presupposition) |
+| **Conditional** | *Canceled* | “If there is a King of France, the King of France is bald” (no presupposition) |
+| **Conjunction** | *Canceled* | “There is a King of France, and the King of France is bald” (no presupposition) |
 
 **The *theories***.
 
@@ -504,7 +504,7 @@ $$
 |---|---|---|
 | **Gricean** | Irony *flouts* the *maxim* of *quality* (the *speaker* *says* what she *believes* *false*, and the *hearer* *infers* the *opposite*) | Grice (1975) |
 | **Echoic** | Irony is *echoic* (the *speaker* *echoes* a *claim* *she* *does* not *endorse*) | Wilson & Sperber (1992) |
-| **Pretence** | Irony is a *pretence* (the *speaker* *pretends* to *assert*) | Clark & Gerrig (1984) |
+| **Pretense** | Irony is a *pretense* (the *speaker* *pretends* to *assert*) | Clark & Gerrig (1984) |
 
 **The *objections***.
 
@@ -512,9 +512,9 @@ $$
 
 **The *reply*** (the *echoic* *account*). The *irony* is *echoic* (the *speaker* *echoes* a *claim* *without* *endorsing* it), and the *reply* *grounds* the *irony* in the *echoic* *use*. The *reply* is *contested*.
 
-**(ii) The *‘*no* *pretence*’* *objection*. The *irony* is *not* a *pretence* (the *speaker* is *sincere* *in* the *irony*), and the *pretence* *account* *misses* the *sincerity*.
+**(ii) The *‘*no* *pretense*’* *objection*. The *irony* is *not* a *pretense* (the *speaker* is *sincere* *in* the *irony*), and the *pretense* *account* *misses* the *sincerity*.
 
-**The *reply*** (the *pretence* *account*). The *pretence* *is* the *form* of the *irony* (the *speaker* *pretends* to *believe* the *claim*), and the *reply* *grounds* the *irony* in the *pretence*. The *reply* is *contested*.
+**The *reply*** (the *pretense* *account*). The *pretense* *is* the *form* of the *irony* (the *speaker* *pretends* to *believe* the *claim*), and the *reply* *grounds* the *irony* in the *pretense*. The *reply* is *contested*.
 
 ### 7.3 Hyperbole and understatement
 
@@ -549,10 +549,10 @@ $$
 
 | The *kind* | The *definition* | The *example* |
 |---|---|---|
-| **Overt** | The *dogwhistle* *is* *recognised* by the *audience* (the *deniability* is *plausible*) | The *“*inner city*”* *code* |
-| **Covert** | The *dogwhistle* is *not* *recognised* by the *audience* (the *speaker* *exploits* the *ignorance*) | The *“*welfare queen*”* *code* |
+| **Overt** | The *dogwhistle* *is* *recognized* by the *audience* (the *deniability* is *plausible*) | The *“*inner city*”* *code* |
+| **Covert** | The *dogwhistle* is *not* *recognized* by the *audience* (the *speaker* *exploits* the *ignorance*) | The *“*welfare queen*”* *code* |
 
-**The *significance***. The *dogwhistles* *show* that the *implicature* *can* be *weaponised* (the *speaker* *communicates* the *derogatory* *content* *without* *being* *held* *accountable*), and the *phenomenon* *connects* the *pragmatics* to the *politics* (Ch. 11, §6.2).
+**The *significance***. The *dogwhistles* *show* that the *implicature* *can* be *weaponized* (the *speaker* *communicates* the *derogatory* *content* *without* *being* *held* *accountable*), and the *phenomenon* *connects* the *pragmatics* to the *politics* (Ch. 11, §6.2).
 
 ### 7.5 The continuum
 
@@ -585,7 +585,7 @@ $$
 
 **The *structure***. The *content* $\neg p$ *contradicts* the *presupposition* $p$ of the *act* (the *assertion* *presupposes* the *truth* *norms*, the *sincerity*, the *authority*, the *intelligibility*), and the *contradiction* is *performative* (the *act* *contradicts* the *content*).
 
-**The *significance***. The *argument* *grounds* the *critique* of *scepticism* (Ch. 6, §3.3) and of *relativism* (Ch. 13, §4), and it *connects* the *speech-act* *theory* to the *epistemology* and to the *ethics* of *discourse*.
+**The *significance***. The *argument* *grounds* the *critique* of *skepticism* (Ch. 6, §3.3) and of *relativism* (Ch. 13, §4), and it *connects* the *speech-act* *theory* to the *epistemology* and to the *ethics* of *discourse*.
 
 ### 8.2 The presuppositions of assertion
 
@@ -659,17 +659,17 @@ $$
 
 **The *examples***.
 
-**(i) The *refusal***. The *woman* *says* “no” (the *refusal*), and the *hearer* *does* not *recognise* the *utterance* *as* a *refusal* (the *hearer* *hears* the *“*no*”* as a *“*yes*”*), and the *refusal* *fails* *to* *be* an *act* (the *illocutionary* *disablement*).
+**(i) The *refusal***. The *woman* *says* “no” (the *refusal*), and the *hearer* *does* not *recognize* the *utterance* *as* a *refusal* (the *hearer* *hears* the *“*no*”* as a *“*yes*”*), and the *refusal* *fails* *to* *be* an *act* (the *illocutionary* *disablement*).
 
 **(ii) The *pornography***. The *pornography* *performs* the *act* of *subordination* (it *ranks* the *women* *as* *inferior*, it *legitimates* the *violence*), and the *act* *requires* the *authority* (the *authority* *is* *conferred* by the *social* *acceptance*).
 
 **(iii) The *hate* *speech***. The *hate* *speech* *performs* the *act* of *subordination* (it *ranks* the *group* *as* *inferior*), and the *act* *requires* the *authority* (the *authority* *is* *conferred* by the *social* *acceptance*).
 
-**The *virtue***. The *theory* *grounds* the *harm* of the *speech* *in* the *illocutionary* *act* (the *speech* *does* something, and the *doing* is *harmful*), and it *avoids* the *“*mere* *words”* *defence*.
+**The *virtue***. The *theory* *grounds* the *harm* of the *speech* *in* the *illocutionary* *act* (the *speech* *does* something, and the *doing* is *harmful*), and it *avoids* the *“*mere* *words”* *defense*.
 
 **The *objections***.
 
-**(i) The *‘*no* *authority*’* *objection*. The *pornography* and the *hate* *speech* *do* not *have* the *authority* (the *state* *does* not *authorise* them), and the *theory* *over*-*extends* the *authority* *condition*.
+**(i) The *‘*no* *authority*’* *objection*. The *pornography* and the *hate* *speech* *do* not *have* the *authority* (the *state* *does* not *authorize* them), and the *theory* *over*-*extends* the *authority* *condition*.
 
 **The *reply*** (Langton 1993). The *authority* *is* *conferred* by the *social* *acceptance* (the *informal* *authority*), and the *reply* *distinguishes* the *formal* (the *legal*) from the *informal* (the *social*) *authority*. The *reply* is *contested*.
 
@@ -707,9 +707,9 @@ $$
 
 **The *significance***. The *legal* *performatives* *show* that the *speech-act* *theory* *grounds* the *legal* *ontology* (the *facts* are *constituted* by the *acts*), and the *theory* *connects* the *philosophy* of *language* to the *philosophy* of *law* (Ch. 47, §7).
 
-### 9.5 The *‘*just words*’* *defence*
+### 9.5 The *‘*just words*’* *defense*
 
-**The *thesis***. The *defence* *“*these are just words*”* *is* *false* (the *words* *do* things), and the *speech-act* *theory* *refutes* the *defence*.
+**The *thesis***. The *defense* *“*these are just words*”* *is* *false* (the *words* *do* things), and the *speech-act* *theory* *refutes* the *defense*.
 
 **The *argument***.
 
@@ -737,7 +737,7 @@ $$
 - **The semantics/pragmatics boundary is contested**, and the *contextualist* and *minimalist* positions are both *live*.
 - **Presupposition is a normative background**, and the *projection* *problem* is *unresolved*.
 - **Non-literal speech is a continuum**, and the *metaphor*, *irony*, and *slurs* are *central* to the *pragmatics*.
-- **The performative contradiction is a real argument**, and it grounds the *critique* of scepticism and relativism.
+- **The performative contradiction is a real argument**, and it grounds the *critique* of skepticism and relativism.
 - **The speech acts are social and political**, and the *authority* condition grounds the *silencing* and the *epistemic* *injustice*.
 
 ### 10.2 What is open
@@ -768,7 +768,7 @@ The honest verdict: the theory of speech acts is a field in transition. The clas
 | **Austin** | The performative/constative distinction | Fits the practice | The distinction collapses |
 | **Searle** | The taxonomy and the constitutive rules | Systematic; institutional | The exhaustiveness |
 | **Grice** | The implicature and the CP | Fits the communication | The boundary |
-| **Relevance theory** | The relevance maximisation | Unifies the maxims | The circularity |
+| **Relevance theory** | The relevance maximization | Unifies the maxims | The circularity |
 | **Semantic minimalism** | The minimal proposition | Preserves compositionality | The free enrichment |
 | **Contextualism** | The truth conditions depend on the context | Fits the free enrichment | The instability |
 | **Stalnaker** | The common ground and the accommodation | Dynamic; social | The common knowledge |
@@ -820,7 +820,7 @@ The *chapter* — and *Part V* — *ends* with a *hinge*. The *hinge* is the *re
 - **The semantics/pragmatics boundary** is *contested*: the *minimalism*, the *contextualism*, the *relevance* theory, and the *relativism* are *all* *live*.
 - **Presupposition** is a *normative* background (the *common* *ground*), and the *projection* problem is *unresolved*.
 - **Non-literal speech** (metaphor, irony, hyperbole, slurs, dogwhistles) is a *continuum*, and the *pragmatic* accounts are *contested*.
-- **The performative contradiction** *grounds* the *critique* of scepticism and relativism, and the *abuse* of the argument is a *risk*.
+- **The performative contradiction** *grounds* the *critique* of skepticism and relativism, and the *abuse* of the argument is a *risk*.
 - **Language and power** are *entangled*: the *authority* condition, the *silencing*, the *epistemic* injustice, and the *legal* performatives *show* that the *speech* acts are *social* and *political*.
 - **The most defensible position** is a *qualified* *contextualism* *combined* with a *speech-act* *theory* of *power*, *qualified* by the *admission* of the *contested* boundary and the *incomplete* accounts.
 
@@ -841,14 +841,14 @@ The *chapter* — and *Part V* — *ends* with a *hinge*. The *hinge* is the *re
 11. State the *presupposition* and the *projection* *problem*. Which *theory* is *most* *defensible*?
 12. State Stalnaker's *common ground*. Is the *accommodation* *explained*?
 13. State the *Davidsonian* *theory* of *metaphor*. Is the *theory* *defensible*? What are the *embedding* *objections*?
-14. State the *Gricean*, *echoic*, and *pretence* *theories* of *irony*. Which is *most* *defensible*?
+14. State the *Gricean*, *echoic*, and *pretense* *theories* of *irony*. Which is *most* *defensible*?
 15. State the *slur* *debate*. Is the *slur* *semantic* or *pragmatic*?
 16. State the *dogwhistles*. How do they *exploit* the *implicature*?
 17. State the *performative* *contradiction*. Is the *argument* *defensible*? What are the *limits*?
 18. State the *authority* condition. How does it *ground* the *silencing*?
 19. State Langton's *silencing* *argument*. Is the *argument* *defensible*?
 20. State McGowan's *exercitive* *acts*. Do the *speech* acts *change* the *social* *world*?
-21. Is the *“*just words*”* *defence* *false*? What does the *answer* *imply* for the *ethics* of *language*?
+21. Is the *“*just words*”* *defense* *false*? What does the *answer* *imply* for the *ethics* of *language*?
 22. Is the *speech-act* *theory* *applicable* to the *legal* *performatives*? What does the *answer* *imply* for the *philosophy* of *law*?
 23. Is the *semantics/pragmatics* *boundary* *real*? What does the *answer* *imply* for the *theory* of *meaning* (Ch. 31)?
 24. Is the *performative* *contradiction* a *legitimate* *argument*, or a *rhetorical* *device*?

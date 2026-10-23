@@ -275,10 +275,10 @@ The *mental* *property* *is* the *functional* *property*; the *physical* *realiz
 
 | Element | What it is | The *example* |
 |---|---|---|
-| **Phenomenon** | The *behaviour* to be *explained* | *Memory* *consolidation* |
+| **Phenomenon** | The *behavior* to be *explained* | *Memory* *consolidation* |
 | **Entities** | The *components* | Neurons, synapses, molecules |
 | **Activities** | What the *entities* *do* | Firing, *binding*, *phosphorylation* |
-| **Organisation** | How the *components* are *arranged* | The *circuit* *structure* |
+| **Organization** | How the *components* are *arranged* | The *circuit* *structure* |
 
 **The *argument*.**
 
@@ -301,7 +301,7 @@ $$
 
 **The *problem*.** The *nesting* *raises* the *problem* of *which* *level* is the *causal* *level*, and the *problem* is *connected* to the *exclusion* *argument* (§7).
 
-**The *response*. The *mechanist* *argues* that *all* the *levels* are *causally* *relevant*: the *higher* *level* *describes* the *organisation*, and the *organisation* is *causally* *efficacious* (the *organisation* *determines* *which* *lower*-level *activities* *occur*).
+**The *response*. The *mechanist* *argues* that *all* the *levels* are *causally* *relevant*: the *higher* *level* *describes* the *organization*, and the *organization* is *causally* *efficacious* (the *organization* *determines* *which* *lower*-level *activities* *occur*).
 
 ### 4.3 The criticisms
 
@@ -668,7 +668,7 @@ $$
 | **Gene** | A DNA sequence that codes for a protein (or an RNA) |
 | **Allele** | A variant of the DNA sequence |
 | **Dominance** | The interaction of the gene products |
-| **Segregation** | The behaviour of chromosomes in meiosis |
+| **Segregation** | The behavior of chromosomes in meiosis |
 
 **The *problems*.**
 
@@ -701,7 +701,7 @@ $$
 1. **Reduction is not a single relation.** The *cases* *exhibit* *different* *relations* (deduction, approximation, mechanism, *grounding*).
 2. **Reduction is partial.** The *reductions* *succeed* *in* *explaining* *some* *phenomena* and *fail* for *others*.
 3. **The higher levels remain indispensable.** The *levels* *remain* *explanatorily* *necessary*, even when the *reduction* *succeeds*.
-4. **Reduction is a research programme, not a verdict.** The *reductions* *are* *achievements* that *take* *decades* and *require* *new* *concepts*; they are *not* *given* by the *ontology*.
+4. **Reduction is a research program, not a verdict.** The *reductions* *are* *achievements* that *take* *decades* and *require* *new* *concepts*; they are *not* *given* by the *ontology*.
 5. **The pluralism is confirmed by the practice.** The *sciences* *use* *different* *relations* in *different* *domains*, and the *pluralism* is the *best* *description* of the *practice*.
 
 ---
@@ -944,7 +944,7 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 Cross-cutting material, for the reader who wants to go deeper.
 
-**1. The *interventionist* account of levels.** If *causation* is *intervention* (Ch. 18, §3), the *levels* can be *defined* by the *interventions* that *manipulate* the *variables* at *each* level. The *account* *avoids* the *levels* *problem* by *relativising* the *levels* to the *interventions*, and it *connects* the *theory* of *causation* to the *theory* of *reduction*. The *account* is *promising* and *underdeveloped*.
+**1. The *interventionist* account of levels.** If *causation* is *intervention* (Ch. 18, §3), the *levels* can be *defined* by the *interventions* that *manipulate* the *variables* at *each* level. The *account* *avoids* the *levels* *problem* by *relativizing* the *levels* to the *interventions*, and it *connects* the *theory* of *causation* to the *theory* of *reduction*. The *account* is *promising* and *underdeveloped*.
 
 **2. The *grounding* *regress* and the *criterion* *problem*.** The *regress* of *grounds* (this *chapter*) is *structurally* *parallel* to the *regress* of *justification* (Ch. 8). The *responses* (foundationalism, coherentism, infinitism) *mirror* the *epistemic* *responses*, and the *problems* (the *given*, the *isolation*, the *finite* *capacity*) *mirror* the *epistemic* *problems*. The *parallel* is *instructive*, and it is *underdeveloped*.
 
@@ -952,7 +952,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 **4. Non-Western *theories* of *levels*.** The *Buddhist* *Abhidharma* *tradition* *developed* a *hierarchy* of *dharmas* (the *irreducible* *elements* of *experience*) that *anticipates* the *levels* *debate*, and the *Nyāya-Vaiśeṣika* *tradition* *developed* a *category* *theory* (the *padārthas*) that *anticipates* the *natural* *kinds* *debate*. The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
 
-**5. The *levels* and *artificial* *intelligence*.** The *hierarchical* *structure* of *AI* *systems* (layers in a *neural* *network*, levels of *abstraction* in a *cognitive* *architecture*) *mirrors* the *levels* *debate*: the *higher* *layers* are *emergent* in the *weak* *sense*, and the *explanation* of the *system's* *behaviour* *requires* the *higher* *levels*. The *analogy* is *instructive*, and it is *beginning* to be *explored* (Ch. 29, §3).
+**5. The *levels* and *artificial* *intelligence*.** The *hierarchical* *structure* of *AI* *systems* (layers in a *neural* *network*, levels of *abstraction* in a *cognitive* *architecture*) *mirrors* the *levels* *debate*: the *higher* *layers* are *emergent* in the *weak* *sense*, and the *explanation* of the *system's* *behavior* *requires* the *higher* *levels*. The *analogy* is *instructive*, and it is *beginning* to be *explored* (Ch. 29, §3).
 
 ---
 

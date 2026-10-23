@@ -59,7 +59,7 @@ The *problem* is stated most *vividly* by Arthur Eddington, in the *introduction
 | **Shape** | The *particles* | Primary |
 | **Size** | The *particles* | Primary |
 | **Motion** | The *particles* | Primary |
-| **Colour** | The *observer* | Secondary |
+| **Color** | The *observer* | Secondary |
 | **Solidity** | The *particles* | Primary (but *mysterious*) |
 
 **The *virtue*.** The *view* *reduces* the *qualitative* *richness* of the *world* to a *small* *set* of *quantitative* *properties*, and it *explains* the *qualitative* *richness* as an *effect* on *observers* (Ch. 5, §7.1).
@@ -588,7 +588,7 @@ $$
 
 ### 6.4 Newman's problem
 
-**The *problem*** (Newman 1928; Ketland 2004). The *ESR* *claims* that the *structure* *is* *preserved*, but the *structure* is *defined* *only* *up* to *isomorphism*. The *claim* that the *structure* is *preserved* is *trivial*: *any* *set* of the *right* *cardinality* *can* *realize* *any* *structure*, and the *claim* *does* *not* *distinguish* the *actual* *structure* from *arbitrary* *relabellings*.
+**The *problem*** (Newman 1928; Ketland 2004). The *ESR* *claims* that the *structure* *is* *preserved*, but the *structure* is *defined* *only* *up* to *isomorphism*. The *claim* that the *structure* is *preserved* is *trivial*: *any* *set* of the *right* *cardinality* *can* *realize* *any* *structure*, and the *claim* *does* *not* *distinguish* the *actual* *structure* from *arbitrary* *relabelings*.
 
 **The *argument*.**
 
@@ -602,7 +602,7 @@ $$
 \end{array}
 $$
 
-**The *responses*.** (i) The *OSR* *avoids* the *problem* by *identifying* the *structure* with the *world* (there is *no* *underlying* *nature* to be *relabelled*). (ii) The *ESR* *can* *appeal* to *natural* *properties* (Ch. 15, §5.1) to *distinguish* the *structures*; the *appeal* *is* *contested*.
+**The *responses*.** (i) The *OSR* *avoids* the *problem* by *identifying* the *structure* with the *world* (there is *no* *underlying* *nature* to be *relabeled*). (ii) The *ESR* *can* *appeal* to *natural* *properties* (Ch. 15, §5.1) to *distinguish* the *structures*; the *appeal* *is* *contested*.
 
 ### 6.5 The current state
 
@@ -709,9 +709,9 @@ $$
 1. **The *hard* *problem* is *unsolved*.** The *physicalist* *accounts* (functionalism, higher-order theories, illusionism) *have* *not* *solved* the *hard* *problem* (Ch. 24, §5), and the *panpsychist* *offers* a *fundamental* *place* for *experience*.
 2. **The *structural* *realist* *conclusion* is *widely* *accepted*.** The *conclusion* *leaves* the *intrinsic* *nature* *unexplained*, and the *panpsychist* *fills* the *gap*.
 3. **The *argument* is *a* *priori* *and* *empirically* *neutral*.** The *panpsychist* *argument* *does* not *depend* on *empirical* *discoveries*; it *depends* on the *nature* of *physical* *description*.
-4. **The *combination* *problem* is *recognised*.** The *panpsychists* *acknowledge* the *problem*, and the *debate* about the *solution* is *productive*.
+4. **The *combination* *problem* is *recognized*.** The *panpsychists* *acknowledge* the *problem*, and the *debate* about the *solution* is *productive*.
 
-**The *prospects*.** The *panpsychist* *programme* is *promising* and *incomplete*. The *combination* *problem* is the *central* *challenge*, and it is *unresolved*.
+**The *prospects*.** The *panpsychist* *program* is *promising* and *incomplete*. The *combination* *problem* is the *central* *challenge*, and it is *unresolved*.
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 49 — Beauty, Art, and Aesthetic Judgement
+# Chapter 49 — Beauty, Art, and Aesthetic Judgment
 
 > “The satisfaction which determines the judgement of taste is *disinterested*.”
 > — Kant, *Critique of Judgement* (1790), §1, 5:205
@@ -17,11 +17,11 @@
 
 ---
 
-Chapter 45 examined the *content* of the moral judgement; Chapter 46 its *efficacy*; Chapter 47 its *architecture*; Chapter 48 its *point* (the *prudential* question). This chapter examines the *splendour* — the *aesthetic* *value*, which is neither the *moral* nor the *prudential* value, and which the *tradition* from Baumgarten to the *present* has treated as a *distinct* *kind* of value with its own *logic*, its own *objects*, and its own *authority*.
+Chapter 45 examined the *content* of the moral judgment; Chapter 46 its *efficacy*; Chapter 47 its *architecture*; Chapter 48 its *point* (the *prudential* question). This chapter examines the *splendour* — the *aesthetic* *value*, which is neither the *moral* nor the *prudential* value, and which the *tradition* from Baumgarten to the *present* has treated as a *distinct* *kind* of value with its own *logic*, its own *objects*, and its own *authority*.
 
-The *transition* is the *inversion* of the *prudential* *turn*. The *prudential* *judgement* is *agent*-*relative* (the *good for* *me*; Ch. 48, §1.1). The *aesthetic* *judgement* is *object*-*directed* — *it is about the object* (the *beautiful* *thing*, the *work*) — and yet it is *grounded* in the *subject*’s *experience* (the *pleasure*, the *delight*), and this *double* *aspect* is the *source* of the *whole* *problem*. Kant named the *antinomy*: the *judgement* of *taste* is *subjective* (it *rests* on the *feeling* of *pleasure*) and *universal* (it *claims* the *assent* of *everyone*), and the *two* *theses* are *both* *true* and *jointly* *puzzling*. The *chapter* is the *unpacking* of that *puzzle*.
+The *transition* is the *inversion* of the *prudential* *turn*. The *prudential* *judgment* is *agent*-*relative* (the *good for* *me*; Ch. 48, §1.1). The *aesthetic* *judgment* is *object*-*directed* — *it is about the object* (the *beautiful* *thing*, the *work*) — and yet it is *grounded* in the *subject*’s *experience* (the *pleasure*, the *delight*), and this *double* *aspect* is the *source* of the *whole* *problem*. Kant named the *antinomy*: the *judgment* of *taste* is *subjective* (it *rests* on the *feeling* of *pleasure*) and *universal* (it *claims* the *assent* of *everyone*), and the *two* *theses* are *both* *true* and *jointly* *puzzling*. The *chapter* is the *unpacking* of that *puzzle*.
 
-The *chapter* proceeds in *eight* *movements*. §1 examines the *aesthetic* as a *domain* (the *properties*, the *experience*, the *judgement*). §2 examines *beauty* (the *subjectivism*, the *idealism*, the *formalism*, the *realism*). §3 examines the *theories* of *art* (the *imitation*, the *expression*, the *formalism*, the *institutional*, the *historical*, the *cluster*). §4 examines the *fiction* and the *paradox* of *emotional* *response*. §5 examines the *interpretation* and the *intention*. §6 examines the *testimony*, the *taste*, and the *expertise*. §7 examines the *value* of *art* (the *moralism*, the *autonomism*, the *immoralism*). §8 gives the *verdict*.
+The *chapter* proceeds in *eight* *movements*. §1 examines the *aesthetic* as a *domain* (the *properties*, the *experience*, the *judgment*). §2 examines *beauty* (the *subjectivism*, the *idealism*, the *formalism*, the *realism*). §3 examines the *theories* of *art* (the *imitation*, the *expression*, the *formalism*, the *institutional*, the *historical*, the *cluster*). §4 examines the *fiction* and the *paradox* of *emotional* *response*. §5 examines the *interpretation* and the *intention*. §6 examines the *testimony*, the *taste*, and the *expertise*. §7 examines the *value* of *art* (the *moralism*, the *autonomism*, the *immoralism*). §8 gives the *verdict*.
 
 ---
 
@@ -47,11 +47,11 @@ The *chapter* proceeds in *eight* *movements*. §1 examines the *aesthetic* as a
 | The *constraint* | The *content* | The *significance* |
 |---|---|---|
 | **The *phenomenology*** | The *aesthetic* response is *immediate*, *non*-*inferential* (the *Sibley* *insight*) | The *perceptual* *model* |
-| **The *normativity*** | The *judgement* *claims* *correctness* (the *no* *mere* *liking*) | The *realism* *pressure* |
+| **The *normativity*** | The *judgment* *claims* *correctness* (the *no* *mere* *liking*) | The *realism* *pressure* |
 | **The *disagreement*** | The *critics* *disagree* and the *disagreement* *matters* (the *no* *indifference*) | The *objectivity* *pressure* |
 | **The *autonomy*** | The *aesthetic* value is *not* the *moral* or the *cognitive* (the *no* *reduction*) | The *autonomism* *pressure* |
 
-**The *problem***. The *constraints* *pull* *apart*: the *phenomenology* *favours* the *subjectivism* (the *immediacy* of the *feeling*), the *normativity* *favours* the *realism* (the *claim* to *correctness*), the *disagreement* *favours* the *relativism* (the *no* *convergence*), and the *autonomy* *favours* the *formalism* (the *no* *content*).
+**The *problem***. The *constraints* *pull* *apart*: the *phenomenology* *favors* the *subjectivism* (the *immediacy* of the *feeling*), the *normativity* *favors* the *realism* (the *claim* to *correctness*), the *disagreement* *favors* the *relativism* (the *no* *convergence*), and the *autonomy* *favors* the *formalism* (the *no* *content*).
 
 ### 1.2 Aesthetic properties
 
@@ -85,13 +85,13 @@ $$
 
 **The *reply***. The *aesthetic* *properties* *supervene* *without* *being* *identical* (the *multiple* *realizability*; the *graceful* is *not* the *curved*), and the *reply* *grounds* the *distinctness* in the *supervenience* (the *no* *identity*). The *reply* is *defensible*.
 
-**(ii) The *no* *perception* *objection***. The *taste* is *not* a *perception* (the *no* *organ*, the *no* *representation*), and the *perception* *model* *mystifies* the *judgement*, and the *reply* *fails*.
+**(ii) The *no* *perception* *objection***. The *taste* is *not* a *perception* (the *no* *organ*, the *no* *representation*), and the *perception* *model* *mystifies* the *judgment*, and the *reply* *fails*.
 
 **The *reply*** (the *perceptual* *model*; the *contemporary* *literature*). The *taste* is *perceptual* in the *broad* *sense* (the *non*-*inferential* *discrimination*), and the *reply* *grounds* the *taste* in the *discrimination*. The *reply* is *defensible*.
 
 ### 1.3 Aesthetic experience
 
-**The *thesis*** (Beardsley, *Aesthetics*, 1958, Ch. 1; the *contemporary* *literature*; Carroll, “Aesthetic Experience Revisited,” 2001, *BJA* 41). The *aesthetic* *experience* is a *distinctive* *kind* of *experience* (the *focused* *attention*, the *integration*, the *felt* *value*), and the *experience* *grounds* the *judgement* (the *Beardsley* *insight*), and the *experience* is the *object* of the *criticism*.
+**The *thesis*** (Beardsley, *Aesthetics*, 1958, Ch. 1; the *contemporary* *literature*; Carroll, “Aesthetic Experience Revisited,” 2001, *BJA* 41). The *aesthetic* *experience* is a *distinctive* *kind* of *experience* (the *focused* *attention*, the *integration*, the *felt* *value*), and the *experience* *grounds* the *judgment* (the *Beardsley* *insight*), and the *experience* is the *object* of the *criticism*.
 
 **The *criteria*** (the *Beardsley* *marks*).
 
@@ -108,7 +108,7 @@ $$
 \begin{array}{ll}
 1. & \text{The *aesthetic* *experience* has the *distinctive* *phenomenology* (the *attention*, the *coherence*, the *completeness*).} \\
 2. & \text{The *phenomenology* is *not* the *ordinary* *experience* (the *no* *practical* *engagement*; the *no* *mere* *sensuous* *agreeableness*).} \\
-3. & \text{The *experience* *grounds* the *judgement* (the *felt* *value*).} \\
+3. & \text{The *experience* *grounds* the *judgment* (the *felt* *value*).} \\
 \hline
 4. & \therefore \text{The *aesthetic* *experience* is *distinct* (the *Beardsley* *insight*), and it *anchors* the *aesthetic* *domain* (§1.1).}
 \end{array}
@@ -126,9 +126,9 @@ $$
 
 **The *reply*** (the *contemporary* *literature*). The *criteria* are *schematic* (the *coherence* is *the* *kind* *appropriate* to the *work*), and the *reply* *grounds* the *criteria* in the *genres*. The *reply* is *contested* (the *no* *neutral* *account*).
 
-### 1.4 Aesthetic judgement
+### 1.4 Aesthetic judgment
 
-**The *thesis*** (Kant, *Critique of Judgement*, 1790, §1–§22; the *contemporary* *literature*; Zangwill, *The Metaphysics of Beauty*, 2001, Ch. 1). The *aesthetic* *judgement* is *disinterested* (the *no* *desire* for the *existence* of the *object*), *subjective* (the *ground* is the *feeling* of *pleasure*), *universal* (the *claim* to the *assent* of *everyone*), *purposive* *without* *purpose* (the *form* as *if* *designed*), and *necessary* (the *claim* of *exemplary* *necessity*).
+**The *thesis*** (Kant, *Critique of Judgement*, 1790, §1–§22; the *contemporary* *literature*; Zangwill, *The Metaphysics of Beauty*, 2001, Ch. 1). The *aesthetic* *judgment* is *disinterested* (the *no* *desire* for the *existence* of the *object*), *subjective* (the *ground* is the *feeling* of *pleasure*), *universal* (the *claim* to the *assent* of *everyone*), *purposive* *without* *purpose* (the *form* as *if* *designed*), and *necessary* (the *claim* of *exemplary* *necessity*).
 
 **The *four* *moments*** (Kant, *CJ*, §1–§22).
 
@@ -143,15 +143,15 @@ $$
 
 $$
 \begin{array}{ll}
-\text{Thesis:} & \text{The *judgement* of *taste* is *not* *grounded* on the *concepts*} \ (\text{the *no* *rule*}). \\
-\text{Antithesis:} & \text{The *judgement* of *taste* *claims* the *assent* of *everyone*} \ (\text{the *universality*}). \\
+\text{Thesis:} & \text{The *judgment* of *taste* is *not* *grounded* on the *concepts*} \ (\text{the *no* *rule*}). \\
+\text{Antithesis:} & \text{The *judgment* of *taste* *claims* the *assent* of *everyone*} \ (\text{the *universality*}). \\
 \hline
 \text{Resolution:} & \text{The *ground* is the *feeling* of the *free* *play* (the *no* *concept*), and the *claim* is the *universal* *voice*} \\
 & \text{(the *sensus communis*; the *no* *private* *feeling*).}
 \end{array}
 $$
 
-**The *virtue***. The *account* *captures* the *double* *aspect* (the *subjectivity* *and* the *universality*), and it *grounds* the *criticism* (the *exemplary* *necessity*, the *no* *proof*), and it *connects* the *aesthetics* to the *moral* (the *beauty* as the *symbol* of the *morality*; the *no* *reduction*) and to the *judgement* (the *reflective* *judgement*; the *no* *determinant*).
+**The *virtue***. The *account* *captures* the *double* *aspect* (the *subjectivity* *and* the *universality*), and it *grounds* the *criticism* (the *exemplary* *necessity*, the *no* *proof*), and it *connects* the *aesthetics* to the *moral* (the *beauty* as the *symbol* of the *morality*; the *no* *reduction*) and to the *judgment* (the *reflective* *judgment*; the *no* *determinant*).
 
 **The *objections***.
 
@@ -165,7 +165,7 @@ $$
 
 ### 1.5 The aesthetic and the everyday
 
-**The *thesis*** (Saito, *Everyday Aesthetics*, 2007; the *contemporary* *literature*). The *aesthetic* is *not* *confined* to the *art* (the *no* *museum*), and the *everyday* *aesthetics* (the *domestic*, the *natural*, the *urban*, the *bodily*) *extends* the *domain*, and the *extension* *challenges* the *art*-*centred* *tradition*.
+**The *thesis*** (Saito, *Everyday Aesthetics*, 2007; the *contemporary* *literature*). The *aesthetic* is *not* *confined* to the *art* (the *no* *museum*), and the *everyday* *aesthetics* (the *domestic*, the *natural*, the *urban*, the *bodily*) *extends* the *domain*, and the *extension* *challenges* the *art*-*centered* *tradition*.
 
 **The *significance***. The *extension* *grounds* the *environmental* *aesthetics* (Ch. 51, §6), and the *extension* *connects* the *aesthetics* to the *well*-*being* (the *everyday* *beauty*; Ch. 48, §1.4), and the *extension* *challenges* the *definition* of *art* (§3).
 
@@ -177,7 +177,7 @@ $$
 2. & \text{The *art* *is* *not* the *necessary* *object* (the *no* *museum* *insight*).} \\
 3. & \text{The *response* *grounds* the *domain* (the *no* *art* *monopoly*).} \\
 \hline
-4. & \therefore \text{The *aesthetic* is *not* *art*-*centred* (the *Saito* *insight*), and the *everyday* *aesthetics* *is* *part* of the *domain* (the *no* *elitism*).}
+4. & \therefore \text{The *aesthetic* is *not* *art*-*centered* (the *Saito* *insight*), and the *everyday* *aesthetics* *is* *part* of the *domain* (the *no* *elitism*).}
 \end{array}
 $$
 
@@ -258,7 +258,7 @@ $$
 
 | The *thesis* | The *content* | The *problem* |
 |---|---|---|
-| **The *significant* *form*** | The *art* *is* the *significant* *form* (the *lines*, the *colours*, the *relations*) | The *no* *content* |
+| **The *significant* *form*** | The *art* *is* the *significant* *form* (the *lines*, the *colors*, the *relations*) | The *no* *content* |
 | **The *autonomy*** | The *aesthetic* *value* *is* *independent* of the *content* | The *no* *moral* *relevance* |
 | **The *no* *representation*** | The *representation* *is* *irrelevant* to the *artistic* *value* | The *no* *literature* |
 
@@ -266,7 +266,7 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *aesthetic* *emotion* *is* *triggered* by the *form* (the *lines*, the *colours*), and *not* by the *content* (the *no* *representation*).} \\
+1. & \text{The *aesthetic* *emotion* *is* *triggered* by the *form* (the *lines*, the *colors*), and *not* by the *content* (the *no* *representation*).} \\
 2. & \text{The *form* is the *significant* *form* (the *unity* in *variety*; the *no* *narrative*).} \\
 3. & \text{The *form* *grounds* the *artistic* *value* (the *no* *content*).} \\
 \hline
@@ -288,17 +288,17 @@ $$
 
 ### 2.4 The return of aesthetic realism
 
-**The *thesis*** (Zangwill, *The Metaphysics of Beauty*, 2001, Ch. 1–2; the *contemporary* *literature*; the *robust* *realism*). The *beauty* is the *real* *property* of the *object* (the *no* *projection*, the *no* *mere* *sentiment*), and the *judgement* *tracks* the *property* (the *no* *mere* *response*), and the *disagreement* is the *error* (the *no* *relativism*), and the *beauty* *supervenes* on the *non*-*aesthetic* *base* (the *no* *free*-*floating* *form*).
+**The *thesis*** (Zangwill, *The Metaphysics of Beauty*, 2001, Ch. 1–2; the *contemporary* *literature*; the *robust* *realism*). The *beauty* is the *real* *property* of the *object* (the *no* *projection*, the *no* *mere* *sentiment*), and the *judgment* *tracks* the *property* (the *no* *mere* *response*), and the *disagreement* is the *error* (the *no* *relativism*), and the *beauty* *supervenes* on the *non*-*aesthetic* *base* (the *no* *free*-*floating* *form*).
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *aesthetic* *judgement* *purports* to *track* the *value* (the *normative* *claim*; the *no* *mere* *liking*).} \\
+1. & \text{The *aesthetic* *judgment* *purports* to *track* the *value* (the *normative* *claim*; the *no* *mere* *liking*).} \\
 2. & \text{The *purport* *is* *not* *systematically* *illusory* (the *no* *error* *theory*; the *charity*).} \\
 3. & \text{The *value* *requires* the *property* (the *no* *projection*; the *no* *response* *only*).} \\
 \hline
-4. & \therefore \text{The *beauty* is *real* (the *no* *subjectivism*), and the *judgement* *tracks* it (the *no* *mere* *feeling*), and the *disagreement* is the *error* (the *no* *relativism*).}
+4. & \therefore \text{The *beauty* is *real* (the *no* *subjectivism*), and the *judgment* *tracks* it (the *no* *mere* *feeling*), and the *disagreement* is the *error* (the *no* *relativism*).}
 \end{array}
 $$
 
@@ -348,7 +348,7 @@ $$
 | **Evaluative** | The *goodness* of the *work* (as *art*) | The *criticism* |
 | **Ontological** | The *mode* of *existence* of the *work* (the *type*, the *token*) | The *metaphysics* |
 
-**The *sceptical* *challenge*** (Weitz, “The Role of Theory in Aesthetics,” 1956, *JAAC* 15; the *anti*-*essentialism*). The *art* is the *open* *concept* (the *no* *closed* *set* of *conditions*), and the *definition* *always* *fails* (the *new* *art* *escapes* the *old* *definition*), and the *concept* is *held* *together* by the *family* *resemblance* (the *no* *essence*), and the *definitional* *project* *is* the *mistake*.
+**The *skeptical* *challenge*** (Weitz, “The Role of Theory in Aesthetics,” 1956, *JAAC* 15; the *anti*-*essentialism*). The *art* is the *open* *concept* (the *no* *closed* *set* of *conditions*), and the *definition* *always* *fails* (the *new* *art* *escapes* the *old* *definition*), and the *concept* is *held* *together* by the *family* *resemblance* (the *no* *essence*), and the *definitional* *project* *is* the *mistake*.
 
 **The *argument*** (Weitz 1956, §2).
 
@@ -606,11 +606,11 @@ $$
 | The *solution* | The *content* | The *cost* |
 |---|---|---|
 | **The *illusion*** (Radford) | The *emotion* is *inconsistent* (the *no* *rationality*) | The *irrationality* |
-| **The *pretence*** (Walton) | The *emotion* is *quasi* (the *make*-*believe*) | The *no* *genuine* *emotion* |
+| **The *pretense*** (Walton) | The *emotion* is *quasi* (the *make*-*believe*) | The *no* *genuine* *emotion* |
 | **The *thought*** (Lamarque) | The *thought* *suffices* (the *no* *belief*) | The *no* *connection* to the *reality* |
 | **The *simulation*** (Currie) | The *simulation* *generates* the *emotion* | The *no* *actual* *emotion* |
 
-### 4.2 The pretence theory
+### 4.2 The pretense theory
 
 **The *thesis*** (Walton, “Fearing Fictions,” 1978, *Journal of Philosophy* 75; *Mimesis as Make*-*Believe*, 1990, Ch. 1). The *fictional* *emotion* is the *quasi*-*emotion* (the *make*-*believe* *fear*, the *pretend* *pity*), and the *quasi*-*emotion* is *generated* by the *game* of *make*-*believe* (the *props*, the *rules*, the *fictional* *truths*), and the *quasi*-*emotion* is *not* the *genuine* *emotion* (the *no* *action* *tendency*, the *no* *belief*), and the *paradox* *dissolves* (the *no* *inconsistency*).
 
@@ -636,7 +636,7 @@ $$
 
 **The *objections***.
 
-**(i) The *no* *genuine* *emotion* *objection*** (the *contemporary* *literature*; Carroll, “The Paradox of Suspense,” 2001; the *no* *quasi*). The *emotion* *feels* *genuine* (the *tears*, the *heart* *rate*, the *no* *pretence*), and the *quasi*-*emotion* *is* the *diminution* (the *no* *adequacy*), and the *reply* *fails*.
+**(i) The *no* *genuine* *emotion* *objection*** (the *contemporary* *literature*; Carroll, “The Paradox of Suspense,” 2001; the *no* *quasi*). The *emotion* *feels* *genuine* (the *tears*, the *heart* *rate*, the *no* *pretense*), and the *quasi*-*emotion* *is* the *diminution* (the *no* *adequacy*), and the *reply* *fails*.
 
 **The *reply*** (Walton 1990, Ch. 7; the *contemporary* *literature*). The *genuine* *emotion* *is* *not* *distinct* from the *quasi* (the *no* *separate* *state*), and the *reply* *grounds* the *emotion* in the *game* (the *no* *diminution*). The *reply* is *contested* (the *no* *genuine* *emotion*).
 
@@ -646,7 +646,7 @@ $$
 
 ### 4.3 The thought theory
 
-**The *thesis*** (Lamarque, “How Can We Fear and Pity Fictions?,” 1981, *BJA* 21; Carroll, *The Philosophy of Horror*, 1990, Ch. 2; the *contemporary* *literature*). The *emotion* *requires* the *thought* (the *no* *belief*), and the *thought* of the *character* (the *propositional* *attitude*, the *imagination*) *suffices* for the *emotion*, and the *fiction* *generates* the *thought* (the *no* *pretence* *required*).
+**The *thesis*** (Lamarque, “How Can We Fear and Pity Fictions?,” 1981, *BJA* 21; Carroll, *The Philosophy of Horror*, 1990, Ch. 2; the *contemporary* *literature*). The *emotion* *requires* the *thought* (the *no* *belief*), and the *thought* of the *character* (the *propositional* *attitude*, the *imagination*) *suffices* for the *emotion*, and the *fiction* *generates* the *thought* (the *no* *pretense* *required*).
 
 **The *structure***.
 
@@ -660,7 +660,7 @@ $$
 \begin{array}{ll}
 1. & \text{The *emotion* *requires* the *thought* of the *object* (the *no* *merely* *perceptual* *givenness*).} \\
 2. & \text{The *thought* *does* not *require* the *belief* in the *existence* (the *no* *existence* *condition*).} \\
-3. & \text{The *fiction* *generates* the *thought* (the *no* *pretence* *required*).} \\
+3. & \text{The *fiction* *generates* the *thought* (the *no* *pretense* *required*).} \\
 \hline
 4. & \therefore \text{The *fiction* *generates* the *genuine* *emotion* (the *Lamarque* *insight*), and the *paradox* *dissolves* (the *no* *belief*), and the *emotion* *is* *rational* (the *thought* *insight*).}
 \end{array}
@@ -723,16 +723,16 @@ $$
 
 ### 4.5 The state of the debate about fiction
 
-**The *assessment***. The *pretence* *theory* is the *dominant* (the *Walton* *insight*), and the *thought* *theory* *captures* the *genuine* *emotion* (the *Lamarque* *insight*), and the *paradox* of *tragedy* *is* *explicable* (the *conversion* *insight*), and the *ontology* of the *fictional* *characters* *remains* *open* (the *no* *mere* *representation*; Ch. 14, §5).
+**The *assessment***. The *pretense* *theory* is the *dominant* (the *Walton* *insight*), and the *thought* *theory* *captures* the *genuine* *emotion* (the *Lamarque* *insight*), and the *paradox* of *tragedy* *is* *explicable* (the *conversion* *insight*), and the *ontology* of the *fictional* *characters* *remains* *open* (the *no* *mere* *representation*; Ch. 14, §5).
 
 | The *position* | The *strength* | The *weakness* |
 |---|---|---|
 | **Illusion** | The *inconsistency* | The *irrationality* |
-| **Pretence** | The *dissolution* | The *no* *genuine* *emotion* |
+| **Pretense** | The *dissolution* | The *no* *genuine* *emotion* |
 | **Thought** | The *genuine* *emotion* | The *no* *motivation* |
 | **Simulation** | The *no* *belief* | The *no* *actual* *emotion* |
 
-**The *most* *defensible* *position***. A *qualified* *thought* *theory* *combined* with the *pretence* *insight*: the *emotion* *is* *generated* by the *thought* (the *Lamarque* *insight*), *framed* by the *make*-*believe* (the *Walton* *insight*), *specific* in its *object* (the *imagery*), *rational* in its *ground* (the *thought*), and *genuine* in its *phenomenology* (the *no* *quasi*), *qualified* by the *admission* that the *nature* of the *fictional* *emotion* *remains* *contested*.
+**The *most* *defensible* *position***. A *qualified* *thought* *theory* *combined* with the *pretense* *insight*: the *emotion* *is* *generated* by the *thought* (the *Lamarque* *insight*), *framed* by the *make*-*believe* (the *Walton* *insight*), *specific* in its *object* (the *imagery*), *rational* in its *ground* (the *thought*), and *genuine* in its *phenomenology* (the *no* *quasi*), *qualified* by the *admission* that the *nature* of the *fictional* *emotion* *remains* *contested*.
 
 ---
 
@@ -922,13 +922,13 @@ $$
 
 ### 6.2 The pessimism
 
-**The *thesis*** (Kant, *CJ*, §32–§35; Hopkins 2011, §2; the *contemporary* *literature*; the *no* *testimony*). The *aesthetic* *judgement* *rests* on the *first*-*hand* *experience* (the *no* *inference*), and the *testimony* *cannot* *transmit* the *experience* (the *no* *transfer*), and the *aesthetic* *knowledge* *is* *incommunicable* (the *no* *teaching*), and the *criticism* *is* the *prompt* to the *experience* (the *no* *knowledge*).
+**The *thesis*** (Kant, *CJ*, §32–§35; Hopkins 2011, §2; the *contemporary* *literature*; the *no* *testimony*). The *aesthetic* *judgment* *rests* on the *first*-*hand* *experience* (the *no* *inference*), and the *testimony* *cannot* *transmit* the *experience* (the *no* *transfer*), and the *aesthetic* *knowledge* *is* *incommunicable* (the *no* *teaching*), and the *criticism* *is* the *prompt* to the *experience* (the *no* *knowledge*).
 
 **The *argument*** (Hopkins 2011, §3).
 
 $$
 \begin{array}{ll}
-1. & \text{The *aesthetic* *judgement* *rests* on the *experience* (the *no* *inference* from the *testimony*).} \\
+1. & \text{The *aesthetic* *judgment* *rests* on the *experience* (the *no* *inference* from the *testimony*).} \\
 2. & \text{The *testimony* *does* not *provide* the *experience* (the *no* *transfer*).} \\
 3. & \text{The *knowledge* *requires* the *warrant* (the *no* *mere* *belief*).} \\
 \hline
@@ -936,7 +936,7 @@ $$
 \end{array}
 $$
 
-**The *virtue***. The *account* *captures* the *first*-*person* *authority* (the *no* *deference*), and it *explains* the *no* *teaching* of the *taste* (the *Kantian* *insight*), and it *grounds* the *autonomy* of the *judgement* (the *no* *authority*).
+**The *virtue***. The *account* *captures* the *first*-*person* *authority* (the *no* *deference*), and it *explains* the *no* *teaching* of the *taste* (the *Kantian* *insight*), and it *grounds* the *autonomy* of the *judgment* (the *no* *authority*).
 
 **The *objections***.
 
@@ -1097,7 +1097,7 @@ $$
 
 **The *reply*** (the *broad* *formalism*). The *form* *includes* the *semantic* *structure* (the *no* *mere* *shape*), and the *reply* *grounds* the *content* in the *form*. The *reply* is *contested* (the *no* *autonomy*).
 
-**(ii) The *no* *value* *objection***. The *art* *shapes* the *perception* and the *moral* *judgement* (the *no* *neutrality*), and the *autonomism* *ignores* the *influence* (the *no* *adequacy*), and the *reply* *fails*.
+**(ii) The *no* *value* *objection***. The *art* *shapes* the *perception* and the *moral* *judgment* (the *no* *neutrality*), and the *autonomism* *ignores* the *influence* (the *no* *adequacy*), and the *reply* *fails*.
 
 **The *reply*** (the *contemporary* *literature*). The *influence* *is* *empirical* (the *no* *aesthetic* *value*), and the *reply* *separates* the *causal* *effect* from the *value* (the *no* *conflation*). The *reply* is *contested*.
 
@@ -1188,8 +1188,8 @@ $$
 
 ### 8.1 What is settled
 
-- **The *aesthetic*** is a *distinct* *domain* (the *properties*, the *experience*, the *judgement*), and the *domain* is *not* *reducible* to the *moral* or the *prudential* (the *no* *reduction*), and the *domain* *extends* *beyond* the *art* (the *everyday* *insight*).
-- **The *aesthetic* *judgement*** has the *double* *aspect* (the *subjectivity* of the *feeling*, the *universality* of the *claim*; the *Kantian* *antinomy*), and the *antinomy* is *resolvable* (the *sensus communis*; the *response*-*dependence*).
+- **The *aesthetic*** is a *distinct* *domain* (the *properties*, the *experience*, the *judgment*), and the *domain* is *not* *reducible* to the *moral* or the *prudential* (the *no* *reduction*), and the *domain* *extends* *beyond* the *art* (the *everyday* *insight*).
+- **The *aesthetic* *judgment*** has the *double* *aspect* (the *subjectivity* of the *feeling*, the *universality* of the *claim*; the *Kantian* *antinomy*), and the *antinomy* is *resolvable* (the *sensus communis*; the *response*-*dependence*).
 - **The *beauty*** is *real* (the *no* *mere* *projection*) *and* *response*-*dependent* (the *merited* *pleasure*), and the *realism* *is* *naturalistic* (the *no* *occult*), and the *disagreement* *is* *explained* by the *error* (the *no* *relativism*).
 - **The *definition* of *art*** *fails* in the *classical* *form* (the *Weitz* *insight*), and the *cluster* *account* *captures* the *pluralism* (the *Gaut* *insight*), and the *historical* *account* *captures* the *continuity* (the *Levinson* *insight*), and the *institutional* *account* *captures* the *readymade* (the *Dickie* *insight*).
 - **The *fictional* *emotion*** is *genuine* (the *Lamarque* *insight*) *and* *framed* by the *make*-*believe* (the *Walton* *insight*), and the *paradox* *dissolves* (the *no* *inconsistency*), and the *tragic* *pleasure* *is* *explicable* (the *conversion* *insight*).
@@ -1201,7 +1201,7 @@ $$
 
 - **The *nature* of the *aesthetic* *properties*** (the *realism* *vs.* the *response*-*dependence*).
 - **The *definition* of *art*** (the *cluster*, the *historical*, the *institutional*, the *aesthetic*).
-- **The *fictional* *emotion*** (the *quasi* *vs.* the *genuine*; the *thought* *vs.* the *pretence*).
+- **The *fictional* *emotion*** (the *quasi* *vs.* the *genuine*; the *thought* *vs.* the *pretense*).
 - **The *interpretation*** (the *intention*, the *text*, the *value*).
 - **The *testimony*** (the *optimism* *vs.* the *pessimism*).
 - **The *value* of the *art*** (the *moralism*, the *autonomism*, the *immoralism*).
@@ -1220,7 +1220,7 @@ $$
 | **Institutional** | The *art* is the *status* | The *readymade* | The *circularity* |
 | **Historical** | The *art* is the *tradition* | The *continuity* | The *no* *intention* |
 | **Cluster** | The *art* is the *criteria* | The *pluralism* | The *no* *sufficiency* |
-| **Pretence** | The *emotion* is the *quasi* | The *dissolution* | The *no* *genuine* *emotion* |
+| **Pretense** | The *emotion* is the *quasi* | The *dissolution* | The *no* *genuine* *emotion* |
 | **Thought** | The *emotion* is the *thought* | The *genuine* *emotion* | The *no* *motivation* |
 | **Actual intentionalism** | The *meaning* is the *intention* | The *determinacy* | The *genetic* *fallacy* |
 | **Anti-intentionalism** | The *meaning* is the *text* | The *publicity* | The *arbitrary* *reading* |
@@ -1262,7 +1262,7 @@ The *chapter* is a *case* *study* in the method of Part I, *applied* to the *aes
 - **Reflective equilibrium** is the *method* by which the *theory* and the *intuitions* are *adjusted* (the *cluster* *weights*, the *response*-*dependence*, the *value* *interaction*).
 - **Genealogy and debunking** — the *sociology* of *taste* (Bourdieu), the *evolutionary* *account* of the *beauty* (the *savannah* *hypothesis*), the *cultural* *construction* of the *art* — is the *central* *challenge*.
 - **Experimental philosophy and the empirical turn** — the *x-phi* of *taste* (the *cross*-*cultural* *variation*, the *order* *effects*), the *psychology* of *aesthetic* *response* (the *mere*-*exposure*, the *processing*-*fluency*), the *neuroscience* of *beauty* (the *reward* *system*) — is the *most* *important* *development*.
-- **Negative capability** is the *response* to the *residue*: the *beauty* is *unsettled*, and the *honest* *thinker* *lives* with the *question* *while* *making* the *judgements*.
+- **Negative capability** is the *response* to the *residue*: the *beauty* is *unsettled*, and the *honest* *thinker* *lives* with the *question* *while* *making* the *judgments*.
 
 The honest verdict: the *aesthetics* has been *transformed* by the *empirical* *sciences* — and the *transformation* has been *double*-*edged*. The *evidence* has *sharpened* the *questions* (the *processing*-*fluency*, the *variation*, the *neural* *correlates*), and it has *undermined* the *confidence* (the *replication* *crisis*, the *no* *robust* *universals*), and the *result* is a *field* that is *more* *humble* and *more* *exacting* than the *armchair* *tradition* *allowed*.
 
@@ -1282,7 +1282,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 **3. The *aesthetics* of *nature*.** The *beauty* of the *natural* *world* (the *sublime*, the *picturesque*, the *ecological* *aesthetics*) *raises* the *question* of the *aesthetic* *appreciation* *without* the *art* *framework* (the *Carlson* *insight*; the *no* *mere* *scenery*), and the *question* *connects* the *aesthetics* to the *environmental* *ethics* (Ch. 51, §6) and to the *religion* (the *creation*, the *sacred* *landscape*).
 
-**4. The *aesthetics* of the *non*-*Western* *traditions*.** The *Japanese* *wabi*-*sabi* (the *imperfect*, the *transient*, the *incomplete*), the *mono* *no* *aware* (the *pathos* of the *things*), the *Chinese* *qi* *and* *jing* (the *vital* *energy*, the *scenic* *essence*), the *Indian* *rasa* (the *aesthetic* *flavour*; the *nine* *rasas*; the *Abhinavagupta* *insight*) — the *traditions* *offer* *systematic* *alternatives* to the *Western* *aesthetics* (the *no* *mere* *decoration*), and they *challenge* the *universality* of the *beauty* and the *autonomy* of the *art*.
+**4. The *aesthetics* of the *non*-*Western* *traditions*.** The *Japanese* *wabi*-*sabi* (the *imperfect*, the *transient*, the *incomplete*), the *mono* *no* *aware* (the *pathos* of the *things*), the *Chinese* *qi* *and* *jing* (the *vital* *energy*, the *scenic* *essence*), the *Indian* *rasa* (the *aesthetic* *flavor*; the *nine* *rasas*; the *Abhinavagupta* *insight*) — the *traditions* *offer* *systematic* *alternatives* to the *Western* *aesthetics* (the *no* *mere* *decoration*), and they *challenge* the *universality* of the *beauty* and the *autonomy* of the *art*.
 
 **5. The *aesthetics* of the *AI*.** The *generative* *art*, the *algorithmic* *composition*, the *authorship* *question* (the *AI* *as* the *author*?), the *connoisseurship* *of* the *machine* (the *no* *taste*), and the *aesthetic* *value* of the *generated* *work* *raise* the *questions* of the *intention*, the *creativity*, and the *experience*, and they *connect* the *aesthetics* to the *technology* *ethics* (Ch. 51, §3) and to the *mind* (Ch. 29). The *debate* is *emerging*.
 
@@ -1292,20 +1292,20 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 ## Summary
 
-- **The *aesthetic*** is a *distinct* *domain* — the *properties* (the *thin* and the *thick*), the *experience* (the *attention*, the *coherence*, the *value*), and the *judgement* (the *Kantian* *antinomy* of the *subjective* *universality*) — and the *domain* is *not* *reducible* to the *moral* or the *prudential*, and it *extends* *beyond* the *art*.
+- **The *aesthetic*** is a *distinct* *domain* — the *properties* (the *thin* and the *thick*), the *experience* (the *attention*, the *coherence*, the *value*), and the *judgment* (the *Kantian* *antinomy* of the *subjective* *universality*) — and the *domain* is *not* *reducible* to the *moral* or the *prudential*, and it *extends* *beyond* the *art*.
 - **The *beauty*** is *real* *and* *response*-*dependent* (the *merited* *pleasure*), and the *realism* is *naturalistic* (the *no* *occult*), and the *subjectivism* *captures* the *phenomenology*, and the *realism* *captures* the *normativity*, and the *response*-*dependence* *integrates* the *two*.
 - **The *definition* of *art*** *fails* in the *classical* *form* (the *Weitz* *insight*), and the *cluster* *captures* the *pluralism* (the *Gaut* *insight*), the *historical* *account* the *continuity* (the *Levinson* *insight*), the *institutional* *account* the *readymade* (the *Dickie* *insight*), and the *aesthetic* *definition* the *value* (the *Iseminger* *insight*).
 - **The *fictional* *emotion*** is *genuine* (the *Lamarque* *insight*) *and* *framed* by the *make*-*believe* (the *Walton* *insight*), and the *paradox* *dissolves* (the *no* *inconsistency*), and the *tragic* *pleasure* *is* *explicable* (the *conversion* *insight*).
 - **The *interpretation*** aims at the *hypothetical* *intention* (the *Levinson* *insight*), and the *author* *matters* (the *no* *death*), and the *text* *constrains* the *reading* (the *no* *arbitrary*), and the *value* *frames* the *reading* (the *Davies* *insight*).
 - **The *aesthetic* *testimony*** *transmits* *knowledge* *where* the *experience* *is* *available* (the *qualified* *optimism*), and the *critic* is the *expert* in the *perception* and the *articulation* (the *no* *mere* *authority*), and the *taste* is *trainable* (the *no* *incommunicability*).
 - **The *value* of the *art*** *interacts* with the *moral* value (the *moderate* *moralism*), and the *interaction* is *bidirectional* (the *immoralism*), and the *values* do *not* *reduce* (the *pluralism*), and the *art* has the *cognitive*, the *emotional*, and the *social* *value* (the *Nussbaum* *insight*).
-- **The *most* *defensible* *position*** is a *qualified* *aesthetic* *realism* *integrated* by the *response*-*dependence* and the *pluralism* *of* *value*: the *merited* *response*, the *trained* *perception*, the *cluster* *anchored* in the *history*, the *genuine* *emotion* *framed* by the *pretence*, the *hypothetical* *intention*, the *qualified* *testimony*, and the *plural* *value*, *integrated* by the *reflective* *equilibrium* and the *empirical* *humility*, *qualified* by the *admission* that the *properties*, the *definition*, the *emotion*, the *interpretation*, the *testimony*, and the *value* *remain* *contested*.
+- **The *most* *defensible* *position*** is a *qualified* *aesthetic* *realism* *integrated* by the *response*-*dependence* and the *pluralism* *of* *value*: the *merited* *response*, the *trained* *perception*, the *cluster* *anchored* in the *history*, the *genuine* *emotion* *framed* by the *pretense*, the *hypothetical* *intention*, the *qualified* *testimony*, and the *plural* *value*, *integrated* by the *reflective* *equilibrium* and the *empirical* *humility*, *qualified* by the *admission* that the *properties*, the *definition*, the *emotion*, the *interpretation*, the *testimony*, and the *value* *remain* *contested*.
 
 ---
 
 ## Study Questions
 
-1. Distinguish the *aesthetic* *judgement* from the *moral* and the *prudential* *judgement*. Why is the *distinction* *foundational*?
+1. Distinguish the *aesthetic* *judgment* from the *moral* and the *prudential* *judgment*. Why is the *distinction* *foundational*?
 2. What are the *aesthetic* *properties*? Is the *thin*/*thick* *distinction* *defensible*?
 3. State the *Kantian* *antinomy* of *taste*. Is the *resolution* (*the* *sensus communis*) *defensible*?
 4. Is the *aesthetic* *experience* *distinct* from the *ordinary* *perception*? What does the *Dickie* *critique* *show*?
@@ -1318,7 +1318,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 11. Is the *imitation* *theory* *defensible*? What does the *abstract* *art* *show*?
 12. Is the *expression* *theory* *defensible*? What is the *expressive* *fallacy*?
 13. State the *paradox* of *fictional* *emotion* (Radford). Which *proposition* *should* be *rejected*?
-14. State the *pretence* *theory* (Walton). Is the *quasi*-*emotion* *genuine*?
+14. State the *pretense* *theory* (Walton). Is the *quasi*-*emotion* *genuine*?
 15. State the *thought* *theory* (Lamarque). Is the *genuine* *emotion* *defensible* without the *belief*?
 16. State the *paradox* of *tragedy*. Is the *conversion* *account* *defensible*?
 17. State the *actual* *intentionalism* (Hirsch). Is the *intentional* *fallacy* a *fallacy*?
@@ -1347,6 +1347,6 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 ---
 
-> *A closing note.* This chapter has followed the *beautiful* — the *aesthetic* *properties*, the *beauty*, the *art*, the *fiction*, the *interpretation*, the *testimony*, and the *value* — and it has arrived at a *conclusion* that is less a *theory* than a *discipline*: the *aesthetic* *life* is the *trained* *attention* (the *no* *mere* *consumption*), and the *attention* is *framed* by the *history* (the *practice*), and the *judgement* is *answerable* to the *object* (the *no* *mere* *projection*), and the *questions* are *open* — not because the *aesthetics* has *failed*, but because the *beauty* *exceeds* the *concept* that *captures* it, and the *excess* is what the *criticism* *keeps* *alive*.
+> *A closing note.* This chapter has followed the *beautiful* — the *aesthetic* *properties*, the *beauty*, the *art*, the *fiction*, the *interpretation*, the *testimony*, and the *value* — and it has arrived at a *conclusion* that is less a *theory* than a *discipline*: the *aesthetic* *life* is the *trained* *attention* (the *no* *mere* *consumption*), and the *attention* is *framed* by the *history* (the *practice*), and the *judgment* is *answerable* to the *object* (the *no* *mere* *projection*), and the *questions* are *open* — not because the *aesthetics* has *failed*, but because the *beauty* *exceeds* the *concept* that *captures* it, and the *excess* is what the *criticism* *keeps* *alive*.
 
 > *And a bridge.* The *next* *chapter* turns to *religion*, *faith*, and the *limits* of *reason*. If the *aesthetic* is the *value* that is *borne* by the *object* *as* *experienced*, the *religious* *value* is the *value* that is *borne* by the *whole* of *reality* *as* *sacred* — and the *two* are *connected*: the *beauty* is *one* of the *names* of the *divine*, the *sublime* is *one* of the *experiences* that *opens* the *question* of the *transcendent*, and the *art* is *one* of the *bearers* of the *religious* *meaning*. The *next* *chapter* *examines* the *religion*, and it *asks* the *question* that the *aesthetics* *presses*: *what* *is* *it* that *we* *encounter* *when* *we* *are* *moved* *by* the *beautiful*, and *why* *does* the *encounter* *seem* *to* *point* *beyond* *itself*?

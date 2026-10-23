@@ -6,7 +6,7 @@
 > “A philosopher who has not thought about a problem for a long time is like a man who has been told to paint a picture and has been given no brushes.”
 > — a formulation of the warning, in the sententious tradition of Austin and his predecessors
 
-Chapter 2 gave us the anatomy of an argument. But arguments do not fall from the sky. Before an argument can be assessed, a question must be isolated, a concept must be clarified, a case must be constructed, a theory must be formalised, a practice must be reconstructed, a belief’s origin must be examined, or a pseudo-problem must be diagnosed. These are the **instruments of analysis**, and every philosopher uses them. Most use them badly, because they have never been taught what the instruments are, what they are for, or when they break.
+Chapter 2 gave us the anatomy of an argument. But arguments do not fall from the sky. Before an argument can be assessed, a question must be isolated, a concept must be clarified, a case must be constructed, a theory must be formalized, a practice must be reconstructed, a belief’s origin must be examined, or a pseudo-problem must be diagnosed. These are the **instruments of analysis**, and every philosopher uses them. Most use them badly, because they have never been taught what the instruments are, what they are for, or when they break.
 
 This chapter is a field guide to seven instruments:
 
@@ -40,7 +40,7 @@ $$
 \forall x\, (\text{Knowledge}(x) \leftrightarrow (\text{Belief}(x) \wedge \text{Truth}(x) \wedge \text{Justification}(x)))
 $$
 
-The instrument has an impressive record. The theory of descriptions (Russell 1905) analyses a class of sentences previously thought to be ontologically committed to things that do not exist (Ch. 12, §2). The analysis of knowledge as justified true belief survived two millennia before Gettier (Ch. 7, §2). The analysis of the virtues, the analysis of causation, the analysis of *person*, the analysis of *freedom* — each is a genuine intellectual achievement, even where it failed.
+The instrument has an impressive record. The theory of descriptions (Russell 1905) analyzes a class of sentences previously thought to be ontologically committed to things that do not exist (Ch. 12, §2). The analysis of knowledge as justified true belief survived two millennia before Gettier (Ch. 7, §2). The analysis of the virtues, the analysis of causation, the analysis of *person*, the analysis of *freedom* — each is a genuine intellectual achievement, even where it failed.
 
 There is something right about the classical model that we must keep in view: **you cannot argue well about a concept you cannot state.** If you cannot say what you mean by “justice,” you cannot say whether a proposal is just. Analysis is the price of intelligibility.
 
@@ -96,7 +96,7 @@ The classical model has been under attack from four directions. Each attack is s
 
 *Reply*: family resemblance may be a feature of *some* concepts and not others; the paradigm cases (knowledge, causation, truth) may still have classical structures. The work of Rosch (1975) and subsequent prototype theory suggested that many concepts are *graded* — there are better and worse instances — which is incompatible with the classical model. But gradedness is compatible with a *classical core plus a prototype periphery* (the “dual-process” or “core-plus-prototype” view). The debate is far from settled.
 
-**(ii) Semantic externalism (Kripke, Putnam).** If the meaning of a natural kind term is fixed by the actual microstructure of the stuff, then the concept cannot be analysed from the armchair; we must investigate the world (Ch. 12, §3; Ch. 39, §3). “Water” is whatever substance plays the right role in the actual world, and no amount of conceptual reflection can tell us whether that is H₂O or XYZ. This does not refute conceptual analysis for *normative* or *formal* concepts, but it does limit its scope for empirical ones.
+**(ii) Semantic externalism (Kripke, Putnam).** If the meaning of a natural kind term is fixed by the actual microstructure of the stuff, then the concept cannot be analyzed from the armchair; we must investigate the world (Ch. 12, §3; Ch. 39, §3). “Water” is whatever substance plays the right role in the actual world, and no amount of conceptual reflection can tell us whether that is H₂O or XYZ. This does not refute conceptual analysis for *normative* or *formal* concepts, but it does limit its scope for empirical ones.
 
 **(iii) Quine’s holism.** If the analytic/synthetic distinction collapses (Ch. 36, §1.3), then the idea of an analysis that is true *in virtue of meaning alone* loses its footing. Conceptual analysis becomes a special case of theory construction, judged by the same holistic standards as science. This is the naturalistic challenge, and it is the deepest of the four.
 
@@ -114,9 +114,9 @@ There is a crucial distinction, often blurred, between three projects that all l
 
 The difference matters because the criteria are different. An analysis is refuted by a counterexample; an explication is not, because it was never trying to capture every case. An engineered concept is not *refuted* at all; it is *argued for* — on the grounds that the old concept served us badly, or served interests we should not serve.
 
-The most philosophically loaded version of this distinction is Sally Haslanger’s distinction between a **descriptive** and an **ameliorative** project (2000, 2012). Analysing *gender* descriptively tells us how the term is used; analysing it amelioratively asks what concept we *should* have, given our purposes. Haslanger argues that the ameliorative question is prior, because the descriptive question presupposes a purpose, whether acknowledged or not. Her work on race and gender is the best contemporary example of conceptual engineering in action, and it raises the question the whole book will return to in Ch. 33, §5: **whose purposes should concepts serve?**
+The most philosophically loaded version of this distinction is Sally Haslanger’s distinction between a **descriptive** and an **ameliorative** project (2000, 2012). Analyzing *gender* descriptively tells us how the term is used; analyzing it amelioratively asks what concept we *should* have, given our purposes. Haslanger argues that the ameliorative question is prior, because the descriptive question presupposes a purpose, whether acknowledged or not. Her work on race and gender is the best contemporary example of conceptual engineering in action, and it raises the question the whole book will return to in Ch. 33, §5: **whose purposes should concepts serve?**
 
-What must be kept clear: **engineering is not cheating.** But it is also not analysis. A philosopher who claims to be analysing a concept while silently replacing it with a better one is committing a subtle but serious deception — sometimes self-deception. The honest practice is to declare which project is underway.
+What must be kept clear: **engineering is not cheating.** But it is also not analysis. A philosopher who claims to be analyzing a concept while silently replacing it with a better one is committing a subtle but serious deception — sometimes self-deception. The honest practice is to declare which project is underway.
 
 ### 1.6 The ad hocness problem
 
@@ -139,11 +139,11 @@ This is the most important methodological skill in analytic philosophy, and it i
 
 A **thought experiment** is a description of a possible situation, presented as evidence for a philosophical conclusion. Its parts are:
 
-1. **Setup**: the description of the case (often stipulating idealisations).
+1. **Setup**: the description of the case (often stipulating idealizations).
 2. **Stipulation**: claims about what is true in the case, accepted by the reader.
 3. **Intuition**: the reader’s spontaneous judgment about the case (e.g., “that is not knowledge”).
 4. **Judgment**: the claim that the intuition is correct.
-5. **Generalisation**: the derivation of the philosophical consequence (e.g., “justification is not sufficient for knowledge”).
+5. **Generalization**: the derivation of the philosophical consequence (e.g., “justification is not sufficient for knowledge”).
 
 The last step is where thought experiments earn their keep and where they most often fail. The intuition is *about a case*; the conclusion is *about a concept* or *about the world*. The bridge between them requires argument, and the bridge is usually suppressed.
 
@@ -233,9 +233,9 @@ Three further issues, for the reader who wants to go deeper.
 
 **1. Are intuitions sui generis states?** If intuition is a distinctive propositional attitude, it needs a distinctive epistemology. If it is just belief with a certain etiology (a product of conceptual competence, or of the imagination, or of the language faculty), then its epistemology is inherited from the broader theory of belief — which may be either good news (no weird faculty required) or bad news (no special warrant).
 
-**2. The expertise defence.** If philosophy is a skill, then philosophical intuitions may be like chess intuitions: unreliable in novices, reliable in experts. Evidence for this is thin — expert philosophers disagree as much as novices (and the experts' intuitions are the ones that formed the disagreement in the first place). This is the **expertise problem** (Ch. 9, §6), and it connects to the problem of philosophical disagreement.
+**2. The expertise defense.** If philosophy is a skill, then philosophical intuitions may be like chess intuitions: unreliable in novices, reliable in experts. Evidence for this is thin — expert philosophers disagree as much as novices (and the experts' intuitions are the ones that formed the disagreement in the first place). This is the **expertise problem** (Ch. 9, §6), and it connects to the problem of philosophical disagreement.
 
-**3. The evolutionary defence.** If our cognitive faculties were shaped by selection for survival, they may be reliable about medium-sized objects and unreliable about the deep structure of reality (the "evolutionary argument against naturalism," Plantinga 1993, turns on this). The counter-argument, due to Street (2006) and echoed by others, is that the debunking cuts no more deeply against philosophy than against common sense — either way, our faculties are *conditionally* reliable. The debate is a useful template for the genealogy method in §5.
+**3. The evolutionary defense.** If our cognitive faculties were shaped by selection for survival, they may be reliable about medium-sized objects and unreliable about the deep structure of reality (the "evolutionary argument against naturalism," Plantinga 1993, turns on this). The counter-argument, due to Street (2006) and echoed by others, is that the debunking cuts no more deeply against philosophy than against common sense — either way, our faculties are *conditionally* reliable. The debate is a useful template for the genealogy method in §5.
 
 ---
 
@@ -313,17 +313,17 @@ The instrument has failure modes. The most important:
 
 **(ii) The translation problem.** Formal validity is validity *relative to a translation*. If the English sentence has been mistranslated, the formal proof proves nothing about the English argument. "If $p$ then $q$" in English is frequently not the material conditional: it may be a conditional assertion, a counterfactual, or a causal claim. The material conditional’s paradoxes — $p \to q$ is true whenever $p$ is false, so "if pigs fly, I’m the King of France" comes out true — are a warning, not a refutation: they show that English "if" is not captured by $\to$. (On conditionals, Ch. 37.)
 
-**(iii) The formalisation fallacy.** Invalidity in one formalisation does not entail invalidity in the English argument. The argument may be valid in a different, better translation. This is the most common error in student papers: a student formalises an argument using $\to$, finds the form invalid, and declares the argument fallacious, when the argument would be valid if formalised with a modal or relevant conditional.
+**(iii) The formalization fallacy.** Invalidity in one formalization does not entail invalidity in the English argument. The argument may be valid in a different, better translation. This is the most common error in student papers: a student formalizes an argument using $\to$, finds the form invalid, and declares the argument fallacious, when the argument would be valid if formalized with a modal or relevant conditional.
 
-**(iv) The loss of content problem.** Formalisations abstract away content. Sometimes the content is what matters. "Socrates is human; therefore Socrates is mortal" is valid in predicate logic only with the added premise. The formalisation *hides* the substantive question (what makes a species mortal?) behind a logical one.
+**(iv) The loss of content problem.** Formalizations abstract away content. Sometimes the content is what matters. "Socrates is human; therefore Socrates is mortal" is valid in predicate logic only with the added premise. The formalization *hides* the substantive question (what makes a species mortal?) behind a logical one.
 
-**(v) The complexity problem.** Some arguments are too complex to formalise usefully; the formalisation becomes longer and less comprehensible than the prose. In such cases, argument mapping (§4 of Ch. 2) is the better instrument.
+**(v) The complexity problem.** Some arguments are too complex to formalize usefully; the formalization becomes longer and less comprehensible than the prose. In such cases, argument mapping (§4 of Ch. 2) is the better instrument.
 
 ### 3.4 A rule of thumb
 
-> **Formalise when the structure is contested, when the argument is long, or when quantifier scope or iterated modality is doing work. Do not formalise as a substitute for thought.**
+> **Formalize when the structure is contested, when the argument is long, or when quantifier scope or iterated modality is doing work. Do not formalize as a substitute for thought.**
 
-The best formalisations earn their keep by *changing* the debate — by revealing a distinction, generating a countermodel, or proving a limitative result (Gödel, Tarski, Russell’s paradox). The worst are elaborate equations that restate the obvious in a language only the author can read.
+The best formalizations earn their keep by *changing* the debate — by revealing a distinction, generating a countermodel, or proving a limitative result (Gödel, Tarski, Russell’s paradox). The worst are elaborate equations that restate the obvious in a language only the author can read.
 
 ---
 
@@ -362,9 +362,9 @@ The distinction also generates a **hierarchy of methods**: a wide equilibrium ha
 
 **Objection 3: Whose judgments?** The "we" whose considered judgments are consulted is a specific, historically situated community. The method may be a local truth-machine. This is the **parochialism objection**, and it connects to the epistemic critique in Ch. 11 (epistemic injustice) and Ch. 13 (relativism).
 
-*Reply*: this is the strongest objection, and it has no knock-down answer. The best defence is procedural: ensure the judgments consulted come from a *diverse* set of perspectives, and treat the equilibrium as provisionally open to revision. The method is fallible, and its fallibility is a contingent matter of who is doing the equilibrating.
+*Reply*: this is the strongest objection, and it has no knock-down answer. The best defense is procedural: ensure the judgments consulted come from a *diverse* set of perspectives, and treat the equilibrium as provisionally open to revision. The method is fallible, and its fallibility is a contingent matter of who is doing the equilibrating.
 
-**Objection 4: Equilibrium is a myth.** In practice, philosophers do not equilibrate; they begin with a favoured theory and adjust the judgments to fit. The method is a rationalisation of intuition-mongering, not a constraint on it.
+**Objection 4: Equilibrium is a myth.** In practice, philosophers do not equilibrate; they begin with a favored theory and adjust the judgments to fit. The method is a rationalization of intuition-mongering, not a constraint on it.
 
 *Reply*: this is an empirical claim about philosophical practice, and it is partly true. It is also an argument for self-discipline, not against the method. The remedy is the *philosophical diary* (Ch. 4, §5): record your judgments *before* you have a theory, so you can tell whether the theory is adjusting them.
 
@@ -381,7 +381,7 @@ The candidate principles:
 
 | Principle | Explains the switch verdict? | Explains the footbridge verdict? | Problem |
 |---|---|---|---|
-| **Maximise welfare** | Yes | No | Predicts push |
+| **Maximize welfare** | Yes | No | Predicts push |
 | **Doing/allowing** | Yes | Yes | Is the distinction morally fundamental? |
 | **Intention/foresight (DDE)** | Yes | Yes | Controversial in its application |
 | **Personal force** | Yes | Yes | Anti-consequentialist; empirical basis |
@@ -424,7 +424,7 @@ The crucial premise is 2. The mere fact that a belief has a natural history is i
 | **Consciousness** | Illusionism: the hard problem is a meta-problem | Frankish 2016 | Live; see Ch. 24, §5 |
 | **Knowledge** | Experimentalist debunking of intuition | Weinberg et al. 2001 | Contested |
 
-The map is useful because it shows how *portable* the debunking argument is. If the moral realist can be debunked by evolution, so can the mathematician by Benacerraf, and so can the naturalist by Plantinga. The **companions-in-guilt** response (Ch. 44, §5) is the standard defence: if the debunking argument proves too much, it proves nothing.
+The map is useful because it shows how *portable* the debunking argument is. If the moral realist can be debunked by evolution, so can the mathematician by Benacerraf, and so can the naturalist by Plantinga. The **companions-in-guilt** response (Ch. 44, §5) is the standard defense: if the debunking argument proves too much, it proves nothing.
 
 ### 5.3 The conditions for a successful debunking
 
@@ -439,7 +439,7 @@ A debunking argument succeeds only if:
 
 Even when it does not debunk, genealogy has real philosophical uses:
 
-**(i) Contingency.** It can show that a belief or practice is not *necessary* — that it was otherwise, that it arose at a particular time, that it could be otherwise. This is the use Foucault makes of history: not to refute a practice, but to denaturalise it. The value is real: the sense that our arrangements are inevitable is one of the strongest barriers to criticism.
+**(i) Contingency.** It can show that a belief or practice is not *necessary* — that it was otherwise, that it arose at a particular time, that it could be otherwise. This is the use Foucault makes of history: not to refute a practice, but to denaturalize it. The value is real: the sense that our arrangements are inevitable is one of the strongest barriers to criticism.
 
 **(ii) Function.** It can show that a belief serves a purpose unrelated to its truth — social cohesion, the legitimation of power, the management of anxiety. This is not yet a debunking, but it raises the question: *is there any reason to think the belief is also true?*
 
@@ -493,20 +493,20 @@ The best use of the method is **diagnostic**: ordinary usage is evidence of dist
 
 ### 6.3 Experimental philosophy
 
-**Experimental philosophy** (x-phi) uses empirical methods — surveys, reaction-time studies, and (increasingly) field experiments — to investigate the intuitions on which philosophy relies. It has two programmes:
+**Experimental philosophy** (x-phi) uses empirical methods — surveys, reaction-time studies, and (increasingly) field experiments — to investigate the intuitions on which philosophy relies. It has two programs:
 
-- **The negative programme**: demonstrate that philosophical intuitions are unreliable (context-sensitive, culturally variable, affective, order-dependent). If the intuitions that underpin the method of cases are unreliable, the method of cases is in trouble.
-- **The positive programme**: use empirical data to *do* philosophy — to discover the structure of concepts, to map the diversity of intuitions, to test whether philosophical theories match actual practice.
+- **The negative program**: demonstrate that philosophical intuitions are unreliable (context-sensitive, culturally variable, affective, order-dependent). If the intuitions that underpin the method of cases are unreliable, the method of cases is in trouble.
+- **The positive program**: use empirical data to *do* philosophy — to discover the structure of concepts, to map the diversity of intuitions, to test whether philosophical theories match actual practice.
 
-The positive programme has produced striking results. The **Knobe effect** (2003): people are more inclined to say that a side effect was brought about "intentionally" when it is bad than when it is good. The finding has been replicated across ages and, though less uniformly, across cultures, and it has generated a large literature on the "folk concept of intentional action" (Ch. 18, §5.2). The **epistemic side-effect effect** (Beebe & Buckwalter 2010) and the **folk concept of knowledge** are further examples.
+The positive program has produced striking results. The **Knobe effect** (2003): people are more inclined to say that a side effect was brought about "intentionally" when it is bad than when it is good. The finding has been replicated across ages and, though less uniformly, across cultures, and it has generated a large literature on the "folk concept of intentional action" (Ch. 18, §5.2). The **epistemic side-effect effect** (Beebe & Buckwalter 2010) and the **folk concept of knowledge** are further examples.
 
-The negative programme is more contentious. The early cross-cultural studies (Weinberg, Nichols, Stich 2001; Machery, Mallon, Nichols, Stich 2004) suggested that Gettier intuitions and reference intuitions vary by culture. Later work complicated the picture: some findings failed to replicate (Seyedsayamdost 2015), and the interpretation of the results is contested (is the variation due to "culture" or to confounds?). The **replication crisis** in psychology has hit x-phi as well, and the field is now more cautious than it was in 2005.
+The negative program is more contentious. The early cross-cultural studies (Weinberg, Nichols, Stich 2001; Machery, Mallon, Nichols, Stich 2004) suggested that Gettier intuitions and reference intuitions vary by culture. Later work complicated the picture: some findings failed to replicate (Seyedsayamdost 2015), and the interpretation of the results is contested (is the variation due to "culture" or to confounds?). The **replication crisis** in psychology has hit x-phi as well, and the field is now more cautious than it was in 2005.
 
 **The philosophical assessment.** Even if the empirical results are robust, three questions remain:
 
 1. **Do the results undermine the *method*, or only some *applications* of it?** If intuitions vary, we need a *calibration* story — not an abandonment of cases.
-2. **Whose intuitions matter?** If expert intuitions differ from novice intuitions, which are authoritative? (The expertise defence.)
-3. **Are the *data* about concepts or about *theories of* concepts?** A survey question is an operationalisation, and the operationalisation may not capture the target.
+2. **Whose intuitions matter?** If expert intuitions differ from novice intuitions, which are authoritative? (The expertise defense.)
+3. **Are the *data* about concepts or about *theories of* concepts?** A survey question is an operationalization, and the operationalization may not capture the target.
 
 The most defensible position is a **methodological pluralism**: use intuition as a fallible source of data, use empirical work to calibrate it, and use argument to adjudicate when intuitions conflict. The reader should be suspicious of both the "x-phi refutes the armchair" and the "x-phi is irrelevant" poles.
 
@@ -582,7 +582,7 @@ We can now distinguish five fates that a philosophical question can meet. The ta
 | **Solved** | A correct answer is established | The analysis of definite descriptions (arguably) | Consensus, or near-consensus, among the informed |
 | **Dissolved** | The question is shown not to arise | The external-world problem on hinge epistemology | The question loses its grip; the old alternatives seem unmotivated |
 | **Reframed** | The question is transformed into a better one | From "What is knowledge?" to "What is the structure of epistemic justification?" | The new question is more tractable and more fruitful |
-| **Deferred** | The question is well-posed but not yet answerable | "Is consciousness physical?" | A clear research programme remains |
+| **Deferred** | The question is well-posed but not yet answerable | "Is consciousness physical?" | A clear research program remains |
 | **Abandoned** | The question is not worth pursuing | "How many angels can dance on a pin?" | A reason to think the question rests on false presuppositions or lacks import |
 
 The taxonomy is not an algorithm. Reasonable philosophers will disagree about which category a given question falls into — and that disagreement is itself philosophical. But the taxonomy has the virtue of forcing the question: *what kind of progress have we made?*
@@ -591,7 +591,7 @@ The taxonomy is not an algorithm. Reasonable philosophers will disagree about wh
 
 ## 8. Synthesis: The Instrument Panel
 
-The seven instruments are not alternatives; they are aspects of a single activity. The following table summarises when to use which, and what each can and cannot do.
+The seven instruments are not alternatives; they are aspects of a single activity. The following table summarizes when to use which, and what each can and cannot do.
 
 | Instrument | Best used when | Cannot deliver | Characteristic failure |
 |---|---|---|---|
@@ -621,7 +621,7 @@ No single instrument settles the question. The *convergence* of the instruments 
 
 The deepest lesson of this chapter is that **there is no master method.** Philosophy has no algorithm. It has a set of tools, a set of virtues (clarity, honesty, charity, negative capability), and a community of practice that tests the tools against the hardest cases. The tools are fallible; the virtues are demanding; the community is imperfect. But the combination is the best we have — and it is a genuine form of knowledge-production, even if it is not the form we find in the sciences.
 
-The reader who has absorbed this chapter is in a position to *use* the tools, and — more importantly — to *recognise* when they are being used badly. That is the beginning of philosophical independence.
+The reader who has absorbed this chapter is in a position to *use* the tools, and — more importantly — to *recognize* when they are being used badly. That is the beginning of philosophical independence.
 
 ---
 
@@ -629,7 +629,7 @@ The reader who has absorbed this chapter is in a position to *use* the tools, an
 
 - **Conceptual analysis** seeks necessary and sufficient conditions. Its criteria are extensional adequacy, informativity, non-circularity, simplicity, explanatory power, and conservatism. It faces the paradox of analysis, the challenge from family resemblance, semantic externalism, Quinean holism, and experimental philosophy. The classical model survives as one instrument among others.
 - **Thought experiments** test concepts and theories against cases. The four accounts of their evidential status — conceptual competence, modal intuition, seeming, and deflationism — disagree about *why* they work. The best practice is the **principle-extraction heuristic**: articulate the principle that would make the intuition correct, and assess the principle on its own merits.
-- **Formalization** brings perspicuity, validity-checking, and precision, but it is vulnerable to pseudo-precision, the translation problem, and the formalisation fallacy. Formalise when structure is contested; never as a substitute for thought.
+- **Formalization** brings perspicuity, validity-checking, and precision, but it is vulnerable to pseudo-precision, the translation problem, and the formalization fallacy. Formalize when structure is contested; never as a substitute for thought.
 - **Reflective equilibrium** justifies beliefs by coherence among considered judgments and principles. It can be narrow or wide, and width matters. It faces the objections of conservatism, indeterminacy, and parochialism, none of which is decisive but none of which is trivial.
 - **Genealogy** explains the origin of beliefs in order to assess their authority. Its logic is the debunking argument, which requires (i) the empirical premise, (ii) truth-insensitivity, (iii) a scope that bites on the target without undermining the debunker, and (iv) the absence of independent justification. Its dangers are the genetic fallacy, selective debunking, speculative empirics, and self-defeat.
 - **Phenomenology, ordinary language, and experimental philosophy** supply three kinds of empirical-adjacent data. Each is fallible in a characteristic way; the right practice is **triangulation**.
@@ -644,7 +644,7 @@ The reader who has absorbed this chapter is in a position to *use* the tools, an
 2. Is the paradox of analysis a genuine problem, or a confusion about what analysis is for? How would you answer it?
 3. Construct a thought experiment of your own to test a philosophical analysis. Then extract the principle that would make the intuition correct, and assess the principle. Does the intuition survive the assessment?
 4. Is the experimental philosophy critique of the method of cases a *reductio* of the method, or a *calibration* of it? What would the calibration story look like?
-5. Formalise one of the arguments in Ch. 2. Then produce a second formalisation that renders the argument valid, if possible. What did the exercise teach you about the translation problem?
+5. Formalize one of the arguments in Ch. 2. Then produce a second formalization that renders the argument valid, if possible. What did the exercise teach you about the translation problem?
 6. Are reflective equilibrium and conceptual analysis the same method under different descriptions? If not, what work does each do that the other cannot?
 7. Apply the debunking schema to a belief you hold. Is the debunking successful? What would have to be true for it to be successful? (This is the hardest question in the chapter, and it is meant to be.)
 8. When is a dissolution of a problem legitimate, and when is it evasion? Give an example of each, and state the criterion that distinguishes them.
@@ -655,7 +655,7 @@ The reader who has absorbed this chapter is in a position to *use* the tools, an
 
 ## Further Reading
 
-- **On conceptual analysis**: Frank Jackson, *From Metaphysics to Ethics* (1998), Chs. 2–3, for the defence; Max Deutsch, *The Myth of the Intuitive* (2015), for the critique; David Chalmers and Frank Jackson, "Conceptual Analysis and Reductive Explanation" (2001), for the two-dimensional framework.
+- **On conceptual analysis**: Frank Jackson, *From Metaphysics to Ethics* (1998), Chs. 2–3, for the defense; Max Deutsch, *The Myth of the Intuitive* (2015), for the critique; David Chalmers and Frank Jackson, "Conceptual Analysis and Reductive Explanation" (2001), for the two-dimensional framework.
 - **On explication and engineering**: Rudolf Carnap, *Logical Foundations of Probability* (1950), Ch. 1; Sally Haslanger, *Resisting Reality* (2012), Chs. 1–2; Herman Cappelen, *Fixing Language* (2018).
 - **On thought experiments**: James Robert Brown, *The Laboratory of the Mind* (1991), for the Platonist view; John Norton, "Why Thought Experiments Do Not Transcend Empiricism" (2004), for the deflationary view; Tamar Szabó Gendler, *Intuition, Imagination, and Philosophical Methodology* (2010), for the middle ground; Laurence BonJour, *Epistemic Angst* (2001), on the parrot case; Daniel Dennett, *Elbow Room* (1984), p. 12, on intuition pumps.
 - **On the Gettier case**: Edmund Gettier, "Is Justified True Belief Knowledge?" (1963); the symposium in *Analysis* 23 (June 1963) and the subsequent literature; Linda Zagzebski, "The Inescapability of Gettier Problems" (1994), for the general lesson.

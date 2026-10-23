@@ -84,7 +84,7 @@ The *options* are a *space* of *positions*, and the *space* is the *map* of the 
           |                         |
           v                         v
      PSYCHOLOGICAL              FURTHER FACT
-     CONTINUITY                 (not analysable)
+     CONTINUITY                 (not analyzable)
           |
     +-----+-----+
     |           |
@@ -117,7 +117,7 @@ ANIMALISM   NARRATIVE
 
 $$
 \begin{array}{ll}
-1. & \text{I can *doubt* the *existence* of my *body* (the *sceptical* *premise*; Ch. 6, §2).} \\
+1. & \text{I can *doubt* the *existence* of my *body* (the *skeptical* *premise*; Ch. 6, §2).} \\
 2. & \text{I *cannot* *doubt* the *existence* of my *self* (the *cogito*).} \\
 3. & \text{If *A* can be *doubted* and *B* cannot, *A* is *not* *B*.} \\
 \hline
@@ -531,7 +531,7 @@ $$
 
 ### 7.2 The illusionist self
 
-**The *thesis*** (Dennett, “The Self as a Center of Narrative Gravity,” 1992; *Consciousness Explained*, 1991; Metzinger, *Being No One*, 2003). The *self* is *not* a *thing*; it is a *useful* *fiction* — a *“*center* *of* *narrative* *gravity*”* — that the *brain* *constructs* to *organize* its *behaviour*.
+**The *thesis*** (Dennett, “The Self as a Center of Narrative Gravity,” 1992; *Consciousness Explained*, 1991; Metzinger, *Being No One*, 2003). The *self* is *not* a *thing*; it is a *useful* *fiction* — a *“*center* *of* *narrative* *gravity*”* — that the *brain* *constructs* to *organize* its *behavior*.
 
 **The *analogy*** (Dennett 1992). The *self* is *like* the *center* *of* *gravity*: it is a *real* *abstraction* (the *center* *of* *gravity* *is* *real*, and it *has* *causal* *effects*), but it is *not* a *thing* *over* *and* *above* the *physical* *system*.
 
@@ -835,8 +835,8 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 - **Primary**: John Locke, *An Essay Concerning Human Understanding* (1690), II.xxvii; David Hume, *A Treatise of Human Nature* (1739–40), I.iv.6; Joseph Butler, *The Analogy of Religion* (1736), Dissertation I; Thomas Reid, *Essays on the Intellectual Powers of Man* (1785), III.4; Derek Parfit, *Reasons and Persons* (1984), Part III.
 - **On the substantial self**: René Descartes, *Meditations* (1641), II, VI; Richard Swinburne, *The Evolution of the Soul* (rev. ed., 1997); John Foster, *The Immaterial Self* (1991); Roderick Chisholm, *Person and Object* (1976); the *critique* in Derek Parfit (1984), Ch. 10; the *survey* in the *Stanford Encyclopedia* entry, “Personal Identity” (Olson).
-- **On the bundle theory**: David Hume (1739–40), I.iv.6; the *defence* in Derek Parfit (1984), Ch. 10; the *critique* in John Foster, *The Immaterial Self* (1991), Ch. 3; the *survey* in the *Stanford Encyclopedia* entry, “Bundle Theory” (the entry on Hume).
-- **On Locke**: Locke (1690), II.xxvii; the *commentary* in Vere Chappell (ed.), *The Cambridge Companion to Locke* (1994), Ch. 6; the *critique* in Butler (1736) and Reid (1785); the *defence* in Derek Parfit (1984), §79.
+- **On the bundle theory**: David Hume (1739–40), I.iv.6; the *defense* in Derek Parfit (1984), Ch. 10; the *critique* in John Foster, *The Immaterial Self* (1991), Ch. 3; the *survey* in the *Stanford Encyclopedia* entry, “Bundle Theory” (the entry on Hume).
+- **On Locke**: Locke (1690), II.xxvii; the *commentary* in Vere Chappell (ed.), *The Cambridge Companion to Locke* (1994), Ch. 6; the *critique* in Butler (1736) and Reid (1785); the *defense* in Derek Parfit (1984), §79.
 - **On the memory criterion and quasi-memory**: Sydney Shoemaker, “Personal Identity and Memory” (1959), in *Identity, Cause, and Mind* (1984), and *Self-Knowledge and Self-Identity* (1963), Ch. 4; the *critique* in Parfit (1984), §77; the *contemporary* *literature* on *quasi*-*memory* (the *essays* in *The Oxford Handbook of the Self*, ed. Gallagher, 2011).
 - **On psychological continuity**: Derek Parfit, *Reasons and Persons* (1984), Part III; the *critique* in the *essays* in *Personal Identity* (ed. Perry, 1975), and in *The Oxford Handbook of the Self* (ed. Gallagher, 2011); the *survey* in the *Stanford Encyclopedia* entry, “Personal Identity” (Olson).
 - **On animalism**: Eric Olson, *The Human Animal* (1997), and *What Are We?* (2007); Paul Snowdon, “Personal Identity and Brain Transplants” (1990), in *Human Beings* (ed. Cockburn, 1991); Peter van Inwagen, *Material Beings* (1990); the *critique* in Lynne Rudder Baker, *Persons and Bodies* (2000); the *survey* in the *Stanford Encyclopedia* entry, “Animalism” (the entry by Bailey).

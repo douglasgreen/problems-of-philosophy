@@ -1,7 +1,7 @@
 # Chapter 37 — Conditionals, Counterfactuals, and Explanation in Language
 
 > “If ‘if’ were the same as ‘⊃’, we should have no need of the word ‘if’ at all: we could write ‘⊃’ and be done with it. But we cannot, and the fact that we cannot is the beginning of wisdom about conditionals.”
-> — a paraphrase of the observation that organises the field, after Grice and Strawson
+> — a paraphrase of the observation that organizes the field, after Grice and Strawson
 
 > “A counterfactual is true iff, in the nearest possible world in which its antecedent is true, its consequent is true.”
 > — David Lewis, *Counterfactuals* (1973), the central thesis, in a sentence
@@ -13,7 +13,7 @@
 
 Part V has examined *language* — meaning (Ch. 31), truth (Ch. 32), paradox (Ch. 33), speech acts (Ch. 34), logic (Ch. 35), and the *a priori* (Ch. 36). This chapter examines the *single* *linguistic* *device* that *connects* the *whole* of the *part* to the *whole* of the *book*: the **conditional**.
 
-The *conditional* — the “if … then …” — is the *most* *studied* *construction* in the *philosophy* of *language*, and it is *studied* *because* it is *indispensable* and *unanalysable*. It is *indispensable* because it is the *form* in which *laws* are stated (Ch. 39), *dispositions* are described (Ch. 15, §5.3), *causes* are identified (Ch. 18, §2), *reasons* are given (Ch. 28), *promises* are made (Ch. 34), and *responsibility* is attributed (Ch. 27). It is *unanalysable* because the *material* *conditional* (the *truth*-*functional* *analysis*) *fails* to *capture* the *ordinary* “if,” and *no* *alternative* has *achieved* *consensus*.
+The *conditional* — the “if … then …” — is the *most* *studied* *construction* in the *philosophy* of *language*, and it is *studied* *because* it is *indispensable* and *unanalyzable*. It is *indispensable* because it is the *form* in which *laws* are stated (Ch. 39), *dispositions* are described (Ch. 15, §5.3), *causes* are identified (Ch. 18, §2), *reasons* are given (Ch. 28), *promises* are made (Ch. 34), and *responsibility* is attributed (Ch. 27). It is *unanalyzable* because the *material* *conditional* (the *truth*-*functional* *analysis*) *fails* to *capture* the *ordinary* “if,” and *no* *alternative* has *achieved* *consensus*.
 
 The *thesis* is that the *conditionals* are *not* a *single* *phenomenon* but a *family* — the *material*, the *indicative*, the *subjunctive*, the *counterfactual*, the *causal*, the *generic* — and that the *family* is *unified* by the *role* of *the* *conditional* in *inference* and *explanation* rather than by a *single* *semantics*. The *chapter’s* *diagnosis* is that the *debate* has *moved* from the *semantics* (the *truth* *conditions*) to the *pragmatics* (the *assertion* *conditions*) and to the *epistemology* (the *probabilistic* and *causal* *roles*), and that the *move* is *progress*: the *conditionals* are *understood* *best* when they are *understood* as *tools* of *reasoning* rather than as *descriptions* of *states* of *affairs*.
 
@@ -259,7 +259,7 @@ where $f(w, p)$ is the *set* of *worlds* *nearest* to $w$ *in* which $p$ *obtain
 
 $$
 \begin{array}{ll}
-1. & \text{The *counterfactual* is *analysed* by the *possible* *worlds* (the *semantics*).} \\
+1. & \text{The *counterfactual* is *analyzed* by the *possible* *worlds* (the *semantics*).} \\
 2. & \text{The *possible* *worlds* are *defined* by the *counterfactuals* (the *worlds* *are* the *ways* the *world* *could* be; the *modality*).} \\
 3. & \text{The *two* *definitions* *presuppose* each other.} \\
 \hline
@@ -273,7 +273,7 @@ $$
 
 **The *reply***. The *reply* *avoids* the *circularity* by the *modal* *realism*, and the *reply* *imports* the *costs* of the *modal* *realism* (the *incredulous* *stare*, the *epistemic* *access*; Ch. 16, §2.2). The *reply* is *contested*.
 
-**(ii) The *‘*no* *worlds*’* *response*** (Fine 2012; the *contemporary* *literature*). The *counterfactuals* *are* *primitive* (they are *not* *analysed* by the *worlds*), and the *worlds* are *derived* (the *worlds* are *the* *models* of the *counterfactuals*).
+**(ii) The *‘*no* *worlds*’* *response*** (Fine 2012; the *contemporary* *literature*). The *counterfactuals* *are* *primitive* (they are *not* *analyzed* by the *worlds*), and the *worlds* are *derived* (the *worlds* are *the* *models* of the *counterfactuals*).
 
 **The *reply***. The *reply* *avoids* the *circularity* by the *primitivism*, and the *reply* *imports* the *costs* of the *primitivism* (the *unexplanatory*; Ch. 32, §7.3). The *reply* is *contested*.
 
@@ -288,7 +288,7 @@ $$
 | **Fine** | The counterfactuals are primitive | The unexplanatory |
 | **Lewis's realism** | The worlds are concrete | The incredible cost |
 
-**The *most* *defensible* *position***. A *qualified* *Lewisian* *semantics*: the *counterfactuals* *are* *analysed* by the *similarity* *ordering* (the *Lewis* *insight*), and the *ordering* *is* *context*-*sensitive* (the *contextualist* *insight*), and the *worlds* *are* *ersatz* (the *abstract* *representations*, not the *concrete* *wholes*; Ch. 16, §2.3), *qualified* by the *admission* that the *circularity* *worry* *remains*.
+**The *most* *defensible* *position***. A *qualified* *Lewisian* *semantics*: the *counterfactuals* *are* *analyzed* by the *similarity* *ordering* (the *Lewis* *insight*), and the *ordering* *is* *context*-*sensitive* (the *contextualist* *insight*), and the *worlds* *are* *ersatz* (the *abstract* *representations*, not the *concrete* *wholes*; Ch. 16, §2.3), *qualified* by the *admission* that the *circularity* *worry* *remains*.
 
 ---
 
@@ -316,7 +316,7 @@ $$
 
 **The *thesis*** (Lewis, “Probabilities of Conditionals and Conditional Probabilities,” 1976; “Probabilities of Conditionals and Conditional Probabilities II,” 1986). The *identification* of the *conditional* *probability* with the *probability* *of* a *conditional* *proposition* *trivialises* the *probability* *theory*.
 
-**The *argument* (the *simplified* *form*; the *assumptions* are the *conditionalisation*, the *substitution*, the *conditional* *is* a *proposition*).
+**The *argument* (the *simplified* *form*; the *assumptions* are the *conditionalization*, the *substitution*, the *conditional* *is* a *proposition*).
 
 $$
 \begin{array}{ll}
@@ -531,13 +531,13 @@ $$
 | **Finkish** | The *disposition* *can* be *blocked* by the *stimulus* (the *finkish* *case*) | Martin (1994); Lewis (1997) |
 | **Powers** | The *disposition* is a *power* (the *essence*; Ch. 18, §6) | Bird; Mumford |
 
-**The *finkish* *problem*** (Martin, “Dispositions and Conditionals,” 1994). The *disposition* *can* be *blocked* (the *glass* is *fragile*, and the *striking* *activates* a *protective* *device* that *prevents* the *breaking*), and the *simple* *counterfactual* *fails* (the *glass* *would* *not* *break* *if* *struck*), and the *analysis* *requires* the *idealised* *conditions* (the *ceteris* *paribus* *clause*; §6.3).
+**The *finkish* *problem*** (Martin, “Dispositions and Conditionals,” 1994). The *disposition* *can* be *blocked* (the *glass* is *fragile*, and the *striking* *activates* a *protective* *device* that *prevents* the *breaking*), and the *simple* *counterfactual* *fails* (the *glass* *would* *not* *break* *if* *struck*), and the *analysis* *requires* the *idealized* *conditions* (the *ceteris* *paribus* *clause*; §6.3).
 
 **The *significance***. The *dispositions* *connect* the *conditionals* to the *properties* (Ch. 15, §5.3) and to the *laws* (Ch. 18, §6), and the *connection* *shows* that the *conditional* is *at* the *heart* of the *metaphysics*.
 
 ### 6.3 Ceteris paribus claims
 
-**The *phenomenon***. The *ceteris* *paribus* *claims* (“All other things being equal, if the price rises, the demand falls”) *express* *generalizations* that *hold* *under* the *idealised* *conditions* (the *special* *sciences*; Ch. 39, §2).
+**The *phenomenon***. The *ceteris* *paribus* *claims* (“All other things being equal, if the price rises, the demand falls”) *express* *generalizations* that *hold* *under* the *idealized* *conditions* (the *special* *sciences*; Ch. 39, §2).
 
 **The *structure***.
 
@@ -563,9 +563,9 @@ $$
 |---|---|---|
 | **Generics** | The exceptions | The normalcy / the prevalence |
 | **Dispositions** | The finkish cases | The causal basis / the powers |
-| **Ceteris paribus** | The idealisation | The mechanism / the anti-eliminativism |
+| **Ceteris paribus** | The idealization | The mechanism / the anti-eliminativism |
 
-**The *most* *defensible* *position***. A *qualified* *pluralism*: the *generics*, the *dispositions*, and the *ceteris* *paribus* *claims* are *distinct* *conditional* *constructions* (the *pluralist* *insight*), and the *constructions* *share* the *counterfactual* *core* (the *unifying* *insight*), and the *core* is *the* *similarity* *ordering* (the *Lewis* *insight*), *qualified* by the *admission* that the *idealisation* and the *finkish* *cases* *remain* *unresolved*.
+**The *most* *defensible* *position***. A *qualified* *pluralism*: the *generics*, the *dispositions*, and the *ceteris* *paribus* *claims* are *distinct* *conditional* *constructions* (the *pluralist* *insight*), and the *constructions* *share* the *counterfactual* *core* (the *unifying* *insight*), and the *core* is *the* *similarity* *ordering* (the *Lewis* *insight*), *qualified* by the *admission* that the *idealization* and the *finkish* *cases* *remain* *unresolved*.
 
 ---
 
@@ -573,21 +573,21 @@ $$
 
 ### 7.1 The circularity worry
 
-**The *problem*** (the *contemporary* *literature*; Ch. 18, §2.4). The *causation* is *analysed* by the *counterfactuals* (the *Lewis* *analysis*; Ch. 18, §2.1), and the *counterfactuals* are *analysed* by the *causation* (the *similarity* *ordering* *depends* on the *causal* *structure*; §3.2), and the *two* *analyses* *presuppose* each other.
+**The *problem*** (the *contemporary* *literature*; Ch. 18, §2.4). The *causation* is *analyzed* by the *counterfactuals* (the *Lewis* *analysis*; Ch. 18, §2.1), and the *counterfactuals* are *analyzed* by the *causation* (the *similarity* *ordering* *depends* on the *causal* *structure*; §3.2), and the *two* *analyses* *presuppose* each other.
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
-1. & \text{The *causation* is *analysed* by the *counterfactual} (\neg c \ \Box\!\to\ \neg e; \text{ Ch. 18, §2.1}).} \\
-2. & \text{The *counterfactual* is *analysed* by the *similarity* *ordering* (the *nearest* *world*; §3.2).} \\
+1. & \text{The *causation* is *analyzed* by the *counterfactual} (\neg c \ \Box\!\to\ \neg e; \text{ Ch. 18, §2.1}).} \\
+2. & \text{The *counterfactual* is *analyzed* by the *similarity* *ordering* (the *nearest* *world*; §3.2).} \\
 3. & \text{The *ordering* *depends* on the *causal* *structure* (the *legal* *regularities*, the *causal* *laws*).} \\
 \hline
 4. & \therefore \text{The *two* *analyses* *presuppose* each other (the *circularity* *worry*).}
 \end{array}
 $$
 
-**The *consequence***. The *counterfactual* *analysis* of *causation* *fails* (the *circularity*), and the *causal* *analysis* of the *counterfactuals* *fails* (the *circularity*), and the *two* *notions* *must* be *taken* *as* *primitive* (or *analysed* by a *third* *notion*).
+**The *consequence***. The *counterfactual* *analysis* of *causation* *fails* (the *circularity*), and the *causal* *analysis* of the *counterfactuals* *fails* (the *circularity*), and the *two* *notions* *must* be *taken* *as* *primitive* (or *analyzed* by a *third* *notion*).
 
 ### 7.2 The responses
 
@@ -627,7 +627,7 @@ $$
 
 **(i) The *‘*no* *intervention*’* *objection*. The *intervention* *presupposes* the *causation* (the *intervention* *is* a *causal* *process*), and the *circularity* *returns*.
 
-**The *reply***. The *intervention* is a *theoretical* *notion* (the *idealised* *manipulation*), and the *reply* *grounds* the *intervention* in the *structure* of the *model* (the *do*-*calculus*). The *reply* is *contested*.
+**The *reply***. The *intervention* is a *theoretical* *notion* (the *idealized* *manipulation*), and the *reply* *grounds* the *intervention* in the *structure* of the *model* (the *do*-*calculus*). The *reply* is *contested*.
 
 **(ii) The *‘*no* *fundamental* *physics*’* *objection*. The *intervention* *is* *not* *available* in the *fundamental* *physics* (the *experimenter* *cannot* *manipulate* the *fundamental* *particles*), and the *resolution* *is* *limited* to the *special* *sciences* (Ch. 18, §3.2).
 
@@ -659,7 +659,7 @@ $$
 - **The *limit* *assumption*.** Is there a *nearest* *world* (the *Stalnaker* *assumption*), or *only* a *sequence* (the *Lewis* *account*)?
 - **The *causal* *priority*.** Is the *causation* *primitive* (the *interventionism*), or the *counterfactuals* *primitive* (the *Lewisian* *account*)?
 - **The *generics* and the *dispositions*.** What is the *semantics* of the *generic* *conditional*, and the *finkish* *cases*?
-- **The *circularity*.** Can the *causation* and the *counterfactuals* be *analysed* *independently*?
+- **The *circularity*.** Can the *causation* and the *counterfactuals* be *analyzed* *independently*?
 
 ### 8.3 The methodological lesson
 
@@ -730,11 +730,11 @@ The *chapter* — and *Part V* — *ends* with a *hinge*. The *hinge* is the *re
 - **The *pragmatist* *response*** (Grice) *explains* the *intuition* by the *implicature* (the *speaker* *implies* that the *antecedent* is *possible*), and it *preserves* the *truth*-*functionality*.
 - **The *indicative*/*subjunctive* *distinction*** (Adams) is *real*: the *indicative* *expresses* a *conditional* *belief*, and the *subjunctive* is a *counterfactual* *proposition*.
 - **The *strict* *conditional*** ($\Box(p \to q)$) *captures* the *necessity*, and it *fails* on the *vacuity* (the *impossible* *antecedent* *necessitates* *everything*).
-- **The *variably* *strict* *semantics*** (Stalnaker, Lewis) *analyses* the *counterfactual* by the *nearest* *worlds* (the *similarity* *ordering*), and it *faces* the *limit* *assumption* and the *conditional* *excluded* *middle*.
+- **The *variably* *strict* *semantics*** (Stalnaker, Lewis) *analyzes* the *counterfactual* by the *nearest* *worlds* (the *similarity* *ordering*), and it *faces* the *limit* *assumption* and the *conditional* *excluded* *middle*.
 - **The *probabilistic* *approach*** (Adams) *identifies* the *assertibility* with the *conditional* *probability*, and the *triviality* *results* (Lewis) *constrain* the *propositional* *account*.
 - **The *causal* *approach*** (Pearl, Spirtes et al.) *grounds* the *counterfactuals* in the *structural* *equations* (the *interventions*), and it *fits* the *causal* *inference*.
 - **The *counterfactuals* are *indispensable* in *science* (the *laws*), *law* (the *but*-*for* *test*), and *morals* (the *responsibility*); the *applications* *test* the *semantics*.
-- **The *generics*, the *dispositions*, and the *ceteris* *paribus* *claims* are *conditional* *constructions*; the *constructions* *share* the *counterfactual* *core* (the *similarity* *ordering*), and the *finkish* *cases* and the *idealisation* *remain* *unresolved*.
+- **The *generics*, the *dispositions*, and the *ceteris* *paribus* *claims* are *conditional* *constructions*; the *constructions* *share* the *counterfactual* *core* (the *similarity* *ordering*), and the *finkish* *cases* and the *idealization* *remain* *unresolved*.
 - **The *circularity* *worry*** (the *causation* and the *counterfactuals* *presuppose* each other) is *serious*, and the *interventionist* *resolution* is *promising* and *incomplete*.
 - **The *most* *defensible* *position*** is a *qualified* *pluralism*: the *indicative* *conditionals* *express* the *conditional* *beliefs*, the *subjunctive* *conditionals* are *counterfactual* *propositions*, the *causal* *conditionals* are *grounded* in the *structural* *models*, and the *three* *are* *distinct* but *connected* (the *pluralist* *insight*), *qualified* by the *admission* that the *triviality* and the *circularity* *remain* *unresolved*.
 

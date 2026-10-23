@@ -15,7 +15,7 @@ Chapter 32 examined *truth*, and it *ended* with a *question* that the *theory* 
 
 This chapter examines the *paradox* and its *family*. The *paradoxes* are *not* a *quirk* of the *truth* *predicate*; they are a *symptom* of the *limits* of *concepts* — of the *boundaries* that *every* *concept* has, and that *cannot* be *drawn* *without* *generating* a *contradiction* or a *sorites*. The *limit* is the *condition* of the *concept*, and the *paradoxes* are the *place* where the *condition* becomes *visible*.
 
-The chapter's *thesis* is that the *paradoxes* are *real*, that the *solutions* are *all* *costly*, and that the *most* *important* *philosophical* *response* is *not* a *solution* but a *diagnosis* — the *recognition* that *some* *concepts* are *essentially* *contested* (Ch. 1, §6), that *some* *boundaries* are *vague* (Ch. 31, §5), and that *some* *concepts* are *revisable* (the *conceptual* *engineering* *programme*). The *diagnostic* *method* is the *most* *important* *tool* in the *philosophy* of *language*, and it is the *subject* of the *second* *half* of the *chapter*.
+The chapter's *thesis* is that the *paradoxes* are *real*, that the *solutions* are *all* *costly*, and that the *most* *important* *philosophical* *response* is *not* a *solution* but a *diagnosis* — the *recognition* that *some* *concepts* are *essentially* *contested* (Ch. 1, §6), that *some* *boundaries* are *vague* (Ch. 31, §5), and that *some* *concepts* are *revisable* (the *conceptual* *engineering* *program*). The *diagnostic* *method* is the *most* *important* *tool* in the *philosophy* of *language*, and it is the *subject* of the *second* *half* of the *chapter*.
 
 The chapter proceeds in eight movements. §1 states the *family* of *paradoxes*. §2 examines the *semantic* *solutions*. §3 examines *vagueness* and *higher*-*order* *vagueness*. §4 examines the *diagnostic* *toolkit*. §5 examines *conceptual* *engineering*. §6 examines the *limits* of *thought*. §7 examines the *ethics* of *concepts*. §8 gives an *honest* *verdict*.
 
@@ -218,7 +218,7 @@ The *language* $\mathcal{L}_{n+1}$ *contains* the *truth* *predicate* *for* $\ma
 
 **(i) The *‘*no* *natural* *language*’* *objection* (the *most* *serious*; the *contemporary* *literature*). The *natural* *language* *contains* its *own* *truth* *predicate* (we *say* “everything she said is true,” and the *“*true*”* *applies* to the *whole* *language*), and the *hierarchy* *does* not *model* the *natural* *language*.
 
-**The *reply***. The *hierarchy* is an *idealisation* (the *natural* *language* *approximates* it), and the *reply* *abandons* the *description* of *natural* *language*. The *reply* is *contested*.
+**The *reply***. The *hierarchy* is an *idealization* (the *natural* *language* *approximates* it), and the *reply* *abandons* the *description* of *natural* *language*. The *reply* is *contested*.
 
 **(ii) The *‘*no* *unity*’* *objection*. The *hierarchy* *fragments* the *truth* *predicate* (there is no *single* *truth* *predicate*, but a *sequence*), and the *unity* of the *concept* is *lost*.
 
@@ -399,7 +399,7 @@ $$
 
 ### 3.4 The continuum
 
-**The *phenomenon***. The *vagueness* is *pervasive*: the *colour* *spectrum*, the *length* *scale*, the *temperature*, the *species* *boundaries*, the *moral* *categories* (the *good*, the *just*, the *brave*).
+**The *phenomenon***. The *vagueness* is *pervasive*: the *color* *spectrum*, the *length* *scale*, the *temperature*, the *species* *boundaries*, the *moral* *categories* (the *good*, the *just*, the *brave*).
 
 **The *argument***. The *vagueness* is *not* a *defect* of *language*; it is a *feature* of the *world* (the *continuum* of *properties*), and the *theories* of *vagueness* *must* *model* the *continuity* (Ch. 43, §7; the *continuum* *in* *mathematics*).
 
@@ -434,7 +434,7 @@ $$
 
 **(ii) The *sorites* *test* (for *vagueness*). If the *expression* *generates* the *sorites* (the *borderline* *cases* *in* a *continuous* *series*), the *expression* is *vague*.
 
-**(iii) The *stabilisation* *test* (for *context*-*sensitivity*). If the *content* *stabilises* when the *context* is *fixed*, the *expression* is *context*-*sensitive*; if the *content* *varies* *even* *when* the *context* is *fixed*, the *expression* is *ambiguous*.
+**(iii) The *stabilization* *test* (for *context*-*sensitivity*). If the *content* *stabilizes* when the *context* is *fixed*, the *expression* is *context*-*sensitive*; if the *content* *varies* *even* *when* the *context* is *fixed*, the *expression* is *ambiguous*.
 
 **(iv) The *kind* *test* (for *generality*). If the *expression* *applies* to a *kind* (the *natural* *kind*, the *functional* *kind*), the *expression* is *general*; if it *applies* to a *particular*, it is *singular*.
 
@@ -491,7 +491,7 @@ $$
 |---|---|---|
 | **Conjunction test** | Simple; for ambiguity | Only for ambiguity |
 | **Sorites test** | For vagueness | Only for the continuous cases |
-| **Stabilisation test** | For context-sensitivity | The context is hard to fix |
+| **Stabilization test** | For context-sensitivity | The context is hard to fix |
 | **Verbal dispute method** | For the classification | The verbality is a matter of degree |
 
 **The *most* *defensible* *position***. The *diagnostic* *method* is a *toolkit* (it *combines* the *tests*), and the *combination* is *heuristic* (it *does* not *guarantee* the *diagnosis*), *qualified* by the *admission* that the *method* is *fallible* and the *classification* is *context*-*dependent*.
@@ -500,7 +500,7 @@ $$
 
 ## 5. Conceptual Engineering
 
-### 5.1 The programme
+### 5.1 The program
 
 **The *thesis*** (Haslanger, *Resisting Reality*, 2012, Chs. 1–2; Cappelen, *Fixing Language*, 2018; Chalmers, “What Is Conceptual Engineering and What Should It Be?”, 2020; the *contemporary* *literature*). The *philosophy* *must* *not* *only* *describe* the *concepts* *we* *have*; it *must* *evaluate* and *improve* them.
 
@@ -519,11 +519,11 @@ $$
 2. & \text{The *purpose* is *not* *given* by the *concept* (it is a *choice*).} \\
 3. & \text{The *choice* *requires* a *normative* *argument* (why *this* purpose rather than *that*?).} \\
 \hline
-4. & \therefore \text{The *ameliorative* *question* is *prior* (the *conceptual* *engineering* *programme*).}
+4. & \therefore \text{The *ameliorative* *question* is *prior* (the *conceptual* *engineering* *program*).}
 \end{array}
 $$
 
-**The *virtue***. The *programme* *connects* the *philosophy* of *language* to the *ethics* and the *politics* (Ch. 45, §4; Ch. 47, §7), and it *fits* the *practice* of the *feminist* and the *critical* *theory* (the *social* *construction* of *gender*, *race*, *disability*; Ch. 15, §5.3).
+**The *virtue***. The *program* *connects* the *philosophy* of *language* to the *ethics* and the *politics* (Ch. 45, §4; Ch. 47, §7), and it *fits* the *practice* of the *feminist* and the *critical* *theory* (the *social* *construction* of *gender*, *race*, *disability*; Ch. 15, §5.3).
 
 ### 5.2 Haslanger's exemplars
 
@@ -541,7 +541,7 @@ $$
 
 **The *significance***. The *exemplars* show that *conceptual* *engineering* is *not* an *abstraction*; it is the *philosophical* *dimension* of *political* *struggle*, and the *engineering* *has* *real* *consequences* (the *legal* *recognition*, the *social* *change*).
 
-### 5.3 Chalmers's defence
+### 5.3 Chalmers's defense
 
 **The *thesis*** (Chalmers, “What Is Conceptual Engineering and What Should It Be?”, 2020). The *conceptual* *engineering* is a *legitimate* *philosophical* *project*, and it *must* be *distinguished* from the *conceptual* *analysis* (the *description* of the *concept*).
 
@@ -744,7 +744,7 @@ $$
 | The *classification* | The *political* *stake* | The *consequence* |
 |---|---|---|
 | **The *census* *race* *categories* | The *recognition* of *groups*, the *distribution* of *resources* | The *political* *representation* |
-| **The *DSM* *categories* | The *medicalization* of *behaviour*, the *insurance* *coverage* | The *diagnosis* and the *treatment* |
+| **The *DSM* *categories* | The *medicalization* of *behavior*, the *insurance* *coverage* | The *diagnosis* and the *treatment* |
 | **The *crime* *categories* | The *definition* of *harm*, the *allocation* of *punishment* | The *criminal* *justice* |
 | **The *species* *categories* | The *conservation* *policy*, the *biodiversity* | The *environmental* *protection* |
 
@@ -790,8 +790,8 @@ $$
 - **The *paradoxes* are *real*.** The *Liar*, *Curry*, *Yablo*, and the *Knower* are *valid* *derivations* of *contradictions* from the *Tarskian* *schema* and the *classical* *logic*.
 - **The *semantic* *solutions* are *all* *costly*.** The *hierarchy*, the *fixed* *point*, the *supervaluationism*, the *revision*, the *contextualism*, and the *dialetheism* *each* *pay* a *price* (the *natural* *language*, the *strengthened* *Liar*, the *classical* *logic*).
 - **The *vagueness* is *pervasive*.** The *sorites* *affects* *every* *continuous* *predicate*, and the *higher*-*order* *vagueness* *threatens* *every* *sharp*-*boundary* *theory*.
-- **The *diagnostic* *method* is *indispensable*.** The *distinctions* (ambiguity, vagueness, context-sensitivity, generality) and the *tests* (conjunction, sorites, stabilisation, kind) are the *toolkit* of the *philosophy* of *language*.
-- **The *conceptual* *engineering* is a *real* *research* *programme*.** The *ameliorative* *turn* (Haslanger) and the *normative* *defence* (Chalmers, Cappelen) are *influential*, and the *programme* is *contested*.
+- **The *diagnostic* *method* is *indispensable*.** The *distinctions* (ambiguity, vagueness, context-sensitivity, generality) and the *tests* (conjunction, sorites, stabilization, kind) are the *toolkit* of the *philosophy* of *language*.
+- **The *conceptual* *engineering* is a *real* *research* *program*.** The *ameliorative* *turn* (Haslanger) and the *normative* *defense* (Chalmers, Cappelen) are *influential*, and the *program* is *contested*.
 - **The *limits* of *thought* are *real*.** The *paradoxes* and the *antinomies* *show* the *limits*, and the *limits* *cannot* be *transgressed* *without* *nonsense* or *contradiction*.
 - **The *ethics* of *concepts* is *urgent*.** The *hermeneutical* *injustice* and the *politics* of *classification* *show* that the *concepts* are *not* *neutral*, and the *engineering* is a *form* of *justice*.
 
@@ -856,7 +856,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 - **The *Liar* and its *family*** (Curry, Yablo, the *Knower*, Fitch, Moore, the *preface*, the *lottery*) are *valid* *derivations* of *contradictions* from the *Tarskian* *schema* and the *classical* *logic*, and they *threaten* the *whole* *semantics*.
 - **The *semantic* *solutions*** — Tarski's *hierarchy*, Kripke's *fixed* *point*, the *supervaluationism*, the *revision* *theory*, the *contextualism*, the *dialetheism* — are *all* *costly*, and *none* is *decisive*.
 - **The *vagueness*** is *pervasive*, and the *higher*-*order* *vagueness* *threatens* every *sharp*-*boundary* *theory*.
-- **The *diagnostic* *toolkit*** (ambiguity, vagueness, context-sensitivity, generality; the *conjunction*, *sorites*, *stabilisation*, *kind* *tests*; the *verbal* *dispute* *method*) is *indispensable* but *fallible*.
+- **The *diagnostic* *toolkit*** (ambiguity, vagueness, context-sensitivity, generality; the *conjunction*, *sorites*, *stabilization*, *kind* *tests*; the *verbal* *dispute* *method*) is *indispensable* but *fallible*.
 - **The *conceptual* *engineering*** (Haslanger, Chalmers, Cappelen) is the *most* *important* *recent* *development*: the *descriptive* *analysis* and the *ameliorative* *engineering* are *distinct* *projects*, and the *engineering* is *normative* and *contestable*.
 - **The *limits* of *thought*** (Kant's *antinomies*, Priest's *dialetheism*, Wittgenstein's *Tractatus*) are *real*, and the *limits* *cannot* be *transgressed* *without* *nonsense* or *contradiction*.
 - **The *ethics* of *concepts*** is *urgent*: the *hermeneutical* *injustice* and the *politics* of *classification* show that the *concepts* are *not* *neutral*, and the *engineering* is a *form* of *justice*.
@@ -881,7 +881,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 13. State the *supervaluationist* and the *degree* *theories* of *vagueness*. Are they *defensible*?
 14. Distinguish *ambiguity*, *vagueness*, *context*-*sensitivity*, and *generality*. What are the *diagnostic* *tests*?
 15. State the *verbal* *dispute* *method*. Is it *defensible*? What are the *limits*?
-16. State the *conceptual* *engineering* *programme*. Is it *defensible*?
+16. State the *conceptual* *engineering* *program*. Is it *defensible*?
 17. Distinguish the *descriptive* and the *ameliorative* *projects*. Which is *prior*?
 18. State the *hermeneutical* *injustice* *argument*. What does it *show* about *concepts*?
 19. Is the *conceptual* *engineering* *paternalistic*? What does the *answer* *imply* for the *ethics* of *concepts*?

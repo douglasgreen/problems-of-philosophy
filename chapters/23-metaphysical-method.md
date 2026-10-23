@@ -15,9 +15,9 @@ Part III has surveyed the terrain: existence (Ch. 14), universals (Ch. 15), moda
 
 This chapter examines the framework. It is the *meta*-chapter of Part III, and it is the *most* reflexive chapter in the book. It asks: what *is* the realist/anti-realist dispute? What are the *standards* by which metaphysical theories are assessed? Is metaphysics a *substantive* inquiry, or a *verbal* dispute? And what *code of practice* should the metaphysician follow?
 
-The chapter has a distinctive shape, because the territory has been *contested twice* — by the logical positivists, who sought to *eliminate* metaphysics, and by the *deflationists*, who seek to *domesticate* it. The chapter’s thesis is that *neither* elimination *nor* domestication is *adequate*: metaphysics is a *substantive* inquiry, but its *standards* are *plural*, *contested*, and *not algorithmic*. The *honest* metaphysician is one who *knows* this, and who *practises* accordingly.
+The chapter has a distinctive shape, because the territory has been *contested twice* — by the logical positivists, who sought to *eliminate* metaphysics, and by the *deflationists*, who seek to *domesticate* it. The chapter’s thesis is that *neither* elimination *nor* domestication is *adequate*: metaphysics is a *substantive* inquiry, but its *standards* are *plural*, *contested*, and *not algorithmic*. The *honest* metaphysician is one who *knows* this, and who *practices* accordingly.
 
-The chapter proceeds in eight movements. §1 disentangles the *three axes* of the realism/anti-realism debate. §2 examines *truthmaker theory*, the most influential *methodological* tool in contemporary metaphysics. §3 examines *ontological deflationism*, the most *serious* challenge to the *substantive* conception. §4 examines *conceptual engineering* and *revisionary metaphysics*, the *constructive* response to the challenge. §5 examines the *problem of disagreement*. §6 examines the *constraints* on metaphysical theorising. §7 offers a *code of practice*. §8 gives an honest verdict and closes Part III.
+The chapter proceeds in eight movements. §1 disentangles the *three axes* of the realism/anti-realism debate. §2 examines *truthmaker theory*, the most influential *methodological* tool in contemporary metaphysics. §3 examines *ontological deflationism*, the most *serious* challenge to the *substantive* conception. §4 examines *conceptual engineering* and *revisionary metaphysics*, the *constructive* response to the challenge. §5 examines the *problem of disagreement*. §6 examines the *constraints* on metaphysical theorizing. §7 offers a *code of practice*. §8 gives an honest verdict and closes Part III.
 
 ---
 
@@ -60,7 +60,7 @@ $$
 
 **(ii) The *conceptual* *scheme* *problem***. The *reality* is *always* *described* *under* a *conceptual* *scheme*, and the *scheme* is *not* *given* by the *world* (Ch. 13, §3). The *objection* *threatens* the *claim* that the *description* is *uniquely* *correct*.
 
-**(iii) The *“just* *more* *theory”* *problem***. Any *defence* of the *view* is *itself* a *theory*, and the *theory* *presupposes* the *view* (the *self-undermining* *worry*; §3.3).
+**(iii) The *“just* *more* *theory”* *problem***. Any *defense* of the *view* is *itself* a *theory*, and the *theory* *presupposes* the *view* (the *self-undermining* *worry*; §3.3).
 
 ### 1.3 Semantic realism and Dummett
 
@@ -100,7 +100,7 @@ $$
 
 **(i) The *falsity* *of* *premise* 1**. The *manifestation* *requirement* is *contested*: a speaker can *understand* a *sentence* *without* being *able* to *manifest* the *conditions* *of* its *truth* (the *“modesty”* *objection*; Dummett himself worried about this).
 
-**(ii) The *mathematical* *objection***. The *intuitionist* *programme* in mathematics *rejects* *bivalence*, and the *results* (the *intuitionist* *logic*, the *Brouwer–Heyting–Kolmogorov* *interpretation*) are *mathematically* *coherent* but *philosophically* *contested* (Ch. 43, §2).
+**(ii) The *mathematical* *objection***. The *intuitionist* *program* in mathematics *rejects* *bivalence*, and the *results* (the *intuitionist* *logic*, the *Brouwer–Heyting–Kolmogorov* *interpretation*) are *mathematically* *coherent* but *philosophically* *contested* (Ch. 43, §2).
 
 **(iii) The *“realism* *is* *irresistible”* *objection***. The *anti-realist* *position* *seems* to *imply* that *the* *past* *is* *not* *real* *until* *someone* *remembers* it, and the *implication* is *absurd* (the *“logical* *argument”* *against* *anti-realism*; the *“no* *past*”* *objection*).
 
@@ -293,7 +293,7 @@ $$
 \end{array}
 $$
 
-**The *consequence*.** The *deflationist* *cannot* *escape* *metaphysics* by *declaring* it *verbal*; the *declaration* is *itself* a *metaphysical* *position*. The *“just* *more* *metaphysics”* *objection* is *the* *strongest* *challenge* to the *deflationist* *programme*, and it is *unresolved*.
+**The *consequence*.** The *deflationist* *cannot* *escape* *metaphysics* by *declaring* it *verbal*; the *declaration* is *itself* a *metaphysical* *position*. The *“just* *more* *metaphysics”* *objection* is *the* *strongest* *challenge* to the *deflationist* *program*, and it is *unresolved*.
 
 **The *reply***. The *deflationist* *accepts* the *charge* and *argues* that the *meta*-*metaphysics* is *a* *different* *kind* of *inquiry* — *conceptual*, *not* *substantive* — and the *kind* *distinction* *is* *defended* by *the* *“conceptual* *analysis”* *tradition* (Ch. 3, §1). The *reply* *is* *contested*, and the *controversy* *is* *the* *debate*.
 
@@ -321,7 +321,7 @@ $$
 
 **(i) The *mystery* of *Ontologese***. How do we *identify* the *privileged* *quantifier*? The *answer* (the *“joint*-*carving”* *criterion*) is *contested*, and the *criterion* *presupposes* the *structure* it is *meant* to *identify*.
 
-**(ii) The *circularity* *objection***. The *defence* of the *structure* *presupposes* the *structure*, and the *circle* *is* *not* *broken*.
+**(ii) The *circularity* *objection***. The *defense* of the *structure* *presupposes* the *structure*, and the *circle* *is* *not* *broken*.
 
 **(iii) The *“no* *fact* *of* *the* *matter”* *objection***. The *question* of *which* *quantifier* is *privileged* is *itself* an *ontological* *question*, and the *answer* is *not* *given* by the *structure* *thesis*. The *debate* *continues*.
 
@@ -339,7 +339,7 @@ $$
 
 **The *state*.** The *meta*-*debate* is *unresolved*, and it is *the* *most* *fundamental* *debate* in *contemporary* *metaphysics*. The *choice* *between* *realism* and *deflationism* is *not* *settled* by the *first*-*order* *theories*, and the *meta*-*theories* are *themselves* *contested*.
 
-**The *position* of this book.** A *qualified* *realism* (§1.5): the *ontological* *questions* are *substantive* (the *deflationist* *dissolves* *too* *much*), but the *substantive* *answers* are *plural* and *not* *uniquely* *determined* by the *evidence* (§6). The *qualified* *realism* *accepts* the *“just* *more* *metaphysics”* *objection* and *practises* *metaphysics* with *awareness* of the *objection*.
+**The *position* of this book.** A *qualified* *realism* (§1.5): the *ontological* *questions* are *substantive* (the *deflationist* *dissolves* *too* *much*), but the *substantive* *answers* are *plural* and *not* *uniquely* *determined* by the *evidence* (§6). The *qualified* *realism* *accepts* the *“just* *more* *metaphysics”* *objection* and *practices* *metaphysics* with *awareness* of the *objection*.
 
 ---
 
@@ -419,7 +419,7 @@ $$
 
 ### 5.1 The data
 
-**The *observation*.** Metaphysics is *characterised* by *pervasive*, *durable* *disagreement*: the *debates* of Chs. 14–21 have *persisted* for *centuries*, and the *parties* are *equally* *intelligent*, *informed*, and *careful*.
+**The *observation*.** Metaphysics is *characterized* by *pervasive*, *durable* *disagreement*: the *debates* of Chs. 14–21 have *persisted* for *centuries*, and the *parties* are *equally* *intelligent*, *informed*, and *careful*.
 
 **The *examples*.** The *platonism/nominalism* *debate* (Ch. 15), the *presentism/eternalism* *debate* (Ch. 17), the *regularity/counterfactual/process* *debate* (Ch. 18), the *realism/idealism* *debate* (Ch. 20), the *reduction/emergence* *debate* (Ch. 21).
 
@@ -560,7 +560,7 @@ $$
 - **Dummett's semantic anti-realism is a systematic position.** The *view* *connects* *truth* to *verification*, and it is *contested* but *coherent*.
 - **Truthmaker theory is the most influential methodological tool in contemporary metaphysics.** The *maximalist* *version* *faces* *five* *problem* *cases*, and the *modest* *version* *restricts* the *principle*.
 - **Ontological deflationism is a serious challenge.** The *Carnapian* *distinction* is *powerful*, and the *“just* *more* *metaphysics”* *objection* is *the* *strongest* *reply*.
-- **Conceptual engineering is a real research programme.** The *ameliorative* *turn* *makes* *metaphysics* *normative* as well as *descriptive*, and the *normative* *dimension* is *inescapable*.
+- **Conceptual engineering is a real research program.** The *ameliorative* *turn* *makes* *metaphysics* *normative* as well as *descriptive*, and the *normative* *dimension* is *inescapable*.
 - **Metaphysical disagreement is pervasive.** The *meta-induction* *supports* *humility*, and the *verbal-dispute* *method* *classifies* the *debates*.
 - **Metaphysics has no algorithm.** The *criteria* *conflict*, and the *resolution* is a *judgment*.
 
@@ -651,7 +651,7 @@ The *chapter* — and *Part* III — *ends* with a *hinge*. The *hinge* is the *
 
 **The *application*.** The *hinge* is the *exemption* of the *metaphysical* *practice* from the *demand* for a *framework*-*neutral* *justification*. The *exemption* is *not* a *refusal* to *justify*; it is a *recognition* that the *justification* is *internal* to the *practice*, and the *practice* is the *condition* of the *justification*.
 
-**The *closing* *thought*.** Metaphysics is *not* a *science*, and it is *not* a *language* *game*. It is the *disciplined* *study* of the *conditions* of *intelligibility* of *existence* — and the *study* is *possible* *because* the *conditions* are *shared*, *criticisable*, and *revisable*. The *next* *part* *begins* from *this* *answer*, and it *asks* *what* *mind* *must* *be* *like* for the *answer* to be *possible*.
+**The *closing* *thought*.** Metaphysics is *not* a *science*, and it is *not* a *language* *game*. It is the *disciplined* *study* of the *conditions* of *intelligibility* of *existence* — and the *study* is *possible* *because* the *conditions* are *shared*, *criticizable*, and *revisable*. The *next* *part* *begins* from *this* *answer*, and it *asks* *what* *mind* *must* *be* *like* for the *answer* to be *possible*.
 
 ---
 

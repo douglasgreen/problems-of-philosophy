@@ -168,7 +168,7 @@ $$
 X \text{ *explains* } Y \quad \text{iff} \quad \text{an *intervention* on } X \text{ *changes* } Y
 $$
 
-**The *virtue***. The *account* *grounds* the *explanation* in the *manipulability* (the *practical* *intuition*), and it *fits* the *experimental* *method* (the *randomised* *controlled* *trial*), and it *avoids* the *mystery* of the *causal* *relation* (the *intervention* is *operational*).
+**The *virtue***. The *account* *grounds* the *explanation* in the *manipulability* (the *practical* *intuition*), and it *fits* the *experimental* *method* (the *randomized* *controlled* *trial*), and it *avoids* the *mystery* of the *causal* *relation* (the *intervention* is *operational*).
 
 **The *objections***.
 
@@ -217,7 +217,7 @@ $$
 
 **The *objections***.
 
-**(i) The *‘*no* *measure*’* *objection* (Kitcher, “Explanatory Unification,” 1981; the *contemporary* *literature*). The *unification* *requires* a *measure* of the *number* of *independent* *phenomena*, and the *measure* is *not* *available* (the *different* *formalisations* *yield* the *different* *counts*), and the *theory* *is* *incomplete*.
+**(i) The *‘*no* *measure*’* *objection* (Kitcher, “Explanatory Unification,” 1981; the *contemporary* *literature*). The *unification* *requires* a *measure* of the *number* of *independent* *phenomena*, and the *measure* is *not* *available* (the *different* *formalizations* *yield* the *different* *counts*), and the *theory* *is* *incomplete*.
 
 **The *reply*** (Kitcher 1981, 1989). The *measure* is the *number* of *argument* *patterns* (the *stringent* *patterns*), and the *patterns* *are* the *unifying* *structures*. The *reply* *grounds* the *measure* in the *argument* *patterns*, and it is *contested*.
 
@@ -291,10 +291,10 @@ $$
 
 | The *element* | The *definition* | The *example* |
 |---|---|---|
-| **Phenomenon** | The *behaviour* to be *explained* | The *memory* *consolidation* |
+| **Phenomenon** | The *behavior* to be *explained* | The *memory* *consolidation* |
 | **Entities** | The *components* | The *neurons*, the *synapses*, the *molecules* |
 | **Activities** | What the *entities* *do* | The *firing*, the *binding*, the *phosphorylation* |
-| **Organisation** | How the *components* are *arranged* | The *circuit* *structure* |
+| **Organization** | How the *components* are *arranged* | The *circuit* *structure* |
 
 **The *argument*.
 
@@ -318,7 +318,7 @@ $$
 $$
 \begin{array}{ll}
 1. & \text{The *phenomenon* *can* be *explained* at the *different* *levels* (the *molecular*, the *cellular*, the *circuit*).} \\
-2. & \text{The *levels* *are* *all* *causally* *relevant* (the *organisation* *determines* the *activities*).} \\
+2. & \text{The *levels* *are* *all* *causally* *relevant* (the *organization* *determines* the *activities*).} \\
 \hline
 3. & \therefore \text{The *explanation* *requires* a *principled* *choice* of the *level* (the *levels* *problem*).}
 \end{array}
@@ -355,7 +355,7 @@ $$
 
 **The *responses***.
 
-**(i) The *‘*etiological*’* *response*** (Millikan 1984; Ch. 42, §2). The *norm* is *grounded* in the *selection* *history* (the *function* is the *effect* for which the *trait* was *selected*), and the *reply* *naturalises* the *norm*.
+**(i) The *‘*etiological*’* *response*** (Millikan 1984; Ch. 42, §2). The *norm* is *grounded* in the *selection* *history* (the *function* is the *effect* for which the *trait* was *selected*), and the *reply* *naturalizes* the *norm*.
 
 **The *objection***. The *selection* *history* is *not* *sufficient* (the *function* can *be* a *by*-*product*), and the *reply* is *contested*.
 
@@ -427,7 +427,7 @@ $$
 
 **The *objections***.
 
-**(i) The *‘*no* *contrast*’* *objection*. The *contrast* is *not* *always* *explicit* (the *explanation* *can* be *given* *without* the *contrast*), and the *theory* *over*-*intellectualises* the *explanation*.
+**(i) The *‘*no* *contrast*’* *objection*. The *contrast* is *not* *always* *explicit* (the *explanation* *can* be *given* *without* the *contrast*), and the *theory* *over*-*intellectualizes* the *explanation*.
 
 **The *reply***. The *contrast* is *implicit* (the *question* *presupposes* a *contrast* *class*), and the *reply* *grounds* the *contrast* in the *pragmatics*. The *reply* is *contested*.
 
@@ -556,7 +556,7 @@ $$
 2. & \text{The *functional* *notions* are *teleological* (they *refer* to the *function*, the *goal*).} \\
 3. & \text{The *teleological* *notions* *require* the *selection* *history* (the *etiological* *account*; Ch. 42, §2).} \\
 \hline
-4. & \therefore \text{The *biological* *explanation* is *teleological* (the *teleological* *insight*), and the *teleology* is *naturalised* by the *selection* (the *naturalistic* *insight*).}
+4. & \therefore \text{The *biological* *explanation* is *teleological* (the *teleological* *insight*), and the *teleology* is *naturalized* by the *selection* (the *naturalistic* *insight*).}
 \end{array}
 $$
 
@@ -580,14 +580,14 @@ $$
 $$
 \begin{array}{ll}
 1. & \text{The *psychological* *explanation* *cites* the *reasons* (she *left* *because* she *believed* the *train* *was* *leaving*).} \\
-2. & \text{The *reasons* *rationalise* the *action* (they *make* it *intelligible*, not merely *caused*).} \\
-3. & \text{The *rationalisation* *requires* the *normative* *structure* (the *logic* of the *reasons*; Ch. 28, §2).} \\
+2. & \text{The *reasons* *rationalize* the *action* (they *make* it *intelligible*, not merely *caused*).} \\
+3. & \text{The *rationalization* *requires* the *normative* *structure* (the *logic* of the *reasons*; Ch. 28, §2).} \\
 \hline
 4. & \therefore \text{The *psychological* *explanation* is *reason*-*giving* (the *reasons* *insight*), and the *reasons* *are* *causes* (the *causal* *insight*).}
 \end{array}
 $$
 
-**The *significance***. The *psychology* *tests* the *general* *account*: the *reasons* *explain* *without* being *merely* *causal* (the *rationalisation*), and the *causal* *account* *must* *accommodate* the *reasons* (the *Davidsonian* *synthesis*, Ch. 28, §1.4).
+**The *significance***. The *psychology* *tests* the *general* *account*: the *reasons* *explain* *without* being *merely* *causal* (the *rationalization*), and the *causal* *account* *must* *accommodate* the *reasons* (the *Davidsonian* *synthesis*, Ch. 28, §1.4).
 
 ### 7.3 History
 
@@ -910,11 +910,11 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 ## Summary
 
-- **The *D-N* *model*** (Hempel, Oppenheim) *analyses* the *explanation* as the *deduction* from the *laws* and the *initial* *conditions*, and it *fails* on the *asymmetry*, the *irrelevance*, and the *no*-*laws* *objections*.
+- **The *D-N* *model*** (Hempel, Oppenheim) *analyzes* the *explanation* as the *deduction* from the *laws* and the *initial* *conditions*, and it *fails* on the *asymmetry*, the *irrelevance*, and the *no*-*laws* *objections*.
 - **The *I-S* *model*** *extends* the *D-N* *framework* to the *statistical* *explanations*, and it *faces* the *ambiguity* (the *reference*-*class* *problem*) and the *irrelevance* (the *paresis* *case*).
 - **The *causal* *theory*** (Salmon, Lewis, Woodward) *grounds* the *explanation* in the *causation* (the *asymmetry*, the *relevance*), and it *fits* the *experimental* *method*.
 - **The *unificationist* *theory*** (Friedman, Kitcher, Strevens) *grounds* the *explanation* in the *unification* (the *theoretical* *virtue*), and it *faces* the *no*-*measure* and the *spurious*-*unification* *objections*.
-- **The *mechanistic* *theory*** (MDC, Craver) *grounds* the *explanation* in the *mechanism* *description* (the *entities*, the *activities*, the *organisation*), and it *fits* the *special* *sciences*, and it *faces* the *levels* and the *normativity* *problems*.
+- **The *mechanistic* *theory*** (MDC, Craver) *grounds* the *explanation* in the *mechanism* *description* (the *entities*, the *activities*, the *organization*), and it *fits* the *special* *sciences*, and it *faces* the *levels* and the *normativity* *problems*.
 - **The *pragmatic* and *contrastive* *theories*** (van Fraassen, Hitchcock, Lipton) *ground* the *explanation* in the *why*-*questions* (the *topic*, the *contrast*, the *relevance*), and they *capture* the *context*-*sensitivity*.
 - **The *understanding*** is *not* *reducible* to the *knowledge* (the *grasp* of the *relations*), and the *factivity* is *contested*; the *understanding* is the *goal* of the *explanation*.
 - **The *explanation* is *plural* across the *disciplines** (the *causal*, the *teleological*, the *narrative*, the *mathematical*), and the *pluralism* is *constrained* by the *explanatory* *virtues*.

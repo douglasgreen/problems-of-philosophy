@@ -40,7 +40,7 @@ Berkeley’s *immaterialism* is the *most* *radical* and *most* *systematic* *fo
 
 **The *positive* *alternative*.** The *continuity* of *unperceived* *objects* is *grounded* in the *perception* of *God*. When I *leave* the *room* and the *table* is *unperceived* by *me*, it is *still* *perceived* by *God* — and *therefore* it *continues* to *exist*. The *view* *preserves* the *common-sense* *belief* in the *continuity* of *objects*, and it *explains* the *regularity* of *experience* without *positing* *matter*.
 
-**The *motive*.** Berkeley’s *target* is *not* *only* the *materialist*; it is also the *sceptic*. If we *perceive* only *ideas*, then (i) the *materialist* *cannot* *explain* how we *know* the *external* *world*, and (ii) the *sceptic* *wins*. Berkeley’s *idealism* *dissolves* the *problem* by *denying* that there is an *external* *world* *beyond* the *ideas*.
+**The *motive*.** Berkeley’s *target* is *not* *only* the *materialist*; it is also the *skeptic*. If we *perceive* only *ideas*, then (i) the *materialist* *cannot* *explain* how we *know* the *external* *world*, and (ii) the *skeptic* *wins*. Berkeley’s *idealism* *dissolves* the *problem* by *denying* that there is an *external* *world* *beyond* the *ideas*.
 
 ### 1.2 The master argument
 
@@ -135,7 +135,7 @@ $$
 **The *strengths*.**
 
 1. **The *argument* *against* *material* *substance* is *powerful*.** The *notion* of a *substratum* *supporting* *ideas* is *unintelligible* (Ch. 19, §2.2), and Berkeley’s *critique* *anticipates* the *contemporary* *critique* of the *bare* *particular*.
-2. **The *dissolution* of the *veil* is *elegant*.** The *idealist* *avoids* the *sceptical* *consequence* of *representationalism* by *denying* the *representationalist* *picture*.
+2. **The *dissolution* of the *veil* is *elegant*.** The *idealist* *avoids* the *skeptical* *consequence* of *representationalism* by *denying* the *representationalist* *picture*.
 3. **The *argument* is *phenomenologically* *grounded*.** The *starting* *point* is the *direct* *experience* of *ideas*, and the *experience* is *indubitable*.
 
 **The *weaknesses*.**
@@ -212,7 +212,7 @@ $$
 \end{array}
 $$
 
-**The *virtue*.** The *view* *explains* the *possibility* of *a* *priori* *knowledge* (Ch. 9, §3), and it *avoids* the *sceptical* *consequence* of the *veil* (empirical *realism* is *robust*).
+**The *virtue*.** The *view* *explains* the *possibility* of *a* *priori* *knowledge* (Ch. 9, §3), and it *avoids* the *skeptical* *consequence* of the *veil* (empirical *realism* is *robust*).
 
 ### 2.3 The two worlds and the two aspects
 
@@ -254,7 +254,7 @@ $$
 **The *strengths*.**
 
 1. **The *view* *explains* the *possibility* of *a* *priori* *knowledge*, and it *fits* the *scientific* *worldview*.
-2. **The *empirical* *realism* is *robust***: the *view* *avoids* the *sceptical* *consequences* of the *veil*.
+2. **The *empirical* *realism* is *robust***: the *view* *avoids* the *skeptical* *consequences* of the *veil*.
 3. **The *view* is *compatible* with *physicalism*** (the *phenomenal* *world* is the *physical* *world* *as* *it* *appears*, and the *thing* *in* *itself* is *not* *a* *further* *substance*).
 
 **The *weaknesses*.**
@@ -659,8 +659,8 @@ $$
 - **Berkeley's master argument is invalid.** The *conception*/*perception* *confusion* is *decisive*, and the *argument* does *not* *establish* *immaterialism*.
 - **The likeness principle is serious.** The *argument* *anticipates* the *contemporary* *critique* of *representationalism*, and it is *not* *refuted*.
 - **Kant's transcendental idealism is the most sophisticated form of idealism.** The *two-aspects* *reading* is the *most* *defensible*, and the *neglected* *alternative* is a *standing* *problem*.
-- **Absolute idealism is dead as a research programme.** The *revolt* of *Moore* and *Russell* was *decisive*, and the *view* is *not* *widely* *defended*.
-- **The contemporary revival is real.** Analytic idealism (Foster, Kastrup), cosmopsychism (Goff, Shani), and the *comparative* *studies* (Albahari, Thompson) are *active* *research* *programmes*.
+- **Absolute idealism is dead as a research program.** The *revolt* of *Moore* and *Russell* was *decisive*, and the *view* is *not* *widely* *defended*.
+- **The contemporary revival is real.** Analytic idealism (Foster, Kastrup), cosmopsychism (Goff, Shani), and the *comparative* *studies* (Albahari, Thompson) are *active* *research* *programs*.
 - **Neutral monism and dual-aspect monism are live alternatives.** The *views* *avoid* the *dualism* of *mind* and *matter*, but they *face* the *mystery* of the *neutral* *stuff* and the *aspects*.
 - **The debate is empirically equivalent.** The *choice* between *idealism* and *realism* is *not* *settled* by *experiment*, and the *theoretical* *virtues* *conflict*.
 
@@ -708,7 +708,7 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 Cross-cutting material, for the reader who wants to go deeper.
 
-**1. The *quantum* *measurement* *problem* and *consciousness*.** The *consciousness-causes-collapse* *view* (Wigner 1961; Stapp 2007) *makes* *consciousness* *causally* *efficacious* in the *measurement* *process*. The *view* is *one* of the *strongest* *empirical* *arguments* for *idealism*, and it is *contested* (the *decoherence* *programme* *explains* the *appearance* of *collapse* without *consciousness*; Ch. 19, §5).
+**1. The *quantum* *measurement* *problem* and *consciousness*.** The *consciousness-causes-collapse* *view* (Wigner 1961; Stapp 2007) *makes* *consciousness* *causally* *efficacious* in the *measurement* *process*. The *view* is *one* of the *strongest* *empirical* *arguments* for *idealism*, and it is *contested* (the *decoherence* *program* *explains* the *appearance* of *collapse* without *consciousness*; Ch. 19, §5).
 
 **2. The *hard* *problem* and *panprotopsychism*.** The *panprotopsychist* *view* (Chalmers 2015) *holds* that the *fundamental* *entities* have *proto-experiential* *properties*, and the *view* is *one* of the *most* *promising* *alternatives* to *idealism* and *physicalism*. The *debate* is *connected* to the *combination* *problem* (Ch. 19, §7.2) and to the *theory* of *mind* (Ch. 24).
 
@@ -724,7 +724,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 - **Berkeley's idealism** is the *most* *radical* *form* of the *view*. The *master* *argument* is *invalid* (the *conception*/*perception* *confusion*), but the *likeness* *principle* and the *critique* of *material* *substance* are *serious*. The *view* *dissolves* the *veil* *of* *perception* by *denying* the *world* *behind* it.
 - **Kant's transcendental idealism** is the *most* *sophisticated* *form*. The *view* *combines* *transcendental* *idealism* with *empirical* *realism*, and the *two-aspects* *reading* is the *most* *defensible*. The *neglected* *alternative* is a *standing* *problem*.
-- **Absolute idealism** (Bradley, McTaggart) *dissolves* *relations* and *posits* the *Absolute*. The *Bradley* *regress* is *contestable*, and the *view* is *dead* as a *research* *programme*.
+- **Absolute idealism** (Bradley, McTaggart) *dissolves* *relations* and *posits* the *Absolute*. The *Bradley* *regress* is *contestable*, and the *view* is *dead* as a *research* *program*.
 - **The contemporary revival** — objective idealism, cosmopsychism, analytic idealism — is *driven* by the *hard* *problem*, the *structural* *realist* *conclusion*, and the *combination* *problem*. The *views* are *promising* and *contested*.
 - **Neutral monism** (Mach, James, Russell) and **dual-aspect monism** (Spinoza, Nagel) *avoid* the *dualism* of *mind* and *matter*. The *views* *face* the *mystery* of the *neutral* *stuff* and the *aspects*.
 - **The coherence of mind-independent reality** is the *central* *issue*. The *idealist* *argument* from the *conditions* of *representation* is *powerful*, and the *realist* *reply* (the *act*/*content* *distinction*) is *contested*.

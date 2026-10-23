@@ -19,7 +19,7 @@
 
 Chapter 52 *measured* the discipline by its *record* — the *settled*, the *dissolved*, the *open*, the *mis*-*posed*. This chapter asks the *prior* question that the *record* *presupposes*: *is* the *philosophy* *one* *inquiry* or *many*, and *what* — *if* *anything* — *holds* the *parts* *together*?
 
-The *transition* is the *inversion* of the *ledger*. The *ledger* *assumes* that the *entries* *belong* to the *single* *book* (the *no* *mere* *anthology*). The *unity* *question* *tests* the *assumption*: if the *philosophy* is the *mere* *federation* of the *neighbouring* *projects* (the *no* *single* *subject*), then the *ledger* is the *statistics* of the *unrelated* (the *no* *single* *record*), and the *verdict* of Chapter 52 *must* be *stated* *per* *domain* (the *no* *single* *discipline*). The *chapter* is the *test* of the *book's* *thesis* (the *systematic* *analysis*; Ch. 1, §2) — and the *answer* *determines* whether the *book* is a *book* or the *collection* of the *chapters*.
+The *transition* is the *inversion* of the *ledger*. The *ledger* *assumes* that the *entries* *belong* to the *single* *book* (the *no* *mere* *anthology*). The *unity* *question* *tests* the *assumption*: if the *philosophy* is the *mere* *federation* of the *neighboring* *projects* (the *no* *single* *subject*), then the *ledger* is the *statistics* of the *unrelated* (the *no* *single* *record*), and the *verdict* of Chapter 52 *must* be *stated* *per* *domain* (the *no* *single* *discipline*). The *chapter* is the *test* of the *book's* *thesis* (the *systematic* *analysis*; Ch. 1, §2) — and the *answer* *determines* whether the *book* is a *book* or the *collection* of the *chapters*.
 
 The *chapter* proceeds in *eight* *movements*. §1 states the *question* and the *two* *theses* (the *unity*, the *disunity*). §2 examines the *interdependence* of the *domains*. §3 examines the *specialist's* *dilemma*. §4 examines the *relation* to the *sciences*. §5 examines the *relation* to the *humanities*. §6 examines the *philosophy* *of* *X* and the *X*-*ification*. §7 draws the *final* *map* and the *synthesis* *exercise*. §8 gives the *verdict*.
 
@@ -52,7 +52,7 @@ The *chapter* proceeds in *eight* *movements*. §1 states the *question* and the
 | **The *shared* *training*** | The *curriculum*, the *canon*, the *skills* | The *no* *mere* *apprenticeship* |
 | **The *shared* *stakes*** | The *world* *hangs* on the *answers* (the *no* *mere* *game*) | The *no* *mere* *convention* |
 
-**The *problem***. The *markers* *pull* *apart*: the *cross*-*citation* *favours* the *unity* (the *philosophy* *of* *mind* *cites* the *epistemology*), the *transfer* *favours* the *method* (the *logic* *transfers*; the *aesthetics* *does* not), the *shared* *problems* *favour* the *object* (the *cause* *recurs*; the *Gettier* *case* does *not*), and the *shared* *stakes* *favour* the *practice* (the *no* *mere* *antiquarianism*).
+**The *problem***. The *markers* *pull* *apart*: the *cross*-*citation* *favors* the *unity* (the *philosophy* *of* *mind* *cites* the *epistemology*), the *transfer* *favors* the *method* (the *logic* *transfers*; the *aesthetics* *does* not), the *shared* *problems* *favor* the *object* (the *cause* *recurs*; the *Gettier* *case* does *not*), and the *shared* *stakes* *favor* the *practice* (the *no* *mere* *antiquarianism*).
 
 ### 1.2 The unity thesis
 
@@ -148,7 +148,7 @@ $$
 
 ### 2.1 The epistemic dependence
 
-**The *thesis***. The *domains* *depend* on the *each* *other* (the *no* *mere* *neighbours*), and the *dependence* *is* the *evidence* of the *unity* (the *no* *mere* *convention*), and the *dependence* *runs* in the *four* *directions* (the *no* *mere* *one*-*way*).
+**The *thesis***. The *domains* *depend* on the *each* *other* (the *no* *mere* *neighbors*), and the *dependence* *is* the *evidence* of the *unity* (the *no* *mere* *convention*), and the *dependence* *runs* in the *four* *directions* (the *no* *mere* *one*-*way*).
 
 **The *examples***.
 
@@ -167,7 +167,7 @@ $$
 2. & \text{The *mind* *requires* the *epistemic* *question*} \ (\text{the *no* *mere* *isolation*}). \\
 3. & \text{The *language* and the *value* *require* the *metaphysical*} \ (\text{the *no* *mere* *autonomy*}). \\
 \hline
-4. & \therefore \text{The *domains* *interdepend*} \ (\text{the *no* *mere} \ \text{neighbours*}), \ \text{and the *interdependence* *grounds* the *unity*} \ (\text{the *no* *mere} \ \text{convention*}), \ \text{and the *no* *autonomy* *is* the *result*} \ (\text{the *no* *mere} \ \text{island*}).}
+4. & \therefore \text{The *domains* *interdepend*} \ (\text{the *no* *mere} \ \text{neighbors*}), \ \text{and the *interdependence* *grounds* the *unity*} \ (\text{the *no* *mere} \ \text{convention*}), \ \text{and the *no* *autonomy* *is* the *result*} \ (\text{the *no* *mere} \ \text{island*}).}
 \end{array}
 $$
 
@@ -219,7 +219,7 @@ $$
 
 ### 2.3 The normative dependence
 
-**The *thesis***. The *epistemology* *depends* on the *value* (the *norms* of the *inquiry*, the *ethics* of the *belief*; Ch. 4, §4), and the *value* *depends* on the *epistemology* (the *knowledge* of the *value*, the *moral* *testimony*; Ch. 44, §6), and the *dependence* *is* the *deepest* (the *no* *mere* *neighbourhood*).
+**The *thesis***. The *epistemology* *depends* on the *value* (the *norms* of the *inquiry*, the *ethics* of the *belief*; Ch. 4, §4), and the *value* *depends* on the *epistemology* (the *knowledge* of the *value*, the *moral* *testimony*; Ch. 44, §6), and the *dependence* *is* the *deepest* (the *no* *mere* *neighborhood*).
 
 **The *argument***.
 
@@ -229,7 +229,7 @@ $$
 2. & \text{The *value* *requires* the *epistemic* *access*} \ (\text{the *no* *mere* *intuition*}). \\
 3. & \text{The *two* *require* the *whole* of the *inquiry*} \ (\text{the *no* *mere* *specialism*}). \\
 \hline
-4. & \therefore \text{The *dependence* is the *deepest*} \ (\text{the *no* *mere} \ \text{neighbourhood*}), \ \text{and the *normative* is the *common*} \ (\text{the *no* *mere} \ \text{fact*}), \ \text{and the *unity* is the *normative*} \ (\text{the *no* *mere} \ \text{description*}).}
+4. & \therefore \text{The *dependence* is the *deepest*} \ (\text{the *no* *mere} \ \text{neighborhood*}), \ \text{and the *normative* is the *common*} \ (\text{the *no* *mere} \ \text{fact*}), \ \text{and the *unity* is the *normative*} \ (\text{the *no* *mere} \ \text{description*}).}
 \end{array}
 $$
 
@@ -247,7 +247,7 @@ $$
 
 ### 2.4 The state of the interdependence
 
-**The *assessment***. The *epistemic* *captures* the *ethics* (the *no* *mere* *isolation*), the *metaphysical* *captures* the *reciprocal* (the *no* *mere* *foundation*), and the *normative* *captures* the *deepest* (the *no* *mere* *neighbourhood*).
+**The *assessment***. The *epistemic* *captures* the *ethics* (the *no* *mere* *isolation*), the *metaphysical* *captures* the *reciprocal* (the *no* *mere* *foundation*), and the *normative* *captures* the *deepest* (the *no* *mere* *neighborhood*).
 
 | The *dependence* | The *strength* | The *weakness* |
 |---|---|---|
@@ -527,9 +527,9 @@ $$
 
 **The *objections***.
 
-**(i) The *no* *rigour* *objection***. The *humanities* *lack* the *rigour* (the *no* *mere* *evidence*), and the *data* is the *anecdote* (the *no* *mere* *science*), and the *reply* *fails*.
+**(i) The *no* *rigor* *objection***. The *humanities* *lack* the *rigor* (the *no* *mere* *evidence*), and the *data* is the *anecdote* (the *no* *mere* *science*), and the *reply* *fails*.
 
-**The *reply*** (the *contemporary* *literature*). The *humanities* *have* the *distinct* *rigour* (the *philology*, the *history*, the *interpretation*; the *no* *mere* *anecdote*), and the *reply* *grounds* the *data* in the *method*. The *reply* is *defensible* (the *humanistic* *insight*), and *contested* (the *no* *rigour*).
+**The *reply*** (the *contemporary* *literature*). The *humanities* *have* the *distinct* *rigor* (the *philology*, the *history*, the *interpretation*; the *no* *mere* *anecdote*), and the *reply* *grounds* the *data* in the *method*. The *reply* is *defensible* (the *humanistic* *insight*), and *contested* (the *no* *rigor*).
 
 **(ii) The *no* *generalization* *objection***. The *literature* *yields* the *particular* (the *no* *mere* *general*), and the *philosophy* *requires* the *general* (the *no* *mere* *narrative*), and the *reply* *fails*.
 
@@ -537,7 +537,7 @@ $$
 
 ### 5.2 The philosophy as a humanistic discipline
 
-**The *thesis*** (Bernard Williams, “Philosophy as a Humanistic Discipline,” 2000; the *contemporary* *literature*; the *no* *mere* *science*). The *philosophy* *is* the *humanistic* *discipline* (the *no* *mere* *science*), and it *aims* at the *understanding* (the *no* *mere* *prediction*), and it *draws* on the *history* and the *literature* (the *no* *mere* *abstraction*), and the *humanistic* *is* *not* the *soft* (the *no* *mere* *rigour*).
+**The *thesis*** (Bernard Williams, “Philosophy as a Humanistic Discipline,” 2000; the *contemporary* *literature*; the *no* *mere* *science*). The *philosophy* *is* the *humanistic* *discipline* (the *no* *mere* *science*), and it *aims* at the *understanding* (the *no* *mere* *prediction*), and it *draws* on the *history* and the *literature* (the *no* *mere* *abstraction*), and the *humanistic* *is* *not* the *soft* (the *no* *mere* *rigor*).
 
 **The *structure***.
 
@@ -561,9 +561,9 @@ $$
 
 **The *objections***.
 
-**(i) The *no* *rigour* *objection***. The *humanistic* is the *soft* (the *no* *mere* *rigour*), and the *understanding* is the *vague* (the *no* *mere* *knowledge*), and the *reply* *fails*.
+**(i) The *no* *rigor* *objection***. The *humanistic* is the *soft* (the *no* *mere* *rigor*), and the *understanding* is the *vague* (the *no* *mere* *knowledge*), and the *reply* *fails*.
 
-**The *reply*.** The *humanistic* *has* the *rigour* (the *argument*, the *philology*, the *evidence*; the *no* *mere* *vague*), and the *reply* *grounds* the *humanistic* in the *method*. The *reply* is *defensible* (the *no* *mere* *soft*), and *contested* (the *no* *rigour*).
+**The *reply*.** The *humanistic* *has* the *rigor* (the *argument*, the *philology*, the *evidence*; the *no* *mere* *vague*), and the *reply* *grounds* the *humanistic* in the *method*. The *reply* is *defensible* (the *no* *mere* *soft*), and *contested* (the *no* *rigor*).
 
 **(ii) The *no* *progress* *objection***. The *humanistic* *lacks* the *progress* (the *no* *mere* *cumulation*), and the *science* *is* the *model* (the *no* *mere* *understanding*), and the *reply* *fails*.
 
@@ -575,11 +575,11 @@ $$
 
 | The *position* | The *strength* | The *weakness* |
 |---|---|---|
-| **The data** | The *thick* | The *no* *rigour* |
+| **The data** | The *thick* | The *no* *rigor* |
 | **The humanistic** | The *understanding* | The *no* *progress* |
-| **The no soft** | The *method* | The *no* *rigour* |
+| **The no soft** | The *method* | The *no* *rigor* |
 
-**The *most* *defensible* *position***. A *qualified* *humanistic* *continuity*: the *philosophy* *draws* on the *humanities* (the *no* *mere* *ornament*), and the *understanding* is the *goal* (the *no* *mere* *prediction*), and the *humanistic* *has* the *rigour* (the *no* *mere* *soft*), and the *particular* *yields* the *general* (the *no* *mere* *anecdote*), *qualified* by the *admission* that the *rigour* and the *progress* *remain* *contested*.
+**The *most* *defensible* *position***. A *qualified* *humanistic* *continuity*: the *philosophy* *draws* on the *humanities* (the *no* *mere* *ornament*), and the *understanding* is the *goal* (the *no* *mere* *prediction*), and the *humanistic* *has* the *rigor* (the *no* *mere* *soft*), and the *particular* *yields* the *general* (the *no* *mere* *anecdote*), *qualified* by the *admission* that the *rigor* and the *progress* *remain* *contested*.
 
 ---
 
@@ -879,7 +879,7 @@ $$
 - **The *interdependence*** *is* the *substantial* (the *no* *mere* *courtesy*), and the *dependence* *is* the *reciprocal* (the *no* *mere* *foundation*), and the *holism* is the *equilibrium* (the *no* *mere* *circle*).
 - **The *specialist's* *dilemma*** *admits* of the *complementarity* (the *no* *mere* *trade*-*off*), and the *serial* *specialism* and the *periodic* *synthesis* *are* *complementary* (the *no* *mere* *compromise*).
 - **The *philosophy* and the *sciences*** *stand* in the *second*-*order* (the *no* *mere* *first*-*order*), and the *gradient* *is* the *demarcation* (the *no* *mere* *criterion*), and the *normative* is the *distinct* (the *no* *mere* *description*).
-- **The *philosophy* and the *humanities*** *stand* in the *thick* *description* (the *no* *mere* *ornament*), and the *humanistic* *has* the *rigour* (the *no* *mere* *soft*), and the *particular* *yields* the *general* (the *no* *mere* *anecdote*).
+- **The *philosophy* and the *humanities*** *stand* in the *thick* *description* (the *no* *mere* *ornament*), and the *humanistic* *has* the *rigor* (the *no* *mere* *soft*), and the *particular* *yields* the *general* (the *no* *mere* *anecdote*).
 - **The *philosophy* of *X*** *is* the *reciprocal* (the *no* *mere* *inventory*), and the *X*-*ification* is the *danger* (the *no* *mere* *handmaiden*), and the *test* is the *value* (the *no* *mere* *ornament*).
 - **The *permanent* *problems*** *recur* (the *no* *mere* *fashion*), and the *local* *problems* *progress* (the *no* *mere* *fashion*), and the *method* *transfers* (the *no* *mere* *insulation*), and the *tracing* *reveals* the *dependence* (the *no* *mere* *isolation*).
 
@@ -889,7 +889,7 @@ $$
 - **The *degree* *of* the *interdependence*** (the *substantial*, the *courtesy*).
 - **The *balance* *of* the *specialism* and the *survey*** (the *serial*, the *periodic*).
 - **The *relation* to the *sciences*** (the *continuity*, the *autonomy*, the *gradient*).
-- **The *relation* to the *humanities*** (the *rigour*, the *progress*).
+- **The *relation* to the *humanities*** (the *rigor*, the *progress*).
 - **The *X*-*ification*** (the *danger*, the *value*).
 - **The *identity* *of* the *permanent*** (the *form*, the *projection*).
 - **The *demonstration* *of* the *unity*** (the *tracing*, the *proof*).
@@ -976,7 +976,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 - **The *interdependence*** *is* the *substantial* (the *no* *mere* *courtesy*), and the *dependence* *is* the *reciprocal* (the *no* *mere* *foundation*), and the *holism* is the *equilibrium* (the *no* *mere* *circle*).
 - **The *specialist's* *dilemma*** *admits* of the *complementarity* (the *no* *mere* *trade*-*off*), and the *serial* *specialism* and the *periodic* *synthesis* *are* *complementary* (the *no* *mere* *compromise*).
 - **The *philosophy* and the *sciences*** *stand* in the *second*-*order* (the *no* *mere* *first*-*order*), and the *gradient* *is* the *demarcation* (the *no* *mere* *criterion*), and the *normative* is the *distinct* (the *no* *mere* *description*).
-- **The *philosophy* and the *humanities*** *stand* in the *thick* *description* (the *no* *mere* *ornament*), and the *humanistic* *has* the *rigour* (the *no* *mere* *soft*), and the *particular* *yields* the *general* (the *no* *mere* *anecdote*).
+- **The *philosophy* and the *humanities*** *stand* in the *thick* *description* (the *no* *mere* *ornament*), and the *humanistic* *has* the *rigor* (the *no* *mere* *soft*), and the *particular* *yields* the *general* (the *no* *mere* *anecdote*).
 - **The *philosophy* of *X*** *is* the *reciprocal* (the *no* *mere* *inventory*), and the *X*-*ification* is the *danger* (the *no* *mere* *handmaiden*), and the *test* is the *value* (the *no* *mere* *ornament*).
 - **The *permanent* *problems*** *recur* (the *no* *mere* *fashion*), and the *local* *problems* *progress* (the *no* *mere* *fashion*), and the *method* *transfers* (the *no* *mere* *insulation*), and the *tracing* *reveals* the *dependence* (the *no* *mere* *isolation*).
 - **The *most* *defensible* *position*** is the *qualified* *formal* *unity*: the *one* in the *form* (the *conditions* of *intelligibility*), the *many* in the *matter* (the *domains*, the *methods*), the *substantial* *interdependence*, the *transferable* *method*, the *complementary* *specialism* and *survey*, the *second*-*order* *relation* to the *sciences* and *humanities*, the *X*-*ification* *as* the *danger*, and the *whole* *held* by the *reflective* *equilibrium* and the *survey*, *qualified* by the *admission* that the *object*, the *method*, the *interdependence*, the *complementarity*, the *relations*, and the *permanent* *remain* *contested*.
@@ -999,7 +999,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 12. State the *continuity* *thesis* (the *Quine*). Is the *no* *normativity* *objection* *decisive*?
 13. State the *autonomy* *thesis* (the *second*-*order*). Is the *no* *object* *objection* *decisive*?
 14. State the *demarcation* *question* (the *gradient*). Is the *no* *line* the *result*?
-15. State the *data* of the *humanities* (the *thick* *description*). Is the *no* *rigour* *objection* *decisive*?
+15. State the *data* of the *humanities* (the *thick* *description*). Is the *no* *rigor* *objection* *decisive*?
 16. State the *humanistic* *discipline* (the *Williams*). Is the *no* *progress* *objection* *decisive*?
 17. State the *reciprocal* *philosophy* of *X*. Is the *no* *reciprocity* *objection* *decisive*?
 18. State the *X*-*ification* *danger*. Is the *no* *danger* *objection* *decisive*?

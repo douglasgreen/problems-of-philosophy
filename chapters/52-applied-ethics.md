@@ -17,7 +17,7 @@
 
 ---
 
-Chapter 45 examined the *content* of the moral judgement; Chapter 46 its *efficacy*; Chapter 47 its *architecture*; Chapter 48 its *point*; Chapter 49 its *splendour*; Chapter 50 its *horizon*. This chapter examines its *application* — the *case*, the *decision*, the *stakes*.
+Chapter 45 examined the *content* of the moral judgment; Chapter 46 its *efficacy*; Chapter 47 its *architecture*; Chapter 48 its *point*; Chapter 49 its *splendour*; Chapter 50 its *horizon*. This chapter examines its *application* — the *case*, the *decision*, the *stakes*.
 
 The *transition* is the *inversion* of the *whole* of Part VII. The *metaethics* (§44) asks *whether* the *normative* *facts* *exist*; the *normative* *ethics* (§45) asks *which* *theory* *captures* them; the *political* *theory* (§47) asks *how* the *order* *institutionalizes* them. The *applied* *ethics* asks the *question* that *tests* the *whole* *apparatus*: *given* the *theory* — *and* the *facts* *and* the *uncertainty* *and* the *time*-*pressure* — *what* *do* we *do* *now*, *here*, *for* *this* *patient*, *this* *model*, *this* *farm*, *this* *atmosphere*?
 
@@ -38,7 +38,7 @@ The *chapter* proceeds in *eight* *movements*. §1 examines the *method* of *app
 | **The *identification*** | The *question* *stated* (the *no* *mere* *worry*) | The *framing* |
 | **The *description*** | The *facts* *established* (the *empirical* *insight*) | The *no* *certainty* |
 | **The *evaluation*** | The *principles* *applied* (the *normative* *insight*) | The *conflict* |
-| **The *decision*** | The *judgement* *rendered* (the *action* *insight*) | The *responsibility* |
+| **The *decision*** | The *judgment* *rendered* (the *action* *insight*) | The *responsibility* |
 | **The *review*** | The *outcome* *assessed* (the *learning* *insight*) | The *no* *experiment* |
 
 **The *significance***. The *stages* *reveal* the *gap* *between* the *theory* and the *case* (the *no* *algorithm*), and the *gap* *requires* the *distinctive* *method* (the *no* *mere* *deduction*), and the *method* *connects* the *applied* *ethics* to the *methodology* of Part I (the *reflective* *equilibrium*; Ch. 3, §4).
@@ -52,11 +52,11 @@ The *chapter* proceeds in *eight* *movements*. §1 examines the *method* of *app
 | **The *coherence*** | The *verdict* *must* *fit* the *theory* (the *no* *mere* *intuition*) | The *theoretical* *pressure* |
 | **The *accountability*** | The *verdict* *must* be *justifiable* *to* the *others* (the *no* *mere* *authority*) | The *public* *pressure* |
 
-**The *problem***. The *constraints* *pull* *apart*: the *action*-*guidance* *favours* the *determinate* *theory* (the *no* *indeterminacy*), the *sensitivity* *favours* the *contextual* *judgement* (the *no* *deduction*), the *coherence* *favours* the *consistency* (the *no* *ad* *hoc* *exception*), and the *accountability* *favours* the *public* *reason* (the *no* *mere* *expertise*).
+**The *problem***. The *constraints* *pull* *apart*: the *action*-*guidance* *favors* the *determinate* *theory* (the *no* *indeterminacy*), the *sensitivity* *favors* the *contextual* *judgment* (the *no* *deduction*), the *coherence* *favors* the *consistency* (the *no* *ad* *hoc* *exception*), and the *accountability* *favors* the *public* *reason* (the *no* *mere* *expertise*).
 
 ### 1.2 The top-down model
 
-**The *thesis*** (the *classical* *deductive* *model*; the *contemporary* *literature*; the *critical* *literature*; Hare, *Moral Thinking*, 1981, ch. 1). The *applied* *ethics* is the *application* of the *theory* to the *case* (the *no* *mere* *intuition*), and the *theory* *yields* the *verdict* (the *no* *judgement* *beyond* the *theory*), and the *justification* is the *derivation* (the *no* *mere* *precedent*), and the *role* of the *applied* *ethics* is the *subsumption* (the *no* *mere* *casuistry*).
+**The *thesis*** (the *classical* *deductive* *model*; the *contemporary* *literature*; the *critical* *literature*; Hare, *Moral Thinking*, 1981, ch. 1). The *applied* *ethics* is the *application* of the *theory* to the *case* (the *no* *mere* *intuition*), and the *theory* *yields* the *verdict* (the *no* *judgment* *beyond* the *theory*), and the *justification* is the *derivation* (the *no* *mere* *precedent*), and the *role* of the *applied* *ethics* is the *subsumption* (the *no* *mere* *casuistry*).
 
 **The *structure***.
 
@@ -64,7 +64,7 @@ $$
 \begin{array}{ll}
 1. & \text{The *theory* } T \text{ *yields* the *verdict* } V \text{ in the *case* } C \ (\text{the *application*}). \\
 2. & T \text{ is the *justified* *theory*} \ (\text{the *no* *mere* *intuition*}). \\
-3. & \text{The *application* is the *deduction*} \ (\text{the *no* *judgement* *beyond* the *theory*}). \\
+3. & \text{The *application* is the *deduction*} \ (\text{the *no* *judgment* *beyond* the *theory*}). \\
 \hline
 4. & \therefore V \text{ is the *justified* *verdict*} \ (\text{the *top*-*down* *insight*}), \ \text{and the *justification* is the *derivation*} \ (\text{the *no* *mere* *precedent*}).}
 \end{array}
@@ -74,9 +74,9 @@ $$
 
 **The *objections***.
 
-**(i) The *no* *algorithm* *objection***. The *theory* *under*-*determines* the *verdict* (the *no* *unique* *application*, the *no* *mere* *subsumption*), and the *case* *requires* the *judgement* (the *no* *mere* *deduction*), and the *model* *fails*.
+**(i) The *no* *algorithm* *objection***. The *theory* *under*-*determines* the *verdict* (the *no* *unique* *application*, the *no* *mere* *subsumption*), and the *case* *requires* the *judgment* (the *no* *mere* *deduction*), and the *model* *fails*.
 
-**The *reply*** (the *contemporary* *literature*). The *under*-*determination* *is* the *condition* (the *no* *mere* *defect*), and the *reply* *grounds* the *judgement* in the *theory* *plus* the *facts* *plus* the *specification* (§1.4). The *reply* is *defensible* (the *no* *mere* *algorithm*), and *contested* (the *no* *determinacy*).
+**The *reply*** (the *contemporary* *literature*). The *under*-*determination* *is* the *condition* (the *no* *mere* *defect*), and the *reply* *grounds* the *judgment* in the *theory* *plus* the *facts* *plus* the *specification* (§1.4). The *reply* is *defensible* (the *no* *mere* *algorithm*), and *contested* (the *no* *determinacy*).
 
 **(ii) The *no* *theory* *objection*** (the *anti*-*theory*; Ch. 45, §5; the *particularism*; the *contemporary* *literature*). The *moral* *theory* *misrepresents* the *moral* *life* (the *no* *codification*), and the *applied* *ethics* *requires* the *perception* (the *no* *mere* *subsumption*), and the *model* *fails*.
 
@@ -84,7 +84,7 @@ $$
 
 ### 1.3 Casuistry and the bottom-up model
 
-**The *thesis*** (the *contemporary* *literature*; Jonsen & Toulmin, *The Abuse of Casuistry*, 1988, ch. 1; the *clinical* *ethics* *literature*; the *no* *mere* *theory*). The *applied* *ethics* *proceeds* by the *analogy* to the *paradigm* *cases* (the *no* *mere* *principle*), and the *paradigm* *cases* *anchor* the *judgement* (the *no* *mere* *intuition*), and the *analogy* *extends* the *judgement* to the *new* *case* (the *no* *mere* *deduction*), and the *theory* is the *summary* of the *practice* (the *no* *mere* *foundation*).
+**The *thesis*** (the *contemporary* *literature*; Jonsen & Toulmin, *The Abuse of Casuistry*, 1988, ch. 1; the *clinical* *ethics* *literature*; the *no* *mere* *theory*). The *applied* *ethics* *proceeds* by the *analogy* to the *paradigm* *cases* (the *no* *mere* *principle*), and the *paradigm* *cases* *anchor* the *judgment* (the *no* *mere* *intuition*), and the *analogy* *extends* the *judgment* to the *new* *case* (the *no* *mere* *deduction*), and the *theory* is the *summary* of the *practice* (the *no* *mere* *foundation*).
 
 **The *structure***.
 
@@ -98,7 +98,7 @@ $$
 \end{array}
 $$
 
-**The *virtue***. The *model* *captures* the *contextual* *sensitivity* (the *no* *mere* *abstraction*), and it *fits* the *clinical* *practice* (the *case* *conference*, the *no* *mere* *algorithm*), and it *grounds* the *judgement* in the *precedent* (the *no* *mere* *authority*), and it *connects* the *applied* *ethics* to the *common* *law* (the *no* *mere* *code*).
+**The *virtue***. The *model* *captures* the *contextual* *sensitivity* (the *no* *mere* *abstraction*), and it *fits* the *clinical* *practice* (the *case* *conference*, the *no* *mere* *algorithm*), and it *grounds* the *judgment* in the *precedent* (the *no* *mere* *authority*), and it *connects* the *applied* *ethics* to the *common* *law* (the *no* *mere* *code*).
 
 **The *objections***.
 
@@ -112,12 +112,12 @@ $$
 
 ### 1.4 Specification and the wide reflective equilibrium
 
-**The *thesis*** (Richardson, “Specifying Norms as a Way to Resolve Concrete Ethical Problems,” 1990, *PPA* 19; Daniels, *Justice and Justification*, 1996, ch. 1; the *contemporary* *literature*; the *no* *mere* *derivation*). The *norms* are *specified* (the *no* *mere* *application*), and the *specification* *adapts* the *norm* to the *case* (the *no* *mere* *subsumption*), and the *equilibrium* *adjusts* the *norm* and the *judgement* (the *no* *mere* *foundation*), and the *method* is the *wide* *reflective* *equilibrium* (the *no* *mere* *narrow*).
+**The *thesis*** (Richardson, “Specifying Norms as a Way to Resolve Concrete Ethical Problems,” 1990, *PPA* 19; Daniels, *Justice and Justification*, 1996, ch. 1; the *contemporary* *literature*; the *no* *mere* *derivation*). The *norms* are *specified* (the *no* *mere* *application*), and the *specification* *adapts* the *norm* to the *case* (the *no* *mere* *subsumption*), and the *equilibrium* *adjusts* the *norm* and the *judgment* (the *no* *mere* *foundation*), and the *method* is the *wide* *reflective* *equilibrium* (the *no* *mere* *narrow*).
 
 **The *structure*** (the *equilibrium*).
 
 $$
-\text{The *verdict* in } C \ \leftrightarrows \ \text{the *principle* } P \ \leftrightarrows \ \text{the *background* *theory* } T \ \leftrightarrows \ \text{the *considered* *judgements* } J
+\text{The *verdict* in } C \ \leftrightarrows \ \text{the *principle* } P \ \leftrightarrows \ \text{the *background* *theory* } T \ \leftrightarrows \ \text{the *considered* *judgments* } J
 $$
 
 **The *specification*** (the *Richardson* *form*).
@@ -148,7 +148,7 @@ $$
 
 **(ii) The *no* *constraint* *objection***. The *equilibrium* *licenses* the *wishful* *adjustment* (the *no* *mere* *coherence*), and the *intuition* *can* *override* the *theory* (the *no* *mere* *discipline*), and the *reply* *fails*.
 
-**The *reply*** (Daniels 1996, ch. 1). The *constraint* is the *whole* of the *considered* *judgements* (the *no* *mere* *single* *intuition*), and the *reply* *grounds* the *discipline* in the *whole* (the *no* *mere* *coherence*). The *reply* is *defensible*.
+**The *reply*** (Daniels 1996, ch. 1). The *constraint* is the *whole* of the *considered* *judgments* (the *no* *mere* *single* *intuition*), and the *reply* *grounds* the *discipline* in the *whole* (the *no* *mere* *coherence*). The *reply* is *defensible*.
 
 ### 1.5 Principlism
 
@@ -314,7 +314,7 @@ $$
 
 ### 2.3 Assisted dying and the empirical evidence
 
-**The *thesis*** (the *contemporary* *literature*; the *Carter* v. *Canada* (2015) *case*; the *Oregon* *Death* *with* *Dignity* *Act* (1997); the *Dutch* *Termination* of *Life* *on* *Request* *Act* (2002); the *contemporary* *literature*). The *assisted* *dying* *is* *permissible* *where* the *suffering* *is* *unbearable* (the *no* *mere* *diagnosis*), and the *autonomy* *grounds* the *permission* (the *no* *mere* *paternalism*), and the *safeguards* *constrain* the *practice* (the *no* *mere* *licence*), and the *evidence* *tests* the *slippery* *slope* (the *no* *mere* *speculation*).
+**The *thesis*** (the *contemporary* *literature*; the *Carter* v. *Canada* (2015) *case*; the *Oregon* *Death* *with* *Dignity* *Act* (1997); the *Dutch* *Termination* of *Life* *on* *Request* *Act* (2002); the *contemporary* *literature*). The *assisted* *dying* *is* *permissible* *where* the *suffering* *is* *unbearable* (the *no* *mere* *diagnosis*), and the *autonomy* *grounds* the *permission* (the *no* *mere* *paternalism*), and the *safeguards* *constrain* the *practice* (the *no* *mere* *license*), and the *evidence* *tests* the *slippery* *slope* (the *no* *mere* *speculation*).
 
 **The *framework***.
 
@@ -328,7 +328,7 @@ $$
 \begin{array}{ll}
 1. & \text{The *unbearable* *suffering* *grounds* the *permission*} \ (\text{the *no* *mere* *paternalism*}). \\
 2. & \text{The *autonomy* *grounds* the *request*} \ (\text{the *no* *mere* *expertise*}). \\
-3. & \text{The *safeguards* *constrain* the *practice*} \ (\text{the *no* *mere* *licence*}). \\
+3. & \text{The *safeguards* *constrain* the *practice*} \ (\text{the *no* *mere* *license*}). \\
 \hline
 4. & \therefore \text{The *assisted* *dying* *is* *permissible*} \ (\text{the *Carter* *insight*}), \ \text{and the *safeguards* *are* the *condition*} \ (\text{the *no* *mere} \ \text{permission*}), \ \text{and the *evidence* *is* the *test*} \ (\text{the *no* *mere} \ \text{speculation*}).}
 \end{array}
@@ -427,7 +427,7 @@ $$
 
 ### 2.6 The state of the bioethics
 
-**The *assessment***. The *autonomy* *grounds* the *consent* (the *no* *mere* *paternalism*), the *killing*/*letting* *die* *distinction* *collapses* (the *no* *mere* *causation*), the *assisted* *dying* *is* *defensible* *with* the *safeguards* (the *no* *mere* *licence*), the *enhancement* *raises* the *deep* *question* (the *no* *mere* *policy*), and the *germline* *editing* *requires* the *caution* (the *no* *mere* *prohibition*).
+**The *assessment***. The *autonomy* *grounds* the *consent* (the *no* *mere* *paternalism*), the *killing*/*letting* *die* *distinction* *collapses* (the *no* *mere* *causation*), the *assisted* *dying* *is* *defensible* *with* the *safeguards* (the *no* *mere* *license*), the *enhancement* *raises* the *deep* *question* (the *no* *mere* *policy*), and the *germline* *editing* *requires* the *caution* (the *no* *mere* *prohibition*).
 
 | The *issue* | The *strength* | The *weakness* |
 |---|---|---|
@@ -485,7 +485,7 @@ $$
 
 **(iii) The *no* *control* *objection***. The *alignment* *is* *impossible* (the *no* *mere* *solution*), and the *reply* *fails*.
 
-**The *reply*** (Russell 2019, ch. 1). The *alignment* *is* the *research* *programme* (the *no* *mere* *impossibility*), and the *reply* *grounds* the *task* in the *programme*. The *reply* is *defensible* (the *conditional* *insight*).
+**The *reply*** (Russell 2019, ch. 1). The *alignment* *is* the *research* *program* (the *no* *mere* *impossibility*), and the *reply* *grounds* the *task* in the *program*. The *reply* is *defensible* (the *conditional* *insight*).
 
 ### 3.2 Opacity and explainability
 
@@ -596,7 +596,7 @@ $$
 **The *structure***.
 
 $$
-\text{The *autonomous* *weapon*} \ \Rightarrow \ \text{the *no* *meaningful* *control*} \ \wedge \ \text{the *no* *proportionality* *judgement*} \ (\text{the *no* *mere* *speed*})
+\text{The *autonomous* *weapon*} \ \Rightarrow \ \text{the *no* *meaningful* *control*} \ \wedge \ \text{the *no* *proportionality* *judgment*} \ (\text{the *no* *mere* *speed*})
 $$
 
 **The *argument***.
@@ -605,19 +605,19 @@ $$
 \begin{array}{ll}
 1. & \text{The *weapon* *decides* the *target*} \ (\text{the *no* *mere* *tool*}). \\
 2. & \text{The *decision* *requires* the *proportionality* \ (\text{the *no* *mere* *algorithm*}). \\
-3. & \text{The *proportionality* *requires* the *judgement*} \ (\text{the *no* *mere* *rule*}). \\
+3. & \text{The *proportionality* *requires* the *judgment*} \ (\text{the *no* *mere* *rule*}). \\
 \hline
-4. & \therefore \text{The *autonomous* *weapon* *requires* the *human* *control*} \ (\text{the *Sparrow* *insight*}), \ \text{and the *judgement* *is* *not* *automatable*} \ (\text{the *no* *mere} \ \text{computation*}), \ \text{and the *responsibility* *is* *retained*} \ (\text{the *no* *mere} \ \text{delegation*}).}
+4. & \therefore \text{The *autonomous* *weapon* *requires* the *human* *control*} \ (\text{the *Sparrow* *insight*}), \ \text{and the *judgment* *is* *not* *automatable*} \ (\text{the *no* *mere} \ \text{computation*}), \ \text{and the *responsibility* *is* *retained*} \ (\text{the *no* *mere} \ \text{delegation*}).}
 \end{array}
 $$
 
-**The *virtue***. The *account* *captures* the *moral* *judgement* (the *no* *mere* *rule*), and it *fits* the *law* *of* *war* (the *no* *mere* *efficiency*), and it *grounds* the *control* in the *responsibility* (the *no* *mere* *delegation*), and it *connects* the *AI* *ethics* to the *war* (§7.3) and to the *responsibility* (Ch. 27).
+**The *virtue***. The *account* *captures* the *moral* *judgment* (the *no* *mere* *rule*), and it *fits* the *law* *of* *war* (the *no* *mere* *efficiency*), and it *grounds* the *control* in the *responsibility* (the *no* *mere* *delegation*), and it *connects* the *AI* *ethics* to the *war* (§7.3) and to the *responsibility* (Ch. 27).
 
 **The *objections***.
 
-**(i) The *no* *judgement* *objection***. The *machine* *can* *outperform* the *human* *judgement* (the *no* *mere* *inferiority*), and the *autonomy* *saves* the *lives* (the *no* *mere* *risk*), and the *reply* *fails*.
+**(i) The *no* *judgment* *objection***. The *machine* *can* *outperform* the *human* *judgment* (the *no* *mere* *inferiority*), and the *autonomy* *saves* the *lives* (the *no* *mere* *risk*), and the *reply* *fails*.
 
-**The *reply*** (the *contemporary* *literature*). The *judgement* *is* *not* the *computation* (the *no* *mere* *performance*), and the *reply* *grounds* the *control* in the *responsibility* (the *no* *mere* *efficiency*). The *reply* is *defensible* (the *moral* *insight*), and *contested* (the *no* *superiority*).
+**The *reply*** (the *contemporary* *literature*). The *judgment* *is* *not* the *computation* (the *no* *mere* *performance*), and the *reply* *grounds* the *control* in the *responsibility* (the *no* *mere* *efficiency*). The *reply* is *defensible* (the *moral* *insight*), and *contested* (the *no* *superiority*).
 
 **(ii) The *no* *status* *objection***. The *machine* *has* the *no* *moral* *status* (the *no* *mere* *sentience*), and the *question* *is* *irrelevant* (the *no* *mere* *ethics*), and the *reply* *fails*.
 
@@ -625,7 +625,7 @@ $$
 
 ### 3.6 The state of the AI ethics
 
-**The *assessment***. The *alignment* *captures* the *structural* *risk* (the *no* *mere* *accident*), the *opacity* *captures* the *procedural* *justice* (the *no* *mere* *output*), the *responsibility* *gap* *captures* the *moral* *order* (the *no* *mere* *efficiency*), the *bias* *captures* the *structural* *injustice* (the *no* *mere* *intent*), and the *autonomy* *captures* the *moral* *judgement* (the *no* *mere* *rule*).
+**The *assessment***. The *alignment* *captures* the *structural* *risk* (the *no* *mere* *accident*), the *opacity* *captures* the *procedural* *justice* (the *no* *mere* *output*), the *responsibility* *gap* *captures* the *moral* *order* (the *no* *mere* *efficiency*), the *bias* *captures* the *structural* *injustice* (the *no* *mere* *intent*), and the *autonomy* *captures* the *moral* *judgment* (the *no* *mere* *rule*).
 
 | The *issue* | The *strength* | The *weakness* |
 |---|---|---|
@@ -633,7 +633,7 @@ $$
 | **Opacity** | The *procedural* *justice* | The *no* *explanation* |
 | **Responsibility** | The *moral* *order* | The *no* *gap* |
 | **Bias** | The *structural* *injustice* | The *no* *choice* |
-| **Autonomy** | The *judgement* | The *no* *status* |
+| **Autonomy** | The *judgment* | The *no* *status* |
 
 **The *most* *defensible* *position***. A *qualified* *precautionary* *ethics* of the *AI*: the *alignment* *is* the *central* *risk* (the *Bostrom* *insight*), *framed* by the *responsibility* (the *Matthias* *insight*), *conditioned* by the *meaningful* *control* (the *Sparrow* *insight*), *policed* by the *procedural* *justice* (the *Burrell* *insight*), *constrained* by the *fairness* (the *no* *mere* *metric*), and *measured* by the *evidence* (the *no* *mere* *speculation*), *qualified* by the *admission* that the *risk*, the *explanation*, the *bias*, and the *status* *remain* *contested*.
 
@@ -711,12 +711,12 @@ $$
 
 ### 4.3 Surveillance capitalism and consent
 
-**The *thesis*** (Zuboff, *The Age of Surveillance Capitalism*, 2019, ch. 1; the *contemporary* *literature*; the *no* *mere* *consent*). The *data* *economy* *extracts* the *behavioural* *surplus* (the *no* *mere* *service*), and the *extraction* *is* the *instrumental* *power* (the *no* *mere* *exchange*), and the *consent* *is* the *fiction* (the *no* *mere* *choice*), and the *surveillance* *is* the *structural* (the *no* *mere* *individual* *risk*).
+**The *thesis*** (Zuboff, *The Age of Surveillance Capitalism*, 2019, ch. 1; the *contemporary* *literature*; the *no* *mere* *consent*). The *data* *economy* *extracts* the *behavioral* *surplus* (the *no* *mere* *service*), and the *extraction* *is* the *instrumental* *power* (the *no* *mere* *exchange*), and the *consent* *is* the *fiction* (the *no* *mere* *choice*), and the *surveillance* *is* the *structural* (the *no* *mere* *individual* *risk*).
 
 **The *structure***.
 
 $$
-\text{The *behavioural* *surplus*} \ \Rightarrow \ \text{the *prediction* *products*} \ \Rightarrow \ \text{the *instrumental* *power*} \ (\text{the *no* *mere* *exchange*})
+\text{The *behavioral* *surplus*} \ \Rightarrow \ \text{the *prediction* *products*} \ \Rightarrow \ \text{the *instrumental* *power*} \ (\text{the *no* *mere* *exchange*})
 $$
 
 **The *argument***.
@@ -883,7 +883,7 @@ $$
 \end{array}
 $$
 
-**The *virtue***. The *argument* *is* the *strongest* (the *no* *mere* *sentiment*), and it *fits* the *considered* *judgements* (the *no* *mere* *bias*), and it *grounds* the *status* in the *capacity* (the *no* *mere* *species*), and it *connects* the *animal* *ethics* to the *personhood* (Ch. 26) and to the *cognitive* *disability* *ethics* (Ch. 51, §2).
+**The *virtue***. The *argument* *is* the *strongest* (the *no* *mere* *sentiment*), and it *fits* the *considered* *judgments* (the *no* *mere* *bias*), and it *grounds* the *status* in the *capacity* (the *no* *mere* *species*), and it *connects* the *animal* *ethics* to the *personhood* (Ch. 26) and to the *cognitive* *disability* *ethics* (Ch. 51, §2).
 
 **The *objections***.
 
@@ -1146,11 +1146,11 @@ $$
 
 **(ii) The *no* *proportionality* *objection***. The *proportionality* *is* the *arbitrary* (the *no* *mere* *metric*), and the *calculation* *is* the *impossible* (the *no* *mere* *prediction*), and the *reply* *fails*.
 
-**The *reply*** (the *contemporary* *literature*). The *proportionality* *is* the *judgement* (the *no* *mere* *algorithm*), and the *reply* *grounds* the *calculation* in the *judgement*. The *reply* is *defensible* (the *no* *mere* *metric*).
+**The *reply*** (the *contemporary* *literature*). The *proportionality* *is* the *judgment* (the *no* *mere* *algorithm*), and the *reply* *grounds* the *calculation* in the *judgment*. The *reply* is *defensible* (the *no* *mere* *metric*).
 
 **(iii) The *no* *war* *objection*** (the *pacifism*; the *contemporary* *literature*). The *war* *is* the *always* *wrong* (the *no* *mere* *justification*), and the *just* *war* *is* the *contradiction* (the *no* *mere* *criterion*), and the *reply* *fails*.
 
-**The *reply*** (the *Walzer* *insight*; the *supreme* *emergency*). The *war* *is* the *sometimes* *justified* (the *no* *mere* *always*), and the *reply* *grounds* the *justification* in the *defence*. The *reply* is *defensible* (the *no* *mere* *pacifism*), and *contested* (the *no* *criteria*).
+**The *reply*** (the *Walzer* *insight*; the *supreme* *emergency*). The *war* *is* the *sometimes* *justified* (the *no* *mere* *always*), and the *reply* *grounds* the *justification* in the *defense*. The *reply* is *defensible* (the *no* *mere* *pacifism*), and *contested* (the *no* *criteria*).
 
 ### 7.2 The revisionist challenge and terrorism
 
@@ -1454,7 +1454,7 @@ $$
 
 - **The *method*** of the *applied* *ethics* is the *wide* *reflective* *equilibrium* (the *no* *mere* *deduction*), and the *specification* *is* the *technique* (the *no* *mere* *application*), and the *public* *reason* *is* the *justification* (the *no* *mere* *expertise*).
 - **The *informed* *consent*** is the *condition* of the *intervention* (the *no* *mere* *paternalism*), and the *autonomy* is the *relational* (the *no* *mere* *individual*), and the *comprehension* is the *achievable* (the *no* *mere* *ritual*).
-- **The *killing*/*letting* *die* *distinction*** is *not* the *moral* (the *no* *mere* *causation*), and the *assisted* *dying* *is* *defensible* *with* the *safeguards* (the *no* *mere* *licence*), and the *germline* *editing* *requires* the *caution* (the *no* *mere* *prohibition*).
+- **The *killing*/*letting* *die* *distinction*** is *not* the *moral* (the *no* *mere* *causation*), and the *assisted* *dying* *is* *defensible* *with* the *safeguards* (the *no* *mere* *license*), and the *germline* *editing* *requires* the *caution* (the *no* *mere* *prohibition*).
 - **The *AI* *alignment*** is the *central* *risk* (the *no* *mere* *capability*), and the *responsibility* *gap* *requires* the *meaningful* *human* *control* (the *no* *mere* *oversight*), and the *algorithmic* *bias* *is* the *structural* (the *no* *mere* *neutrality*).
 - **The *privacy*** is the *control* *framed* by the *context* (the *no* *mere* *secrecy*), and the *surveillance* *capitalism* *is* the *structural* *power* (the *no* *mere* *exchange*), and the *attention* *economy* *is* the *manipulation* (the *no* *mere* *persuasion*).
 - **The *sentience*** is the *ground* of the *moral* *status* (the *no* *mere* *rationality*), and the *speciesism* is the *prejudice* (the *no* *mere* *nature*), and the *numbers* *reveal* the *scale* (the *no* *mere* *individual*).
@@ -1528,7 +1528,7 @@ $$
 \end{array}
 $$
 
-**The *significance***. The *synthesis* is *not* an *eclecticism* (the *arbitrary* *mix*); it is a *principled* *procedure* (the *equilibrium* *grounds* the *verdict*, the *specification* *grounds* the *norm*, the *cases* *ground* the *judgement*, the *reason* *grounds* the *legitimacy*, the *evidence* *grounds* the *claim*, the *sentience* *grounds* the *scope*, the *future* *grounds* the *horizon*, the *risk* *grounds* the *caution*), and it *fits* the *practice* (the *clinic*, the *lab*, the *court*, the *farm*, the *atmosphere*, the *border*), and it *connects* the *applied* *ethics* to the *normative* *ethics* (Ch. 45), to the *practical* *reason* (Ch. 46), to the *political* *theory* (Ch. 47), to the *well*-*being* (Ch. 48), to the *aesthetics* (Ch. 49), and to the *religion* (Ch. 50).
+**The *significance***. The *synthesis* is *not* an *eclecticism* (the *arbitrary* *mix*); it is a *principled* *procedure* (the *equilibrium* *grounds* the *verdict*, the *specification* *grounds* the *norm*, the *cases* *ground* the *judgment*, the *reason* *grounds* the *legitimacy*, the *evidence* *grounds* the *claim*, the *sentience* *grounds* the *scope*, the *future* *grounds* the *horizon*, the *risk* *grounds* the *caution*), and it *fits* the *practice* (the *clinic*, the *lab*, the *court*, the *farm*, the *atmosphere*, the *border*), and it *connects* the *applied* *ethics* to the *normative* *ethics* (Ch. 45), to the *practical* *reason* (Ch. 46), to the *political* *theory* (Ch. 47), to the *well*-*being* (Ch. 48), to the *aesthetics* (Ch. 49), and to the *religion* (Ch. 50).
 
 ### 8.9 The methodological lesson
 
@@ -1539,10 +1539,10 @@ The *chapter* is a *case* *study* in the method of Part I, *applied* to the *par
 - **Formalization** — the *expected* *value*, the *maximin*, the *discount* *rate*, the *fairness* *metrics*, the *Bayesian* *probability* of the *risk* — is *essential* for the *precision*.
 - **Reflective equilibrium** is the *method* by which the *theory* and the *case* are *adjusted* (the *no* *mere* *deduction*).
 - **Genealogy and debunking** — the *history* of the *bioethics*, the *sociology* of the *AI*, the *political* *economy* of the *surveillance*, the *anthropology* of the *meat*, the *colonial* *history* of the *climate* — is the *central* *challenge*.
-- **Experimental philosophy and the empirical turn** — the *trolley* *studies*, the *consent* *comprehension* *research*, the *algorithmic* *audit*, the *animal* *sentience* *science*, the *climate* *modelling* — is the *most* *important* *development*, and it is *decisive* for the *verdict*.
+- **Experimental philosophy and the empirical turn** — the *trolley* *studies*, the *consent* *comprehension* *research*, the *algorithmic* *audit*, the *animal* *sentience* *science*, the *climate* *modeling* — is the *most* *important* *development*, and it is *decisive* for the *verdict*.
 - **Negative capability** is the *response* to the *residue*: the *applied* *question* is *unsettled*, and the *honest* *thinker* *decides* *while* *holding* the *doubt*.
 
-The honest verdict: the *applied* *ethics* has been *transformed* by the *empirical* and the *technological* *sciences* — and the *transformation* has been *double*-*edged*. The *evidence* has *sharpened* the *questions* (the *consent* *comprehension*, the *algorithmic* *audit*, the *sentience* *science*, the *climate* *modelling*), and it has *undermined* the *confidence* (the *no* *robust* *data*, the *no* *neutral* *metric*, the *cluelessness*), and the *result* is a *field* that is *more* *humble* and *more* *exacting* than the *armchair* *tradition* *allowed* — and *far* *more* *urgent*.
+The honest verdict: the *applied* *ethics* has been *transformed* by the *empirical* and the *technological* *sciences* — and the *transformation* has been *double*-*edged*. The *evidence* has *sharpened* the *questions* (the *consent* *comprehension*, the *algorithmic* *audit*, the *sentience* *science*, the *climate* *modeling*), and it has *undermined* the *confidence* (the *no* *robust* *data*, the *no* *neutral* *metric*, the *cluelessness*), and the *result* is a *field* that is *more* *humble* and *more* *exacting* than the *armchair* *tradition* *allowed* — and *far* *more* *urgent*.
 
 ### 8.10 The bridge
 
@@ -1571,8 +1571,8 @@ Cross-cutting material, for the reader who wants to go deeper.
 ## Summary
 
 - **The *method* of the *applied* *ethics*** is the *wide* *reflective* *equilibrium*, not the *deduction* from the *theory* (the *no* *algorithm*), and the *specification* *adapts* the *norm* to the *case* (the *no* *mere* *subsumption*), and the *principles* (the *autonomy*, the *beneficence*, the *non*-*maleficence*, the *justice*) *frame* the *verdict* (the *no* *mere* *monism*), and the *public* *reason* *justifies* it (the *no* *mere* *authority*).
-- **The *bioethics*** *grounds* the *intervention* in the *informed* *consent* (the *no* *mere* *paternalism*), *collapses* the *killing*/*letting* *die* *distinction* (the *no* *mere* *causation*), *permits* the *assisted* *dying* *with* the *safeguards* (the *no* *mere* *licence*), *raises* the *deep* *question* of the *enhancement* (the *no* *mere* *policy*), and *requires* the *caution* on the *germline* (the *no* *mere* *prohibition*).
-- **The *AI* *ethics*** *centres* on the *alignment* (the *no* *automatic* *benevolence*), *requires* the *meaningful* *human* *control* (the *no* *mere* *oversight*), *exposes* the *structural* *bias* (the *no* *mere* *neutrality*), and *demands* the *procedural* *justice* (the *no* *mere* *output*).
+- **The *bioethics*** *grounds* the *intervention* in the *informed* *consent* (the *no* *mere* *paternalism*), *collapses* the *killing*/*letting* *die* *distinction* (the *no* *mere* *causation*), *permits* the *assisted* *dying* *with* the *safeguards* (the *no* *mere* *license*), *raises* the *deep* *question* of the *enhancement* (the *no* *mere* *policy*), and *requires* the *caution* on the *germline* (the *no* *mere* *prohibition*).
+- **The *AI* *ethics*** *centers* on the *alignment* (the *no* *automatic* *benevolence*), *requires* the *meaningful* *human* *control* (the *no* *mere* *oversight*), *exposes* the *structural* *bias* (the *no* *mere* *neutrality*), and *demands* the *procedural* *justice* (the *no* *mere* *output*).
 - **The *privacy*** is the *control* *framed* by the *context* (the *no* *mere* *secrecy*), and the *surveillance* *capitalism* is the *structural* *power* (the *no* *mere* *exchange*), and the *attention* *economy* is the *manipulation* (the *no* *mere* *persuasion*).
 - **The *animal* *ethics*** *grounds* the *status* in the *sentience* (the *no* *speciesism*), *exposes* the *inconsistency* of the *marginal* *cases* (the *no* *mere* *rationality*), and *reveals* the *scale* of the *practice* (the *no* *mere* *individual*).
 - **The *environmental* *ethics*** *captures* the *value* *beyond* the *instrument* (the *no* *mere* *use*), *requires* the *differentiated* *responsibility* (the *no* *mere* *efficiency*), and *extends* the *obligation* to the *future* (the *no* *mere* *present*).
@@ -1631,6 +1631,6 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 ---
 
-> *A closing note.* This chapter has followed the *case* — the *clinic*, the *model*, the *data*, the *farm*, the *atmosphere*, the *border*, the *risk* — and it has arrived at a *conclusion* that is less a *theory* than a *procedure*: the *applied* *ethicist* *specifies* the *norm* (the *no* *mere* *deduction*), *justifies* it *publicly* (the *no* *mere* *authority*), *tests* it *empirically* (the *no* *mere* *armchair*), *extends* it *widely* (the *no* *mere* *human*), *holds* it *cautiously* (the *no* *mere* *certainty*), and *acts* — because the *case* *waits* for no *theory*, and the *decision* *must* be *made* *inside* the *doubt*, and the *doubt* is not the *excuse* but the *condition* of the *responsible* *judgement*.
+> *A closing note.* This chapter has followed the *case* — the *clinic*, the *model*, the *data*, the *farm*, the *atmosphere*, the *border*, the *risk* — and it has arrived at a *conclusion* that is less a *theory* than a *procedure*: the *applied* *ethicist* *specifies* the *norm* (the *no* *mere* *deduction*), *justifies* it *publicly* (the *no* *mere* *authority*), *tests* it *empirically* (the *no* *mere* *armchair*), *extends* it *widely* (the *no* *mere* *human*), *holds* it *cautiously* (the *no* *mere* *certainty*), and *acts* — because the *case* *waits* for no *theory*, and the *decision* *must* be *made* *inside* the *doubt*, and the *doubt* is not the *excuse* but the *condition* of the *responsible* *judgment*.
 
 > *And a bridge.* The *next* *chapter* returns to the *meta*-*question* — the *limits* of the *philosophical* *knowledge*. If the *applied* *ethics* *tests* the *theory* *by* the *case*, the *meta*-*question* *tests* the *whole* *enterprise* *by* its *record*. The *applied* *ethics* is the *strongest* *case* for the *philosophy*’s *value* (the *no* *mere* *speculation*), and the *strongest* *test* of its *limits* (the *no* *mere* *algorithm*), and the *two* *together* *pose* the *question* of the *next* *chapter*: *is* the *philosophy* the *knowledge*, or the *clarification*, or the *therapy*, or the *conversation* that never ends?

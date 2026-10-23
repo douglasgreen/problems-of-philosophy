@@ -89,7 +89,7 @@ A taxonomy of replies is useful, because each has a characteristic cost:
 
 The **cost-accounting** reply is the most philosophically sophisticated, and the most often abused. It is legitimate when the costs are *real*, *comparative*, and *paid by every alternative*. It is illegitimate when it is used to wave away an objection that the view incurs and the alternatives do not.
 
-The discipline of the objection section is the discipline of **writing your opponent’s brief**. If a reader who holds the opposing view would not recognise her own position in your statement of it, you have not done the work. (This is the steel-manning requirement of Ch. 2, §4.3, applied to writing.)
+The discipline of the objection section is the discipline of **writing your opponent’s brief**. If a reader who holds the opposing view would not recognize her own position in your statement of it, you have not done the work. (This is the steel-manning requirement of Ch. 2, §4.3, applied to writing.)
 
 ### 1.5 Reading: the three passes
 
@@ -105,7 +105,7 @@ If you cannot answer the three questions, the paper is badly written, or you hav
 
 **Pass 2 — Reconstruction (30–60 minutes).** Now read the body. Your job is not to agree or disagree; it is to reconstruct. Produce:
 
-- A **standardised argument** (Ch. 2, §2.1) for the main thesis.
+- A **standardized argument** (Ch. 2, §2.1) for the main thesis.
 - An **argument map** (Ch. 2, §4.1) distinguishing joint from independent premises.
 - A list of the **key distinctions** the paper introduces or relies on.
 - A list of the **load-bearing moves** — the premises or inferences that, if false, would collapse the paper.
@@ -204,7 +204,7 @@ The taxonomy has three tiers: **formal** (bad in virtue of logical form), **info
 | **Scope fallacy** | $\forall x \exists y Rxy \therefore \exists y \forall x Rxy$ | Quantifier order | “Everyone loves someone; so someone is loved by everyone” (Ch. 3, §3.2) |
 | **Modal fallacy** | $\Diamond p\ \therefore\ p$ | Possibility does not entail actuality | “It could have been otherwise; so it was otherwise” (Ch. 3, §3.2 on the modal operators; Ch. 2, §5.4 on possibility arguments) |
 
-The formal fallacies are the *easy* ones: they can be detected mechanically once the argument is formalised. The hard cases are the ones where the formalisation is contested — where the surface grammar conceals a different logical form (Ch. 3, §3.3). A student who has learned to formalise is in a position to detect these; a student who has not will be persuaded by them.
+The formal fallacies are the *easy* ones: they can be detected mechanically once the argument is formalized. The hard cases are the ones where the formalization is contested — where the surface grammar conceals a different logical form (Ch. 3, §3.3). A student who has learned to formalize is in a position to detect these; a student who has not will be persuaded by them.
 
 ### 2.2 Informal fallacies
 
@@ -220,7 +220,7 @@ The informal fallacies are patterns of bad reasoning that depend on content or c
 | **Appeal to emotion** | “$p$ makes me angry, so $p$ is false” | When the emotion is *about* a morally relevant feature (Ch. 30, §2) |
 | **False dilemma** | “Either $p$ or $q$” when there is a third option | When the options really are exhaustive |
 | **Slippery slope** | “If $p$, then … then disaster” | When the causal chain is empirically supported |
-| **Hasty generalisation** | “Two cases, so all” | When the sample is representative (statistical inference, Ch. 10, §7) |
+| **Hasty generalization** | “Two cases, so all” | When the sample is representative (statistical inference, Ch. 10, §7) |
 | **Composition** | “Parts have $F$, so the whole has $F$” | When $F$ is preserved under composition |
 | **Division** | “Whole has $F$, so parts have $F$” | When $F$ is distributive |
 | **Loaded question** | “Have you stopped beating your wife?” | When the presupposition has been established |
@@ -251,7 +251,7 @@ which is valid only if $S' = S$. The fallacy is the *substitution* — the silen
 
 **Formal core.** The argument against $S'$ may be perfectly valid. The defect is in the *identification* of $S'$ with $S$. The fallacy is therefore not in the argument but in the *claim that the argument bears on the opponent’s position*.
 
-**Diagnostic test.** State the opponent’s position in a form she would recognise as her own. If the argument does not touch that form, it is a straw man. If it does, it is legitimate — and a great deal of good philosophy consists in showing that a position *reduces to* a form that can be refuted.
+**Diagnostic test.** State the opponent’s position in a form she would recognize as her own. If the argument does not touch that form, it is a straw man. If it does, it is legitimate — and a great deal of good philosophy consists in showing that a position *reduces to* a form that can be refuted.
 
 **When legitimate.** Simplification is unavoidable in criticism. The test is not whether the version is simplified, but whether the simplification is *faithful* — whether the omitted complexities are irrelevant to the objection. A straw man is a simplification that omits the very feature that would answer the objection.
 
@@ -266,7 +266,7 @@ $$
 1. & \text{Assert } B. \\
 2. & \text{Challenge } B. \\
 3. & \text{Defend } M \text{ (which is easy).} \\
-4. & \text{Treat the defence of } M \text{ as if it were a defence of } B.
+4. & \text{Treat the defense of } M \text{ as if it were a defense of } B.
 \end{array}
 $$
 
@@ -277,7 +277,7 @@ The fallacy is not in any single step (each step may be valid), but in step 4: t
 1. **Are there one position or two?** If the bailey and the motte are offered as the same claim under different descriptions, the argument equivocates. If they are offered as distinct claims, which one is the paper defending?
 2. **Is the relation between them argued?** If $M$ is claimed to be *evidence* for $B$, the evidential link must be made explicit. If it is not, the move from the motte to the bailey is unsupported.
 
-**When legitimate.** All positions have a core and a periphery; all defences distinguish the defensible core from the dispensable periphery. A *legitimate* retreat from bailey to motte is an **admission** — “I cannot defend the strong claim, so I now defend the weaker one” — and it should be marked as such. The fallacy is the *unmarked* retreat, the transfer of credit without the admission.
+**When legitimate.** All positions have a core and a periphery; all defenses distinguish the defensible core from the dispensable periphery. A *legitimate* retreat from bailey to motte is an **admission** — “I cannot defend the strong claim, so I now defend the weaker one” — and it should be marked as such. The fallacy is the *unmarked* retreat, the transfer of credit without the admission.
 
 **The philosophical example** (composite, not a quotation): “Consciousness is a fundamental feature of the universe, on a par with space and time” (bailey) → “We do not currently have a reductive explanation of consciousness” (motte) → “So consciousness is fundamental” (bailey resumed). The middle step is true; the first and third are not supported by it.
 
@@ -293,7 +293,7 @@ The classic example:
 
 **Diagnostic test.** Identify the term; state the two (or more) senses; check whether the same sense is required for the truth of each premise. A useful technique is **subscripting**: rewrite the argument with $T_1$ and $T_2$ explicitly, and see whether it still goes through.
 
-**Philosophical examples.** The literature is a catalogue of equivocations on *natural*, *free*, *explain*, *cause*, *information*, *physical*, *representation*, *knowledge*, *justified*, *real*. The “is–ought gap” argument (Ch. 2, §6.3) is largely a debate about whether *good* and *ought* equivocate across the descriptive/normative divide. The *knowledge* debate turns on whether “knows” in the sceptical context means the same thing as “knows” in the ordinary context (Ch. 6, §4; Ch. 7, §6).
+**Philosophical examples.** The literature is a catalog of equivocations on *natural*, *free*, *explain*, *cause*, *information*, *physical*, *representation*, *knowledge*, *justified*, *real*. The “is–ought gap” argument (Ch. 2, §6.3) is largely a debate about whether *good* and *ought* equivocate across the descriptive/normative divide. The *knowledge* debate turns on whether “knows” in the skeptical context means the same thing as “knows” in the ordinary context (Ch. 6, §4; Ch. 7, §6).
 
 **When legitimate.** Polysemy is a feature of natural language, not a defect. The fallacy is not using a word in two senses; it is *relying on the slide* between them. Context-sensitivity (where the sense is fixed by context) is not equivocation, provided the context fixes it.
 
@@ -364,7 +364,7 @@ And a third: the **rhetorical use of the fallacy label**. Naming a fallacy is an
 
 Here is a composite passage — *not* a quotation from any single author — of the kind one meets in popular and semi-popular philosophy. Diagnose it.
 
-> Contemporary physicalism is untenable. Its defenders claim that everything is physical, but when pressed they admit that they cannot explain consciousness. Either consciousness is physical or it is not; if it is, then it must be locatable in the brain, but no one has found it there. If it is not, then physicalism is false. The physicalist’s usual reply — that consciousness is an “emergent” property — is mere hand-waving: to say that something emerges is just to say that it appears, which is exactly what needs explaining. Moreover, the whole physicalist research programme has been a failure: after a century, we still have no theory. It is time to take dualism seriously.
+> Contemporary physicalism is untenable. Its defenders claim that everything is physical, but when pressed they admit that they cannot explain consciousness. Either consciousness is physical or it is not; if it is, then it must be locatable in the brain, but no one has found it there. If it is not, then physicalism is false. The physicalist’s usual reply — that consciousness is an “emergent” property — is mere hand-waving: to say that something emerges is just to say that it appears, which is exactly what needs explaining. Moreover, the whole physicalist research program has been a failure: after a century, we still have no theory. It is time to take dualism seriously.
 
 **Diagnosis.**
 
@@ -374,7 +374,7 @@ Here is a composite passage — *not* a quotation from any single author — of 
 
 3. **Straw man.** The “usual reply” — emergence — is not the strongest physicalist reply. The strongest replies (phenomenal concepts, higher-order theories, illusionism, global workspace) are not considered. The argument refutes a weak version and concludes against the strong one.
 
-4. **Motte-and-bailey.** The bailey is “physicalism is false.” The motte is “physicalists cannot *explain* consciousness.” The motte is true (in the sense that there is no consensus explanation); the bailey does not follow. The middle of the passage is a defence of the motte; the end is a resumption of the bailey.
+4. **Motte-and-bailey.** The bailey is “physicalism is false.” The motte is “physicalists cannot *explain* consciousness.” The motte is true (in the sense that there is no consensus explanation); the bailey does not follow. The middle of the passage is a defense of the motte; the end is a resumption of the bailey.
 
 5. **Equivocation on “explain.”** To explain can mean (a) to give a mechanism, (b) to identify with something else, (c) to give an account of why the explanandum seems mysterious. The argument assumes (a), and the assumption is not argued.
 
@@ -405,7 +405,7 @@ Philosophy produces theories — of knowledge, of mind, of value, of reality. Wh
 
 **Consistency** has two forms. *Internal* consistency: no contradiction among the theory’s claims. *External* consistency: no contradiction with the best-established background beliefs — logic, mathematics, empirical science, and the most secure deliverances of ordinary experience. External consistency is not absolute (the background can be revised), but it is a real constraint: a theory that contradicts quantum mechanics, or the existence of the external world, owes us an argument.
 
-**Fertility** is the criterion most often honoured in the breach. A theory that explains the existing data but generates no new questions is a *closed* theory; a theory that opens new lines of inquiry is *live*. The history of philosophy suggests that the live theories are the ones that survive, not because they are truer but because they are *worked on*.
+**Fertility** is the criterion most often honored in the breach. A theory that explains the existing data but generates no new questions is a *closed* theory; a theory that opens new lines of inquiry is *live*. The history of philosophy suggests that the live theories are the ones that survive, not because they are truer but because they are *worked on*.
 
 **Explanatory power** is not a single thing. It includes *scope* (how much is explained), *precision* (how specific the explanations are), *mechanism* (whether the theory says how the explanation works), and *unification* (whether disparate phenomena are brought under one principle). The criteria can conflict: a theory with great scope may be vague; a precise theory may explain little.
 
@@ -413,7 +413,7 @@ Philosophy produces theories — of knowledge, of mind, of value, of reality. Wh
 
 The criteria conflict. A simple theory may be less conservative; a fertile theory may be less simple; an explanatorily powerful theory may be less adequate to ordinary thought. There is **no algorithm** for weighing them, and the attempt to produce one — a formal scoring system — usually produces a false precision.
 
-This is not a defect of the criteria; it is a feature of the epistemic situation. Theory choice in philosophy is *comparative* and *holistic*: you compare the total package of virtues, against the background of the alternatives actually on the table, and you make a judgment that is itself arguable. The judgment can be criticised — “you are weighting simplicity too heavily,” “you are ignoring the cost in adequacy” — and the criticism is itself a philosophical argument. That is the method.
+This is not a defect of the criteria; it is a feature of the epistemic situation. Theory choice in philosophy is *comparative* and *holistic*: you compare the total package of virtues, against the background of the alternatives actually on the table, and you make a judgment that is itself arguable. The judgment can be criticized — “you are weighting simplicity too heavily,” “you are ignoring the cost in adequacy” — and the criticism is itself a philosophical argument. That is the method.
 
 The following matrix is a *heuristic for comparison*, not a measurement. It is useful for making the weighting explicit, and dangerous if treated as arithmetic.
 
@@ -449,7 +449,7 @@ The **principle of conservatism**: a theory that requires fewer revisions of est
 
 Its danger is obvious: conservatism can entrench error. Every revolutionary theory was, at the time, non-conservative. The heliocentric theory, the theory of evolution, and the rejection of natural slavery all required revising beliefs that were deeply established. A conservatism that is too strong would have blocked them.
 
-The resolution is not to abandon conservatism but to *contextualise* it. Conservatism is a *default*, not an absolute: it tells you what to believe in the absence of a strong argument for revision. When the argument for revision is strong enough, the cost of revision is worth paying. The question is always *how strong is strong enough*, and that is a judgment, not a calculation.
+The resolution is not to abandon conservatism but to *contextualize* it. Conservatism is a *default*, not an absolute: it tells you what to believe in the absence of a strong argument for revision. When the argument for revision is strong enough, the cost of revision is worth paying. The question is always *how strong is strong enough*, and that is a judgment, not a calculation.
 
 There is a further point: conservatism is a virtue only if the established beliefs have some track record. In domains where the track record is poor — moral beliefs about out-groups, beliefs about the capacities of women and minorities, beliefs about the nature of consciousness — conservatism should have little weight. The criterion is not neutral across domains; it is a function of the reliability of the background.
 
@@ -508,7 +508,7 @@ The numbers are not measurements; they are expressions of *comparative* confiden
 - **Overclaiming**: “This proves that …” when the argument merely suggests. The commonest form in student writing, and in popular philosophy.
 - **Underclaiming**: “This might perhaps suggest, in some sense, that …” when the argument is actually strong. The commonest form in anxious academic writing, and it is also a vice: it hides the argument behind a hedge.
 
-The matching principle is the ethical core of philosophical writing. It is also the hardest to internalise, because the temptation to overclaim is the temptation to be *interesting*, and the temptation to underclaim is the temptation to be *safe*. Both are temptations to be something other than honest.
+The matching principle is the ethical core of philosophical writing. It is also the hardest to internalize, because the temptation to overclaim is the temptation to be *interesting*, and the temptation to underclaim is the temptation to be *safe*. Both are temptations to be something other than honest.
 
 ### 4.2 The vice of cleverness
 
@@ -532,9 +532,9 @@ The vice of cleverness has a social dimension. Cleverness is rewarded: the cleve
 
 ### 4.3 The ethics of criticism
 
-The ethics of criticism can be summarised in four norms.
+The ethics of criticism can be summarized in four norms.
 
-**(i) Criticise the argument, not the person.** The *ad hominem* is the paradigm violation. But the norm is subtler than it looks: the argument is the person’s, and criticism is a social act that can wound. The norm does not require indifference to the person; it requires that the force of the criticism be directed at the argument, and that the person be treated as a participant in inquiry rather than an obstacle to it.
+**(i) Criticize the argument, not the person.** The *ad hominem* is the paradigm violation. But the norm is subtler than it looks: the argument is the person’s, and criticism is a social act that can wound. The norm does not require indifference to the person; it requires that the force of the criticism be directed at the argument, and that the person be treated as a participant in inquiry rather than an obstacle to it.
 
 **(ii) Engage the strongest version.** This is the charity requirement of Ch. 2, §3, applied to public criticism. The obligation is not merely epistemic (you will understand the position better) but ethical (you owe the author the respect of engaging her actual view). The straw man is not only a logical fallacy; it is a failure of respect.
 
@@ -542,7 +542,7 @@ The ethics of criticism can be summarised in four norms.
 
 **(iv) Be constructive where possible.** Where a criticism can be paired with a suggestion — a distinction that would resolve the problem, a premise that would repair the argument, a literature that would address the objection — the criticism is more useful. This is not a demand that every criticism be constructive (some arguments are beyond repair, and saying so is a contribution); it is a demand that the critic consider whether the repair is possible before declaring the position dead.
 
-The **referee report** is the test case. A good report does four things: summarises the paper accurately (this is the test of whether the referee has read it); identifies the paper’s contribution (this is the test of whether the referee has understood it); states the principal objections, in order of importance, with reasons; and recommends a decision, with an explanation of what would change it. A bad report does one thing: it expresses a verdict. The difference is the difference between a reader’s advocate and a gatekeeper’s ego.
+The **referee report** is the test case. A good report does four things: summarizes the paper accurately (this is the test of whether the referee has read it); identifies the paper’s contribution (this is the test of whether the referee has understood it); states the principal objections, in order of importance, with reasons; and recommends a decision, with an explanation of what would change it. A bad report does one thing: it expresses a verdict. The difference is the difference between a reader’s advocate and a gatekeeper’s ego.
 
 ### 4.4 Citation, attribution, and the duty to read
 
@@ -552,7 +552,7 @@ The ethical norms of citation follow:
 
 - **Cite the actual text**, with page numbers, not the secondary summary (unless the summary is the object of criticism).
 - **Distinguish your view from the views you discuss.** The reader should always be able to tell whose claim is whose.
-- **Acknowledge the strongest version.** If you are criticising a position, say which version you are criticising, and why it is the strongest.
+- **Acknowledge the strongest version.** If you are criticizing a position, say which version you are criticizing, and why it is the strongest.
 - **Do not cite authorities as arguments.** A citation is evidence that someone said something; it is not evidence that what they said is true. (The appeal-to-authority fallacy, §2.2.)
 - **Acknowledge the limits of your reading.** If you have not read the whole literature, say so.
 
@@ -628,7 +628,7 @@ Then, and only then, attempt the reply.
 
 The value of the exercise is not that it produces an answer (sometimes it does not). The value is that it converts the *fear* of objection into *familiarity* with it. The philosopher who has written her own best objection is no longer surprised by it; she has already seen it, and she knows what she thinks. The philosopher who has not is vulnerable to the first competent critic — and, worse, to the first *incompetent* one, because she has no way of distinguishing them.
 
-**The devil’s advocate as a discipline.** The exercise is a form of what the tradition calls the *advocatus diaboli*: the deliberate construction of the case against one’s own position. In the Catholic canonisation process, the *promotor fidei* was appointed to argue against the candidate; the institution was designed to make the case *for* the candidate stronger by forcing it to survive the strongest case *against*. Philosophy could use more of this.
+**The devil’s advocate as a discipline.** The exercise is a form of what the tradition calls the *advocatus diaboli*: the deliberate construction of the case against one’s own position. In the Catholic canonization process, the *promotor fidei* was appointed to argue against the candidate; the institution was designed to make the case *for* the candidate stronger by forcing it to survive the strongest case *against*. Philosophy could use more of this.
 
 ### 5.3 The five-year test and steel-manning yourself
 
@@ -636,7 +636,7 @@ Two further tests, both simple, both useful.
 
 **The five-year test.** Ask: *will I still hold this view in five years, after more reading and more objections?* If the answer is no, the view is not yet stable — which is not a reason to abandon it, but a reason to hold it with *calibrated* confidence, and to keep working on the objections. If the answer is yes, ask *why*: is it because the view is well-supported, or because it has become part of your identity? The distinction is not always easy to draw, and drawing it is part of the work.
 
-**Steel-manning yourself.** Ask: *can I state my view in a form that my opponents would recognise as their target?* If not, you have not understood your own view. The test is not whether the opponents *agree* with your formulation; it is whether they would say, “yes, that is what I am denying.” A view that cannot be stated in a form its opponents recognise is a view that has not been formulated clearly enough to be denied — and, therefore, clearly enough to be defended.
+**Steel-manning yourself.** Ask: *can I state my view in a form that my opponents would recognize as their target?* If not, you have not understood your own view. The test is not whether the opponents *agree* with your formulation; it is whether they would say, “yes, that is what I am denying.” A view that cannot be stated in a form its opponents recognize is a view that has not been formulated clearly enough to be denied — and, therefore, clearly enough to be defended.
 
 ### 5.4 The confession of ignorance
 
@@ -664,7 +664,7 @@ The virtue that these institutions require is **teachability**: the willingness 
 
 ### 5.6 A curriculum for oneself
 
-The practices of §5.1–5.5 are the elements of a **lifelong curriculum** — a programme of self-directed philosophical formation. The curriculum has four components:
+The practices of §5.1–5.5 are the elements of a **lifelong curriculum** — a program of self-directed philosophical formation. The curriculum has four components:
 
 1. **Read outside your area.** The specialist’s knowledge is deep and narrow; the generalist’s is shallow and broad. The best philosophers are both, and the way to become both is to read outside the area of expertise, regularly, with the same care you give to your own field.
 2. **Write regularly.** Not only papers; also notes, objections, diary entries, and letters. Writing is the instrument of thought (§1.6).
@@ -689,7 +689,7 @@ Three further questions, for the reader who wants to think about the social cond
 
 This chapter completes Part I. The reader now has a conception of the subject (Ch. 1), an anatomy of the argument (Ch. 2), a repertoire of instruments (Ch. 3), and a practice — reading, writing, evaluating, and self-examining (Ch. 4).
 
-Part II turns to the terrain: knowledge and its limits. The order is deliberate. The problems of epistemology are intoxicating — the sceptic’s challenge, the Gettier problem, the regress of justification — and a reader who encounters them without the instruments of Part I will be swept along by whichever argument she reads last. A reader who has the instruments will be able to *reconstruct* the arguments, *diagnose* their failures, and *assess* their strength. That is the difference between reading philosophy and *doing* it.
+Part II turns to the terrain: knowledge and its limits. The order is deliberate. The problems of epistemology are intoxicating — the skeptic’s challenge, the Gettier problem, the regress of justification — and a reader who encounters them without the instruments of Part I will be swept along by whichever argument she reads last. A reader who has the instruments will be able to *reconstruct* the arguments, *diagnose* their failures, and *assess* their strength. That is the difference between reading philosophy and *doing* it.
 
 The chapter’s closing advice is the one that matters most: **the practices are more important than the doctrines.** The diary, the best objection, the steel man, the confession of ignorance — these are not preliminaries to philosophy; they are philosophy. The doctrines change; the practices are what make the change possible.
 
@@ -729,7 +729,7 @@ The chapter’s closing advice is the one that matters most: **the practices are
 - **On philosophical writing**: Eric Hayot, *The Elements of Academic Style* (2014), for the craft; Helen Sword, *Stylish Academic Writing* (2012), for the sentence; Joseph Williams, *Style: Lessons in Clarity and Grace* (12th ed., 2016), for the given–new contract; Steven Pinker, *The Sense of Style* (2014), for the cognitive science of prose. On the philosophical essay specifically: A. P. Martinich, *Philosophical Writing* (4th ed., 2015).
 - **On reading**: Mortimer Adler and Charles Van Doren, *How to Read a Book* (1940/1972), for the general method; the advice in *The Philosophers’ Magazine* and in departmental writing guides is often more specific. On reading the classics: Bernard Williams, “The Legacy of Greek Philosophy” (1993), and the methodological essays in Richard Sorabji, *Time, Creation and the Continuum* (1983).
 - **On fallacies**: Douglas Walton, *Informal Logic: A Handbook for Critical Argumentation* (1989), and *Appeal to Expert Opinion* (1997), for the nuanced treatments; Charles Hamblin, *Fallacies* (1970), for the history; the *Stanford Encyclopedia* entries on “Fallacies,” “Begging the Question,” and “The Straw Man Fallacy” (by Walton and others). On deepity: Daniel Dennett, “Deepities,” *Boston Review* (2009), and *Intuition Pumps and Other Tools for Thinking* (2013), Ch. 12 (“What Is a Deepity?”). On the motte-and-bailey: Nicholas Shackel, “The Vacuity of Postmodernist Methodology,” *Metaphilosophy* 36(3) (2005): 295–320.
-- **On theory choice**: Thomas Kuhn, *The Structure of Scientific Revolutions* (1962), for the paradigm framework; W. V. O. Quine and J. S. Ullian, *The Web of Belief* (2nd ed., 1978), for the conservative/holistic picture; Elliott Sober, *Simplicity* (1975) and *Ockham’s Razors* (2015), for the analysis of parsimony; Paul Thagard, *Computational Philosophy of Science* (1988), for the attempt to formalise theory choice.
+- **On theory choice**: Thomas Kuhn, *The Structure of Scientific Revolutions* (1962), for the paradigm framework; W. V. O. Quine and J. S. Ullian, *The Web of Belief* (2nd ed., 1978), for the conservative/holistic picture; Elliott Sober, *Simplicity* (1975) and *Ockham’s Razors* (2015), for the analysis of parsimony; Paul Thagard, *Computational Philosophy of Science* (1988), for the attempt to formalize theory choice.
 - **On the ethics of belief**: W. K. Clifford, “The Ethics of Belief” (1877); William James, “The Will to Believe” (1896); the essays in *The Ethics of Belief* (ed. Jonathan Matheson and Rico Vitz, 2014); on epistemic virtue, Linda Zagzebski, *Virtues of the Mind* (1996), and Jason Baehr, *The Inquiring Mind* (2011).
 - **On the vice of cleverness**: the theme is pervasive in the tradition — see Kierkegaard’s critique of the “brilliant” Hegelians in *Concluding Unscientific Postscript* (1846), and Wittgenstein’s remarks on the fly in the fly-bottle and on the “rough” uses of ordinary language (*Philosophical Investigations* §23; *Culture and Value*, 1980). For a contemporary treatment, see the essays on intellectual humility, intellectual vice, and creativity in *The Routledge Handbook of Virtue Epistemology* (ed. Battaly, 2018), Part 2.
 - **On self-examination and the philosophical life**: Pierre Hadot, *Philosophy as a Way of Life* (1981/1995), and *What Is Ancient Philosophy?* (2002); Michel Foucault, *The Care of the Self* (1984/1988); Pierre Hadot’s critique of Foucault is itself instructive. On the diary as a practice, see the Stoic *Meditations* of Marcus Aurelius, and, in a different register, Ludwig Wittgenstein, *Culture and Value* (1980), and the *Diaries* of Simone Weil.

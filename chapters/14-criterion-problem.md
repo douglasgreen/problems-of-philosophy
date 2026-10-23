@@ -13,9 +13,9 @@
 
 Chapter 12 ended with a juxtaposition that needs to be made explicit. The *thought* is anchored in the *object* by a *chain* — causal, testimonial, social — that the *subject* does not fully control. The *inquiry* is anchored in the *world* by a *practice* — perceptual, inferential, testimonial — that the *inquirer* does not fully justify. In both cases, the *anchor* is real, and the *justification* of the anchor is not available from within the practice. The question is whether this is a *defect* of the practice or a *feature* of the epistemic situation.
 
-This chapter is about that question. It is the *meta*-chapter of Part II, and it is the closest the book comes to a *methodological* *conclusion* before Part III. The problem it addresses — the **criterion problem** — is the problem of how we choose among our *sources* of knowledge, our *standards* of assessment, and our *methods* of inquiry. It is the problem that generates *relativism*, and the problem that *relativism* is a response to. It is the problem that makes *scepticism* more than a philosophical curiosity, and the problem that makes *objectivity* more than a slogan.
+This chapter is about that question. It is the *meta*-chapter of Part II, and it is the closest the book comes to a *methodological* *conclusion* before Part III. The problem it addresses — the **criterion problem** — is the problem of how we choose among our *sources* of knowledge, our *standards* of assessment, and our *methods* of inquiry. It is the problem that generates *relativism*, and the problem that *relativism* is a response to. It is the problem that makes *skepticism* more than a philosophical curiosity, and the problem that makes *objectivity* more than a slogan.
 
-The chapter proceeds in seven movements. §1 states the criterion problem. §2 examines the three classical responses — methodism, particularism, scepticism — and the modern retreat to reflective equilibrium. §3 examines epistemic relativism, its varieties, and its arguments. §4 examines the self-refutation objection, and its limits. §5 takes up objectivity, the view from nowhere, and the situated-knowledge critique. §6 examines the error theory about knowledge, and the distinction between scepticism as a *position* and scepticism as a *practice*. §7 offers a diagnosis: what a *durable* anti-sceptical stance looks like. §8 closes Part II.
+The chapter proceeds in seven movements. §1 states the criterion problem. §2 examines the three classical responses — methodism, particularism, skepticism — and the modern retreat to reflective equilibrium. §3 examines epistemic relativism, its varieties, and its arguments. §4 examines the self-refutation objection, and its limits. §5 takes up objectivity, the view from nowhere, and the situated-knowledge critique. §6 examines the error theory about knowledge, and the distinction between skepticism as a *position* and skepticism as a *practice*. §7 offers a diagnosis: what a *durable* anti-skeptical stance looks like. §8 closes Part II.
 
 ---
 
@@ -51,7 +51,7 @@ $$
 
 The argument is *valid*, and the conclusion is *not* that knowledge is impossible. The conclusion is that the *justification* of the *criterion* cannot be *foundationalist*. It must be *circular*, *holistic*, or *pragmatic*. The *question* is which.
 
-**The two versions.** The problem can be stated *sceptically* (as an argument for *no knowledge*) or *constructively* (as an argument for a *non-foundationalist* *epistemology*). The *sceptical* version is Sextus’s; the *constructive* version is Chisholm’s. The *difference* is *which* premise is *emphasized*.
+**The two versions.** The problem can be stated *skeptically* (as an argument for *no knowledge*) or *constructively* (as an argument for a *non-foundationalist* *epistemology*). The *skeptical* version is Sextus’s; the *constructive* version is Chisholm’s. The *difference* is *which* premise is *emphasized*.
 
 ### 1.2 Sextus and the diallelus
 
@@ -69,7 +69,7 @@ Sextus Empiricus states the problem in the *Outlines of Pyrrhonism* II.20, and t
 4. **The criterion**: the question of *which* criterion is itself *undecided*.
 5. **Relativity**: the criterion is *relative* to the *subject*, the *object*, or the *circumstances*.
 
-**The *sceptical* *conclusion*.** The *diallelus* *establishes* that no *criterion* can be *justified* without *circularity*. The *Pyrrhonian* *response* is *suspension* of *judgment* (*epochē*) — not a *denial* of knowledge, but a *refusal* to *assert*.
+**The *skeptical* *conclusion*.** The *diallelus* *establishes* that no *criterion* can be *justified* without *circularity*. The *Pyrrhonian* *response* is *suspension* of *judgment* (*epochē*) — not a *denial* of knowledge, but a *refusal* to *assert*.
 
 **The *constructive* *reading*.** The *diallelus* establishes that the *justification* of the criterion cannot be *foundationalist*. It does *not* establish that the criterion cannot be *justified* at all. The *non*-foundationalist *justifications* — *coherentist*, *pragmatic*, *particularist* — are *responses* to the problem.
 
@@ -87,7 +87,7 @@ The circle has a *precise* structure, and the structure is worth distinguishing 
 
 **The *methodist* *answer*.** The circle is *vicious* if the criterion is *not* *independently* *justified*. The *method* must be *established* *first*, and the *particulars* are *assessed* by it.
 
-**The *sceptical* *answer*.** The circle is *vicious*, and the *only* response is *suspension*.
+**The *skeptical* *answer*.** The circle is *vicious*, and the *only* response is *suspension*.
 
 The *disagreement* is about the *order* of *justification*, not about the *content* of the *criteria*. It is a *dispute* about *which* *elements* are *epistemically* *prior*.
 
@@ -95,7 +95,7 @@ The *disagreement* is about the *order* of *justification*, not about the *conte
 
 The criterion problem is not a *technical* *curiosity*. It matters for *three* reasons.
 
-**(i) It is the form of the sceptical problem.** The *sceptical* arguments of Ch. 6 (the dream, the demon, the BIV) are *instances* of the criterion problem: they *question* the *criterion* (perception) by *questioning* the *instances* (the perceptual beliefs). The *responses* to scepticism are *responses* to the criterion problem.
+**(i) It is the form of the skeptical problem.** The *skeptical* arguments of Ch. 6 (the dream, the demon, the BIV) are *instances* of the criterion problem: they *question* the *criterion* (perception) by *questioning* the *instances* (the perceptual beliefs). The *responses* to skepticism are *responses* to the criterion problem.
 
 **(ii) It is the form of the relativist challenge.** If the criterion is *not* *universal* — if it is *relative* to a *culture*, a *paradigm*, or a *community* — then the *objectivity* of knowledge is *threatened*. The *relativism* of §3 is the *claim* that the criterion is *local*, and the *objectivity* of §5 is the *claim* that it is *not*.
 
@@ -113,7 +113,7 @@ Chisholm (*The Problem of the Criterion*, 1973) distinguishes *three* *responses
 |---|---|---|---|
 | **Methodism** | The criterion (B) | Derive the instances (A) from the criterion | Descartes; Locke; the empiricists |
 | **Particularism** | The instances (A) | Derive the criterion (B) from the instances | Reid; Moore; Chisholm |
-| **Scepticism** | Neither | Suspend judgment | Sextus; Hume (in the *Enquiry* XII) |
+| **Skepticism** | Neither | Suspend judgment | Sextus; Hume (in the *Enquiry* XII) |
 
 **The *logic* of the *dispute*.** The three positions are *not* *symmetrical*. Each *begins* with a *different* *class* of *propositions* as *epistemically* *prior*, and the *priority* is *itself* what is *at issue*. The *dispute* is *not* about *which* *propositions* are *true*; it is about *which* *propositions* are *basic*.
 
@@ -134,15 +134,15 @@ $$
 \end{array}
 $$
 
-**The *proponents*.** Thomas Reid (*Inquiry*, 1764; *Essays on the Intellectual Powers*, 1785), G. E. Moore (“A Defence of Common Sense,” 1925; “Proof of an External World,” 1939), and Chisholm (*Theory of Knowledge*, 1966; *The Problem of the Criterion*, 1973).
+**The *proponents*.** Thomas Reid (*Inquiry*, 1764; *Essays on the Intellectual Powers*, 1785), G. E. Moore (“A Defense of Common Sense,” 1925; “Proof of an External World,” 1939), and Chisholm (*Theory of Knowledge*, 1966; *The Problem of the Criterion*, 1973).
 
 **The *Moore* *version*.** Moore’s *proof* of an external world (Ch. 6, §6.1) is the *paradigm* of *particularism*: the *premise* (“here is one hand”) is *more* *certain* than any *philosophical* *argument* against it, and the *philosophical* *argument* is *rejected* because its *premises* are *less* *certain*.
 
 **The *Reid* *version*.** Reid’s *appeal* to *common sense* is the *systematic* *version*: the *principles* of *common sense* are *constitutive* of *human* *cognition*, and the *philosophical* *criterion* is *assessed* by its *fit* with them.
 
-**The *objection*.** The *particularist* *begs* the *question* against the *sceptic*. The *sceptic* *denies* that the *particular* *instances* are *certain*, and the *particularist* *asserts* that they are. The *dispute* is *not* *resolved*; it is *restated*. (This is the *objection* of Ch. 6, §6.1, and it is the *strongest* *objection* to *Moore*.)
+**The *objection*.** The *particularist* *begs* the *question* against the *skeptic*. The *skeptic* *denies* that the *particular* *instances* are *certain*, and the *particularist* *asserts* that they are. The *dispute* is *not* *resolved*; it is *restated*. (This is the *objection* of Ch. 6, §6.1, and it is the *strongest* *objection* to *Moore*.)
 
-**The *reply*.** The *particularist* *does* not *claim* to *refute* the *sceptic*. She *claims* that the *sceptic*’s *argument* is *less* *certain* than the *instances* it *attacks*, and the *claim* is *itself* a *substantive* *epistemic* *assessment*. The *reply* is *not* *viciously* *circular* (it does not *assume* the *conclusion*); it is *holistically* *circular* (it *places* the *instances* and the *criterion* in a *mutually* *supporting* *structure*).
+**The *reply*.** The *particularist* *does* not *claim* to *refute* the *skeptic*. She *claims* that the *skeptic*’s *argument* is *less* *certain* than the *instances* it *attacks*, and the *claim* is *itself* a *substantive* *epistemic* *assessment*. The *reply* is *not* *viciously* *circular* (it does not *assume* the *conclusion*); it is *holistically* *circular* (it *places* the *instances* and the *criterion* in a *mutually* *supporting* *structure*).
 
 ### 2.3 The methodist argument
 
@@ -164,9 +164,9 @@ $$
 
 **The *virtue*.** The *methodist* *offers* a *justification* of the *criterion* that is *not* *circular*: the *analysis* of the *concept* of knowledge *yields* the *criterion*, and the *criterion* is *assessed* by its *adequacy* to the *concept*.
 
-**The *objection*.** The *analysis* *presupposes* the *criterion*. To *analyse* the *concept* of knowledge, one must *know* which *cases* fall under it, and the *knowledge* *presupposes* the *criterion*. (This is the criterion problem in *analytic* *form*, and it is the *objection* that *Chisholm* *presses*.)
+**The *objection*.** The *analysis* *presupposes* the *criterion*. To *analyze* the *concept* of knowledge, one must *know* which *cases* fall under it, and the *knowledge* *presupposes* the *criterion*. (This is the criterion problem in *analytic* *form*, and it is the *objection* that *Chisholm* *presses*.)
 
-**The *reply*.** The *analysis* is *a priori*: it does *not* *require* *empirical* *cases*; it *requires* only the *competent* *use* of the *concept*. The *reply* is the *conceptual* *analysis* *defence* (Ch. 3, §1), and it is *contested* (Ch. 3, §1.4).
+**The *reply*.** The *analysis* is *a priori*: it does *not* *require* *empirical* *cases*; it *requires* only the *competent* *use* of the *concept*. The *reply* is the *conceptual* *analysis* *defense* (Ch. 3, §1), and it is *contested* (Ch. 3, §1.4).
 
 ### 2.4 The retreat to reflective equilibrium
 
@@ -180,7 +180,7 @@ The *modern* *consensus* is that *neither* *methodism* *nor* *particularism* is 
 
 **The *objection*.** The *view* *is* *conservative*: it *starts* with the *instances* and *criteria* that *we* *happen* to *have*, and the *equilibrium* *may* *preserve* *prejudice*. (This is the *objection* of Ch. 3, §4.3, and it is *particularly* *acute* for the *criterion* *problem*, because the *criterion* is *the* *instrument* by which *prejudice* is *detected*.)
 
-**The *reply*.** The *view* *is* *wide*, not *narrow*: the *equilibrium* *includes* the *background* *theories* (metaphysics, psychology, the social *sciences*), and the *background* can *overturn* the *narrow* *equilibrium*. The *reply* *is* *promising*, but the *width* is *not* *guaranteed*, and the *guarantee* is *precisely* what the *sceptic* *asks* for.
+**The *reply*.** The *view* *is* *wide*, not *narrow*: the *equilibrium* *includes* the *background* *theories* (metaphysics, psychology, the social *sciences*), and the *background* can *overturn* the *narrow* *equilibrium*. The *reply* *is* *promising*, but the *width* is *not* *guaranteed*, and the *guarantee* is *precisely* what the *skeptic* *asks* for.
 
 ### 2.5 The residue
 
@@ -191,7 +191,7 @@ The *criterion* *problem* is *not* *solved* by *any* of the *three* *responses*.
 | **Methodism** | To the *analysis* of the *concept* | The *analysis* presupposes the *criterion* |
 | **Particularism** | To the *certainty* of the *instances* | The *certainty* is *contestable* |
 | **Reflective equilibrium** | To the *coherence* of the *system* | The *system* may be *coherent* and *false* |
-| **Scepticism** | To the *suspension* of *judgment* | The *suspension* is *not* a *solution* |
+| **Skepticism** | To the *suspension* of *judgment* | The *suspension* is *not* a *solution* |
 
 The *residue* is the *same* in each case: the *justification* of the *criterion* is *circular*, and the *circularity* is *not* *eliminated*; it is *made* *self-conscious*. The *question* is whether the *self-consciousness* is *a* *form* of *justification* or a *confession* of *failure*.
 
@@ -248,9 +248,9 @@ $$
 
 **The *structure*.** The argument is a *reductio*: the *thesis* *generates* its *own* *negation*. It is the *paradigm* of the *self-refutation* *argument* (§4).
 
-### 3.3 The Strong Programme
+### 3.3 The Strong Program
 
-The *most* *influential* *sociological* *relativism* is the **Strong Programme** in the *sociology* of *scientific* *knowledge* (SSK), associated with the *Edinburgh* *School* (Bloor 1976; Barnes 1974).
+The *most* *influential* *sociological* *relativism* is the **Strong Program** in the *sociology* of *scientific* *knowledge* (SSK), associated with the *Edinburgh* *School* (Bloor 1976; Barnes 1974).
 
 **The *four* *tenets* (Bloor, *Knowledge and Social Imagery*, 1976, p. 5).**
 
@@ -261,17 +261,17 @@ The *most* *influential* *sociological* *relativism* is the **Strong Programme**
 
 **The *symmetry* *thesis* is the *radical* *one*.** It *denies* that *true* *beliefs* have a *special* *epistemic* *status*; *all* *beliefs* — *true* and *false* — are *explained* by *social* *causes*. The *consequence*: the *content* of *science* is *not* *determined* by *nature*; it is *determined* by *social* *interests*.
 
-**The *paradigm* *case*. Latour and Woolgar’s *Laboratory Life* (1979), and Latour’s *Science in Action* (1987): the *“discovery”* of *thyrotropin-releasing* *hormone* (TRH) is *analysed* as a *process* of *social* *negotiation*, in which the *“fact”* is *constructed* by the *actors*, not *discovered* in *nature*.
+**The *paradigm* *case*. Latour and Woolgar’s *Laboratory Life* (1979), and Latour’s *Science in Action* (1987): the *“discovery”* of *thyrotropin-releasing* *hormone* (TRH) is *analyzed* as a *process* of *social* *negotiation*, in which the *“fact”* is *constructed* by the *actors*, not *discovered* in *nature*.
 
 **The *objections*.**
 
-**(i) The *reflexivity* *problem*.** If *all* *beliefs* are *determined* by *social* *interests*, then the *Strong* *Programme* *itself* is *determined* by *social* *interests*, and its *claim* to *truth* is *undermined*. (Bloor *accepts* the *consequence*: the *reflexivity* is a *virtue*; it *shows* that the *theory* is *consistent*. The *reply* is *contested*: the *consistency* is *not* *truth*.)
+**(i) The *reflexivity* *problem*.** If *all* *beliefs* are *determined* by *social* *interests*, then the *Strong* *Program* *itself* is *determined* by *social* *interests*, and its *claim* to *truth* is *undermined*. (Bloor *accepts* the *consequence*: the *reflexivity* is a *virtue*; it *shows* that the *theory* is *consistent*. The *reply* is *contested*: the *consistency* is *not* *truth*.)
 
-**(ii) The *“success”* *problem*.** The *Strong* *Programme* *cannot* *explain* *why* *science* *is* *successful*. If *all* *beliefs* are *socially* *caused*, the *success* of *science* is a *coincidence* — and the *coincidence* is *unexplained*. (The *reply*: *success* is *itself* a *social* *category*; the *reply* is *weak*.)
+**(ii) The *“success”* *problem*.** The *Strong* *Program* *cannot* *explain* *why* *science* *is* *successful*. If *all* *beliefs* are *socially* *caused*, the *success* of *science* is a *coincidence* — and the *coincidence* is *unexplained*. (The *reply*: *success* is *itself* a *social* *category*; the *reply* is *weak*.)
 
-**(iii) The *“truth”* *problem*.** The *Strong* *Programme* *brackets* the *question* of *truth*, and the *bracketing* is *not* *neutral*: it *presupposes* that *truth* is *not* *explanatorily* *relevant*. The *presupposition* is *a* *philosophical* *thesis*, and it is *not* *established* by the *sociological* *method*.
+**(iii) The *“truth”* *problem*.** The *Strong* *Program* *brackets* the *question* of *truth*, and the *bracketing* is *not* *neutral*: it *presupposes* that *truth* is *not* *explanatorily* *relevant*. The *presupposition* is *a* *philosophical* *thesis*, and it is *not* *established* by the *sociological* *method*.
 
-**The *state* *of* the *debate*.** The *Strong* *Programme* *has* *won* *methodological* *battles* (the *social* *dimension* of *science* is *now* *recognized*) and *lost* *philosophical* ones (the *radical* *symmetry* is *widely* *rejected*). The *contemporary* *sociology* of *science* is *more* *modest*: it *studies* the *social* *conditions* of *science* without *denying* the *epistemic* *authority* of *evidence*.
+**The *state* *of* the *debate*.** The *Strong* *Program* *has* *won* *methodological* *battles* (the *social* *dimension* of *science* is *now* *recognized*) and *lost* *philosophical* ones (the *radical* *symmetry* is *widely* *rejected*). The *contemporary* *sociology* of *science* is *more* *modest*: it *studies* the *social* *conditions* of *science* without *denying* the *epistemic* *authority* of *evidence*.
 
 ### 3.4 Rorty and the conversation
 
@@ -316,7 +316,7 @@ Boghossian (*Fear of Knowledge*, 2006) *reconstructs* the *arguments* for *relat
 
 ### 4.1 The form of the argument
 
-The **self-refutation argument** is the *standard* *response* to *relativism*, and it is the *standard* *response* to *scepticism* (Ch. 6, §3.3). Its *form* is *simple*:
+The **self-refutation argument** is the *standard* *response* to *relativism*, and it is the *standard* *response* to *skepticism* (Ch. 6, §3.3). Its *form* is *simple*:
 
 $$
 \begin{array}{ll}
@@ -339,7 +339,7 @@ The *argument* is a *reductio*: the *thesis* *refutes* *itself*.
 **The *classic* *examples*.**
 
 - **Protagoras** (*Theaetetus* 171a; §3.2).
-- **The *sceptic*** (Ch. 6, §3.3).
+- **The *skeptic*** (Ch. 6, §3.3).
 - **The *relativist*** (the *contemporary* *debate*).
 - **The *eliminativist* *about* *the* *mental*** (the *statement* of *eliminativism* *presupposes* the *mental* *states* it *denies*; Ch. 23, §6).
 
@@ -389,7 +389,7 @@ The *self-refutation* *argument* is a *powerful* *weapon*, and it has *limits*.
 
 **(i) It is a *local* *weapon*.** The *argument* *refutes* a *thesis* by *showing* that it *implies* its *own* *negation*. It *does* *not* *establish* the *negation*; it *establishes* that the *thesis* *cannot* be *maintained*.
 
-**(ii) It is *dialectical*.** The *argument* *works* only against a *thesis* that *claims* *universal* *validity*. A *thesis* that *expressly* *limits* its *scope* — *local* *relativism*, *therapeutic* *scepticism*, *hinge* *epistemology* — *escapes* the *argument*.
+**(ii) It is *dialectical*.** The *argument* *works* only against a *thesis* that *claims* *universal* *validity*. A *thesis* that *expressly* *limits* its *scope* — *local* *relativism*, *therapeutic* *skepticism*, *hinge* *epistemology* — *escapes* the *argument*.
 
 **(iii) It is *not* a *justification*.** The *argument* *refutes* the *opponent*; it *does* *not* *establish* *one*’s *own* *position*. The *refutation* of *relativism* is *not* the *proof* of *objectivity*.
 
@@ -427,7 +427,7 @@ $$
 
 Donna Haraway’s “Situated Knowledges” (1988) is the *most* *influential* *feminist* *response* to Nagel.
 
-**The *critique*. The *“god* *trick”*** — the *pretence* of *seeing* *everything* *from* *nowhere* — is *false*, and it is *politically* *dangerous*: it *masks* the *particular* *perspective* of the *powerful* as *universal*.
+**The *critique*. The *“god* *trick”*** — the *pretense* of *seeing* *everything* *from* *nowhere* — is *false*, and it is *politically* *dangerous*: it *masks* the *particular* *perspective* of the *powerful* as *universal*.
 
 **The *alternative*. **Situated* *knowledge*: the *knowledge* *that* is *achieved* *from* a *particular* *location*, and that is *objective* *because* it is *accountable*.
 
@@ -502,7 +502,7 @@ The *contemporary* *consensus* is a **thin** *conception* of *objectivity*, anal
 
 ---
 
-## 6. Error Theory and the Two Scepticisms
+## 6. Error Theory and the Two Skepticisms
 
 ### 6.1 The error theory about knowledge
 
@@ -540,11 +540,11 @@ The *worry* has *two* *forms*.
 
 The *worry* is *not* *resolved*, and it is the *reason* the *error* *theory* *about* *knowledge* is a *minority* *position*.
 
-### 6.3 Scepticism as position versus practice
+### 6.3 Skepticism as position versus practice
 
-The *most* *important* *distinction* of the *chapter* is between *scepticism* as a *position* and *scepticism* as a *practice*.
+The *most* *important* *distinction* of the *chapter* is between *skepticism* as a *position* and *skepticism* as a *practice*.
 
-| Scepticism as position | Scepticism as practice |
+| Skepticism as position | Skepticism as practice |
 |---|---|
 | The *thesis* that knowledge is impossible | The *discipline* of suspending judgment |
 | *Asserts* a *claim* | *Tests* *claims* |
@@ -553,20 +553,20 @@ The *most* *important* *distinction* of the *chapter* is between *scepticism* as
 
 **The *practice*.** The *Pyrrhonian* *practice* — the *discipline* of *suspending* *judgment* — is *not* the *thesis* that *knowledge* is *impossible*. It is the *discipline* of *resisting* *dogma*, *testing* *claims*, and *acknowledging* *uncertainty*. The *discipline* is *compatible* with a *robust* *epistemology*, because the *discipline* *uses* *knowledge* (the *knowledge* of *how* to *test*) and *improves* it.
 
-**The *application*.** The *sceptical* *practice* is the *basis* of:
+**The *application*.** The *skeptical* *practice* is the *basis* of:
 
 - The *critical* *method* of *science* (Popper; Ch. 40, §2).
 - The *Socratic* *practice* of *questioning* (Ch. 54, §4).
 - The *Pyrrhonian* *therapy* of *dogmatism* (Ch. 3, §7).
 - The *epistemic* *virtues* of *humility*, *openness*, and *vigilance* (Ch. 4, §4.6).
 
-**The *lesson*.** The *sceptical* *position* is *self-undermining*; the *sceptical* *practice* is *indispensable*. The *confusion* of the *two* is the *source* of much *of* the *confusion* in *epistemology*, and the *distinction* is the *key* to a *durable* *anti-sceptical* *stance*.
+**The *lesson*.** The *skeptical* *position* is *self-undermining*; the *skeptical* *practice* is *indispensable*. The *confusion* of the *two* is the *source* of much *of* the *confusion* in *epistemology*, and the *distinction* is the *key* to a *durable* *anti-skeptical* *stance*.
 
 ### 6.4 The Pyrrhonian practice and the modern academy
 
 The *Pyrrhonian* *practice* has been *recovered* in the *contemporary* *literature* (Ch. 6, §3.3), and it is *relevant* to the *modern* *academy*.
 
-**The *institutional* *form***. The *seminar*, the *referee* *report*, the *peer* *review*, the *replication* *crisis* — these are *institutions* of the *sceptical* *practice*. Their *function* is to *test* *claims*, *suspend* *judgment*, and *resist* *dogma*.
+**The *institutional* *form***. The *seminar*, the *referee* *report*, the *peer* *review*, the *replication* *crisis* — these are *institutions* of the *skeptical* *practice*. Their *function* is to *test* *claims*, *suspend* *judgment*, and *resist* *dogma*.
 
 **The *virtue*.** The *practice* *requires* the *virtues* of *humility*, *courage*, and *honesty* (Ch. 4, §4). The *virtues* are *not* *optional*; they are *constitutive* of the *practice*.
 
@@ -574,13 +574,13 @@ The *Pyrrhonian* *practice* has been *recovered* in the *contemporary* *literatu
 
 ---
 
-## 7. Diagnosis: A Durable Anti-Sceptical Stance
+## 7. Diagnosis: A Durable Anti-Skeptical Stance
 
 ### 7.1 The problem
 
-The *chapter* has *surveyed* the *criterion* *problem* (§1), the *responses* to it (§2), the *relativist* *challenge* (§3), the *self-refutation* *objection* (§4), the *objectivity* *debate* (§5), and the *error* *theory* (§6). The *question* that *remains* is *constructive*: **what does a *durable* *anti-sceptical* *stance* *look* *like*?**
+The *chapter* has *surveyed* the *criterion* *problem* (§1), the *responses* to it (§2), the *relativist* *challenge* (§3), the *self-refutation* *objection* (§4), the *objectivity* *debate* (§5), and the *error* *theory* (§6). The *question* that *remains* is *constructive*: **what does a *durable* *anti-skeptical* *stance* *look* *like*?**
 
-The *answer* is *not* a *single* *argument*. It is a *structure* — a *configuration* of *positions*, *practices*, and *virtues* that *together* *withstand* the *sceptical* *challenge*.
+The *answer* is *not* a *single* *argument*. It is a *structure* — a *configuration* of *positions*, *practices*, and *virtues* that *together* *withstand* the *skeptical* *challenge*.
 
 **The *elements*.**
 
@@ -591,7 +591,7 @@ The *answer* is *not* a *single* *argument*. It is a *structure* — a *configur
 | **Hinge epistemology** | Some commitments are exempt from doubt | Wittgenstein; Pritchard |
 | **Social calibration** | Objectivity is achieved through criticism | Longino; Fricker |
 | **Fallibilism** | All knowledge is revisable | Peirce; Popper |
-| **The sceptical practice** | Test claims; resist dogma | Sextus; Popper |
+| **The skeptical practice** | Test claims; resist dogma | Sextus; Popper |
 
 The *elements* are *not* *independent*. They are *mutually* *supporting*, and the *support* is the *structure*.
 
@@ -604,14 +604,14 @@ The *first* *element* is *particularism*: the *starting* *point* is *not* the *c
 $$
 \begin{array}{ll}
 1. & \text{Any *philosophical* *argument* *uses* *premises* that are *less* *certain* than the *ordinary* *beliefs* it *attacks*.} \\
-2. & \text{The *ordinary* *beliefs* (that I have hands, that $2+2=4$, that I am in pain) are *more* *certain* than the *premises* of *the* *sceptical* *argument*.} \\
+2. & \text{The *ordinary* *beliefs* (that I have hands, that $2+2=4$, that I am in pain) are *more* *certain* than the *premises* of *the* *skeptical* *argument*.} \\
 3. & \text{In a *conflict* of *certainties*, the *greater* *wins*.} \\
 \hline
-4. & \therefore \text{The *sceptical* *argument* is *unsound*.}
+4. & \therefore \text{The *skeptical* *argument* is *unsound*.}
 \end{array}
 $$
 
-**The *caveat*.** The *argument* is *not* a *refutation* of the *sceptic*; it is a *refusal* to *accept* the *sceptic*’s *framework*. The *refusal* is *itself* a *substantive* *epistemic* *stance*, and it is *defensible* — but it is *not* *demonstrative*.
+**The *caveat*.** The *argument* is *not* a *refutation* of the *skeptic*; it is a *refusal* to *accept* the *skeptic*’s *framework*. The *refusal* is *itself* a *substantive* *epistemic* *stance*, and it is *defensible* — but it is *not* *demonstrative*.
 
 **The *residue*.** The *particularist* *stance* *leaves* the *criterion* *problem* *unresolved*. It *does* not *provide* a *justification* of the *criterion*; it *provides* a *refusal* to *demand* one. The *refusal* is *the* *answer*, and the *answer* is *honest*.
 
@@ -667,7 +667,7 @@ $$
 \end{array}
 $$
 
-**The *caveat*.** Fallibilism is *not* *scepticism*: the *recognition* that a *belief* *might* be *wrong* is *not* the *recognition* that it *is* *wrong*. The *distinction* is *the* *key* to *the* *stance*.
+**The *caveat*.** Fallibilism is *not* *skepticism*: the *recognition* that a *belief* *might* be *wrong* is *not* the *recognition* that it *is* *wrong*. The *distinction* is *the* *key* to *the* *stance*.
 
 ### 7.6 The virtues
 
@@ -694,7 +694,7 @@ The *stance* is *durable* because it *does* not *claim* what it *cannot* *delive
 **It does not claim:**
 
 - **Certainty.** The *stance* *accepts* *fallibilism*.
-- **A *refutation* of the *sceptic*.** The *stance* *acknowledges* that the *sceptic*’s *argument* is *not* *refuted*; it is *resisted*.
+- **A *refutation* of the *skeptic*.** The *stance* *acknowledges* that the *skeptic*’s *argument* is *not* *refuted*; it is *resisted*.
 - **A *foundation*.** The *stance* *accepts* the *criterion* *problem*; it *does* not *solve* it.
 - **A *view* *from* *nowhere*.** The *stance* *accepts* that *objectivity* is *situated* and *social*.
 - **The *elimination* of *disagreement*.** The *stance* *accepts* that *disagreement* is *permanent* (Ch. 9, §6).
@@ -703,7 +703,7 @@ The *stance* is *durable* because it *does* not *claim* what it *cannot* *delive
 
 - **The *practice* of *inquiry* is *justified* — by its *track* *record*, its *self-correction*, and its *fruits*.**
 - **The *justification* is *not* *foundational*, but it is *real*.**
-- **The *alternative* — *relativism*, *scepticism*, *quietism* — is *less* *defensible* than the *practice*.**
+- **The *alternative* — *relativism*, *skepticism*, *quietism* — is *less* *defensible* than the *practice*.**
 
 ### 7.8 The dialectical map
 
@@ -711,7 +711,7 @@ The *stance* is *durable* because it *does* not *claim* what it *cannot* *delive
 |---|---|---|---|
 | **Dogmatism** | Certainty | Fallibility | Unstable |
 | **Classical foundationalism** | A foundation | The criterion problem | Refuted (Ch. 8, §2) |
-| **Scepticism** | Consistency | Knowledge | Self-undermining |
+| **Skepticism** | Consistency | Knowledge | Self-undermining |
 | **Relativism** | Tolerance | Objectivity | Self-undermining |
 | **Quietism** | Peace | The philosophical project | Unsatisfying |
 | **The durable stance** | Knowledge, fallibly | Certainty | Defensible |
@@ -724,14 +724,14 @@ The *table* is a *map*, not a *verdict*. The *durable* *stance* is *not* *the* *
 
 ### 8.1 The arc of Part II
 
-Part II began with *perception* (Ch. 5), and it ended with *the* *criterion*. The *arc* is *not* *accidental*: the *perceptual* *starting* *point* *generates* the *sceptical* *problem* (Ch. 6), the *sceptical* *problem* *generates* the *analysis* of *knowledge* (Ch. 7), the *analysis* *generates* the *theory* of *justification* (Ch. 8), the *theory* *generates* the *theory* of the *a* *priori* (Ch. 9) and *induction* (Ch. 10), the *two* *sources* *generate* the *social* *turn* (Ch. 11), the *social* *turn* *generates* the *theory* of *reference* (Ch. 12), and the *theory* of *reference* *generates* the *criterion* *problem* (this *chapter*). The *arc* is a *spiral*: each *step* *returns* to the *starting* *point*, but at a *higher* *level of *complexity*.
+Part II began with *perception* (Ch. 5), and it ended with *the* *criterion*. The *arc* is *not* *accidental*: the *perceptual* *starting* *point* *generates* the *skeptical* *problem* (Ch. 6), the *skeptical* *problem* *generates* the *analysis* of *knowledge* (Ch. 7), the *analysis* *generates* the *theory* of *justification* (Ch. 8), the *theory* *generates* the *theory* of the *a* *priori* (Ch. 9) and *induction* (Ch. 10), the *two* *sources* *generate* the *social* *turn* (Ch. 11), the *social* *turn* *generates* the *theory* of *reference* (Ch. 12), and the *theory* of *reference* *generates* the *criterion* *problem* (this *chapter*). The *arc* is a *spiral*: each *step* *returns* to the *starting* *point*, but at a *higher* *level of *complexity*.
 
 **The *result*.** The *result* is *not* a *system*. It is a *map* of the *options*, a *set* of *distinctions*, and a *repertoire* of *arguments*. The *map* is *the* *contribution*.
 
 ### 8.2 What Part II established
 
 - **The *perceptual* *starting* *point* is *not* *foundational* (Ch. 5; Ch. 8).
-- **The *sceptical* *problem* is *not* *refuted*, but it is *resisted* (Ch. 6; this *chapter*).
+- **The *skeptical* *problem* is *not* *refuted*, but it is *resisted* (Ch. 6; this *chapter*).
 - **The *analysis* of *knowledge* is *not* *complete*, but it is *illuminating* (Ch. 7).
 - **The *theory* of *justification* is *not* *settled*, but it is *structured* (Ch. 8).
 - **The *a* *priori* and *induction* are *real* *sources*, but *thin* *and* *fallible* (Chs. 9–10).
@@ -759,7 +759,7 @@ The *metaphysical* *questions* are *not* *independent* of the *epistemological* 
 
 ### 8.4 The hinge
 
-The *chapter* — and *Part II* — *ends* with a *hinge*. The *hinge* is the *recognition* that *inquiry* is *possible* *despite* the *criterion* *problem*, and that *knowledge* is *real* *despite* the *sceptical* *challenge*. The *recognition* is *not* a *proof*; it is a *commitment*. And the *commitment* is the *starting* *point* of *metaphysics*.
+The *chapter* — and *Part II* — *ends* with a *hinge*. The *hinge* is the *recognition* that *inquiry* is *possible* *despite* the *criterion* *problem*, and that *knowledge* is *real* *despite* the *skeptical* *challenge*. The *recognition* is *not* a *proof*; it is a *commitment*. And the *commitment* is the *starting* *point* of *metaphysics*.
 
 **The *Wittgensteinian* *formula* (*On Certainty*, §341):**
 
@@ -775,7 +775,7 @@ The *chapter* — and *Part II* — *ends* with a *hinge*. The *hinge* is the *r
 
 Cross-cutting material, for the reader who wants to go deeper.
 
-**1. The *meta-*criterion* *problem*.** The *criterion* *problem* *has* a *meta-*version: how do we *choose* *among* the *responses* (methodism, particularism, equilibrium)? The *choice* *presupposes* a *criterion*, and the *criterion* *presupposes* the *choice*. The *regress* *is* *the* *problem*, and it is *the* *most* *general* *form* of the *sceptical* *challenge*.
+**1. The *meta-*criterion* *problem*.** The *criterion* *problem* *has* a *meta-*version: how do we *choose* *among* the *responses* (methodism, particularism, equilibrium)? The *choice* *presupposes* a *criterion*, and the *criterion* *presupposes* the *choice*. The *regress* *is* *the* *problem*, and it is *the* *most* *general* *form* of the *skeptical* *challenge*.
 
 **2. The *Bayesian* *treatment* of *criterion* *choice*.** The *Bayesian* *framework* (Ch. 10, §4) *models* the *choice* *among* *criteria* as a *choice* *among* *priors*. The *choice* is *not* *justified* by the *evidence* (the *priors* *precede* the *evidence*), and the *framework* *relocates* the *problem* to the *priors*. The *relocation* is the *Bayesian* *form* of the *criterion* *problem*.
 
@@ -790,14 +790,14 @@ Cross-cutting material, for the reader who wants to go deeper.
 ## Summary
 
 - **The criterion problem** is the problem that the *extent* of knowledge (A) and the *criterion* of knowledge (B) cannot be *justified* *independently* of each other. The *problem* is stated by *Sextus* (the *diallelus*) and *Chisholm* (the *two* *questions*).
-- **The three responses** — *methodism* (criterion first), *particularism* (instances first), *scepticism* (neither) — each *presuppose* what they *seek* to *justify*. The *modern* *retreat* is to *reflective* *equilibrium*, which *adjusts* the *instances* and the *criteria* to *mutual* *coherence*, and *leaves* the *circularity* *self-conscious*.
-- **Epistemic relativism** is the *claim* that *justification* is *relative* to an *epistemic* *system*. Its *varieties* include *individual* (Protagoras), *cultural*, *conceptual*, *sociological* (the Strong Programme), and *pragmatic* (Rorty). The *arguments* for *relativism* *slide* from *descriptive* *premises* to *normative* *conclusions*, and the *slide* is *unjustified* (Boghossian).
-- **The self-refutation argument** is the *standard* *response* to *relativism* and *scepticism*. Its *limits*: it is *local* (it *refutes* but does not *establish*), *dialectical* (it *works* only against *universal* *claims*), *non-justificatory* (it *refutes* the *opponent* but does not *establish* one’s *own* *position*), and *potentially* *self-refuting* (it *presupposes* *logical* *norms*).
+- **The three responses** — *methodism* (criterion first), *particularism* (instances first), *skepticism* (neither) — each *presuppose* what they *seek* to *justify*. The *modern* *retreat* is to *reflective* *equilibrium*, which *adjusts* the *instances* and the *criteria* to *mutual* *coherence*, and *leaves* the *circularity* *self-conscious*.
+- **Epistemic relativism** is the *claim* that *justification* is *relative* to an *epistemic* *system*. Its *varieties* include *individual* (Protagoras), *cultural*, *conceptual*, *sociological* (the Strong Program), and *pragmatic* (Rorty). The *arguments* for *relativism* *slide* from *descriptive* *premises* to *normative* *conclusions*, and the *slide* is *unjustified* (Boghossian).
+- **The self-refutation argument** is the *standard* *response* to *relativism* and *skepticism*. Its *limits*: it is *local* (it *refutes* but does not *establish*), *dialectical* (it *works* only against *universal* *claims*), *non-justificatory* (it *refutes* the *opponent* but does not *establish* one’s *own* *position*), and *potentially* *self-refuting* (it *presupposes* *logical* *norms*).
 - **Objectivity** is *not* the *view* *from* *nowhere*. It is a *direction* (Nagel), *situated* and *accountable* (Haraway), *socially* *achieved* (Longino), *entangled* with *value* (Putnam), and *fallible* (the *fallibilist* *consensus*). The *thin* *conception* is the *best* *available*.
 - **The error theory about knowledge** is the *analogue* of *Mackie’s* *moral* *error* *theory*. It is *self-undermining* (the *assertion* *presupposes* the *norm* it *denies*), and the *replies* are *unstable*.
-- **Scepticism as a *position*** is *self-undermining*; **scepticism as a *practice*** is *indispensable*. The *confusion* of the *two* is the *source* of much *confusion*, and the *distinction* is the *key* to a *durable* *anti-sceptical* *stance*.
-- **The durable stance** is *particularist* (start with *instances*), *equilibrist* (adjust to *coherence*), *social* (calibrate through *criticism*), *fallibilist* (accept *revisability*), and *virtuous* (cultivate *humility*, *courage*, *honesty*). It *does* not *claim* *certainty*, a *refutation* of the *sceptic*, a *foundation*, or a *view* *from* *nowhere*. It *does* claim that the *practice* of *inquiry* is *justified* — by its *track* *record*, its *self-correction*, and its *fruits*.
-- **Part II ends** with a *hinge*: the *recognition* that *inquiry* is *possible* *despite* the *criterion* *problem*, and that *knowledge* is *real* *despite* the *sceptical* *challenge*. The *hinge* is the *starting* *point* of *metaphysics*.
+- **Skepticism as a *position*** is *self-undermining*; **skepticism as a *practice*** is *indispensable*. The *confusion* of the *two* is the *source* of much *confusion*, and the *distinction* is the *key* to a *durable* *anti-skeptical* *stance*.
+- **The durable stance** is *particularist* (start with *instances*), *equilibrist* (adjust to *coherence*), *social* (calibrate through *criticism*), *fallibilist* (accept *revisability*), and *virtuous* (cultivate *humility*, *courage*, *honesty*). It *does* not *claim* *certainty*, a *refutation* of the *skeptic*, a *foundation*, or a *view* *from* *nowhere*. It *does* claim that the *practice* of *inquiry* is *justified* — by its *track* *record*, its *self-correction*, and its *fruits*.
+- **Part II ends** with a *hinge*: the *recognition* that *inquiry* is *possible* *despite* the *criterion* *problem*, and that *knowledge* is *real* *despite* the *skeptical* *challenge*. The *hinge* is the *starting* *point* of *metaphysics*.
 
 ---
 
@@ -805,18 +805,18 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 1. State the criterion problem in Chisholm’s two-question form. Is the problem *solved* by *particularism*, *methodism*, or *reflective equilibrium*? What is the *residue* in each case?
 2. Reconstruct Plato’s refutation of Protagoras. Is it *decisive*? What is the *best* *relativist* *reply*?
-3. What is the *Strong Programme*? Is its *symmetry* *thesis* *defensible*? What is the *reflexivity* *problem*, and is it *fatal*?
+3. What is the *Strong Program*? Is its *symmetry* *thesis* *defensible*? What is the *reflexivity* *problem*, and is it *fatal*?
 4. Is Rorty’s *ethnocentrism* a *position* or a *confession*? What does the *answer* *imply* for the *relativism* *debate*?
 5. State the *self-refutation* *argument* in its *three* *forms* (logical, performative, pragmatic). What are its *limits*?
 6. Is the *indexical* *reply* to the *self-refutation* *argument* *successful*? What does the *answer* *imply* for the *relativism* *debate*?
-7. What is the *companions-in-guilt* *argument*? Is it a *defence* of *relativism* or a *refutation* of the *self-refutation* *objection*?
+7. What is the *companions-in-guilt* *argument*? Is it a *defense* of *relativism* or a *refutation* of the *self-refutation* *objection*?
 8. What is the *view* *from* *nowhere*? Is it *achievable*? Is it *desirable*?
 9. What is *situated* *knowledge*? Is it *relativist*? What is the *epistemic* *privilege* *thesis*, and is it *defensible*?
 10. What are Longino’s *four* *conditions* of *objectivity*? Are they *sufficient*? Are they *realizable*?
 11. What is the *fact/value* *entanglement*? Does it *threaten* the *objectivity* of *knowledge*?
 12. Is the *error theory* *about* *knowledge* *self-undermining*? What is the *strongest* *reply*?
-13. What is the *distinction* between *scepticism* as a *position* and *scepticism* as a *practice*? Is the *distinction* *stable*?
-14. What are the *elements* of the *durable* *anti-sceptical* *stance*? Are they *sufficient*? Are they *compatible*?
+13. What is the *distinction* between *skepticism* as a *position* and *skepticism* as a *practice*? Is the *distinction* *stable*?
+14. What are the *elements* of the *durable* *anti-skeptical* *stance*? Are they *sufficient*? Are they *compatible*?
 15. “The criterion problem is not solved, but it is diagnosed.” Is *diagnosis* a form of *progress*? What does the *answer* *imply* for the *book’s* *thesis*?
 
 ---
@@ -831,12 +831,12 @@ Cross-cutting material, for the reader who wants to go deeper.
 - **On self-refutation**: Sextus Empiricus, *Outlines of Pyrrhonism*, II.20; Plato, *Theaetetus* 171a; J. L. Mackie, “Self-Refutation — A Formal Analysis” (1964); the essays in *The Philosophy of Relativism* (ed. Krausz, 2010).
 - **On objectivity**: Thomas Nagel, *The View from Nowhere* (1986); Donna Haraway, “Situated Knowledges” (1988), in *Simians, Cyborgs, and Women* (1991); Helen Longino, *Science as Social Knowledge* (1990), and *The Fate of Knowledge* (2002); Hilary Putnam, *The Collapse of the Fact/Value Dichotomy* (2002); the essays in *Objectivity* (ed. Gaukroger, 2017); the *Stanford Encyclopedia* entry, “Feminist Epistemology” (Anderson).
 - **On the error theory**: J. L. Mackie, *Ethics: Inventing Right and Wrong* (1977), Ch. 1; the essays in *Moral Error Theory* (ed. Joyce and Kirchin, 2010); the *application* to *epistemology* in the *essays* in *Metaepistemology* (ed. McHugh, Way, and Whiting, 2018).
-- **On scepticism as practice**: Sextus Empiricus, *Outlines of Pyrrhonism*, I; Pierre Hadot, *Philosophy as a Way of Life* (1981/1995); Michel Foucault, *The Care of the Self* (1984); Stanley Cavell, *The Claim of Reason* (1979), Part II; the essays in *The Cambridge Companion to Ancient Scepticism* (ed. Bett, 2010).
+- **On skepticism as practice**: Sextus Empiricus, *Outlines of Pyrrhonism*, I; Pierre Hadot, *Philosophy as a Way of Life* (1981/1995); Michel Foucault, *The Care of the Self* (1984); Stanley Cavell, *The Claim of Reason* (1979), Part II; the essays in *The Cambridge Companion to Ancient Scepticism* (ed. Bett, 2010).
 - **On the social calibration of objectivity**: Helen Longino, *Science as Social Knowledge* (1990), Ch. 3; Miriam Solomon, *Social Empiricism* (2001); Philip Kitcher, *The Advancement of Science* (1993), Ch. 8; the essays in *The Social and Cognitive Studies of Science* (ed. Giere, 1992).
 - **On non-Western responses**: B. K. Matilal, *Perception* (1986), and *The Character of Logic in India* (1998); Jonardon Ganeri, *Philosophy in Classical India* (2001); the essays in *Moonshadows* (ed. the Cowherds, 2011), for the Madhyamaka comparative project.
 
 ---
 
-> *A closing note.* This chapter has followed the tradition’s *deepest* *epistemological* *problem* — the problem of the criterion — through the *classical* *responses*, the *relativist* *challenge*, the *self-refutation* *objection*, the *objectivity* *debate*, and the *error* *theory*. The result is *not* a *solution*, and it is *not* a *capitulation*. It is a *diagnosis*: the criterion problem is *not* a *problem* to be *solved*, but a *condition* to be *acknowledged*. The *acknowledgement* is *the* *beginning* of *wisdom*, and it is *the* *end* of *Part II*.
+> *A closing note.* This chapter has followed the tradition’s *deepest* *epistemological* *problem* — the problem of the criterion — through the *classical* *responses*, the *relativist* *challenge*, the *self-refutation* *objection*, the *objectivity* *debate*, and the *error* *theory*. The result is *not* a *solution*, and it is *not* a *capitulation*. It is a *diagnosis*: the criterion problem is *not* a *problem* to be *solved*, but a *condition* to be *acknowledged*. The *acknowledgment* is *the* *beginning* of *wisdom*, and it is *the* *end* of *Part II*.
 
 > *And a bridge.* Part III turns from *knowledge* to *reality*, and it *begins* with the *question* of *existence* (Ch. 14). The *question* is the *metaphysical* *form* of the *criterion* *problem*: *what* *are* *the* *standards* of *existence*, and *how* do we *choose* *among* them? The *criterion* *problem* *reappears* there as the *problem* of *ontological* *commitment*, and the *diagnosis* of *this* *chapter* — that the *standards* are *internal* to the *practice* and *not* *justified* *from* *outside* — is the *starting* *point* of the *metaphysical* *inquiry*. The *next* *chapter* *takes* *up* the *question*, and it *asks* *what* *it* *means* for *something* *to* *be*.

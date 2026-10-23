@@ -25,7 +25,7 @@ The chapter proceeds in seven movements. §1 examines the *triangle* of *meaning
 
 ### 1.1 The semantic triangle
 
-**The *thesis*** (Ogden & Richards, *The Meaning of Meaning*, 1923, p. 11; the *classical* *formulation*). The *meaning* of a *word* is *analysed* by the *triangle* of *sign*, *thought*, and *object*.
+**The *thesis*** (Ogden & Richards, *The Meaning of Meaning*, 1923, p. 11; the *classical* *formulation*). The *meaning* of a *word* is *analyzed* by the *triangle* of *sign*, *thought*, and *object*.
 
 **The *structure*.
 
@@ -63,7 +63,7 @@ $$
 
 **(i) The *empty*-*name* *objection***. Empty *names* ("Sherlock Holmes," "Vulcan") *mean* *something*, and they *have* *no* *referent*. The *Mililian* *theory* *cannot* *explain* their *meaning* (Ch. 25, §6).
 
-**The *reply***. The *empty* *names* *are* *meaningful* in a *derivative* *sense* (the *pretence*; Ch. 49, §4), and the *reply* *restricts* the *theory* to *referring* *names*. The *reply* is *contested*.
+**The *reply***. The *empty* *names* *are* *meaningful* in a *derivative* *sense* (the *pretense*; Ch. 49, §4), and the *reply* *restricts* the *theory* to *referring* *names*. The *reply* is *contested*.
 
 **(ii) The *informative*-*identity* *objection*** (§2.1). "Hesperus is Phosphorus" is *informative*, and "Hesperus is Hesperus" is *trivial*, and the *difference* *cannot* be *explained* if the *meaning* is the *referent*.
 
@@ -203,7 +203,7 @@ $$
 \text{Meaning}(p) = \text{the set of experiences that would verify } p
 $$
 
-**The *virtue*.** The *theory* *grounds* *meaning* in the *empirical* *evidence*, and it *avoids* the *metaphysical* *speculation* (the *positivist* *programme*; Ch. 9, §2.3).
+**The *virtue*.** The *theory* *grounds* *meaning* in the *empirical* *evidence*, and it *avoids* the *metaphysical* *speculation* (the *positivist* *program*; Ch. 9, §2.3).
 
 **The *objections*.
 
@@ -506,7 +506,7 @@ $$
 $$
 \begin{array}{ll}
 1. & \text{The *vagueness* is a *deficiency* of *the* *language*, not of *the* *world*.} \\
-2. & \text{The *deficiency* is *modelled* by the *admissible* *precisifications*.} \\
+2. & \text{The *deficiency* is *modeled* by the *admissible* *precisifications*.} \\
 3. & \text{The *truth* is *the* *super*-*truth* (the *truth* on all the *precisifications*).} \\
 \hline
 4. & \therefore \text{The *vagueness* is *handled* by the *supervaluation* (the *supervaluationism*).}
@@ -525,7 +525,7 @@ $$
 
 ### 5.4 Degree theories
 
-**The *thesis*** (Machina, "Truth, Belief, and Vagueness," 1976; Smith, *Vagueness and Degrees of Truth*, 2008). The *truth* *is* a *matter* of *degree* (the *sentence* *is* *true* *to* a *degree* $\in [0,1]$), and the *vagueness* is *modelled* by the *degree* of *truth*.
+**The *thesis*** (Machina, "Truth, Belief, and Vagueness," 1976; Smith, *Vagueness and Degrees of Truth*, 2008). The *truth* *is* a *matter* of *degree* (the *sentence* *is* *true* *to* a *degree* $\in [0,1]$), and the *vagueness* is *modeled* by the *degree* of *truth*.
 
 **The *structure*.
 
@@ -704,7 +704,7 @@ $$
 \end{array}
 $$
 
-**The *virtue*.** The *theory* *challenges* the *universalist* *conception* of *thought*, and it *fits* the *empirical* *literature* (the *colour* *terms*, the *spatial* *frames* of *reference*, the *number* *words*; the *contemporary* *literature*).
+**The *virtue*.** The *theory* *challenges* the *universalist* *conception* of *thought*, and it *fits* the *empirical* *literature* (the *color* *terms*, the *spatial* *frames* of *reference*, the *number* *words*; the *contemporary* *literature*).
 
 **The *objections*.
 

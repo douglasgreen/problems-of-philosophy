@@ -14,7 +14,7 @@
 
 ---
 
-Chapter 45 examined the *content* of the moral judgement (the *good*, the *right*, the *virtuous*); Chapter 46 examined its *efficacy* (the *machinery* by which a *judgement* becomes a *motive* and an *attribution*). This chapter examines the *architecture* — the *institutions* through which the *moral* *judgements* are *enforced*, the *coercion* through which the *collective* *life* is *organized*, and the *principles* that *justify* or *condemn* the *coercion*.
+Chapter 45 examined the *content* of the moral judgment (the *good*, the *right*, the *virtuous*); Chapter 46 examined its *efficacy* (the *machinery* by which a *judgment* becomes a *motive* and an *attribution*). This chapter examines the *architecture* — the *institutions* through which the *moral* *judgments* are *enforced*, the *coercion* through which the *collective* *life* is *organized*, and the *principles* that *justify* or *condemn* the *coercion*.
 
 The *transition* is *not* a *leap* into a *new* *subject*. The *political* *philosophy* is the *normative* *ethics* *applied* to the *institutional* *scale*, and the *problems* are the *same* (the *aggregation*, the *demandingness*, the *separateness*, the *responsibility*) *writ* *large* — plus the *problems* that *arise* *only* *collectively* (the *authority*, the *legitimacy*, the *boundary*, the *distributive* *metric*). The *distinction* between the *individual* and the *collective* *agent* is *not* the *distinction* between the *moral* and the *political*; it is the *distinction* between the *micro*-*scale* and the *macro*-*scale* of the *same* *normative* *question*.
 
@@ -35,7 +35,7 @@ The *chapter* proceeds in *nine* *movements*. §1 examines the *legitimacy* *pro
 | **Justice** | The *correct* *distribution*, the *correct* *rules* | Is the *coercion* *just*? |
 | **Legitimacy** | The *moral* *standing* to *impose* the *rules* | May the *coercion* *be* *exercised*? |
 | **Obligation** | The *duty* of the *subject* to *comply* | Must the *agent* *obey*? |
-| **Authority** | The *power* to *bind* the *judgement* and the *will* | Does the *command* *pre*-*empt* the *reasons*? |
+| **Authority** | The *power* to *bind* the *judgment* and the *will* | Does the *command* *pre*-*empt* the *reasons*? |
 | **De facto power** | The *actual* *capacity* to *coerce* | Does the *coercion* *occur*? |
 
 **The *logical* *relations***.
@@ -126,7 +126,7 @@ $$
 
 ### 1.5 The anarchist challenge
 
-**The *thesis*** (Wolff, *In Defense of Anarchism*, 1970, Ch. 1; the *philosophical* *anarchism*; Simmons 1979; Raz 1986, Ch. 4; the *contemporary* *literature*). The *autonomy* (the *duty* to *legislate* for *oneself*) *conflicts* with the *authority* (the *duty* to *obey*), and the *conflict* *is* *irresolvable* (the *autonomy* *requires* the *first*-*person* *judgement*, and the *authority* *requires* the *deference*), and the *political* *authority* *is* *illegitimate*.
+**The *thesis*** (Wolff, *In Defense of Anarchism*, 1970, Ch. 1; the *philosophical* *anarchism*; Simmons 1979; Raz 1986, Ch. 4; the *contemporary* *literature*). The *autonomy* (the *duty* to *legislate* for *oneself*) *conflicts* with the *authority* (the *duty* to *obey*), and the *conflict* *is* *irresolvable* (the *autonomy* *requires* the *first*-*person* *judgment*, and the *authority* *requires* the *deference*), and the *political* *authority* *is* *illegitimate*.
 
 **The *structure***.
 
@@ -138,8 +138,8 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *autonomy* *requires* the *agent* to *act* *on* *her* *own* *judgement* (the *Kantian* *insight*).} \\
-2. & \text{The *authority* *requires* the *agent* to *obey* *the* *command* *regardless* of the *own* *judgement* (the *deference*).} \\
+1. & \text{The *autonomy* *requires* the *agent* to *act* *on* *her* *own* *judgment* (the *Kantian* *insight*).} \\
+2. & \text{The *authority* *requires* the *agent* to *obey* *the* *command* *regardless* of the *own* *judgment* (the *deference*).} \\
 3. & \text{The *two* *cannot* be *reconciled* (the *contradiction*).} \\
 \hline
 4. & \therefore \text{The *political* *authority* *is* *illegitimate* (the *philosophical* *anarchism*).}
@@ -152,11 +152,11 @@ $$
 
 **(i) The *service* *reply*** (§1.2; Raz 1986, Ch. 4). The *autonomy* *is* *satisfied* *by* the *well*-*justified* *authority* (the *agent* *chooses* the *reliable* *authority*; the *service* *insight*), and the *authority* *serves* the *autonomy* (the *agent* *is* *more* *likely* to *comply* with the *reasons*), and the *reply* *reconciles* the *two*.
 
-**The *objection***. The *service* *reply* *rescues* the *theoretical* *authority* (the *advice*) and *not* the *practical* *authority* (the *command*; the *pre*-*emption*), and the *autonomy* *requires* the *first*-*person* *judgement*, and the *reply* is *contested*.
+**The *objection***. The *service* *reply* *rescues* the *theoretical* *authority* (the *advice*) and *not* the *practical* *authority* (the *command*; the *pre*-*emption*), and the *autonomy* *requires* the *first*-*person* *judgment*, and the *reply* is *contested*.
 
 **(ii) The *deliberative* *reply*** (Christiano, *The Constitution of Equality*, 2008, Ch. 2; the *contemporary* *literature*). The *autonomy* *is* *satisfied* *by* the *deliberation* (the *agent* *participates* in the *collective* *will*-*formation*), and the *authority* *is* *the* *collective* *autonomy* (the *democratic* *insight*; §6), and the *reply* *reconciles* the *two*.
 
-**The *objection***. The *deliberative* *reply* *rescues* the *democratic* *authority* (the *collective* *autonomy*) *and* *not* the *individual* *autonomy* (the *dissenter* *is* *bound* *against* the *own* *judgement*), and the *reply* is *contested*.
+**The *objection***. The *deliberative* *reply* *rescues* the *democratic* *authority* (the *collective* *autonomy*) *and* *not* the *individual* *autonomy* (the *dissenter* *is* *bound* *against* the *own* *judgment*), and the *reply* is *contested*.
 
 **(iii) The *a* *posteriori* *anarchism*** (Simmons 1979; the *contemporary* *literature*). The *authority* *is* *legitimate* *when* the *actual* *conditions* *hold* (the *consent*, the *fair* *play*, the *natural* *duty*), and the *conditions* *rarely* *hold* (the *actual* *states* *fail*), and the *reply* *limits* the *anarchism* to the *actual* *states* (the *no* *general* *obligation*) and *not* the *ideal* (the *legitimate* *state* *is* *possible*).
 
@@ -266,7 +266,7 @@ $$
 
 **The *reply*** (the *left* *libertarianism*; Steiner 1994, Ch. 7). The *rectification* *can* be *approximated* (the *global* *fund*, the *resource* *tax*), and the *reply* *grounds* the *rectification* in the *proviso*. The *reply* is *contested* (the *approximation* *is* *indeterminate*).
 
-**(iii) The *no*-*policy* *objection***. The *libertarianism* *cannot* *justify* the *public* *goods* (the *defence*, the *courts*, the *infrastructure*), and the *minimal* *state* *requires* the *taxation*, and the *taxation* *violates* the *liberty*, and the *reply* *fails*.
+**(iii) The *no*-*policy* *objection***. The *libertarianism* *cannot* *justify* the *public* *goods* (the *defense*, the *courts*, the *infrastructure*), and the *minimal* *state* *requires* the *taxation*, and the *taxation* *violates* the *liberty*, and the *reply* *fails*.
 
 **The *reply*** (Nozick 1974, Ch. 3; the *contemporary* *literature*). The *minimal* *state* *can* be *financed* by the *voluntary* *contributions* and the *enforcement* *fees* (the *protective* *association*), and the *reply* *grounds* the *minimal* *state* in the *contract*. The *reply* is *contested* (the *free*-*rider* *problem*; the *no* *coercion*).
 
@@ -300,7 +300,7 @@ $$
 
 ### 2.5 Marxism
 
-**The *thesis*** (Marx, *Capital*, Vol. I, 1867, Part II; “Critique of the Gotha Programme,” 1875; the *contemporary* *literature*; Cohen, *Karl Marx's Theory of History*, 1978; Roemer, *A General Theory of Exploitation and Class*, 1982). The *justice* *cannot* be *separated* from the *mode* of *production* (the *justice* is *historical*; the *ideology*), and the *capitalist* *exchange* *is* *exploitative* (the *surplus* *value*; the *labor* *theory* *of* *value*), and the *emancipation* *requires* the *abolition* of the *private* *property* (the *means* of *production*) and the *class* (the *communist* *insight*).
+**The *thesis*** (Marx, *Capital*, Vol. I, 1867, Part II; “Critique of the Gotha Program,” 1875; the *contemporary* *literature*; Cohen, *Karl Marx's Theory of History*, 1978; Roemer, *A General Theory of Exploitation and Class*, 1982). The *justice* *cannot* be *separated* from the *mode* of *production* (the *justice* is *historical*; the *ideology*), and the *capitalist* *exchange* *is* *exploitative* (the *surplus* *value*; the *labor* *theory* *of* *value*), and the *emancipation* *requires* the *abolition* of the *private* *property* (the *means* of *production*) and the *class* (the *communist* *insight*).
 
 **The *structure*** (the *exploitation*).
 
@@ -706,11 +706,11 @@ $$
 
 **The *objections***.
 
-**(i) The *no* *harm* *objection***. The *harm* *principle* *is* *indeterminate* (the *harm* *includes* the *offence*, the *moral* *harm*, the *psychological* *harm*, and the *non*-*harm* *is* *rare*), and the *principle* *cannot* *guide* (the *everything* *is* *harm*), and the *reply* *fails*.
+**(i) The *no* *harm* *objection***. The *harm* *principle* *is* *indeterminate* (the *harm* *includes* the *offense*, the *moral* *harm*, the *psychological* *harm*, and the *non*-*harm* *is* *rare*), and the *principle* *cannot* *guide* (the *everything* *is* *harm*), and the *reply* *fails*.
 
-**The *reply*** (Feinberg 1984, Ch. 1; the *contemporary* *literature*). The *harm* is *the* *setback* of the *interests* (the *welfare* *interests*, *not* the *offence*), and the *reply* *restricts* the *harm* *concept* (the *harm* *principle* *plus* the *offence* *principle*; the *balancing*). The *reply* is *defensible*.
+**The *reply*** (Feinberg 1984, Ch. 1; the *contemporary* *literature*). The *harm* is *the* *setback* of the *interests* (the *welfare* *interests*, *not* the *offense*), and the *reply* *restricts* the *harm* *concept* (the *harm* *principle* *plus* the *offense* *principle*; the *balancing*). The *reply* is *defensible*.
 
-**(ii) The *no* *autonomy* *objection***. The *harm* *principle* *presupposes* the *autonomy* (the *agent* *judges* the *own* *good*), and the *autonomy* *is* *not* *defensible* (the *no* *rational* *agent*, the *bounded* *rationality*; the *behavioural* *economics*; §4.5), and the *reply* *fails*.
+**(ii) The *no* *autonomy* *objection***. The *harm* *principle* *presupposes* the *autonomy* (the *agent* *judges* the *own* *good*), and the *autonomy* *is* *not* *defensible* (the *no* *rational* *agent*, the *bounded* *rationality*; the *behavioral* *economics*; §4.5), and the *reply* *fails*.
 
 **The *reply*** (the *contemporary* *literature*; the *capabilities* §3.4). The *autonomy* is the *capability* (the *development*, the *education*), and the *soft* *paternalism* *protects* the *capability* (the *informed* *consent*), and the *reply* *grounds* the *autonomy* in the *capability*. The *reply* is *defensible*.
 
@@ -810,7 +810,7 @@ $$
 \begin{array}{ll}
 1. & \text{The *levelling* *down* (the *reducing* the *better* *off* *without* the *benefit* to the *worse* *off*) *is* *bad* (the *anti*-*levelling* *insight*).} \\
 2. & \text{The *egalitarianism* *commends* the *levelling* *down* (the *reduction* of the *gap*), and the *prioritarianism* *does* not (the *no* *benefit* to the *worse* *off*).} \\
-3. & \text{The *anti*-*levelling* *insight* *favours* the *prioritarianism*.} \\
+3. & \text{The *anti*-*levelling* *insight* *favors* the *prioritarianism*.} \\
 \hline
 4. & \therefore \text{The *prioritarianism* *is* *superior* (the *Parfit* *insight*).}
 \end{array}
@@ -946,9 +946,9 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *collective* *judgement* *can* be *better* than the *individual* (the *Condorcet* *jury* *theorem*, the *aggregation*).} \\
+1. & \text{The *collective* *judgment* *can* be *better* than the *individual* (the *Condorcet* *jury* *theorem*, the *aggregation*).} \\
 2. & \text{The *democracy* *aggregates* the *information* (the *diverse* *perspectives*, the *error* *correction*).} \\
-3. & \text{The *better* *judgement* *produces* the *better* *outcomes* (the *protection* of the *interests*, the *no* *tyranny*).} \\
+3. & \text{The *better* *judgment* *produces* the *better* *outcomes* (the *protection* of the *interests*, the *no* *tyranny*).} \\
 \hline
 4. & \therefore \text{The *democracy* *is* *instrumentally* *justified* (the *epistemic* *insight*).}
 \end{array}
@@ -968,13 +968,13 @@ $$
 
 **The *reply*** (Landemore 2013, Ch. 3; the *diversity* *insight*). The *diversity* *trumps* the *individual* *competence* (the *cognitive* *diversity*; the *Condorcet* *theorem* *with* the *diverse* *perspectives*), and the *reply* *grounds* the *competence* in the *diversity*. The *reply* is *defensible*.
 
-**(ii) The *no* *truth* *objection***. The *instrumental* *case* *presupposes* the *truth* (the *correct* *judgement*), and the *political* *truth* *is* *contested* (the *no* *objective* *good*), and the *reply* *fails*.
+**(ii) The *no* *truth* *objection***. The *instrumental* *case* *presupposes* the *truth* (the *correct* *judgment*), and the *political* *truth* *is* *contested* (the *no* *objective* *good*), and the *reply* *fails*.
 
 **The *reply*** (the *epistemic* *democracy*). The *truth* *is* the *correct* *answer* *to* the *common* *problems* (the *no* *metaphysical* *commitment*; the *procedural* *truth*), and the *reply* *grounds* the *truth* in the *problem*-*solving*. The *reply* is *defensible*.
 
 ### 6.2 The intrinsic case
 
-**The *thesis*** (Waldron, “A Right to Do Wrong,” 1981; *Law and Disagreement*, 1999; the *contemporary* *literature*; the *autonomy* *insight*; the *public* *equality*; the *contemporary* *literature*). The *democracy* *is* *intrinsically* *valuable* (the *equal* *political* *standing*, the *autonomy*, the *self*-*government*), and the *democracy* *respects* the *equal* *agency* (the *no* *one*'s *judgement* *is* *privileged*), and the *democracy* *is* *the* *right* *of* *rights* (the *Waldron* *insight*).
+**The *thesis*** (Waldron, “A Right to Do Wrong,” 1981; *Law and Disagreement*, 1999; the *contemporary* *literature*; the *autonomy* *insight*; the *public* *equality*; the *contemporary* *literature*). The *democracy* *is* *intrinsically* *valuable* (the *equal* *political* *standing*, the *autonomy*, the *self*-*government*), and the *democracy* *respects* the *equal* *agency* (the *no* *one*'s *judgment* *is* *privileged*), and the *democracy* *is* *the* *right* *of* *rights* (the *Waldron* *insight*).
 
 **The *argument***.
 
@@ -1539,9 +1539,9 @@ The *chapter* is a *case* *study* in the method of Part I, *applied* to the *pol
 - **Conceptual analysis** (§1 of Ch. 3) generated the *distinctions* between the *justice* and the *legitimacy*, the *claim* and the *liberty* (the *Hohfeldian* *incidents*), the *negative* and the *positive* *liberty*, the *telic* and the *relational* *equality*.
 - **Thought experiments** (§2 of Ch. 3) — the *state* of *nature*, the *veil* of *ignorance*, the *Wilt* *Chamberlain*, the *utility* *monster*, the *ship* of *Theseus* (the *boundary*), the *trolley* (the *rights*; Ch. 45, §6) — are the *engine* of the debate.
 - **Formalization** (§3 of Ch. 3) — the *social* *choice* *theory* (the *Arrow*), the *Condorcet* *jury* *theorem*, the *Hohfeldian* *analysis*, the *decision* *theory* — is *essential*.
-- **Reflective equilibrium** (§4 of Ch. 3) is the *method* by which the *principles* and the *judgements* (the *intuitions* about the *cases*) are *adjusted*.
+- **Reflective equilibrium** (§4 of Ch. 3) is the *method* by which the *principles* and the *judgments* (the *intuitions* about the *cases*) are *adjusted*.
 - **Genealogy and debunking** (§5 of Ch. 3) is the *central* *challenge* to the *political* *institutions* (the *ideology* *critique*, the *Marxist* *and* the *feminist* *insights*, the *postcolonial* *critique*).
-- **Experimental philosophy and the empirical turn** (§6 of Ch. 3) is *increasingly* *central* (the *behavioural* *economics*, the *political* *psychology*, the *field* *experiments*, the *replication* *crisis*; Ch. 46, §6.4).
+- **Experimental philosophy and the empirical turn** (§6 of Ch. 3) is *increasingly* *central* (the *behavioral* *economics*, the *political* *psychology*, the *field* *experiments*, the *replication* *crisis*; Ch. 46, §6.4).
 - **Negative capability** (§7 of Ch. 3) is the *response* to the *residue*: the *political* *philosophy* is *permanently* *unsettled*, and the *honest* *thinker* *holds* the *questions* *open* *while* *acting* on the *best* *available* *justification*.
 
 ### 9.6 The bridge
@@ -1605,7 +1605,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 19. State the *libertarian* *paternalism* (Thaler & Sunstein). Is the *nudge* a *manipulation*?
 20. State the *equality*/*priority* *debate* (Parfit). Is the *levelling* *down* a *decisive* *objection* to the *telic* *egalitarianism*?
 21. State the *moral* *equality*. Does it *require* a *basis*?
-22. State the *Condorcet* *jury* *theorem*. Is it a *defence* of *democracy*?
+22. State the *Condorcet* *jury* *theorem*. Is it a *defense* of *democracy*?
 23. State the *Arrow* *impossibility* *theorem*. What does it *show* about the *democratic* *aggregation*?
 24. State the *statism*/*cosmopolitanism* *debate*. Is the *global* *justice* *required*?
 25. State the *Hohfeldian* *analysis*. Is the *interest* *theory* of *rights* *defensible*?

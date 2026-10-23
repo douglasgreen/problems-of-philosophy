@@ -12,9 +12,9 @@
 
 Before the tables, the spine. The history of philosophy as this book uses it turns on six transitions, each of which created a problem that the next period inherited.
 
-**1. The invention of the argument (c. 6th–4th c. BCE).** Thales and the Milesians replace mythic with naturalistic explanation; Parmenides and Zeno show that reasoning can produce conclusions no one wants; Plato invents the systematic dialogue and the theory of Forms; Aristotle invents formal logic and the research programme. Everything after is a response to the standards set here. (*Ch. 1, 2*)
+**1. The invention of the argument (c. 6th–4th c. BCE).** Thales and the Milesians replace mythic with naturalistic explanation; Parmenides and Zeno show that reasoning can produce conclusions no one wants; Plato invents the systematic dialogue and the theory of Forms; Aristotle invents formal logic and the research program. Everything after is a response to the standards set here. (*Ch. 1, 2*)
 
-**2. The turn inward (c. 4th c. BCE – 5th c. CE).** Hellenistic schools make philosophy a therapy for living; Scepticism turns the criterion against itself; Plotinus and then Augustine relocate the fundamental questions to the interior — the will, the self, time as the mind's distension. The Buddhist and Jain traditions conduct an independent, equally technical version of this turn, with a more developed epistemology and a more radical metaphysics of the self. (*Ch. 6, 13, 17, 26*)
+**2. The turn inward (c. 4th c. BCE – 5th c. CE).** Hellenistic schools make philosophy a therapy for living; Skepticism turns the criterion against itself; Plotinus and then Augustine relocate the fundamental questions to the interior — the will, the self, time as the mind's distension. The Buddhist and Jain traditions conduct an independent, equally technical version of this turn, with a more developed epistemology and a more radical metaphysics of the self. (*Ch. 6, 13, 17, 26*)
 
 **3. The medieval synthesis and its fracturing (c. 9th–14th c.).** Islamic, Jewish, and Latin scholasticism integrate Aristotle with revelation and produce the technical apparatus — essence and existence, modality, univocity, intentionality — that early modernity inherits. Ockham's nominalism and Scotus's univocity break the synthesis from within. (*Ch. 15, 16, 50*)
 
@@ -43,10 +43,10 @@ Before the tables, the spine. The history of philosophy as this book uses it tur
 | Plato | c. 428–348 BCE | The Forms; knowledge as recollection; the tripartite soul; the divided line | 15, 43, 47 |
 | Aristotle | 384–322 BCE | Hylomorphism; four causes; the syllogism; virtue as a mean; *eudaimonia* | 2, 18, 35, 45, 48 |
 | Epicurus | 341–270 BCE | Atomism; pleasure as *ataraxia*; death is nothing to us | 48, 41 |
-| Pyrrho | c. 360–270 BCE | *Epochē*: suspension of judgement as the route to tranquillity | 6, 13 |
+| Pyrrho | c. 360–270 BCE | *Epochē*: suspension of judgment as the route to tranquillity | 6, 13 |
 | Zeno of Citium | c. 334–262 BCE | Virtue is the only good; life according to nature | 45, 48 |
 | Chrysippus | c. 279–206 BCE | Stoic propositional logic; compatibilism about fate and responsibility | 27, 35 |
-| Cicero | 106–43 BCE | Academic scepticism; natural law as the ground of political obligation | 13, 47 |
+| Cicero | 106–43 BCE | Academic skepticism; natural law as the ground of political obligation | 13, 47 |
 | Lucretius | c. 99–55 BCE | Epicureanism in verse; the *clinamen* and the possibility of freedom | 27, 41 |
 | Seneca | c. 4 BCE–65 CE | Stoic ethics; the therapy of the passions | 30, 48 |
 | Epictetus | c. 50–135 CE | The dichotomy of control: what is and is not "up to us" | 27, 48 |
@@ -75,7 +75,7 @@ Before the tables, the spine. The history of philosophy as this book uses it tur
 | Dharmakīrti | c. 600–660 CE | Momentariness; the causal efficiency criterion of the real; *apoha* developed | 15, 17, 31 |
 | Candrakīrti | c. 600–650 CE | Prāsaṅgika Madhyamaka: the *reductio* method; no position of one's own | 13, 22 |
 | Kumārila | c. 7th c. CE | Mīmāṃsā epistemology; intrinsic validity of cognition; critique of Buddhist idealism | 8, 11 |
-| Jayarāśi | c. 8th–9th c. CE | Radical scepticism: the refutation of all *pramāṇas*, including the sceptic's own | 13 |
+| Jayarāśi | c. 8th–9th c. CE | Radical skepticism: the refutation of all *pramāṇas*, including the skeptic's own | 13 |
 | Śaṅkara | c. 788–820 CE | Advaita Vedānta: *brahman* alone is real; the world is *māyā*; the self is not the ego | 20, 26 |
 | Rāmānuja | 1017–1137 | Viśiṣṭādvaita: qualified non-dualism; the world as the body of God | 20, 50 |
 | Śrī Harṣa | 12th c. | The refutation of realist ontology by a relentless *reductio* of definition | 15, 33 |
@@ -116,7 +116,7 @@ Before the tables, the spine. The history of philosophy as this book uses it tur
 | al-Fārābī | c. 872–950 | Emanation; the philosopher as the true sovereign; logic as the instrument of all sciences | 35, 47 |
 | Saadia Gaon | 882–942 | Reason and revelation reconciled; a Jewish *kalām* | 50 |
 | Ibn Sīnā (Avicenna) | 980–1037 | Essence distinct from existence; the Necessary Existent; the "Flying Man" | 14, 16, 25, 50 |
-| al-Ghazālī | 1058–1111 | *The Incoherence of the Philosophers*; occasionalism; the sceptical crisis and its Sufi resolution | 6, 18, 50 |
+| al-Ghazālī | 1058–1111 | *The Incoherence of the Philosophers*; occasionalism; the skeptical crisis and its Sufi resolution | 6, 18, 50 |
 | Ibn Gabirol | c. 1021–1058 | Universal hylomorphism; the will of God as universal formative principle | 19 |
 | Ibn Rushd (Averroes) | 1126–1198 | The reconciliation of Aristotle and Islam; the eternity of the world; "double truth" | 40, 50 |
 | Ibn ʿArabī | 1165–1240 | *Waḥdat al-wujūd* (unity of being); the Imagination as the locus of revelation | 20 |
@@ -150,14 +150,14 @@ Before the tables, the spine. The history of philosophy as this book uses it tur
 
 | Thinker | Dates | Central thesis / contribution | Chapters |
 |---|---|---|---|
-| Montaigne | 1533–1592 | Pyrrhonian scepticism as a way of life; the essay as philosophical form | 6, 13 |
+| Montaigne | 1533–1592 | Pyrrhonian skepticism as a way of life; the essay as philosophical form | 6, 13 |
 | Francis Bacon | 1561–1626 | The four Idols; the new induction; knowledge as power | 3, 10 |
 | Galileo | 1564–1642 | Primary vs. secondary qualities; the book of nature written in mathematics | 5, 40 |
 | Thomas Hobbes | 1588–1679 | Materialism; the state of nature; the social contract and the sovereign | 23, 47 |
 | René Descartes | 1596–1650 | Methodical doubt; the *cogito*; clear and distinct ideas; substance dualism | 6, 8, 12, 23 |
 | Blaise Pascal | 1623–1662 | The wager; the reasons of the heart; the limits of rational theology | 10, 50 |
 | Benedict de Spinoza | 1632–1677 | One substance (*deus sive natura*); *conatus*; determinism; the geometric method | 20, 27, 48 |
-| John Locke | 1632–1704 | No innate ideas; primary/secondary qualities; personal identity as continuity of consciousness; property from labour | 5, 15, 26, 47 |
+| John Locke | 1632–1704 | No innate ideas; primary/secondary qualities; personal identity as continuity of consciousness; property from labor | 5, 15, 26, 47 |
 | Nicolas Malebranche | 1638–1715 | Occasionalism; the vision in God | 18, 20 |
 | G. W. Leibniz | 1646–1716 | Monads; pre-established harmony; sufficient reason; possible worlds | 16, 17, 50 |
 | George Berkeley | 1685–1753 | *Esse est percipi*; the master argument; the rejection of abstract ideas | 5, 20 |
@@ -234,7 +234,7 @@ Before the tables, the spine. The history of philosophy as this book uses it tur
 | Michael Polanyi | 1891–1976 | Tacit knowledge; personal knowledge | 30 |
 | Karl Popper | 1902–1994 | Falsification; the open society; the paradox of tolerance | 10, 40, 47 |
 | Thomas Kuhn | 1922–1996 | Paradigms; normal science; incommensurability | 40 |
-| Imre Lakatos | 1922–1974 | Research programmes; sophisticated falsificationism | 40 |
+| Imre Lakatos | 1922–1974 | Research programs; sophisticated falsificationism | 40 |
 | Paul Feyerabend | 1924–1994 | Epistemological anarchism; "anything goes" | 40 |
 | W. V. O. Quine | 1908–2000 | "Two Dogmas"; ontological commitment; naturalized epistemology; indeterminacy of translation | 14, 31, 36, 52 |
 | Wilfrid Sellars | 1912–1989 | The myth of the Given; the space of reasons; scientific realism | 8, 52 |
@@ -248,7 +248,7 @@ Before the tables, the spine. The history of philosophy as this book uses it tur
 | Bernard Williams | 1929–2003 | Internal reasons; integrity; moral luck; the human prejudice | 27, 45, 46 |
 | J. L. Mackie | 1917–1981 | Error theory; the argument from queerness; the miracle of theism | 44, 50 |
 | Donald Davidson | 1917–2003 | Anomalous monism; radical interpretation; reasons as causes | 25, 28 |
-| Saul Kripke | 1940–2022 | Rigid designation; necessary a posteriori; the sceptical rule-following reading | 12, 16, 31 |
+| Saul Kripke | 1940–2022 | Rigid designation; necessary a posteriori; the skeptical rule-following reading | 12, 16, 31 |
 | Hilary Putnam | 1926–2016 | Twin Earth; semantic externalism; internal realism; the no-miracles argument; fact/value collapse | 25, 40, 44 |
 | David Lewis | 1941–2001 | Modal realism; counterpart theory; best-system laws; counterfactual semantics | 16, 17, 18, 37 |
 | D. M. Armstrong | 1926–2014 | Universals; truthmakers; the causal theory of perception; naturalism | 15, 22 |
@@ -316,7 +316,7 @@ Before the tables, the spine. The history of philosophy as this book uses it tur
 | Michael Dummett | 1925–2011 | Anti-realism; truth as verification; the logical basis of metaphysics | 22, 32 |
 | Crispin Wright | 1945– | The rule-following paradox; truth pluralism; neo-Fregeanism | 31, 32 |
 | Robert Brandom | 1950– | Inferentialism; *Making It Explicit* | 31, 34 |
-| Noam Chomsky | 1928– | Nativism; universal grammar; the critique of behaviourism | 25, 31 |
+| Noam Chomsky | 1928– | Nativism; universal grammar; the critique of behaviorism | 25, 31 |
 | Pierre Duhem | 1861–1916 | The Duhem–Quine thesis: hypotheses are tested in bundles | 40 |
 | Nishida Kitarō | 1870–1945 | Pure experience; absolute nothingness; the Kyoto School | 20, 30 |
 | Tanabe Hajime | 1885–1962 | The logic of species; metanoetics | 13, 35 |
@@ -350,11 +350,11 @@ The same figures, sorted by the question they were asked to answer. Use this whe
 | Philosophy as the study of the conditions of intelligibility | Kant, Strawson, the transcendental tradition | 1, 52 |
 | Dissolution of problems | Sextus, Nāgārjuna, Wittgenstein, Carnap, Jayarāśi | 3, 13, 52 |
 
-### Knowledge and scepticism
+### Knowledge and skepticism
 
 | Position | Figures | Chapters |
 |---|---|---|
-| Scepticism | Pyrrho, Sextus, Montaigne, Hume, Jayarāśi | 6, 13 |
+| Skepticism | Pyrrho, Sextus, Montaigne, Hume, Jayarāśi | 6, 13 |
 | Foundationalism | Descartes, Locke, Chisholm, Sellars's target | 8 |
 | Coherentism | Bradley, Neurath, Quine, BonJour | 8 |
 | Reliabilism | Goldman, Dretske, Sosa | 7, 8 |
@@ -561,14 +561,14 @@ Twenty-five primary texts that give the most philosophy per page for a reader of
 |---|---|---|---|
 | *Meno*; *Theaetetus* | Plato | The paradigm of a philosophical inquiry that fails productively | 1, 7 |
 | *Nicomachean Ethics* | Aristotle | The origin of virtue ethics and of the function argument | 45, 48 |
-| *Outlines of Pyrrhonism* | Sextus Empiricus | The most systematic ancient scepticism; the criterion problem | 6, 13 |
+| *Outlines of Pyrrhonism* | Sextus Empiricus | The most systematic ancient skepticism; the criterion problem | 6, 13 |
 | *Mūlamadhyamakakārikā* | Nāgārjuna | A complete anti-foundationalist metaphysics in 27 chapters of verse | 15, 22 |
 | *Analects* | Confucius | Ethics as the cultivation of relations, not the application of rules | 45, 47 |
 | *Zhuangzi* (Inner Chapters) | Zhuangzi | Perspectivalism and the limits of fixed distinctions | 13, 31 |
 | *Confessions* XI | Augustine | The first sustained analysis of time as the mind's own structure | 17 |
 | *Proslogion* | Anselm | The ontological argument in its original setting | 16, 50 |
 | *Meditations* | Descartes | The founding document of modern epistemology | 6, 8, 23 |
-| *An Enquiry Concerning Human Understanding* | Hume | The most economical statement of empiricism and its sceptical consequences | 10, 18 |
+| *An Enquiry Concerning Human Understanding* | Hume | The most economical statement of empiricism and its skeptical consequences | 10, 18 |
 | *A Treatise of Human Nature* I.iv | Hume | The bundle self; the identity problem at its sharpest | 26 |
 | *Groundwork of the Metaphysics of Morals* | Kant | The categorical imperative and the idea of autonomy | 45 |
 | *Critique of Pure Reason*, Preface + Introduction | Kant | The Copernican turn stated in thirty pages | 9, 20, 36 |

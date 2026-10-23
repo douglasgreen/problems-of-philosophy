@@ -4,7 +4,7 @@
 > — John Locke, *An Essay Concerning Human Understanding* (1690), IV.xvii.4, in a sentence he did not quite mean
 
 > “The logician’s task is to make the form of the argument visible. The philosopher’s task is to decide whether anybody could have meant what the form says.”
-> — a formulation of the division of labour, after Russell and Quine
+> — a formulation of the division of labor, after Russell and Quine
 
 > “Logic is not a body of doctrine, but a mirror-image of the world. Logic is transcendental.”
 > — Ludwig Wittgenstein, *Tractatus Logico-Philosophicus* (1921), §6.13
@@ -13,9 +13,9 @@
 
 Part V examined *language* — meaning, truth, paradox, and speech acts. This chapter examines the *skeleton* of language: **logical form**.
 
-The *skeleton* is not the *body*. An argument is *valid* in virtue of its *form*, not its *content*; but the *form* is *not given* by the *surface grammar* (Ch. 12, §2), and the *formalisation* is a *translation* (Ch. 3, §3.3), and the *translation* is *contestable*. The *chapter* is therefore *not* a *textbook* of logic (Appendix A supplies the mechanics). It is an *inquiry* into the *philosophical* *pay-off* of the *formal* *apparatus*: what the *apparatus* *reveals*, what it *conceals*, and what it *presupposes*.
+The *skeleton* is not the *body*. An argument is *valid* in virtue of its *form*, not its *content*; but the *form* is *not given* by the *surface grammar* (Ch. 12, §2), and the *formalization* is a *translation* (Ch. 3, §3.3), and the *translation* is *contestable*. The *chapter* is therefore *not* a *textbook* of logic (Appendix A supplies the mechanics). It is an *inquiry* into the *philosophical* *pay-off* of the *formal* *apparatus*: what the *apparatus* *reveals*, what it *conceals*, and what it *presupposes*.
 
-The *thesis* is *threefold*. First, the *value* of formal logic is *not* that it *proves* *things* — the *proofs* are *easy* once the *formalisation* is *settled* — but that it *forces* the *formalisation* to be *explicit*, and the *explicitness* is where the *philosophical* *work* is done. Second, *formal* *results* (the *limitative* *theorems*, the *correspondence* *results*, the *non-classical* *logics*) *constrain* philosophical *theories*, and a *theory* that *ignores* them is *not* *merely* *unfashionable* but *inconsistent*. Third, logic is *not* *immune* from *revision* (the *Quinean* *challenge*), but the *revision* is *constrained* by the *meanings* of the *connectives*, and the *constraint* is *the* *philosophical* *question* the *chapter* *leaves* *open* for Ch. 36.
+The *thesis* is *threefold*. First, the *value* of formal logic is *not* that it *proves* *things* — the *proofs* are *easy* once the *formalization* is *settled* — but that it *forces* the *formalization* to be *explicit*, and the *explicitness* is where the *philosophical* *work* is done. Second, *formal* *results* (the *limitative* *theorems*, the *correspondence* *results*, the *non-classical* *logics*) *constrain* philosophical *theories*, and a *theory* that *ignores* them is *not* *merely* *unfashionable* but *inconsistent*. Third, logic is *not* *immune* from *revision* (the *Quinean* *challenge*), but the *revision* is *constrained* by the *meanings* of the *connectives*, and the *constraint* is *the* *philosophical* *question* the *chapter* *leaves* *open* for Ch. 36.
 
 The *chapter* proceeds in seven movements. §1 states the *pay-off* *question*. §2 supplies the *compact* *toolkit* (the *propositional* and the *predicate* logic). §3 examines the *modal*, *epistemic*, and *deontic* logics and their *philosophical* *readings*. §4 examines the *probability* *calculus* and its *interpretations*. §5 examines the *non-classical* logics. §6 examines the *misuse* of *formalism*. §7 examines the *revisability* of *logic*.
 
@@ -41,8 +41,8 @@ The *chapter* proceeds in seven movements. §1 states the *pay-off* *question*. 
 
 $$
 \begin{array}{ll}
-1. & \text{The *validity* *check* *presupposes* a *formalisation* (the *translation* of the *argument*).} \\
-2. & \text{The *formalisation* is *not* *unique* (the *same* *argument* *can* be *formalised* in *different* *logics*).} \\
+1. & \text{The *validity* *check* *presupposes* a *formalization* (the *translation* of the *argument*).} \\
+2. & \text{The *formalization* is *not* *unique* (the *same* *argument* *can* be *formalized* in *different* *logics*).} \\
 3. & \text{The *choice* of *logic* *determines* the *verdict* (Ch. 3, §3.3).} \\
 \hline
 4. & \therefore \text{The *philosophical* *work* is in the *choice*, not in the *check}.}
@@ -96,9 +96,9 @@ $$
 
 **The *limits***.
 
-**(i) The *translation* *problem*** (Ch. 3, §3.3). The *formalisation* *is* a *translation*, and the *translation* is *not* *unique*; the *choice* *determines* the *verdict*.
+**(i) The *translation* *problem*** (Ch. 3, §3.3). The *formalization* *is* a *translation*, and the *translation* is *not* *unique*; the *choice* *determines* the *verdict*.
 
-**(ii) The *loss* *of* *content***. The *formalisation* *abstracts* *from* the *content*, and the *content* *may* be *what* *matters* (the *“*if*”* *is* *not* *the* *material* *conditional*; Ch. 37).
+**(ii) The *loss* *of* *content***. The *formalization* *abstracts* *from* the *content*, and the *content* *may* be *what* *matters* (the *“*if*”* *is* *not* *the* *material* *conditional*; Ch. 37).
 
 **(iii) The *pseudo*-*precision***. The *notation* *can* *make* a *claim* *look* *exact* without *making* it *informative* (Ch. 3, §3.3).
 
@@ -215,9 +215,9 @@ $$
 | **Countability** | *Not* first-order (by Löwenheim–Skolem) | The *cardinality* *is* *not* *absolute* |
 | **Well-foundedness** | *Not* first-order | The *natural* *numbers* *have* *non-standard* *models* (the *non-standard* *arithmetic*) |
 | **Transitive closure** | *Not* first-order | The *ancestral* *relation* *requires* *the* *second*-*order* *logic* |
-| **“Most”** | *Not* first-order | The *quantifier* “most” *requires* a *generalised* *quantifier* |
+| **“Most”** | *Not* first-order | The *quantifier* “most” *requires* a *generalized* *quantifier* |
 
-**The *significance***. The *limitations* *motivate* the *extensions* (the *second*-*order* *logic*, the *generalised* *quantifiers*, the *infinitary* *logic*), and the *extensions* *raise* the *question* of *whether* the *logic* *is* *the* *logic* (the *logical* *pluralism*; §5.5).
+**The *significance***. The *limitations* *motivate* the *extensions* (the *second*-*order* *logic*, the *generalized* *quantifiers*, the *infinitary* *logic*), and the *extensions* *raise* the *question* of *whether* the *logic* *is* *the* *logic* (the *logical* *pluralism*; §5.5).
 
 ---
 
@@ -277,7 +277,7 @@ $$
 2. & \text{If } \vdash K_i(\phi \to \psi) \text{ and } \vdash K_i \phi, \text{ then } \vdash K_i \psi \text{ (the *K* *axiom*).} \\
 3. & \text{The *agents* *do* not *know* *all* *the* *logical* *truths*, and *do* not *know* *all* the *consequences*. \\
 \hline
-4. & \therefore \text{The *standard* *epistemic* *logic* *is* *an* *idealisation* (the *logical* *omniscience* *is* *false*).}
+4. & \therefore \text{The *standard* *epistemic* *logic* *is* *an* *idealization* (the *logical* *omniscience* *is* *false*).}
 \end{array}
 $$
 
@@ -310,7 +310,7 @@ $$
 
 **The *paradox***. The *story*: (i) *it ought* to be that *you do not go* to *help*; (ii) *if* you *go*, you *ought* to *tell* them *you* are *coming*; (iii) *if* you *do not* *go*, you *ought* *not* to *tell* them; (iv) *you* *do not* *go*.
 
-**The *formalisation***.
+**The *formalization***.
 
 $$
 \begin{array}{ll}
@@ -337,7 +337,7 @@ $$
 | **Epistemic (S4)** | The *knowledge* | The *logical* *omniscience* |
 | **Deontic (KD)** | The *obligation* | The *contrary*-*to*-*duty* |
 
-**The *most* *defensible* *position***. A *qualified* *use*: the *modal* *logics* are *models* of the *concepts*, and the *models* are *idealised* (the *omniscience*, the *consistency*), and the *idealisation* *is* *acceptable* *for* the *normative* *purposes* (the *logic* *is* a *tool*, not a *description* of the *agents*).
+**The *most* *defensible* *position***. A *qualified* *use*: the *modal* *logics* are *models* of the *concepts*, and the *models* are *idealized* (the *omniscience*, the *consistency*), and the *idealization* *is* *acceptable* *for* the *normative* *purposes* (the *logic* *is* a *tool*, not a *description* of the *agents*).
 
 ---
 
@@ -560,18 +560,18 @@ $$
 
 ## 6. The Misuse of Formalism
 
-### 6.1 The formalisation fallacies
+### 6.1 The formalization fallacies
 
 **The *fallacies*** (Ch. 3, §3.3).
 
 | The *fallacy* | The *definition* | The *example* |
 |---|---|---|
-| **Translation fallacy** | The *invalidity* in *one* *formalisation* does *not* *entail* the *invalidity* of the *English* *argument* | The *conditional* *arguments* (the *material* *conditional*) |
+| **Translation fallacy** | The *invalidity* in *one* *formalization* does *not* *entail* the *invalidity* of the *English* *argument* | The *conditional* *arguments* (the *material* *conditional*) |
 | **Pseudo-precision** | The *notation* *looks* *exact* without *adding* *content* | The *uninterpreted* *predicates* |
-| **Formalisation fallacy** | The *form* *is* *mistaken* for the *content* | The *quantifier* *analysis* of the *modal* *claims* |
+| **Formalization fallacy** | The *form* *is* *mistaken* for the *content* | The *quantifier* *analysis* of the *modal* *claims* |
 | **The *one* *logic* *assumption*** | The *classical* *logic* is *the* *logic* | The *rejection* of the *non-classical* *arguments* *without* *argument* |
 
-**The *significance***. The *fallacies* *show* that the *formalism* is *not* *self*-*justifying* (the *choice* of the *formalisation* *is* *the* *philosophical* *work*), and the *choice* *requires* the *argument* (the *translation* *is* *defended* *independently*; Ch. 3, §3.4).
+**The *significance***. The *fallacies* *show* that the *formalism* is *not* *self*-*justifying* (the *choice* of the *formalization* *is* *the* *philosophical* *work*), and the *choice* *requires* the *argument* (the *translation* *is* *defended* *independently*; Ch. 3, §3.4).
 
 ### 6.2 The quantifier scope fallacies
 
@@ -583,7 +583,7 @@ $$
 | **The *scope* *of* the *negation*** | $\neg\forall x\, Fx \therefore \forall x\, \neg Fx$ | “Not all are guilty, so all are innocent” |
 | **The *modal* *scope*** | $\Box \exists x\, Fx \therefore \exists x\, \Box Fx$ | “Necessarily there is a God, so there is a necessary being” |
 
-**The *significance***. The *scope* *fallacies* are *the* *most* *common* *formal* *errors* in *philosophy*, and they are *detected* by the *formalisation* (the *explicitness* of the *scope*; Ch. 2, §2.5).
+**The *significance***. The *scope* *fallacies* are *the* *most* *common* *formal* *errors* in *philosophy*, and they are *detected* by the *formalization* (the *explicitness* of the *scope*; Ch. 2, §2.5).
 
 ### 6.3 The modal fallacies
 
@@ -613,13 +613,13 @@ $$
 
 **The *vice***. The *presentation* of a *formal* *proof* as a *substitute* for the *argument* (the *notation* *does* the *work*, and the *reader* is *expected* to *accept* the *conclusion* *because* the *proof* *is* *formal*).
 
-**The *diagnosis***. The *proof* *is* *only* *as* *good* *as* the *formalisation*, and the *formalisation* *is* *only* *as* *good* *as* the *translation*; the *notation* *adds* *nothing* *to* the *argument* (the *argument* is in the *translation*, not in the *symbols*).
+**The *diagnosis***. The *proof* *is* *only* *as* *good* *as* the *formalization*, and the *formalization* *is* *only* *as* *good* *as* the *translation*; the *notation* *adds* *nothing* *to* the *argument* (the *argument* is in the *translation*, not in the *symbols*).
 
 **The *significance***. The *vice* *is* *the* *formalism* *version* of the *vice* of *cleverness* (Ch. 4, §4.2), and the *remedy* is the *honesty* about the *translation*.
 
 ### 6.6 The state of the debate
 
-**The *assessment***. The *formal* *apparatus* is *powerful* and *dangerous*; the *power* is *the* *explicitness*, and the *danger* is the *illusion* of *rigour*.
+**The *assessment***. The *formal* *apparatus* is *powerful* and *dangerous*; the *power* is *the* *explicitness*, and the *danger* is the *illusion* of *rigor*.
 
 **The *most* *defensible* *position***. The *formalism* is a *tool* (the *explicitness* is the *value*), and the *tool* *is* *justified* *only* by the *translation* (the *argument* *is* *assessed* by the *translation* *plus* the *logic*), *qualified* by the *admission* that the *translation* *is* *contestable*.
 
@@ -673,7 +673,7 @@ $$
 
 **(i) The *‘*no* *neutrality*’* *objection*. The *reply* *presupposes* a *neutral* *notion* of *meaning* (the *classical* *connectives*), and the *presupposition* is *contestable* (the *meaning* *is* *theory*-*laden*).
 
-**(ii) The *‘*no* *progress*’* *objection*. The *reply* *makes* the *logical* *revision* *impossible* (any *revision* *is* a *change* of *meaning*), and the *consequence* *is* *that* the *logic* *cannot* *be* *criticised*. The *objection* is *contested*.
+**(ii) The *‘*no* *progress*’* *objection*. The *reply* *makes* the *logical* *revision* *impossible* (any *revision* *is* a *change* of *meaning*), and the *consequence* *is* *that* the *logic* *cannot* *be* *criticized*. The *objection* is *contested*.
 
 ### 7.3 The anti-exceptionalism
 
@@ -724,7 +724,7 @@ $$
 - **Formal logic is indispensable.** The *detection* of *hidden* *structure* (the *descriptions*, the *quantifiers*, the *modals*) and the *testing* of the *arguments* are the *core* of the *analytic* *method*.
 - **The metalogical results constrain theories.** The *soundness*, the *completeness*, the *incompleteness*, and the *compactness* are *theorems*, and the *theories* that *contradict* them are *inconsistent*.
 - **The modal logics have philosophical readings.** The *correspondence* between the *axioms* and the *frame* conditions *shows* that the *axioms* are *philosophical* *theses*.
-- **The epistemic and deontic logics are idealisations.** The *logical* *omniscience* and the *contrary*-*to*-*duty* *obligations* are *unresolved* *problems*.
+- **The epistemic and deontic logics are idealizations.** The *logical* *omniscience* and the *contrary*-*to*-*duty* *obligations* are *unresolved* *problems*.
 - **The probability calculus is formally rigorous, and its interpretations are contested.** The *pluralism* is the *most* *defensible* *position*.
 - **The non-classical logics are all live.** The *intuitionistic*, the *relevant*, the *paraconsistent*, the *many-valued*, the *free*, and the *quantum* *logics* are *defended*.
 - **The formalism is a tool, not a foundation.** The *translation* is the *philosophical* *work*, and the *notation* adds *nothing* beyond the *explicitness*.
@@ -818,7 +818,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 12. State the *relevant* *logic*. What is the *motivation* for the *relevance* *condition*?
 13. State the *paraconsistent* *logic*. Is the *dialetheism* *defensible*?
 14. State the *logical* *pluralism*. Is the *view* *defensible*? What is the *disunity* *objection*?
-15. State the *translation* *fallacy*, the *pseudo*-*precision* *fallacy*, and the *formalisation* *fallacy*. Give an *example* of *each*.
+15. State the *translation* *fallacy*, the *pseudo*-*precision* *fallacy*, and the *formalization* *fallacy*. Give an *example* of *each*.
 16. State the *modal* *fallacies*. How do they *undermine* the *classical* *arguments*?
 17. State *Quine's* *challenge* to the *a* *priori* *status* of *logic*. Is it *decisive*?
 18. State the *meaning*-*variance* *reply*. Is it *adequate*?

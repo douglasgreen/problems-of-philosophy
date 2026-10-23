@@ -138,13 +138,13 @@ $$
 
 **The *argument*** (Jackson, “Epiphenomenal Qualia,” 1982; “What Mary Didn’t Know,” 1986).
 
-**The *scenario*.** Mary is a *brilliant* *neuroscientist* who has *lived* her *entire* *life* in a *black*-and-*white* *room*. She *knows* *everything* *physical* *there* is to *know* *about* *colour* *vision*: the *wavelengths*, the *retinal* *processes*, the *neural* *pathways*, the *behavioural* *dispositions*. One *day*, she *leaves* the *room* and *sees* a *red* *rose* *for* the *first* *time*.
+**The *scenario*.** Mary is a *brilliant* *neuroscientist* who has *lived* her *entire* *life* in a *black*-and-*white* *room*. She *knows* *everything* *physical* *there* is to *know* *about* *color* *vision*: the *wavelengths*, the *retinal* *processes*, the *neural* *pathways*, the *behavioral* *dispositions*. One *day*, she *leaves* the *room* and *sees* a *red* *rose* *for* the *first* *time*.
 
 **The *argument*.**
 
 $$
 \begin{array}{ll}
-1. & \text{Mary *knows* *everything* *physical* *about* *colour* *vision* *before* *leaving* the *room*.} \\
+1. & \text{Mary *knows* *everything* *physical* *about* *color* *vision* *before* *leaving* the *room*.} \\
 2. & \text{When she *leaves*, she *learns* *something* *new*: *what* *red* *looks* *like*.} \\
 3. & \text{If she *learns* *something* *new*, the *new* *knowledge* is *not* *physical* *knowledge* (it is *not* *included* in the *physical* *facts* *she* *already* *knew*).} \\
 \hline
@@ -158,7 +158,7 @@ $$
 
 **The *replies* are *three*.
 
-**(i) The *ability* *hypothesis*** (Lewis, “What Experience Teaches,” 1988; Nemirow, “Physicalism and the Cognitive Role of Acquaintance,” 1990). Mary *does* not *learn* a *new* *fact*; she *learns* a *new* *ability* — the *ability* to *recognise*, *imagine*, and *remember* *red* *experiences*. The *knowledge* is *know-how*, not *know-that*, and *know-how* is *not* a *fact*.
+**(i) The *ability* *hypothesis*** (Lewis, “What Experience Teaches,” 1988; Nemirow, “Physicalism and the Cognitive Role of Acquaintance,” 1990). Mary *does* not *learn* a *new* *fact*; she *learns* a *new* *ability* — the *ability* to *recognize*, *imagine*, and *remember* *red* *experiences*. The *knowledge* is *know-how*, not *know-that*, and *know-how* is *not* a *fact*.
 
 **The *objection*.** The *ability* *hypothesis* *does* not *capture* the *phenomenology*: Mary *seems* to *learn* *what* *red* *is* *like*, not *merely* *how* to *do* something. (The *reply*: the *seeming* is *itself* a *form* of *know-how*; the *reply* is *contested*.)
 
@@ -174,7 +174,7 @@ $$
 
 **The *argument*** (Chalmers, *The Conscious Mind*, 1996, Ch. 3).
 
-**The *scenario*.** A *zombie* is a *being* that is *physically* *identical* to a *human* *being* — the *same* *brain* *states*, the *same* *behaviour*, the *same* *functional* *organisation* — but *without* *conscious* *experience*. There is *nothing* it is *like* to be a *zombie*.
+**The *scenario*.** A *zombie* is a *being* that is *physically* *identical* to a *human* *being* — the *same* *brain* *states*, the *same* *behavior*, the *same* *functional* *organization* — but *without* *conscious* *experience*. There is *nothing* it is *like* to be a *zombie*.
 
 **The *argument*.**
 
@@ -206,16 +206,16 @@ $$
 
 ### 3.4 Absent qualia
 
-**The *argument*** (Block, “Troubles with Functionalism,” 1978). A *system* can *have* the *functional* *organisation* of a *human* *mind* *without* *having* *phenomenal* *experience* — the *“absent* *qualia”* *case*.
+**The *argument*** (Block, “Troubles with Functionalism,” 1978). A *system* can *have* the *functional* *organization* of a *human* *mind* *without* *having* *phenomenal* *experience* — the *“absent* *qualia”* *case*.
 
-**The *scenario*.** The *“Chinese* *nation”*: the *population* of *China* *simulates* the *functional* *organisation* of a *human* *brain*, using *radios* to *communicate*. The *system* *has* the *functional* *organisation*; does it have *experience*?
+**The *scenario*.** The *“Chinese* *nation”*: the *population* of *China* *simulates* the *functional* *organization* of a *human* *brain*, using *radios* to *communicate*. The *system* *has* the *functional* *organization*; does it have *experience*?
 
 **The *argument*.**
 
 $$
 \begin{array}{ll}
-1. & \text{The *functional* *organisation* is *sufficient* for *consciousness* (the *functionalist* *premise*; Ch. 23, §4).} \\
-2. & \text{The *Chinese* *nation* *has* the *functional* *organisation* but *no* *phenomenal* *experience*.} \\
+1. & \text{The *functional* *organization* is *sufficient* for *consciousness* (the *functionalist* *premise*; Ch. 23, §4).} \\
+2. & \text{The *Chinese* *nation* *has* the *functional* *organization* but *no* *phenomenal* *experience*.} \\
 \hline
 3. & \therefore \text{Functionalism is *false*.}
 \end{array}
@@ -227,7 +227,7 @@ $$
 
 **(i) The *intuition* *objection*. The *intuition* that the *Chinese* *nation* has *no* *experience* is *contested*; the *system* *might* have *experience* (the *“system* *reply”*; Ch. 23, §4.4).
 
-**(ii) The *correlation* *objection*. The *argument* *assumes* that the *functional* *organisation* is *not* *sufficient* for *experience*, and the *assumption* is *precisely* what the *functionalist* *denies*.
+**(ii) The *correlation* *objection*. The *argument* *assumes* that the *functional* *organization* is *not* *sufficient* for *experience*, and the *assumption* is *precisely* what the *functionalist* *denies*.
 
 **The *state* of the debate.** The *argument* is *a* *form* of the *zombie* *argument*, and it *faces* the *same* *controversies*.
 
@@ -415,7 +415,7 @@ $$
 | **The *“predictive* *processing”* *explanation*** | The intuitions are *generated* by the *brain’s* *self-model* | Seth 2021 |
 | **The *“social* *construction”* *explanation*** | The intuitions are *shaped* by *cultural* *practices* | the *cross-cultural* *literature* |
 
-**The *significance*.** The *explanations* are *all* *empirical* *hypotheses*, and the *empirical* *literature* is *beginning* to *test* them (the *“meta-problem”* *research* *programme*).
+**The *significance*.** The *explanations* are *all* *empirical* *hypotheses*, and the *empirical* *literature* is *beginning* to *test* them (the *“meta-problem”* *research* *program*).
 
 ### 5.3 The dissolution
 
@@ -457,13 +457,13 @@ $$
 
 ### 6.1 The attribution problem
 
-**The *problem***. We *cannot* *directly* *access* the *consciousness* of *others* (Ch. 29, §1), and the *attribution* of *consciousness* is *inferential*. The *criteria* are *behavioural*, *structural*, *functional*, and *theoretical*.
+**The *problem***. We *cannot* *directly* *access* the *consciousness* of *others* (Ch. 29, §1), and the *attribution* of *consciousness* is *inferential*. The *criteria* are *behavioral*, *structural*, *functional*, and *theoretical*.
 
 **The *criteria*.**
 
 | Criterion | The *evidence* | The *limitation* |
 |---|---|---|
-| **Behavioural** | The *flexible*, *appropriate* *response* to *stimuli* | *Behaviour* can be *simulated* |
+| **Behavioral** | The *flexible*, *appropriate* *response* to *stimuli* | *Behavior* can be *simulated* |
 | **Structural** | The *neural* *architecture* (the *thalamocortical* *system*) | The *architecture* is *necessary*, not *sufficient* |
 | **Functional** | The *integration* of *information* (the *global* *workspace*) | The *integration* is *not* *sufficient* for *phenomenality* |
 | **Theoretical** | The *theory* of *consciousness* (IIT, GWT) | The *theories* are *contested* |
@@ -472,7 +472,7 @@ $$
 
 ### 6.2 Animals
 
-**The *evidence*.** The *behavioural* *evidence* (the *flexible* *problem-solving*, the *social* *cognition*, the *pain* *behaviour*), the *structural* *evidence* (the *thalamocortical* *system* is *present* in *mammals* and *birds*), and the *evolutionary* *evidence* (the *continuity* of the *nervous* *system*).
+**The *evidence*.** The *behavioral* *evidence* (the *flexible* *problem-solving*, the *social* *cognition*, the *pain* *behavior*), the *structural* *evidence* (the *thalamocortical* *system* is *present* in *mammals* and *birds*), and the *evolutionary* *evidence* (the *continuity* of the *nervous* *system*).
 
 **The *positions*.**
 
@@ -480,7 +480,7 @@ $$
 |---|---|---|
 | **Mammal-centric** | Only *mammals* and *birds* are *conscious* | the *mainstream* *view* |
 | **Inclusive** | *Many* *animals* (fish, cephalopods, insects) are *conscious* | the *“Cambridge* *Declaration”* (2012); the *contemporary* *literature* |
-| **Sceptical** | *No* *non-human* *animals* are *conscious* | the *Cartesian* *view* (the *“beast-machine”*) |
+| **Skeptical** | *No* *non-human* *animals* are *conscious* | the *Cartesian* *view* (the *“beast-machine”*) |
 
 **The *ethical* *stakes*.** The *attribution* *determines* the *moral* *status* of *animals* (Ch. 51, §5): *if* the *animals* are *conscious*, their *suffering* *matters* *morally*, and the *practices* of *factory* *farming*, *experimentation*, and *habitat* *destruction* are *morally* *serious*.
 
@@ -488,7 +488,7 @@ $$
 
 ### 6.3 Infants
 
-**The *evidence*.** The *behavioural* *evidence* (the *responses* to *pain*, the *social* *engagement*), the *structural* *evidence* (the *developing* *neural* *system*), and the *theoretical* *evidence* (the *development* of the *global* *workspace*).
+**The *evidence*.** The *behavioral* *evidence* (the *responses* to *pain*, the *social* *engagement*), the *structural* *evidence* (the *developing* *neural* *system*), and the *theoretical* *evidence* (the *development* of the *global* *workspace*).
 
 **The *positions*.**
 
@@ -509,7 +509,7 @@ $$
 
 | Criterion | The *test* | The *problem* |
 |---|---|---|
-| **Behavioural** | The *Turing* *test* | The *test* *measures* *performance*, not *experience* |
+| **Behavioral** | The *Turing* *test* | The *test* *measures* *performance*, not *experience* |
 | **Functional** | The *global* *workspace* | The *workspace* *can* be *simulated* |
 | **Structural** | The *neural* *architecture* | The *architecture* is *different* from the *brain* |
 | **Theoretical** | The *IIT* (the *Φ* *measure*) | The *measure* is *intractable* |
@@ -520,7 +520,7 @@ $$
 |---|---|---|
 | **Strong AI** | *Consciousness* *is* *computation* | the *classical* *computational* *theory* |
 | **Weak AI** | *Consciousness* *requires* a *physical* *substrate* | the *biological* *naturalism* (Searle) |
-| **Sceptical** | *Consciousness* *is* *not* *achievable* by *AI* | the *dualist* *and* *mysterian* *views* |
+| **Skeptical** | *Consciousness* *is* *not* *achievable* by *AI* | the *dualist* *and* *mysterian* *views* |
 
 **The *ethical* *stakes*.** The *attribution* *determines* the *moral* *status* of *AI* *systems* (Ch. 51, §3): *if* the *systems* are *conscious*, their *interests* *matter*, and the *design* of *AI* *must* *take* the *interests* *into* *account*.
 

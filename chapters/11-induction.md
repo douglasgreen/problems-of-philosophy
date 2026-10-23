@@ -79,14 +79,14 @@ $$
 
 The two forms are connected. If there is no necessary connection in nature, then the “uniformity of nature” is not a *fact* that could ground induction; it is a *habit* of the mind. The *epistemic* problem is that induction is unjustified; the *metaphysical* problem is that there is nothing in the world for induction to track.
 
-### 1.4 The “sceptical solution”
+### 1.4 The “skeptical solution”
 
-Hume’s *sceptical solution* is the second half of his treatment of the problem, and it is frequently overlooked. His own response is *naturalistic* rather than *justificatory*.
+Hume’s *skeptical solution* is the second half of his treatment of the problem, and it is frequently overlooked. His own response is *naturalistic* rather than *justificatory*.
 
 > “Nature, by an absolute and uncontrollable necessity, has determined us to judge as well as to breathe and feel.” (*Treatise of Human Nature* I.iv.1)
 > “Custom is the great guide of human life.” (*Enquiry* V.i)
 
-The response is: we *cannot help* reasoning inductively, because custom and habit determine our inferences. The sceptical *conclusion* is not refuted; it is *lived with*. This is the **mitigated scepticism** that Hume recommends at the end of the *Enquiry* (XII.iii): a scepticism that is “durable” and “useful” because it is *tempered* by nature.
+The response is: we *cannot help* reasoning inductively, because custom and habit determine our inferences. The skeptical *conclusion* is not refuted; it is *lived with*. This is the **mitigated skepticism** that Hume recommends at the end of the *Enquiry* (XII.iii): a skepticism that is “durable” and “useful” because it is *tempered* by nature.
 
 The structure of the response is a **genetic** explanation, not a justification. It tells us *why* we reason inductively, not *whether* we are *right* to. Whether the explanation is *satisfying* is the central question of the chapter.
 
@@ -106,7 +106,7 @@ The Humean argument is one of the most discussed in the history of philosophy, a
 
 ### 2.1 Mill: the methods and the uniformity principle
 
-Mill’s *A System of Logic* (1843) is the most ambitious attempt to *systematise* induction. His contribution is twofold.
+Mill’s *A System of Logic* (1843) is the most ambitious attempt to *systematize* induction. His contribution is twofold.
 
 **(i) The methods of experimental inquiry.** Mill codified five methods:
 
@@ -153,9 +153,9 @@ The argument is a *pragmatic* justification: it does not show that induction is 
 
 **(i) The “if any method succeeds” clause.** The argument presupposes that induction is the *only* method that could succeed. But this is *false*: a method that predicts the *violation* of uniformity (the “counter-inductive” method) would succeed if nature is *not* uniform. The argument is silent on the comparison between induction and its rivals.
 
-**(ii) The “long run” problem.** Reichenbach’s vindication is *asymptotic*: induction converges on the truth in the *limit* of infinite evidence. But finite agents do not have infinite evidence, and the *short-run* behaviour of induction is not justified by the long-run convergence. (This is the “short-run” objection, and it is serious.)
+**(ii) The “long run” problem.** Reichenbach’s vindication is *asymptotic*: induction converges on the truth in the *limit* of infinite evidence. But finite agents do not have infinite evidence, and the *short-run* behavior of induction is not justified by the long-run convergence. (This is the “short-run” objection, and it is serious.)
 
-**(iii) The “definition” problem.** The argument is *conditional*: *if* the future is uniform, induction works. But the sceptic’s question is precisely whether the future *is* uniform. The argument does not answer the question; it *brackets* it.
+**(iii) The “definition” problem.** The argument is *conditional*: *if* the future is uniform, induction works. But the skeptic’s question is precisely whether the future *is* uniform. The argument does not answer the question; it *brackets* it.
 
 **(iv) The “generality” problem.** The argument is a version of **Pascal’s wager**: it recommends a bet on the basis of a *possibility*, not a *probability*. The recommendation is rational only if the *expected value* of the bet is higher than the alternatives, and the expected value depends on the probability of uniformity, which is precisely what is in question.
 
@@ -173,11 +173,11 @@ The claim: “induction is justified” is *analytic*. To be *reasonable* is, *b
 
 **The objections.**
 
-**(i) The “persuasive definition” objection.** The argument *defines* “reasonable” in a way that makes induction reasonable *by fiat*. But the sceptic can *deny* the definition: she can say, “I use ‘reasonable’ differently, and on my usage, induction is not reasonable.” The argument is a *stipulation*, not a *justification*.
+**(i) The “persuasive definition” objection.** The argument *defines* “reasonable” in a way that makes induction reasonable *by fiat*. But the skeptic can *deny* the definition: she can say, “I use ‘reasonable’ differently, and on my usage, induction is not reasonable.” The argument is a *stipulation*, not a *justification*.
 
 **(ii) The “circularity” objection.** The argument is circular: it *assumes* that induction is the standard of reasonableness, and it concludes that induction is reasonable. The circle is *not* made virtuous by being *semantic*.
 
-**(iii) The “sceptic’s question” objection.** The sceptic’s question is not “is induction *called* reasonable?” but “is induction *truth-conducive*?” The dissolution *changes the subject*: it answers a *verbal* question, not the *epistemic* one.
+**(iii) The “skeptic’s question” objection.** The skeptic’s question is not “is induction *called* reasonable?” but “is induction *truth-conducive*?” The dissolution *changes the subject*: it answers a *verbal* question, not the *epistemic* one.
 
 The dissolution is *elegant* and *unsatisfying*. Its value is *diagnostic*: it shows that the *demand* for a justification of induction may rest on a *false* picture of justification — the picture on which justification must be *external* to the practice. (This is the *quietist* response, Ch. 6, §6.5, applied to induction.)
 
@@ -200,7 +200,7 @@ Karl Popper (*The Logic of Scientific Discovery*, 1934/1959) offered the most *r
 
 **(iii) The “acceptance” problem.** Popper says that we *accept* corroborated hypotheses *provisionally*. But *acceptance* is a *practical* attitude, and the *rationality* of the acceptance requires a *justification* — the very justification that Popper denies.
 
-**(iv) The “no knowledge” problem.** If there is no induction, there is no *knowledge* of the unobserved. The most that we can have is *corroboration*, which is not knowledge. This is a *sceptical* consequence, and Popper accepts it: “we do not know, we can only guess.” Whether this is *acceptable* is a matter of philosophical temperament.
+**(iv) The “no knowledge” problem.** If there is no induction, there is no *knowledge* of the unobserved. The most that we can have is *corroboration*, which is not knowledge. This is a *skeptical* consequence, and Popper accepts it: “we do not know, we can only guess.” Whether this is *acceptable* is a matter of philosophical temperament.
 
 Popper’s response is the most *consistent* of the classical attempts: it *accepts* the Humean conclusion and *rejects* the premise that science needs induction. Its *cost* is that it makes *knowledge* of the unobserved impossible — which is a high price to pay for consistency.
 
@@ -211,8 +211,8 @@ Popper’s response is the most *consistent* of the classical attempts: it *acce
 | **Hume** | Custom and habit | The practice of induction | The justification | Naturalistic; the problem remains |
 | **Mill** | The uniformity principle | The methods; the hierarchy | The non-circularity | Circular; coherentist |
 | **Reichenbach** | Pragmatic vindication | The rationality of the practice | The epistemic justification | Conditional; the long run |
-| **Strawson** | Analytic dissolution | The meaning of “reasonable” | The sceptic’s question | Verbal; unsatisfying |
-| **Popper** | Falsificationism | The deductive logic of testing | The knowledge of the unobserved | Consistent; sceptical |
+| **Strawson** | Analytic dissolution | The meaning of “reasonable” | The skeptic’s question | Verbal; unsatisfying |
+| **Popper** | Falsificationism | The deductive logic of testing | The knowledge of the unobserved | Consistent; skeptical |
 
 The table is the *classical* map. The *modern* map is the subject of §§3–6.
 
@@ -346,9 +346,9 @@ In the *hypothesis-testing* context:
 
 The theorem is the *engine* of Bayesian confirmation: it says how the evidence *should* change the credence.
 
-### 4.3 Conditionalisation
+### 4.3 Conditionalization
 
-The **diachronic** norm of Bayesianism is **conditionalisation**: when the subject learns $E$ (and nothing else), her new credence in $H$ should be her old conditional credence:
+The **diachronic** norm of Bayesianism is **conditionalization**: when the subject learns $E$ (and nothing else), her new credence in $H$ should be her old conditional credence:
 
 $$
 P_{\text{new}}(H) = P_{\text{old}}(H \mid E).
@@ -356,14 +356,14 @@ $$
 
 The rule is the *dynamic* counterpart of the *static* axioms. It says how credences should *change* over time.
 
-**The Dutch book argument** (Lewis 1999; Teller 1973; van Fraassen 1984). The argument is a *pragmatic* justification of conditionalisation:
+**The Dutch book argument** (Lewis 1999; Teller 1973; van Fraassen 1984). The argument is a *pragmatic* justification of conditionalization:
 
 $$
 \begin{array}{ll}
-1. & \text{If a subject’s credences violate conditionalisation, a bookie can construct a set of bets that guarantees a sure loss (a “Dutch book”) regardless of the truth of the propositions.} \\
+1. & \text{If a subject’s credences violate conditionalization, a bookie can construct a set of bets that guarantees a sure loss (a “Dutch book”) regardless of the truth of the propositions.} \\
 2. & \text{A rational subject will not accept a sure loss.} \\
 \hline
-3. & \therefore \text{A rational subject’s credences satisfy conditionalisation.}
+3. & \therefore \text{A rational subject’s credences satisfy conditionalization.}
 \end{array}
 $$
 
@@ -373,9 +373,9 @@ The **synchronic** version (Ramsey, de Finetti) argues the same for the probabil
 
 **(i) The “pragmatic” objection.** The argument shows that *if* you want to avoid a sure loss, you should be coherent. But *why* should you want to avoid a sure loss? The *epistemic* rationality of credences is not the same as the *pragmatic* rationality of betting. (The argument is a *pragmatic* justification, not an *epistemic* one.)
 
-**(ii) The “accuracy” response** (Joyce 1998; Pettigrew 2016). The *accuracy-first* programme argues that credences should be *accurate* — close to the truth — and that the *probabilistic* credences are the *only* ones that cannot be *accuracy-dominated*: any departure from the axioms can be beaten on accuracy by a credence function that respects them. The argument is *epistemic* rather than *pragmatic*, and it is one of the most important developments in the field in the last few decades. (The argument is contested; see the essays in Pettigrew and Weisberg 2019.)
+**(ii) The “accuracy” response** (Joyce 1998; Pettigrew 2016). The *accuracy-first* program argues that credences should be *accurate* — close to the truth — and that the *probabilistic* credences are the *only* ones that cannot be *accuracy-dominated*: any departure from the axioms can be beaten on accuracy by a credence function that respects them. The argument is *epistemic* rather than *pragmatic*, and it is one of the most important developments in the field in the last few decades. (The argument is contested; see the essays in Pettigrew and Weisberg 2019.)
 
-**(iii) The “conditionalisation” objection.** Conditionalisation is *not* the only update rule. **Jeffrey conditionalisation** (Jeffrey 1965) handles the case where the subject’s evidence is *uncertain*; **Adams conditioning** handles the case where the evidence is a *conditional*; and the **“reflection” principle** (van Fraassen 1984) adds a constraint on *future* credences. The rule is *contested*, and the *choice* among the rules is a *substantive* issue.
+**(iii) The “conditionalization” objection.** Conditionalization is *not* the only update rule. **Jeffrey conditionalization** (Jeffrey 1965) handles the case where the subject’s evidence is *uncertain*; **Adams conditioning** handles the case where the evidence is a *conditional*; and the **“reflection” principle** (van Fraassen 1984) adds a constraint on *future* credences. The rule is *contested*, and the *choice* among the rules is a *substantive* issue.
 
 ### 4.4 Bayesian confirmation
 
@@ -399,7 +399,7 @@ The evidence confirms the hypothesis if it is *more likely* under the hypothesis
 - **Confirmation is a matter of degree**: the *amount* of confirmation is the *difference* between the posterior and the prior.
 - **Confirmation is not *deductive*: the evidence does not *entail* the hypothesis; it *raises its probability*.
 
-**The application to induction.** The Bayesian framework *reconstructs* induction as a *sequence* of conditionalisations. The “inductive principle” is *not* a premise; it is *encoded* in the *prior* and the *likelihood*. The *justification* of induction becomes the *justification* of the prior, which is the subject of §5.
+**The application to induction.** The Bayesian framework *reconstructs* induction as a *sequence* of conditionalizations. The “inductive principle” is *not* a premise; it is *encoded* in the *prior* and the *likelihood*. The *justification* of induction becomes the *justification* of the prior, which is the subject of §5.
 
 ### 4.5 The ravens paradox
 
@@ -443,7 +443,7 @@ The **subjectivist** (de Finetti 1974; Savage 1954; Jeffrey 1965) response: the 
 
 The **objectivist** (Jeffreys 1939; Jaynes 2003; Williamson 2010) response: the prior can be *determined* by *principles of rationality*, not by *subjective choice*.
 
-**The principle of indifference.** If there is *no evidence* favouring one hypothesis over another, the hypotheses should be assigned *equal* probability.
+**The principle of indifference.** If there is *no evidence* favoring one hypothesis over another, the hypotheses should be assigned *equal* probability.
 
 $$
 P(H_1) = P(H_2) = \cdots = P(H_n) = \frac{1}{n}.
@@ -466,7 +466,7 @@ The problem of the priors is *unresolved*, and it is the *residue* of the proble
 **What the framework *does* provide.**
 
 - A *formal* account of *confirmation*, *evidence*, and *update*.
-- A *normative* standard for *consistency* (the axioms) and *dynamic coherence* (conditionalisation).
+- A *normative* standard for *consistency* (the axioms) and *dynamic coherence* (conditionalization).
 - A *language* for *comparing* hypotheses and *quantifying* uncertainty.
 
 **What the framework *does not* provide.**
@@ -475,7 +475,7 @@ The problem of the priors is *unresolved*, and it is the *residue* of the proble
 - A *solution* to the *problem of induction*.
 - A *guarantee* that the posterior is *true*.
 
-The framework is a *tool*, not a *foundation*. It *organises* the problem; it does not *solve* it. The *honest* position is the one Ch. 4, §3.6 recommended: *specify the costs*, *specify the alternatives*, and *calibrate the confidence*.
+The framework is a *tool*, not a *foundation*. It *organizes* the problem; it does not *solve* it. The *honest* position is the one Ch. 4, §3.6 recommended: *specify the costs*, *specify the alternatives*, and *calibrate the confidence*.
 
 ### 5.5 The meta-induction
 
@@ -562,7 +562,7 @@ The **Bayesian** response to IBE is the most important *reduction* in the field.
 
 The *correlation* is *not* an *identity*. The *explanatory virtues* are *not* *sufficient* for the *posterior*, and the *Bayesian* reconstruction is *not* a *reduction*.
 
-**The qualification** (Weisberg 2009). The compatibility of IBE and Bayesianism is *not* free. On Weisberg’s view, *subjectivist* Bayesianism can accommodate IBE only if IBE is made *subservient* to conditionalisation in a way that robs IBE of much of its substance and interest; the *objectivist* Bayesian is the better partner.
+**The qualification** (Weisberg 2009). The compatibility of IBE and Bayesianism is *not* free. On Weisberg’s view, *subjectivist* Bayesianism can accommodate IBE only if IBE is made *subservient* to conditionalization in a way that robs IBE of much of its substance and interest; the *objectivist* Bayesian is the better partner.
 
 **The critics** (Douven 1999; Cabrera 2017) argue that IBE is *not* reducible:
 
@@ -617,7 +617,7 @@ The *most* *important* *practical* *consequence* of the *Bayesian* *framework* i
 
 **The base-rate fallacy** (Kahneman & Tversky 1973). *Subjects* *neglect* the *base rate* (the *prior probability*) and *focus* on the *likelihood* (the *diagnostic* information). The *classic* *example*:
 
-> A *taxi* *cab* *was* *involved* in a *hit-and-run* *accident* at *night*. Two *cab* *companies* *operate* in the *city*: the *Green* *Cab* *Company* (85% of the *cabs*) and the *Blue* *Cab* *Company* (15%). A *witness* *identified* the *cab* as *Blue*. The *court* *tested* the *witness’s* *reliability* under the *same* *conditions* and *concluded* that the *witness* *correctly* *identified* the *colour* 80% of the *time* and *incorrectly* 20% of the *time*. What is the *probability* that the *cab* *was* *Blue*?
+> A *taxi* *cab* *was* *involved* in a *hit-and-run* *accident* at *night*. Two *cab* *companies* *operate* in the *city*: the *Green* *Cab* *Company* (85% of the *cabs*) and the *Blue* *Cab* *Company* (15%). A *witness* *identified* the *cab* as *Blue*. The *court* *tested* the *witness’s* *reliability* under the *same* *conditions* and *concluded* that the *witness* *correctly* *identified* the *color* 80% of the *time* and *incorrectly* 20% of the *time*. What is the *probability* that the *cab* *was* *Blue*?
 
 **The Bayesian answer.**
 
@@ -671,10 +671,10 @@ The *empirical* *findings* have *generated* a *philosophical* *debate* about *ra
 
 | Position | Claim | Proponents |
 |---|---|---|
-| **The “heuristics and biases” *programme*** | Humans are *systematically* *irrational*; the *heuristics* *produce* *predictable* *errors* | Kahneman, Tversky |
-| **The “ecological” *programme*** | Humans are *ecologically* *rational*; the *heuristics* are *adapted* to the *environment* | Gigerenzer, Todd |
-| **The “dual-process” *programme*** | Humans have *two* *systems*: a *fast*, *automatic* *system* and a *slow*, *deliberative* *system* | Kahneman, Stanovich |
-| **The “bounded” *programme*** | Rationality is *bounded* by *computational* *limits*; the *norms* must be *feasible* | Simon |
+| **The “heuristics and biases” *program*** | Humans are *systematically* *irrational*; the *heuristics* *produce* *predictable* *errors* | Kahneman, Tversky |
+| **The “ecological” *program*** | Humans are *ecologically* *rational*; the *heuristics* are *adapted* to the *environment* | Gigerenzer, Todd |
+| **The “dual-process” *program*** | Humans have *two* *systems*: a *fast*, *automatic* *system* and a *slow*, *deliberative* *system* | Kahneman, Stanovich |
+| **The “bounded” *program*** | Rationality is *bounded* by *computational* *limits*; the *norms* must be *feasible* | Simon |
 
 The *debate* is *unresolved*, and it is *connected* to the *theory* of *justification* (Ch. 8, §5): if *justification* requires *reliability*, and the *heuristics* are *reliable* in the *ecologically* *relevant* *environment*, then the *heuristics* are *justified*. If *justification* requires *accuracy* in the *modern* *environment*, the *heuristics* are *not* *justified*.
 
@@ -700,7 +700,7 @@ The *posterior* is *1.94%* — *less* than *2%*.
 
 **The *lesson*.** The *test* is *highly* *accurate* (99% *sensitive*, 95% *specific*), but the *posterior* is *low*, because the *base rate* is *low*. The *intuitive* *answer* (“the *test* is *99%* *accurate*, so the *probability* is *99%*”) is *wrong* by a *factor* of *50*. The *base-rate* *fallacy* is *not* a *rare* *error*; it is the *default* *error*.
 
-**The *practical* *consequence*.** The *medical* *test* *example* is *routinely* *misused* in *screening* *programmes* and in *public* *health* *communication*. The *correct* *interpretation* of a *positive* *test* *requires* the *prior* — and the *prior* is *the* *base* *rate*, which is *usually* *not* *stated*.
+**The *practical* *consequence*.** The *medical* *test* *example* is *routinely* *misused* in *screening* *programs* and in *public* *health* *communication*. The *correct* *interpretation* of a *positive* *test* *requires* the *prior* — and the *prior* is *the* *base* *rate*, which is *usually* *not* *stated*.
 
 ---
 
@@ -710,7 +710,7 @@ The *posterior* is *1.94%* — *less* than *2%*.
 
 - **Hume’s problem is real.** There is no *non-circular* justification of induction *in the foundationalist sense*.
 - **The problem is structural.** It is not a *quirk* of *induction*; it is a *feature* of *ampliative* inference *in general* (Ch. 2, §2.4).
-- **The Bayesian framework is the best formal tool.** It *organises* the problem, *quantifies* the uncertainty, and *constrains* the update.
+- **The Bayesian framework is the best formal tool.** It *organizes* the problem, *quantifies* the uncertainty, and *constrains* the update.
 - **The problem of the priors is the residue.** The framework *relocates* the problem; it does not *solve* it.
 - **IBE is indispensable.** It is the *engine* of *science* and *philosophy*, and it is *not* *reducible* to *Bayesianism* *without* *remainder*.
 - **Statistical reasoning is a practical skill.** The *base-rate* *fallacy* and the *prosecutor’s* *fallacy* are *real*, *consequential*, and *teachable*.
@@ -729,7 +729,7 @@ The chapter is a case study in the method of Part I.
 
 - **Conceptual analysis** (§1 of Ch. 3) generated the *classical* distinction between *demonstrative* and *probable* reasoning.
 - **Thought experiments** (§2 of Ch. 3) — the *grue* case, the *ravens* paradox, the *taxi* cab — are the *engine* of the debate.
-- **Formalization** (§3 of Ch. 3) — the *probability* *axioms*, *Bayes’ theorem*, *conditionalisation* — is essential for the *Bayesian* *framework*.
+- **Formalization** (§3 of Ch. 3) — the *probability* *axioms*, *Bayes’ theorem*, *conditionalization* — is essential for the *Bayesian* *framework*.
 - **Reflective equilibrium** (§4 of Ch. 3) is the method by which the *intuitions* and the *theories* are adjusted.
 - **Genealogy and debunking** (§5 of Ch. 3) — the *evolutionary* *debunking* of *induction* — is a *serious* *challenge*.
 - **Negative capability** (§7 of Ch. 3) is the *response* to the *residue*: the *humility* to hold the *question* open.
@@ -740,7 +740,7 @@ The *honest* verdict: the problem of induction is a *field in transition*. The *
 
 | Position | Core claim | Strength | Weakness |
 |---|---|---|---|
-| **Humean scepticism** | Induction is unjustified | *Honest* about the *circle* | *No* *guidance* for *practice* |
+| **Humean skepticism** | Induction is unjustified | *Honest* about the *circle* | *No* *guidance* for *practice* |
 | **Mill** | The uniformity principle is the foundation | *Systematic* | *Circular* |
 | **Reichenbach** | Pragmatic vindication | *Robust* | *Conditional*; the *long run* |
 | **Strawson** | Analytic dissolution | *Elegant* | *Verbal* |
@@ -773,9 +773,9 @@ Cross-cutting material, for the reader who wants to go deeper.
 ## Summary
 
 - **Hume’s problem** has two forms: the *epistemic* (induction is unjustified) and the *metaphysical* (there is no necessary connection in nature). The *epistemic* form is the *circle*: the uniformity principle cannot be justified without *presupposing* it. The *metaphysical* form is the *projection*: necessary connection is a *feeling* of the mind, not a *feature* of the world.
-- **The classical attempts** — Mill, Reichenbach, Strawson, Popper — all *fail* in *characteristic* ways. Mill is *circular*; Reichenbach is *conditional*; Strawson is *verbal*; Popper is *sceptical*.
+- **The classical attempts** — Mill, Reichenbach, Strawson, Popper — all *fail* in *characteristic* ways. Mill is *circular*; Reichenbach is *conditional*; Strawson is *verbal*; Popper is *skeptical*.
 - **Goodman’s riddle** *deepens* the problem: the *evidence* does not *select* the *projectible* *predicates*. The *solution* (entrenchment) is *naturalistic* but *circular*, and the *new* *predicates* *problem* is *unresolved*.
-- **The Bayesian framework** is the *best* *formal* *tool*. The *axioms*, *Bayes’ theorem*, and *conditionalisation* *organise* the problem. The *justification* of the *framework* is *pragmatic* (Dutch book) or *epistemic* (accuracy). The *framework* *relocates* the problem to the *priors*.
+- **The Bayesian framework** is the *best* *formal* *tool*. The *axioms*, *Bayes’ theorem*, and *conditionalization* *organize* the problem. The *justification* of the *framework* is *pragmatic* (Dutch book) or *epistemic* (accuracy). The *framework* *relocates* the problem to the *priors*.
 - **The problem of the priors** is the *residue*. The *subjectivist* *response* (de Finetti) is *honest* but *unjustified*; the *objectivist* *response* (Jeffreys, Jaynes) is *ambitious* but *vulnerable* to *Bertrand’s* *paradox*. The *meta-induction* (Schurz) is the *most promising* *new* *response*, and it is *contested*.
 - **IBE** is the *most important* *ampliative* *inference* in *science* and *philosophy*. Lipton’s *loveliest* *explanation*, the *circularity* *problem*, the *Bayesian* *reduction*, and the *van Fraassen* *challenge* are the *central* *issues*.
 - **Statistical reasoning** is the *practical* *form* of the problem. The *base-rate* *fallacy*, the *prosecutor’s* *fallacy*, and the *frequency* *format* are the *key* *findings*. The *rationality* *debate* is *unresolved*, and the *epistemic* *lesson* is that *rationality* is a *skill* that can be *taught*.

@@ -9,7 +9,7 @@
 
 Begin with a scene that will be familiar to anyone who has taught the subject. A student arrives at the first lecture expecting to be told the answers. When she is instead given two incompatible answers, each defended with care, she concludes — politely but firmly — that philosophy is a matter of opinion. “That’s just, like, your perspective.” She has not been persuaded by an argument; she has been disappointed by the absence of a verdict.
 
-This is the **naive picture**: philosophy is a catalogue of worldviews. There are Platonists, Aristotelians, Cartesians, Kantians, Utilitarians, Existentialists; each has a system; you choose one the way you choose a political party or a football team. On this picture, the history of philosophy is a museum of incompatible doctrines, and the activity of philosophy is the activity of picking a room in the museum and settling in.
+This is the **naive picture**: philosophy is a catalog of worldviews. There are Platonists, Aristotelians, Cartesians, Kantians, Utilitarians, Existentialists; each has a system; you choose one the way you choose a political party or a football team. On this picture, the history of philosophy is a museum of incompatible doctrines, and the activity of philosophy is the activity of picking a room in the museum and settling in.
 
 The naive picture is not stupid. It is the natural inference from three genuine features of the discipline:
 
@@ -23,11 +23,11 @@ Each of these is true. Together they seem to force the conclusion that philosoph
 
 **Second error: treating disagreement as evidence of arbitrariness.** Disagreement is evidence of *difficulty*, not of *subjectivity*, unless we have independent reason to think that agreement would have been forthcoming if there were a fact of the matter. In the sciences, disagreement is normally local and temporary; in philosophy it is global and durable. That difference is real and must be explained. But the explanation might be that philosophical questions are *harder*, or *more general*, or *more closely tied to the whole of our framework of belief* — not that they have no answers. Compare: there is durable, global disagreement about how to raise children, and yet some ways of raising children are clearly worse than others. Durability of disagreement underdetermines the metaphysics.
 
-**Third error: mistaking the sociology for the content.** That philosophy is *practised* by people with temperaments, in departments with politics, in cultures with histories, is a fact about philosophers. It does not follow that the *propositions they assert* are merely expressions of those facts. This is a special case of a general fallacy: the genetic fallacy, the confusion of an account of a belief’s *origin* with an account of its *warrant*. (We will return to this in Ch. 3, §5, when we discuss genealogical debunking.)
+**Third error: mistaking the sociology for the content.** That philosophy is *practiced* by people with temperaments, in departments with politics, in cultures with histories, is a fact about philosophers. It does not follow that the *propositions they assert* are merely expressions of those facts. This is a special case of a general fallacy: the genetic fallacy, the confusion of an account of a belief’s *origin* with an account of its *warrant*. (We will return to this in Ch. 3, §5, when we discuss genealogical debunking.)
 
 There is, however, a fourth feature of philosophy that the naive picture obscures and that any honest account must accommodate: **philosophy is reflexive in a way the sciences are not.** The physicist can take for granted what physics is, what a theory is, what evidence is, and what it is for one theory to be better than another. The philosopher cannot take these for granted, because they are among her questions. This reflexivity is the source of philosophy’s peculiar difficulty — and of its peculiar value. It is also the reason philosophy so often *looks* like opinion from the outside: it is the discipline in which the standards of assessment are themselves on the table.
 
-So the naive picture fails. But it fails for a reason that points toward the right picture. If philosophy is not a catalogue of opinions, what is it?
+So the naive picture fails. But it fails for a reason that points toward the right picture. If philosophy is not a catalog of opinions, what is it?
 
 ---
 
@@ -37,11 +37,11 @@ Philosophers have proposed many definitions of their subject. Three are worth di
 
 ### (a) Philosophy as conceptual analysis
 
-The classical conception: philosophy’s job is to analyse concepts — to give necessary and sufficient conditions for their application. What is *knowledge*? What is *causation*? What is *justice*? What is a *person*? On this view, the philosopher’s characteristic product is a biconditional:
+The classical conception: philosophy’s job is to analyze concepts — to give necessary and sufficient conditions for their application. What is *knowledge*? What is *causation*? What is *justice*? What is a *person*? On this view, the philosopher’s characteristic product is a biconditional:
 
 > $x$ is a $K$ if and only if $x$ is $F_1$ and $F_2$ and … and $F_n$.
 
-The model has real virtues. It explains why philosophy can deliver *a priori* knowledge (Ch. 9): if you are analysing a concept you already possess, you do not need to go and look at the world. It explains why conceptual analysis feels like *discovery* rather than *invention*. And it has produced some of philosophy’s most durable achievements — Plato’s analysis of knowledge in the *Theaetetus*, the theory of descriptions (Ch. 12, §2), the distinction between *de dicto* and *de re* modality (Ch. 16).
+The model has real virtues. It explains why philosophy can deliver *a priori* knowledge (Ch. 9): if you are analyzing a concept you already possess, you do not need to go and look at the world. It explains why conceptual analysis feels like *discovery* rather than *invention*. And it has produced some of philosophy’s most durable achievements — Plato’s analysis of knowledge in the *Theaetetus*, the theory of descriptions (Ch. 12, §2), the distinction between *de dicto* and *de re* modality (Ch. 16).
 
 It also has well-known vices, which the book will treat in detail (Ch. 3, §1):
 
@@ -76,11 +76,11 @@ The advantage of this formulation is that it covers the whole of the book withou
 
 The unifying thesis of this book, then, is this:
 
-> **Philosophy is not a catalogue of opinions but a discipline of systematic analysis — the disciplined study of what we would have to show, say, and assume in order to make our ordinary beliefs, concepts, and practices coherent.**
+> **Philosophy is not a catalog of opinions but a discipline of systematic analysis — the disciplined study of what we would have to show, say, and assume in order to make our ordinary beliefs, concepts, and practices coherent.**
 
-The three definitions are three aspects of one activity: analysis clarifies the concept, reconstruction makes explicit the practice, and the conditions-of-intelligibility question tells us what the whole thing is *for*. None of them is a definition in the sense of a set of necessary and sufficient conditions — and a reader who has already absorbed Chapter 3 will recognise that as a feature, not a bug.
+The three definitions are three aspects of one activity: analysis clarifies the concept, reconstruction makes explicit the practice, and the conditions-of-intelligibility question tells us what the whole thing is *for*. None of them is a definition in the sense of a set of necessary and sufficient conditions — and a reader who has already absorbed Chapter 3 will recognize that as a feature, not a bug.
 
-**A note on the history of philosophy.** On this conception, the history of philosophy is not the subject; it is *data*. The great dead philosophers are not authorities to be cited but interlocutors to be assessed — and, as we shall see in §6, the *careers* of their questions are themselves philosophically informative. To treat Plato as an oracle is to insult him; to treat him as a colleague is to honour him.
+**A note on the history of philosophy.** On this conception, the history of philosophy is not the subject; it is *data*. The great dead philosophers are not authorities to be cited but interlocutors to be assessed — and, as we shall see in §6, the *careers* of their questions are themselves philosophically informative. To treat Plato as an oracle is to insult him; to treat him as a colleague is to honor him.
 
 ---
 
@@ -92,19 +92,19 @@ The list of Russell’s questions — what is there? what can we know? what is a
 
 But the *durability* of the questions is not the same as the *permanence* of the problems, and the difference matters enormously for how we should read the history of the subject.
 
-There is a tradition — the *philosophia perennis* to which Leibniz gave his name (though the term is older, going back to Agostino Steuco), and which Aldous Huxley popularised as “the perennial philosophy” — according to which the great questions have been asked and answered, and the answers are essentially the same across cultures. The tradition has a grain of truth: the questions do recur. But the claim that the *problems* are permanent is a different and much stronger claim, and it is false in a way that has misled generations of students.
+There is a tradition — the *philosophia perennis* to which Leibniz gave his name (though the term is older, going back to Agostino Steuco), and which Aldous Huxley popularized as “the perennial philosophy” — according to which the great questions have been asked and answered, and the answers are essentially the same across cultures. The tradition has a grain of truth: the questions do recur. But the claim that the *problems* are permanent is a different and much stronger claim, and it is false in a way that has misled generations of students.
 
 Consider three kinds of case.
 
-**Case 1: The problem is transformed.** The medieval problem of universals — do general terms name real entities, or only particulars? — is recognisably the same question as the contemporary debate between realism about properties, trope theory, and nominalism (Ch. 15). But the *form* of the debate has been transformed: Ockham’s nominalism is not Quine’s, and Armstrong’s immanent realism is not Plato’s transcendent realism. The question persists; the space of answers has been reconstructed; the standards of adequacy have changed (we now demand, for example, that an account of properties explain the projectibility of predicates — Ch. 39, §3 — not merely the possibility of predication). The problem was not solved; it was *re-engineered*.
+**Case 1: The problem is transformed.** The medieval problem of universals — do general terms name real entities, or only particulars? — is recognizably the same question as the contemporary debate between realism about properties, trope theory, and nominalism (Ch. 15). But the *form* of the debate has been transformed: Ockham’s nominalism is not Quine’s, and Armstrong’s immanent realism is not Plato’s transcendent realism. The question persists; the space of answers has been reconstructed; the standards of adequacy have changed (we now demand, for example, that an account of properties explain the projectibility of predicates — Ch. 39, §3 — not merely the possibility of predication). The problem was not solved; it was *re-engineered*.
 
-**Case 2: The problem is dissolved.** “What is the substance of the soul?” “How many angels can dance on the head of a pin?” “Is the will free in the sense that it could have done otherwise under *exactly* the same circumstances, including the same desires?” The first presupposed a substance ontology of the mental that most of us no longer accept; the second presupposed a metaphysics of angels that no one now accepts; the third, as compatibilists have argued for three centuries (Ch. 27), may be a question whose presuppositions are incoherent. Dissolution is a form of progress — one of the most important forms — but it is not the form the naive picture recognises as progress, because it does not produce a *doctrine*.
+**Case 2: The problem is dissolved.** “What is the substance of the soul?” “How many angels can dance on the head of a pin?” “Is the will free in the sense that it could have done otherwise under *exactly* the same circumstances, including the same desires?” The first presupposed a substance ontology of the mental that most of us no longer accept; the second presupposed a metaphysics of angels that no one now accepts; the third, as compatibilists have argued for three centuries (Ch. 27), may be a question whose presuppositions are incoherent. Dissolution is a form of progress — one of the most important forms — but it is not the form the naive picture recognizes as progress, because it does not produce a *doctrine*.
 
 **Case 3: The problem is answered.** This happens more often than philosophers like to admit, and the answers are often absorbed so thoroughly that they cease to look like philosophy. That there is no such thing as a “natural slave” — the view of much of the ancient world, and defended by Aristotle himself in the *Politics* (I.6) — is now a philosophical consensus, and the arguments that produced it — arguments about the moral irrelevance of natural endowment, about the universality of the capacity for practical reason — are philosophical arguments. That the state exists for the sake of the governed, not the governed for the sake of the state, is a philosophical achievement of the early modern period. That women have the capacity for rational agency is a philosophical achievement whose recency should chasten us. We do not notice these answers because they have become the *background* against which we ask the remaining questions.
 
 The lesson is a distinction the reader should carry through the whole book:
 
-> **A question can be permanent because it is deep, or because it is badly posed. The first kind deserves our labour; the second deserves our diagnosis.**
+> **A question can be permanent because it is deep, or because it is badly posed. The first kind deserves our labor; the second deserves our diagnosis.**
 
 The diagnostic question is: *what would count as progress on this question?* If we can specify in advance what would count as an answer — a new distinction, a new argument, a new empirical finding, a demonstration that the question rests on a false presupposition — then the question is a real one, even if the answer is far off. If we cannot specify any such thing, we should suspect that the question is a pseudo-question, or a verbal dispute in disguise (Ch. 33, §4.3), or a question whose form has been inherited from a framework we no longer accept.
 
@@ -113,13 +113,13 @@ Two errors must be avoided here, and they are mirror images of each other.
 - **Triumphalist historicism**: the view that all previous philosophy was confused, and that we have now got it right. This is almost always false, and it is usually a sign that the philosopher has not read enough history to know which of her own assumptions are historically contingent.
 - **Antiquarianism**: the view that the ancients already said everything, and that our only task is to recover it. This is almost always false too, and it is usually a sign that the philosopher has not noticed how much of the ancient framework has been dismantled by subsequent work — sometimes by philosophy itself.
 
-The truth is in the middle, and it is the truth this book tries to practise: **the questions are real, the answers are provisional, and the history of the answers is part of the evidence.**
+The truth is in the middle, and it is the truth this book tries to practice: **the questions are real, the answers are provisional, and the history of the answers is part of the evidence.**
 
 ---
 
-## 4. Philosophy and Its Neighbours: Where the Handoff Happens
+## 4. Philosophy and Its Neighbors: Where the Handoff Happens
 
-Philosophy has no proprietary subject matter. It has a proprietary *question* — the question of what is presupposed — and this question can be asked of any domain. That is why philosophy has neighbours, and why the boundaries are contested.
+Philosophy has no proprietary subject matter. It has a proprietary *question* — the question of what is presupposed — and this question can be asked of any domain. That is why philosophy has neighbors, and why the boundaries are contested.
 
 ### Science
 
@@ -127,7 +127,7 @@ The standard picture is a **handoff**: philosophy generates questions; when a qu
 
 The handoff picture is largely true as history. But it is misleading as a picture of the *current* relation, for three reasons.
 
-First, **the handoff is never complete.** Science does not merely inherit questions from philosophy; it inherits *presuppositions* that it cannot examine from within. That the future will resemble the past (Ch. 10), that the external world exists (Ch. 6), that our theories approximate the truth (Ch. 40), that the mathematics in which our theories are expressed refers to something (Ch. 43) — these are not scientific results. They are commitments that science makes, and philosophy is the discipline that examines them. This is not a criticism of science; it is a description of the division of labour. A discipline cannot audit its own foundations while standing on them.
+First, **the handoff is never complete.** Science does not merely inherit questions from philosophy; it inherits *presuppositions* that it cannot examine from within. That the future will resemble the past (Ch. 10), that the external world exists (Ch. 6), that our theories approximate the truth (Ch. 40), that the mathematics in which our theories are expressed refers to something (Ch. 43) — these are not scientific results. They are commitments that science makes, and philosophy is the discipline that examines them. This is not a criticism of science; it is a description of the division of labor. A discipline cannot audit its own foundations while standing on them.
 
 Second, **the traffic runs both ways.** Philosophy constrains science as much as science constrains philosophy. The interpretation of quantum mechanics (Ch. 19, §5; Ch. 41) is not an empirical question; it is a question about what the formalism *means*, and it is settled by arguments about locality, determinism, and the nature of measurement. The ethics of research (Ch. 39, §6) is not an empirical question either. The philosophy of biology has changed how biologists think about species and function (Ch. 42). The influence is not one-directional.
 
@@ -163,7 +163,7 @@ The answer is not that philosophy *does* make progress in the way science does. 
 
 ### (i) Progress in clarity
 
-The dissolution of a pseudo-problem is a genuine advance, even though it produces no doctrine. When Ryle (1949) argued that the “ghost in the machine” is a category mistake, he did not prove that minds are physical; he showed that a certain way of posing the mind–body problem was confused. When Wittgenstein asked what a rule is, and what following a rule consists in, he did not solve the problem of normativity; he made it possible to see what a solution would have to look like (Ch. 31, §6). When contemporary philosophers distinguish the *hard problem* of consciousness from the *easy problems* (Ch. 24), they do not solve either; they reorganise the terrain so that the hard part is visible.
+The dissolution of a pseudo-problem is a genuine advance, even though it produces no doctrine. When Ryle (1949) argued that the “ghost in the machine” is a category mistake, he did not prove that minds are physical; he showed that a certain way of posing the mind–body problem was confused. When Wittgenstein asked what a rule is, and what following a rule consists in, he did not solve the problem of normativity; he made it possible to see what a solution would have to look like (Ch. 31, §6). When contemporary philosophers distinguish the *hard problem* of consciousness from the *easy problems* (Ch. 24), they do not solve either; they reorganize the terrain so that the hard part is visible.
 
 This is not a consolation prize. A problem that is clearly posed is a different problem from one that is not, and the difference is practical: clear problems can be worked on, confused ones cannot.
 
@@ -187,7 +187,7 @@ A great deal of philosophy consists in showing that a question cannot be answere
 
 ### (v) Self-knowledge
 
-Philosophy articulates what we already believe, so that we can criticise it. This is the Socratic function: the unexamined life is not worth living because an unexamined life is one in which the agent does not know what she is committed to. The method of reflective equilibrium (Ch. 3, §4) is precisely the method of bringing our particular judgments and our general principles into a stable, criticisable relation. The result is not a system; it is a *self* that knows what it thinks and why.
+Philosophy articulates what we already believe, so that we can criticize it. This is the Socratic function: the unexamined life is not worth living because an unexamined life is one in which the agent does not know what she is committed to. The method of reflective equilibrium (Ch. 3, §4) is precisely the method of bringing our particular judgments and our general principles into a stable, criticizable relation. The result is not a system; it is a *self* that knows what it thinks and why.
 
 ### The honest qualification
 
@@ -218,7 +218,7 @@ The best way to see what philosophy is is to watch it work. We will trace two qu
 
 **Kant (*Groundwork*, 1785; *Doctrine of Right*, 1797).** Justice is grounded in *autonomy*. A maxim is permissible if the will can will it as a universal law; persons are ends in themselves, never merely means. The question shifts from the *content* of justice to its *ground*: what makes a claim of justice valid? Answer: its universalizability.
 
-**Mill (*Utilitarianism*, 1861).** Justice is a department of morality, and morality is the maximisation of happiness. Justice is the set of rules whose general observance conduces to the greatest happiness; the feeling of justice is the natural sentiment of retaliation, moralised by social sympathy. The question becomes *aggregative*.
+**Mill (*Utilitarianism*, 1861).** Justice is a department of morality, and morality is the maximization of happiness. Justice is the set of rules whose general observance conduces to the greatest happiness; the feeling of justice is the natural sentiment of retaliation, moralized by social sympathy. The question becomes *aggregative*.
 
 **Rawls (*A Theory of Justice*, 1971).** Justice is the first virtue of social institutions, and the question is: which principles would free and equal persons choose behind a veil of ignorance? Answer: the two principles — equal basic liberties, and inequalities only if they benefit the least advantaged. The method shifts from intuition and metaphysics to *contract* and *reflective equilibrium*.
 
@@ -244,11 +244,11 @@ The best way to see what philosophy is is to watch it work. We will trace two qu
 
 **Russell (“On the Notion of Cause,” 1912).** The concept of cause is a relic. Physics has no use for it; the word “cause” is “so inextricably bound up with misleading associations as to make its complete extrusion from the philosophical vocabulary desirable.” The question becomes *eliminative*: should we abandon the concept altogether?
 
-**Lewis (“Causation,” 1973).** Causation is analysed counterfactually: $c$ causes $e$ iff, had $c$ not occurred, $e$ would not have occurred (with complications for pre-emption and overdetermination). The question becomes *semantic* and *modal*.
+**Lewis (“Causation,” 1973).** Causation is analyzed counterfactually: $c$ causes $e$ iff, had $c$ not occurred, $e$ would not have occurred (with complications for pre-emption and overdetermination). The question becomes *semantic* and *modal*.
 
 **Woodward (*Making Things Happen*, 2003).** Causation is *intervention*: $X$ causes $Y$ if an intervention on $X$ changes $Y$. The question becomes *practical* and *manipulability*-theoretic, and it connects directly to experimental method and to the special sciences.
 
-**Mechanists (Machamer, Darden, Craver, 2000).** Causation is the production of change by organised mechanisms; to explain is to describe the mechanism. The question becomes *structural* and *levels*-theoretic.
+**Mechanists (Machamer, Darden, Craver, 2000).** Causation is the production of change by organized mechanisms; to explain is to describe the mechanism. The question becomes *structural* and *levels*-theoretic.
 
 **Contemporary pluralism.** There is no single relation of causation; there are several — difference-making, production, dependence, mechanism — and they answer different questions (Ch. 18). The question becomes *diagnostic*: which concept of cause is in play in this context, and what work is it doing?
 
@@ -260,9 +260,9 @@ The best way to see what philosophy is is to watch it work. We will trace two qu
 
 ### The meta-lesson
 
-Philosophical questions have **careers**. They are asked, answered, criticised, reformulated, abandoned, and revived. The career of a question is not a distraction from the question; it is part of what the question is. A philosopher who does not know the career of her question is likely to rebuild a wheel that was shown, in 1748, not to roll.
+Philosophical questions have **careers**. They are asked, answered, criticized, reformulated, abandoned, and revived. The career of a question is not a distraction from the question; it is part of what the question is. A philosopher who does not know the career of her question is likely to rebuild a wheel that was shown, in 1748, not to roll.
 
-This is why this book is organised around problems rather than around thinkers. The thinkers matter — Appendix D provides a chronological map — but they matter as participants in a conversation, not as monuments in a museum.
+This is why this book is organized around problems rather than around thinkers. The thinkers matter — Appendix D provides a chronological map — but they matter as participants in a conversation, not as monuments in a museum.
 
 ---
 
@@ -278,7 +278,7 @@ Only then, in Part II, do we turn to the terrain: knowledge, and its limits. The
 
 ### Summary
 
-- The **naive picture** — philosophy as a catalogue of opinions — mistakes difficulty for arbitrariness, disagreement for subjectivity, and the sociology of the discipline for its content.
+- The **naive picture** — philosophy as a catalog of opinions — mistakes difficulty for arbitrariness, disagreement for subjectivity, and the sociology of the discipline for its content.
 - Philosophy is best understood as **systematic analysis**: the study of the conditions of intelligibility of our beliefs, concepts, and practices. Conceptual analysis and rational reconstruction are two of its instruments, not its whole nature.
 - The **permanent problems** are not all permanent for the same reason. Some are deep; some are badly posed. Distinguishing them is a central philosophical skill.
 - Philosophy’s relation to science is not a one-way handoff. Science inherits presuppositions it cannot audit; philosophy inherits data and constraints it cannot ignore.
@@ -298,10 +298,10 @@ Only then, in Part II, do we turn to the terrain: knowledge, and its limits. The
 
 - **Primary**: Russell, *The Problems of Philosophy* (1912), Chs. I and XV — still the best short introduction to the spirit of the subject, and the text this book is in conversation with.
 - **On method**: Gilbert Ryle, “Philosophical Arguments” (1945); Isaiah Berlin, “The Purpose of Philosophy” (1962); Bernard Williams, *Philosophy as a Human Discipline* (2000).
-- **On the nature of the subject**: Timothy Williamson, *The Philosophy of Philosophy* (2007), for the ambitious view; Richard Rorty, *Philosophy and the Mirror of Nature* (1979), for the sceptical view; David Chalmers, “Why Isn’t There More Progress in Philosophy?” (2015), for the honest stocktaking.
+- **On the nature of the subject**: Timothy Williamson, *The Philosophy of Philosophy* (2007), for the ambitious view; Richard Rorty, *Philosophy and the Mirror of Nature* (1979), for the skeptical view; David Chalmers, “Why Isn’t There More Progress in Philosophy?” (2015), for the honest stocktaking.
 - **On essentially contested concepts**: W. B. Gallie, “Essentially Contested Concepts” (1956); on conceptual engineering, Cappelen, *Fixing Language* (2018) and Haslanger, *Resisting Reality* (2012).
 - **Historical orientation**: Anthony Kenny, *A New History of Western Philosophy* (2004–07), for a reliable map; Peter Adamson’s *History of Philosophy without any gaps* (podcast and books), for the non-Western traditions that most histories omit.
 
 ---
 
-> *A closing note on method.* This chapter has argued that philosophy is a discipline, not a mood. The argument is itself philosophical, and it is therefore open to objection. That is not a defect. It is the form of intellectual honesty that the rest of the book will try to practise: state the thesis, give the argument, invite the objection, and revise. If the reader finishes this book with a set of well-formulated objections to it, the book will have succeeded.
+> *A closing note on method.* This chapter has argued that philosophy is a discipline, not a mood. The argument is itself philosophical, and it is therefore open to objection. That is not a defect. It is the form of intellectual honesty that the rest of the book will try to practice: state the thesis, give the argument, invite the objection, and revise. If the reader finishes this book with a set of well-formulated objections to it, the book will have succeeded.

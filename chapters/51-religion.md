@@ -17,7 +17,7 @@
 
 ---
 
-Chapter 49 examined the *splendour* — the *aesthetic* *value* of the *object* *as* *experienced*. This chapter examines the *sacred* — the *value* that is *borne* by the *whole* of *reality* *as* *transcendent*, *as* *holy*, *as* *the* *source* of the *existence* and the *meaning* and the *hope*. The *transition* is the *inversion* of the *aesthetic* *turn*. The *aesthetic* *judgement* is *grounded* in the *object* *as* *presented* (the *no* *beyond*). The *religious* *judgement* *purports* to *reach* the *object* *beyond* the *presentation* (the *no* *mere* *immanence*), and the *reach* is the *distinctive* *problem*: the *aesthetic* *has* the *trained* *perception* *for* its *organon*, and the *religious* *has* only the *faith*, and the *faith* is the *most* *contested* *cognitive* *posture* in the *whole* of the *field*.
+Chapter 49 examined the *splendour* — the *aesthetic* *value* of the *object* *as* *experienced*. This chapter examines the *sacred* — the *value* that is *borne* by the *whole* of *reality* *as* *transcendent*, *as* *holy*, *as* *the* *source* of the *existence* and the *meaning* and the *hope*. The *transition* is the *inversion* of the *aesthetic* *turn*. The *aesthetic* *judgment* is *grounded* in the *object* *as* *presented* (the *no* *beyond*). The *religious* *judgment* *purports* to *reach* the *object* *beyond* the *presentation* (the *no* *mere* *immanence*), and the *reach* is the *distinctive* *problem*: the *aesthetic* *has* the *trained* *perception* *for* its *organon*, and the *religious* *has* only the *faith*, and the *faith* is the *most* *contested* *cognitive* *posture* in the *whole* of the *field*.
 
 The *chapter* proceeds in *eight* *movements*. §1 examines the *concept* of *God* (the *classical* *theism*, the *pantheism*, the *deism*, the *process*, the *naturalism*). §2 examines the *arguments* *for* the *theism*. §3 examines the *arguments* *against*. §4 examines the *problem* of *evil* *in* *depth* (the *crux* of the *field*). §5 examines the *faith* and the *reason* (the *fideism*, the *will* *to* *believe*, the *Reformed* *epistemology*). §6 examines the *religious* *language*. §7 examines the *miracles* and the *testimony*. §8 gives the *verdict*.
 
@@ -451,13 +451,13 @@ $$
 
 **The *objections***.
 
-**(i) The *free*-*will* *defence*** (Plantinga, *God, Freedom, and Evil*, 1974, Part I; §4.2). The *logical* *problem* *requires* the *necessary* *inconsistency* (the *no* *mere* *prima* *facie*), and the *free* *will* *defence* *exhibits* a *possible* *world* (the *free* *creatures* *who* *do* *evil*; the *transworld* *depravity*), and the *consistency* *is* *established* (the *no* *contradiction*), and the *reply* *succeeds* (the *Plantinga* *insight*).
+**(i) The *free*-*will* *defense*** (Plantinga, *God, Freedom, and Evil*, 1974, Part I; §4.2). The *logical* *problem* *requires* the *necessary* *inconsistency* (the *no* *mere* *prima* *facie*), and the *free* *will* *defense* *exhibits* a *possible* *world* (the *free* *creatures* *who* *do* *evil*; the *transworld* *depravity*), and the *consistency* *is* *established* (the *no* *contradiction*), and the *reply* *succeeds* (the *Plantinga* *insight*).
 
 **The *reply*.** The *reply* is *defensible* (the *logical* *problem* *is* *widely* *conceded* *to* *have* *failed*; the *contemporary* *literature*), and the *debate* *moves* to the *evidential* *problem* (§3.2).
 
-**(ii) The *no* *free* *will* *objection***. The *free* *will* *defence* *depends* on the *libertarian* *freedom* (the *no* *compatibilist* *option*), and the *natural* *evil* *is* *not* the *free* *will* (the *earthquake*, the *disease*), and the *defence* *is* *incomplete* (the *no* *sufficiency*), and the *reply* *fails*.
+**(ii) The *no* *free* *will* *objection***. The *free* *will* *defense* *depends* on the *libertarian* *freedom* (the *no* *compatibilist* *option*), and the *natural* *evil* *is* *not* the *free* *will* (the *earthquake*, the *disease*), and the *defense* *is* *incomplete* (the *no* *sufficiency*), and the *reply* *fails*.
 
-**The *reply*** (Plantinga 1974, Part I; the *contemporary* *literature*). The *natural* *evil* *is* *traced* to the *free* *will* of the *demons* (the *no* *mere* *nature*), and the *reply* *grounds* the *defence* in the *possible* *world* (the *no* *actuality*). The *reply* is *contested* (the *no* *plausibility*).
+**The *reply*** (Plantinga 1974, Part I; the *contemporary* *literature*). The *natural* *evil* *is* *traced* to the *free* *will* of the *demons* (the *no* *mere* *nature*), and the *reply* *grounds* the *defense* in the *possible* *world* (the *no* *actuality*). The *reply* is *contested* (the *no* *plausibility*).
 
 ### 3.2 The evidential problem of evil
 
@@ -481,7 +481,7 @@ $$
 
 **(i) The *skeptical* *theism* *reply*** (Wykstra, “The Humean Obstacle to Evidential Arguments from Suffering,” 1984, *IJPR* 16; Bergmann, “Skeptical Theism and Rowe’s New Evidential Argument,” 2001, *Noûs* 35; §4.4). The *inference* from the *no* *known* *reason* to the *no* *reason* *requires* the *epistemic* *access* (the *CORNEA*), and the *access* *is* *denied* (the *no* *omniscience*, the *no* *goodness*), and the *suffering* *may* *have* the *unknown* *reason* (the *no* *pointless*), and the *reply* *succeeds*.
 
-**The *reply*.** The *reply* *succeeds* *formally* (the *no* *inference*), and the *cost* is the *moral* *skepticism* (the *no* *confidence* in the *value* *judgements*; §4.4), and the *debate* *is* *active*.
+**The *reply*.** The *reply* *succeeds* *formally* (the *no* *inference*), and the *cost* is the *moral* *skepticism* (the *no* *confidence* in the *value* *judgments*; §4.4), and the *debate* *is* *active*.
 
 **(ii) The *no* *probability* *objection***. The *evidential* *argument* *requires* the *prior* *probability* (the *no* *neutral* *prior*), and the *evidence* *is* *contested* (the *no* *likelihood*), and the *reply* *fails*.
 
@@ -592,11 +592,11 @@ $$
 
 ### 3.6 The state of the arguments against theism
 
-**The *assessment***. The *logical* *problem* *of* *evil* *is* *defeated* (the *no* *contradiction*; the *free* *will* *defence*), the *evidential* *problem* *disfavours* the *traditional* *theism* (the *no* *decisive* *refutation*), the *hiddenness* *disfavours* the *perfect* *love* (the *no* *decisive* *refutation*), the *incoherence* *is* *answered* (the *no* *incoherence*), and the *diversity* *undermines* the *confidence* (the *no* *decisive* *undermining*).
+**The *assessment***. The *logical* *problem* *of* *evil* *is* *defeated* (the *no* *contradiction*; the *free* *will* *defense*), the *evidential* *problem* *disfavors* the *traditional* *theism* (the *no* *decisive* *refutation*), the *hiddenness* *disfavors* the *perfect* *love* (the *no* *decisive* *refutation*), the *incoherence* *is* *answered* (the *no* *incoherence*), and the *diversity* *undermines* the *confidence* (the *no* *decisive* *undermining*).
 
 | The *argument* | The *strength* | The *weakness* |
 |---|---|---|
-| **Logical evil** | The *consistency* | The *free* *will* *defence* |
+| **Logical evil** | The *consistency* | The *free* *will* *defense* |
 | **Evidential evil** | The *evidence* | The *skeptical* *theism* |
 | **Hiddenness** | The *relationship* | The *free* *will* *theodicy* |
 | **Incoherence** | The *paradox* | The *self*-*contradiction* *solution* |
@@ -616,38 +616,38 @@ $$
 |---|---|---|
 | **Moral vs. natural** | The *evil* *caused* by the *agents* vs. the *evil* *caused* by the *nature* | The *responsibility* |
 | **Logical vs. evidential** | The *contradiction* vs. the *improbability* | The *strength* |
-| **Theodicy vs. defence** | The *actual* *justification* vs. the *possible* *justification* | The *ambition* |
-| **Apologetic vs. anti*-*theodicy** | The *defence* vs. the *protest* | The *attitude* |
+| **Theodicy vs. defense** | The *actual* *justification* vs. the *possible* *justification* | The *ambition* |
+| **Apologetic vs. anti*-*theodicy** | The *defense* vs. the *protest* | The *attitude* |
 
-**The *significance***. The *distinctions* *determine* the *strategy* (the *free* *will* *defence* *aims* at the *logical* *problem*, the *skeptical* *theism* at the *evidential*, the *anti*-*theodicy* at the *moral* *attitude*), and the *failure* to *distinguish* them *produces* the *confusion* (the *no* *single* *problem*).
+**The *significance***. The *distinctions* *determine* the *strategy* (the *free* *will* *defense* *aims* at the *logical* *problem*, the *skeptical* *theism* at the *evidential*, the *anti*-*theodicy* at the *moral* *attitude*), and the *failure* to *distinguish* them *produces* the *confusion* (the *no* *single* *problem*).
 
-### 4.2 The free-will defence
+### 4.2 The free-will defense
 
-**The *thesis*** (Plantinga, *God, Freedom, and Evil*, 1974, Part I, ch. 4; the *contemporary* *literature*; the *no* *contradiction*). The *free* *will* *defence* *exhibits* a *possible* *world* in which the *God* *creates* the *free* *creatures* who *do* *evil* (the *no* *contradiction*), and the *possible* *world* *suffices* for the *logical* *consistency* (the *no* *refutation*), and the *defence* *does* not *claim* the *actuality* (the *no* *theodicy*), and the *transworld* *depravity* *explains* the *no* *better* *world* (the *no* *possible* *world* *with* the *free* *creatures* *who* *always* *do* *good*).
+**The *thesis*** (Plantinga, *God, Freedom, and Evil*, 1974, Part I, ch. 4; the *contemporary* *literature*; the *no* *contradiction*). The *free* *will* *defense* *exhibits* a *possible* *world* in which the *God* *creates* the *free* *creatures* who *do* *evil* (the *no* *contradiction*), and the *possible* *world* *suffices* for the *logical* *consistency* (the *no* *refutation*), and the *defense* *does* not *claim* the *actuality* (the *no* *theodicy*), and the *transworld* *depravity* *explains* the *no* *better* *world* (the *no* *possible* *world* *with* the *free* *creatures* *who* *always* *do* *good*).
 
 **The *structure*** (the *Plantinga* *form*).
 
 $$
 \begin{array}{ll}
 1. & \text{The *logical* *problem* *requires* the *necessary* *inconsistency*} \ (\text{the *no* *mere} \ \text{prima facie}). \\
-2. & \text{The *free* *will* *defence* *exhibits* a *possible* *world*} \ (\text{the *free* *creatures*, the *transworld* *depravity*}). \\
+2. & \text{The *free* *will* *defense* *exhibits* a *possible* *world*} \ (\text{the *free* *creatures*, the *transworld* *depravity*}). \\
 3. & \text{The *possible* *world* *establishes* the *consistency*} \ (\text{the *no* *contradiction*}). \\
 \hline
-4. & \therefore \text{The *logical* *problem* *fails*} \ (\text{the *Plantinga* *insight*}), \ \text{and the *consistency* *is* *established*} \ (\text{the *no* *refutation*}), \ \text{and the *defence* *is* *possible*} \ (\text{the *no* *theodicy*}).}
+4. & \therefore \text{The *logical* *problem* *fails*} \ (\text{the *Plantinga* *insight*}), \ \text{and the *consistency* *is* *established*} \ (\text{the *no* *refutation*}), \ \text{and the *defense* *is* *possible*} \ (\text{the *no* *theodicy*}).}
 \end{array}
 $$
 
-**The *virtue***. The *defence* *establishes* the *consistency* (the *no* *contradiction*), and it *fits* the *libertarian* *freedom* (the *no* *compatibilist* *assumption*), and it *grounds* the *value* of the *free* *will* (the *no* *mere* *permission*), and it *connects* the *problem* to the *free* *will* (Ch. 27).
+**The *virtue***. The *defense* *establishes* the *consistency* (the *no* *contradiction*), and it *fits* the *libertarian* *freedom* (the *no* *compatibilist* *assumption*), and it *grounds* the *value* of the *free* *will* (the *no* *mere* *permission*), and it *connects* the *problem* to the *free* *will* (Ch. 27).
 
 **The *objections***.
 
 **(i) The *no* *transworld* *depravity* *objection*** (the *contemporary* *literature*). The *transworld* *depravity* *is* *arbitrary* (the *no* *explanation* of the *no* *better* *world*), and the *God* *could* *have* *created* the *creatures* *who* *always* *do* *good* (the *no* *necessity*), and the *reply* *fails*.
 
-**The *reply*** (Plantinga 1974, Part I, ch. 4). The *transworld* *depravity* *is* *possible* (the *no* *impossibility*), and the *reply* *grounds* the *defence* in the *possibility* (the *no* *necessity*). The *reply* is *defensible* (the *no* *contradiction*), and *contested* (the *no* *plausibility*).
+**The *reply*** (Plantinga 1974, Part I, ch. 4). The *transworld* *depravity* *is* *possible* (the *no* *impossibility*), and the *reply* *grounds* the *defense* in the *possibility* (the *no* *necessity*). The *reply* is *defensible* (the *no* *contradiction*), and *contested* (the *no* *plausibility*).
 
-**(ii) The *no* *natural* *evil* *objection***. The *free* *will* *defence* *explains* the *moral* *evil* (the *no* *natural*), and the *natural* *evil* (the *earthquake*, the *cancer*) *requires* the *separate* *defence* (the *no* *sufficiency*), and the *reply* *fails*.
+**(ii) The *no* *natural* *evil* *objection***. The *free* *will* *defense* *explains* the *moral* *evil* (the *no* *natural*), and the *natural* *evil* (the *earthquake*, the *cancer*) *requires* the *separate* *defense* (the *no* *sufficiency*), and the *reply* *fails*.
 
-**The *reply*** (the *contemporary* *literature*; Plantinga 1974, Part I). The *natural* *evil* *is* *traced* to the *free* *will* of the *demons* (the *no* *mere* *nature*), and the *reply* *grounds* the *defence* in the *possibility* (the *no* *actuality*). The *reply* is *defensible* (the *no* *contradiction*), and *contested* (the *no* *plausibility*).
+**The *reply*** (the *contemporary* *literature*; Plantinga 1974, Part I). The *natural* *evil* *is* *traced* to the *free* *will* of the *demons* (the *no* *mere* *nature*), and the *reply* *grounds* the *defense* in the *possibility* (the *no* *actuality*). The *reply* is *defensible* (the *no* *contradiction*), and *contested* (the *no* *plausibility*).
 
 ### 4.3 The soul-making theodicy
 
@@ -697,7 +697,7 @@ $$
 
 **The *objections***.
 
-**(i) The *moral* *skepticism* *objection*** (the *contemporary* *literature*; the *contemporary* *literature*; the *contemporary* *literature*). The *skeptical* *theism* *undermines* the *moral* *confidence* (the *no* *judgement*), and the *no* *access* *to* the *divine* *reasons* *implies* the *no* *access* to the *value* (the *no* *morality*), and the *reply* *fails*.
+**(i) The *moral* *skepticism* *objection*** (the *contemporary* *literature*; the *contemporary* *literature*; the *contemporary* *literature*). The *skeptical* *theism* *undermines* the *moral* *confidence* (the *no* *judgment*), and the *no* *access* *to* the *divine* *reasons* *implies* the *no* *access* to the *value* (the *no* *morality*), and the *reply* *fails*.
 
 **The *reply*** (the *contemporary* *literature*). The *no* *access* *is* *restricted* to the *God*’s *reasons* (the *no* *general* *skepticism*), and the *reply* *grounds* the *moral* *confidence* in the *no* *restriction*. The *reply* is *defensible* (the *no* *general* *skepticism*), and *contested* (the *no* *principled* *boundary*).
 
@@ -735,16 +735,16 @@ $$
 
 ### 4.6 The state of the problem of evil
 
-**The *assessment***. The *logical* *problem* *is* *defeated* (the *free* *will* *defence*), the *evidential* *problem* *disfavours* the *theism* (the *skeptical* *theism* *is* *contested*), the *soul*-*making* *theodicy* *explains* the *some* (the *no* *all*), the *anti*-*theodicy* *raises* the *moral* *depth* (the *no* *theory*), and the *skeptical* *theism* *answers* the *inference* (the *no* *moral* *skepticism*).
+**The *assessment***. The *logical* *problem* *is* *defeated* (the *free* *will* *defense*), the *evidential* *problem* *disfavors* the *theism* (the *skeptical* *theism* *is* *contested*), the *soul*-*making* *theodicy* *explains* the *some* (the *no* *all*), the *anti*-*theodicy* *raises* the *moral* *depth* (the *no* *theory*), and the *skeptical* *theism* *answers* the *inference* (the *no* *moral* *skepticism*).
 
 | The *position* | The *strength* | The *weakness* |
 |---|---|---|
-| **Free will defence** | The *consistency* | The *no* *plausibility* |
+| **Free will defense** | The *consistency* | The *no* *plausibility* |
 | **Soul-making** | The *instrumental* *good* | The *no* *proportion* |
 | **Skeptical theism** | The *no* *inference* | The *moral* *skepticism* |
 | **Anti-theodicy** | The *moral* *depth* | The *no* *theory* |
 
-**The *most* *defensible* *position***. The *problem* *of* *evil* *raises* the *strongest* *evidence* against the *traditional* *theism* (the *no* *decisive* *refutation*), and the *free* *will* *defence* *answers* the *logical* *problem* (the *no* *contradiction*), and the *skeptical* *theism* *answers* the *evidential* *inference* (the *no* *moral* *skepticism*), and the *soul*-*making* *theodicy* *explains* the *some* (the *no* *all*), and the *anti*-*theodicy* *raises* the *moral* *challenge* (the *no* *mere* *theory*), and the *combined* *result* is the *qualified* *doubt* (the *no* *confidence*), *tempered* by the *no* *decisive* *refutation* (the *theism* *remains* *possible*), *qualified* by the *admission* that the *problem* *remains* the *deepest* *difficulty*.
+**The *most* *defensible* *position***. The *problem* *of* *evil* *raises* the *strongest* *evidence* against the *traditional* *theism* (the *no* *decisive* *refutation*), and the *free* *will* *defense* *answers* the *logical* *problem* (the *no* *contradiction*), and the *skeptical* *theism* *answers* the *evidential* *inference* (the *no* *moral* *skepticism*), and the *soul*-*making* *theodicy* *explains* the *some* (the *no* *all*), and the *anti*-*theodicy* *raises* the *moral* *challenge* (the *no* *mere* *theory*), and the *combined* *result* is the *qualified* *doubt* (the *no* *confidence*), *tempered* by the *no* *decisive* *refutation* (the *theism* *remains* *possible*), *qualified* by the *admission* that the *problem* *remains* the *deepest* *difficulty*.
 
 ---
 
@@ -825,7 +825,7 @@ $$
 
 ### 5.4 Pascal's wager
 
-**The *thesis*** (Pascal, *Pensées*, 1670, §233; the *contemporary* *literature*; the *decision*-*theoretic* *structure*). The *belief* *is* the *rational* *bet* (the *infinite* *payoff*, the *finite* *cost*), and the *unbelief* *risks* the *infinite* *loss* (the *no* *finite* *compensation*), and the *expected* *value* *favours* the *belief* (the *no* *mere* *prudence*), and the *faith* *is* the *reasonable* (the *no* *mere* *gamble*).
+**The *thesis*** (Pascal, *Pensées*, 1670, §233; the *contemporary* *literature*; the *decision*-*theoretic* *structure*). The *belief* *is* the *rational* *bet* (the *infinite* *payoff*, the *finite* *cost*), and the *unbelief* *risks* the *infinite* *loss* (the *no* *finite* *compensation*), and the *expected* *value* *favors* the *belief* (the *no* *mere* *prudence*), and the *faith* *is* the *reasonable* (the *no* *mere* *gamble*).
 
 **The *structure***.
 
@@ -844,7 +844,7 @@ $$
 \begin{array}{ll}
 1. & \text{The *belief* *risks* the *finite* *cost*} \ (\text{the } -\epsilon) \ \text{and *gains* the *infinite* *payoff*} \ (\text{the } +\infty). \\
 2. & \text{The *unbelief* *gains* the *finite* \ (\text{the } +\epsilon) \ \text{and *risks* the *infinite*} \ (\text{the } -\infty). \\
-3. & \text{The *expected* *value* *favours* the *belief*} \ (\text{the *decision*} \ \text{theory}). \\
+3. & \text{The *expected* *value* *favors* the *belief*} \ (\text{the *decision*} \ \text{theory}). \\
 \hline
 4. & \therefore \text{The *belief* is the *rational* *bet*} \ (\text{the *Pascal* *insight*}), \ \text{and the *faith* is the *reasonable*} \ (\text{the *no* *mere* *gamble*}).}
 \end{array}
@@ -1211,7 +1211,7 @@ $$
 
 - **The *concept* of *God*** is *not* *univocal* (the *classical*, the *process*, the *naturalistic*), and the *classical* *theism* *captures* the *transcendence* (the *no* *idol*), and the *process* *captures* the *persuasion* (the *no* *coercion*), and the *naturalism* *captures* the *piety* *without* the *metaphysics*.
 - **The *arguments* *for* the *theism*** *raise* the *probability* (the *cosmological*, the *teleological*, the *moral*, the *experience*, the *consciousness*), and the *cumulative* *case* *outweighs* the *single* *argument*, but the *no* *argument* *is* *decisive* (the *gap* *problem*, the *multiverse*, the *possibility* *premise*, the *Euthyphro*, the *defeaters*).
-- **The *logical* *problem* of *evil*** *is* *defeated* (the *free* *will* *defence*; the *no* *contradiction*), and the *evidential* *problem* *raises* the *strongest* *evidence* *against* the *traditional* *theism* (the *no* *decisive* *refutation*; the *skeptical* *theism* *is* *contested*).
+- **The *logical* *problem* of *evil*** *is* *defeated* (the *free* *will* *defense*; the *no* *contradiction*), and the *evidential* *problem* *raises* the *strongest* *evidence* *against* the *traditional* *theism* (the *no* *decisive* *refutation*; the *skeptical* *theism* *is* *contested*).
 - **The *divine* *hiddenness*** *raises* the *strong* *evidence* against the *perfect* *love* (the *no* *decisive* *refutation*), and the *incoherence* of the *omnipotence* is *answered* (the *self*-*contradiction* *solution*), and the *diversity* *undermines* the *confidence* (the *no* *decisive* *undermining*).
 - **The *faith*** *is* *rational* *without* the *proof* (the *no* *universal* *evidentialism*; the *Reformed* *insight*), and the *tertullian*/*Kierkegaard* *fideism* *captures* the *risk* (the *no* *mere* *proposition*), and the *James* *captures* the *genuine* *option* (the *no* *neutrality*), and the *Pascal* *captures* the *prudential* *structure* (the *no* *mere* *prudence*).
 - **The *religious* *language*** *is* *analogical* (the *no* *anthropomorphism*), *grounded* in the *practice* (the *no* *mere* *doctrine*), *ending* in the *silence* (the *no* *comprehension*), and the *verificationist* *challenge* is *self*-*refuting* (the *no* *meaning* *by* its *own* *standard*).
@@ -1241,7 +1241,7 @@ $$
 | **Ontological** | The *maximal* *being* | The *validity* | The *possibility* *premise* |
 | **Moral** | The *God* *grounds* the *value* | The *realism* | The *Euthyphro* |
 | **Experience** | The *perception* of the *God* | The *phenomenology* | The *defeaters* |
-| **Logical evil** | The *inconsistency* | The *logic* | The *free* *will* *defence* |
+| **Logical evil** | The *inconsistency* | The *logic* | The *free* *will* *defense* |
 | **Evidential evil** | The *improbability* | The *evidence* | The *skeptical* *theism* |
 | **Hiddenness** | The *no* *love* | The *relationship* | The *free* *will* *theodicy* |
 | **Diversity** | The *undermining* | The *disagreement* | The *no* *parity* |
@@ -1265,7 +1265,7 @@ The *table* is a *map*, not a *verdict*. The *reader* who *wants* to *choose* a 
 $$
 \begin{array}{ll}
 1. & \text{The *no* *proof* and the *no* *disproof*} \ (\text{the *epistemic* *humility* *insight*}) \ \text{and the *cumulative* *case*} \ (\text{the *probability* *insight*}). \\
-2. & \text{The *problem* of *evil* as the *deepest* *difficulty*} \ (\text{the *Rowe* *insight*}) \ \text{and the *free* *will* *defence* as the *answer* to the *logical*} \ (\text{the *Plantinga* *insight*}). \\
+2. & \text{The *problem* of *evil* as the *deepest* *difficulty*} \ (\text{the *Rowe* *insight*}) \ \text{and the *free* *will* *defense* as the *answer* to the *logical*} \ (\text{the *Plantinga* *insight*}). \\
 3. & \text{The *faith* *rational* *without* the *proof*} \ (\text{the *Reformed* *insight*}) \ \text{and the *fideist* *risk*} \ (\text{the *Kierkegaard* *insight*}). \\
 4. & \text{The *analogical* *language*} \ (\text{the *Aquinas* *insight*}) \ \text{and the *apophatic* *silence*} \ (\text{the *Pseudo*-*Dionysius* *insight*}). \\
 5. & \text{The *practice* as the *form* of the *life*} \ (\text{the *Wittgensteinian* *insight*}) \ \text{and the *no* *anthropomorphism*} \ (\text{the *via* *negativa* *insight*}). \\
@@ -1282,10 +1282,10 @@ $$
 
 The *chapter* is a *case* *study* in the method of Part I, *applied* to the *religious* *question*.
 
-- **Conceptual analysis** generated the *distinctions* between the *classical* and the *process* *theism*, the *logical* and the *evidential* *problem*, the *theodicy* and the *defence*, the *faith* and the *belief*, the *cognitivism* and the *non*-*cognitivism*, the *miracle* and the *wonder*.
+- **Conceptual analysis** generated the *distinctions* between the *classical* and the *process* *theism*, the *logical* and the *evidential* *problem*, the *theodicy* and the *defense*, the *faith* and the *belief*, the *cognitivism* and the *non*-*cognitivism*, the *miracle* and the *wonder*.
 - **Thought experiments** — the *invisible* *gardener* (Flew/Wisdom), the *Parity* *of* the *Great* *Pumpkin* (Plantinga), the *fawn* (Rowe), the *stone* *too* *heavy* (the *omnipotence* *paradox*), the *many* *gods* (the *wager*, the *diversity*) — are the *engine* of the *debate*.
 - **Formalization** — the *Bayesian* *analysis*, the *modal* *logic* of the *ontological* *argument*, the *decision* *theory* of the *wager*, the *probability* *of* the *miracle* — is *essential* for the *precision*.
-- **Reflective equilibrium** is the *method* by which the *theory* and the *intuitions* are *adjusted* (the *free* *will* *defence*, the *skeptical* *theism*, the *cumulative* *case*).
+- **Reflective equilibrium** is the *method* by which the *theory* and the *intuitions* are *adjusted* (the *free* *will* *defense*, the *skeptical* *theism*, the *cumulative* *case*).
 - **Genealogy and debunking** — the *sociology* of the *religion* (Durkheim, the *no* *mere* *illusion*), the *evolutionary* *account* of the *belief* (the *by*-*product*, the *no* *debunking*), the *psychology* of the *religious* *experience* (the *no* *decisive* *reduction*) — is the *central* *challenge* (the *no* *mere* *genetic* *fallacy*; Ch. 3, §5).
 - **Experimental philosophy and the empirical turn** — the *cross*-*cultural* *diversity* (the *no* *universal* *religious* *experience*), the *by*-*product* *theories*, the *neuroscience* of the *mystical* *experience* (the *no* *reduction*) — is the *most* *important* *development*.
 - **Negative capability** is the *response* to the *residue*: the *religious* *question* is *unsettled*, and the *honest* *thinker* *lives* with the *question* *while* *making* the *commitments*.
@@ -1320,7 +1320,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 - **The *concept* of *God*** is *contested* (the *classical*, the *process*, the *pantheistic*, the *naturalistic*), and the *classical* *theism* *captures* the *transcendence* (the *no* *idol*), and the *process* *captures* the *persuasion* (the *no* *coercion*), and the *naturalism* *captures* the *piety* *without* the *metaphysics*.
 - **The *arguments* *for* the *theism*** — the *cosmological*, the *teleological*, the *ontological*, the *moral*, the *experience*, the *consciousness* — *raise* the *probability* (the *no* *proof*), and the *cumulative* *case* *outweighs* the *single* *argument*, and the *gap* *problem*, the *multiverse*, the *possibility* *premise*, the *Euthyphro*, and the *defeaters* *limit* the *conclusion*.
-- **The *logical* *problem* of *evil*** is *defeated* (the *free* *will* *defence*; the *no* *contradiction*), and the *evidential* *problem* *raises* the *strongest* *evidence* *against* the *traditional* *theism* (the *no* *decisive* *refutation*; the *skeptical* *theism* *is* *contested*), and the *soul*-*making* *explains* the *some* (the *no* *all*), and the *anti*-*theodicy* *raises* the *moral* *depth* (the *no* *theory*).
+- **The *logical* *problem* of *evil*** is *defeated* (the *free* *will* *defense*; the *no* *contradiction*), and the *evidential* *problem* *raises* the *strongest* *evidence* *against* the *traditional* *theism* (the *no* *decisive* *refutation*; the *skeptical* *theism* *is* *contested*), and the *soul*-*making* *explains* the *some* (the *no* *all*), and the *anti*-*theodicy* *raises* the *moral* *depth* (the *no* *theory*).
 - **The *divine* *hiddenness*** *raises* the *strong* *evidence* against the *perfect* *love* (the *no* *decisive* *refutation*), the *incoherence* of the *omnipotence* is *answered* (the *self*-*contradiction* *solution*), and the *diversity* *undermines* the *confidence* (the *no* *decisive* *undermining*).
 - **The *faith*** is *rational* *without* the *proof* (the *no* *universal* *evidentialism*), and the *fideism* *captures* the *risk* (the *no* *mere* *proposition*), the *James* the *genuine* *option* (the *no* *neutrality*), the *Pascal* the *prudential* *structure* (the *no* *mere* *prudence*), and the *Reformed* *epistemology* the *warrant* (the *no* *mere* *argument*).
 - **The *religious* *language*** is *analogical* (the *no* *anthropomorphism*), *grounded* in the *practice* (the *no* *mere* *doctrine*), *ending* in the *silence* (the *no* *comprehension*), and the *verificationist* *challenge* is *self*-*refuting* (the *no* *meaning* *by* its *own* *standard*).
@@ -1339,7 +1339,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 6. State the *ontological* *argument* (the *Plantinga* *version*). Is the *possibility* *premise* *defensible*?
 7. State the *moral* *argument* (Adams). Is the *Euthyphro* *dilemma* *decisive*?
 8. State the *argument* from *religious* *experience* (Alston). Are the *defeaters* *decisive*?
-9. State the *logical* *problem* of *evil* (Mackie). Is the *free* *will* *defence* *sound*?
+9. State the *logical* *problem* of *evil* (Mackie). Is the *free* *will* *defense* *sound*?
 10. State the *evidential* *problem* of *evil* (Rowe). Is the *skeptical* *theism* *defensible*?
 11. State *skeptical* *theism* (Wykstra). Is the *moral* *skepticism* *objection* *decisive*?
 12. State the *soul*-*making* *theodicy* (Hick). Is the *no* *proportion* *objection* *decisive*?

@@ -40,7 +40,7 @@ The *chapter* proceeds in *eight* *movements*. §1 states the *question* and *re
 | **The *constitutive*** | The *value* *in* the *practice* (the *virtues*, the *life*) | The *no* *mere* *product* |
 | **The *exemplary*** | The *value* *in* the *model* (the *examined* *life*) | The *no* *mere* *example* |
 
-**The *significance***. The *senses* *come* *apart*: the *philosophy* *may* have the *intrinsic* *value* and *lack* the *instrumental* (the *no* *mere* *utility*), and it *may* have the *constitutive* *value* and *lack* the *exemplary* (the *no* *mere* *model*), and the *verdict* *depends* on the *sense* (the *no* *single* *verdict*), and the *defence* *against* the *charges* *requires* the *distinct* *answers* (the *no* *mere* *rhetoric*).
+**The *significance***. The *senses* *come* *apart*: the *philosophy* *may* have the *intrinsic* *value* and *lack* the *instrumental* (the *no* *mere* *utility*), and it *may* have the *constitutive* *value* and *lack* the *exemplary* (the *no* *mere* *model*), and the *verdict* *depends* on the *sense* (the *no* *single* *verdict*), and the *defense* *against* the *charges* *requires* the *distinct* *answers* (the *no* *mere* *rhetoric*).
 
 **The *criteria***. The *value* is *assessed* by the *five* *markers*.
 
@@ -52,7 +52,7 @@ The *chapter* proceeds in *eight* *movements*. §1 states the *question* and *re
 | **The *transfer*** | The *value* is the *exportable* (the *no* *mere* *enclosure*) | The *no* *mere* *insulation* |
 | **The *cost*** | The *value* is the *net* (the *no* *mere* *benefit*) | The *no* *mere* *sales* *talk* |
 
-**The *problem***. The *markers* *pull* *apart*: the *genuineness* *favours* the *intrinsic* (the *no* *mere* *utility*), the *distribution* *favours* the *instrumental* (the *no* *mere* *privilege*), the *transfer* *favours* the *practice* (the *no* *mere* *enclosure*), and the *cost* *favours* the *honesty* (the *no* *mere* *sales* *talk*).
+**The *problem***. The *markers* *pull* *apart*: the *genuineness* *favors* the *intrinsic* (the *no* *mere* *utility*), the *distribution* *favors* the *instrumental* (the *no* *mere* *privilege*), the *transfer* *favors* the *practice* (the *no* *mere* *enclosure*), and the *cost* *favors* the *honesty* (the *no* *mere* *sales* *talk*).
 
 ### 1.2 Russell’s Chapter XV reconsidered
 
@@ -99,7 +99,7 @@ $$
 | **The *luxury*** | The *philosophy* *is* the *privilege* (the *no* *mere* *access*) | The *equity* |
 | **The *dogmatism*** | The *philosophy* *disguises* the *authority* (the *no* *mere* *critique*) | The *humility* |
 
-**The *significance***. The *charges* *come* *apart*: the *uselessness* *attacks* the *instrumental* (the *no* *product*), the *danger* *attacks* the *practice* (the *no* *safety*), the *luxury* *attacks* the *distribution* (the *no* *equity*), and the *dogmatism* *attacks* the *authority* (the *no* *humility*), and the *defence* *must* *answer* the *four* (§5–§6).
+**The *significance***. The *charges* *come* *apart*: the *uselessness* *attacks* the *instrumental* (the *no* *product*), the *danger* *attacks* the *practice* (the *no* *safety*), the *luxury* *attacks* the *distribution* (the *no* *equity*), and the *dogmatism* *attacks* the *authority* (the *no* *humility*), and the *defense* *must* *answer* the *four* (§5–§6).
 
 ### 1.4 The state of the value debate
 
@@ -490,7 +490,7 @@ $$
 2. & \text{The *philosophy* *yields* the *no* *product*} \ (\text{the *no* *mere* *success*}). \\
 3. & \text{The *no* *product* *is* the *failure*} \ (\text{the *no* *mere* *value*}). \\
 \hline
-4. & \therefore \text{The *philosophy* *is* the *useless*} \ (\text{the *utility* *insight*}), \ \text{and the *idleness* *is* the *charge*} \ (\text{the *no* *mere} \ \text{rhetoric*}), \ \text{and the *failure* *is* the *decisive*} \ (\text{the *no* *mere} \ \text{defence*}).}
+4. & \therefore \text{The *philosophy* *is* the *useless*} \ (\text{the *utility* *insight*}), \ \text{and the *idleness* *is* the *charge*} \ (\text{the *no* *mere} \ \text{rhetoric*}), \ \text{and the *failure* *is* the *decisive*} \ (\text{the *no* *mere} \ \text{defense*}).}
 \end{array}
 $$
 
@@ -506,7 +506,7 @@ $$
 2. & \text{The *narrowing* *begs* the *question*} \ (\text{the *no* *mere* *test*}). \\
 3. & \text{The *intrinsic* *is* the *value*} \ (\text{the *no* *mere* *idleness*}). \\
 \hline
-4. & \therefore \text{The *charge* *fails*} \ (\text{the *no* *mere} \ \text{decisive*}), \ \text{and the *intrinsic* *is* the *defence*} \ (\text{the *no* *mere} \ \text{utility*}), \ \text{and the *comparison* *is* the *evidence*} \ (\text{the *no* *mere} \ \text{product*}).}
+4. & \therefore \text{The *charge* *fails*} \ (\text{the *no* *mere} \ \text{decisive*}), \ \text{and the *intrinsic* *is* the *defense*} \ (\text{the *no* *mere} \ \text{utility*}), \ \text{and the *comparison* *is* the *evidence*} \ (\text{the *no* *mere} \ \text{product*}).}
 \end{array}
 $$
 
@@ -524,12 +524,12 @@ $$
 
 ### 5.3 The cost
 
-**The *thesis*** (the *contemporary* *literature*; the *sociological* *insight*; the *no* *mere* *apologetics*). The *reply* *can* be the *rationalization* (the *no* *mere* *defence*), and the *academic* *interest* *shapes* the *claim* (the *no* *mere* *disinterest*), and the *privilege* *is* the *real* (the *no* *mere* *denial*), and the *honesty* *requires* the *admission* (the *no* *mere* *sales* *talk*).
+**The *thesis*** (the *contemporary* *literature*; the *sociological* *insight*; the *no* *mere* *apologetics*). The *reply* *can* be the *rationalization* (the *no* *mere* *defense*), and the *academic* *interest* *shapes* the *claim* (the *no* *mere* *disinterest*), and the *privilege* *is* the *real* (the *no* *mere* *denial*), and the *honesty* *requires* the *admission* (the *no* *mere* *sales* *talk*).
 
 **The *structure***.
 
 $$
-\text{The *reply*} \ \Rightarrow \ \text{the *rationalization*} \ (\text{the *no* *mere* *defence*}) \ \wedge \ \text{the *privilege*} \ (\text{the *no* *mere* *denial*})
+\text{The *reply*} \ \Rightarrow \ \text{the *rationalization*} \ (\text{the *no* *mere* *defense*}) \ \wedge \ \text{the *privilege*} \ (\text{the *no* *mere* *denial*})
 $$
 
 **The *argument***.
@@ -537,7 +537,7 @@ $$
 $$
 \begin{array}{ll}
 1. & \text{The *reply* *serves* the *interest*} \ (\text{the *no* *mere* *disinterest*}). \\
-2. & \text{The *interest* *shapes* the *claim*} \ (\text{the *no* *mere* *defence*}). \\
+2. & \text{The *interest* *shapes* the *claim*} \ (\text{the *no* *mere* *defense*}). \\
 3. & \text{The *honesty* *requires* the *admission*} \ (\text{the *no* *mere* *sales* *talk*}). \\
 \hline
 4. & \therefore \text{The *reply* *is* the *cost*} \ (\text{the *no* *mere} \ \text{pure*}), \ \text{and the *privilege* *is* the *real*} \ (\text{the *no* *mere} \ \text{denial*}), \ \text{and the *admission* *is* the *value*} \ (\text{the *no* *mere} \ \text{apologetics*}).}
@@ -849,7 +849,7 @@ $$
 - **The *intrinsic* *goods*** are *real* (the *no* *mere* *self*-*congratulation*): the *understanding* (the *no* *mere* *information*), the *virtues* (the *no* *mere* *skill*), the *freedom* (the *no* *mere* *custom*).
 - **The *instrumental* *goods*** are *partial* (the *no* *mere* *guarantee*): the *critical* *thinking* (the *domain* *specific*), the *public* *service* (the *diffuse*), the *ambulance* (the *partial*).
 - **The *examined* *life*** *captures* the *practice* (the *no* *mere* *doctrine*), and the *limits* are the *hinges* (the *no* *mere* *endless*), and the *balance* is the *wisdom* (the *no* *mere* *skill*).
-- **The *charge* of the *uselessness*** *narrows* the *usefulness* (the *no* *mere* *product*), and the *intrinsic* is the *defence* (the *no* *mere* *idleness*), and the *honesty* *admits* the *cost* (the *no* *mere* *apologetics*).
+- **The *charge* of the *uselessness*** *narrows* the *usefulness* (the *no* *mere* *product*), and the *intrinsic* is the *defense* (the *no* *mere* *idleness*), and the *honesty* *admits* the *cost* (the *no* *mere* *apologetics*).
 - **The *charge* of the *danger*** *captures* the *real* (the *no* *mere* *denial*), and the *remedy* is the *argument* (the *no* *mere* *purity*), and the *safeguard* is the *institution* (the *no* *mere* *individual*).
 - **The *practice*** is the *value* (the *no* *mere* *theory*): the *habits* (the *no* *mere* *course*), the *curriculum* (the *no* *mere* *sequence*), the *institutions* (the *no* *mere* *individual*), and the *honesty* (the *no* *mere* *sales* *talk*).
 
@@ -897,7 +897,7 @@ $$
 \end{array}
 $$
 
-**The *significance***. The *synthesis* is *not* an *apologetics* (the *arbitrary* *defence*); it is a *principled* *account* (the *understanding* *grounds* the *intrinsic*, the *method* *grounds* the *instrumental*, the *formation* *grounds* the *constitutive*, the *examined* *life* *grounds* the *exemplary*, the *honesty* *grounds* the *admission*), and it *fits* the *practice* (the *reading*, the *writing*, the *teaching*, the *committee*, the *public*), and it *connects* the *value* to the *book* (the *no* *mere* *anthology*) and to the *whole* of the *inquiry* (Ch. 1–53).
+**The *significance***. The *synthesis* is *not* an *apologetics* (the *arbitrary* *defense*); it is a *principled* *account* (the *understanding* *grounds* the *intrinsic*, the *method* *grounds* the *instrumental*, the *formation* *grounds* the *constitutive*, the *examined* *life* *grounds* the *exemplary*, the *honesty* *grounds* the *admission*), and it *fits* the *practice* (the *reading*, the *writing*, the *teaching*, the *committee*, the *public*), and it *connects* the *value* to the *book* (the *no* *mere* *anthology*) and to the *whole* of the *inquiry* (Ch. 1–53).
 
 ### 8.5 The methodological lesson
 
@@ -923,13 +923,13 @@ The *book* *began* with the *question* of the *nature* of the *philosophy* (Ch. 
 
 **(i) The *clarity* *is* the *achievement***. The *philosophy* *does* not *settle* the *great* *questions* (the *no* *mere* *dogma*), and it *does* *remove* the *confusion* (the *no* *mere* *narcissism*), and the *removal* *is* the *real* (the *no* *mere* *rhetoric*), and the *clarity* *is* *worth* the *effort* *even* *where* the *conclusion* *eludes* (the *no* *mere* *outcome*). The *reader* who *can* *state* the *problem* *without* the *confusion* *has* *gained* the *good* *that* the *discipline* *chiefly* *offers*.
 
-**(ii) The *openness* *is* *not* the *defeat***. The *openness* is the *honest* (the *no* *mere* *scepticism*), and the *honesty* is the *virtue* (the *no* *mere* *modesty*), and the *virtue* *is* the *ground* of the *further* *inquiry* (the *no* *mere* *relativism*), and the *further* *inquiry* *is* the *practice* (the *no* *mere* *resignation*). The *reader* who *can* *hold* the *open* *without* the *cynicism* *has* *gained* the *disposition* *that* the *discipline* *most* *wants* *to* *form*.
+**(ii) The *openness* *is* *not* the *defeat***. The *openness* is the *honest* (the *no* *mere* *skepticism*), and the *honesty* is the *virtue* (the *no* *mere* *modesty*), and the *virtue* *is* the *ground* of the *further* *inquiry* (the *no* *mere* *relativism*), and the *further* *inquiry* *is* the *practice* (the *no* *mere* *resignation*). The *reader* who *can* *hold* the *open* *without* the *cynicism* *has* *gained* the *disposition* *that* the *discipline* *most* *wants* *to* *form*.
 
 **(iii) The *practice* *is* the *value***. The *practice* (the *reading*, the *writing*, the *objection*, the *diary*, the *conversation*; §7.1) is *not* the *preparation* for the *philosophy* (the *no* *mere* *instrument*), and the *practice* *is* the *philosophy* (the *no* *mere* *theory*), and the *formation* *is* the *value* (the *no* *mere* *product*), and the *lifelong* *is* the *measure* (the *no* *mere* *degree*). The *reader* who *can* *keep* the *practice* *after* the *book* *has* *gained* the *good* *that* *the* *book* *could* *only* *point* *to*.
 
 **The *closing* *image***. The *philosophy* is *not* the *temple* of the *doctrines* (the *no* *mere* *monument*), and it is *not* the *market* of the *opinions* (the *no* *mere* *commerce*), and it is *not* the *court* of the *authorities* (the *no* *mere* *tribunal*) — it is the *workshop* of the *questions* (the *no* *mere* *answer*), where the *instruments* are the *argument* and the *distinction* and the *equilibrium* and the *diagnosis*, and the *good* is the *work* *well* *done* (the *no* *mere* *output*), and the *work* is the *life* of the *mind* (the *no* *mere* *career*), and the *life* is the *examined* (the *no* *mere* *unexamined*).
 
-**The *final* *word***. The *reader* *who* *has* *followed* the *book* *to* *here* *has* *travelled* *through* the *terrain* *that* the *tradition* *calls* *philosophy*, and the *traveller* *knows* *what* the *map* *cannot* *say*: that the *questions* *are* *older* *than* the *answers*, that the *answers* *are* *local*, that the *openness* is *the* *air* the *discipline* *breathes*, and that the *value* is *the* *practice* of the *mind* that *cares* *for* the *truth* *and* the *clarity* *and* the *other* *person* *enough* *to* *argue* *with* *honesty* and *to* *listen* *with* *attention* and to *change* *its* *mind* *when* the *argument* *warrants* — and that *this* *practice*, *humble* and *difficult* and *unfinished*, is *what* the *philosophy* *was* *always* *for*.
+**The *final* *word***. The *reader* *who* *has* *followed* the *book* *to* *here* *has* *traveled* *through* the *terrain* *that* the *tradition* *calls* *philosophy*, and the *traveler* *knows* *what* the *map* *cannot* *say*: that the *questions* *are* *older* *than* the *answers*, that the *answers* *are* *local*, that the *openness* is *the* *air* the *discipline* *breathes*, and that the *value* is *the* *practice* of the *mind* that *cares* *for* the *truth* *and* the *clarity* *and* the *other* *person* *enough* *to* *argue* *with* *honesty* and *to* *listen* *with* *attention* and to *change* *its* *mind* *when* the *argument* *warrants* — and that *this* *practice*, *humble* and *difficult* and *unfinished*, is *what* the *philosophy* *was* *always* *for*.
 
 ---
 
@@ -947,7 +947,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 **5. The *philosophy* *and* *the* *technology*.** The *AI*-*assisted* *philosophy* (the *no* *mere* *erudition*), the *simulation*, the *digital* *afterlife*, the *deepfake* *and* *the* *testimony* — the *technology* *raises* the *question* of the *form* of the *practice* (the *no* *mere* *human*), and it *connects* the *value* to the *applied* *ethics* (Ch. 51, §3–4) and to the *epistemology* (Ch. 11).
 
-**6. The *consolation* *of* *the* *philosophy*.** The *Boehme*, the *Spinoza*, the *Kant* *of* the *Critique* *of* *Judgement*, the *Wittgenstein* of the *Culture* *and* *Value*, the *Cavell* *of* the *claim* *of* *reason* — the *philosophy* *as* the *consolation* (the *no* *mere* *theory*), and the *consolation* *as* the *practice* (the *no* *mere* *feeling*), and the *question* *connects* the *value* to the *well*-*being* (Ch. 48, §7.3) and to the *religion* (Ch. 50, §5).
+**6. The *consolation* *of* *the* *philosophy*.** The *Boehme*, the *Spinoza*, the *Kant* *of* the *Critique* *of* *Judgment*, the *Wittgenstein* of the *Culture* *and* *Value*, the *Cavell* *of* the *claim* *of* *reason* — the *philosophy* *as* the *consolation* (the *no* *mere* *theory*), and the *consolation* *as* the *practice* (the *no* *mere* *feeling*), and the *question* *connects* the *value* to the *well*-*being* (Ch. 48, §7.3) and to the *religion* (Ch. 50, §5).
 
 ---
 
@@ -958,7 +958,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 - **The *intrinsic* *goods*** are *real*: the *understanding* (the *no* *mere* *information*), the *virtues* (the *no* *mere* *skill*), the *freedom* from *custom* (the *no* *mere* *prejudice*).
 - **The *instrumental* *goods*** are *partial*: the *critical* *thinking* (the *domain* *specific*), the *public* *service* (the *diffuse*), the *ambulance* (the *partial*).
 - **The *examined* *life*** *captures* the *practice* (the *no* *mere* *doctrine*), the *ethics* of *belief* the *responsibility* (the *no* *mere* *private*), and the *limits* the *balance* (the *no* *mere* *endless*).
-- **The *uselessness* *charge*** *narrows* the *usefulness* (the *no* *mere* *product*), and the *intrinsic* is the *defence* (the *no* *mere* *idleness*), and the *honesty* *admits* the *cost* (the *no* *mere* *apologetics*).
+- **The *uselessness* *charge*** *narrows* the *usefulness* (the *no* *mere* *product*), and the *intrinsic* is the *defense* (the *no* *mere* *idleness*), and the *honesty* *admits* the *cost* (the *no* *mere* *apologetics*).
 - **The *danger* *charge*** *captures* the *real* (the *no* *mere* *denial*), and the *remedy* is the *argument* (the *no* *mere* *purity*), and the *safeguard* is the *institution* (the *no* *mere* *individual*).
 - **The *practice*** is the *value*: the *habits*, the *curriculum*, the *institutions*, and the *honesty* (the *no* *mere* *sales* *talk*).
 - **The *most* *defensible* *position*** is the *qualified* *pluralism* of the *value*: the *intrinsic* (the *understanding*), the *instrumental* (the *clarity*, the *criticism*), the *constitutive* (the *formation*), and the *exemplary* (the *examined* *life*), *held* with the *honesty* (the *no* *apologetics*), the *distribution* (the *no* *privilege*), and the *humility* (the *no* *purity*), *qualified* by the *admission* that the *measure*, the *transfer*, the *worth*, the *access*, and the *institution* *remain* *contested*.
@@ -969,7 +969,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 ## Study Questions
 
 1. Distinguish the *four* *senses* of the *value* of the *philosophy*. Why is the *distinction* *foundational*?
-2. State Russell’s *defence* in *Chapter* *XV*. Is the *contemplation* *enough*?
+2. State Russell’s *defense* in *Chapter* *XV*. Is the *contemplation* *enough*?
 3. Is Russell *too* *elite*? Is the *contemplation* *trainable* by the *ordinary* *student*?
 4. State the *understanding* as the *intrinsic* *good*. Is it *distinct* from the *knowledge*?
 5. State the *intellectual* *virtues*. Are they *distinctively* *philosophical*?

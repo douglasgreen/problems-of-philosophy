@@ -1,7 +1,7 @@
 # Chapter 36 — The A Priori, Analyticity, and the Philosophy of Logic
 
 > “How are synthetic a priori judgments possible?”
-> — Immanuel Kant, *Critique of Pure Reason* (1781), B19, the question that organised the modern theory of knowledge
+> — Immanuel Kant, *Critique of Pure Reason* (1781), B19, the question that organized the modern theory of knowledge
 
 > “Logic is not a science of how we think, but of how we must think if we are to think at all.”
 > — a formulation of Frege’s anti-psychologism, in the spirit of *Grundgesetze* (1893), Introduction
@@ -33,7 +33,7 @@ $$
 2. & \text{The *certainty* is *not* *empirical* (the *empirical* *evidence* *presupposes* the *laws*).} \\
 3. & \text{The *certainty* is *not* *trivial* (the *laws* *do* *substantive* *work* in the *inference*).} \\
 \hline
-4. & \therefore \text{The *laws* of logic are *a* *priori*, *necessary*, and *substantive* (the *Kantian* *characterisation*).}
+4. & \therefore \text{The *laws* of logic are *a* *priori*, *necessary*, and *substantive* (the *Kantian* *characterization*).}
 \end{array}
 $$
 
@@ -41,7 +41,7 @@ $$
 
 ### 1.2 Kant's question
 
-**The *question***. *How* is *a* *priori* *knowledge* *possible*? — the *question* that *organises* the *Critique* *of* *Pure* *Reason* (Ch. 9, §2.1).
+**The *question***. *How* is *a* *priori* *knowledge* *possible*? — the *question* that *organizes* the *Critique* *of* *Pure* *Reason* (Ch. 9, §2.1).
 
 **Kant's *answer***. The *a* *priori* *knowledge* is *possible* because the *mind* *imposes* its *forms* (the *space*, the *time*, the *categories*) on the *manifold* of *intuition*, and the *forms* are *the* *conditions* of *experience*. The *synthetic* *a* *priori* (the *mathematics*, the *physics*) is *possible* because the *objects* of *experience* *conform* to the *forms* (Ch. 20, §2.1).
 
@@ -409,7 +409,7 @@ $$
 |---|---|---|
 | “All bachelors are unmarried” | *bachelor* | *Analytic* (trivial) |
 | “If $p$ and $q$, then $p$” | *and* | *Analytic* (logical) |
-| “Red is a colour” | *red*, *colour* | *Conceptual* (substantive) |
+| “Red is a color” | *red*, *color* | *Conceptual* (substantive) |
 | “Knowledge is factive” | *knowledge* | *Conceptual* (substantive) |
 
 **The *significance***. The *conceptual* *truths* are the *substantive* *a* *priori* (they are *not* *mere* *tautologies*), and the *truths* *ground* the *possibility* of the *philosophical* *knowledge* (Ch. 3, §1).
@@ -564,7 +564,7 @@ $$
 \end{array}
 $$
 
-**The *virtue***. The *view* *grounds* the *normativity* in the *validity*, and it *fits* the *ordinary* *practice* of *criticising* the *invalid* *reasoning*.
+**The *virtue***. The *view* *grounds* the *normativity* in the *validity*, and it *fits* the *ordinary* *practice* of *criticizing* the *invalid* *reasoning*.
 
 **The *objections*** (Harman, “Logic and Reasoning,” 1986; Field, “What Is the Normative Role of Logic?,” 2009; MacFarlane, “In What Sense (If Any) Is Logic Normative for Thought?,” 2004; the *contemporary* *literature*).
 
@@ -596,7 +596,7 @@ $$
 
 **(iii) The *‘*no* *normativity*’* *response*** (Harman 1986). The *logic* is *descriptive* (it *describes* the *implication*), and the *normativity* is *not* the *logic* (it is the *epistemology*), and the *philosophy* of *logic* *should* *not* *claim* the *normative* *role*.
 
-**The *virtue***. The *response* *avoids* the *gap* (the *logic* *is* *descriptive*, and the *epistemology* *is* *normative*), and it *fits* the *division* of *labour*.
+**The *virtue***. The *response* *avoids* the *gap* (the *logic* *is* *descriptive*, and the *epistemology* *is* *normative*), and it *fits* the *division* of *labor*.
 
 **The *objection***. The *response* *loses* the *connection* between the *logic* and the *reasoning* (the *logic* *becomes* *an* *idle* *game*), and the *loss* is *unacceptable*.
 
@@ -652,7 +652,7 @@ $$
 |---|---|---|
 | **Modal rationalism** | The *modal* *knowledge* is *a* *priori* (the *conceivability* *entails* the *possibility*) | Chalmers (1996, 2002); Ch. 16, §6.2 |
 | **Modal empiricism** | The *modal* *knowledge* is *empirical* (the *counterfactual* *reasoning* is *empirical*) | Williamson (2007); Ch. 16, §6.4 |
-| **Modal scepticism** | The *modal* *knowledge* is *impossible* (the *conceivability* is *not* a *guide*) | van Inwagen (1998); Ch. 16, §6.5 |
+| **Modal skepticism** | The *modal* *knowledge* is *impossible* (the *conceivability* is *not* a *guide*) | van Inwagen (1998); Ch. 16, §6.5 |
 
 **The *argument* *for* the *rationalism***.
 
@@ -669,9 +669,9 @@ $$
 
 **(i) The *Kripkean* *objection*. The *conceivability* *does* not *entail* the *possibility* (the *water* *is* *H₂O* is *conceivable* *otherwise*, but *impossible*), and the *CP* *fails*.
 
-**(ii) The *‘*idealisation*’* *objection*. The *ideal* *conceivability* is *unavailable* (the *ideal* *reasoner* is *an* *idealisation*), and the *conceivability* *is* *unreliable*.
+**(ii) The *‘*idealization*’* *objection*. The *ideal* *conceivability* is *unavailable* (the *ideal* *reasoner* is *an* *idealization*), and the *conceivability* *is* *unreliable*.
 
-**The *significance***. The *modality* *case* *tests* the *a* *priori* *framework*: the *a* *priori* *knowledge* *requires* a *reliable* *conceivability* (the *idealisation*), and the *conceivability* *is* *contested*, and the *case* *supports* the *abductivism* (the *modal* *knowledge* is *abductive*).
+**The *significance***. The *modality* *case* *tests* the *a* *priori* *framework*: the *a* *priori* *knowledge* *requires* a *reliable* *conceivability* (the *idealization*), and the *conceivability* *is* *contested*, and the *case* *supports* the *abductivism* (the *modal* *knowledge* is *abductive*).
 
 ### 7.3 The comparison with logic
 

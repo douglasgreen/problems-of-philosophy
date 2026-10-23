@@ -15,7 +15,7 @@ Chapter 41 examined the *physics* — the *structure* of the world at its most f
 
 The *resistance* is the *subject* of the chapter, and it has *three* *faces*. The *first* is the *teleological*: biology is *saturated* with the language of *purpose*, *function*, *design*, and *adaptation*, and the *physics* has *no* *place* for it. The *second* is the *historical*: the *organisms* are *products* of a *contingent history*, and the *contingency* is *not* *derivable* from the *laws* — the *biology* is, as the *evolutionary* *tradition* says, a *historical* *science*, and its *explanations* are *narrative* as well as *nomological* (Ch. 38, §7.3). The *third* is the *normative*: the *biological* *notions* — *function*, *health*, *disease*, *species*, *life* — are *value-laden*, and the *values* are *not* *external* to the *biology* (Ch. 39, §6).
 
-The chapter's *thesis* is that *biology* is the *strongest* *test* of the *naturalistic* *programme* — the *programme* of explaining the *normative* and the *teleological* in *naturalistic* *terms* — and that the *programme* *succeeds* in the *function* *debate* (the *etiological* *account* is the *most* *defensible*), *partially* *succeeds* in the *species* *debate* (the *pluralism* is the *most* *defensible*), and *fails* — or at least *stalls* — in the *adaptationist* and the *value* *debates*, where the *explanatory* *and* *normative* *pluralism* is *real* but *unstable*.
+The chapter's *thesis* is that *biology* is the *strongest* *test* of the *naturalistic* *program* — the *program* of explaining the *normative* and the *teleological* in *naturalistic* *terms* — and that the *program* *succeeds* in the *function* *debate* (the *etiological* *account* is the *most* *defensible*), *partially* *succeeds* in the *species* *debate* (the *pluralism* is the *most* *defensible*), and *fails* — or at least *stalls* — in the *adaptationist* and the *value* *debates*, where the *explanatory* *and* *normative* *pluralism* is *real* but *unstable*.
 
 The chapter proceeds in eight movements. §1 examines the *nature* of *life* and the *limits* of the *definition*. §2 examines *biological* *function* and the *teleological* *residue*. §3 examines *species*, *individuals*, and the *ontology* of *biology*. §4 examines *reduction* in *genetics*. §5 examines *evolution*, *adaptationism*, and the *evidential* *standards*. §6 examines *teleosemantics* and the *bridge* to the *mind*. §7 examines *environmental* *ethics* and the *value* of the *natural*. §8 gives an *honest* *verdict*.
 
@@ -33,7 +33,7 @@ The chapter proceeds in eight movements. §1 examines the *nature* of *life* and
 |---|---|---|---|
 | **Metabolism** | The *regulated* *exchange* of *matter* and *energy* with the *environment* | The *bacterium*, the *cell* | The *virus* (no *metabolism* of its own) |
 | **Reproduction** | The *capacity* to *produce* *offspring* | The *organism* | The *sterile* *worker* *bee*, the *mule* |
-| **Self-organisation** | The *autopoiesis* (the *self*-*maintenance* of the *organisation*) | The *cell* (the *minimal* *autopoietic* *system*) | The *crystal* (self-organises, but *not* autopoietic) |
+| **Self-organization** | The *autopoiesis* (the *self*-*maintenance* of the *organization*) | The *cell* (the *minimal* *autopoietic* *system*) | The *crystal* (self-organizes, but *not* autopoietic) |
 | **Evolutionary capacity** | The *capacity* for *evolution* by *natural* *selection* | The *lineage*, the *population* | The *individual* *organism* (the *unit* *problem*) |
 | **Information** | The *genetic* *information* (the *DNA*, the *RNA*) | The *organism* | The *prion* (infectious *protein*, no *nucleic* *acid*) |
 
@@ -41,14 +41,14 @@ The chapter proceeds in eight movements. §1 examines the *nature* of *life* and
 
 ### 1.2 The viral limit case
 
-**The *case***. The *virus* is a *replicator* (it *carries* the *genetic* *information*, and it *reproduces* inside the *host*), and it *does* not *metabolise* (it *has* *no* *metabolism*), and it *does* not *self-organise* (it *is* *assembled* by the *host* *machinery*), and it *evolves* (it *is* *subject* to the *selection*).
+**The *case***. The *virus* is a *replicator* (it *carries* the *genetic* *information*, and it *reproduces* inside the *host*), and it *does* not *metabolize* (it *has* *no* *metabolism*), and it *does* not *self-organize* (it *is* *assembled* by the *host* *machinery*), and it *evolves* (it *is* *subject* to the *selection*).
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
 1. & \text{The *virus* *reproduces* and *evolves* (the *replicator* *criterion*).} \\
-2. & \text{The *virus* *does* not *metabolise* or *self-organise* (the *metabolic* *criterion*).} \\
+2. & \text{The *virus* *does* not *metabolize* or *self-organize* (the *metabolic* *criterion*).} \\
 \hline
 3. & \therefore \text{The *virus* *is* a *borderline* *case* (the *cluster* *concept*), and the *definition* *of* *life* is *not* *sharp*.}
 \end{array}
@@ -56,27 +56,27 @@ $$
 
 **The *significance***. The *virus* *shows* that *life* is a *cluster* *concept*, and the *cluster* *concept* *is* *the* *most* *defensible* *view* (the *prototype* *theory*; the *Rosch* *tradition*; Ch. 15, §1.4), and the *cluster* *does* *not* *provide* a *sharp* *boundary*.
 
-### 1.3 Autopoiesis and the organisational account
+### 1.3 Autopoiesis and the organizational account
 
-**The *thesis*** (Maturana & Varela, *Autopoiesis and Cognition*, 1980; *The Tree of Knowledge*, 1987; the *contemporary* *literature*; Ruiz-Mirazo & Moreno, “Basic Autonomy as a Fundamental Step in the Synthesis of Life,” 2004). The *life* is the *self*-*production* of the *organisation* (the *autopoiesis*), and the *minimal* *life* is the *self*-*maintaining* *boundary* (the *membrane*) that *produces* the *components* that *maintain* the *boundary*.
+**The *thesis*** (Maturana & Varela, *Autopoiesis and Cognition*, 1980; *The Tree of Knowledge*, 1987; the *contemporary* *literature*; Ruiz-Mirazo & Moreno, “Basic Autonomy as a Fundamental Step in the Synthesis of Life,” 2004). The *life* is the *self*-*production* of the *organization* (the *autopoiesis*), and the *minimal* *life* is the *self*-*maintaining* *boundary* (the *membrane*) that *produces* the *components* that *maintain* the *boundary*.
 
 **The *structure***.
 
 $$
-\text{Life} = \text{a *self*-*producing* *network* of *processes* that *maintains* its *own* *organisation*}
+\text{Life} = \text{a *self*-*producing* *network* of *processes* that *maintains* its *own* *organization*}
 $$
 
-**The *virtue***. The *account* *captures* the *difference* between the *living* and the *non-living* (the *crystal* *self-organises*, and it *does* not *self-produce*; the *cell* *self-produces*), and it *avoids* the *reproductive* *criterion* (the *sterile* *organism* is *alive*), and it *grounds* the *life* in the *organisation*, not the *molecules*.
+**The *virtue***. The *account* *captures* the *difference* between the *living* and the *non-living* (the *crystal* *self-organizes*, and it *does* not *self-produce*; the *cell* *self-produces*), and it *avoids* the *reproductive* *criterion* (the *sterile* *organism* is *alive*), and it *grounds* the *life* in the *organization*, not the *molecules*.
 
 **The *objections***.
 
 **(i) The *‘*no* *evolution*’* *objection*. The *autopoiesis* *does* not *require* the *evolution* (the *self*-*producing* *network* *can* be *stable* *without* the *variation* and the *selection*), and the *evolutionary* *capacity* is *the* *biological* *criterion* (the *Darwinian* *insight*; §1.4).
 
-**The *reply*** (the *contemporary* *literature*). The *autopoiesis* is the *minimal* *life* (the *metabolic* *organisation*), and the *evolution* is the *further* *capacity* (the *replication* *with* the *variation*), and the *reply* *distinguishes* the *two* *levels*. The *reply* is *defensible* (the *distinction* *is* *real*; the *metabolism*-*first* vs the *replication*-*first* *debates*).
+**The *reply*** (the *contemporary* *literature*). The *autopoiesis* is the *minimal* *life* (the *metabolic* *organization*), and the *evolution* is the *further* *capacity* (the *replication* *with* the *variation*), and the *reply* *distinguishes* the *two* *levels*. The *reply* is *defensible* (the *distinction* *is* *real*; the *metabolism*-*first* vs the *replication*-*first* *debates*).
 
-**(ii) The *‘*no* *definition*’* *objection*. The *autopoiesis* is a *complex* *notion* (the *self*-*production* *is* *hard* to *define* *precisely*), and the *definition* *is* *circular* (the *organisation* *is* *defined* by the *self*-*production*, and the *self*-*production* *is* *defined* by the *organisation*).
+**(ii) The *‘*no* *definition*’* *objection*. The *autopoiesis* is a *complex* *notion* (the *self*-*production* *is* *hard* to *define* *precisely*), and the *definition* *is* *circular* (the *organization* *is* *defined* by the *self*-*production*, and the *self*-*production* *is* *defined* by the *organization*).
 
-**The *reply*** (Maturana & Varela 1980). The *circularity* is *the* *point* (the *life* *is* *constituted* by the *self*-*referential* *organisation*), and the *reply* *accepts* the *circularity*. The *reply* is *contested*.
+**The *reply*** (Maturana & Varela 1980). The *circularity* is *the* *point* (the *life* *is* *constituted* by the *self*-*referential* *organization*), and the *reply* *accepts* the *circularity*. The *reply* is *contested*.
 
 ### 1.4 The Darwinian definition
 
@@ -99,7 +99,7 @@ $$
 
 **(i) The *‘*no* *metabolism*’* *objection*. The *evolution* *requires* the *metabolism* (the *replicators* *require* the *energy* and the *materials*), and the *metabolism* *is* the *more* *fundamental* *criterion* (the *metabolism*-*first* *tradition*).
 
-**The *reply*** (the *contemporary* *literature*). The *metabolism* *emerges* from the *evolution* (the *metabolic* *organisation* *is* *selected*), and the *reply* *relates* the *two* (the *metabolism* *is* a *product* of the *evolution*). The *reply* is *contested* (the *origin* of *life* *may* *require* the *metabolism* *first*; the *RNA* *world* *vs* the *metabolism* *first*).
+**The *reply*** (the *contemporary* *literature*). The *metabolism* *emerges* from the *evolution* (the *metabolic* *organization* *is* *selected*), and the *reply* *relates* the *two* (the *metabolism* *is* a *product* of the *evolution*). The *reply* is *contested* (the *origin* of *life* *may* *require* the *metabolism* *first*; the *RNA* *world* *vs* the *metabolism* *first*).
 
 **(ii) The *‘*no* *sharp* *line*’* *objection*. The *Darwinian* *conditions* *come* in *degrees* (the *partial* *heredity*, the *weak* *selection*), and the *life* *is* a *matter* of *degree* (the *cluster* *concept*).
 
@@ -129,12 +129,12 @@ $$
 | The *criterion* | The *strength* | The *weakness* |
 |---|---|---|
 | **Metabolism** | The chemical grounding | The virus |
-| **Autopoiesis** | The organisation | The evolution |
+| **Autopoiesis** | The organization | The evolution |
 | **Reproduction** | The lineage | The sterile |
 | **Evolution** | The Darwinian | The origin |
 | **Information** | The molecular | The prion |
 
-**The *most* *defensible* *position***. A *qualified* *pluralism*: the *life* is a *cluster* *of* *criteria* (the *pluralist* *insight*), and the *criteria* *are* *grounded* in the *physical* *organisation* (the *physicalist* *insight*), and the *cluster* *is* *real* (the *realist* *insight*), *qualified* by the *admission* that the *boundary* is *vague* (Ch. 33, §3).
+**The *most* *defensible* *position***. A *qualified* *pluralism*: the *life* is a *cluster* *of* *criteria* (the *pluralist* *insight*), and the *criteria* *are* *grounded* in the *physical* *organization* (the *physicalist* *insight*), and the *cluster* *is* *real* (the *realist* *insight*), *qualified* by the *admission* that the *boundary* is *vague* (Ch. 33, §3).
 
 ---
 
@@ -154,7 +154,7 @@ $$
 2. & \text{The *teleology* *requires* a *naturalistic* *reduction* (the *naturalism*; Ch. 25, §1.3).} \\
 3. & \text{The *reduction* *must* *capture* the *normativity* (the *dysfunction*).} \\
 \hline
-4. & \therefore \text{The *function* *debate* is the *test* *case* for the *naturalisation* *of* *teleology* (the *function* *problem*).}
+4. & \therefore \text{The *function* *debate* is the *test* *case* for the *naturalization* *of* *teleology* (the *function* *problem*).}
 \end{array}
 $$
 
@@ -180,7 +180,7 @@ $$
 \end{array}
 $$
 
-**The *virtue***. The *account* *naturalises* the *teleology* (the *function* is the *selected* *effect*, and the *selection* is a *natural* *process*), and it *captures* the *normativity* (the *dysfunction* is the *failure* to *produce* the *effect* *that* the *trait* was *selected* for), and it *fits* the *adaptationist* *practice* (the *reverse* *engineering*; the *“*what* is* the* *trait* *for?”*).
+**The *virtue***. The *account* *naturalizes* the *teleology* (the *function* is the *selected* *effect*, and the *selection* is a *natural* *process*), and it *captures* the *normativity* (the *dysfunction* is the *failure* to *produce* the *effect* *that* the *trait* was *selected* for), and it *fits* the *adaptationist* *practice* (the *reverse* *engineering*; the *“*what* is* the* *trait* *for?”*).
 
 **The *objections***.
 
@@ -192,7 +192,7 @@ $$
 
 **The *reply*** (Neander 1991; Millikan 1989). The *function* is the *effect* *in* the *explanatory* *sense* (the *effect* that *explains* the *persistence*), and the *reply* *distinguishes* the *explanatory* *effect* (the *pumping*) from the *incidental* *effects* (the *sound*). The *reply* is *defensible* (the *explanatory* *relation* *is* *the* *criterion*).
 
-**(iii) The *‘*no* *normativity*’* *objection*** (the *contemporary* *literature*). The *etiological* *account* *naturalises* the *normativity* (the *dysfunction* is the *failure* *to* *produce* the *selected* *effect*), and the *naturalisation* *loses* the *normative* *force* (the *norm* *is* *not* *a* *value*, it is a *statistic*), and the *loss* *is *the* *cost*.
+**(iii) The *‘*no* *normativity*’* *objection*** (the *contemporary* *literature*). The *etiological* *account* *naturalizes* the *normativity* (the *dysfunction* is the *failure* *to* *produce* the *selected* *effect*), and the *naturalization* *loses* the *normative* *force* (the *norm* *is* *not* *a* *value*, it is a *statistic*), and the *loss* *is *the* *cost*.
 
 **The *reply*** (Millikan 1984; the *contemporary* *literature*). The *normativity* is *the* *actual* *norm* (the *selected* *effect*), and the *reply* *accepts* the *norm* as *natural* (the *“*proper* *function”* *is* the *norm*), and the *reply* is *contested* (the *norm* *is* *statistical*, and the *value* *is* *not* *statistical*).
 
@@ -217,7 +217,7 @@ $$
 \end{array}
 $$
 
-**The *virtue***. The *account* *applies* to the *traits* *without* the *selection* (the *spandrels*, the *artefacts*, the *learning*), and it *grounds* the *function* in the *causal* *structure*, and it *fits* the *mechanistic* *explanation* (Ch. 38, §4).
+**The *virtue***. The *account* *applies* to the *traits* *without* the *selection* (the *spandrels*, the *artifacts*, the *learning*), and it *grounds* the *function* in the *causal* *structure*, and it *fits* the *mechanistic* *explanation* (Ch. 38, §4).
 
 **The *objections***.
 
@@ -238,7 +238,7 @@ $$
 $$
 \begin{array}{ll}
 1. & \text{The *etiological* *account* *captures* the *selected* *traits* (the *hearts*, the *eyes*).} \\
-2. & \text{The *causal*-*role* *account* *captures* the *non*-*selected* *traits* (the *spandrels*, the *artefacts*).} \\
+2. & \text{The *causal*-*role* *account* *captures* the *non*-*selected* *traits* (the *spandrels*, the *artifacts*).} \\
 \hline
 3. & \therefore \text{The *function* *ascriptions* are *plural* (the *pluralist* *insight*).}
 \end{array}
@@ -591,7 +591,7 @@ $$
 
 ### 5.2 Adaptationism
 
-**The *thesis*** (the *adaptationist* *programme*; the *“*Panglossian”* *critique*; Gould & Lewontin, “The Spandrels of San Marco,” 1979; the *contemporary* *literature*). The *adaptationism* is the *research* *strategy* of *explaining* the *traits* as the *products* of the *selection*, and the *strategy* *has* the *evidential* *standards* (the *optimality* *models*, the *comparative* *method*, the *experimental* *method*).
+**The *thesis*** (the *adaptationist* *program*; the *“*Panglossian”* *critique*; Gould & Lewontin, “The Spandrels of San Marco,” 1979; the *contemporary* *literature*). The *adaptationism* is the *research* *strategy* of *explaining* the *traits* as the *products* of the *selection*, and the *strategy* *has* the *evidential* *standards* (the *optimality* *models*, the *comparative* *method*, the *experimental* *method*).
 
 **The *argument* *for* the *adaptationism***.
 
@@ -656,11 +656,11 @@ $$
 
 **(ii) The *group* *selection* *objection*. The *altruism* (the *worker* *bee*, the *sterile* *caste*) is *not* *explained* by the *gene*-*centric* *view* (the *sterile* *worker* *has* *no* *offspring*), and the *group* *selection* is *required*.
 
-**The *reply*** (Hamilton, “The Genetical Evolution of Social Behaviour,” 1964). The *kin* *selection* *explains* the *altruism* (the *worker* *shares* the *genes* *with* the *queen*, and the *kin* *selection* *is* *the* *gene*-*centric* *account*), and the *reply* *is* *defensible* (the *Hamilton* *rule*). The *group* *selection* *is* *required* for the *groups* *with* the *low* *relatedness*, and the *debate* *is* *unresolved*.
+**The *reply*** (Hamilton, “The Genetical Evolution of Social Behavior,” 1964). The *kin* *selection* *explains* the *altruism* (the *worker* *shares* the *genes* *with* the *queen*, and the *kin* *selection* *is* *the* *gene*-*centric* *account*), and the *reply* *is* *defensible* (the *Hamilton* *rule*). The *group* *selection* *is* *required* for the *groups* *with* the *low* *relatedness*, and the *debate* *is* *unresolved*.
 
 ### 5.4 Evolutionary psychology
 
-**The *thesis*** (the *Santa* *Barbara* *school*; Tooby & Cosmides, “The Psychological Foundations of Culture,” 1992; the *contemporary* *literature*). The *human* *mind* is a *set* of the *evolved* *modules* (the *psychological* *adaptations*), and the *modules* were *selected* in the *environment* of the *evolutionary* *adaptedness* (the *EEA*), and the *modules* *explain* the *human* *behaviour* (the *cheater* *detection*, the *mate* *preferences*).
+**The *thesis*** (the *Santa* *Barbara* *school*; Tooby & Cosmides, “The Psychological Foundations of Culture,” 1992; the *contemporary* *literature*). The *human* *mind* is a *set* of the *evolved* *modules* (the *psychological* *adaptations*), and the *modules* were *selected* in the *environment* of the *evolutionary* *adaptedness* (the *EEA*), and the *modules* *explain* the *human* *behavior* (the *cheater* *detection*, the *mate* *preferences*).
 
 **The *argument*.
 
@@ -670,11 +670,11 @@ $$
 2. & \text{The *adaptations* were *selected* in the *EEA* (the *environmental* *insight*).} \\
 3. & \text{The *EEA* is *different* from the *current* *environment* (the *mismatch* *insight*).} \\
 \hline
-4. & \therefore \text{The *mind* *has* the *modules* that *were* *adaptive* in the *EEA* (the *evolutionary* *psychology* *insight*), and the *modules* *explain* the *behaviour*.}
+4. & \therefore \text{The *mind* *has* the *modules* that *were* *adaptive* in the *EEA* (the *evolutionary* *psychology* *insight*), and the *modules* *explain* the *behavior*.}
 \end{array}
 $$
 
-**The *virtue***. The *programme* *connects* the *psychology* to the *evolution* (the *biological* *insight*), and it *generates* the *testable* *hypotheses* (the *cheater* *detection*; the *contemporary* *literature*), and it *fits* the *cognitive* *science* (the *modularity*).
+**The *virtue***. The *program* *connects* the *psychology* to the *evolution* (the *biological* *insight*), and it *generates* the *testable* *hypotheses* (the *cheater* *detection*; the *contemporary* *literature*), and it *fits* the *cognitive* *science* (the *modularity*).
 
 **The *critiques***.
 
@@ -749,7 +749,7 @@ $$
 2. & \text{The *mental* *content* is *normative* (the *misrepresentation*, the *correctness*; Ch. 25, §1.4).} \\
 3. & \text{The *function* *grounds* the *content* (the *teleosemantic* *insight*).} \\
 \hline
-4. & \therefore \text{The *content* is *grounded* in the *biological* *function* (the *teleosemantics*), and the *normativity* of the *content* is *naturalised* (the *naturalistic* *insight*).}
+4. & \therefore \text{The *content* is *grounded* in the *biological* *function* (the *teleosemantics*), and the *normativity* of the *content* is *naturalized* (the *naturalistic* *insight*).}
 \end{array}
 $$
 
@@ -782,20 +782,20 @@ $$
 | The *kind* | The *content* is *determined* by | The *proponent* |
 |---|---|---|
 | **Producer** | The *function* of the *signal* to *indicate* (the *sender*) | Millikan; Dretske |
-| **Consumer** | The *function* of the *signal* to *guide* the *consumer*'*s* *behaviour* | Godfrey-Smith; the *contemporary* *literature* |
+| **Consumer** | The *function* of the *signal* to *guide* the *consumer*'*s* *behavior* | Godfrey-Smith; the *contemporary* *literature* |
 
 **The *argument* (the *consumer* *semantics*).
 
 $$
 \begin{array}{ll}
-1. & \text{The *content* *guides* the *behaviour* (the *consumer* *uses* the *signal*).} \\
+1. & \text{The *content* *guides* the *behavior* (the *consumer* *uses* the *signal*).} \\
 2. & \text{The *guidance* *is* the *function* (the *consumer* *semantics*).} \\
 \hline
 3. & \therefore \text{The *content* is *determined* by the *consumer* *semantics* (the *consumer* *insight*), and the *producer* *semantics* is *necessary* (the *producer* *insight*).}
 \end{array}
 $$
 
-**The *virtue***. The *consumer* *semantics* *avoids* the *producer* *indeterminacy* (the *content* is *fixed* by the *consumer's* *use*, and the *use* *is* the *specific* *behaviour*), and it *fits* the *teleosemantic* *framework*.
+**The *virtue***. The *consumer* *semantics* *avoids* the *producer* *indeterminacy* (the *content* is *fixed* by the *consumer's* *use*, and the *use* *is* the *specific* *behavior*), and it *fits* the *teleosemantic* *framework*.
 
 **The *objections***.
 
@@ -885,13 +885,13 @@ $$
 
 ### 7.2 Biocentrism and the interests
 
-**The *thesis*** (Taylor 1986; the *contemporary* *literature*). Every *living* *organism* is a *teleological* *centre* (it *has* a *good* *of* *its* *own*), and the *good* *grounds* the *intrinsic* *value* (the *respect*).
+**The *thesis*** (Taylor 1986; the *contemporary* *literature*). Every *living* *organism* is a *teleological* *center* (it *has* a *good* *of* *its* *own*), and the *good* *grounds* the *intrinsic* *value* (the *respect*).
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
-1. & \text{Every *organism* *has* a *good* *of* *its* *own* (the *teleological* *centre*; §2).} \\
+1. & \text{Every *organism* *has* a *good* *of* *its* *own* (the *teleological* *center*; §2).} \\
 2. & \text{The *good* *grounds* the *intrinsic* *value* (the *biocentric* *premise*).} \\
 \hline
 3. & \therefore \text{Every *organism* has the *intrinsic* *value* (the *biocentrism*).}
@@ -1000,7 +1000,7 @@ $$
 ### 8.1 What is settled
 
 - **The *life* is a *cluster* *concept*.** The *metabolic*, the *autopoietic*, the *evolutionary* *criteria* are *all* *legitimate*, and the *boundary* is *vague*.
-- **The *function* is *grounded* in the *selection* (the *etiological* *account*).** The *etiological* *account* *naturalises* the *teleology* and *captures* the *normativity* (the *dysfunction*), and it *faces* the *spandrels* and the *synchronic* *traits*.
+- **The *function* is *grounded* in the *selection* (the *etiological* *account*).** The *etiological* *account* *naturalizes* the *teleology* and *captures* the *normativity* (the *dysfunction*), and it *faces* the *spandrels* and the *synchronic* *traits*.
 - **The *causal*-*role* *account* *captures* the *non*-*selected* *traits*.** The *two* *accounts* are *complementary* (the *pluralist* *insight*).
 - **The *species* are *individuals* with the *homeostatic* *clusters*.** The *individual* *thesis* and the *HPC* are *compatible*, and the *species* *concepts* are *plural*.
 - **The *gene* *concept* is *plural*.** The *genes* are *causes* and *information* and *templates*, and the *causal* *parity* *undermines* the *genetic* *determinism*.
@@ -1036,7 +1036,7 @@ The honest verdict: the philosophy of biology is a field in transition. The clas
 | Position | Core claim | Strength | Weakness |
 |---|---|---|---|
 | **Metabolism** | Life = metabolism | The chemistry | The virus |
-| **Autopoiesis** | Life = self-production | The organisation | The evolution |
+| **Autopoiesis** | Life = self-production | The organization | The evolution |
 | **Evolution** | Life = Darwinian population | The virus; the sterile | The origin |
 | **Etiological (Millikan)** | Function = selected effect | The normativity | The spandrels |
 | **Causal-role (Cummins)** | Function = causal contribution | The non-selected | The normativity |
@@ -1133,6 +1133,6 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 ---
 
-> *A closing note.* This chapter has followed the *biology* — the *life*, the *function*, the *species*, the *genes*, the *evolution*, the *teleosemantics*, and the *value* of *nature* — and it has arrived at a *conclusion* that is less a *theory* than a *diagnosis*: the *biology* is the *strongest* *test* of the *naturalistic* *programme*, and the *programme* *succeeds* in the *function* *debate* (the *etiological* *account*), *partially* *succeeds* in the *species* *debate* (the *pluralism*), and *stalls* in the *teleosemantic* and the *value* *debates*, where the *explanatory* and *normative* *pluralism* is *real* but *unstable*.
+> *A closing note.* This chapter has followed the *biology* — the *life*, the *function*, the *species*, the *genes*, the *evolution*, the *teleosemantics*, and the *value* of *nature* — and it has arrived at a *conclusion* that is less a *theory* than a *diagnosis*: the *biology* is the *strongest* *test* of the *naturalistic* *program*, and the *program* *succeeds* in the *function* *debate* (the *etiological* *account*), *partially* *succeeds* in the *species* *debate* (the *pluralism*), and *stalls* in the *teleosemantic* and the *value* *debates*, where the *explanatory* and *normative* *pluralism* is *real* but *unstable*.
 
 > *And a bridge.* The next chapter turns to *mathematics* — the *domain* in which the *naturalism* is *most* *contested* (the *abstract* *objects*; Ch. 15, §6), and the *applicability* (Ch. 39, §4) is *most* *mysterious*. If the *biology* is *functional* and *historical*, the *mathematics* is *structural* and *necessary*, and the *next* *chapter* *examines* the *mathematics*, and it *asks* the *question* that the *philosophy* of *science* *presupposes*: *what* *is* *it* for a *mathematical* *truth* to *be* *true*?

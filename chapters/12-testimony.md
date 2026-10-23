@@ -59,14 +59,14 @@ Hume’s treatment is in the *Enquiry* X, and it is embedded in his argument aga
 
 **The structure of the argument.**
 
-1. Testimony is an *empirical* phenomenon: it is a form of behaviour, and its reliability is learned from experience.
+1. Testimony is an *empirical* phenomenon: it is a form of behavior, and its reliability is learned from experience.
 2. The evidence for the reliability of testimony is *inductive*: we have observed that testifiers are usually truthful, and we project that regularity to the present case.
 3. In any particular case, we must weigh the *probability* that the testimony is true against the *probability* of the event reported.
 4. The weight of testimony is therefore *derivative*: it is a function of the observed reliability of testifiers, which is a matter of empirical generalization.
 
 **The reductionist thesis.** Testimony is not a basic source. It is a *derivative* source whose justification is an inference from the reliability of testifiers, and the inference is *empirical* and *inductive*.
 
-**The virtue.** The view is *naturalistic* and *demanding*: it tells us not to accept testimony *blindly*, but to evaluate the evidence for the reliability of the testifier. It is the epistemology of the *critical reader*, the *sceptical juror*, the *conscientious inquirer*.
+**The virtue.** The view is *naturalistic* and *demanding*: it tells us not to accept testimony *blindly*, but to evaluate the evidence for the reliability of the testifier. It is the epistemology of the *critical reader*, the *skeptical juror*, the *conscientious inquirer*.
 
 **The vice.** It is *psychologically* and *epistemically* impossible. The evidence for the reliability of testifiers is *itself* largely testimonial. We learn that testifiers are reliable *from what we have been told*, and the *telling* is testimony. The reductionist’s inference is *circular*: it presupposes the reliability of the very source whose reliability it seeks to establish.
 
@@ -180,12 +180,12 @@ A distinction from the ethics of trust (Baier 1986; Jones 1996; Hawley 2014).
 
 | Concept | Structure | Example |
 |---|---|---|
-| **Reliance** | A prediction about behaviour | I rely on the bus to arrive at 8:00 |
+| **Reliance** | A prediction about behavior | I rely on the bus to arrive at 8:00 |
 | **Trust** | A *normative* expectation, with a *disposition* to be betrayed | I trust my friend to keep a secret |
 
 **The structure of trust.** Trust involves (i) a *belief* that the trusted party will act in a certain way; (ii) a *normative* expectation that she *ought* to; (iii) a *vulnerability* to betrayal if she does not; and (iv) a *reactive attitude* (resentment, hurt) if she does not.
 
-**The application to testimony.** When we believe what someone tells us, we are not merely *relying* on her behaviour; we are *trusting* her *veracity*. The trust is *normative*: the speaker *ought* to tell the truth, and if she lies, the hearer is *betrayed*.
+**The application to testimony.** When we believe what someone tells us, we are not merely *relying* on her behavior; we are *trusting* her *veracity*. The trust is *normative*: the speaker *ought* to tell the truth, and if she lies, the hearer is *betrayed*.
 
 **The structure of the hearer’s position.**
 
@@ -379,7 +379,7 @@ $$
 - The *reasonableness* of the *peer’s* *assessment*.
 - The *stakes* of the *dispute*.
 
-**The naming.** The *literature* usually *distinguishes* two *neighbouring* *positions* here. The *justificationist* *view* (Lackey) holds that the *degree* of *antecedent* *justification* *governs* the *response*: if you were *highly* *justified* *before* the *disagreement* was *discovered*, little or no *conciliation* is *called for*. The *total-evidence* *view* (Kelly) holds that the *first-order* *evidence* must *also* *enter* the *calculation*, so that the *justified* *attitude* is *determined* by *all* the *evidence* and *not* by the *higher-order* *evidence* *alone*.
+**The naming.** The *literature* usually *distinguishes* two *neighboring* *positions* here. The *justificationist* *view* (Lackey) holds that the *degree* of *antecedent* *justification* *governs* the *response*: if you were *highly* *justified* *before* the *disagreement* was *discovered*, little or no *conciliation* is *called for*. The *total-evidence* *view* (Kelly) holds that the *first-order* *evidence* must *also* *enter* the *calculation*, so that the *justified* *attitude* is *determined* by *all* the *evidence* and *not* by the *higher-order* *evidence* *alone*.
 
 **The “justificationist” *picture*.** The *subject*’s *confidence* is *justified* if it is *proportionate* to the *total* *evidence*, and the *disagreement* is *part* of the *evidence*. The *conciliation* is *required* only when the *disagreement* is *sufficient* to *outweigh* the *other* *evidence*.
 
@@ -659,7 +659,7 @@ The *wider* *thesis* of the *wisdom* of *crowds* — that the *crowd* *outperfor
 
 ### 6.1 Information cascades
 
-**The *phenomenon*.** An **information cascade** (Bikhchandani, Hirshleifer & Welch 1992) *occurs* when *agents* *ignore* their *private* *information* and *follow* the *observed* *behaviour* of *others*.
+**The *phenomenon*.** An **information cascade** (Bikhchandani, Hirshleifer & Welch 1992) *occurs* when *agents* *ignore* their *private* *information* and *follow* the *observed* *behavior* of *others*.
 
 **The *model*.** Each *agent* *has* a *private* *signal* (a *noisy* *indication* of the *truth*) and *observes* the *actions* of *previous* *agents*. The *agent* *updates* *Bayesianly* (Ch. 10, §4) on the *observed* *actions*, and *acts* on the *posterior*.
 
@@ -675,7 +675,7 @@ The *likelihood* *depends* on the *actions*, and the *actions* *depend* on the *
 
 **The *consequence*.** The *cascade* is *rational* at each *step*, and *collectively* *irrational*: the *group* *converges* on a *belief* that *no* *member* *would* *hold* on *her* *private* *evidence*.
 
-**The *application*.** The *cascade* *explains*: the *spread* of *rumours*, the *herding* of *financial* *markets*, the *polarization* of *political* *opinion*, and the *diffusion* of *misinformation* *on* *social* *media*.
+**The *application*.** The *cascade* *explains*: the *spread* of *rumors*, the *herding* of *financial* *markets*, the *polarization* of *political* *opinion*, and the *diffusion* of *misinformation* *on* *social* *media*.
 
 ### 6.2 Bullshit at scale
 

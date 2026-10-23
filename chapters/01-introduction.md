@@ -22,9 +22,9 @@ Bertrand Russell’s *The Problems of Philosophy* is still worth reading, and no
 
 This book is written in gratitude for those achievements and in dissent from the book’s *limits*.
 
-The limits are not incidental. Russell wrote before the great displacements. He wrote before the linguistic turn, before the mind–body problem returned as the hardest problem in the field, before the philosophy of science learned to take its own history seriously, before the value disciplines developed arguments of their own rather than hand-me-downs from the metaphysics, before the experimental critique of the armchair, before the sociology of the discipline made it possible to ask, honestly, how much of what we call “the conversation” is a conversation and how much is a set of overlapping monologues. His chapter on the external world ends in a place that a century of work has made interesting rather than settled. His chapter on universals assumes a realism that is now one option among several. His chapter on truth gives us correspondence and stops. His chapter on the value of philosophy — beautiful, and still the best short defence we have — rests on a conception of contemplation that has been challenged, from the left and from the right, ever since.
+The limits are not incidental. Russell wrote before the great displacements. He wrote before the linguistic turn, before the mind–body problem returned as the hardest problem in the field, before the philosophy of science learned to take its own history seriously, before the value disciplines developed arguments of their own rather than hand-me-downs from the metaphysics, before the experimental critique of the armchair, before the sociology of the discipline made it possible to ask, honestly, how much of what we call “the conversation” is a conversation and how much is a set of overlapping monologues. His chapter on the external world ends in a place that a century of work has made interesting rather than settled. His chapter on universals assumes a realism that is now one option among several. His chapter on truth gives us correspondence and stops. His chapter on the value of philosophy — beautiful, and still the best short defense we have — rests on a conception of contemplation that has been challenged, from the left and from the right, ever since.
 
-And the book has a *silence* at its centre. It says nothing about ethics, politics, aesthetics, or religion as subject matter. Nothing about language as more than the vehicle of propositions. Nothing about the mind as more than the seat of acquaintance. Nothing about the sciences as anything other than a storehouse of results. A reader who finished Russell in 1912 would know what epistemology was for and would have no idea that the largest part of the subject existed.
+And the book has a *silence* at its center. It says nothing about ethics, politics, aesthetics, or religion as subject matter. Nothing about language as more than the vehicle of propositions. Nothing about the mind as more than the seat of acquaintance. Nothing about the sciences as anything other than a storehouse of results. A reader who finished Russell in 1912 would know what epistemology was for and would have no idea that the largest part of the subject existed.
 
 This book is an attempt to write the successor. It keeps the ambition — that philosophy is a discipline, that its questions are real, that clarity is an achievement and not a decoration — and it replaces the map.
 
@@ -34,9 +34,9 @@ This book is an attempt to write the successor. It keeps the ambition — that p
 
 Every book has a bet. This one’s is stated in a single sentence, and everything else follows from it.
 
-**Philosophy is not a catalogue of opinions. It is a discipline of systematic analysis — the disciplined study of what we would have to show, say, and assume in order to make our ordinary beliefs, concepts, and practices coherent.**
+**Philosophy is not a catalog of opinions. It is a discipline of systematic analysis — the disciplined study of what we would have to show, say, and assume in order to make our ordinary beliefs, concepts, and practices coherent.**
 
-Three things follow, and they organise the whole book.
+Three things follow, and they organize the whole book.
 
 **First, the method comes before the terrain.** Most introductions begin with the problems and hand the reader the tools as they become necessary. That is like teaching someone to swim by throwing them into successively deeper water. It works for some, and it hides the fact that the same four or five instruments — the argument, the distinction, the thought experiment, the equilibrium, the diagnosis — are doing almost all the work, in every domain, at every level. So Part I of this book is entirely about the tools: how a question is isolated, how an argument is reconstructed and attacked, how a distinction is tested, how a thought experiment is designed and evaluated, how a theory is chosen, how a problem is dissolved rather than solved. If you learn nothing else from this book, learn this: *most philosophical disagreement is disagreement about what would count as an answer*, and the person who can say what would count as an answer has already done most of the philosophy.
 
@@ -50,9 +50,9 @@ Three things follow, and they organise the whole book.
 
 It is worth being explicit about the four things this book is not, because each of them is a way that introductions to philosophy commonly fail.
 
-**It is not a neutral survey.** Neutral surveys are neither possible nor desirable. This book has a view. It holds that the most defensible position in metaethics is a qualified moral realism; that the most defensible account of well-being is a hybrid of endorsed objective goods; that the most defensible account of the unity of philosophy is formal rather than material; that the most defensible verdict on the discipline’s progress is a qualified localism — knowledge locally, no global convergence. You will find these views argued for, in each chapter’s closing section, under the heading *the most defensible position*. You should treat that heading as a claim and not as a verdict, and you should test it. The chapters are constructed so that you can: every verdict arrives with its costs itemised, and the dialectical map at the end of each chapter lists every position considered, with its core claim, its strength, and its weakness.
+**It is not a neutral survey.** Neutral surveys are neither possible nor desirable. This book has a view. It holds that the most defensible position in metaethics is a qualified moral realism; that the most defensible account of well-being is a hybrid of endorsed objective goods; that the most defensible account of the unity of philosophy is formal rather than material; that the most defensible verdict on the discipline’s progress is a qualified localism — knowledge locally, no global convergence. You will find these views argued for, in each chapter’s closing section, under the heading *the most defensible position*. You should treat that heading as a claim and not as a verdict, and you should test it. The chapters are constructed so that you can: every verdict arrives with its costs itemized, and the dialectical map at the end of each chapter lists every position considered, with its core claim, its strength, and its weakness.
 
-**It is not a substitute for the primary texts.** Every chapter’s *Further Reading* names the works that matter and says, in a line, what each is for. Where a chapter summarises an argument, the summary is a *map* of the argument, not a replacement for reading it. The difference between reading a summary of Nagel on death and reading Nagel on death is the difference between reading a menu and eating.
+**It is not a substitute for the primary texts.** Every chapter’s *Further Reading* names the works that matter and says, in a line, what each is for. Where a chapter summarizes an argument, the summary is a *map* of the argument, not a replacement for reading it. The difference between reading a summary of Nagel on death and reading Nagel on death is the difference between reading a menu and eating.
 
 **It is not a worldview.** Philosophy is not a substitute for religion, politics, therapy, or a personality. Some of the chapters here — on the good life, on death, on suffering, on the sacred — come close to the questions that those other practices answer, and they will be honest about the proximity. But the discipline’s contribution is clarity, not consolation; and where consolation is on offer, as it is, the book will tell you what it costs and who is paying.
 
@@ -91,7 +91,7 @@ Each chapter of Parts II–VII has the same architecture, and it is worth learni
 
 **The positions** are laid out in succession, each with its strongest formulation, its structure, its virtues, and the objections against it. The objections are not straw men. Where a position has a standard reply, the reply is given; where the reply is contested, the contest is reported.
 
-**The verdict** — *the most defensible position* — states the author’s view, itemises its costs, and concedes what remains open. You are invited to reject it. The chapter is designed to make rejection possible.
+**The verdict** — *the most defensible position* — states the author’s view, itemizes its costs, and concedes what remains open. You are invited to reject it. The chapter is designed to make rejection possible.
 
 **The dialectical map** is the chapter in miniature: a table of every position considered, its core claim, its strength, and its weakness. It is there so that a reader who has lost the thread can find it again, and so that a reader who wants to argue can see the whole board.
 
@@ -123,7 +123,9 @@ A few notes on the book’s machinery.
 
 **Cross-references** take the form *Ch. 45, §1.1* or *Ch. 48, §3.4*. The section numbers are stable. Where a cross-reference points to a claim rather than a topic, it is because the claim is made there and not repeated here.
 
-**Quotations** are given in standard published translations, lightly modernised in punctuation and, where necessary, in spelling. Where a translation is contested, the note says so. Where a passage is paraphrased rather than quoted, the attribution says *after*.
+**Quotations** are given in standard published translations, lightly modernized in punctuation. Where a translation is contested, the note says so. Where a passage is paraphrased rather than quoted, the attribution says *after*.
+
+**Spelling** is American: *behavior*, *defense*, *center*, *skeptical*, *program*, *judgment*, *formalization*, and so on. Quoted material and citations are the exception, and they keep the spelling of their source — Hume’s *Enquiry* stays *Enquiry*, and Moore’s “A Defence of Common Sense” stays as it is — so that the reader meets the text as it was published.
 
 **Italics** are used for three things, and the reader should be able to tell them apart from context: for technical terms on their first occurrence, for emphasis, and — in the chapters of Parts II–VII — for the *keyword* of a sentence, in a way that will either delight or irritate you within twenty pages. It is a device for reading aloud, and the book is written to be read aloud.
 
@@ -135,7 +137,7 @@ A few notes on the book’s machinery.
 
 ## 8. An invitation
 
-Peirce’s maxim is the only methodological principle this book asks you to accept before you begin: *do not block the way of inquiry*. It cuts in both directions. It forbids the dogmatist who closes a question because the answer is inconvenient, and it forbids the sceptic who closes a question because the answer is unavailable — and it forbids, most of all, the sophisticated reader who closes a question by redescribing it as a “conversation” and then declining to argue.
+Peirce’s maxim is the only methodological principle this book asks you to accept before you begin: *do not block the way of inquiry*. It cuts in both directions. It forbids the dogmatist who closes a question because the answer is inconvenient, and it forbids the skeptic who closes a question because the answer is unavailable — and it forbids, most of all, the sophisticated reader who closes a question by redescribing it as a “conversation” and then declining to argue.
 
 The book is an invitation to argue. Not in the sense of winning, and not in the sense of the seminar performance in which the aim is to have the last word with the least exposure. In the sense that the discipline has always meant: to state a question clearly, to put the best case for the view you oppose, to find the premise you cannot defend, and to change your mind when the argument warrants — and to do all of this in public, where it can be checked.
 
@@ -146,13 +148,13 @@ That practice is older than the universities, and it is more fragile than they a
 1. **The right to disagree.** Every verdict in this book is a claim, and every claim is answerable to argument. You are not required to accept a conclusion because it is printed. You are required to say why you reject it.
 2. **The right to skip.** The optional threads are optional. The further reading is a menu, not a syllabus. A book that insists on being read in full is a book that will not be read at all.
 3. **The right to the objection.** If a chapter’s verdict seems to you obviously wrong, you are probably right about something, and the dialectical map is there to help you find out what. Begin with the row that lists the weakness of the position the chapter endorses.
-4. **The right to the primary text.** No summary in this book is a substitute for the work it summarises. Where a chapter has made an argument seem easy, that is a sign that you should read the original, not that you needn’t.
+4. **The right to the primary text.** No summary in this book is a substitute for the work it summarizes. Where a chapter has made an argument seem easy, that is a sign that you should read the original, not that you needn’t.
 5. **The right to change your mind.** Including about the book. Including about philosophy. The last chapter is not the last word, and neither is this one.
 
 ---
 
 The book begins, as it should, with the question of what it is doing. Chapter 1 takes that question seriously and does not answer it with a slogan. But before you turn to it, one word about the title.
 
-A *field guide* is not an encyclopaedia and not a manifesto. It is a book you carry into a place you do not know, which tells you what you are looking at, what is dangerous, what is edible, and what is worth the walk. It does not walk for you. It does not pretend the terrain is smaller than it is. And it is written on the assumption that you will go off the path — and that when you do, you will want to know what the instruments are called.
+A *field guide* is not an encyclopedia and not a manifesto. It is a book you carry into a place you do not know, which tells you what you are looking at, what is dangerous, what is edible, and what is worth the walk. It does not walk for you. It does not pretend the terrain is smaller than it is. And it is written on the assumption that you will go off the path — and that when you do, you will want to know what the instruments are called.
 
 This is that book. The field is large, the weather is variable, and the map is honest about its own edges. Welcome to it.

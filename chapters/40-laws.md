@@ -379,7 +379,7 @@ $$
 $$
 \begin{array}{ll}
 1. & \text{The *chemical* *kinds* *have* the *microstructures* (the *atomic* *number*, the *electron* *configuration*).} \\
-2. & \text{The *microstructures* *explain* the *observable* *properties* (the *reactivity*, the *colour*, the *melting* *point*).} \\
+2. & \text{The *microstructures* *explain* the *observable* *properties* (the *reactivity*, the *color*, the *melting* *point*).} \\
 3. & \text{The *microstructures* *ground* the *projections* (the *kind* *supports* the *inductions*).} \\
 \hline
 4. & \therefore \text{The *chemical* *kinds* are *grounded* in the *microstructures* (the *essentialist* *insight*), and the *properties* are *not* *reducible* to the *microstructure* (the *emergentist* *insight*).}
@@ -428,13 +428,13 @@ $$
 \begin{array}{ll}
 1. & \text{The *critical* *phenomena* *exhibit* the *universality* (the *same* *exponents* *across* the *different* *systems*).} \\
 2. & \text{The *universality* *is* *explained* by the *renormalization* *group* (the *scale* *invariance*, the *fixed* *points*).} \\
-3. & \text{The *renormalization* *requires* the *infinite* *limit* (the *thermodynamic* *limit*), and the *limit* *is* *not* *realised* in the *finite* *systems*.} \\
+3. & \text{The *renormalization* *requires* the *infinite* *limit* (the *thermodynamic* *limit*), and the *limit* *is* *not* *realized* in the *finite* *systems*.} \\
 \hline
-4. & \therefore \text{The *explanation* *requires* the *idealisation* (the *infinite* *limit*), and the *idealisation* *is* *not* *reducible* to the *finite* *systems* (the *emergent* *insight*).}
+4. & \therefore \text{The *explanation* *requires* the *idealization* (the *infinite* *limit*), and the *idealization* *is* *not* *reducible* to the *finite* *systems* (the *emergent* *insight*).}
 \end{array}
 $$
 
-**The *significance***. The *case* *shows* that the *reduction* *fails* (the *critical* *phenomena* *are* *emergent*, and the *emergence* *is* *explained* by the *idealised* *model*), and the *case* *supports* the *emergentist* *position* (Ch. 21, §5).
+**The *significance***. The *case* *shows* that the *reduction* *fails* (the *critical* *phenomena* *are* *emergent*, and the *emergence* *is* *explained* by the *idealized* *model*), and the *case* *supports* the *emergentist* *position* (Ch. 21, §5).
 
 ### 4.3 Molecular genetics and the gene
 
@@ -465,7 +465,7 @@ $$
 | **Chemistry** | Partial | The periodic table |
 | **Biology** | Contested | The multiple realizability |
 
-**The *most* *defensible* *position***. A *qualified* *pluralism*: the *reduction* *succeeds* at the *level* of the *mechanisms* (the *mechanistic* *reduction*, Ch. 21, §4), and the *emergence* *succeeds* at the *level* of the *idealised* *models* (the *critical* *phenomena*), and the *two* are *complementary* (the *pluralist* *insight*), *qualified* by the *admission* that the *levels* are *not* *reducible* to a *single* *hierarchy* (Ch. 21, §8).
+**The *most* *defensible* *position***. A *qualified* *pluralism*: the *reduction* *succeeds* at the *level* of the *mechanisms* (the *mechanistic* *reduction*, Ch. 21, §4), and the *emergence* *succeeds* at the *level* of the *idealized* *models* (the *critical* *phenomena*), and the *two* are *complementary* (the *pluralist* *insight*), *qualified* by the *admission* that the *levels* are *not* *reducible* to a *single* *hierarchy* (Ch. 21, §8).
 
 ---
 
@@ -496,21 +496,21 @@ $$
 
 ### 5.2 Models as fictions
 
-**The *thesis*** (Cartwright 1983; Giere 1988, 2006; Suárez, “Scientific Fictionalism and the Problem of Inference,” 2009; the *contemporary* *literature*). The *models* are *fictions*: they *describe* the *idealised* *systems* that *are* *not* *real*, and the *scientific* *reasoning* *uses* the *fictions* to *represent* the *real* *systems*.
+**The *thesis*** (Cartwright 1983; Giere 1988, 2006; Suárez, “Scientific Fictionalism and the Problem of Inference,” 2009; the *contemporary* *literature*). The *models* are *fictions*: they *describe* the *idealized* *systems* that *are* *not* *real*, and the *scientific* *reasoning* *uses* the *fictions* to *represent* the *real* *systems*.
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
-1. & \text{The *models* *describe* the *idealised* *systems* (the *frictionless* *plane*, the *ideal* *gas*, the *rational* *agent*).} \\
-2. & \text{The *idealised* *systems* *are* *not* *real* (the *friction* *exists*, the *gas* *is* *not* *ideal*, the *agent* *is* *not* *rational*).} \\
+1. & \text{The *models* *describe* the *idealized* *systems* (the *frictionless* *plane*, the *ideal* *gas*, the *rational* *agent*).} \\
+2. & \text{The *idealized* *systems* *are* *not* *real* (the *friction* *exists*, the *gas* *is* *not* *ideal*, the *agent* *is* *not* *rational*).} \\
 3. & \text{The *models* *represent* the *real* *systems* *without* *describing* them *truly* (the *representation* *is* *fictional*).} \\
 \hline
 4. & \therefore \text{The *models* are *fictions* (the *fictionalist* *insight*).}
 \end{array}
 $$
 
-**The *virtue***. The *account* *fits* the *practice* (the *scientists* *use* the *idealised* *models*), and it *avoids* the *false* *dilemma* (the *models* are *either* *true* or *useless*), and it *grounds* the *representation* in the *fiction*.
+**The *virtue***. The *account* *fits* the *practice* (the *scientists* *use* the *idealized* *models*), and it *avoids* the *false* *dilemma* (the *models* are *either* *true* or *useless*), and it *grounds* the *representation* in the *fiction*.
 
 **The *objections***.
 
@@ -522,14 +522,14 @@ $$
 
 ### 5.3 Idealization and the problem of explanation
 
-**The *problem*** (Batterman, *The Devil in the Details*, 2002; the *contemporary* *literature*). If the *models* are *false* (the *idealisations*), how do the *models* *explain*? The *explanation* *requires* the *truth*, and the *models* are *false*, and the *explanation* *seems* *impossible*.
+**The *problem*** (Batterman, *The Devil in the Details*, 2002; the *contemporary* *literature*). If the *models* are *false* (the *idealizations*), how do the *models* *explain*? The *explanation* *requires* the *truth*, and the *models* are *false*, and the *explanation* *seems* *impossible*.
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
 1. & \text{The *explanation* *requires* the *truth* (the *explanation* is *factive*; Ch. 38, §6).} \\
-2. & \text{The *models* are *false* (the *idealisations*; §5.2).} \\
+2. & \text{The *models* are *false* (the *idealizations*; §5.2).} \\
 \hline
 3. & \therefore \text{The *models* *cannot* *explain* (the *problem*).}
 \end{array}
@@ -537,7 +537,7 @@ $$
 
 **The *responses***.
 
-**(i) The *‘*minimal* *model*’* *response* (Batterman 2002, Ch. 3). The *explanation* *uses* the *minimal* *models* (the *models* that *contain* the *essential* *features*, and the *non*-*essential* *features* *are* *the* *fictions*), and the *minimal* *model* *explains* the *universality* (the *critical* *phenomena* *are* *explained* by the *minimal* *model*, not by the *detailed* *model*). The *reply* *grounds* the *explanation* in the *idealised* *structure*, and it is *contested*.
+**(i) The *‘*minimal* *model*’* *response* (Batterman 2002, Ch. 3). The *explanation* *uses* the *minimal* *models* (the *models* that *contain* the *essential* *features*, and the *non*-*essential* *features* *are* *the* *fictions*), and the *minimal* *model* *explains* the *universality* (the *critical* *phenomena* *are* *explained* by the *minimal* *model*, not by the *detailed* *model*). The *reply* *grounds* the *explanation* in the *idealized* *structure*, and it is *contested*.
 
 **(ii) The *‘*pragmatic*’* *response* (the *contemporary* *literature*). The *explanation* is *not* *factive* (the *understanding* *does* not *require* the *truth*; Ch. 38, §6.1), and the *models* *explain* by *providing* the *understanding*. The *reply* *grounds* the *explanation* in the *understanding*, and it is *contested*.
 
@@ -634,7 +634,7 @@ $$
 
 **The *reply*** (Longino 2002, Ch. 5). The *objectivity* is *compatible* with the *values* (the *values* are *constitutive* of the *inquiry*, not the *content* of the *claims*), and the *reply* *distinguishes* the *constitutive* *values* from the *content* *values*. The *reply* is *contested*.
 
-**(ii) The *‘*no* *objectivity*’* *objection*. The *social* *account* *relativises* the *objectivity* to the *community* (the *different* *communities* *have* the *different* *standards*), and the *relativism* *undermines* the *objectivity*.
+**(ii) The *‘*no* *objectivity*’* *objection*. The *social* *account* *relativizes* the *objectivity* to the *community* (the *different* *communities* *have* the *different* *standards*), and the *relativism* *undermines* the *objectivity*.
 
 **The *reply*** (Longino 2002, Ch. 6). The *objectivity* is *not* the *consensus* (it is the *critical* *process*), and the *reply* *grounds* the *objectivity* in the *process*, not the *agreement*. The *reply* is *contested*.
 
@@ -746,9 +746,9 @@ $$
 | The *rule* | The *demand* |
 |---|---|
 | **Learn the science** | The *philosophical* *claims* *must* be *informed* by the *science* (the *practice*, the *experiments*, the *models*) |
-| **Respect the specialisation** | The *philosophy* of the *science* *does* not *replace* the *science* (it *clarifies* the *concepts*) |
+| **Respect the specialization** | The *philosophy* of the *science* *does* not *replace* the *science* (it *clarifies* the *concepts*) |
 | **Avoid the imperialist** | The *philosophy* of the *science* *does* not *dictate* the *science* (the *philosophy* *follows* the *science*) |
-| **Avoid the servile** | The *philosophy* of the *science* *does* not *merely* *report* the *science* (the *philosophy* *criticises*) |
+| **Avoid the servile** | The *philosophy* of the *science* *does* not *merely* *report* the *science* (the *philosophy* *criticizes*) |
 | **Be explicit about the values** | The *philosophical* *claims* *must* *acknowledge* the *values* (§6) |
 | **Be explicit about the limits** | The *philosophical* *claims* *must* *acknowledge* the *limits* of the *science* and the *philosophy* |
 
@@ -776,7 +776,7 @@ $$
 - **The *ceteris* *paribus* *problem* is *real*.** The *special* *sciences* *lack* the *strict* *laws*, and the *responses* (the *pragmatic*, the *mechanistic*, the *capacities*) are *contested*.
 - **The *natural* *kinds* are *real* and *plural*.** The *HPC* (Boyd), the *species* *pluralism*, and the *chemical* *essentialism* *ground* the *classification*, and the *kind* *pluralism* is the *most* *defensible*.
 - **The *reduction* is *partial*.** The *classic* *cases* (the *thermodynamics*, the *genetics*, the *chemistry*) *show* the *successes* and the *limits*.
-- **The *models* are *fictions*.** The *idealisations* *represent* the *systems* *without* *describing* them *truly*, and the *explanation* *requires* a *further* *account*.
+- **The *models* are *fictions*.** The *idealizations* *represent* the *systems* *without* *describing* them *truly*, and the *explanation* *requires* a *further* *account*.
 - **The *values* *enter* the *science*.** The *inductive* *risk* *argument* is *decisive*, and the *social* *account* (Longino) *grounds* the *objectivity* in the *practice*.
 - **The *interdisciplinarity* *constrains* the *philosophy*.** The *philosophy* of *science* *constrains* the *philosophy* of *mind*, the *metaphysics*, the *ethics*, and the *epistemology*.
 
@@ -794,7 +794,7 @@ $$
 The chapter is a case study in the method of Part I.
 
 - **Conceptual analysis** (§1 of Ch. 3) generated the *distinctions* among the *regularity*, the *necessitation*, and the *disposition*.
-- **Thought experiments** (§2 of Ch. 3) — the *grue* (Ch. 10, §3), the *phase* *transitions*, the *idealisations* — are the *engine* of the debate.
+- **Thought experiments** (§2 of Ch. 3) — the *grue* (Ch. 10, §3), the *phase* *transitions*, the *idealizations* — are the *engine* of the debate.
 - **Formalization** (§3 of Ch. 3) — the *HPC*, the *renormalization* *group*, the *structural* *equations* — is *essential* for the *field*.
 - **Reflective equilibrium** (§4 of Ch. 3) is the *method* by which the *intuitions* and the *theories* are *adjusted*.
 - **Negative capability** (§7 of Ch. 3) is the *response* to the *residue*: the *humility* to *hold* the *question* *open*.
@@ -810,12 +810,12 @@ The honest verdict: the philosophy of science is a field in transition. The clas
 | **Disposition (Bird)** | Laws are grounded in essences | The necessity; the power | The categorical basis |
 | **Pragmatic (Mitchell)** | Ceteris paribus laws are pragmatic | Fits the practice | The no-distinction |
 | **Mechanistic (MDC)** | Explanation is mechanism | The special sciences | The levels; the normativity |
-| **Capacities (Cartwright)** | Laws lie; capacities explain | The idealisation | The no-capacities |
+| **Capacities (Cartwright)** | Laws lie; capacities explain | The idealization | The no-capacities |
 | **HPC (Boyd)** | Kinds are homeostatic clusters | The biological kinds | The no-mechanism |
 | **Species pluralism** | Species concepts are many | Fits the practice | The no-unity |
 | **Reduction** | The macro is reduced to the micro | The unification | The partial reduction |
 | **Emergence** | The macro is emergent | The critical phenomena | The unexplained |
-| **Fictionalism (Giere)** | Models are fictions | The idealisation | The inference |
+| **Fictionalism (Giere)** | Models are fictions | The idealization | The inference |
 | **Inductive risk (Douglas)** | Values enter at acceptance | The practice | The no-line |
 | **Social objectivity (Longino)** | Objectivity is social | The process | The relativism |
 | **Code of practice** | The balance | The interdisciplinary | The code is not read |
@@ -846,7 +846,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 - **The *ceteris* *paribus* *problem*** *threatens* the *special* *sciences*, and the *responses* (the *pragmatic*, the *mechanistic*, the *capacities*, the *autonomy*) are *all* *contested*.
 - **The *natural* *kinds*** are *real* and *plural*: the *HPC* (Boyd), the *species* *pluralism*, and the *chemical* *essentialism* *ground* the *classification*, and the *kind* *pluralism* is the *most* *defensible*.
 - **The *reduction* is *partial***: the *thermodynamics*, the *genetics*, and the *chemistry* *show* the *successes* and the *limits* of the *reduction*, and the *emergence* (the *phase* *transitions*) is *real*.
-- **The *models* are *fictions***: the *idealisations* *represent* the *systems* *without* *describing* them *truly*, and the *explanation* *requires* a *further* *account* (the *minimal* *model*, the *structural* *realism*).
+- **The *models* are *fictions***: the *idealizations* *represent* the *systems* *without* *describing* them *truly*, and the *explanation* *requires* a *further* *account* (the *minimal* *model*, the *structural* *realism*).
 - **The *values* *enter* the *science***: the *inductive* *risk* *argument* is *decisive*, and the *social* *account* (Longino) *grounds* the *objectivity* in the *practice*, and the *management* of the *values* is the *central* *question*.
 - **The *interdisciplinarity* *constrains* the *philosophy***: the *philosophy* of *science* *constrains* the *philosophy* of *mind*, the *metaphysics*, the *ethics*, and the *epistemology*.
 - **The *most* *defensible* *position*** is a *qualified* *pluralism*: the *laws* are *grounded* in the *essences* (the *dispositionalist* *insight*), the *ceteris* *paribus* *generalizations* are *real* at their *level* (the *pluralist* *insight*), the *natural* *kinds* are *real* and *plural* (the *HPC* *insight*), the *reduction* is *partial* (the *mechanistic* *insight*), the *models* are *fictions* (the *fictionalist* *insight*), the *values* are *inescapable* (the *inductive* *risk* *insight*), and the *interdisciplinarity* is *constrained* by the *code* of *practice* (the *methodological* *insight*), *qualified* by the *admission* that the *unity* is *not* *available*.
@@ -891,13 +891,13 @@ Cross-cutting material, for the reader who wants to go deeper.
 - **On natural kinds**: Richard Boyd, “Homeostasis, Species, and Higher Taxa” (1999), in *Species: New Interdisciplinary Essays* (ed. Wilson, 1999); the *survey* in the *Stanford Encyclopedia* entry, “Natural Kinds” (Bird and Tobin); the *contemporary* *literature* in *Natural Kinds and Classification in Scientific Practice* (ed. Kendig, 2016).
 - **On the species**: Marc Ereshefsky, *The Poverty of the Linnaean Hierarchy* (2001); David Hull, “A Matter of Individuality” (1978), in *Philosophy of Science* 45; Michael Ghiselin, “A Radical Solution to the Species Problem” (1974), in *Systematic Zoology* 23; the *survey* in the *Stanford Encyclopedia* entry, “Species” (Ereshefsky).
 - **On the reduction and emergence**: the *survey* in the *Stanford Encyclopedia* entries, “Reductionism in Biology” (Brigandt and Love), “Emergent Properties” (O’Connor and Wong); Robert Batterman, *The Devil in the Details* (2002); Margaret Morrison, *Unifying Scientific Theories* (2000); the *contemporary* *literature* in *Emergence* (ed. Bedau and Humphreys, 2008).
-- **On the models and the idealisation**: Bas van Fraassen, *The Scientific Image* (1980), Ch. 3; Ronald Giere, *Explaining Science* (1988), and *Scientific Perspectivism* (2006); the *contemporary* *literature* in *The Routledge Companion to the Philosophy of Science* (ed. Curd and Psillos, 2013), Part IV; the *survey* in the *Stanford Encyclopedia* entry, “Models in Science” (Frigg and Hartmann).
+- **On the models and the idealization**: Bas van Fraassen, *The Scientific Image* (1980), Ch. 3; Ronald Giere, *Explaining Science* (1988), and *Scientific Perspectivism* (2006); the *contemporary* *literature* in *The Routledge Companion to the Philosophy of Science* (ed. Curd and Psillos, 2013), Part IV; the *survey* in the *Stanford Encyclopedia* entry, “Models in Science” (Frigg and Hartmann).
 - **On the values in science**: Richard Rudner, “The Scientist Qua Scientist Makes Value Judgments” (1953), in *Philosophy of Science* 20; Helen Longino, *Science as Social Knowledge* (1990), and *The Fate of Knowledge* (2002); Heather Douglas, *Science, Policy, and the Value-Free Ideal* (2009); the *survey* in the *Stanford Encyclopedia* entry, “Science and Values” (Douglas).
 - **On the interdisciplinarity**: the *contemporary* *literature* in *The Oxford Handbook of Interdisciplinarity* (ed. Frodeman, 2nd ed., 2017); the *essays* in *Philosophy of Science* (ed. Curd and Psillos, 2013), Part VIII.
 - **On the non-Western theories**: B. K. Matilal, *The Character of Logic in India* (1998); Jonardon Ganeri, *Philosophy in Classical India* (2001); the *essays* in *The Oxford Handbook of Indian Philosophy* (ed. Ganeri, 2017), Part IV.
 
 ---
 
-> *A closing note.* This chapter has followed the *structure* of *science* — the *laws*, the *ceteris* *paribus* *generalizations*, the *natural* *kinds*, the *reduction* and the *emergence*, the *models* and the *idealisation*, the *values*, and the *interdisciplinarity* — and it has arrived at a *conclusion* that is less a *theory* than a *diagnosis*: there is no such thing as *the* law of nature; there is a *family* of *strategies* for *describing* and *intervening* in the world, and the *pluralism* is the *condition* of the *scientific* *success*.
+> *A closing note.* This chapter has followed the *structure* of *science* — the *laws*, the *ceteris* *paribus* *generalizations*, the *natural* *kinds*, the *reduction* and the *emergence*, the *models* and the *idealization*, the *values*, and the *interdisciplinarity* — and it has arrived at a *conclusion* that is less a *theory* than a *diagnosis*: there is no such thing as *the* law of nature; there is a *family* of *strategies* for *describing* and *intervening* in the world, and the *pluralism* is the *condition* of the *scientific* *success*.
 
 > *And a bridge.* The next chapter turns to *confirmation*, *theory* *choice*, and *scientific* *realism* — the *epistemology* of the *science* that the *laws* and the *models* *presuppose*. If the *laws* are *plural* (§1) and the *models* are *fictions* (§5), the *question* of *why* we should *believe* the *scientific* *theories* becomes *urgent*, and the *next* *chapter* *examines* the *realism*/*anti-realism* *debate* (the *no*-*miracles* *argument*, the *pessimistic* *meta*-*induction*, the *structural* *realism*; Ch. 40), and it *asks* the *question* that the *science* *presupposes*: *what* *is* *it* for a *theory* to be *confirmed*?

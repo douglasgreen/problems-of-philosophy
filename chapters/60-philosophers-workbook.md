@@ -8,7 +8,7 @@
 
 $$\text{isolate the question} \;\to\; \text{map the argument} \;\to\; \text{test the distinctions} \;\to\; \text{design the case} \;\to\; \text{press the objection} \;\to\; \text{write the analysis}$$
 
-Skip a step and the later ones degrade in a predictable way. A badly isolated question produces a beautifully mapped argument for the wrong conclusion (the commonest failure in undergraduate essays). An untested distinction produces a thought experiment that does not isolate what it claims to isolate. An objection answered before it is stated in its strongest form produces a reply to a neighbour of the real problem. §E.7 shows the chain in operation.
+Skip a step and the later ones degrade in a predictable way. A badly isolated question produces a beautifully mapped argument for the wrong conclusion (the commonest failure in undergraduate essays). An untested distinction produces a thought experiment that does not isolate what it claims to isolate. An objection answered before it is stated in its strongest form produces a reply to a neighbor of the real problem. §E.7 shows the chain in operation.
 
 ---
 
@@ -71,7 +71,7 @@ QUESTION (as posed):          ______________________________
 
 **Move 3 (presuppositions).** (i) That "consciousness" picks out one thing — contested (access vs. phenomenal, Ch. 24). (ii) That consciousness is substrate-independent or not — this is precisely the disputed premise, and it is frequently smuggled in. (iii) That there is a fact of the matter. If (iii) fails, the question becomes a normative one about how to treat systems under uncertainty, which is a different inquiry with a different method.
 
-**Move 4 (answer-form).** A satisfying answer must (i) say what consciousness is such that the question has a determinate answer, and (ii) specify what would count as evidence. It would be settled by a theory with independent support plus a criterion of application; it would *not* be settled by behavioural indistinguishability alone (the Turing test point, Ch. 29), nor by the absence of a mechanism we happen to know.
+**Move 4 (answer-form).** A satisfying answer must (i) say what consciousness is such that the question has a determinate answer, and (ii) specify what would count as evidence. It would be settled by a theory with independent support plus a criterion of application; it would *not* be settled by behavioral indistinguishability alone (the Turing test point, Ch. 29), nor by the absence of a mechanism we happen to know.
 
 **Move 5 (working version).** *"Given a functionalist account of consciousness, does the current evidence about large language models satisfy the criteria for access consciousness, and if not, what follows for our obligations toward them?"* — a question with a target, a method, and a scope.
 
@@ -137,7 +137,7 @@ LOAD-BEARING PREMISE: P__ because ______________
 **Explicit premises.**
 
 - P1. You wake to find yourself, without consent, surgically attached to a famous unconscious violinist who needs your kidneys for nine months. — the case
-- P2. You may permissibly unplug yourself. — the judgement about the case
+- P2. You may permissibly unplug yourself. — the judgment about the case
 - P3. The violinist has a right to life. — granted for the argument
 - P4. A right to life does not include a right to the use of another person's body without consent. — the principle
 
@@ -180,7 +180,7 @@ Ask six questions of any distinction you meet — or propose.
 | 3 | **Is it a difference in kind or in degree?** | If degree, it cannot by itself ground a categorical moral or metaphysical verdict |
 | 4 | **Is it descriptive or normative?** Does it report a difference or recommend one? | The distinction is doing persuasive work disguised as description |
 | 5 | **Does it survive the cases that matter?** Test the paradigm cases, the borderline cases, and the cases the distinction was invented to handle | The distinction is ad hoc |
-| 6 | **Is it doing explanatory work, or only labelling?** Does invoking it *explain* anything, or merely name the phenomenon? | The distinction is a redescription, not an analysis |
+| 6 | **Is it doing explanatory work, or only labeling?** Does invoking it *explain* anything, or merely name the phenomenon? | The distinction is a redescription, not an analysis |
 
 ### The counterexample battery (for necessary-and-sufficient analyses)
 
@@ -199,11 +199,11 @@ TEST 3 — VARIABILITY (change the disputed feature; does the verdict track it?)
   Original: ____________  Varied: ____________  Verdict shift: ____
 
 TEST 4 — KIND (what is this case a case OF? Is it the same kind of thing
-  as the paradigm, or a neighbouring phenomenon with a different structure?)
+  as the paradigm, or a neighboring phenomenon with a different structure?)
   Answer: ______________________________________________
 
 TEST 5 — DEBUNK (is the intuition about the case explained by something
-  other than the truth of the theory — framing, salience, moralising)?
+  other than the truth of the theory — framing, salience, moralizing)?
   Answer: ______________________________________________
 ```
 
@@ -244,7 +244,7 @@ The distinction: killing is (other things equal) worse than letting die. Test it
 
 | # | Specification | The question it answers |
 |---|---|---|
-| 1 | **Target judgement** | What intuition is the case supposed to elicit, and what theory does that intuition support or refute? |
+| 1 | **Target judgment** | What intuition is the case supposed to elicit, and what theory does that intuition support or refute? |
 | 2 | **Variable** | Which feature is manipulated? Exactly one, or the inference is confounded. |
 | 3 | **Foil** | What is the controlled comparison case, identical except for the variable? |
 | 4 | **Neutral description** | Is the case described without presupposing the conclusion? (The usual failure: the case is rigged by its adjectives.) |
@@ -277,14 +277,14 @@ CASE NAME: ______________          (after the pattern of Ch. 3, 9)
    and your philosophical training?  [Note: this is empirical — Ch. 9.]
 
 6. DEBUNK. The intuition might be explained by: status quo bias /
-   loss aversion / just-world belief / moralising / unfamiliarity.
+   loss aversion / just-world belief / moralizing / unfamiliarity.
    Does the explanation undermine the evidential force?  [Y/N]
    Does the theory have independent support?  ______________
 ```
 
 ### Worked example: designing a case to test the experience-machine verdict
 
-**The target.** Nozick's intuition is that we would refuse the machine and that this shows hedonism is false. The standard objection (Appendix C, §12) is that the refusal might reflect *status quo bias* or *false beliefs about reality* rather than a judgement about welfare. Design a case that separates these.
+**The target.** Nozick's intuition is that we would refuse the machine and that this shows hedonism is false. The standard objection (Appendix C, §12) is that the refusal might reflect *status quo bias* or *false beliefs about reality* rather than a judgment about welfare. Design a case that separates these.
 
 **Variable.** *Agency versus reality.* In the original, the machine offers a passive stream of experiences. The refusal might be about *doing* rather than about *contact with reality* (Nozick's first reason rather than his third).
 
@@ -309,7 +309,7 @@ If the intuition to refuse survives M2, the refusal is about reality. If it disa
 | **The remote-case problem** | The case is so far from any actual situation that intuitions are unreliable about it | Prefer cases that are close to real decisions; if you must go remote, explain why the distance is irrelevant |
 | **Loaded description** | Words in the vignette carry the verdict ("a *mere* simulation") | Rewrite in functional, neutral terms |
 | **Non-isolated variable** | Two features change at once | State the difference in one clause (specification 3) |
-| **Confusing intuition with theory** | The intuition is treated as data when it is a *theory-laden* judgement (Ch. 9) | State what would debunk it |
+| **Confusing intuition with theory** | The intuition is treated as data when it is a *theory-laden* judgment (Ch. 9) | State what would debunk it |
 
 **Exercise.** Design a case that tests whether the Gettier intuition depends on the "luck" framing or on the "false lemma" structure. (Ch. 7 gives the material; the design brief is specifications 1–6.) Then state what result would refute your own preferred account of the Gettier lesson.
 
@@ -360,21 +360,21 @@ because the objection's force depended on ____, and that is ____.
 
 ### Worked example: objections to the experience-machine verdict
 
-**View.** Nozick's judgement that we would refuse the machine shows hedonism is false.
+**View.** Nozick's judgment that we would refuse the machine shows hedonism is false.
 
 **Objection (strongest form).**
 
 - O1. Our refusal is explained by status quo bias and loss aversion.
-- O2. If a judgement is fully explained by a bias, it is not evidence about the thing judged.
+- O2. If a judgment is fully explained by a bias, it is not evidence about the thing judged.
 - ∴ The refusal is not evidence against hedonism.
 
 **Target.** The objection attacks the *evidential* premise — that the intuition tracks welfare — not Nozick's descriptions of the case. This is important: the case itself is fine; the inference from case to conclusion is what is attacked.
 
 **Replies.**
 
-- **R1 (deny O1).** The refusal is not merely inertial: people also refuse the machine when it is offered to them as a *gain* from a neutral baseline, and they refuse it for others, and they report the refusal as a considered judgement. *Cost:* the empirical evidence is thin and culturally parochial. *Residual:* the bias explanation is incomplete.
-- **R2 (distinguish).** Even if the *refusal* is biased, the *judgement* it expresses may be correct; biases can accompany correct judgements. The case is a *probe*, not a proof (Appendix C, §12), so the objection weakens but does not destroy its force. *Cost:* the case now carries less weight than Nozick claimed. *Residual:* the case is still a *prima facie* counterexample requiring explanation.
-- **R3 (concede).** The machine case does not refute hedonism; it forces hedonism to explain the intuition away, and that explanatory burden is itself a cost. The correct conclusion is that hedonism is *disfavoured*, not refuted — and the case has value as a *diagnostic*, because any theory that must call all our reflective judgements about welfare systematically mistaken is in trouble.
+- **R1 (deny O1).** The refusal is not merely inertial: people also refuse the machine when it is offered to them as a *gain* from a neutral baseline, and they refuse it for others, and they report the refusal as a considered judgment. *Cost:* the empirical evidence is thin and culturally parochial. *Residual:* the bias explanation is incomplete.
+- **R2 (distinguish).** Even if the *refusal* is biased, the *judgment* it expresses may be correct; biases can accompany correct judgments. The case is a *probe*, not a proof (Appendix C, §12), so the objection weakens but does not destroy its force. *Cost:* the case now carries less weight than Nozick claimed. *Residual:* the case is still a *prima facie* counterexample requiring explanation.
+- **R3 (concede).** The machine case does not refute hedonism; it forces hedonism to explain the intuition away, and that explanatory burden is itself a cost. The correct conclusion is that hedonism is *disfavored*, not refuted — and the case has value as a *diagnostic*, because any theory that must call all our reflective judgments about welfare systematically mistaken is in trouble.
 
 **After the exchange.** The view is *weakened to a presumption*. The objection's force depends on the empirical claim about bias, which is contestable; the case survives as a probe with defeasible evidential weight. This is the honest verdict, and it is more useful than either "Nozick refutes hedonism" or "the case is worthless."
 
@@ -382,7 +382,7 @@ because the objection's force depended on ____, and that is ____.
 
 Always give three replies, ordered by how much they concede. The strong reply is the one a defender would actually give; the concessive reply is the one that is usually true. An essay that gives only the strong reply is a brief for a client; an essay that gives only the concessive reply has no thesis.
 
-**Motte-and-bailey test.** If a defender, when pressed, retreats to a modest claim while the original argument advanced a bold one, ask: *is the modest claim sufficient to do the work the bold one was introduced to do?* If not, the retreat is a change of subject, not a defence (Ch. 4).
+**Motte-and-bailey test.** If a defender, when pressed, retreats to a modest claim while the original argument advanced a bold one, ask: *is the modest claim sufficient to do the work the bold one was introduced to do?* If not, the retreat is a change of subject, not a defense (Ch. 4).
 
 ### Failure modes
 
@@ -400,7 +400,7 @@ Always give three replies, ordered by how much they concede. The strong reply is
 
 ## E.6 — Template 6: The Philosophical Analysis
 
-**The principle.** A philosophical analysis is an argument with a shape: a question, a map of the options, a position, a defence, and an honest statement of what remains. The shape is not decoration; it is what makes the piece assessable.
+**The principle.** A philosophical analysis is an argument with a shape: a question, a map of the options, a position, a defense, and an honest statement of what remains. The shape is not decoration; it is what makes the piece assessable.
 
 ### The architecture (1,500–2,500 words)
 
@@ -410,7 +410,7 @@ Always give three replies, ordered by how much they concede. The strong reply is
 | **2. The map** | 20% | The rival answers, and why the live ones are live | "There are three positions: A, B, and C. A is ruled out by..., so the real dispute is between B and C." |
 | **3. The argument** | 35% | The positive case, with the load-bearing premise flagged | "The central premise is P. P is supported by..." |
 | **4. The objection** | 15% | The strongest objection, stated fairly | "The best objection is that... If sound, it shows..." |
-| **5. The reply** | 15% | The defence, with its cost | "The reply is that... The cost of this reply is..." |
+| **5. The reply** | 15% | The defense, with its cost | "The reply is that... The cost of this reply is..." |
 | **6. The verdict and the residual** | 5% | What has been established, and what has not | "I conclude that... What remains open is..." |
 
 ### Paragraph rules
@@ -482,12 +482,12 @@ Each entry gives the case, the question worth asking, the concepts and chapters 
 | 1 | A suspect is detained under a "ticking bomb" statute that permits coercive interrogation | Is the statute permissible if it is used only when officials certify an emergency? | Torture; dirty hands; rule vs. act; Ch. 45, 51 | Arguing from the imagined case to the statute — the statute must also govern the false certification |
 | 2 | A defendant is clearly guilty but cannot receive a fair trial (evidence destroyed by police negligence) | Should the court acquit? | Rights; integrity of the system; consequentialism; Ch. 45, 47 | Treating the question as "does the acquittal have bad consequences?"; it is about the *system's* justification |
 | 3 | A corporation is prosecuted for manslaughter; the culpability is diffuse across the hierarchy | Can a corporation be blameworthy? | Group agency; moral responsibility; Ch. 11, 27 | Assuming group blame reduces to individual blame, or denies it entirely |
-| 4 | A jury hears statistical evidence that a suspect was one of 1,000 ticket-holders, 999 of whom paid | Is a conviction on statistical evidence alone legitimate? | Evidentialism; proof; generalisation; Ch. 10, 11 | Treating the question as mathematical; it is about what a *jury* is for |
-| 5 | A negligence standard asks what "the reasonable person" would do | Whose reasonableness? | Idealisation; standpoint epistemology; Ch. 46, 47 | Assuming "reasonable person" is a descriptive claim; it is a normative stipulation |
+| 4 | A jury hears statistical evidence that a suspect was one of 1,000 ticket-holders, 999 of whom paid | Is a conviction on statistical evidence alone legitimate? | Evidentialism; proof; generalization; Ch. 10, 11 | Treating the question as mathematical; it is about what a *jury* is for |
+| 5 | A negligence standard asks what "the reasonable person" would do | Whose reasonableness? | Idealization; standpoint epistemology; Ch. 46, 47 | Assuming "reasonable person" is a descriptive claim; it is a normative stipulation |
 | 6 | A wrongfully imprisoned man is compensated for lost years; his counterfactual future is unknowable | Is the compensation just if it cannot be measured? | Counterfactuals; compensation; Ch. 18, 47 | Treating compensation as a demand for *equivalence* rather than for *acknowledgment* |
 | 7 | A sentencing algorithm predicts recidivism with 70% accuracy | Should it be used? | Prediction; desert; responsibility; Ch. 27, 51 | Ignoring that *judges* also predict at ~65%; the comparison class matters |
 | 8 | A man asks a search engine to remove a 20-year-old article about his conviction | Does the right to be forgotten override the public record? | Publicity; testimony; archives; Ch. 11, 51 | Framing it as privacy vs. speech, when it is also about the *epistemics of the archive* |
-| 9 | A defendant invokes a cultural defence against a charge of assault | Does the defence express respect or condescension? | Relativism; autonomy; equality; Ch. 13, 44 | Using "culture" as an explanatory category in place of evidence |
+| 9 | A defendant invokes a cultural defense against a charge of assault | Does the defense express respect or condescension? | Relativism; autonomy; equality; Ch. 13, 44 | Using "culture" as an explanatory category in place of evidence |
 | 10 | A constitutional court strikes down a law passed by a large majority | Is judicial review compatible with democracy? | Authority; legitimacy; public reason; Ch. 47 | Assuming the majority's preference *is* the democratic standard; that is the disputed premise |
 
 ### Medicine
@@ -516,7 +516,7 @@ Each entry gives the case, the question worth asking, the concepts and chapters 
 | 25 | A deepfake of a politician appears days before an election | Is the harm to truth or to trust? | Testimony; epistemology of doubt; Ch. 11, 34 | The "liar's dividend": claiming real footage is fake — the mirror problem |
 | 26 | A platform optimises for engagement and produces addiction | Is the design autonomous or coercive? | Autonomy; manipulation; Ch. 30, 47 | Treating addiction as a failure of will rather than as a design outcome |
 | 27 | A firm sells personal data it collected without explicit consent | Is data property? | Property; personhood; Ch. 47 | Assuming the property answer settles the question; ownership of data is neither obviously apt nor obviously inapt |
-| 28 | A system reports distress signals that may or may not indicate sentience | What is owed to digital minds under uncertainty? | Moral status; precaution; Ch. 29 | Using uncertainty as a licence for either indifference or paralysis |
+| 28 | A system reports distress signals that may or may not indicate sentience | What is owed to digital minds under uncertainty? | Moral status; precaution; Ch. 29 | Using uncertainty as a license for either indifference or paralysis |
 | 29 | An algorithm schedules workers, ratings them, and fires them | Is algorithmic management a freedom problem? | Republican freedom; Ch. 47 | Reducing it to "consent in the contract" |
 | 30 | A manufacturer locks repairs behind proprietary software | Does ownership include the right to repair? | Ownership; design; Ch. 47 | Treating property as a single thing rather than a bundle of incidents |
 
@@ -526,10 +526,10 @@ Each entry gives the case, the question worth asking, the concepts and chapters 
 |---|---|---|---|---|
 | 31 | A field discovers that half its published findings fail to replicate | Does this undermine the claim that science produces knowledge? | Reliability; social epistemology; Ch. 40, 11 | Concluding "science is unreliable" rather than "the *publication system* is" — distinguish the method from the institution |
 | 32 | A regulator must decide whether a chemical is safe, with a threshold that determines how many false negatives are tolerated | Is the choice of threshold a scientific or a value question? | Inductive risk; Ch. 39 | Treating "safety" as a purely scientific predicate |
-| 33 | A conservation programme protects a "species" whose boundaries are contested | What is being protected? | Natural kinds; species problem; Ch. 42 | Assuming "species" is a natural kind; it may be a practical kind |
+| 33 | A conservation program protects a "species" whose boundaries are contested | What is being protected? | Natural kinds; species problem; Ch. 42 | Assuming "species" is a natural kind; it may be a practical kind |
 | 34 | Physicists propose a multiverse to explain fine-tuning | Is this science? | Demarcation; testability; Ch. 40, 50 | Applying Popper mechanically; the criterion is a cluster, not a test |
 | 35 | A "wellness" protocol makes unfalsifiable claims about energy | Is it pseudoscience? | Demarcation; evidence; Ch. 40 | Using "pseudoscience" as a term of abuse instead of a diagnostic |
-| 36 | An economic model assumes perfectly rational agents and predicts badly | Is the model false, or is it an idealisation? | Models; idealisation; Ch. 39 | Treating falsehood as automatically a defect; idealised models can be *explanatory* |
+| 36 | An economic model assumes perfectly rational agents and predicts badly | Is the model false, or is it an idealization? | Models; idealization; Ch. 39 | Treating falsehood as automatically a defect; idealized models can be *explanatory* |
 | 37 | A quantum measurement yields a definite outcome; the theory predicts superposition | What does the theory say about observation? | Measurement problem; Ch. 41 | Importing "consciousness causes collapse" without the argument |
 | 38 | Animal studies predict human responses imperfectly | When is extrapolation warranted? | Models; analogy; Ch. 29, 42 | Assuming the question is statistical when it is also *analogical* |
 | 39 | A junior researcher's finding is dismissed by senior figures in the field | Is this epistemic injustice? | Testimony; credibility; Ch. 11 | Treating every dismissal as injustice; credibility has *evidence* behind it |
@@ -556,7 +556,7 @@ Each entry gives the case, the question worth asking, the concepts and chapters 
 
 Eight of the fifty, showing the expected skeleton rather than the full essay.
 
-**Case 4 (statistical evidence).** The map: (a) purely probabilistic evidence is sufficient (b) it is never sufficient (c) it is sufficient only when the evidence is *causal* in the right way (the "individualisation" view). The live option is (c). Load-bearing premise: that a verdict requires an answer to "why this defendant?" and not merely "how likely?" The trap is to run a Bayesian calculation: the likelihood ratio can be enormous and the intuition that a conviction is illegitimate can survive — which shows the objection is to the *form* of the evidence, not its weight. Verdict: the individualisation view, with the cost that it makes some statistical evidence unusable.
+**Case 4 (statistical evidence).** The map: (a) purely probabilistic evidence is sufficient (b) it is never sufficient (c) it is sufficient only when the evidence is *causal* in the right way (the "individualization" view). The live option is (c). Load-bearing premise: that a verdict requires an answer to "why this defendant?" and not merely "how likely?" The trap is to run a Bayesian calculation: the likelihood ratio can be enormous and the intuition that a conviction is illegitimate can survive — which shows the objection is to the *form* of the evidence, not its weight. Verdict: the individualization view, with the cost that it makes some statistical evidence unusable.
 
 **Case 11 (therapeutic misconception).** The map: (a) the misconception is the patient's error (b) it is a failure of the consent process (c) it is a structural feature of trial participation that no consent form can remedy (the live option). Load-bearing premise: that consent is about *understanding*, not about *signature*. Verdict: (c), with the consequence that the remedy is institutional (independent advising), not documentary.
 
@@ -603,7 +603,7 @@ A year of work, in four quarters, with a daily practice running underneath it.
 
 **Q2 — Metaphysics and mind.** Ch. 14–30. Deliverables: two full analyses on mind, one on substance or modality. Weekly: one thought-experiment *design* (not just an evaluation); one "steel-man" exercise on a view you reject.
 
-**Q3 — Language, logic, science, mathematics.** Ch. 31–43. Deliverables: one analysis on truth or meaning; one on scientific realism; one on a mathematical problem. Weekly: one formalisation exercise (Appendix A); one case from the science list.
+**Q3 — Language, logic, science, mathematics.** Ch. 31–43. Deliverables: one analysis on truth or meaning; one on scientific realism; one on a mathematical problem. Weekly: one formalization exercise (Appendix A); one case from the science list.
 
 **Q4 — Value and metaphilosophy.** Ch. 44–54. Deliverables: two analyses on normative ethics; one on political philosophy; a final essay that traces one concept through the whole book (Ch. 53, §7).
 
@@ -616,7 +616,7 @@ Four diagnostic questions, in order. They resolve most stalls.
 1. **Is the question clear?** Go back to E.1. If you cannot state the working version in one sentence, the problem is upstream of any argument.
 2. **Is the key term doing one job?** Check it in Appendix B. Most stalls are caused by a term that is being used in two senses, one of which is doing the work.
 3. **Have you found the load-bearing premise?** If the argument feels unanswerable, you have probably not yet located the premise that carries it — and it is usually not the one being discussed.
-4. **Are you answering the objection, or a neighbour of it?** Restate the objection in its strongest form (E.5). If your reply now looks irrelevant, it was addressed to the neighbour.
+4. **Are you answering the objection, or a neighbor of it?** Restate the objection in its strongest form (E.5). If your reply now looks irrelevant, it was addressed to the neighbor.
 
 ---
 
@@ -624,7 +624,7 @@ Four diagnostic questions, in order. They resolve most stalls.
 
 Three honest caveats.
 
-**First, the templates cannot supply judgement.** The counterexample battery tells you to look for a case where the conditions hold but the concept does not apply. It cannot tell you whether the case you have imagined is a genuine counterexample or a neighbouring phenomenon with a different structure. That is the skill the book is trying to teach, and it is learned by doing, badly, for a long time.
+**First, the templates cannot supply judgment.** The counterexample battery tells you to look for a case where the conditions hold but the concept does not apply. It cannot tell you whether the case you have imagined is a genuine counterexample or a neighboring phenomenon with a different structure. That is the skill the book is trying to teach, and it is learned by doing, badly, for a long time.
 
 **Second, the case studies are not neutral.** Their vignettes encode choices about what matters (the bias in the algorithm, the autonomy of the patient, the independence of the sources). A reader who works through all fifty will absorb a set of concerns as well as a method. That is unavoidable, and it is why §D.13's warning about the canon applies here too: the workbook's selection is one selection, and the optional threads in each part name what it leaves out.
 

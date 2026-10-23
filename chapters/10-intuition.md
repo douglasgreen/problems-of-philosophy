@@ -10,7 +10,7 @@
 
 Chapter 8 followed the regress of justification down to its stopping points, and at every stopping point it found the same unresolved question: **what are the reasons made of?** The foundationalist pointed to basic beliefs; the coherentist pointed to the system; the reliabilist pointed to the process. But a basic belief is basic only if its justification is *immediate* — and immediacy is the traditional mark of **intuition**. The regress ends, if it ends, in the intuitive.
 
-This chapter examines intuition, and the two notions that have travelled with it for four centuries: the **a priori** and the **analytic**. The three are not the same, but they have been entangled since Kant, and the entanglements are the subject of the chapter.
+This chapter examines intuition, and the two notions that have traveled with it for four centuries: the **a priori** and the **analytic**. The three are not the same, but they have been entangled since Kant, and the entanglements are the subject of the chapter.
 
 The chapter has a distinctive shape, because the territory has been *contested twice*, and then *reshaped* by a third event. The first contest was Kant’s: how can there be synthetic a priori knowledge? The second was Quine’s: is the analytic/synthetic distinction coherent at all? The third was Kripke’s: is the a priori the same thing as the necessary? The first contest produced the modern conception of the a priori; the second nearly destroyed it; the third split the classical package in two. The chapter’s argument is that all three contests were genuine, that none was decisively won, and that the contemporary settlement — a *moderate* revival of the analytic, with a *thin* conception of the a priori — is the best we have.
 
@@ -22,9 +22,9 @@ We proceed in eight movements. §1 recovers Russell’s account, and the crisis 
 
 ### 1.1 The setting: Russell’s epistemology of principles
 
-Russell’s *Problems of Philosophy* is built on a distinction between two kinds of knowledge: **knowledge by acquaintance** and **knowledge by description** (Russell, Ch. V; see Ch. 12 of this book). Acquaintance is direct awareness of a thing — a sense-datum, a memory, an introspected state, a universal. Description is knowledge *that* something is the case, which is analysed into acquaintance with the constituents plus a general principle that connects them.
+Russell’s *Problems of Philosophy* is built on a distinction between two kinds of knowledge: **knowledge by acquaintance** and **knowledge by description** (Russell, Ch. V; see Ch. 12 of this book). Acquaintance is direct awareness of a thing — a sense-datum, a memory, an introspected state, a universal. Description is knowledge *that* something is the case, which is analyzed into acquaintance with the constituents plus a general principle that connects them.
 
-The analysis generates an obvious question: **where do the general principles come from?** If all knowledge *that* is analysed into acquaintance plus principles, then the principles themselves must be known somehow. Russell’s answer, in Chs. VII–VIII and XI, is that they are known by **intuition**.
+The analysis generates an obvious question: **where do the general principles come from?** If all knowledge *that* is analyzed into acquaintance plus principles, then the principles themselves must be known somehow. Russell’s answer, in Chs. VII–VIII and XI, is that they are known by **intuition**.
 
 ### 1.2 Russell’s account of intuitive knowledge
 
@@ -32,7 +32,7 @@ Russell distinguishes two kinds of self-evidence:
 
 | Type | Example | Character |
 |---|---|---|
-| **Intuitive self-evidence** | The proposition that $2+2=4$; that red is a colour; that if $A$ is before $B$ and $B$ before $C$, then $A$ is before $C$ | Immediate; we *see* that it is true |
+| **Intuitive self-evidence** | The proposition that $2+2=4$; that red is a color; that if $A$ is before $B$ and $B$ before $C$, then $A$ is before $C$ | Immediate; we *see* that it is true |
 | **Derivative self-evidence** | The conclusions of a proof | Mediate; we see that the conclusion follows, given the premises |
 
 Intuitive self-evidence is the foundation. Russell’s claim (Ch. XI) is that there is a class of propositions that are “self-evident” in the sense that, when we understand them, we cannot doubt them — not because of psychological compulsion, but because the understanding *is* the justification.
@@ -93,7 +93,7 @@ The distinction is Kant’s, and it is stated most clearly in the *Prolegomena* 
 - **Analytic judgment**: a judgment in which the predicate is *contained* in the concept of the subject. (“All bodies are extended.”)
 - **Synthetic judgment**: a judgment in which the predicate *adds* to the concept of the subject. (“All bodies are heavy.”)
 
-**The criterion.** Kant’s own criterion is the *conceptual containment* criterion. A *negation* test — an analytic judgement is one whose negation is self-contradictory — is a later gloss on Kant, standard in the commentaries rather than stated by Kant as a criterion of his own. The test also narrows Kant’s own class: it captures only the *logical* analytic truths and misses the merely *conceptual* ones (that all bodies are extended is analytic for Kant, but its negation is a falsehood, not a contradiction). And the criterion is circular: the negation test uses logical truth, and logical truth uses analyticity.
+**The criterion.** Kant’s own criterion is the *conceptual containment* criterion. A *negation* test — an analytic judgment is one whose negation is self-contradictory — is a later gloss on Kant, standard in the commentaries rather than stated by Kant as a criterion of his own. The test also narrows Kant’s own class: it captures only the *logical* analytic truths and misses the merely *conceptual* ones (that all bodies are extended is analytic for Kant, but its negation is a falsehood, not a contradiction). And the criterion is circular: the negation test uses logical truth, and logical truth uses analyticity.
 
 **The taxonomy.**
 
@@ -122,14 +122,14 @@ Frege’s most important contribution to the debate is the **context principle**
 
 ### 2.3 The logical positivists
 
-The **logical positivists** (Carnap, Ayer, Schlick) made the analytic/synthetic distinction the cornerstone of their philosophy. Their programme:
+The **logical positivists** (Carnap, Ayer, Schlick) made the analytic/synthetic distinction the cornerstone of their philosophy. Their program:
 
 - **Analytic truths** are true in virtue of meaning; they are **tautologies**; they say nothing about the world.
 - **Synthetic truths** are empirical; they are verified or falsified by experience.
 - The **verification principle**: a sentence is meaningful only if it is analytic or empirically verifiable.
 - The **rejection of the synthetic a priori**: there is no such thing; the propositions Kant thought were synthetic a priori are either analytic (mathematics and logic) or empirical (the principles of science).
 
-The positivist programme is the high-water mark of the analytic. It is also the point at which the distinction begins to break down, because the verification principle is itself neither analytic nor empirically verifiable. (This is the “self-refutation” problem, and it was the beginning of the end for positivism.)
+The positivist program is the high-water mark of the analytic. It is also the point at which the distinction begins to break down, because the verification principle is itself neither analytic nor empirically verifiable. (This is the “self-refutation” problem, and it was the beginning of the end for positivism.)
 
 ### 2.4 Quine’s attack
 
@@ -157,7 +157,7 @@ The second dogma is **reductionism**: the thesis that every meaningful sentence 
 
 Quine’s attack was immediately contested, and the responses fall into three families.
 
-**(i) Grice and Strawson (1956): the distinction is not *defined*, but it is *used*.** The argument: Quine sets an impossible standard — a non-circular definition of analyticity — and concludes that the distinction is incoherent. But many concepts are used without being defined (e.g., “red”), and the philosophical task is to *characterize* the distinction, not to *define* it. The distinction is marked by a *family* of criteria: synonymy, contradiction, necessity, a priority, and the behaviour of speakers. The criteria converge in paradigm cases, and the absence of a definition does not entail the absence of a distinction.
+**(i) Grice and Strawson (1956): the distinction is not *defined*, but it is *used*.** The argument: Quine sets an impossible standard — a non-circular definition of analyticity — and concludes that the distinction is incoherent. But many concepts are used without being defined (e.g., “red”), and the philosophical task is to *characterize* the distinction, not to *define* it. The distinction is marked by a *family* of criteria: synonymy, contradiction, necessity, a priority, and the behavior of speakers. The criteria converge in paradigm cases, and the absence of a definition does not entail the absence of a distinction.
 
 **(ii) The “epistemic” conception of analyticity (Boghossian 1996).** Boghossian distinguishes two conceptions:
 
@@ -166,7 +166,7 @@ Quine’s attack was immediately contested, and the responses fall into three fa
 
 Boghossian argues that the epistemic conception is the one that matters for epistemology, and that it survives Quine’s attack. The argument: the epistemic conception does not require a *metaphysical* notion of meaning-truth; it requires only that the *competent speaker’s grasp of the meaning* is sufficient for *knowledge* of the truth. And that is a *psychological* claim that can be defended without the problematic metaphysics.
 
-The **problem** with Boghossian’s defence is that it makes analyticity depend on a *psychological* fact (the speaker’s grasp of meaning), and the fact is contestable. The “grasp of meaning” may be a *capacity* that is exercised in *some* contexts and not others, and the exercise may be contaminated by empirical beliefs.
+The **problem** with Boghossian’s defense is that it makes analyticity depend on a *psychological* fact (the speaker’s grasp of meaning), and the fact is contestable. The “grasp of meaning” may be a *capacity* that is exercised in *some* contexts and not others, and the exercise may be contaminated by empirical beliefs.
 
 **(iii) The “moderate revival” (Jackson 1998; Chalmers 2012).** The moderate revival accepts that the *classical* analytic/synthetic distinction is untenable — the sharp line, the logical definition, the “truth in virtue of meaning alone” — but argues that the *distinction* survives in a *weaker* form.
 
@@ -178,7 +178,7 @@ The moderate revival is the *dominant* position in the contemporary literature, 
 
 ### 2.6 The state of the analytic
 
-The twenty-first-century position is a **qualified vindication** of the distinction, and the table below summarises it in five claims.
+The twenty-first-century position is a **qualified vindication** of the distinction, and the table below summarizes it in five claims.
 
 | Claim | Status |
 |---|---|
@@ -240,7 +240,7 @@ The structure: **the identity statement is necessary because the terms are rigid
 
 **The contingent a priori.** Kripke’s examples:
 
-1. **The standard metre.** “The standard metre is one metre long.” The sentence is *contingent* (the standard metre could have been a different length, or not existed), but it is known *a priori* (by the stipulation that fixes the reference of “one metre”).
+1. **The standard meter.** “The standard meter is one meter long.” The sentence is *contingent* (the standard meter could have been a different length, or not existed), but it is known *a priori* (by the stipulation that fixes the reference of “one meter”).
 2. **“I am here now.”** Contingent (I could be elsewhere), but known a priori (or at least without empirical investigation).
 
 The structure: **the truth is contingent because the reference is fixed by a contingent fact**, but the knowledge is a priori because the *stipulation* is the source of the warrant. The distinction between the *content* (contingent) and the *warrant* (a priori) is the key.
@@ -260,7 +260,7 @@ The contemporary consensus is a **thin** conception: the a priori is not a *facu
 
 The thin conception has three components.
 
-**(i) Negative characterisation.** A belief is a priori if its *warrant does not depend on experience*. This is a *negative* characterisation, and it is deliberately minimal. It does not say *how* the belief is warranted; it says only that the warrant is *not empirical*.
+**(i) Negative characterization.** A belief is a priori if its *warrant does not depend on experience*. This is a *negative* characterization, and it is deliberately minimal. It does not say *how* the belief is warranted; it says only that the warrant is *not empirical*.
 
 **(ii) The warrant is *structural*.** The warrant is *internal* to the belief — it is a feature of the *content* or the *concept* or the *inference*, not a feature of the *world*. The warrant is *a priori* because it can be *seen* without *looking*.
 
@@ -344,11 +344,11 @@ The findings do not *refute* the method of cases, but they *complicate* it. The 
 
 The **responses**:
 
-**(i) The “expertise” defence.** Philosophical intuitions are reliable only in experts, just as medical intuitions are reliable only in doctors. The defence has two problems: (a) the experts disagree, and the disagreement is not converging; (b) the “expert” intuitions are the ones that *formed* the disagreement, so the expertise defence is circular.
+**(i) The “expertise” defense.** Philosophical intuitions are reliable only in experts, just as medical intuitions are reliable only in doctors. The defense has two problems: (a) the experts disagree, and the disagreement is not converging; (b) the “expert” intuitions are the ones that *formed* the disagreement, so the expertise defense is circular.
 
-**(ii) The “robustness” defence.** The *paradigm* intuitions — the Gettier cases, the trolley cases — are robust across cultures and framings. The variation is in the *peripheral* cases, not the paradigms. The defence is plausible, but it is an *empirical* claim that needs to be tested.
+**(ii) The “robustness” defense.** The *paradigm* intuitions — the Gettier cases, the trolley cases — are robust across cultures and framings. The variation is in the *peripheral* cases, not the paradigms. The defense is plausible, but it is an *empirical* claim that needs to be tested.
 
-**(iii) The “methodological” defence.** The method of cases does not require *universal* agreement; it requires *convergence among the informed*. The convergence is the evidence, not the individual intuition. The defence shifts the burden from the *intuition* to the *community*, and it is a version of the “expertise” defence.
+**(iii) The “methodological” defense.** The method of cases does not require *universal* agreement; it requires *convergence among the informed*. The convergence is the evidence, not the individual intuition. The defense shifts the burden from the *intuition* to the *community*, and it is a version of the “expertise” defense.
 
 ### 4.3 The debunking challenge
 
@@ -402,7 +402,7 @@ Kripke’s *Naming and Necessity* revived **essentialism**: the view that object
 **The examples.**
 
 - **Origin essentialism.** The table could not have been made from a different block of wood; its material origin is essential. (Kripke 1980, “Identity and Necessity.”)
-- **Kind essentialism.** Water is essentially H₂O; a substance that is not H₂O is not water, even if it looks and tastes like water. (The *Twin Earth* argument applies the same structure to colour; Ch. 25, §4.1.)
+- **Kind essentialism.** Water is essentially H₂O; a substance that is not H₂O is not water, even if it looks and tastes like water. (The *Twin Earth* argument applies the same structure to color; Ch. 25, §4.1.)
 - **Individual essence.** A person’s origin — the sperm and egg from which she came — is essential. (Kripke 1980, “Identity and Necessity.”)
 
 **The epistemology.** The essentialist claims are *a posteriori*: we discover the essences by empirical investigation. The necessity is *metaphysical*, and the *knowledge* is *a posteriori*. This is the “necessary a posteriori,” and it is the most important consequence of Kripke’s revolution.
@@ -419,11 +419,11 @@ The thesis is the engine of many philosophical arguments, including the **zombie
 
 **The problems.**
 
-**(i) The “ideal” conceivability problem.** What is *ideal* conceivability? It is conceivability by a *perfect* reasoner, with *all* the relevant information. But we are not perfect reasoners, and the “ideal” is an idealisation that may not be available. (Chalmers’s response: the idealisation is *in principle*, and it can be approximated.)
+**(i) The “ideal” conceivability problem.** What is *ideal* conceivability? It is conceivability by a *perfect* reasoner, with *all* the relevant information. But we are not perfect reasoners, and the “ideal” is an idealization that may not be available. (Chalmers’s response: the idealization is *in principle*, and it can be approximated.)
 
 **(ii) The Kripkean objection.** Kripke’s necessary a posteriori is a *counterexample* to the CP thesis, if the necessity is *a posteriori*. Water is necessarily H₂O, but it is *conceivable* that water is not H₂O (we can imagine a world where the stuff that looks like water is XYZ). The CP thesis would imply that water is *not* necessarily H₂O, which contradicts Kripke’s essentialism. (The response: the *scenario* in which the stuff-that-looks-like-water is XYZ is a scenario in which the *word* “water” picks out something else; the necessity survives, because the necessity attaches to the reference of the terms and not to our ability to imagine a difference. This is the “two-dimensional” response: the conceivability fixes the *primary* content, the necessity fixes the *secondary* content.)
 
-**(iii) The “modal scepticism” objection.** The CP thesis is *unjustified*: we have no independent access to the space of possible worlds, and the “conceivability” intuition is a *psychological* fact, not an *epistemic* one. (This is the “modal scepticism” of van Inwagen, and it is the most radical challenge.)
+**(iii) The “modal skepticism” objection.** The CP thesis is *unjustified*: we have no independent access to the space of possible worlds, and the “conceivability” intuition is a *psychological* fact, not an *epistemic* one. (This is the “modal skepticism” of van Inwagen, and it is the most radical challenge.)
 
 ### 5.4 The two-dimensional framework
 
@@ -451,7 +451,7 @@ The contemporary state:
 | Some a priori truths are contingent | **Accepted** (Kripke) |
 | Conceivability is a guide to possibility | **Contested** |
 | The two-dimensional framework resolves the tensions | **Contested** |
-| Modal scepticism is false | **Contested** |
+| Modal skepticism is false | **Contested** |
 
 The chapter’s verdict: modality is *real*, the a priori is *real*, and the relation between them is *not* the classical trinity. The thin conception (§3.4) is the best available: the a priori is a *kind of warrant*, not a *kind of necessity*; the necessary is a *metaphysical* status, not an *epistemic* one; and the two can come apart.
 
@@ -491,13 +491,13 @@ The argument is valid, and premise 2 is empirically true. The classical concepti
 
 ### 6.3 The responses
 
-**(i) The “ideal reasoner” response.** The universality condition applies to the *ideal* reasoner, not the *actual* one. The disagreement among actual reasoners is evidence of *error*, not of *non-self-evidence*. (The problem: the ideal reasoner is an *idealisation*, and it is *unavailable* as a standard. The response is a *promissory note*.)
+**(i) The “ideal reasoner” response.** The universality condition applies to the *ideal* reasoner, not the *actual* one. The disagreement among actual reasoners is evidence of *error*, not of *non-self-evidence*. (The problem: the ideal reasoner is an *idealization*, and it is *unavailable* as a standard. The response is a *promissory note*.)
 
-**(ii) The “expertise” response.** The disagreement among experts is *less* than the disagreement among novices, and the *trend* is toward convergence. (The problem: the trend is *not* toward convergence; it is toward *specialisation* and *fragmentation*. The “expertise” response is empirically *dubious*.)
+**(ii) The “expertise” response.** The disagreement among experts is *less* than the disagreement among novices, and the *trend* is toward convergence. (The problem: the trend is *not* toward convergence; it is toward *specialization* and *fragmentation*. The “expertise” response is empirically *dubious*.)
 
 **(iii) The “fallibilist” response.** Self-evidence is *defeasible*: a proposition can be *self-evidently* justified, but the justification can be *defeated* by further reflection. The classical conception of *indubitability* is abandoned; the *immediacy* and the *warrant* are retained. (This is the thin conception, and it is the dominant position.)
 
-**(iv) The “meta-induction” response.** Chalmers (2015) argues that the *history* of philosophy suggests that the disagreement will *not* converge. The “meta-induction”: if the experts have disagreed for 2,000 years, they will probably continue to disagree. The response is *pessimistic*, and it is *empirically* supported. (The *philosophical* consequence is *humility*, not scepticism: the disagreement is *evidence* for caution, not for the *falsehood* of the views.)
+**(iv) The “meta-induction” response.** Chalmers (2015) argues that the *history* of philosophy suggests that the disagreement will *not* converge. The “meta-induction”: if the experts have disagreed for 2,000 years, they will probably continue to disagree. The response is *pessimistic*, and it is *empirically* supported. (The *philosophical* consequence is *humility*, not skepticism: the disagreement is *evidence* for caution, not for the *falsehood* of the views.)
 
 ### 6.4 The epistemology of philosophical disagreement
 
@@ -563,7 +563,7 @@ The candidate sources of mathematical knowledge:
 | **Proof** | A derivation from axioms | The proof of Fermat’s Last Theorem | The *axioms* are not proved |
 | **Conceptual analysis** | The analysis of mathematical concepts | The definition of “number” | The *concepts* are *contested* |
 | **Empirical** | The application of mathematics to the world | The use of statistics | The *necessity* is unexplained |
-| **Computer-assisted proof** | A proof verified by a computer | The four-colour theorem | The *epistemic* status of the verification |
+| **Computer-assisted proof** | A proof verified by a computer | The four-color theorem | The *epistemic* status of the verification |
 
 The **state of the debate**: the *sources* are *plural*, and the *justification* is *holistic*. The mathematical community *accepts* a theorem when it is *proved*, and the proof is *checked* by the community. The *justification* is *social* as well as *individual* (Ch. 11, §5), and the *a priori* is *not* a *private* intuition but a *public* practice.
 
@@ -633,7 +633,7 @@ The *honest* verdict: the theory of the a priori is a *field in transition*. The
 | **Logical positivism** | The analytic/synthetic distinction is *sharp*; the synthetic a priori is *empty* | *Clear* and *rigorous* | *Refuted* by Quine and the *self-refutation* of verificationism |
 | **Quinean naturalism** | There is *no* a priori; all beliefs are *revisable* | *Honest* about the *web* of belief | *Cannot* explain the *indispensability* of logic and mathematics |
 | **The moderate revival** | The distinction is *epistemic*; the a priori is a *kind of warrant* | *Compatible* with naturalism; *defends* the a priori | *Vague*; the “warrant” is a *label* |
-| **Modal scepticism** | Conceivability is *not* a guide to possibility | *Radical* and *consistent* | *Cannot* explain the *practice* of modal reasoning |
+| **Modal skepticism** | Conceivability is *not* a guide to possibility | *Radical* and *consistent* | *Cannot* explain the *practice* of modal reasoning |
 | **The two-dimensional framework** | The a priori and the necessary are *distinct* | *Technical* and *powerful* | *Contested*; the primary intension is *ad hoc* |
 
 The table is a map, not a verdict. The reader who wants to choose a position must decide which cost is acceptable — and the decision is a philosophical argument.
@@ -659,8 +659,8 @@ Cross-cutting material, for the reader who wants to go deeper.
 ## Summary
 
 - **Russell’s account of intuition** treats intuitive knowledge as the *foundation* of all knowledge. The account is *intuitionist*, and it is *fallible*. The *crisis* of intuition has three sources: fallibility, variability, and the experimental challenge.
-- **The analytic/synthetic distinction** is Kant’s. It was *sharpened* by Frege, *radicalised* by the logical positivists, and *attacked* by Quine. The *attack* has two parts: the *circularity* of the definition of analyticity, and the *holism* of the web of belief. The *moderate revival* (Boghossian, Jackson, Chalmers) accepts the *fuzziness* of the distinction but *defends* its *epistemic* usefulness.
-- **The a priori** is *not* a *faculty* but a *kind of warrant* (the *thin* conception). The *classical trinity* — a priori = necessary = certain — is *broken* by Kripke’s revolution. The *necessary a posteriori* (water is H₂O) and the *contingent a priori* (the standard metre) are *real*, and they *refute* the classical identification.
+- **The analytic/synthetic distinction** is Kant’s. It was *sharpened* by Frege, *radicalized* by the logical positivists, and *attacked* by Quine. The *attack* has two parts: the *circularity* of the definition of analyticity, and the *holism* of the web of belief. The *moderate revival* (Boghossian, Jackson, Chalmers) accepts the *fuzziness* of the distinction but *defends* its *epistemic* usefulness.
+- **The a priori** is *not* a *faculty* but a *kind of warrant* (the *thin* conception). The *classical trinity* — a priori = necessary = certain — is *broken* by Kripke’s revolution. The *necessary a posteriori* (water is H₂O) and the *contingent a priori* (the standard meter) are *real*, and they *refute* the classical identification.
 - **Intuition as evidence** is *defended* by the *conceptual competence*, *modal*, and *seeming* accounts, and *challenged* by *experimental philosophy* and *debunking*. The *calibration problem* is *unsolved*.
 - **Modality** is *real*, and the *conceivability–possibility thesis* is *contested*. The *two-dimensional framework* is the most sophisticated *attempt* to reconcile the *a priori* with the *necessary a posteriori*, and it is *influential* but *not decisive*.
 - **Rational insight and self-evidence** are *undermined* by *disagreement*. The *classical* conception (indubitable, universal) is *empirically false*. The *fallibilist* conception is *defensible*, and the *meta-induction* on philosophical disagreement is *evidence* for *humility*.
@@ -680,7 +680,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 7. Is the *conceivability–possibility thesis* *true*? What is the *strongest* argument *for* and *against*?
 8. Is the *two-dimensional framework* the *solution* to the *tensions* between the *a priori* and the *necessary*? What are its *problems*?
 9. Is *intuition* *evidence*? What is the *best* account, and what are the *limits*?
-10. Is the *disagreement* among philosophers *evidence* for *scepticism* about the a priori? What is the *best* response?
+10. Is the *disagreement* among philosophers *evidence* for *skepticism* about the a priori? What is the *best* response?
 11. What is the *access problem* in the philosophy of mathematics? Is it *solved*? What are the *costs* of each solution?
 12. “The a priori is not a foundation but a *status*.” Assess. What follows for the *epistemology* of *logic* and *mathematics*?
 
@@ -692,7 +692,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 - **On the analytic/synthetic distinction**: H. P. Grice and P. F. Strawson, “In Defense of a Dogma” (1956); Paul Boghossian, “Analyticity Reconsidered” (1996), in the *Philosophical Review*, and “Analyticity” (2011) in the *Routledge Encyclopedia*; Frank Jackson, *From Metaphysics to Ethics* (1998), Chs. 2–3; David Chalmers, *Constructing the World* (2012), Chs. 1–2; the survey in *The Stanford Encyclopedia of Philosophy*, “The Analytic/Synthetic Distinction” (Rey).
 - **On the a priori**: Laurence BonJour, *In Defense of Pure Reason* (1998); Paul Boghossian and Christopher Peacocke (eds.), *New Essays on the A Priori* (2000); Albert Casullo, *A Priori Justification* (2003); the *Stanford Encyclopedia* entry, “A Priori Justification and Knowledge” (Casullo).
 - **On Kripke**: Saul Kripke, *Naming and Necessity* (1980); the essays in *Saul Kripke* (ed. Berger, 2011); Scott Soames, *Philosophy of Language* (2010), Chs. 2–4, for the *exposition*.
-- **On modality**: David Chalmers, “Does Conceivability Entail Possibility?” (2002), and *The Conscious Mind* (1996), Ch. 4; Tamar Szabó Gendler and John Hawthorne (eds.), *Conceivability and Possibility* (2002); Bob Hale, *Necessary Beings* (2013), for the *defence* of the a priori.
+- **On modality**: David Chalmers, “Does Conceivability Entail Possibility?” (2002), and *The Conscious Mind* (1996), Ch. 4; Tamar Szabó Gendler and John Hawthorne (eds.), *Conceivability and Possibility* (2002); Bob Hale, *Necessary Beings* (2013), for the *defense* of the a priori.
 - **On intuition**: George Bealer, “The Incoherence of Empiricism” (1992), and “A Theory of the A Priori” (1999); Michael Huemer, *Skepticism and the Veil of Perception* (2001), Ch. 5; Ernest Sosa, *A Virtue Epistemology* (2007), Chs. 2–3; the *Stanford Encyclopedia* entry, “Intuition” (Pust).
 - **On experimental philosophy**: Joshua Knobe and Shaun Nichols (eds.), *Experimental Philosophy* (2008); Jonathan Weinberg, Shaun Nichols, and Stephen Stich, “Normativity and Epistemic Intuitions” (2001); Edouard Machery et al., “Semantics, Cross-Cultural Style” (2004); and the *replication* discussion in philosophy (2015–16).
 - **On disagreement**: David Christensen, “The Epistemology of Disagreement: The Good News” (2007); Thomas Kelly, “The Epistemic Significance of Disagreement” (2005); David Chalmers, “Why Isn’t There More Progress in Philosophy?” (2015); the essays in *The Epistemology of Disagreement* (ed. Feldman and Warfield, 2010).

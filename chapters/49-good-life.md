@@ -14,9 +14,9 @@
 
 ---
 
-Chapter 45 examined the *content* of the moral judgement (the *good*, the *right*, the *virtuous*); Chapter 46 examined its *efficacy* (the *mechanism* of the *motive* and the *attribution*); Chapter 47 examined its *architecture* (the *political* *order*). This chapter examines the *point* — the *prudential* *question*: *what is good for the person*, and *why*.
+Chapter 45 examined the *content* of the moral judgment (the *good*, the *right*, the *virtuous*); Chapter 46 examined its *efficacy* (the *mechanism* of the *motive* and the *attribution*); Chapter 47 examined its *architecture* (the *political* *order*). This chapter examines the *point* — the *prudential* *question*: *what is good for the person*, and *why*.
 
-The *transition* is the *inversion* of the *previous* *three*. The *moral* *judgement* is *agent*-*neutral* (the *impartial* *concern*; Ch. 45, §1.1); the *prudential* *judgement* is *agent*-*relative* (the *good for* this *person*, *not* the *good* *simpliciter*), and the *judgement* *is* *the* *subject* of the *whole* *applied* *ethics* (Ch. 51) *and* of the *political* *theory* (the *primary* *goods*, the *capabilities*, the *social* *indicators*; Ch. 47, §3.4). The *question* is *prior* to the *moral* *theories*: the *consequentialism* *aggregates* the *prudential* *goods* (the *hedonism*, the *desire*, the *objective* *list*; Ch. 45, §1.2), the *deontology* *protects* them (the *dignity*, the *autonomy*; Ch. 45, §2), and the *virtue* *ethics* *constitutes* them (the *flourishing*, the *eudaimonia*; Ch. 45, §3).
+The *transition* is the *inversion* of the *previous* *three*. The *moral* *judgment* is *agent*-*neutral* (the *impartial* *concern*; Ch. 45, §1.1); the *prudential* *judgment* is *agent*-*relative* (the *good for* this *person*, *not* the *good* *simpliciter*), and the *judgment* *is* *the* *subject* of the *whole* *applied* *ethics* (Ch. 51) *and* of the *political* *theory* (the *primary* *goods*, the *capabilities*, the *social* *indicators*; Ch. 47, §3.4). The *question* is *prior* to the *moral* *theories*: the *consequentialism* *aggregates* the *prudential* *goods* (the *hedonism*, the *desire*, the *objective* *list*; Ch. 45, §1.2), the *deontology* *protects* them (the *dignity*, the *autonomy*; Ch. 45, §2), and the *virtue* *ethics* *constitutes* them (the *flourishing*, the *eudaimonia*; Ch. 45, §3).
 
 The *chapter* proceeds in *eight* *movements*. §1 examines the *theories* of *well*-*being*. §2 examines the *experience* *machine* and the *status* of the *intuitions* about the *good* *life*. §3 examines the *meaning* in *life* (the *distinctive* *question*). §4 examines the *happiness* and its *measurement* (the *empirical* *turn*). §5 examines the *eudaimonia* and the *perfectionism* (the *virtue* *return*). §6 examines the *death* and the *badness* of *death*. §7 examines the *suicide*, the *immortality*, and the *suffering*. §8 gives the *verdict*.
 
@@ -244,7 +244,7 @@ $$
 
 **(iii) The *status* *quo* *bias* *reply***. The *refusal* *is* *the* *status* *quo* *bias* (the *loss* *aversion*, the *no* *imagination*), and the *intuition* *is* *not* the *evidence* (the *cognitive* *bias*), and the *reply* *defeats* the *objection*.
 
-**The *reply*.** The *bias* *explains* some *of* the *reluctance* (the *contemporary* *literature*), and the *intuition* *persists* *after* the *reflection* (the *considered* *judgement*), and the *reply* *is* *contested* (the *no* *separate* *evidence*).
+**The *reply*.** The *bias* *explains* some *of* the *reluctance* (the *contemporary* *literature*), and the *intuition* *persists* *after* the *reflection* (the *considered* *judgment*), and the *reply* *is* *contested* (the *no* *separate* *evidence*).
 
 **(iv) The *two*-*level* *reply*** (the *sophisticated* *hedonism*). The *agent* *values* the *objective* *goods* *instrumentally* (the *achievement* *produces* the *pleasure*), and the *refusal* *tracks* the *instrumental* *value* (the *machine* *forgoes* the *future* *pleasure*), and the *reply* *preserves* the *hedonism*.
 
@@ -252,13 +252,13 @@ $$
 
 ### 2.3 The status of the intuition
 
-**The *question***. The *intuition* *is* *evidence* (the *moral* *perception*, the *considered* *judgement*; Ch. 44, §6.2), and the *evidence* *is* *defeasible* (the *no* *infallibility*), and the *weight* *depends* on the *robustness* (the *no* *framing* *effect*, the *no* *culture* *dependence*, the *no* *bias*), and the *reflective* *equilibrium* *integrates* the *intuition* with the *theory* (Ch. 45, §5.3).
+**The *question***. The *intuition* *is* *evidence* (the *moral* *perception*, the *considered* *judgment*; Ch. 44, §6.2), and the *evidence* *is* *defeasible* (the *no* *infallibility*), and the *weight* *depends* on the *robustness* (the *no* *framing* *effect*, the *no* *culture* *dependence*, the *no* *bias*), and the *reflective* *equilibrium* *integrates* the *intuition* with the *theory* (Ch. 45, §5.3).
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *intuition* *is* *evidence* (the *considered* *judgement*; the *method*).} \\
+1. & \text{The *intuition* *is* *evidence* (the *considered* *judgment*; the *method*).} \\
 2. & \text{The *evidence* *is* *defeasible* (the *framing*, the *bias*, the *disagreement*).} \\
 3. & \text{The *weight* *depends* on the *robustness* (the *replication*, the *convergence*).} \\
 \hline
@@ -276,7 +276,7 @@ $$
 |---|---|---|
 | **The *experience* *is* *not* *sufficient*** | The *well*-*being* *requires* the *reality* | The *anti*-*experientialism* |
 | **The *objective* *goods*** | The *doing*, the *being*, the *contact* | The *list* *insight* |
-| **The *intuition* *method*** | The *considered* *judgement*, *defeasible* | The *method* *insight* |
+| **The *intuition* *method*** | The *considered* *judgment*, *defeasible* | The *method* *insight* |
 | **The *reflective* *equilibrium*** | The *theory* *and* the *intuition* *adjusted* | The *integration* *insight* |
 
 **The *significance***. The *machine* *is* the *paradigm* *thought* *experiment* of the *well*-*being* debate (the *Nozick* *insight*), and it *shows* the *method* (the *intuition*, the *defeasibility*, the *equilibrium*), and it *grounds* the *hybrid* *theory* (§1.5), and it *connects* the *well*-*being* to the *meaning* (§3: the *machine* *life* *is* *meaningless*, and the *meaning* *requires* the *reality*).
@@ -295,7 +295,7 @@ $$
 |---|---|---|
 | **Well-being** | The *good* *for* the *person* (the *moment*-*by*-*moment*) | The *pleasure*, the *health*, the *friendship* |
 | **Meaning** | The *value* of the *life* *as* *a* *whole* (the *purpose*, the *significance*) | The *vocation*, the *care*, the *achievement* |
-| **Happiness** | The *subjective* *satisfaction* (the *experience*, the *judgement*) | The *contentment*, the *joy* |
+| **Happiness** | The *subjective* *satisfaction* (the *experience*, the *judgment*) | The *contentment*, the *joy* |
 | **The *absurd*** | The *confrontation* *with* the *no* *cosmic* *meaning* | The *Camus* *insight* |
 
 **The *significance***. The *distinction* *grounds* the *question* (the *meaning* *is* *not* the *happiness*), and it *fits* the *practice* (the *vocation* *sacrifices* the *happiness*; the *artist*, the *parent*, the *soldier*), and it *connects* the *well*-*being* to the *narrative* (the *life* *as* the *story*).
@@ -459,7 +459,7 @@ $$
 
 | The *component* | The *content* | The *measure* |
 |---|---|---|
-| **Life satisfaction** | The *cognitive* *judgement* of the *life* | The *Satisfaction* *With* *Life* *Scale* (SWLS) |
+| **Life satisfaction** | The *cognitive* *judgment* of the *life* | The *Satisfaction* *With* *Life* *Scale* (SWLS) |
 | **Positive affect** | The *frequency* of the *pleasant* *emotion* | The *PANAS*, the *experience* *sampling* |
 | **Negative affect** | The *frequency* of the *unpleasant* *emotion* | The *PANAS* |
 | **Eudaimonic** | The *meaning*, the *engagement*, the *growth* | The *Psychological* *Well-Being* *Scale* (Ryff) |
@@ -468,7 +468,7 @@ $$
 
 ### 4.2 The measurement and its limits
 
-**The *methods***. The *self*-*report* (the *retrospective* *judgement*, the *scales*), the *experience* *sampling* (the *real*-*time* *reports*, the *beeps*), the *day* *reconstruction* (the *yesterday* *recall*), the *informant* *reports* (the *friends*), the *physiological* (the *no* *direct* *measure*), the *behavioural* (*the* *smile*; the *Duchenne*).
+**The *methods***. The *self*-*report* (the *retrospective* *judgment*, the *scales*), the *experience* *sampling* (the *real*-*time* *reports*, the *beeps*), the *day* *reconstruction* (the *yesterday* *recall*), the *informant* *reports* (the *friends*), the *physiological* (the *no* *direct* *measure*), the *behavioral* (*the* *smile*; the *Duchenne*).
 
 **The *limits***.
 
@@ -930,12 +930,12 @@ $$
 
 ### 7.3 The consolation and the philosophical therapy
 
-**The *thesis*** (the *Hellenistic* *tradition*; the *Stoic* *insight*; the *Epicurean*; the *Buddhist*; the *contemporary* *literature*; Nussbaum, *The Therapy of Desire*, 1994, Ch. 1). The *philosophy* *is* *the* *therapy* of the *passions* (the *fear*, the *grief*, the *anger*, the *desire*), and the *consolation* *is* the *correction* of the *judgements* (the *no* *external* *good*, the *no* *fear* of the *death*, the *no* *grief* for the *inevitable*), and the *therapy* *grounds* the *well*-*being* in the *tranquility* (the *ataraxia*).
+**The *thesis*** (the *Hellenistic* *tradition*; the *Stoic* *insight*; the *Epicurean*; the *Buddhist*; the *contemporary* *literature*; Nussbaum, *The Therapy of Desire*, 1994, Ch. 1). The *philosophy* *is* *the* *therapy* of the *passions* (the *fear*, the *grief*, the *anger*, the *desire*), and the *consolation* *is* the *correction* of the *judgments* (the *no* *external* *good*, the *no* *fear* of the *death*, the *no* *grief* for the *inevitable*), and the *therapy* *grounds* the *well*-*being* in the *tranquility* (the *ataraxia*).
 
 **The *structure***.
 
 $$
-\text{Consolation} \ = \ \text{the *correction* of the *judgements*} \ (\text{the *cognitive* *therapy*} \ \Rightarrow \ \text{the *tranquility*})
+\text{Consolation} \ = \ \text{the *correction* of the *judgments*} \ (\text{the *cognitive* *therapy*} \ \Rightarrow \ \text{the *tranquility*})
 $$
 
 **The *arguments***.
@@ -946,7 +946,7 @@ $$
 
 **(iii) The *Buddhist* *consolation***. The *suffering* *is* *the* *attachment* (the *taṇhā*, the *craving*), and the *cessation* *is* the *nirvana* (the *no* *attachment*, the *no* *suffering*), and the *tranquility* *is* the *goal*.
 
-**The *significance***. The *tradition* *connects* the *well*-*being* to the *practice* (the *therapy*, the *meditation*), and it *grounds* the *consolation* in the *judgement* (the *cognitive* *insight*), and it *fits* the *empirical* *evidence* (the *CBT*, the *mindfulness*; the *contemporary* *literature*).
+**The *significance***. The *tradition* *connects* the *well*-*being* to the *practice* (the *therapy*, the *meditation*), and it *grounds* the *consolation* in the *judgment* (the *cognitive* *insight*), and it *fits* the *empirical* *evidence* (the *CBT*, the *mindfulness*; the *contemporary* *literature*).
 
 **The *objections***.
 
@@ -1021,7 +1021,7 @@ The *table* is a *map*, not a *verdict*. The *reader* who *wants* to *choose* a 
 
 ### 8.4 The most defensible synthesis
 
-**The *thesis***. The *most* *defensible* *position* is a *qualified* *hybrid* *integrated* by the *eudaimonic* *insight*: the *prudential* *good* *is* the *authentic* *happiness* (the *subjective* *endorsement* + the *objective* *goods*; §1.5), *grounded* in the *human* *nature* (the *perfectionism*; §5.2), *measured* by the *empirical* *indices* (the *partial*; §4.2), *lived* as the *fitting* *fulfillment* (the *meaning*; §3.4), *without* the *cosmic* *meaning* (the *naturalistic* *insight*; §3.5), *framed* by the *finite* *life* (the *Williams* *insight*; §6.5), and *consoled* by the *therapy* of the *judgements* (the *practice* *insight*; §7.3), *integrated* by the *wide* *reflective* *equilibrium* (Ch. 45, §5.3) and the *empirical* *humility* (the *replication* *crisis*; Ch. 46, §6.4).
+**The *thesis***. The *most* *defensible* *position* is a *qualified* *hybrid* *integrated* by the *eudaimonic* *insight*: the *prudential* *good* *is* the *authentic* *happiness* (the *subjective* *endorsement* + the *objective* *goods*; §1.5), *grounded* in the *human* *nature* (the *perfectionism*; §5.2), *measured* by the *empirical* *indices* (the *partial*; §4.2), *lived* as the *fitting* *fulfillment* (the *meaning*; §3.4), *without* the *cosmic* *meaning* (the *naturalistic* *insight*; §3.5), *framed* by the *finite* *life* (the *Williams* *insight*; §6.5), and *consoled* by the *therapy* of the *judgments* (the *practice* *insight*; §7.3), *integrated* by the *wide* *reflective* *equilibrium* (Ch. 45, §5.3) and the *empirical* *humility* (the *replication* *crisis*; Ch. 46, §6.4).
 
 **The *structure***.
 
@@ -1030,7 +1030,7 @@ $$
 1. & \text{The *authentic* *happiness*} \ (\text{the *hybrid* *insight*}) \ \text{and the *human* *nature*} \ (\text{the *perfectionist* *insight}). \\
 2. & \text{The *empirical* *measure*} \ (\text{the *partial* *insight*}) \ \text{and the *fitting* *fulfillment*} \ (\text{the *meaning* *insight}). \\
 3. & \text{The *no* *cosmic* *meaning*} \ (\text{the *naturalistic* *insight*}) \ \text{and the *finite* *life*} \ (\text{the *Williams* *insight}). \\
-4. & \text{The *therapy* of the *judgements*} \ (\text{the *practice* *insight*}) \ \text{and the *reflective* *equilibrium*} \ (\text{the *method* *insight}). \\
+4. & \text{The *therapy* of the *judgments*} \ (\text{the *practice* *insight*}) \ \text{and the *reflective* *equilibrium*} \ (\text{the *method* *insight}). \\
 \hline
 5. & \therefore \text{The *eudaimonic* *hybrid*} \ (\text{the *integration* *insight*}), \ *qualified* \text{by the *admission* that the *theory*, the *measurement*, the *meaning*, the *perfectionism*, and the *death* *remain* *contested*.}
 \end{array}
@@ -1054,7 +1054,7 @@ The honest verdict: the philosophy of the good life has been transformed by the 
 
 ### 8.6 The bridge
 
-The *next* *chapter* turns to the *aesthetics* — the *beauty*, the *art*, the *aesthetic* *judgement*. If the *good* *life* is the *prudential* *value*, the *aesthetic* *value* is the *distinct* *kind* of the *value* (the *no* *prudential* *reduction*), and the *two* are *connected*: the *aesthetic* *experience* *is* *one* of the *objective* *goods* (the *list*; §1.4), and the *art* *is* *one* of the *sources* of the *meaning* (the *engagement*, the *reality*; §3.4), and the *beauty* *is* *one* of the *dimensions* of the *flourishing* (the *perfectionism*; §5.2). The *next* *chapter* *examines* the *aesthetics*, and it *asks* the *question* that the *good* *life* *presupposes*: *what* *is* *it* *that* *we* *value* *in* the *beautiful*, and *why*?
+The *next* *chapter* turns to the *aesthetics* — the *beauty*, the *art*, the *aesthetic* *judgment*. If the *good* *life* is the *prudential* *value*, the *aesthetic* *value* is the *distinct* *kind* of the *value* (the *no* *prudential* *reduction*), and the *two* are *connected*: the *aesthetic* *experience* *is* *one* of the *objective* *goods* (the *list*; §1.4), and the *art* *is* *one* of the *sources* of the *meaning* (the *engagement*, the *reality*; §3.4), and the *beauty* *is* *one* of the *dimensions* of the *flourishing* (the *perfectionism*; §5.2). The *next* *chapter* *examines* the *aesthetics*, and it *asks* the *question* that the *good* *life* *presupposes*: *what* *is* *it* *that* *we* *value* *in* the *beautiful*, and *why*?
 
 ---
 
@@ -1085,7 +1085,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 - **The *happiness*** is *measurable* (the *imperfectly*), the *adaptation* *is* *partial* (the *no* *fixed* *set* *point*), the *Easterlin* *paradox* *is* *contested* (the *logarithmic* *relation*), and the *well*-*being* *budgets* *are* *defensible* (the *beyond*-*GDP* *insight*).
 - **The *eudaimonia*** (the *aretaic* *activity*) is *defensible*, the *perfectionism* *grounds* the *list* (the *human* *nature*), and the *positive* *psychology* *operationalizes* the *flourishing*.
 - **The *death*** is *bad* *because* it *deprives* (the *deprivation* *account*), and the *Epicurean* *argument* *fails* (the *no* *experience* *required*), and the *symmetry* *is* *contested* (the *direction*, the *investment*), and the *finite* *life* *grounds* the *meaning* (the *Williams* *insight*).
-- **The *suicide*** *can* be *rational* (the *autonomy* *insight*), the *immortality* *is* *probably* *bad* (the *Williams* *insight*), the *suffering* *can* be *meaningful* (the *conditional* *insight*), and the *therapy* of the *judgements* *is* *defensible* (the *practice* *insight*).
+- **The *suicide*** *can* be *rational* (the *autonomy* *insight*), the *immortality* *is* *probably* *bad* (the *Williams* *insight*), the *suffering* *can* be *meaningful* (the *conditional* *insight*), and the *therapy* of the *judgments* *is* *defensible* (the *practice* *insight*).
 - **The *most* *defensible* *position*** is the *eudaimonic* *hybrid*: the *authentic* *happiness* (the *subjective* *endorsement* + the *objective* *goods*), *grounded* in the *human* *nature*, *measured* by the *empirical* *indices*, *lived* as the *fitting* *fulfillment*, *without* the *cosmic* *meaning*, *framed* by the *finite* *life*, and *consoled* by the *therapy*, *integrated* by the *reflective* *equilibrium* and the *empirical* *humility*, *qualified* by the *admission* that the *theory*, the *measurement*, the *meaning*, the *perfectionism*, and the *death* *remain* *contested*.
 
 ---
@@ -1137,4 +1137,4 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 > *A closing note.* This chapter has followed the *good* *life* — the *well*-*being*, the *experience* *machine*, the *meaning*, the *happiness*, the *eudaimonia*, the *death*, and the *therapy* — and it has arrived at a *conclusion* that is less a *theory* than a *practice*: the *good* *life* is the *authentic* *flourishing* (the *endorsed* *goods*, the *fitting* *fulfillment*, the *virtuous* *activity*), and the *flourishing* *is* *framed* by the *finitude* (the *urgency*, the *meaning*), and the *questions* *are* *open* — not because the *philosophy* has *failed*, but because the *life* *is* *lived* *before* it is *understood*, and the *lived* *question* is the *subject*.
 
-> *And a bridge.* The *next* *chapter* turns to the *aesthetics* — the *beauty*, the *art*, the *aesthetic* *judgement*. If the *good* *life* is the *prudential* *value*, the *aesthetic* *value* is the *distinct* *kind* of the *value*, and the *two* are *connected*: the *aesthetic* *experience* is *one* of the *objective* *goods* (the *list*; §1.4), the *art* is *one* of the *sources* of the *meaning* (the *engagement*, the *reality*; §3.4), and the *beauty* is *one* of the *dimensions* of the *flourishing* (the *perfectionism*; §5.2). The *next* *chapter* *examines* the *aesthetics*, and it *asks* the *question* that the *good* *life* *presupposes*: *what* *is* *it* *that* *we* *value* *in* the *beautiful*, and *why*?
+> *And a bridge.* The *next* *chapter* turns to the *aesthetics* — the *beauty*, the *art*, the *aesthetic* *judgment*. If the *good* *life* is the *prudential* *value*, the *aesthetic* *value* is the *distinct* *kind* of the *value*, and the *two* are *connected*: the *aesthetic* *experience* is *one* of the *objective* *goods* (the *list*; §1.4), the *art* is *one* of the *sources* of the *meaning* (the *engagement*, the *reality*; §3.4), and the *beauty* is *one* of the *dimensions* of the *flourishing* (the *perfectionism*; §5.2). The *next* *chapter* *examines* the *aesthetics*, and it *asks* the *question* that the *good* *life* *presupposes*: *what* *is* *it* *that* *we* *value* *in* the *beautiful*, and *why*?

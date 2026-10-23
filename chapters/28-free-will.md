@@ -15,7 +15,7 @@ Chapter 26 examined the *self* — the *subject* of experience. This chapter exa
 
 The two are *connected*, but they are *distinct*. The self is a *pattern* of *psychological* and *biological* *continuity* (Ch. 26, §10.4); the agent is the *pattern* *considered* as a *source* of *action*. The *question* of this chapter is whether the *source* is *free* — whether the agent *could* have *done* *otherwise*, whether the agent is the *author* of her *actions*, and whether the agent is *responsible* for them.
 
-The problem is *ancient*, and it is *urgent*. It is *ancient* because the *deterministic* *worldview* — the view that every event is *caused* by *prior* *events* according to *laws* — is at least as *old* as *Democritus*, and the *tension* between *determinism* and *responsibility* was *felt* *immediately*. It is *urgent* because the *empirical* *sciences* — neuroscience, psychology, genetics — *increasingly* *explain* *behaviour* in *terms* of *causes* *outside* the agent's *control*, and the *explanations* *threaten* the *practices* of *praise*, *blame*, *punishment*, and *reward*.
+The problem is *ancient*, and it is *urgent*. It is *ancient* because the *deterministic* *worldview* — the view that every event is *caused* by *prior* *events* according to *laws* — is at least as *old* as *Democritus*, and the *tension* between *determinism* and *responsibility* was *felt* *immediately*. It is *urgent* because the *empirical* *sciences* — neuroscience, psychology, genetics — *increasingly* *explain* *behavior* in *terms* of *causes* *outside* the agent's *control*, and the *explanations* *threaten* the *practices* of *praise*, *blame*, *punishment*, and *reward*.
 
 The chapter's *thesis* is that the *problem* is *real* and *unresolved*, and that the *most* *defensible* *position* is a *form* of *compatibilism* — *qualified* by the *admission* that *compatibilism* *changes* the *subject* (it *redefines* freedom rather than *vindicating* the *ordinary* *notion*), and that the *change* is *defensible* but *incomplete*.
 
@@ -525,7 +525,7 @@ $$
 \end{array}
 $$
 
-**The *consequence*.** The *argument* *supports* a *form* of *scepticism* about *ultimate* *responsibility* (the *revisionist* *position*; Pereboom, Vargas), and it *undermines* the *compatibilist* *claim* that *responsibility* is *compatible* with *determinism*.
+**The *consequence*.** The *argument* *supports* a *form* of *skepticism* about *ultimate* *responsibility* (the *revisionist* *position*; Pereboom, Vargas), and it *undermines* the *compatibilist* *claim* that *responsibility* is *compatible* with *determinism*.
 
 **The *replies*.
 
@@ -583,14 +583,14 @@ $$
 
 ### 7.3 Situationism
 
-**The *finding*** (Milgram, *Obedience to Authority*, 1974; Darley & Batson, “From Jerusalem to Jericho,” 1973; the *contemporary* *literature*). *Behaviour* is *strongly* *influenced* by *situational* *factors* (the *authority* *figure*, the *time* *pressure*, the *smell* of *fresh* *bread*), and the *influence* is *greater* than the *influence* of *character*.
+**The *finding*** (Milgram, *Obedience to Authority*, 1974; Darley & Batson, “From Jerusalem to Jericho,” 1973; the *contemporary* *literature*). *Behavior* is *strongly* *influenced* by *situational* *factors* (the *authority* *figure*, the *time* *pressure*, the *smell* of *fresh* *bread*), and the *influence* is *greater* than the *influence* of *character*.
 
 **The *argument* (the *situationist* *challenge*; Doris, *Lack of Character*, 2002; Harman, “Moral Philosophy Meets Social Psychology,” 1999).
 
 $$
 \begin{array}{ll}
-1. & \text{Behaviour is *strongly* *influenced* by *situational* *factors*.} \\
-2. & \text{If *behaviour* is *strongly* *influenced* by *situational* *factors*, the *agent*'s *character* is *not* the *primary* *cause*.} \\
+1. & \text{Behavior is *strongly* *influenced* by *situational* *factors*.} \\
+2. & \text{If *behavior* is *strongly* *influenced* by *situational* *factors*, the *agent*'s *character* is *not* the *primary* *cause*.} \\
 \hline
 3. & \therefore \text{The *agent* is *not* *responsible* (in the *ordinary* *sense*).}
 \end{array}
@@ -739,11 +739,11 @@ $$
 | Criterion | The *question* | The *example* |
 |---|---|---|
 | **Voluntariness** | Did the *agent* *intend* the *act*? | The *intentional* *killing* vs. the *accident* |
-| **Capacity** | Did the *agent* *understand* the *nature* of the *act*? | The *insanity* *defence* |
-| **Coercion** | Was the *agent* *coerced*? | The *duress* *defence* |
+| **Capacity** | Did the *agent* *understand* the *nature* of the *act*? | The *insanity* *defense* |
+| **Coercion** | Was the *agent* *coerced*? | The *duress* *defense* |
 | **Automatism** | Was the *agent* *conscious*? | The *sleepwalking* *case* |
 
-**The *significance*.** The *legal* *conception* is *compatibilist* (the *law* does *not* *require* *libertarian* *freedom*), and the *conception* *fits* the *practices* of *punishment* and *excuse*. The *legal* *debate* is *about* the *boundaries* of the *criteria* (the *insanity* *defence*, the *diminished* *capacity*, the *automatism*), not about the *metaphysical* *question*.
+**The *significance*.** The *legal* *conception* is *compatibilist* (the *law* does *not* *require* *libertarian* *freedom*), and the *conception* *fits* the *practices* of *punishment* and *excuse*. The *legal* *debate* is *about* the *boundaries* of the *criteria* (the *insanity* *defense*, the *diminished* *capacity*, the *automatism*), not about the *metaphysical* *question*.
 
 ### 9.2 The moral and political stakes
 

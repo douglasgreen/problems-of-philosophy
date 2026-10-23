@@ -14,7 +14,7 @@
 
 ---
 
-Chapter 44 examined the *nature* of the moral judgement — its *semantics*, its *metaphysics*, its *epistemology*. This chapter examines its *content*. The *metaethical* question is *what it is* to *judge* that *something* is *right*; the *normative* question is *what* is *right*, and *why*.
+Chapter 44 examined the *nature* of the moral judgment — its *semantics*, its *metaphysics*, its *epistemology*. This chapter examines its *content*. The *metaethical* question is *what it is* to *judge* that *something* is *right*; the *normative* question is *what* is *right*, and *why*.
 
 The *distinction* is *real* but *permeable*. The *metaethical* position *constrains* the *normative* theory: the *expressivist* cannot *offer* the *realist foundations* (Ch. 44, §3.2); the *non-naturalist* must *defend* the *moral facts* (Ch. 44, §2.4); the *constructivist* must *specify* the *procedure* (Ch. 44, §4). And the *normative* theory *tests* the *metaethical* position: a *theory* that *yields* the *determinate* *norms* for the *hard cases* is *evidence* for the *moral* *facts* (the *reflective equilibrium*; §5.3); a *theory* that *collapses* into the *intuition* is *evidence* against them.
 
@@ -69,7 +69,7 @@ $$
 
 **(ii) The *argument* from the *intuition***. The *fundamental* *moral* *intention* is the *reduction* of the *suffering* (the *humanitarian* *insight*), and the *reduction* *requires* the *aggregation*, and the *aggregation* *yields* the *utilitarianism*.
 
-**(iii) The *argument* from the *simplicity***. The *utilitarianism* *offers* a *single* *principle* (the *simplicity*; Ch. 4, §3), and the *single* *principle* *explains* the *moral* *judgements* (the *explanatory* *power*), and the *simplicity* is *evidence* for the *theory*.
+**(iii) The *argument* from the *simplicity***. The *utilitarianism* *offers* a *single* *principle* (the *simplicity*; Ch. 4, §3), and the *single* *principle* *explains* the *moral* *judgments* (the *explanatory* *power*), and the *simplicity* is *evidence* for the *theory*.
 
 **The *problem* of the *value* *theory***. The *hedonism* *faces* the *experience* *machine* (Nozick, *Anarchy, State, and Utopia*, 1974, pp. 42–45; Ch. 48, §2), the *desire* *theory* *faces* the *adaptive* *preferences* (the *sour* *grapes*; Ch. 48, §1), and the *objective* *list* *faces* the *paternalism* *objection* (Ch. 48, §1). The *utilitarian* *calculus* *presupposes* the *cardinal* *comparability* of the *interests* (the *interpersonal* *comparison*), and the *comparison* *is* *contested* (Ch. 10, §6).
 
@@ -247,23 +247,23 @@ $$
 
 **(ii) The *rigorism* (the *conflict* of the *duties)*** (Constant, “Des réactions politiques,” 1797; Kant, “On a Supposed Right to Lie from Philanthropy,” 1797). The *duty* *forbids* the *lying* *to* the *murderer* *at* the *door*, and the *rigorism* *is* *morally* *repugnant* (the *lying* *saves* the *life*; the *refusal* is the *monstrous* *consequence*).
 
-**The *reply*** (the *contemporary* *literature*; the *priority* *of the *duties*; the *specification* *view*; the *threshold* *deontology*). The *duty* *not* *to* *lie* is *specified* (the *assertion* *to* the *murderer* is *not* the *lie*; the *self*-*defence*; the *threshold*), and the *reply* *grounds* the *exception* in the *specification*. The *reply* is *contested* (the *specification* *is* *ad hoc*; the *threshold* *collapses* into the *consequentialism*).
+**The *reply*** (the *contemporary* *literature*; the *priority* *of the *duties*; the *specification* *view*; the *threshold* *deontology*). The *duty* *not* *to* *lie* is *specified* (the *assertion* *to* the *murderer* is *not* the *lie*; the *self*-*defense*; the *threshold*), and the *reply* *grounds* the *exception* in the *specification*. The *reply* is *contested* (the *specification* *is* *ad hoc*; the *threshold* *collapses* into the *consequentialism*).
 
 **(iii) The *conflict* of the *duties***. The *moral* *norms* *conflict* (the *promise* *vs.* the *rescue*), and the *deontology* *cannot* *resolve* the *conflict* (the *no* *priority*), and the *dilemmas* *are* *real* (the *tragic* *choices*; §5.2).
 
-**The *reply*** (Ross 1930, Ch. 2; the *prima facie* *duties*; §2.4). The *duties* are *prima facie* (they *bind* *unless* *overridden*), and the *conflict* *resolves* *by* the *weight* (the *judgement*, the *phronesis*), and the *reply* *grounds* the *resolution* in the *practical* *wisdom*. The *reply* is *defensible* (the *residue*: the *regret* *for* the *overridden* *duty*; the *tragic* *choice*).
+**The *reply*** (Ross 1930, Ch. 2; the *prima facie* *duties*; §2.4). The *duties* are *prima facie* (they *bind* *unless* *overridden*), and the *conflict* *resolves* *by* the *weight* (the *judgment*, the *phronesis*), and the *reply* *grounds* the *resolution* in the *practical* *wisdom*. The *reply* is *defensible* (the *residue*: the *regret* *for* the *overridden* *duty*; the *tragic* *choice*).
 
 ### 2.4 The contemporary deontology
 
 **The *varieties***.
 
-**(i) The *Rossian* *prima facie* *duties*** (Ross, *The Right and the Good*, 1930, Ch. 2). The *duties* (the *fidelity*, the *gratitude*, the *justice*, the *beneficence*, the *self*-*improvement*, the *non*-*maleficence*) are *prima facie* (the *binding* *unless* *overridden*), and the *actual* *duty* is the *result* of the *weighing* (the *judgement*), and there is *no* *single* *principle* (the *pluralism*).
+**(i) The *Rossian* *prima facie* *duties*** (Ross, *The Right and the Good*, 1930, Ch. 2). The *duties* (the *fidelity*, the *gratitude*, the *justice*, the *beneficence*, the *self*-*improvement*, the *non*-*maleficence*) are *prima facie* (the *binding* *unless* *overridden*), and the *actual* *duty* is the *result* of the *weighing* (the *judgment*), and there is *no* *single* *principle* (the *pluralism*).
 
 **(ii) The *threshold* *deontology*** (the *contemporary* *literature*). The *constraints* are *absolute* *below* the *threshold* (the *catastrophic* *consequences*), and *overridden* *above* the *threshold*, and the *threshold* *avoids* the *rigorism*.
 
 **(iii) The *specificationist* *view*** (the *contemporary* *literature*; Richardson, “Specifying Norms as a Way to Resolve Concrete Ethical Problems,” 1990). The *norms* are *specified* (the *more* *determinate* *content*), and the *specification* *resolves* the *conflict* (the *lying* *to* the *murderer*), and the *norms* *remain* *deontological* (the *constraints*).
 
-**(iv) The *non*-*consequentialist* *principles*** (Kamm, *Morality, Mortality*, 1993–96; Scanlon 1998, Ch. 2). The *principles* (the *harm*, the *intention*, the *causal* *structure*) *explain* the *moral* *judgements* (the *trolley*; §6.1), and the *principles* *are* *not* *reduced* to the *aggregation*.
+**(iv) The *non*-*consequentialist* *principles*** (Kamm, *Morality, Mortality*, 1993–96; Scanlon 1998, Ch. 2). The *principles* (the *harm*, the *intention*, the *causal* *structure*) *explain* the *moral* *judgments* (the *trolley*; §6.1), and the *principles* *are* *not* *reduced* to the *aggregation*.
 
 **(v) The *doctrine* of *double* *effect*** (Aquinas, *Summa Theologiae*, II-II, q. 64, a. 7; the *contemporary* *literature*; Ch. 51, §1). The *action* *with* a *good* *effect* and a *bad* *effect* is *permissible* *if* (i) the *action* is *good* or *indifferent*, (ii) the *bad* *effect* *is* *not* *intended* (the *foreseen* *only*), (iii) the *bad* *effect* *is* *not* the *means* to the *good*, (iv) the *good* *is* *proportionate* to the *bad*.
 
@@ -281,7 +281,7 @@ $$
 | **Specification** | The *determinacy* | The *ad hoc* |
 | **Double effect** | The *intention* | The *foresight* *problem* |
 
-**The *most* *defensible* *position***. A *qualified* *Rossian* *deontology*: the *plural* *prima facie* *duties* (the *constraints*, the *options*, the *special* *obligations*), *combined* with the *threshold* *exception* (the *catastrophe*), *specified* by the *judgement* (the *phronesis*), and *grounded* in the *dignity* (the *Kantian* *insight*), *qualified* by the *admission* that the *priority* of the *duties* and the *threshold* *remain* *contested*.
+**The *most* *defensible* *position***. A *qualified* *Rossian* *deontology*: the *plural* *prima facie* *duties* (the *constraints*, the *options*, the *special* *obligations*), *combined* with the *threshold* *exception* (the *catastrophe*), *specified* by the *judgment* (the *phronesis*), and *grounded* in the *dignity* (the *Kantian* *insight*), *qualified* by the *admission* that the *priority* of the *duties* and the *threshold* *remain* *contested*.
 
 ---
 
@@ -318,7 +318,7 @@ $$
 \end{array}
 $$
 
-**The *significance*.** The *virtue* *ethics* *captures* the *character* (the *integrity*, the *emotion*, the *perception*), and it *answers* the *demandingness* *objection* (the *good* *life* *is* the *virtuous* *life*), and it *avoids* the *rule*-*worship* (the *particular* *judgement*).
+**The *significance*.** The *virtue* *ethics* *captures* the *character* (the *integrity*, the *emotion*, the *perception*), and it *answers* the *demandingness* *objection* (the *good* *life* *is* the *virtuous* *life*), and it *avoids* the *rule*-*worship* (the *particular* *judgment*).
 
 ### 3.2 The neo-Aristotelianism
 
@@ -348,7 +348,7 @@ $$
 \end{array}
 $$
 
-**The *reply*** (Hursthouse 1999, Ch. 2–3; Annas 2011, Ch. 1). The *virtue* *ethics* *guides* *through* the *perception* (the *phronesis*; the *virtuous* *person* *sees* *what* *is* *required*), and the *guidance* *is* *not* the *rule*-*application* but the *judgement* (the *practical* *wisdom*), and the *reply* *grounds* the *guidance* in the *perception*. The *reply* is *contested* (the *perception* *requires* the *trained* *agent*, and the *training* *presupposes* the *norms*, and the *circularity* *remains*).
+**The *reply*** (Hursthouse 1999, Ch. 2–3; Annas 2011, Ch. 1). The *virtue* *ethics* *guides* *through* the *perception* (the *phronesis*; the *virtuous* *person* *sees* *what* *is* *required*), and the *guidance* *is* *not* the *rule*-*application* but the *judgment* (the *practical* *wisdom*), and the *reply* *grounds* the *guidance* in the *perception*. The *reply* is *contested* (the *perception* *requires* the *trained* *agent*, and the *training* *presupposes* the *norms*, and the *circularity* *remains*).
 
 ### 3.4 The situationist challenge
 
@@ -358,8 +358,8 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *virtue* *ethics* *presupposes* the *robust* *character* *traits* (the *cross*-*situational* *consistency* of the *behaviour*).} \\
-2. & \text{The *empirical* *psychology* *shows* that the *situation* *predicts* the *behaviour* *far* *better* than the *character* (the *Milgram* *obedience*, the *Good* *Samaritan* *study*).} \\
+1. & \text{The *virtue* *ethics* *presupposes* the *robust* *character* *traits* (the *cross*-*situational* *consistency* of the *behavior*).} \\
+2. & \text{The *empirical* *psychology* *shows* that the *situation* *predicts* the *behavior* *far* *better* than the *character* (the *Milgram* *obedience*, the *Good* *Samaritan* *study*).} \\
 3. & \text{The *robust* *traits* *do* not *exist* (the *situationist* *conclusion*).} \\
 \hline
 4. & \therefore \text{The *virtue* *ethics* *is* *empirically* *unsupported* (the *situationist* *objection*).}
@@ -484,7 +484,7 @@ $$
 
 ### 5.1 Moral particularism
 
-**The *thesis*** (Dancy, *Ethics Without Principles*, 2004; *Moral Reasons*, 1993; the *contemporary* *literature*). The *moral* *reasons* are *holistic* (the *same* *feature* *contributes* the *opposite* *reason* in the *different* *contexts*), and there are *no* *moral* *principles* (the *general* *norms* that *determine* the *right* *action*), and the *moral* *judgement* *requires* the *perception* of the *particular* *situation*.
+**The *thesis*** (Dancy, *Ethics Without Principles*, 2004; *Moral Reasons*, 1993; the *contemporary* *literature*). The *moral* *reasons* are *holistic* (the *same* *feature* *contributes* the *opposite* *reason* in the *different* *contexts*), and there are *no* *moral* *principles* (the *general* *norms* that *determine* the *right* *action*), and the *moral* *judgment* *requires* the *perception* of the *particular* *situation*.
 
 **The *structure***.
 
@@ -500,19 +500,19 @@ $$
 2. & \text{The *principles* *require* the *context*-*invariant* *reasons* (the *atomism*).} \\
 3. & \text{The *atomism* *is* *false* (the *holism*).} \\
 \hline
-4. & \therefore \text{There are *no* *moral* *principles* (the *particularism*), and the *judgement* *requires* the *perception* (the *perceptual* *insight*).}
+4. & \therefore \text{There are *no* *moral* *principles* (the *particularism*), and the *judgment* *requires* the *perception* (the *perceptual* *insight*).}
 \end{array}
 $$
 
 **The *examples***. The *pleasure* *is* *good* (the *enjoyment*) and *bad* (the *sadistic* *pleasure*); the *promise* *binds* and *does* *not* (the *promise* *to* the *murderer*); the *truth* *helps* and *harms* (the *truth* *to* the *dying* *patient*).
 
-**The *virtue***. The *particularism* *captures* the *context*-*sensitivity* of the *moral* *judgement*, and it *fits* the *practice* (the *hard* *cases*, the *judgement*, the *residue*), and it *avoids* the *rule*-*worship* (the *rigorism*).
+**The *virtue***. The *particularism* *captures* the *context*-*sensitivity* of the *moral* *judgment*, and it *fits* the *practice* (the *hard* *cases*, the *judgment*, the *residue*), and it *avoids* the *rule*-*worship* (the *rigorism*).
 
 **The *objections***.
 
-**(i) The *no*-*guidance* *objection***. The *particularism* *cannot* *guide* the *action* (the *judgement* *requires* the *virtue*, the *perception*, the *training*), and the *moral* *education* *requires* the *principles*.
+**(i) The *no*-*guidance* *objection***. The *particularism* *cannot* *guide* the *action* (the *judgment* *requires* the *virtue*, the *perception*, the *training*), and the *moral* *education* *requires* the *principles*.
 
-**The *reply*** (Dancy 2004, Ch. 1). The *particularism* *guides* *through* the *perception* (the *trained* *judgement*), and the *guidance* *is* *not* the *rule*-*application*, and the *reply* *grounds* the *guidance* in the *practice*. The *reply* is *contested*.
+**The *reply*** (Dancy 2004, Ch. 1). The *particularism* *guides* *through* the *perception* (the *trained* *judgment*), and the *guidance* *is* *not* the *rule*-*application*, and the *reply* *grounds* the *guidance* in the *practice*. The *reply* is *contested*.
 
 **(ii) The *default*-*reason* *objection*** (the *contemporary* *literature*; the *contemporary* *literature*). The *holism* *does* not *entail* the *no* *principles* (the *features* *can* be *default* *reasons* *with* the *exceptions*, and the *default* *reasons* *are* the *principles*), and the *particularism* *overstates* the *holism*.
 
@@ -544,13 +544,13 @@ $$
 
 ### 5.3 The reflective equilibrium
 
-**The *thesis*** (Rawls, *A Theory of Justice*, 1971, §9; Daniels, “Wide Reflective Equilibrium and Theory Acceptance in Ethics,” 1979; Ch. 3, §4). The *method* of the *moral* *theory* is the *reflective* *equilibrium* (the *adjustment* of the *particular* *judgements*, the *principles*, and the *background* *theories* until they are *coherent*), and the *equilibrium* is *wide* (the *background* *theories* *included*) and *narrow* (the *judgements* *only*).
+**The *thesis*** (Rawls, *A Theory of Justice*, 1971, §9; Daniels, “Wide Reflective Equilibrium and Theory Acceptance in Ethics,” 1979; Ch. 3, §4). The *method* of the *moral* *theory* is the *reflective* *equilibrium* (the *adjustment* of the *particular* *judgments*, the *principles*, and the *background* *theories* until they are *coherent*), and the *equilibrium* is *wide* (the *background* *theories* *included*) and *narrow* (the *judgments* *only*).
 
 **The *structure***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *considered* *judgements* (the *particular* *moral* *intuitions*).} \\
+1. & \text{The *considered* *judgments* (the *particular* *moral* *intuitions*).} \\
 2. & \text{The *principles* (the *general* *norms*).} \\
 3. & \text{The *background* *theories* (the *psychology*, the *metaphysics*, the *semantics*).} \\
 \hline
@@ -562,7 +562,7 @@ $$
 
 **The *objections***.
 
-**(i) The *no*-*independent* *check* *objection***. The *equilibrium* *is* *circular* (the *judgements* *justify* the *principles*, and the *principles* *justify* the *judgements*), and the *circularity* *undermines* the *justification*.
+**(i) The *no*-*independent* *check* *objection***. The *equilibrium* *is* *circular* (the *judgments* *justify* the *principles*, and the *principles* *justify* the *judgments*), and the *circularity* *undermines* the *justification*.
 
 **The *reply*** (Daniels 1979, §3; the *wide* *equilibrium*; the *coherentism*; Ch. 8, §3). The *coherence* *is* *the* *justification* (the *support* *is* *mutual*, and the *mutual* *support* *raises* the *probability*; the *coherentist* *insight*), and the *reply* *grounds* the *equilibrium* in the *coherence*. The *reply* is *defensible* (the *equilibrium* *is* *the* *best* *available* *method*).
 
@@ -581,7 +581,7 @@ $$
 | **Equilibrium** | The *coherence* | The *circularity* |
 | **Monism** | The *determinacy* | The *no* *context* |
 
-**The *most* *defensible* *position***. A *qualified* *pluralism* *combined* with the *reflective* *equilibrium*: the *values* are *irreducible* (the *pluralist* *insight*), the *judgements* *are* *context*-*sensitive* (the *particularist* *insight*), and the *theory* *is* *constructed* by the *wide* *reflective* *equilibrium* (the *equilibrium* *insight*), *qualified* by the *admission* that the *indeterminacy* and the *tragic* *choices* *remain*.
+**The *most* *defensible* *position***. A *qualified* *pluralism* *combined* with the *reflective* *equilibrium*: the *values* are *irreducible* (the *pluralist* *insight*), the *judgments* *are* *context*-*sensitive* (the *particularist* *insight*), and the *theory* *is* *constructed* by the *wide* *reflective* *equilibrium* (the *equilibrium* *insight*), *qualified* by the *admission* that the *indeterminacy* and the *tragic* *choices* *remain*.
 
 ---
 
@@ -661,14 +661,14 @@ $$
 | **Constitutive** | The *luck* in the *character* | The *temperament* (the *virtuous* *by* *nature*) |
 | **Causal** | The *luck* in the *causes* of the *action* | The *upbringing* (the *determinism*; Ch. 27) |
 
-**The *problem***. The *moral* *judgement* *depends* on the *factors* *beyond* the *agent*'s *control* (the *outcome*, the *circumstance*, the *character*), and the *moral* *responsibility* *requires* the *control* (the *no*-*control* *principle*), and the *two* *are* *incompatible* (the *paradox* of the *moral* *luck*).
+**The *problem***. The *moral* *judgment* *depends* on the *factors* *beyond* the *agent*'s *control* (the *outcome*, the *circumstance*, the *character*), and the *moral* *responsibility* *requires* the *control* (the *no*-*control* *principle*), and the *two* *are* *incompatible* (the *paradox* of the *moral* *luck*).
 
 **The *structure***.
 
 $$
 \begin{array}{ll}
 1. & \text{The *moral* *responsibility* *requires* the *control* (the *no*-*control* *principle*).} \\
-2. & \text{The *moral* *judgement* *depends* on the *factors* *beyond* the *control* (the *luck*). \\
+2. & \text{The *moral* *judgment* *depends* on the *factors* *beyond* the *control* (the *luck*). \\
 3. & \text{The *two* *are* *incompatible* (the *paradox*). \\
 \hline
 4. & \therefore \text{The *moral* *responsibility* *collapses* (the *luck* *pessimism*; Nagel 1979), or the *control* *principle* *is* *false* (the *luck* *realism*).}
@@ -681,7 +681,7 @@ $$
 
 **(ii) The *luck* *egalitarian* *response*** (the *contemporary* *literature*; the *moral* *luck* *and* the *desert*). The *constitutive* *luck* *undermines* the *desert* (the *Rawlsian* *insight*; Ch. 47, §3), and the *moral* *responsibility* *is* *reconceived* (the *attributability*, the *accountability*; Ch. 27, §6), and the *reply* *grounds* the *responsibility* in the *practice*. The *reply* is *defensible*.
 
-**(iii) The *sceptical* *response*** (the *contemporary* *literature*). The *moral* *luck* *shows* that the *morality* *is* *not* *the* *autonomous* *realm* that the *Kantian* *claims* (the *purity* *is* *lost*), and the *scepticism* *is* *the* *honest* *response*. The *reply* is *contested*.
+**(iii) The *skeptical* *response*** (the *contemporary* *literature*). The *moral* *luck* *shows* that the *morality* *is* *not* *the* *autonomous* *realm* that the *Kantian* *claims* (the *purity* *is* *lost*), and the *skepticism* *is* *the* *honest* *response*. The *reply* is *contested*.
 
 ### 6.4 The diagnostic value of the hard cases
 
@@ -699,7 +699,7 @@ $$
 
 | The *function* | The *content* | The *criterion* |
 |---|---|---|
-| **Descriptive** | The *explanation* of the *moral* *judgements* | The *explanatory* *power* |
+| **Descriptive** | The *explanation* of the *moral* *judgments* | The *explanatory* *power* |
 | **Normative** | The *guidance* of the *action* | The *determinacy* |
 | **Critical** | The *debunking* of the *ideology* | The *normative* *distance* |
 | **Self-understanding** | The *articulation* of the *values* | The *articulacy* |
@@ -708,7 +708,7 @@ $$
 
 ### 7.2 The descriptive function
 
-**The *thesis***. The *moral* *theory* *explains* the *moral* *judgements* (the *ordinary* *intuitions*, the *hard* *cases*, the *pattern*), and the *explanation* *is* the *evidence* for the *theory* (the *IBE*; Ch. 10, §6).
+**The *thesis***. The *moral* *theory* *explains* the *moral* *judgments* (the *ordinary* *intuitions*, the *hard* *cases*, the *pattern*), and the *explanation* *is* the *evidence* for the *theory* (the *IBE*; Ch. 10, §6).
 
 **The *criteria***. The *explanatory* *power* (the *range* of the *cases* *explained*), the *simplicity* (the *number* of the *principles*), the *fertility* (the *new* *predictions*, the *implications*), the *conservatism* (the *fit* with the *background* *theories*).
 
@@ -720,7 +720,7 @@ $$
 
 **The *criteria***. The *determinacy* (the *action*-*guiding* *content*), the *applicability* (the *real* *cases*), the *efficacy* (the *compliance*).
 
-**The *problem***. The *particularism* *denies* the *determinacy* (§5.1), and the *virtue* *ethics* *locates* the *guidance* in the *judgement* (§3.3), and the *theory* *may* *be* *too* *abstract* to *guide* (the *demandingness*, the *hard* *cases*).
+**The *problem***. The *particularism* *denies* the *determinacy* (§5.1), and the *virtue* *ethics* *locates* the *guidance* in the *judgment* (§3.3), and the *theory* *may* *be* *too* *abstract* to *guide* (the *demandingness*, the *hard* *cases*).
 
 ### 7.4 The critical function
 
@@ -746,7 +746,7 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *ethical* *life* *is* *the* *practice* (the *tradition*, the *perception*, the *judgement*).} \\
+1. & \text{The *ethical* *life* *is* *the* *practice* (the *tradition*, the *perception*, the *judgment*).} \\
 2. & \text{The *theory* *is* *not* *required* for the *practice* (the *practice* *precedes* the *theory*).} \\
 3. & \text{The *theory* *is* *harmful* (the *abstraction*, the *rigorism*, the *alienation*). \\
 \hline
@@ -827,7 +827,7 @@ $$
 \end{array}
 $$
 
-**The *significance*.** The *synthesis* *is* *not* an *eclecticism* (the *arbitrary* *mix*); it is a *principled* *division* of the *normative* *labour* (the *impersonal* *aggregation* for the *public*, the *constraints* for the *personal*, the *virtue* for the *life*), and it *fits* the *practice* (the *different* *contexts* *require* the *different* *norms*), and it *connects* the *normative* *ethics* to the *political* *philosophy* (Ch. 47) and to the *applied* *ethics* (Ch. 51).
+**The *significance*.** The *synthesis* *is* *not* an *eclecticism* (the *arbitrary* *mix*); it is a *principled* *division* of the *normative* *labor* (the *impersonal* *aggregation* for the *public*, the *constraints* for the *personal*, the *virtue* for the *life*), and it *fits* the *practice* (the *different* *contexts* *require* the *different* *norms*), and it *connects* the *normative* *ethics* to the *political* *philosophy* (Ch. 47) and to the *applied* *ethics* (Ch. 51).
 
 ---
 
@@ -912,4 +912,4 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 > *A closing note.* This chapter has followed the *normative* *ethics* — the *consequentialism*, the *deontology*, the *virtue* *ethics*, the *contractualism*, the *particularism*, the *pluralism*, the *reflective* *equilibrium*, and the *hard* *cases* — and it has arrived at a *conclusion* that is less a *theory* than a *synthesis*: the *three* *families* *answer* the *different* *questions*, the *most* *defensible* *theories* *are* *hybrids*, and the *debate* is *unresolved* — not because the *philosophy* has *failed*, but because the *moral* *life* is *complex*, and the *complexity* is the *subject*.
 
-> *And a bridge.* The next chapter turns to the *practical* *reason* and the *moral* *psychology* — the *mechanisms* by which the *moral* *judgement* *motivates* the *action*, the *moral* *luck* *conditions* the *responsibility*, the *implicit* *bias* *challenges* the *character*, and the *moral* *testimony* *raises* the *question* of the *understanding*. If the *normative* *ethics* is the *content* of the *moral* *judgement*, the *practical* *reason* is its *efficacy*, and the *two* *are* *connected*: the *deontic* *structure* *presupposes* the *motivational* *psychology* (the *internalism*; Ch. 28, §2.3), and the *virtue* *theory* *presupposes* the *character* *psychology* (the *situationism*; §3.4), and the *consequentialism* *presupposes* the *calculation* *psychology* (the *heuristics*, the *biases*). The *next* *chapter* *examines* the *practical* *reason*, and it *asks* the *question* that the *normative* *ethics* *presupposes*: *how* does the *moral* *judgement* *move* the *will*?
+> *And a bridge.* The next chapter turns to the *practical* *reason* and the *moral* *psychology* — the *mechanisms* by which the *moral* *judgment* *motivates* the *action*, the *moral* *luck* *conditions* the *responsibility*, the *implicit* *bias* *challenges* the *character*, and the *moral* *testimony* *raises* the *question* of the *understanding*. If the *normative* *ethics* is the *content* of the *moral* *judgment*, the *practical* *reason* is its *efficacy*, and the *two* *are* *connected*: the *deontic* *structure* *presupposes* the *motivational* *psychology* (the *internalism*; Ch. 28, §2.3), and the *virtue* *theory* *presupposes* the *character* *psychology* (the *situationism*; §3.4), and the *consequentialism* *presupposes* the *calculation* *psychology* (the *heuristics*, the *biases*). The *next* *chapter* *examines* the *practical* *reason*, and it *asks* the *question* that the *normative* *ethics* *presupposes*: *how* does the *moral* *judgment* *move* the *will*?

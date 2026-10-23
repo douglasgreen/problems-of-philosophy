@@ -17,7 +17,7 @@ The two are *distinct*, and their *distinctness* is itself a *datum*. An experie
 
 The chapter's *thesis* is that intentionality is *real*, *irreducible* to *purely* *physical* *description* (in the sense that intentional vocabulary is not eliminable from the *special* sciences), and *naturalizable* — but that the *naturalization* is *incomplete*, and its *incompleteness* is *structural* rather than *provisional*.
 
-The chapter proceeds in eight movements. §1 states Brentano's thesis and the naturalization programme. §2 examines the information-theoretic and teleosemantic theories. §3 examines functional and conceptual-role theories. §4 examines wide versus narrow content. §5 examines non-conceptual content. §6 examines empty intention. §7 examines collective intentionality. §8 gives an honest verdict.
+The chapter proceeds in eight movements. §1 states Brentano's thesis and the naturalization program. §2 examines the information-theoretic and teleosemantic theories. §3 examines functional and conceptual-role theories. §4 examines wide versus narrow content. §5 examines non-conceptual content. §6 examines empty intention. §7 examines collective intentionality. §8 gives an honest verdict.
 
 ---
 
@@ -59,11 +59,11 @@ $$
 
 **The *contemporary* *form*.** The *puzzle* is the *problem* of *empty* *intention* (§6), and it is the *direct* *descendant* of Brentano's *problem*. The *puzzle* *drives* the *debate* *about* *mental* *content*: if the *content* *determines* the *aboutness*, and the *content* *can* be *about* a *nonexistent* *object*, then the *content* is *not* a *relation* to an *object* (it is a *representation* with *accuracy* *conditions*; Ch. 5, §4).
 
-### 1.3 The naturalization programme
+### 1.3 The naturalization program
 
-**The *programme***. To *explain* *intentionality* in *non-intentional* *terms* — to *show* how *physical* *systems* can be *about* things.
+**The *program***. To *explain* *intentionality* in *non-intentional* *terms* — to *show* how *physical* *systems* can be *about* things.
 
-**The *structure*. The *programme* has *three* *components*.
+**The *structure*. The *program* has *three* *components*.
 
 | Component | The *task* | The *paradigm* |
 |---|---|---|
@@ -82,9 +82,9 @@ $$
 \end{array}
 $$
 
-**The *virtue*.** The *programme* *fits* the *naturalistic* *worldview*, and it *generates* the *research* *programmes* of *cognitive* *science*, *artificial* *intelligence*, and *evolutionary* *psychology*.
+**The *virtue*.** The *program* *fits* the *naturalistic* *worldview*, and it *generates* the *research* *programs* of *cognitive* *science*, *artificial* *intelligence*, and *evolutionary* *psychology*.
 
-**The *cost*.** The *programme* *may* *fail*: the *intentional* *facts* *may* *not* *supervene* on the *physical* *facts* (the *anti-naturalist* *view*), and the *failure* *would* *support* *dualism* or *panpsychism* (Ch. 23, §7; Ch. 19, §7).
+**The *cost*.** The *program* *may* *fail*: the *intentional* *facts* *may* *not* *supervene* on the *physical* *facts* (the *anti-naturalist* *view*), and the *failure* *would* *support* *dualism* or *panpsychism* (Ch. 23, §7; Ch. 19, §7).
 
 ### 1.4 The criteria of adequacy
 
@@ -184,7 +184,7 @@ $$
 
 **(iii) The *‘hard* *to* *specify’* *objection*. The *function* of a *belief* (the *effect* for which *beliefs* were *selected*) is *hard* to *specify*, and the *theory* *may* *not* *determine* the *content* *uniquely*.
 
-### 2.4 The state of the naturalization programme
+### 2.4 The state of the naturalization program
 
 **The *table*.**
 
@@ -196,7 +196,7 @@ $$
 | **Functional** | The *causal* role | Fits cognitive science | The role is vague (§3.1) |
 | **Conceptual role** | The *inferential* role | Fits meaning holism | Indeterminacy (§3.2) |
 
-**The *verdict*.** The *naturalization* *programme* is *incomplete*: the *theories* *solve* *some* *problems* and *generate* *others*, and the *choice* among them *depends* on the *criteria* of §1.4. The *most* *promising* *position* is a *hybrid*: *teleosemantics* *combined* with *conceptual* *role* (the *two*-*factor* *theory*; §3.3).
+**The *verdict*.** The *naturalization* *program* is *incomplete*: the *theories* *solve* *some* *problems* and *generate* *others*, and the *choice* among them *depends* on the *criteria* of §1.4. The *most* *promising* *position* is a *hybrid*: *teleosemantics* *combined* with *conceptual* *role* (the *two*-*factor* *theory*; §3.3).
 
 ---
 
@@ -308,7 +308,7 @@ $$
 | **Narrow content** | Content is narrow; wide content is a *construction* | Fodor (1987); the *individualist* *tradition* |
 | **Eliminativism about narrow content** | There is no narrow content; the *debate* is *misplaced* | the *eliminativist* *tradition* |
 
-**The *argument* *for* *narrow* *content***. The *narrow* *content* is *needed* to *explain* *behaviour*: Oscar and Twin Oscar *behave* *identically*, and the *behaviour* is *explained* by the *narrow* *content* (the *content* that is *the* *same* in the *two* *cases*).
+**The *argument* *for* *narrow* *content***. The *narrow* *content* is *needed* to *explain* *behavior*: Oscar and Twin Oscar *behave* *identically*, and the *behavior* is *explained* by the *narrow* *content* (the *content* that is *the* *same* in the *two* *cases*).
 
 **The *argument* *against***. The *narrow* *content* is *not* *expressible*: the *subject* *cannot* *express* the *narrow* *content* (the *content* is *not* a *proposition* in the *ordinary* *sense*; it is a *“notional”* *content*; Fodor 1987, Ch. 2).
 
@@ -316,7 +316,7 @@ $$
 
 ### 4.4 Wide content and causation
 
-**The *problem***. If the *content* is *wide*, the *content* *depends* on the *environment*, and the *environment* is *not* *in* the *head*. How can a *wide* *content* *cause* *behaviour*?
+**The *problem***. If the *content* is *wide*, the *content* *depends* on the *environment*, and the *environment* is *not* *in* the *head*. How can a *wide* *content* *cause* *behavior*?
 
 **The *argument*.**
 
@@ -325,15 +325,15 @@ $$
 1. & \text{Causation is *local*: the *cause* is *in* the *head*.} \\
 2. & \text{The *wide* *content* is *not* *in* the *head* (it *includes* the *environment*).} \\
 \hline
-3. & \therefore \text{The *wide* *content* *cannot* *cause* *behaviour*.}
+3. & \therefore \text{The *wide* *content* *cannot* *cause* *behavior*.}
 \end{array}
 $$
 
 **The *responses*.**
 
-**(i) The *narrow* *content* *response***. The *narrow* *content* *causes* the *behaviour*, and the *wide* *content* is *derived* from the *narrow* *content* *plus* the *environment*.
+**(i) The *narrow* *content* *response***. The *narrow* *content* *causes* the *behavior*, and the *wide* *content* is *derived* from the *narrow* *content* *plus* the *environment*.
 
-**(ii) The *interventionist* *response*** (Ch. 18, §3). The *wide* *content* *causes* the *behaviour* *in* the *interventionist* *sense*: *intervening* on the *content* (by *changing* the *environment* or the *belief*) *changes* the *behaviour*. The *response* is *promising* and *contested*.
+**(ii) The *interventionist* *response*** (Ch. 18, §3). The *wide* *content* *causes* the *behavior* *in* the *interventionist* *sense*: *intervening* on the *content* (by *changing* the *environment* or the *belief*) *changes* the *behavior*. The *response* is *promising* and *contested*.
 
 **(iii) The *grounding* *response***. The *wide* *content* is *grounded* in the *narrow* *content* *plus* the *environment*, and the *grounding* *explains* the *causal* *role* *without* *requiring* the *wide* *content* to be *in* the *head*.
 
@@ -349,14 +349,14 @@ $$
 
 | Kind | The *content* is | The *paradigm* |
 |---|---|---|
-| **Conceptual** | *Structured* by *concepts*; the *subject* must *possess* the *concepts* | Belief, judgement |
+| **Conceptual** | *Structured* by *concepts*; the *subject* must *possess* the *concepts* | Belief, judgment |
 | **Non-conceptual** | *Not* structured by *concepts*; the *subject* need not *possess* the *concepts* | Perception, *sensorimotor* *representation* |
 
 **The *argument* *for* *non-conceptual* *content***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *perceptual* *experience* *represents* *more* *detail* than the *subject* *can* *conceptualise* (the *richness* *of* *experience*; Ch. 24, §1.3).} \\
+1. & \text{The *perceptual* *experience* *represents* *more* *detail* than the *subject* *can* *conceptualize* (the *richness* *of* *experience*; Ch. 24, §1.3).} \\
 2. & \text{The *content* of the *experience* is *not* *captured* by the *concepts* the *subject* *has*.} \\
 \hline
 3. & \therefore \text{The *content* is *non-conceptual*.}
@@ -369,7 +369,7 @@ $$
 
 **(ii) The *infant*/*animal* *argument***. *Infants* and *animals* *perceive* the *world*, but they *do* not *possess* the *concepts* (dog, *red*, *tree*), and the *perception* has *content*.
 
-**(iii) The *fine-grained* *discrimination* *argument***. The *subject* can *discriminate* *shades* of *colour* that she *has* *no* *concept* for (the *“knowing* *how”* *of* *discrimination*), and the *discrimination* *requires* a *content* that is *finer* than the *concepts*.
+**(iii) The *fine-grained* *discrimination* *argument***. The *subject* can *discriminate* *shades* of *color* that she *has* *no* *concept* for (the *“knowing* *how”* *of* *discrimination*), and the *discrimination* *requires* a *content* that is *finer* than the *concepts*.
 
 **The *objections*.**
 
@@ -472,13 +472,13 @@ $$
 
 ### 6.2 The fictionalist solution
 
-**The *thesis***. The *content* of a *thought* *about* *Sherlock* *Holmes* is a *fiction*: the *thought* is *embedded* in a *pretence*, and the *truth* of the *thought* is *relative* to the *pretence* (Walton, *Mimesis as Make-Believe*, 1990; Ch. 49, §4).
+**The *thesis***. The *content* of a *thought* *about* *Sherlock* *Holmes* is a *fiction*: the *thought* is *embedded* in a *pretense*, and the *truth* of the *thought* is *relative* to the *pretense* (Walton, *Mimesis as Make-Believe*, 1990; Ch. 49, §4).
 
 **The *structure*. The *thought* “Sherlock is a detective” is *true* *in* the *fiction* of *Conan* *Doyle*’s *stories*, and the *truth* is *not* *truth* *simpliciter*; it is *truth* *in* a *game* of *make-believe*.
 
 **The *virtue*.** The *theory* *avoids* the *Meinongian* *ontology*, and it *explains* the *truth* of *fictional* *statements*.
 
-**The *objection*.** The *theory* *does* not *explain* the *phenomenology* of *thought*: the *thought* *seems* to be *about* *Sherlock*, and the *seeming* is *not* *explained* by the *pretence* (the *“aboutness* *of* *fiction”* *problem*).
+**The *objection*.** The *theory* *does* not *explain* the *phenomenology* of *thought*: the *thought* *seems* to be *about* *Sherlock*, and the *seeming* is *not* *explained* by the *pretense* (the *“aboutness* *of* *fiction”* *problem*).
 
 ### 6.3 The gappy content solution
 
@@ -540,7 +540,7 @@ $$
 
 **The *argument***. The *we*-*intention* *has* a *structure* that the *individual* *intention* *lacks* (the *collective* *subject*, the *mutual* *commitment*, the *common* *knowledge*), and the *structure* is *irreducible*.
 
-**The *objection*.** The *structure* *can* be *analysed* into *individual* *states* *plus* *relations* (the *“common* *knowledge”* *regress*; Lewis, *Convention*, 1969), and the *analysis* *is* *possible*.
+**The *objection*.** The *structure* *can* be *analyzed* into *individual* *states* *plus* *relations* (the *“common* *knowledge”* *regress*; Lewis, *Convention*, 1969), and the *analysis* *is* *possible*.
 
 **The *state* of the debate.** The *debate* is *unresolved*, and the *choice* *depends* on the *theory* of *group* *belief* (Ch. 11, §5) and on the *theory* of *convention* (Lewis 1969).
 
@@ -597,7 +597,7 @@ $$
 ### 8.1 What is settled
 
 - **Intentionality is a real phenomenon.** The *aboutness* of thought is a *datum*, and it is *not* an *illusion*.
-- **The naturalization programme is incomplete.** The *theories* *solve* *some* *problems* and *generate* *others*, and *none* is *decisive*.
+- **The naturalization program is incomplete.** The *theories* *solve* *some* *problems* and *generate* *others*, and *none* is *decisive*.
 - **The *disjunction* *problem* is a *serious* *challenge* to the *informational* *theory*, and the *teleological* *theory* is the *most* *promising* *response*.
 - **The *swampman* *objection* is a *serious* *challenge* to the *teleological* *theory*, and the *reply* is *contested*.
 - **The *externalist* *consensus* is *dominant*, and the *narrow* *content* is *posited* only by the *individualist* *tradition*.
@@ -623,7 +623,7 @@ The *chapter* is a *case* *study* in the *method* of *Part* I.
 - **Reflective equilibrium** (§4 of Ch. 3) is the *method* by which the *intuitions* and the *theories* are *adjusted*.
 - **Negative capability** (§7 of Ch. 3) is the *response* to the *residue*: the *humility* to *hold* the *question* *open*.
 
-The *honest* verdict: the *theory* of *content* is a *field* in *transition*. The *naturalization* *programme* is *incomplete*; the *externalist* *consensus* is *dominant* but *fragile*; the *non-conceptual* *content* *debate* is *unresolved*. The *unresolved* character is *instructive*: it shows what philosophical progress looks like — not a *settled* *answer*, but a *sharper* *understanding* of what the *question* is.
+The *honest* verdict: the *theory* of *content* is a *field* in *transition*. The *naturalization* *program* is *incomplete*; the *externalist* *consensus* is *dominant* but *fragile*; the *non-conceptual* *content* *debate* is *unresolved*. The *unresolved* character is *instructive*: it shows what philosophical progress looks like — not a *settled* *answer*, but a *sharper* *understanding* of what the *question* is.
 
 ### 8.4 The dialectical map
 
@@ -635,11 +635,11 @@ The *honest* verdict: the *theory* of *content* is a *field* in *transition*. Th
 | **Conceptual-role** | Content = inferential role | Fits holism | Meaning holism |
 | **Two-factor** | Narrow + wide content | Reconciles | The relation is mysterious |
 | **Strong externalism** | All content is wide | Fits Twin Earth | Causal exclusion |
-| **Narrow content** | Content is narrow | Explains behaviour | Not expressible |
+| **Narrow content** | Content is narrow | Explains behavior | Not expressible |
 | **Non-conceptual** | Perception has non-conceptual content | Fits richness | The myth of the given |
 | **Conceptual** | All content is conceptual | Fits justification | Denies richness |
 | **Meinongian** | Nonexistent objects exist | Preserves aboutness | Profligate |
-| **Fictionalism** | Fictional content is pretence | Parsimonious | Does not explain aboutness |
+| **Fictionalism** | Fictional content is pretense | Parsimonious | Does not explain aboutness |
 | **Irreducible we-intention** | Collective intentionality is primitive | Fits phenomenology | Reduction is possible |
 
 The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *position* must decide which *cost* is *acceptable* — and the *decision* is a *philosophical* *argument*.
@@ -666,7 +666,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 - **Intentionality** is the *aboutness* of the mental — the *directedness* of *thought* and *experience* — and it is the *mark* of the mental (Brentano).
 - **The *problem* of *intentional* *inexistence***: the *intentional* *object* may *not* *exist*, and the *puzzle* *drives* the *debate* about *content*.
-- **The *naturalization* *programme*** attempts to *explain* *intentionality* in *non-intentional* *terms*, and the *criteria* *are* *naturalism*, *determinacy*, *productivity*, *normativity*, and *causality*.
+- **The *naturalization* *program*** attempts to *explain* *intentionality* in *non-intentional* *terms*, and the *criteria* *are* *naturalism*, *determinacy*, *productivity*, *normativity*, and *causality*.
 - **The *informational* *theory*** (Dretske) *grounds* *content* in *information*, and it *fails* on the *disjunction* *problem* (the *state* *carries* *information* about a *disjunction*).
 - **The *teleological* *theory*** (Millikan, Papineau) *grounds* *content* in *biological* *function*, and it *solves* the *disjunction* *problem* and the *misrepresentation* *problem*, but it *faces* the *swampman* *objection* and the *indeterminacy* *problem*.
 - **The *functional* *theories*** (causal-role, conceptual-role) *ground* *content* in *causal* or *inferential* *role*, and they *struggle* with *determinacy* and *compositionality*.
@@ -681,15 +681,15 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 1. State *Brentano's* *thesis*. Is *intentionality* the *mark* of the *mental*? What are the *counterexamples* (the *non-intentional* *mental* *states*, the *intentional* *non-mental* *states*)?
 2. State the *problem* of *intentional* *inexistence*. Is the *Meinongian* *solution* *defensible*?
-3. State the *naturalization* *programme*. Is it *possible*? Is it *complete*?
+3. State the *naturalization* *program*. Is it *possible*? Is it *complete*?
 4. State the *informational* *theory*. What is the *disjunction* *problem*, and is it *decisive*?
 5. State *teleosemantics*. What is the *swampman* *objection*, and is the *reply* *adequate*?
-6. Is *teleosemantics* *preferable* to the *informational* *theory*? What does the *answer* *imply* for the *naturalization* *programme*?
+6. Is *teleosemantics* *preferable* to the *informational* *theory*? What does the *answer* *imply* for the *naturalization* *program*?
 7. State *causal-role* and *conceptual-role* *semantics*. What is the *meaning* *holism* *problem*, and is it *decisive*?
 8. State the *two-factor* *theory*. Is it a *genuine* *reconciliation*, or an *ad* *hoc* *compromise*?
 9. State the *Twin* *Earth* *argument*. Is the *externalist* *conclusion* *sound*?
 10. State the *slow* *switching* *argument*. Is the *social* *externalism* *defensible*?
-11. Is there a *narrow* *content*? What does the *answer* *imply* for the *causation* of *behaviour*?
+11. Is there a *narrow* *content*? What does the *answer* *imply* for the *causation* of *behavior*?
 12. State the *non-conceptual* *content* *debate*. Is the *non-conceptual* *content* *defensible*?
 13. State the *language* of *thought* *hypothesis*. Is it *empirically* *justified*?
 14. State the *problem* of *empty* *intention*. Is the *fictionalist* *solution* *adequate*?
@@ -718,6 +718,6 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 ---
 
-> *A closing note.* This chapter has followed the *other* *mark* of the *mental* — the *aboutness* of *thought* — through the *Brentano* *puzzle*, the *naturalization* *programme*, the *informational* and *teleological* *theories*, the *functional* and *conceptual-role* *theories*, the *wide*/*narrow* *debate*, the *non-conceptual* *content*, the *empty* *intention*, and the *collective* *intentionality*. The result is *not* a *solution* to the *problem* of *content*, and it is *not* a *refutation* of the *naturalization* *programme*. It is a *clarification*: the *content* is *real*, it is *wide*, and its *determination* is *incomplete* — but the *shape* of the *disagreement* has been clarified, and the *clarification* is a *genuine* *achievement*.
+> *A closing note.* This chapter has followed the *other* *mark* of the *mental* — the *aboutness* of *thought* — through the *Brentano* *puzzle*, the *naturalization* *program*, the *informational* and *teleological* *theories*, the *functional* and *conceptual-role* *theories*, the *wide*/*narrow* *debate*, the *non-conceptual* *content*, the *empty* *intention*, and the *collective* *intentionality*. The result is *not* a *solution* to the *problem* of *content*, and it is *not* a *refutation* of the *naturalization* *program*. It is a *clarification*: the *content* is *real*, it is *wide*, and its *determination* is *incomplete* — but the *shape* of the *disagreement* has been clarified, and the *clarification* is a *genuine* *achievement*.
 
 > *And a bridge.* The next chapter turns to the *self* — the *subject* that *has* the *intentional* *states*. If *intentionality* is the *aboutness* of the *mental*, the *self* is the *“I”* to which the *states* are *attributed*, and the *question* of the *self* is the *question* of *what* *kind* of *thing* the *subject* is. The *next* *chapter* *examines* the *theories* of the *self* (substance, bundle, narrative, illusion), the *problem* of *personal* *identity* (Ch. 17, §7), and the *first-person* *perspective* — and it *asks* the *question* that the *theory* of *content* *presupposes*: *who* is the *subject* of the *content*?

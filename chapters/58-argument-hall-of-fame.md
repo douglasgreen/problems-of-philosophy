@@ -34,8 +34,8 @@
 | 11 | Original position | Constructive/contractual | Maximin behind the veil of ignorance | Fails as deduction; succeeds as device |
 | 12 | Experience machine | Counterexample to hedonism | We would not choose the machine | Powerful probe, not a proof |
 | 13 | Liar | Paradox | Bivalence + T-schema + self-reference | Paradox; unsolved |
-| 14 | Rule-following | Sceptical paradox | Past facts fix what a rule requires | Deep; conclusion widely resisted |
-| 15 | Moore's hands | Parity (Moore's *modus ponens*) | The premises are more certain than the sceptical conclusion | Diagnostic; live |
+| 14 | Rule-following | Skeptical paradox | Past facts fix what a rule requires | Deep; conclusion widely resisted |
+| 15 | Moore's hands | Parity (Moore's *modus ponens*) | The premises are more certain than the skeptical conclusion | Diagnostic; live |
 
 ---
 
@@ -111,7 +111,7 @@ And in the *Discourse*: *je pense, donc je suis* — "I think, therefore I am."
 2. To doubt is to exist as a doubter: the occurrence of the doubt entails the existence of a subject of the doubt.
 3. Therefore the proposition "I do not exist" cannot be coherently doubted, because the doubting refutes it.
 
-More precisely, following Hintikka: the sentence "I exist" has the property that its *utterance as a judgement* cannot fail to be true, because the act of judging is itself the existence of the judge. It is not that the *proposition* is a tautology; it is that the *performance* is self-verifying.
+More precisely, following Hintikka: the sentence "I exist" has the property that its *utterance as a judgment* cannot fail to be true, because the act of judging is itself the existence of the judge. It is not that the *proposition* is a tautology; it is that the *performance* is self-verifying.
 
 **The load-bearing premise.** The move from "there is a thinking" to "I think." Descartes needs the subject of thought to be a *substantial self* — a *res cogitans* — and the argument at best delivers an occurrence of thinking with an indexical subject-position attached. Lichtenberg's objection is the classic statement of the gap: strictly, all we are entitled to is "it thinks" or "there is thinking," not "I think." The "I" is an inference, not a datum.
 
@@ -123,7 +123,7 @@ More precisely, following Hintikka: the sentence "I exist" has the property that
 - **The essential indexical (Perry):** the content "I exist" cannot be reduced to any impersonal proposition, and that irreducibility is itself an argument for the reality of the subject-position. This does not give Descartes a substance, but it gives him more than Lichtenberg allows.
 - **Williams's diagnosis:** Descartes needs the *cogito* to be immune to doubt *and* to be the foundation of a system; no single proposition can do both, because the certainty of the *cogito* is a certainty about an act, not about the world.
 
-**Verdict: Refuted in strong form; a limited certainty survives.** As a refutation of scepticism, the *cogito* fails: it establishes the occurrence of thought, not the existence of a substantial, persisting, immaterial soul, and it leaves the problem of the external world and of other minds exactly where it was. But it survives as one of the very few things that cannot be coherently doubted, and its methodological lesson — that the doubter is implicated in the doubt — is permanent. The *cogito* is the paradigm of an argument that is *certain* without being *foundational*. (*Ch. 6, 26*)
+**Verdict: Refuted in strong form; a limited certainty survives.** As a refutation of skepticism, the *cogito* fails: it establishes the occurrence of thought, not the existence of a substantial, persisting, immaterial soul, and it leaves the problem of the external world and of other minds exactly where it was. But it survives as one of the very few things that cannot be coherently doubted, and its methodological lesson — that the doubter is implicated in the doubt — is permanent. The *cogito* is the paradigm of an argument that is *certain* without being *foundational*. (*Ch. 6, 26*)
 
 ---
 
@@ -152,13 +152,13 @@ $$(\forall x)(\text{conceiving } x \to x \text{ is perceived})$$
 
 and these are different. The first is a tautology about the act of conceiving; the second says something about the *object* conceived — that it has the property of being perceived. The inference from the one to the other is the fallacy diagnosed by the early commentators as the confusion between *the idea in the mind* and *the object of the idea*. When I imagine a tree in an empty park, the *imagining* is mental; the *tree imagined* need not be.
 
-**Strongest objection.** The argument conflates the *act* of conceiving with the *object* conceived (the "conceiving–conceived" confusion). A second, independent objection: from "I cannot conceive of $x$ without $\phi$-ing" it does not follow that "$x$ cannot exist without being $\phi$-ed," since my conceptual limitations are not constraints on reality. The history of science is a catalogue of things once inconceivable and now actual (action at a distance, non-Euclidean geometry, quantum superposition).
+**Strongest objection.** The argument conflates the *act* of conceiving with the *object* conceived (the "conceiving–conceived" confusion). A second, independent objection: from "I cannot conceive of $x$ without $\phi$-ing" it does not follow that "$x$ cannot exist without being $\phi$-ed," since my conceptual limitations are not constraints on reality. The history of science is a catalog of things once inconceivable and now actual (action at a distance, non-Euclidean geometry, quantum superposition).
 
 **Replies.**
 
-- **The semantic reading.** Berkeley's conclusion can be recast as a claim about *content* rather than possibility: the notion of a mind-independent object is not a coherent notion, because any attempt to spell out what it would be to verify a claim about such objects reduces to a claim about possible experiences. On this reading the master argument is not a *reductio* but an invitation to analyse the concept — and the analysis produces phenomenalism rather than the crude conclusion that Berkeley is usually saddled with.
+- **The semantic reading.** Berkeley's conclusion can be recast as a claim about *content* rather than possibility: the notion of a mind-independent object is not a coherent notion, because any attempt to spell out what it would be to verify a claim about such objects reduces to a claim about possible experiences. On this reading the master argument is not a *reductio* but an invitation to analyze the concept — and the analysis produces phenomenalism rather than the crude conclusion that Berkeley is usually saddled with.
 - **The idealist's response to the fallacy charge:** if one grants the representationalist picture according to which what is before the mind is always an *idea*, then the object of thought just *is* the idea, and the distinction between act and object collapses. But this is the conclusion, not a premise; the argument cannot assume it.
-- **Berkeley's own best defence:** the master argument is not meant to *prove* idealism but to *silence* the realist's claim to have a coherent alternative. It is an argument from the unavailability of a competing conception, not a proof from premises.
+- **Berkeley's own best defense:** the master argument is not meant to *prove* idealism but to *silence* the realist's claim to have a coherent alternative. It is an argument from the unavailability of a competing conception, not a proof from premises.
 
 **Verdict: Refuted in strong form; a semantic residue survives.** As a refutation of realism it fails, and the fallacy is elementary once stated. But it is a permanent contribution: it forces the realist to explain how thought "reaches beyond" the given, and it is the ancestor of the whole family of arguments — verificationism, phenomenalism, internal realism — that locate the difficulty in the *content* of the realist's claim rather than in its truth. (*Ch. 5, 20, 31*)
 
@@ -168,7 +168,7 @@ and these are different. The first is a tautology about the act of conceiving; t
 
 **Source.** The classical statements: Hume, *Treatise* I.iv.2; Russell, *The Problems of Philosophy* (1912), ch. 1; Ayer, *The Foundations of Empirical Knowledge* (1940). The critique: Austin, *Sense and Sensibilia* (1962). The revival: disjunctivism (Hinton 1973; McDowell 1982; Martin 2004).
 
-**The argument.** Russell's table: it looks different from different angles, changes colour in different lights, and its apparent shape varies with the observer. Yet "the real table, if there is one, is not the same as what we immediately experience by sight or touch or hearing." The inference is that what we are immediately aware of is not the table but a *sense-datum*.
+**The argument.** Russell's table: it looks different from different angles, changes color in different lights, and its apparent shape varies with the observer. Yet "the real table, if there is one, is not the same as what we immediately experience by sight or touch or hearing." The inference is that what we are immediately aware of is not the table but a *sense-datum*.
 
 **Reconstruction.**
 
@@ -188,7 +188,7 @@ and these are different. The first is a tautology about the act of conceiving; t
 - **The sense-datum theorist can retreat** to the claim that we are aware of *appearances*, where "appearance" is neutral between realist and idealist readings. This is the "adverbial" or "intentionalist" move: the experience is a *way of representing*, not a relation to a private object.
 - **Naive realism** (Martin, Campbell) holds that in veridical perception the object itself is a constituent of the experience. It must then say what the hallucinating subject's experience is *of* — and the answer, "nothing," is the price of the position.
 
-**Verdict: Rejected in its classical form; the premise is not dead.** The argument from illusion is no longer accepted as a proof of sense-data, because (3) is recognised as a substantive thesis rather than a datum. But the *phenomenological* observation behind it — that experience is not transparent to its object — remains the central difficulty for naive realism, and the disjunctivist response is itself a substantial and contested research programme. The argument's historical importance is enormous: it generated the sense-datum theory, phenomenalism, and the whole problematic of the "veil of perception." (*Ch. 5, 6, 20*)
+**Verdict: Rejected in its classical form; the premise is not dead.** The argument from illusion is no longer accepted as a proof of sense-data, because (3) is recognized as a substantive thesis rather than a datum. But the *phenomenological* observation behind it — that experience is not transparent to its object — remains the central difficulty for naive realism, and the disjunctivist response is itself a substantial and contested research program. The argument's historical importance is enormous: it generated the sense-datum theory, phenomenalism, and the whole problematic of the "veil of perception." (*Ch. 5, 6, 20*)
 
 ---
 
@@ -226,7 +226,7 @@ Smith's evidence for (a) is excellent (the employer told him; he counted the coi
 
 Each faces its own counterexamples; the industry is a demonstration of how hard it is to state a condition that is neither too strong (excluding ordinary knowledge) nor too weak (admitting Gettier cases).
 
-**Verdict: Decisive constraint.** The Gettier case is not an argument in the traditional sense but a counterexample of singular efficiency, and it established a boundary: *any* analysis of knowledge must explain why justified true belief can be true only by accident. Its deeper lesson, drawn by Williamson and by the knowledge-first tradition, is that the project of analysing knowledge into belief plus independent conditions may be misguided — that knowledge may be the primitive. (*Ch. 7, 8*)
+**Verdict: Decisive constraint.** The Gettier case is not an argument in the traditional sense but a counterexample of singular efficiency, and it established a boundary: *any* analysis of knowledge must explain why justified true belief can be true only by accident. Its deeper lesson, drawn by Williamson and by the knowledge-first tradition, is that the project of analyzing knowledge into belief plus independent conditions may be misguided — that knowledge may be the primitive. (*Ch. 7, 8*)
 
 ---
 
@@ -251,7 +251,7 @@ The argument is a *modus tollens* on the physicalist's own supervenience thesis:
 
 **The load-bearing premise.** (2), the conceivability–possibility thesis — or, if one accepts (2), premise (1). The argument is valid if (2) holds; the entire dispute is about whether ideal conceivability is a reliable guide to metaphysical possibility in the phenomenal case.
 
-**Strongest objection (the type-B physicalist reply).** There can be *a posteriori necessary identities* between physical and phenomenal properties, exactly as there are between water and H₂O. "Water is not H₂O" was once conceivable, but it is not possible, because the identity is necessary though discovered empirically. By parity, "zombies exist" may be conceivable in our present state of ignorance, and yet impossible: once we understand the physical nature of experience, the zombie scenario will be seen to be like the scenario of water without H₂O. The apparent conceivability is an artefact of our incomplete concepts. (Loar, Papineau, Tye, Carruthers.)
+**Strongest objection (the type-B physicalist reply).** There can be *a posteriori necessary identities* between physical and phenomenal properties, exactly as there are between water and H₂O. "Water is not H₂O" was once conceivable, but it is not possible, because the identity is necessary though discovered empirically. By parity, "zombies exist" may be conceivable in our present state of ignorance, and yet impossible: once we understand the physical nature of experience, the zombie scenario will be seen to be like the scenario of water without H₂O. The apparent conceivability is an artifact of our incomplete concepts. (Loar, Papineau, Tye, Carruthers.)
 
 **Reply to the objection.** The water case works because there is an *independent* handle on the essence — we can identify H₂O by its causal role and then discover that it is the stuff we called water. In the phenomenal case, there is no such independent handle: the phenomenal property is *given* in experience, and no empirical discovery could reveal that it "really was" something else. The conceivability of zombies is therefore not the same kind of ignorance-generated illusion; it is the expression of the fact that we have *no conception at all* of how physical facts could necessitate phenomenal ones. This is the epistemic gap, and the type-B reply simply relabels it. (Chalmers's "meta-problem" is the further move: even if we cannot close the gap, we can explain why it *seems* unclosable.)
 
@@ -295,7 +295,7 @@ In abductive form: realism is the hypothesis that best explains the success of s
 
 ## 8. The Problem of Evil
 
-**Source.** The logical problem: J. L. Mackie, "Evil and Omnipotence," *Mind* (1955). The Free Will Defence: Plantinga, *The Nature of Necessity* (1974), ch. 9. The evidential problem: William Rowe, "The Problem of Evil and Some Varieties of Atheism" (1979). Skeptical theism: Wykstra (1984); the "cornerstone" critique: Almeida & Oppy, and others.
+**Source.** The logical problem: J. L. Mackie, "Evil and Omnipotence," *Mind* (1955). The Free Will Defense: Plantinga, *The Nature of Necessity* (1974), ch. 9. The evidential problem: William Rowe, "The Problem of Evil and Some Varieties of Atheism" (1979). Skeptical theism: Wykstra (1984); the "cornerstone" critique: Almeida & Oppy, and others.
 
 **The logical argument.** The classical form (Mackie):
 
@@ -309,7 +309,7 @@ In abductive form: realism is the hypothesis that best explains the success of s
 
 **The logical argument's load-bearing premise.** The inference from (4) to (5): that a wholly good being would prevent *any* evil it could, without exception. This requires the further premise that there is no *morally sufficient reason* for permitting evil — and that premise is a modal claim about what reasons God could have, which is precisely what the theist denies.
 
-**The Free Will Defence.** Plantinga's response is not a theodicy (an account of what God's actual reason is) but a *defence*: it suffices to show that the conjunction of God's existence and evil is *possibly* explained by a morally sufficient reason. The defence: it is possible that God permits evil because a world containing significantly free creatures who sometimes do evil is more valuable than a world of automata, and because the existence of free creatures is a necessary condition of certain great goods (love, moral goodness, the possibility of heroism and compassion). Since the logical argument requires a *necessary* connection between God and the absence of evil, a possible sufficient reason defeats it. Mackie's argument is generally conceded to have failed as a deductive proof; even Mackie later allowed that the Free Will Defence is a successful defence, though not a theodicy.
+**The Free Will Defense.** Plantinga's response is not a theodicy (an account of what God's actual reason is) but a *defense*: it suffices to show that the conjunction of God's existence and evil is *possibly* explained by a morally sufficient reason. The defense: it is possible that God permits evil because a world containing significantly free creatures who sometimes do evil is more valuable than a world of automata, and because the existence of free creatures is a necessary condition of certain great goods (love, moral goodness, the possibility of heroism and compassion). Since the logical argument requires a *necessary* connection between God and the absence of evil, a possible sufficient reason defeats it. Mackie's argument is generally conceded to have failed as a deductive proof; even Mackie later allowed that the Free Will Defense is a successful defense, though not a theodicy.
 
 **The evidential argument (Rowe).**
 
@@ -319,11 +319,11 @@ In abductive form: realism is the hypothesis that best explains the success of s
 
 The evidential form does not claim that evil is logically incompatible with God; it claims that the *amount and distribution* of suffering makes theism improbable. The argument is probabilistic: the data of evil are more likely on the hypothesis of atheism than on the hypothesis of theism.
 
-**Skeptical theism.** The reply targets premise (1): given our cognitive limitations, we are in no position to judge that a given instance of suffering has no unknown greater good. Wykstra's "COR(NEA)": we should not expect to see the goods that justify God's permission, any more than a child can see the reasons for a parent's restrictions. If the sceptical premise is accepted, the evidential argument loses its evidential force, because we cannot know that an instance of suffering is *gratuitous*.
+**Skeptical theism.** The reply targets premise (1): given our cognitive limitations, we are in no position to judge that a given instance of suffering has no unknown greater good. Wykstra's "COR(NEA)": we should not expect to see the goods that justify God's permission, any more than a child can see the reasons for a parent's restrictions. If the skeptical premise is accepted, the evidential argument loses its evidential force, because we cannot know that an instance of suffering is *gratuitous*.
 
-**Objections to skeptical theism.** (i) It proves too much: if we cannot judge that a given evil is gratuitous, can we judge that a given good is genuinely good? The scepticism threatens to undercut moral knowledge altogether (the "abducting sceptical theism" objection). (ii) It makes God's goodness unknowable in principle, which strains the concept of a *morally* perfect being. (iii) The appeal to unknown goods, if unrestricted, renders any amount of suffering compatible with theism, which many take to be a reductio of the position.
+**Objections to skeptical theism.** (i) It proves too much: if we cannot judge that a given evil is gratuitous, can we judge that a given good is genuinely good? The skepticism threatens to undercut moral knowledge altogether (the "abducting skeptical theism" objection). (ii) It makes God's goodness unknowable in principle, which strains the concept of a *morally* perfect being. (iii) The appeal to unknown goods, if unrestricted, renders any amount of suffering compatible with theism, which many take to be a reductio of the position.
 
-**Verdict: The logical form is refuted; the evidential form is live.** The deductive problem of evil is now widely regarded as defeated by the Free Will Defence (or by the more general point that the argument needs an unjustified modal premise). The evidential problem remains one of the strongest considerations against theism, and its force is essentially a matter of how much weight one gives to the sceptical-theist move. The debate is a model of how an argument can migrate from the deductive to the probabilistic register, and of how the burden of proof shifts with it. (*Ch. 50*)
+**Verdict: The logical form is refuted; the evidential form is live.** The deductive problem of evil is now widely regarded as defeated by the Free Will Defense (or by the more general point that the argument needs an unjustified modal premise). The evidential problem remains one of the strongest considerations against theism, and its force is essentially a matter of how much weight one gives to the skeptical-theist move. The debate is a model of how an argument can migrate from the deductive to the probabilistic register, and of how the burden of proof shifts with it. (*Ch. 50*)
 
 ---
 
@@ -350,7 +350,7 @@ The evidential form does not claim that evil is logically incompatible with God;
 
 - **Moore's own reply:** "good" is a simple notion, so there is no room for a synthetic identity of the water/H₂O kind; the identity would have to be graspable by analysis, and analysis of a simple notion is impossible. But this is an additional, contestable premise, not a consequence of the argument.
 - **The synthetic naturalist's reply (Cornell realism):** moral properties are natural properties, but the identity is a posteriori and discovered by empirical and moral inquiry, not by conceptual analysis. The open question is the mark of an a posteriori identity, not of a non-natural property. This is the position the open-question argument was designed to refute, and it survives the argment.
-- **The expressivist's reply:** the "openness" reflects the *practical*, action-guiding character of moral judgement, not a semantic gap. The question is open because answering it requires a practical stance, not because the property is non-natural.
+- **The expressivist's reply:** the "openness" reflects the *practical*, action-guiding character of moral judgment, not a semantic gap. The question is open because answering it requires a practical stance, not because the property is non-natural.
 
 **Verdict: Partial success; it defeats analytic naturalism only.** The argument is a decisive refutation of the thesis that "good" is *synonymous* with a natural predicate. It does not refute naturalism *tout court*, because the synthetic naturalist can accept every premise. Its lasting contribution is the demonstration that moral concepts are not trivially reducible to descriptive ones — and, more broadly, the invention of the "open question" technique as a test of conceptual identity, which is now used far beyond ethics. (*Ch. 44, 36*)
 
@@ -367,7 +367,7 @@ The evidential form does not claim that evil is logically incompatible with God;
 1. There are normative facts of other kinds that we cannot reasonably deny: epistemic facts (there are correct and incorrect inferences, reasons to believe, justified and unjustified beliefs), logical facts, and mathematical facts. — premise
 2. These facts are non-natural, irreducible, and known by something like rational insight. — premise
 3. Whatever makes moral facts "queer" — their prescriptive character, their non-naturalness, their requiring a special faculty — applies equally to these other normative facts. — premise
-4. Since we accept the latter, we should accept the former; the error theorist's argument, if sound, would commit us to a general normative scepticism that no one can live with. — from (1)–(3)
+4. Since we accept the latter, we should accept the former; the error theorist's argument, if sound, would commit us to a general normative skepticism that no one can live with. — from (1)–(3)
 5. Therefore moral realism is no worse off than the realism we already accept about epistemic and logical norms. — conclusion
 
 **The load-bearing premise.** (3): that moral and epistemic normativity are of the same kind, so that whatever makes moral facts objectionable makes epistemic facts objectionable too. *This is where the argument lives or dies.*
@@ -380,7 +380,7 @@ The evidential form does not claim that evil is logically incompatible with God;
 - **The "unbelievable" reply (Streumer):** the fact that a global normative error theory is unbelievable does not make it false; it only explains why we cannot bring ourselves to believe it. The companions-in-guilt argument then becomes an argument for a *general* anti-realism, not for moral realism specifically — the guilt spreads rather than being discharged.
 - **The deflationary reply:** both moral and epistemic "facts" are expressive or institutional; neither is queer because neither is a sui generis entity. The argument presupposes a realist reading of the companion facts.
 
-**Verdict: Live; it cuts both ways.** The argument is structurally elegant and has shifted the burden onto the moral error theorist to explain why the queerness does not generalise. But its conclusion depends entirely on whether the kind-identity in premise (3) holds, and the two available resolutions — accept moral facts, or reject all normative facts — are both costly. It is the best current example of a *parity argument*, and of how an argument can be turned against its author. (*Ch. 44*)
+**Verdict: Live; it cuts both ways.** The argument is structurally elegant and has shifted the burden onto the moral error theorist to explain why the queerness does not generalize. But its conclusion depends entirely on whether the kind-identity in premise (3) holds, and the two available resolutions — accept moral facts, or reject all normative facts — are both costly. It is the best current example of a *parity argument*, and of how an argument can be turned against its author. (*Ch. 44*)
 
 ---
 
@@ -407,7 +407,7 @@ The evidential form does not claim that evil is logically incompatible with God;
 
 - **Nozick:** nothing follows from a hypothetical agreement; actual consent is what binds, and the original position is a "miracle" that generates entitlements from nowhere.
 - **The thin theory of the good:** the parties are supposed to choose principles without knowing their conception of the good, but they need *some* theory of primary goods to rank outcomes. The thin theory may smuggle in substantive liberal commitments.
-- **The arbitrariness of the veil:** why should the parties not know their talents? If they did, the choice would be different; the veil's thickness is a substantive moral assumption, not a neutral modelling choice.
+- **The arbitrariness of the veil:** why should the parties not know their talents? If they did, the choice would be different; the veil's thickness is a substantive moral assumption, not a neutral modeling choice.
 
 **Replies.**
 
@@ -436,14 +436,14 @@ Nozick's three reasons for refusing: (i) we want to *do* things, not merely seem
 
 **Strongest objection.** The argument tests *preferences*, not *welfare*. The hedonist can respond:
 
-- **The status quo bias:** we are attached to our actual lives and averse to radical change; the refusal may reflect loss aversion, not a judgement about value.
+- **The status quo bias:** we are attached to our actual lives and averse to radical change; the refusal may reflect loss aversion, not a judgment about value.
 - **The false belief reply:** we refuse because we believe the machine's experiences are not "real," and that belief would be *false* inside the machine (or irrelevant to the welfare it delivers). The hedonist can say the refusal is based on a confusion, so it is not evidence against hedonism.
 - **The paternalism reply:** our considered preferences may not track our good; the hedonist's claim is about what *is* good for us, not about what we *think* is good.
 - **The adaptation reply:** people who have been on the machine (in the actual world, e.g., long-term immersive VR) may report high well-being; the intuition may be culturally parochial.
 
 **Replies.**
 
-- **The "experience requirement" is not merely a preference:** the intuition survives reflection, and it is not obviously a bias. It is a judgement about what makes a life go well, and it is widely shared. If a theory of welfare implies that all our reflective judgements about welfare are systematically mistaken, that is a cost for the theory.
+- **The "experience requirement" is not merely a preference:** the intuition survives reflection, and it is not obviously a bias. It is a judgment about what makes a life go well, and it is widely shared. If a theory of welfare implies that all our reflective judgments about welfare are systematically mistaken, that is a cost for the theory.
 - **The argument also refutes desire-satisfaction in its actual-desire form:** if what we want is to *do* things, and the machine delivers only the experience of doing them, then actual-desire satisfaction is not sufficient for welfare either. The machine is thus a probe for any theory, not just hedonism.
 - **The objective-list reply:** the intuition supports an objective-list view on which achievement, knowledge, and reality-contact are goods independent of experience. This is the most common contemporary response.
 
@@ -488,21 +488,21 @@ The argument shows that a language satisfying (i) classical bivalence, (ii) a tr
 
 ## 14. The Rule-Following Paradox
 
-**Source.** Wittgenstein, *Philosophical Investigations* (1953), §§138–242; the sceptical reading and the "quus" example: Kripke, *Wittgenstein on Rules and Private Language* (1982). The exegetical dispute: Wright (1984), Boghossian (1989), and the Wittgenstein literature generally.
+**Source.** Wittgenstein, *Philosophical Investigations* (1953), §§138–242; the skeptical reading and the "quus" example: Kripke, *Wittgenstein on Rules and Private Language* (1982). The exegetical dispute: Wright (1984), Boghossian (1989), and the Wittgenstein literature generally.
 
-**The paradox.** Any rule has only finitely many applications. For any finite segment of behaviour, there is always a deviant rule compatible with it. Kripke's example: the function **quus**, defined by
+**The paradox.** Any rule has only finitely many applications. For any finite segment of behavior, there is always a deviant rule compatible with it. Kripke's example: the function **quus**, defined by
 
 $$x \oplus y = \begin{cases} x + y & \text{if } x, y < 57 \\ 5 & \text{otherwise} \end{cases}$$
 
-I have never computed a sum larger than 56, so my entire past behaviour, dispositions, and mental history are compatible with my having meant *quus* all along, not *plus*. What fact about me makes it the case that I meant plus?
+I have never computed a sum larger than 56, so my entire past behavior, dispositions, and mental history are compatible with my having meant *quus* all along, not *plus*. What fact about me makes it the case that I meant plus?
 
-**Reconstruction (Kripke's sceptical argument).**
+**Reconstruction (Kripke's skeptical argument).**
 
 1. A rule must determine what is correct in each new case: if I mean plus, then "68 + 57 = 125" is correct and "= 5" is incorrect. — premise (normativity of rules)
-2. The whole of my past behaviour, dispositions, and mental states is compatible with my having meant quus all along. — premise (finiteness)
-3. There is no fact of the matter about what I meant, over and above the dispositions. — from (1), (2) (the sceptical conclusion)
+2. The whole of my past behavior, dispositions, and mental states is compatible with my having meant quus all along. — premise (finiteness)
+3. There is no fact of the matter about what I meant, over and above the dispositions. — from (1), (2) (the skeptical conclusion)
 4. If there is no fact of the matter, then there is no such thing as following a rule; meaning is an illusion. — premise
-5. Therefore meaning is not a fact about the individual; it is grounded in communal practice — the "sceptical solution": assertibility conditions, not truth conditions. — Kripke's conclusion
+5. Therefore meaning is not a fact about the individual; it is grounded in communal practice — the "skeptical solution": assertibility conditions, not truth conditions. — Kripke's conclusion
 
 **The load-bearing premise.** (3): that no fact about the individual — dispositional, phenomenal, or intentional — can distinguish meaning plus from meaning quus. The argument is a *reductio* on the idea that meaning is a fact about an individual considered in isolation.
 
@@ -510,10 +510,10 @@ I have never computed a sum larger than 56, so my entire past behaviour, disposi
 
 - **The dispositionalist reply (Blackburn, Fodor):** meaning plus is a disposition to respond in certain ways. But dispositions are finite, and any finite disposition can be characterized in quus-compatible terms; moreover, dispositions explain what I *would* do, not what I *ought* to do — so they cannot capture the normativity in premise (1).
 - **The "primitive fact" reply (Wright, Boghossian):** there is a primitive fact of meaning, not reducible to dispositions; Kripke's argument presupposes a verificationist constraint on facts. But then the argument begs the question against the realist about meaning.
-- **The normativity objection:** the argument equivocates between *what I would do* and *what I ought to do*. Dispositions do not determine norms; norms are normative all the way down. If so, the sceptical conclusion is a *truism* — meaning is not a dispositional fact — rather than a paradox. The real work is then to give a positive account of the normative fact.
+- **The normativity objection:** the argument equivocates between *what I would do* and *what I ought to do*. Dispositions do not determine norms; norms are normative all the way down. If so, the skeptical conclusion is a *truism* — meaning is not a dispositional fact — rather than a paradox. The real work is then to give a positive account of the normative fact.
 - **The exegetical objection:** Kripke's reading may not be Wittgenstein's. Wittgenstein's target may be the *mental act* of meaning (the picture of a rule as a mental state that contains all its applications), not meaning simpliciter. On the standard reading, Wittgenstein's point is that following a rule is a *practice*, and the "paradox" is dissolved by attending to the form of life in which the practice is embedded.
 
-**Verdict: Deep; the sceptical conclusion is widely resisted.** The argument has not been refuted — the dispositionalist and primitive-fact replies each have costs — but few philosophers accept the sceptical conclusion that there is no fact of the matter about meaning. What is widely accepted is the *constraint*: meaning cannot be located in a mere fact about an individual's past; it must be located in a normative practice, whether communal or otherwise. The paradox is a permanent test of any naturalistic theory of meaning. (*Ch. 31*) *Note:* a caution about the exegesis is in order. Kripke presents the argument as Wittgenstein's; whether it is, and whether the "sceptical solution" is Wittgenstein's or Kripke's invention, are separate questions. The argument is philosophically important either way, but do not attribute it to Wittgenstein without the qualification.
+**Verdict: Deep; the skeptical conclusion is widely resisted.** The argument has not been refuted — the dispositionalist and primitive-fact replies each have costs — but few philosophers accept the skeptical conclusion that there is no fact of the matter about meaning. What is widely accepted is the *constraint*: meaning cannot be located in a mere fact about an individual's past; it must be located in a normative practice, whether communal or otherwise. The paradox is a permanent test of any naturalistic theory of meaning. (*Ch. 31*) *Note:* a caution about the exegesis is in order. Kripke presents the argument as Wittgenstein's; whether it is, and whether the "skeptical solution" is Wittgenstein's or Kripke's invention, are separate questions. The argument is philosophically important either way, but do not attribute it to Wittgenstein without the qualification.
 
 ---
 
@@ -531,20 +531,20 @@ I have never computed a sum larger than 56, so my entire past behaviour, disposi
 4. If at least two hands exist, then there are external objects — things whose existence does not depend on being perceived. — premise (a hand is an external object)
 5. Therefore an external world exists. — from (3), (4)
 
-Moore adds a meta-claim: the premises are *more certain* than any premise of the sceptic's argument, and the conclusion follows deductively; so the proof meets the standards of a proof.
+Moore adds a meta-claim: the premises are *more certain* than any premise of the skeptic's argument, and the conclusion follows deductively; so the proof meets the standards of a proof.
 
-**The load-bearing premise.** Not the demonstration (1)–(2) — those are as certain as anything — but the *epistemic* claim that the premises are more certain than the sceptic's premises. The argument is not a derivation from more basic premises; it is a claim of *parity*, or rather of priority: ordinary perceptual knowledge has a default standing that the sceptic's premises lack.
+**The load-bearing premise.** Not the demonstration (1)–(2) — those are as certain as anything — but the *epistemic* claim that the premises are more certain than the skeptic's premises. The argument is not a derivation from more basic premises; it is a claim of *parity*, or rather of priority: ordinary perceptual knowledge has a default standing that the skeptic's premises lack.
 
-**Strongest objection.** The sceptic's charge: the argument assumes what it is supposed to prove. The premise "here is a hand" is exactly the kind of claim the sceptic doubts; a proof that begins from a premise the interlocutor rejects is not a proof *for that interlocutor*. Moore's argument may be valid, but it is question-begging in the dialectical sense: it does not move the sceptic.
+**Strongest objection.** The skeptic's charge: the argument assumes what it is supposed to prove. The premise "here is a hand" is exactly the kind of claim the skeptic doubts; a proof that begins from a premise the interlocutor rejects is not a proof *for that interlocutor*. Moore's argument may be valid, but it is question-begging in the dialectical sense: it does not move the skeptic.
 
 **Replies.**
 
-- **Moore's meta-claim:** the charge of question-begging assumes that the sceptic's doubt has a default priority over ordinary knowledge. But why should it? Moore's claim is that ordinary perceptual beliefs are more certain than the philosophical premises used to undermine them. If so, the burden is on the sceptic to show that the doubt is more reasonable than the belief. This is the "Moorean" strategy: *modus ponens* against the sceptic's *modus tollens*.
-- **Wittgenstein's response:** Moore is right to hold up his hands, but wrong to claim *knowledge*. The propositions "here is a hand" are *hinges* — they are exempt from doubt and are not the sort of thing that can be known in the ordinary way, because they are the background against which knowing and doubting take place. The proper description is "this is how I go on," not "I know." This concedes the sceptic's point about knowledge while denying its significance: the sceptic demands a justification for something that does not need one.
-- **Dogmatism (Pryor):** perceptual experience itself can justify perceptual belief without the subject's needing independent evidence for the reliability of perception. If so, Moore's premises can be justified by the experiences that accompany them, and the sceptic's demand for a non-circular justification is too strong.
-- **Hinge epistemology (Pritchard):** there are hinge commitments that are not beliefs and are not in the market for knowledge; the sceptic's error is to treat them as propositions to be assessed.
+- **Moore's meta-claim:** the charge of question-begging assumes that the skeptic's doubt has a default priority over ordinary knowledge. But why should it? Moore's claim is that ordinary perceptual beliefs are more certain than the philosophical premises used to undermine them. If so, the burden is on the skeptic to show that the doubt is more reasonable than the belief. This is the "Moorean" strategy: *modus ponens* against the skeptic's *modus tollens*.
+- **Wittgenstein's response:** Moore is right to hold up his hands, but wrong to claim *knowledge*. The propositions "here is a hand" are *hinges* — they are exempt from doubt and are not the sort of thing that can be known in the ordinary way, because they are the background against which knowing and doubting take place. The proper description is "this is how I go on," not "I know." This concedes the skeptic's point about knowledge while denying its significance: the skeptic demands a justification for something that does not need one.
+- **Dogmatism (Pryor):** perceptual experience itself can justify perceptual belief without the subject's needing independent evidence for the reliability of perception. If so, Moore's premises can be justified by the experiences that accompany them, and the skeptic's demand for a non-circular justification is too strong.
+- **Hinge epistemology (Pritchard):** there are hinge commitments that are not beliefs and are not in the market for knowledge; the skeptic's error is to treat them as propositions to be assessed.
 
-**Verdict: Diagnostic; live.** Moore's argument is not a proof in the classical sense — it does not derive its conclusion from premises the sceptic accepts — but it is a *diagnostic* argument of the first importance: it forces a choice between accepting an epistemically privileged starting point (Moore, dogmatism) and explaining why the sceptic's demand is illegitimate (Wittgenstein, hinge epistemology, contextualism). Its value is that it makes explicit the structure of the epistemological problem, and it is the cleanest test case for any theory of the architecture of knowledge. (*Ch. 6, 13*)
+**Verdict: Diagnostic; live.** Moore's argument is not a proof in the classical sense — it does not derive its conclusion from premises the skeptic accepts — but it is a *diagnostic* argument of the first importance: it forces a choice between accepting an epistemically privileged starting point (Moore, dogmatism) and explaining why the skeptic's demand is illegitimate (Wittgenstein, hinge epistemology, contextualism). Its value is that it makes explicit the structure of the epistemological problem, and it is the cleanest test case for any theory of the architecture of knowledge. (*Ch. 6, 13*)
 
 ---
 
@@ -556,7 +556,7 @@ Reading the fifteen together reveals recurring structural features. They are wor
 
 **2. Most of the great arguments are parity or dilemma arguments, not deductions.** The companions-in-guilt argument, Moore's hands, the *cogito*, the zombie argument, and the rule-following paradox all work by putting the opponent in a position where they must accept a conclusion they did not want or reject a premise they cannot give up. The most efficient philosophical arguments do not prove; they *force a choice*.
 
-**3. Thought experiments are probes, not proofs.** The Gettier case, the experience machine, the zombie, the trolley. A thought experiment earns its status by isolating a variable; it loses it when the intuition it elicits is an artefact of the scenario's construction. The test is always: what is this case a case *of*, and does the intuition survive reflection and variation?
+**3. Thought experiments are probes, not proofs.** The Gettier case, the experience machine, the zombie, the trolley. A thought experiment earns its status by isolating a variable; it loses it when the intuition it elicits is an artifact of the scenario's construction. The test is always: what is this case a case *of*, and does the intuition survive reflection and variation?
 
 **4. The verdict is rarely "won" or "lost"; it is "shifted the burden" or "constrained the space."** Of the fifteen, only the logical problem of evil and the master argument are widely regarded as *refuted* in their strong forms. The rest are live, or have migrated to a more modest form, or have established a constraint that later theories must respect. Philosophical progress is mostly the accumulation of constraints, not the accumulation of proofs.
 
@@ -573,14 +573,14 @@ Reading the fifteen together reveals recurring structural features. They are wor
 5. **Construct a Gettier case of your own** that defeats a safety condition. Then construct one that defeats a sensitivity condition.
 6. **State the zombie argument in $S5$ notation.** Then identify exactly which premise each of type-A, type-B, and type-C physicalism rejects.
 7. **Make the no-miracles argument statistically precise.** Does the base-rate objection defeat it, or can the realist reply by adjusting the prior?
-8. **Distinguish the logical from the evidential problem of evil** in terms of the modal status of the key premise. Why does the Free Will Defence defeat the first but not the second?
+8. **Distinguish the logical from the evidential problem of evil** in terms of the modal status of the key premise. Why does the Free Will Defense defeat the first but not the second?
 9. **Run the open-question argument against a synthetic naturalist.** What premise must they reject, and at what cost?
 10. **Turn the companions-in-guilt argument around.** What does the error theorist say, and is the resulting global error theory believable? (See Streumer.)
 11. **Separate Rawls's maximin argument from his constructivism.** Does the failure of the first undermine the second?
 12. **Give the hedonist's best reply to the experience machine**, then give the objective-list theorist's reply to that reply.
 13. **State the Liar in T-schema form.** Then show what each of the five solutions gives up.
-14. **Distinguish Kripke's sceptical argument from Wittgenstein's own text.** Which conclusion does each support?
-15. **Reconstruct Moore's argument as a *modus ponens* and the sceptic's as a *modus tollens*.** What would settle which is the better form?
+14. **Distinguish Kripke's skeptical argument from Wittgenstein's own text.** Which conclusion does each support?
+15. **Reconstruct Moore's argument as a *modus ponens* and the skeptic's as a *modus tollens*.** What would settle which is the better form?
 
 ---
 

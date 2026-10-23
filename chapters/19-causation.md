@@ -37,9 +37,9 @@ Hume’s treatment of causation is the *foundation* of the modern debate, and it
 
 > “An object precedent and contiguous to another, and so united with it in the imagination, that the idea of the one determines the mind to form the idea of the other, and the impression of the one to form a more lively idea of the other.”
 
-**The *distinction*.** (D1) is *objective*: it *analyses* causation into *regularity*, *priority*, and *contiguity*. (D2) is *subjective*: it *analyses* the *idea* of *necessary* *connection* into the *feeling* of *determination* that *arises* when we *observe* the *regularity*.
+**The *distinction*.** (D1) is *objective*: it *analyzes* causation into *regularity*, *priority*, and *contiguity*. (D2) is *subjective*: it *analyzes* the *idea* of *necessary* *connection* into the *feeling* of *determination* that *arises* when we *observe* the *regularity*.
 
-**The *sceptical* *conclusion***. Hume *argues* that *we* *never* *observe* a *necessary* *connection* *between* *events*; we *observe* only *constant* *conjunction*. The *idea* of *necessity* is a *projection* of the *mind*, not a *feature* of the *world* (Ch. 10, §1.3).
+**The *skeptical* *conclusion***. Hume *argues* that *we* *never* *observe* a *necessary* *connection* *between* *events*; we *observe* only *constant* *conjunction*. The *idea* of *necessity* is a *projection* of the *mind*, not a *feature* of the *world* (Ch. 10, §1.3).
 
 **The *legacy*.** The *debate* *between* the *regularity* *theory* and its *rivals* is a *debate* *about* whether (D1) is *adequate* — whether the *objective* *content* of *causation* is *exhausted* by *regularity*, *priority*, and *contiguity*.
 
@@ -49,7 +49,7 @@ Hume’s treatment of causation is the *foundation* of the modern debate, and it
 
 **The *statement*.** Hume; Mill (*A System of Logic*, 1843, III.v); and, in the *contemporary* *literature*, Mackie (*The Cement of the Universe*, 1974), and — in a *sophisticated* *form* — Lewis (“A Subjectivist’s Guide to Objective Chance,” 1980) and Psillos (*Causation and Explanation*, 2002).
 
-**The *virtue*.** The *theory* is *naturalistic*: it *reduces* causation to *non-causal* *notions* (regularity, priority, contiguity), and it *fits* the *empiricist* *programme*. The *theory* is *parsimonious*: it *does* not *posit* a *mysterious* *necessary* *connection*.
+**The *virtue*.** The *theory* is *naturalistic*: it *reduces* causation to *non-causal* *notions* (regularity, priority, contiguity), and it *fits* the *empiricist* *program*. The *theory* is *parsimonious*: it *does* not *posit* a *mysterious* *necessary* *connection*.
 
 **The *objections*.**
 
@@ -57,7 +57,7 @@ Hume’s treatment of causation is the *foundation* of the modern debate, and it
 
 **(ii) The *asymmetry* *problem*.** The *regularity* *theory* is *symmetric*: if *all* $C$s are *followed* by $E$s, then *all* $E$s are *preceded* by $C$s. But *causation* is *asymmetric*: the *flagpole*’s *height* *causes* the *shadow*’s *length*, but the *shadow*’s *length* does not *cause* the *flagpole*’s *height*. The *regularity* *theory* *cannot* *distinguish* the *direction*.
 
-**(iii) The *problem* *of* *singular* *causation*.** The *regularity* *theory* *analyses* *singular* *causation* in *terms* of *general* *regularities*. But we *say* that *this* *bomb* *caused* *this* *explosion* even if *no* *other* *bomb* *ever* *exploded* (the *first* *atomic* *bomb*). The *theory* *cannot* *handle* the *singular* *case* *without* *positing* a *regularity* that *may* *not* *exist*.
+**(iii) The *problem* *of* *singular* *causation*.** The *regularity* *theory* *analyzes* *singular* *causation* in *terms* of *general* *regularities*. But we *say* that *this* *bomb* *caused* *this* *explosion* even if *no* *other* *bomb* *ever* *exploded* (the *first* *atomic* *bomb*). The *theory* *cannot* *handle* the *singular* *case* *without* *positing* a *regularity* that *may* *not* *exist*.
 
 **(iv) The *problem* *of* *complex* *causation*.** Most *causes* are *not* *sufficient* *conditions*. A *spark* does *not* *cause* *a* *fire* *by* *itself*; it *causes* the *fire* *in* *conjunction* with *oxygen*, *fuel*, and *dryness*. The *simple* *regularity* *theory* *cannot* *handle* the *conjunction*, and Mill’s *methods* (Ch. 10, §2.1) *presuppose* the *causal* *structure* they *are* *meant* to *discover*.
 
@@ -88,7 +88,7 @@ where the *cause* is *one* of the *conjuncts* ($A$) in *one* of the *sufficient*
 
 **(i) The *selection* *problem*.** The *INUS* *account* *tells* us *which* *condition* is *part* of the *sufficient* *set*, but it *does* not *tell* us *which* *condition* is *the* *cause*. The *spark*, the *oxygen*, the *fuel*, and the *dryness* are *all* *INUS* *conditions*; the *account* *cannot* *distinguish* the *cause* from the *conditions*.
 
-**The *reply*.** The *selection* is *pragmatic*: the *cause* is the *condition* that is *abnormal*, *unexpected*, or *controllable* (Hart & Honoré 1959; §8.2). The *reply* *makes* *causation* *interest-relative*, and the *relativisation* is *contested*.
+**The *reply*.** The *selection* is *pragmatic*: the *cause* is the *condition* that is *abnormal*, *unexpected*, or *controllable* (Hart & Honoré 1959; §8.2). The *reply* *makes* *causation* *interest-relative*, and the *relativization* is *contested*.
 
 **(ii) The *asymmetry* *problem*.** The *INUS* *account* is *still* *symmetric*: the *flagpole’s* *height* and the *shadow’s* *length* are *both* *INUS* *conditions* for the *other*. The *account* *cannot* *explain* the *asymmetry*.
 
@@ -154,7 +154,7 @@ $$
 
 **(ii) The *influence* *response*** (Lewis 2000, 2004). $c$ *causes* $e$ iff there is a *substantial* *range* of *alterations* to $c$ that *produce* *alterations* to $e$. The *influence* *account* *handles* *pre-emption*: *Suzy*’s *throw* *influences* the *shattering* (the *faster* the *throw*, the *more* *fragments*), even though the *occurrence* is *overdetermined*.
 
-**(iii) The *causal* *modelling* *response*** (Pearl 2000; Halpern & Pearl 2005). The *structural* *equations* *distinguish* the *actual* *cause* from the *backup*: the *equations* *encode* the *mechanism*, and the *mechanism* *selects* *Suzy*.
+**(iii) The *causal* *modeling* *response*** (Pearl 2000; Halpern & Pearl 2005). The *structural* *equations* *distinguish* the *actual* *cause* from the *backup*: the *equations* *encode* the *mechanism*, and the *mechanism* *selects* *Suzy*.
 
 **The *state* of the debate.** The *influence* *account* is the *most* *influential* *response*, and it is *contested*. The *counterfactual* *analysis* is *not* *dead*, but it is *refined*.
 
@@ -232,7 +232,7 @@ $$
 
 where $do(X = x)$ is the *intervention* *operator* (Pearl 2000): the *operation* of *setting* $X$ to $x$ *by* a *mechanism* that is *independent* of the *other* *causes* of $Y$.
 
-**The *intuition*.** Causation is the *relation* that *makes* a *difference*: the *cause* is the *thing* that, *if* you *manipulate* it, *changes* the *effect*. The *intervention* is the *idealised* *experiment* — the *experimenter*’s *manipulation* — and the *relation* is the *relation* the *experiment* *tests*.
+**The *intuition*.** Causation is the *relation* that *makes* a *difference*: the *cause* is the *thing* that, *if* you *manipulate* it, *changes* the *effect*. The *intervention* is the *idealized* *experiment* — the *experimenter*’s *manipulation* — and the *relation* is the *relation* the *experiment* *tests*.
 
 **The *formal* *apparatus*** (Pearl 2000; Spirtes, Glymour & Scheines 1993). The *structural* *causal* *model* (SCM) is a *system* of *structural* *equations*:
 
@@ -246,7 +246,7 @@ where $U$ are the *exogenous* *variables*. The *intervention* is the *operation*
 
 **(i) The *fit* with *experimental* *science*.** The *account* *fits* the *practice* of *experimental* *science*: the *experiment* is the *intervention*, and the *causal* *claim* is the *claim* that the *intervention* *changes* the *outcome*.
 
-**(ii) The *fit* with *causal* *modelling*.** The *account* *fits* the *contemporary* *causal* *inference* *literature* (Pearl, Spirtes et al., the *causal* *Bayesian* *networks*), and it *provides* a *formal* *semantics* for *causal* *claims*.
+**(ii) The *fit* with *causal* *modeling*.** The *account* *fits* the *contemporary* *causal* *inference* *literature* (Pearl, Spirtes et al., the *causal* *Bayesian* *networks*), and it *provides* a *formal* *semantics* for *causal* *claims*.
 
 **(iii) The *handling* of *pre-emption*.** The *account* *handles* *pre-emption* *better* than the *simple* *counterfactual* *analysis*: the *intervention* on the *cause* *changes* the *effect* even when a *backup* is *present* (the *structural* *equations* *distinguish* the *actual* *mechanism* from the *backup*).
 
@@ -262,11 +262,11 @@ where $U$ are the *exogenous* *variables*. The *intervention* is the *operation*
 
 **The *reply*.** The *single* *case* can be *handled* by the *counterfactual* *version* of the *account* (the *intervention* is *possible*, not *actual*), and the *counterfactual* *version* is *compatible* with the *structural* *equations*.
 
-**(iv) The *normativity* *objection*.** The *account* *presupposes* an *ideal* *experimenter* — a *being* who *can* *manipulate* *any* *variable* *without* *side* *effects* — and the *idealisation* is *not* *realised* in *practice*. The *objection* is *serious*, and the *reply* (the *idealisation* is a *regulative* *ideal*) is *contested*.
+**(iv) The *normativity* *objection*.** The *account* *presupposes* an *ideal* *experimenter* — a *being* who *can* *manipulate* *any* *variable* *without* *side* *effects* — and the *idealization* is *not* *realized* in *practice*. The *objection* is *serious*, and the *reply* (the *idealization* is a *regulative* *ideal*) is *contested*.
 
-### 3.2 The causal modelling framework
+### 3.2 The causal modeling framework
 
-The *interventionist* *account* is *developed* in the *causal* *modelling* *framework*, which is *one* of the *most* *important* *developments* in *the* *philosophy* *of* *science* in the *last* *thirty* *years*.
+The *interventionist* *account* is *developed* in the *causal* *modeling* *framework*, which is *one* of the *most* *important* *developments* in *the* *philosophy* *of* *science* in the *last* *thirty* *years*.
 
 **The *framework*** (Pearl 2000; Spirtes, Glymour & Scheines 1993; Peters, Janzing & Schölkopf 2017).
 
@@ -290,7 +290,7 @@ The *interventionist* *account* is the *descendant* of the **manipulationist** *
 
 **The *virtue*.** The *account* *captures* the *practical* *dimension* of *causal* *knowledge*: we *know* causes in order to *control* the world.
 
-**The *objection*.** The *account* *makes* causation *anthropocentric*: the *causal* *relation* *depends* on the *existence* of *agents* who *manipulate*. (The *reply*: the *manipulation* is an *idealisation*; the *causal* *relation* is *real* *independently* of *actual* *agents*, and the *manipulation* is a *test* of the *relation*, not its *constitution*.)
+**The *objection*.** The *account* *makes* causation *anthropocentric*: the *causal* *relation* *depends* on the *existence* of *agents* who *manipulate*. (The *reply*: the *manipulation* is an *idealization*; the *causal* *relation* is *real* *independently* of *actual* *agents*, and the *manipulation* is a *test* of the *relation*, not its *constitution*.)
 
 ---
 
@@ -333,7 +333,7 @@ $$
 
 The *most* *important* *contemporary* *development* of the *process* *tradition* is the **new* *mechanist*** *philosophy* *of* *science* (Machamer, Darden & Craver, “Thinking about Mechanisms,” 2000; Bechtel & Abrahamsen 2005; Craver, *Explaining the Brain*, 2007).
 
-**The *thesis*.** A *mechanism* is a *system* of *entities* and *activities* whose *organisation* *produces* a *phenomenon*. To *explain* a *phenomenon* is to *describe* the *mechanism* that *produces* it.
+**The *thesis*.** A *mechanism* is a *system* of *entities* and *activities* whose *organization* *produces* a *phenomenon*. To *explain* a *phenomenon* is to *describe* the *mechanism* that *produces* it.
 
 **The *structure*.**
 
@@ -341,7 +341,7 @@ The *most* *important* *contemporary* *development* of the *process* *tradition*
 |---|---|---|
 | **Entities** | The *components* of the mechanism | Neurons, ions, channels |
 | **Activities** | What the entities *do* | Firing, diffusing, binding |
-| **Organisation** | How the components are *arranged* | The *circuit* *structure* |
+| **Organization** | How the components are *arranged* | The *circuit* *structure* |
 | **Phenomenon** | What the mechanism *produces* | Memory, consciousness |
 
 **The *argument*.**
@@ -430,7 +430,7 @@ $$
 
 **The *normality* *account* (Hitchcock & Knobe 2009).** The *cause* is the *event* that *deviates* from the *norm*. The *account* *explains* the *Knobe* *effect* (Ch. 3, §6.3): *bad* *side* *effects* are *more* *likely* to be *called* *intentional* (and *causal*) because they *deviate* from the *norm*.
 
-**The *virtue*.** The *account* *explains* the *selection* *data*, and it *fits* the *legal* *practice*. The *account* *makes* *causation* *interest-relative*, and the *relativisation* is *contested*.
+**The *virtue*.** The *account* *explains* the *selection* *data*, and it *fits* the *legal* *practice*. The *account* *makes* *causation* *interest-relative*, and the *relativization* is *contested*.
 
 **The *state* of the debate.** The *selection* *problem* is *unresolved*, and the *accounts* are *contested*. The *most* *defensible* *position* is *pluralist*: the *selection* *depends* on the *context*, and the *context* *determines* *which* *concept* *applies*.
 
@@ -509,7 +509,7 @@ $$
 
 **The *objections*.**
 
-**(i) The *“always* *packing, never* *travelling”* *objection*** (Blackburn 1990). If *all* *properties* are *dispositional*, the *world* is a *world* of *pure* *powers* with *no* *categorical* *basis* — a *world* of *“always* *packing, never* *travelling.”* The *world* *needs* a *categorical* *ground*; otherwise the *powers* *are* *powers* *to* *do* *nothing.
+**(i) The *“always* *packing, never* *traveling”* *objection*** (Blackburn 1990). If *all* *properties* are *dispositional*, the *world* is a *world* of *pure* *powers* with *no* *categorical* *basis* — a *world* of *“always* *packing, never* *traveling.”* The *world* *needs* a *categorical* *ground*; otherwise the *powers* *are* *powers* *to* *do* *nothing.
 
 **The *reply*** (Bird 2007, Ch. 5). The *“packing”* *metaphor* *misdescribes* the *view*. The *powers* are *not* *pure* *potentialities*; they are *real* *properties* *that* *manifest* in *certain* *circumstances*. The *manifestation* is *real*, and the *world* is *not* *less* *real* for *being* *dispositional*.
 
@@ -593,7 +593,7 @@ $$
 
 **The *thesis*.** The *laws* are *relations* of *necessitation* between *universals* (Armstrong 1983; Dretske 1977; Tooley 1977).
 
-**The *structure*.** The *law* “all $F$s are $G$” is *analysed* as:
+**The *structure*.** The *law* “all $F$s are $G$” is *analyzed* as:
 
 $$
 N(F, G)
@@ -755,7 +755,7 @@ $$
 - **The counterfactual theory captures the difference-making intuition.** The *analysis* is *elegant*, and it is *refined* by the *influence* *account*.
 - **The process theory captures the production intuition.** The *analysis* *fits* the *physical* *sciences*, and it is *refined* by the *mechanism* *theory*.
 - **The pluralism is the most defensible position.** The *two* *concepts* — *difference-making* and *production* — are *distinct*, *irreducible*, and *both* *legitimate*.
-- **The interventionist framework is the most influential.** The *causal* *modelling* *literature* has *transformed* the *philosophy* of *science* and the *social* *sciences*.
+- **The interventionist framework is the most influential.** The *causal* *modeling* *literature* has *transformed* the *philosophy* of *science* and the *social* *sciences*.
 - **The laws debate is unresolved.** The *Humean*, *necessitarian*, *dispositionalist*, and *primitivist* *accounts* are *all* *live*.
 
 ### 9.2 What is open
@@ -819,9 +819,9 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 - **Hume’s legacy** is the *regularity* *theory*: causation is *constant* *conjunction* + *priority* + *contiguity*. The *theory* is *naturalistic* and *parsimonious*, but it *fails* for *accidental* *regularities*, *asymmetry*, *singular* *causation*, and *complex* *causation*.
 - **Mackie’s INUS** *account* *refines* the *regularity* *theory*: the *cause* is an *insufficient* but *non-redundant* part of an *unnecessary* but *sufficient* *condition*. The *account* *handles* *complex* *causation*, but it *does* not *solve* the *selection* *problem*.
-- **The counterfactual theory** (Lewis) *analyses* causation as *counterfactual* *dependence*. It *captures* the *difference-making* *intuition*, but it *fails* for *pre-emption*, *overdetermination*, and the *asymmetry*. The *influence* *account* (Lewis 2000, 2004) *refines* the *analysis*.
-- **Interventionism** (Woodward, Pearl) *analyses* causation as *manipulability*: $X$ *causes* $Y$ iff an *intervention* on $X$ *changes* $Y$. The *account* *fits* *experimental* *science* and *causal* *modelling*, but it *faces* the *circularity* and *single-case* *objections*.
-- **Process and mechanism theories** (Salmon, Dowe, Machamer et al.) *analyse* causation as *production*: the *transmission* of a *mark* or a *conserved* *quantity* along a *causal* *process*. The *account* *handles* the *production* *intuition*, but it *fails* for *omissions* and *quantum* *mechanics*.
+- **The counterfactual theory** (Lewis) *analyzes* causation as *counterfactual* *dependence*. It *captures* the *difference-making* *intuition*, but it *fails* for *pre-emption*, *overdetermination*, and the *asymmetry*. The *influence* *account* (Lewis 2000, 2004) *refines* the *analysis*.
+- **Interventionism** (Woodward, Pearl) *analyzes* causation as *manipulability*: $X$ *causes* $Y$ iff an *intervention* on $X$ *changes* $Y$. The *account* *fits* *experimental* *science* and *causal* *modeling*, but it *faces* the *circularity* and *single-case* *objections*.
+- **Process and mechanism theories** (Salmon, Dowe, Machamer et al.) *analyze* causation as *production*: the *transmission* of a *mark* or a *conserved* *quantity* along a *causal* *process*. The *account* *handles* the *production* *intuition*, but it *fails* for *omissions* and *quantum* *mechanics*.
 - **Causal pluralism** is the *most* *defensible* *position*: the *difference-making* and *production* *concepts* are *distinct*, *irreducible*, and *both* *legitimate*. The *selection* of the *cause* from the *conditions* is *interest-relative* (Hart & Honoré; Hitchcock & Knobe).
 - **Dispositions and powers**: the *dispositionalist* *holds* that *fundamental* *properties* are *powers*; the *categoricalist* *holds* that *they* are *qualitative* *features* *grounding* the *powers*. The *debate* is *connected* to the *theory* of *laws*.
 - **Laws of nature**: the *Humean* *best-system* *account* *reduces* the *laws* to *regularities*; the *necessitarian* *account* *posits* a *relation* of *necessitation* *between* *universals*; the *dispositionalist* *account* *grounds* the *laws* in *essences*; the *primitivist* *account* *treats* the *laws* as *primitive*.
@@ -862,7 +862,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 - **On the counterfactual theory**: David Lewis, “Causation” (1973), “Counterfactual Dependence and Time’s Arrow” (1979), and “Causation as Influence” (2000/2004); the *essays* in *Causation and Counterfactuals* (ed. Collins, Hall, and Paul, 2004); Jonathan Schaffer, “Trumping Preemption” (2000), and “Contrastive Causation” (2005).
 - **On interventionism**: James Woodward, *Making Things Happen* (2003), and “Interventionism” (2008); Judea Pearl, *Causality* (2nd ed., 2009); Peter Spirtes, Clark Glymour, and Richard Scheines, *Causation, Prediction, and Search* (2nd ed., 2000); Jonas Peters, Dominik Janzing, and Bernhard Schölkopf, *Elements of Causal Inference* (2017).
 - **On process and mechanism**: Wesley Salmon, *Scientific Explanation and the Causal Structure of the World* (1984), and “Causality without Counterfactuals” (1994); Phil Dowe, *Physical Causation* (2000); Peter Machamer, Lindley Darden, and Carl Craver, “Thinking about Mechanisms” (2000); Carl Craver, *Explaining the Brain* (2007); William Bechtel and Adele Abrahamsen, “Explanation: A Mechanist Alternative” (2005).
-- **On pluralism**: Nancy Cartwright, *Hunting Causes and Using Them* (2007), and *Nature’s Capacities and Their Measurement* (1989); Peter Godfrey-Smith, “Causal Pluralism” (2009); Ned Hall, “Two Concepts of Causation” (2004), in *Causation and Counterfactuals*; Christopher Hitchcock, “Causation and Mechanisms” (2012); the *Stanford Encyclopedia* entry, “Causation: Probabilistic and Counterfactual Analyses” (Hitchcock).
+- **On pluralism**: Nancy Cartwright, *Hunting Causes and Using Them* (2007), and *Nature’s Capacities and Their Measurement* (1989); Peter Godfrey-Smith, “Causal Pluralism” (2009); Ned Hall, “Two Concepts of Causation” (2004), in *Causation and Counterfactuals*; Christopher Hitchcock, “Causation and Mechanisms” (2012); the *Stanford Encyclopedia* entry, “Causation: Probabilistic and Counterfactual analyses” (Hitchcock).
 - **On causal selection**: H. L. A. Hart and Tony Honoré, *Causation in the Law* (2nd ed., 1985); Denis Hilton and Ben Slugoski, “Knowledge-Based Causal Attribution” (1986); Christopher Hitchcock and Joshua Knobe, “Cause and Norm” (2009); the *essays* in *Causation and Normativity* (ed. Kistler, 2013).
 - **On dispositions and powers**: Stephen Mumford, *Dispositions* (1998); Alexander Bird, *Nature’s Metaphysics* (2007); Brian Ellis, *Scientific Essentialism* (2001); George Molnar, *Powers* (2003); Simon Blackburn, “Filling in Space” (1990); David Lewis, “Ramseyan Humility” (2009), in *The Nature of the World* (ed. Braddon-Mitchell and Nola, 2009).
 - **On laws of nature**: David Armstrong, *What Is a Law of Nature?* (1983); Fred Dretske, “Laws of Nature” (1977); Michael Tooley, “The Nature of Laws” (1977); Bas van Fraassen, *Laws and Symmetry* (1989); David Lewis, “A Subjectivist’s Guide to Objective Chance” (1980), and “Humean Supervenience Debugged” (1994); Tim Maudlin, *The Metaphysics within Physics* (2007); the *Stanford Encyclopedia* entry, “Laws of Nature” (Carroll).

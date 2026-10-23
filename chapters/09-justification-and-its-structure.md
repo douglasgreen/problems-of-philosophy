@@ -14,7 +14,7 @@ These questions are the subject of this chapter. They are older than the Gettier
 
 The chapter proceeds in eight movements. §1 states the regress problem and the trilemma it generates. §2 examines foundationalism, the oldest and most intuitive response, and the Sellarsian dilemma that threatens it. §3 examines coherentism, the holistic alternative, and the isolation objection that threatens it. §4 examines reliabilism, the naturalistic alternative, and the generality problem that threatens it. §5 examines the internalism/externalism debate, which cuts across the other three, along with the evidentialist conception of justification that most of the debate presupposes, the challenge of pragmatic encroachment, and the deontological conception of responsibility. §6 examines defeasibility, the logic of defeat, and the structure of epistemic reasons. §7 examines virtue epistemology, the most recent synthesis, and the responsibility condition. §8 gives an honest verdict on the state of the debate.
 
-The connecting thread is a single question: **what is the relation between a belief and the reasons for it?** Every theory answers this question differently, and the answers determine what can be said about knowledge, scepticism, and the value of inquiry.
+The connecting thread is a single question: **what is the relation between a belief and the reasons for it?** Every theory answers this question differently, and the answers determine what can be said about knowledge, skepticism, and the value of inquiry.
 
 ---
 
@@ -40,11 +40,11 @@ $$
 \end{array}
 $$
 
-The trilemma is a genuine *trilemma*, not a dilemma: the three horns are distinct, and none of them is simply a version of another. But for anyone who accepts the principle of sufficient reason for belief, the horns are not equally available — two of them (infinitism and coherentism) are ruled out by considerations the sceptic shares, and the third (foundationalism) is available only if the principle is relaxed at the base. Each option has a cost. The question is which cost is acceptable.
+The trilemma is a genuine *trilemma*, not a dilemma: the three horns are distinct, and none of them is simply a version of another. But for anyone who accepts the principle of sufficient reason for belief, the horns are not equally available — two of them (infinitism and coherentism) are ruled out by considerations the skeptic shares, and the third (foundationalism) is available only if the principle is relaxed at the base. Each option has a cost. The question is which cost is acceptable.
 
 ### 1.2 Infinitism
 
-**Infinitism** is the view that the chain of reasons is infinite, and that this is not a defect. The view is associated with Peter Klein (1999, 2007) and, in a different form, with the Pyrrhonian sceptics.
+**Infinitism** is the view that the chain of reasons is infinite, and that this is not a defect. The view is associated with Peter Klein (1999, 2007) and, in a different form, with the Pyrrhonian skeptics.
 
 **The argument.** The regress is not vicious if the requirement is not that the chain be *completed*, but that it be *available*. A belief is justified if, for every reason that supports it, there is a further reason available (not necessarily *had*). Justification is a **dispositional** property: the subject is justified if she *could* produce the reasons, not if she has actually produced them.
 
@@ -136,7 +136,7 @@ The classical picture has been refined in response to its problems. The main ver
 | Version | What makes a belief basic | Proponents | Problem |
 |---|---|---|---|
 | **Classical (strong) foundationalism** | The belief is self-evident or infallible | Descartes; Chisholm (1966) | The class of basic beliefs is too narrow; the inference to the superstructure is too strong |
-| **Modest foundationalism** | The belief is non-inferentially justified, but fallible | Chisholm (1977); Audi (1993) | The “non-inferential” justification is hard to characterise |
+| **Modest foundationalism** | The belief is non-inferentially justified, but fallible | Chisholm (1977); Audi (1993) | The “non-inferential” justification is hard to characterize |
 | **Experiential foundationalism** | The belief is caused by an experience, and the experience justifies it | Pollock (1986); Pryor (2000) | The Sellarsian dilemma (§2.4) |
 | **Externalist foundationalism** | The belief is produced by a reliable process, and it is basic in the sense that it does not depend on other beliefs | Plantinga (1993); Bergmann (2006) | The generality problem (§4.3) |
 | **Phenomenal conservatism** | The belief is justified by a *seeming* | Huemer (2001, 2005) | The permissiveness objection |
@@ -153,7 +153,7 @@ The classical foundationalist has three arguments for the existence of a foundat
 
 **(iii) The phenomenological argument.** Some beliefs are *self-evidently* justified: they carry their justification with them, and no further reason is needed. The belief that I am in pain, the belief that $2+2=4$, the belief that I seem to see a red patch — these are the paradigms.
 
-The arguments are not decisive. The regress argument is only as strong as the denial of infinitism and coherentism; the structural argument is a metaphor, not an argument; the phenomenological argument is contestable (the self-evidence of the cogito is exactly what the sceptic denies).
+The arguments are not decisive. The regress argument is only as strong as the denial of infinitism and coherentism; the structural argument is a metaphor, not an argument; the phenomenological argument is contestable (the self-evidence of the cogito is exactly what the skeptic denies).
 
 ### 2.4 The Sellarsian dilemma
 
@@ -218,7 +218,7 @@ A distinct version of foundationalism, due to Thomas Reid (1764) and developed b
 
 **The view.** The basic beliefs are not the narrow class of self-evident truths; they are the broad class of beliefs that human beings form spontaneously: the belief in an external world, the belief in other minds, the belief in the uniformity of nature, the belief in the reliability of memory. These beliefs are justified because they are the products of faculties that are *designed* (by God, or by evolution) to produce true beliefs in the environment for which they were designed.
 
-**The argument.** The alternative — that these beliefs are not justified — is self-defeating, because the sceptic’s argument relies on the same faculties. If the faculties are unreliable, the sceptic’s argument is unreliable too.
+**The argument.** The alternative — that these beliefs are not justified — is self-defeating, because the skeptic’s argument relies on the same faculties. If the faculties are unreliable, the skeptic’s argument is unreliable too.
 
 **The objection.** The “proper function” condition is speculative: it requires a design plan, and the design plan is not empirically accessible. The evolutionary version (Plantinga’s later work) is even more speculative, and it is the subject of the “evolutionary argument against naturalism” (Ch. 3, §5.2), which is contested.
 
@@ -334,7 +334,7 @@ The view is *naturalistic*: it treats justification as a fact about the world (t
 
 **(ii) The “naturalistic” argument.** Justification is a natural phenomenon: it is a property of cognitive systems, and it can be studied by the sciences. The reliabilist offers a naturalistic account of the property.
 
-**(iii) The “anti-sceptical” argument.** The reliabilist can respond to the sceptic (Ch. 6, §6.3) by arguing that our perceptual processes are reliable, and that reliability is sufficient for justification. The response is not a *refutation* of the sceptic, but a *reconceptualisation* of the problem.
+**(iii) The “anti-skeptical” argument.** The reliabilist can respond to the skeptic (Ch. 6, §6.3) by arguing that our perceptual processes are reliable, and that reliability is sufficient for justification. The response is not a *refutation* of the skeptic, but a *reconceptualization* of the problem.
 
 ### 4.3 The generality problem
 
@@ -358,7 +358,7 @@ The description determines the verdict, and the description is **underdetermined
 
 **(iii) The “dispositional” solution.** The relevant process is the *disposition* that the subject exercises — the general capacity, not the particular token. The solution is intuitive, but the notion of a “disposition” is vague, and the vagueness is the problem.
 
-**(iv) The “no solution” response.** Some reliabilists treat the problem as a *research question* rather than a refutation: the theory is a *research programme* (Goldman 1986), and the generality problem is one of its open tasks. The response is honest, but it concedes that the theory is incomplete.
+**(iv) The “no solution” response.** Some reliabilists treat the problem as a *research question* rather than a refutation: the theory is a *research program* (Goldman 1986), and the generality problem is one of its open tasks. The response is honest, but it concedes that the theory is incomplete.
 
 The generality problem is the reason reliabilism is often combined with **virtue epistemology** (§7): the virtue is the stable disposition of the agent, and the disposition is the relevant process. Whether this solves the problem is contested.
 
@@ -427,7 +427,7 @@ The map:
 | **Proper functionalism** | The proper functioning of the faculties | No | Plantinga |
 | **Virtue epistemology** | The exercise of competence | Partial | Sosa, Zagzebski |
 
-The debate is important because it determines the response to the sceptic (Ch. 6, §6.3), the analysis of knowledge (Ch. 7, §1.4), and the theory of the value of knowledge (Ch. 7, §7).
+The debate is important because it determines the response to the skeptic (Ch. 6, §6.3), the analysis of knowledge (Ch. 7, §1.4), and the theory of the value of knowledge (Ch. 7, §7).
 
 ### 5.2 Evidentialism
 
@@ -519,7 +519,7 @@ where $J(p)$ is the prima facie justification, $D(p)$ is the presence of a defea
 
 **The defeater-of-defeater problem.** If a defeater is itself defeasible, then a defeater-of-defeater can restore the justification. The structure is *recursive*, and the recursion can be infinite.
 
-The problem: does the recursion terminate? If it does, there is a *foundation* of defeaters (a defeater that cannot be defeated), which is a version of foundationalism. If it does not, the justification is never all-things-considered, which is a version of scepticism.
+The problem: does the recursion terminate? If it does, there is a *foundation* of defeaters (a defeater that cannot be defeated), which is a version of foundationalism. If it does not, the justification is never all-things-considered, which is a version of skepticism.
 
 **The proposed solutions.**
 
@@ -535,7 +535,7 @@ The defeasibility theory is important for the analysis of knowledge (Ch. 7, §3.
 
 The condition is meant to exclude the Gettier cases (the defeater is the fact that the evidence is misleading), and it is meant to be *internal* to the subject’s epistemic situation.
 
-The objection: the condition is too strong, because there is almost always *some* true proposition that would undermine the justification (the sceptical hypothesis, the possibility of error). The restriction of the condition to *relevant* defeaters is the standard reply, and the restriction is the same as the generality problem.
+The objection: the condition is too strong, because there is almost always *some* true proposition that would undermine the justification (the skeptical hypothesis, the possibility of error). The restriction of the condition to *relevant* defeaters is the standard reply, and the restriction is the same as the generality problem.
 
 ### 6.5 The “epistemic” conception of defeat
 
@@ -657,13 +657,13 @@ The chapter is a case study in the method of Part I.
 - **Formalization** (§3 of Ch. 3) — the non-monotonic logic of defeat — is essential for the defeasibility theory.
 - **Reflective equilibrium** (§4 of Ch. 3) is the method by which the theories and the intuitions are adjusted.
 - **The criteria of a good theory** (Ch. 4, §3) — simplicity, fertility, explanatory power — are the criteria by which the theories are assessed.
-- **Negative capability** (§7 of Ch. 3) is the response of the sceptic: the problem may be a pseudo-problem, generated by a false assumption about the nature of justification.
+- **Negative capability** (§7 of Ch. 3) is the response of the skeptic: the problem may be a pseudo-problem, generated by a false assumption about the nature of justification.
 
 The honest verdict: the theory of justification is a **field in transition**. The classical theories are untenable; the contemporary theories are promising but incomplete; the debate is unresolved. The unresolved character is *instructive*: it shows what philosophical progress looks like — not a settled answer, but a sharper understanding of what the question is, and of what would count as an answer.
 
 ### 8.4 The dialectical map
 
-The chapter’s conclusion can be summarised in a table.
+The chapter’s conclusion can be summarized in a table.
 
 | Theory | Core idea | Solves the regress? | Main problem | Status |
 |---|---|---|---|---|
@@ -683,11 +683,11 @@ The table is a map, not a verdict. The reader who wants to choose a theory must 
 
 Cross-cutting material, for the reader who wants to go deeper.
 
-**1. The Bayesian structure of justification.** The Bayesian framework (Ch. 10, §4) offers a *formal* account of justification: a belief is justified if it is the result of conditionalising on the evidence. The account is *internalist* (the evidence is the subject’s) and *holistic* (the justification depends on the prior and the likelihood). The debate about the priors (Ch. 10, §5) is the Bayesian version of the regress.
+**1. The Bayesian structure of justification.** The Bayesian framework (Ch. 10, §4) offers a *formal* account of justification: a belief is justified if it is the result of conditionalizing on the evidence. The account is *internalist* (the evidence is the subject’s) and *holistic* (the justification depends on the prior and the likelihood). The debate about the priors (Ch. 10, §5) is the Bayesian version of the regress.
 
 **2. The “epistemic” conception of defeat and the “reasons” tradition.** The debate between the “reasons” tradition (internalism) and the “reliability” tradition (externalism) is the deepest divide in the field. The “epistemic” conception of defeat (Bergmann, Pryor) is the most promising attempt to bridge it.
 
-**3. Epistemic injustice and the structure of justification.** Fricker (2007) argues that the theory of justification has neglected the *social* conditions of justification: whose evidence is *heard*, whose testimony is *believed*, whose competence is *recognised*. The virtue tradition has begun to incorporate this (Ch. 11, §4), but the theory of justification has not yet fully absorbed it.
+**3. Epistemic injustice and the structure of justification.** Fricker (2007) argues that the theory of justification has neglected the *social* conditions of justification: whose evidence is *heard*, whose testimony is *believed*, whose competence is *recognized*. The virtue tradition has begun to incorporate this (Ch. 11, §4), but the theory of justification has not yet fully absorbed it.
 
 **4. Non-Western epistemologies of justification.** The Indian *pramāṇa* tradition developed a sophisticated theory of justification that anticipates many of the contemporary debates: the *svataḥ prāmāṇya* (self-validity) debate about the default status of cognition, the *parataḥ prāmāṇya* (external validity) debate about the need for external confirmation, and the *khyāti* (error) theories. The debate between the *svataḥ* and *parataḥ* views is a version of the foundationalism/coherentism debate, and it is worth studying as a systematic alternative (see Matilal 1986; Ganeri 2001).
 

@@ -20,7 +20,7 @@ This appendix is a **translation manual**, not a logic course. It exists because
 
 Two warnings, both from the book’s own methodology.
 
-**First, formalization is an instrument, not a credential.** Writing an argument in symbols does not make it good; it makes it *visible*. The most common failure of formal work in philosophy is not a mistake in the algebra but a mistake in the translation — the symbolization of a claim that the author did not mean. Chapter 35, §6 catalogues the abuses; the first is the substitution of a tractable formula for a difficult thought.
+**First, formalization is an instrument, not a credential.** Writing an argument in symbols does not make it good; it makes it *visible*. The most common failure of formal work in philosophy is not a mistake in the algebra but a mistake in the translation — the symbolization of a claim that the author did not mean. Chapter 35, §6 catalogs the abuses; the first is the substitution of a tractable formula for a difficult thought.
 
 **Second, the formalism cuts both ways.** The chapters on logic and mathematics (Chs. 35–36, 43) argue that logic is *revisable* and that its epistemology is contested. So this appendix should be read as a set of *working conventions*, not as a metaphysically privileged notation. Where the conventions are controversial — the material conditional, the classical treatment of vagueness, the standard semantics for counterfactuals — the text says so and points to the chapter where the controversy is aired.
 
@@ -88,7 +88,7 @@ Four definitions follow, and they are the ones the book uses throughout.
 | **Equivalence** $\phi \equiv \psi$ | $\models \phi \leftrightarrow \psi$ | – |
 | **Consistency** | Some valuation makes all of $\Gamma$ true | Ch. 2, §2 |
 
-**Two equivalences worth memorising.** *De Morgan*:
+**Two equivalences worth memorizing.** *De Morgan*:
 
 $$
 \neg(\phi \wedge \psi) \equiv \neg\phi \vee \neg\psi, \qquad \neg(\phi \vee \psi) \equiv \neg\phi \wedge \neg\psi
@@ -108,7 +108,7 @@ $$
 \Gamma \models \phi \iff \Gamma \cup \{\neg\phi\} \text{ is inconsistent} \iff \models (\textstyle\bigwedge\Gamma) \to \phi
 $$
 
-The first equivalence is the basis of **reductio ad absurdum**; the second is the basis of **conditional proof**. Both are used constantly in the chapters on scepticism (Ch. 6), on the criterion (Ch. 13), and on religion (Ch. 50).
+The first equivalence is the basis of **reductio ad absurdum**; the second is the basis of **conditional proof**. Both are used constantly in the chapters on skepticism (Ch. 6), on the criterion (Ch. 13), and on religion (Ch. 50).
 
 **Compactness** (propositional and first-order): if every finite subset of $\Gamma$ is consistent, $\Gamma$ is consistent. This is the theorem behind the Löwenheim–Skolem results (§3.6) and behind some of the puzzles about infinite belief sets.
 
@@ -169,7 +169,7 @@ The truth table gives $\phi \to \psi$ the value $F$ only when $\phi$ is true and
 | **Paradoxes of implication** | $p \to (q \to p)$ is a tautology | Any true proposition follows from any proposition |
 | **The conditional's tautology** | $(p \to q) \vee (q \to p)$ is a tautology | Of any two indicative conditionals, one is true |
 
-The moral is not that the material conditional is wrong; it is that *it formalises one sense of “if”* — the sense in which “if $\phi$ then $\psi$” is refuted only by $\phi$-true-$\psi$-false. Chapter 37 is about the other senses: indicative conditionals, counterfactuals, causal conditionals, and the semantics of “because.” Chapter 35, §5 discusses whether a **relevant** logic (which rejects $p \to (q \to p)$) is the right response. For most philosophical purposes the material conditional is what you want; the skill is knowing when it is not.
+The moral is not that the material conditional is wrong; it is that *it formalizes one sense of “if”* — the sense in which “if $\phi$ then $\psi$” is refuted only by $\phi$-true-$\psi$-false. Chapter 37 is about the other senses: indicative conditionals, counterfactuals, causal conditionals, and the semantics of “because.” Chapter 35, §5 discusses whether a **relevant** logic (which rejects $p \to (q \to p)$) is the right response. For most philosophical purposes the material conditional is what you want; the skill is knowing when it is not.
 
 ### 2.6 Valid forms and invalid forms
 
@@ -526,7 +526,7 @@ $$
 \underbrace{\frac{P(H \mid E)}{P(\neg H \mid E)}}_{\text{posterior odds}} = \underbrace{\frac{P(E \mid H)}{P(E \mid \neg H)}}_{\text{likelihood ratio}} \times \underbrace{\frac{P(H)}{P(\neg H)}}_{\text{prior odds}}
 $$
 
-The likelihood ratio is the *diagnostic* quantity: $> 1$ favours $H$, $< 1$ disfavours it, $= 1$ is irrelevant. The distinction between $P(E \mid H)$ and $P(H \mid E)$ is the single most important probabilistic distinction in applied philosophy, and its violation has a name (§6.5).
+The likelihood ratio is the *diagnostic* quantity: $> 1$ favors $H$, $< 1$ disfavors it, $= 1$ is irrelevant. The distinction between $P(E \mid H)$ and $P(H \mid E)$ is the single most important probabilistic distinction in applied philosophy, and its violation has a name (§6.5).
 
 ### 6.4 Interpretations
 
@@ -536,10 +536,10 @@ The axioms do not tell you what probability *is*. The four standard answers:
 |---|---|---|
 | **Frequentist** | The limiting relative frequency in a reference class | The reference class problem; single-case probabilities |
 | **Propensity** | A disposition of the setup to produce the outcome | The meaning of the disposition; indeterminism |
-| **Subjective** (Bayesian) | A degree of belief, rationalised by coherence | The problem of the priors; unconstrained priors |
+| **Subjective** (Bayesian) | A degree of belief, rationalized by coherence | The problem of the priors; unconstrained priors |
 | **Logical** | A degree of entailment, or of support | The problem of the null confirmation; language dependence |
 
-The subjective interpretation is the one this book uses most, because it is the one that models *inference*. Its classic defence is the **Dutch book argument**: if your degrees of belief violate the axioms, there is a set of bets, each of which you regard as fair, which guarantees you a loss. Coherence is thus a requirement of practical rationality.
+The subjective interpretation is the one this book uses most, because it is the one that models *inference*. Its classic defense is the **Dutch book argument**: if your degrees of belief violate the axioms, there is a set of bets, each of which you regard as fair, which guarantees you a loss. Coherence is thus a requirement of practical rationality.
 
 The argument has two standard objections, and you should know both. (i) It assumes that your betting dispositions *are* your credences and that utility is linear in money; if you are risk-averse, or if money has diminishing marginal utility, incoherent credences need not be exploitable. (ii) It establishes *pragmatic* rationality, not *epistemic* rationality; the modern alternative — **accuracy-first epistemology** (Joyce, Greaves, Wallace) — argues directly that credences should be as *accurate* as possible, and derives the axioms from a scoring rule. Chapter 10, §4–5 examines the debate.
 
@@ -547,7 +547,7 @@ The argument has two standard objections, and you should know both. (i) It assum
 
 | The *fallacy* | The *error* | The *example* |
 |---|---|---|
-| **Base-rate neglect** | Ignoring the prior in favour of the likelihood | The medical test (§7.3) |
+| **Base-rate neglect** | Ignoring the prior in favor of the likelihood | The medical test (§7.3) |
 | **Prosecutor’s fallacy** | Confusing $P(E \mid I)$ with $P(I \mid E)$ | The DNA match (§7.3) |
 | **Conjunction fallacy** | Judging $P(A \wedge B) > P(A)$ | The Linda case |
 | **Gambler’s fallacy** | Believing that independent trials self-correct | “Red is due” |
@@ -564,7 +564,7 @@ The probability calculus gives the *logic* of confirmation, but not yet a *theor
 |---|---|---|
 | **Hypothetico-deductivism** | $H$ is confirmed by $E$ if $H \models E$ | The raven paradox; irrelevant conjunctions |
 | **Bayesianism** | $H$ is confirmed by $E$ if $P(H \mid E) > P(H)$ | Priors; the catch-all; old evidence |
-| **Likelihoodism** | The evidence favours $H_1$ over $H_2$ iff $P(E \mid H_1) > P(E \mid H_2)$ | The law of likelihood; the stopping rule |
+| **Likelihoodism** | The evidence favors $H_1$ over $H_2$ iff $P(E \mid H_1) > P(E \mid H_2)$ | The law of likelihood; the stopping rule |
 | **Falsificationism** | Science proceeds by conjecture and refutation | Duhem–Quine; the theory-ladenness of observation |
 
 Chapter 40, §1–5 works through these; the point to carry away is that *confirmation is not deducible from the axioms* — the axioms tell you how to update, not what to count as evidence — and that the disputes about priors and catch-alls are the live edge of the field.
@@ -581,7 +581,7 @@ $$
 P_{\text{new}}(H) = P_{\text{old}}(H \mid E)
 $$
 
-The **Jeffrey conditionalization** generalises to uncertain learning: if your credence in $E$ goes from $P(E)$ to $q$, then
+The **Jeffrey conditionalization** generalizes to uncertain learning: if your credence in $E$ goes from $P(E)$ to $q$, then
 
 $$
 P_{\text{new}}(H) = q \cdot P_{\text{old}}(H \mid E) + (1-q) \cdot P_{\text{old}}(H \mid \neg E)
@@ -597,7 +597,7 @@ $$
 \frac{P(H \mid E)}{P(\neg H \mid E)} = \frac{P(E \mid H)}{P(E \mid \neg H)} \times \frac{P(H)}{P(\neg H)}
 $$
 
-The virtue of the form is that it *localises* the dispute. When someone claims that the evidence strongly favours $H$, you can ask: which factor? Is the likelihood ratio large, or is the prior doing the work? And you can test the claim by varying the factor you think is contested. This is exactly what Chapter 50, §2.7 does with the cumulative case for theism.
+The virtue of the form is that it *localizes* the dispute. When someone claims that the evidence strongly favors $H$, you can ask: which factor? Is the likelihood ratio large, or is the prior doing the work? And you can test the claim by varying the factor you think is contested. This is exactly what Chapter 50, §2.7 does with the cumulative case for theism.
 
 ### 7.3 Worked examples
 
@@ -629,11 +629,11 @@ The Bayesian apparatus is the most-used formal tool in contemporary analytic phi
 
 The probability calculus becomes a theory of *action* when you add utilities.
 
-**Expected utility**: $EU(a) = \sum_i P(s_i) \, U(a, s_i)$, and the rule is: maximise $EU$.
+**Expected utility**: $EU(a) = \sum_i P(s_i) \, U(a, s_i)$, and the rule is: maximize $EU$.
 
 | The *rule* | The *content* | The *use* |
 |---|---|---|
-| **Maximise expected utility** | Choose the act with the highest expected utility | The default; the von Neumann–Morgenstern axioms |
+| **Maximize expected utility** | Choose the act with the highest expected utility | The default; the von Neumann–Morgenstern axioms |
 | **Maximin** | Choose the act whose worst outcome is best | Existential risk; Rawlsian choice (Ch. 47, §3) |
 | **Maximax** | Choose the act whose best outcome is best | The gambler’s rule; rarely defensible |
 | **Minimax regret** | Choose the act whose worst regret is least | Some policy contexts |
@@ -668,7 +668,7 @@ Work them before looking at §10. The exercises are graded: §9.1–§9.4 are pr
 
 ### 9.1 Propositional (1–8)
 
-**1.** Formalize: “If it rains and the match is not cancelled, we will get wet.”
+**1.** Formalize: “If it rains and the match is not canceled, we will get wet.”
 
 **2.** Construct the truth table for $(p \to q) \vee (q \to p)$ and classify it.
 
@@ -740,7 +740,7 @@ Work them before looking at §10. The exercises are graded: §9.1–§9.4 are pr
 
 ## §10 The Answers
 
-**1.** With $R$ = it rains, $C$ = the match is cancelled, $W$ = we get wet: $(R \wedge \neg C) \to W$. The scope matters: the sentence does not say “if it rains, and if the match is not cancelled, then we get wet” in the sense of three independent claims.
+**1.** With $R$ = it rains, $C$ = the match is canceled, $W$ = we get wet: $(R \wedge \neg C) \to W$. The scope matters: the sentence does not say “if it rains, and if the match is not canceled, then we get wet” in the sense of three independent claims.
 
 **2.**
 
@@ -825,7 +825,7 @@ so $P(A^c) = 1 - P(A)$.
 
 **28.** $P(E) = 0.8(0.4) + 0.2(0.6) = 0.32 + 0.12 = 0.44$; $P(H \mid E) = 0.32/0.44 \approx 0.727$.
 
-**29.** If your degrees of belief violate the probability axioms, there is a set of bets, each of which you regard as fair, which guarantees you a loss; so coherence requires the axioms (Ramsey, de Finetti). Objection: the argument assumes that betting dispositions are credences and that utility is linear in money, and it establishes pragmatic rather than epistemic rationality; the accuracy-first programme is the modern alternative (§6.4).
+**29.** If your degrees of belief violate the probability axioms, there is a set of bets, each of which you regard as fair, which guarantees you a loss; so coherence requires the axioms (Ramsey, de Finetti). Objection: the argument assumes that betting dispositions are credences and that utility is linear in money, and it establishes pragmatic rather than epistemic rationality; the accuracy-first program is the modern alternative (§6.4).
 
 **30.** EV(A) $= 0.5 \times 100 + 0.5 \times 0 = 50$; EV(B) $= 60$. B has the higher EV. The answer does **not** settle what to do: risk aversion, the diminishing marginal utility of money, maximin (if the downside is catastrophic), and the precautionary principle can all recommend otherwise. A perfect free test is worth up to $\$20$: the informed strategy yields $0.5 \times 100 + 0.5 \times 60 = 80$, which is $20$ more than the best uninformed choice.
 

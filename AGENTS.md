@@ -49,7 +49,7 @@ Three uses only, as §7 of the Introduction states: a technical term **on its fi
 ### Pronouns and spelling
 
 - The generic agent is *she/her* in a little over half the cases and *he/his* in the rest, alternating **by chapter**, not by sentence.
-- British English: -ise/-isation (formalisation, recognise), behaviour, defence, centre, sceptical, programme, licence (noun) / practise (verb) / practice (noun), labour, analyse, judgment (rarely judgement).
+- American English: -ize/-ization (formalization, recognize), behavior, defense, center, skeptical, program, license (noun) / practice (verb) / practice (noun), labor, analyze, judgment. American spellings are the house style everywhere in the book’s own prose, including headings, tables, and formulas. The one exception is quoted material and citations: a quotation keeps the spelling of the source, and a title keeps the spelling of the work. So Hume’s *Enquiry*, Moore’s “A Defence of Common Sense,” and Lakatos’s “Research Programmes” are left alone, while the prose around them is American.
 - No footnotes anywhere. Citations live in parentheses in the body and in the Further Reading list.
 
 ### The shape of a chapter

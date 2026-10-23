@@ -19,7 +19,7 @@
 
 Chapter 51 examined the *application* — the *case*, the *decision*, the *stakes*. This chapter examines the *record* — *what* the *discipline* has *established*, *dissolved*, *failed* to *settle*, and *mis*-*posed*, and *what* the *answer* *implies* for the *authority* of the *whole*.
 
-The *transition* is the *inversion* of the *applied* *turn*. The *applied* *ethics* *tests* the *theory* *by* the *case* (§51.1); the *meta*-*question* *tests* the *enterprise* *by* its *record* (the *no* *mere* *case*). The *applied* *ethicist* *acts* *inside* the *doubt* (§51.8); the *meta*-*philosopher* *must* *say* *whether* the *doubt* *is* the *condition* of a *knowledge* or the *admission* of a *failure*. And the *answer* *determines* the *authority* of the *discipline* (the *no* *mere* *sociology*) and the *tenor* of the *whole* *book* (the *no* *mere* *catalogue*).
+The *transition* is the *inversion* of the *applied* *turn*. The *applied* *ethics* *tests* the *theory* *by* the *case* (§51.1); the *meta*-*question* *tests* the *enterprise* *by* its *record* (the *no* *mere* *case*). The *applied* *ethicist* *acts* *inside* the *doubt* (§51.8); the *meta*-*philosopher* *must* *say* *whether* the *doubt* *is* the *condition* of a *knowledge* or the *admission* of a *failure*. And the *answer* *determines* the *authority* of the *discipline* (the *no* *mere* *sociology*) and the *tenor* of the *whole* *book* (the *no* *mere* *catalog*).
 
 The *chapter* proceeds in *eight* *movements*. §1 states the *question* and *reconsiders* Russell’s *Chapter* *XIV*. §2 examines the *therapeutic* *conception* (Wittgenstein). §3 examines the *internal*/*external* *distinction* (Carnap). §4 examines the *naturalism* (Quine and after). §5 examines the *diagnosis* of the *pseudo*-*problem* (the *quietism*, the *deflationism*). §6 examines the *experimental* *challenge*. §7 gives the *ledger* (the *settled*, the *dissolved*, the *open*, the *mis*-*posed*). §8 gives the *verdict*.
 
@@ -52,7 +52,7 @@ The *chapter* proceeds in *eight* *movements*. §1 states the *question* and *re
 | **The *transfer*** | The *export* of the *results* (the *logic*, the *ethics*) | The *no* *mere* *insulation* |
 | **The *institutional*** | The *robustness* of the *practice* (the *journals*, the *training*) | The *no* *mere* *individual* |
 
-**The *problem***. The *markers* *pull* *apart*: the *transfer* *favours* the *settled* *results* (the *logic*, the *philosophy* of *language*), the *convergence* *favours* the *sciences* (the *no* *parity*), the *institutional* *favours* the *philosophy* (the *no* *mere* *failure*), and the *cumulativeness* *is* the *contested* (the *no* *linear* *progress*).
+**The *problem***. The *markers* *pull* *apart*: the *transfer* *favors* the *settled* *results* (the *logic*, the *philosophy* of *language*), the *convergence* *favors* the *sciences* (the *no* *parity*), the *institutional* *favors* the *philosophy* (the *no* *mere* *failure*), and the *cumulativeness* *is* the *contested* (the *no* *linear* *progress*).
 
 ### 1.2 Russell’s Chapter XIV reconsidered
 
@@ -88,7 +88,7 @@ $$
 
 ### 1.3 The four diagnoses
 
-**The *diagnoses***. The *limit* *question* *yields* the *four* *families* of *answer*, and the *families* *differ* on the *locus* of the *failure* (the *no* *mere* *scepticism*).
+**The *diagnoses***. The *limit* *question* *yields* the *four* *families* of *answer*, and the *families* *differ* on the *locus* of the *failure* (the *no* *mere* *skepticism*).
 
 | The *diagnosis* | The *core* *claim* | The *locus* of the *failure* |
 |---|---|---|
@@ -384,7 +384,7 @@ $$
 | **The *substance* *dualism*** | The *no* *interaction* | *Dissolved* |
 | **The *faculty* of the *free* *will*** | The *no* *evidence* | *Dissolved* |
 | **The *definition* of the *art*** | The *no* *essence* | *Dissolved* (the *cluster*; §49.3.6) |
-| **The *criterion* as the *sceptical*** | The *particularism* | *Dissolved* |
+| **The *criterion* as the *skeptical*** | The *particularism* | *Dissolved* |
 
 **The *argument***.
 
@@ -419,7 +419,7 @@ $$
 | The *question* | The *over*-*diagnosis* | The *cost* |
 |---|---|---|
 | **The *moral* *realism*** | The *no* *fact* | The *no* *normativity* |
-| **The *scepticism*** | The *no* *sense* | The *no* *epistemic* *inquiry* |
+| **The *skepticism*** | The *no* *sense* | The *no* *epistemic* *inquiry* |
 | **The *induction*** | The *no* *solution* | The *no* *science* |
 | **The *free* *will*** | The *no* *problem* | The *no* *responsibility* |
 | **The *theism*** | The *no* *content* | The *no* *religion* |
@@ -464,20 +464,20 @@ $$
 
 ## 6. Experimental Philosophy and the Empirical Limits
 
-### 6.1 The programme
+### 6.1 The program
 
-**The *thesis*** (the *contemporary* *literature*; Knobe & Nichols, “An Experimental Philosophy Manifesto,” 2008; the *contemporary* *literature*; the *no* *mere* *armchair*). The *x*-phi *treats* the *intuition* as the *data* (the *no* *mere* *assumption*), and the *survey* *is* the *method* (the *no* *mere* *anecdote*), and the *negative* *programme* tests the *stability* of the *intuition* (the *no* *mere* *given*), and the *positive* *programme* explains the *intuition* (the *no* *mere* *evidence*).
+**The *thesis*** (the *contemporary* *literature*; Knobe & Nichols, “An Experimental Philosophy Manifesto,” 2008; the *contemporary* *literature*; the *no* *mere* *armchair*). The *x*-phi *treats* the *intuition* as the *data* (the *no* *mere* *assumption*), and the *survey* *is* the *method* (the *no* *mere* *anecdote*), and the *negative* *program* tests the *stability* of the *intuition* (the *no* *mere* *given*), and the *positive* *program* explains the *intuition* (the *no* *mere* *evidence*).
 
 **The *negative* *results***.
 
 | The *result* | The *content* | The *significance* |
 |---|---|---|
 | **The *order*** | The *order* of the *cases* changes the *intuition* | The *no* *stability* |
-| **The *framing*** | The *framing* changes the *judgement* | The *no* *reliability* |
+| **The *framing*** | The *framing* changes the *judgment* | The *no* *reliability* |
 | **The *culture*** | The *culture* changes the *intuition* (the *no* *universal*) | The *no* *convergence* |
 | **The *expertise*** | The *expert* differs (the *no* *mere* *novice*) | The *no* *equivalence* |
 
-**The *argument*** (the *negative* *programme*).
+**The *argument*** (the *negative* *program*).
 
 $$
 \begin{array}{ll}
@@ -523,7 +523,7 @@ $$
 
 ### 6.3 The state of the experimental
 
-**The *assessment***. The *negative* *programme* *raises* the *standard* (the *no* *mere* *anecdote*), the *critique* *defends* the *argument* (the *no* *mere* *intuition*), and the *expertise* *complicates* the *data* (the *no* *mere* *novice*), and the *method* *is* the *reformed* *armchair* (the *no* *mere* *abolition*).
+**The *assessment***. The *negative* *program* *raises* the *standard* (the *no* *mere* *anecdote*), the *critique* *defends* the *argument* (the *no* *mere* *intuition*), and the *expertise* *complicates* the *data* (the *no* *mere* *novice*), and the *method* *is* the *reformed* *armchair* (the *no* *mere* *abolition*).
 
 | The *position* | The *strength* | The *weakness* |
 |---|---|---|
@@ -611,7 +611,7 @@ $$
 | **The *personal* *identity*** | The *psychological* vs. the *animalism* (the *no* *consensus*) | The *fission* |
 | **The *modality*** | The *possible* *worlds* (the *contested*; §16) | The *epistemology* |
 | **The *induction*** | The *no* *solution* (the *Humean*; §10) | The *practice* |
-| **The *scepticism*** | The *no* *refutation* (the *no* *consensus*) | The *closure* |
+| **The *skepticism*** | The *no* *refutation* (the *no* *consensus*) | The *closure* |
 | **The *other* *minds*** | The *no* *proof* (the *no* *consensus*) | The *analogy* |
 | **The *time*** | The *A* vs. the *B* (the *no* *consensus*) | The *passage* |
 | **The *causation*** | The *no* *single* *theory* (the *no* *consensus*) | The *power* |
@@ -676,7 +676,7 @@ $$
 ### 8.1 What is settled
 
 - **The *limit* *question*** is *not* the *single* (the *scope*, the *method*, the *authority*, the *progress*), and the *verdict* *must* *be* *stated* *per* *sense* (the *no* *single* *answer*).
-- **Russell’s *Chapter* *XIV*** is *too* *pessimistic* (the *local* *results*) and *too* *optimistic* (the *union* *insight*), and the *balanced* *verdict* is the *localism* (the *no* *mere* *scepticism*).
+- **Russell’s *Chapter* *XIV*** is *too* *pessimistic* (the *local* *results*) and *too* *optimistic* (the *union* *insight*), and the *balanced* *verdict* is the *localism* (the *no* *mere* *skepticism*).
 - **The *therapeutic* *conception*** *captures* the *dissolution* (the *no* *mere* *theory*), and the *ladder* *captures* the *clarification* (the *no* *mere* *doctrine*), and the *quietism* *is* the *method* *not* the *metaphysics* (the *no* *mere* *terminus*).
 - **The *internal*/*external* *distinction*** *captures* the *framework* (the *no* *mere* *object*), and the *deflation* *captures* the *pseudo*-*dispute* (the *no* *mere* *metaphysics*), and the *easy* *ontology* *captures* the *triviality* (the *no* *mere* *mystery*).
 - **The *naturalism*** *captures* the *continuity* (the *no* *mere* *autonomy*), and the *liberal* *captures* the *plurality* (the *no* *mere* *reduction*), and the *normativity* *remains* the *contested* (the *no* *mere* *description*).
@@ -747,7 +747,7 @@ The honest verdict: the *philosophy* is *neither* the *science* (the *no* *globa
 
 ### 8.6 The bridge
 
-The *next* *chapter* turns to the *unity* of the *philosophy* and its *divisions* (§53). If this *chapter* *has* *measured* the *discipline* *by* its *record*, the *next* *asks* *whether* the *record* *belongs* to the *one* *subject* or the *many* — *whether* the *metaphysics*, the *epistemology*, the *mind*, the *language*, the *science*, the *value*, and the *politics* are the *parts* of the *single* *inquiry* or the *convenient* *neighbours*, and *what* the *specialization* *costs* and *what* it *buys*, and *whether* the *whole* *is* the *more* *than* the *sum* of the *parts*. The *question* is the *natural* *successor*: the *ledger* *is* the *record* of the *whole* (the *no* *mere* *sum*), and the *whole* *is* the *condition* of the *record* (the *no* *mere* *aggregate*), and the *two* *together* *pose* the *question* of the *next* *chapter*: *is* the *philosophy* *one* *thing*, and *if* *so*, *what* *holds* *it* *together*?
+The *next* *chapter* turns to the *unity* of the *philosophy* and its *divisions* (§53). If this *chapter* *has* *measured* the *discipline* *by* its *record*, the *next* *asks* *whether* the *record* *belongs* to the *one* *subject* or the *many* — *whether* the *metaphysics*, the *epistemology*, the *mind*, the *language*, the *science*, the *value*, and the *politics* are the *parts* of the *single* *inquiry* or the *convenient* *neighbors*, and *what* the *specialization* *costs* and *what* it *buys*, and *whether* the *whole* *is* the *more* *than* the *sum* of the *parts*. The *question* is the *natural* *successor*: the *ledger* *is* the *record* of the *whole* (the *no* *mere* *sum*), and the *whole* *is* the *condition* of the *record* (the *no* *mere* *aggregate*), and the *two* *together* *pose* the *question* of the *next* *chapter*: *is* the *philosophy* *one* *thing*, and *if* *so*, *what* *holds* *it* *together*?
 
 ---
 
@@ -799,7 +799,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 12. Is the *naturalism* *self*-*undermining*? State the *self*-*application* *objection* and the *methodological* *reply*.
 13. State the *diagnostic* *toolkit*. Is the *no* *criterion* *objection* *decisive*?
 14. State the *over*-*diagnosis* *objection*. Which *questions* *survive* the *diagnosis*?
-15. State the *x*-phi *negative* *programme*. Is the *instability* *decisive* against the *armchair*?
+15. State the *x*-phi *negative* *program*. Is the *instability* *decisive* against the *armchair*?
 16. State the *Cappelen* *critique*. Does the *philosophy* *use* the *intuition* *as* the *evidence*?
 17. State the *reformed* *armchair*. Is it *distinct* from the *classical* *armchair*?
 18. State the *settled* *results* (the *logic*, the *semantics*, the *Gettier*, the *externalism*). Are they *really* *settled*?
@@ -825,6 +825,6 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 ---
 
-> *A closing note.* This chapter has followed the *record* — the *settled*, the *dissolved*, the *open*, the *mis*-*posed* — and it has arrived at a *conclusion* that is less a *defence* than a *diagnosis*: the *philosophy* *knows* *locally* (the *logic*, the *semantics*, the *Gettier* *phenomenon*, the *dissolutions*), *fails* *globally* (the *no* *convergence*), *reframes* *persistently* (the *mis*-*posed* *questions*), and *holds* the *open* *honestly* (the *consciousness*, the *free* *will*, the *God*, the *value*) — and the *honest* *thinker* *does* not *confuse* the *local* *knowledge* with the *global* *settlement*, or the *reframing* with the *failure*, or the *openness* with the *defeat*. The *discipline* is the *argument* *that* *knows* *its* *own* *limits*, and the *limits* are *not* the *scandal* but the *condition* of the *honest* *inquiry*.
+> *A closing note.* This chapter has followed the *record* — the *settled*, the *dissolved*, the *open*, the *mis*-*posed* — and it has arrived at a *conclusion* that is less a *defense* than a *diagnosis*: the *philosophy* *knows* *locally* (the *logic*, the *semantics*, the *Gettier* *phenomenon*, the *dissolutions*), *fails* *globally* (the *no* *convergence*), *reframes* *persistently* (the *mis*-*posed* *questions*), and *holds* the *open* *honestly* (the *consciousness*, the *free* *will*, the *God*, the *value*) — and the *honest* *thinker* *does* not *confuse* the *local* *knowledge* with the *global* *settlement*, or the *reframing* with the *failure*, or the *openness* with the *defeat*. The *discipline* is the *argument* *that* *knows* *its* *own* *limits*, and the *limits* are *not* the *scandal* but the *condition* of the *honest* *inquiry*.
 
 > *And a bridge.* The *next* *chapter* turns to the *unity* of the *philosophy* and its *divisions*. If this *chapter* has *measured* the *discipline* *by* its *record*, the *next* asks *whether* the *record* belongs to the *one* *subject* or the *many*, and *what* the *specialization* *costs* and *what* it *buys*, and *whether* the *whole* is the *more* than the *sum* of the *parts*. The *question* is the *natural* successor: the *ledger* is the *record* of the *whole* (the *no* *mere* *sum*), and the *whole* is the *condition* of the *record* (the *no* *mere* *aggregate*), and the *two* together *pose* the *question* of the *next* *chapter*: *is* the *philosophy* *one* *thing*, and *if* *so*, *what* *holds* *it* *together*?

@@ -36,7 +36,7 @@ $$
 2. & \text{That sunset is red.} \\
 3. & \text{This drop of blood is red.} \\
 4. & \text{The three things are *different* particulars.} \\
-5. & \text{They are *the same* in respect of colour.} \\
+5. & \text{They are *the same* in respect of color.} \\
 \hline
 6. & \therefore \text{There is *something* that they share — or the appearance of sharing must be explained away.}
 \end{array}
@@ -56,7 +56,7 @@ The *realist* has a single answer to all three: universals. The *nominalist* has
 
 Russell's treatment is in *The Problems of Philosophy*, Chs. IX–X, and it is the *clearest* statement of *transcendent* realism in the analytic tradition.
 
-**The argument.** Russell begins from *perception*. When I see a white patch, I am *acquainted* with the *colour* — an entity that is not the *patch* (which is a particular) and not my *experience* (which is private). The colour is a **universal**: it is *one* entity that can be *wholly present* in *many* patches.
+**The argument.** Russell begins from *perception*. When I see a white patch, I am *acquainted* with the *color* — an entity that is not the *patch* (which is a particular) and not my *experience* (which is private). The color is a **universal**: it is *one* entity that can be *wholly present* in *many* patches.
 
 **The key claims.**
 
@@ -71,7 +71,7 @@ Russell's treatment is in *The Problems of Philosophy*, Chs. IX–X, and it is t
 
 $$
 \begin{array}{ll}
-1. & \text{The proposition "red is a colour" is *true* even if no red thing exists.} \\
+1. & \text{The proposition "red is a color" is *true* even if no red thing exists.} \\
 2. & \text{The truth of the proposition *requires* that redness *be* something.} \\
 3. & \text{The *something* is not a *particular* (it is *shared* by all possible red things).} \\
 \hline
@@ -79,7 +79,7 @@ $$
 \end{array}
 $$
 
-**The objection.** The argument is a *modal* argument, and it *presupposes* that *truth* requires *truthmakers* that exist *independently* of the *actual* *instances*. The *nominalist* denies the *presupposition*: the proposition is *true* because of the *meaning* of “red” and “colour,” not because of a *transcendent* *entity*.
+**The objection.** The argument is a *modal* argument, and it *presupposes* that *truth* requires *truthmakers* that exist *independently* of the *actual* *instances*. The *nominalist* denies the *presupposition*: the proposition is *true* because of the *meaning* of “red” and “color,” not because of a *transcendent* *entity*.
 
 ### 1.3 The third man regress
 
@@ -123,11 +123,11 @@ The *positive* *case* for *realism* has *four* *components*.
 
 **The *objection*.** Resemblance can be *primitive*: the *nominalist* *holds* that *similarity* is a *relation* *among* *particulars* that *does* not *require* a *shared* *property* (§2.3). The *debate* is *about* whether the *primitive* *resemblance* is *adequate*.
 
-**(iii) The explanatory argument.** Universals *explain* *laws*: “all electrons have charge $e$” is *necessary* because *charge* is a *universal*, and the *universal* *necessitates* the *behaviour*. The *best* *explanation* of *law* is *universals*.
+**(iii) The explanatory argument.** Universals *explain* *laws*: “all electrons have charge $e$” is *necessary* because *charge* is a *universal*, and the *universal* *necessitates* the *behavior*. The *best* *explanation* of *law* is *universals*.
 
 **The *objection*.** The *explanation* *presupposes* that *laws* are *necessary*, and the *presupposition* is *contested* (the *Humean* *tradition*; Ch. 18, §5; Ch. 39, §1). The *anti-Humean* *reply*: the *necessity* is *real*, and *universals* are the *best* *explanation* of it.
 
-**(iv) The truthmaker argument.** Statements *about* *properties* (“redness is a colour”) are *true*, and the *truth* *requires* a *truthmaker*. The *best* *candidate* is the *universal*.
+**(iv) The truthmaker argument.** Statements *about* *properties* (“redness is a color”) are *true*, and the *truth* *requires* a *truthmaker*. The *best* *candidate* is the *universal*.
 
 **The *objection*.** The *truthmaker* *requirement* is *contested* (Ch. 22, §2): some *truths* are *true* *without* a *truthmaker* (the *nominalist* *holds* that *analytic* *truths* and *negative* *existentials* are *of* this kind). The *reply*: the *truthmaker* *requirement* is *defeasible*, but the *burden* is on the *nominalist* to *show* that *property* *claims* are *of* the *exceptional* *kind*.
 
@@ -165,9 +165,9 @@ $$
 
 **The *reply*.** The *convention* is *not* *arbitrary*: it is *caused* by the *perceptual* *similarity* of the things, and the *similarity* is *primitive*. (The *reply* *leads* to *resemblance* nominalism.)
 
-**(ii) The *translation* *problem*.** Predicate nominalism *cannot* *translate* statements *about* *properties* *that* are *not* *predicable* *of* *things* — “red is a colour,” “red is *closer* to *orange* than to blue.” The *translation* would have to be *about* the *word* “red,” but the *statement* is *about* *the* *colour*, not the word.
+**(ii) The *translation* *problem*.** Predicate nominalism *cannot* *translate* statements *about* *properties* *that* are *not* *predicable* *of* *things* — “red is a color,” “red is *closer* to *orange* than to blue.” The *translation* would have to be *about* the *word* “red,” but the *statement* is *about* *the* *color*, not the word.
 
-**The *reply*.** The *translation* can be *metalinguistic*: “red is a colour” is *translated* as “‘red’ is a *colour* *predicate*.” The *reply* is *artificial*, and it is *subject* to the *objection* that the *translation* *changes* the *subject*.
+**The *reply*.** The *translation* can be *metalinguistic*: “red is a color” is *translated* as “‘red’ is a *color* *predicate*.” The *reply* is *artificial*, and it is *subject* to the *objection* that the *translation* *changes* the *subject*.
 
 ### 2.2 Class nominalism
 
@@ -191,7 +191,7 @@ $$
 
 ### 2.3 Resemblance nominalism
 
-**The view.** A property is *nothing* *over* *and* *above* the *resemblance* *relation* *among* *particulars*. To say that $a$ and $b$ are *both* *red* is to say that they *resemble* one another *in* *respect* *of* *colour* — and the *resemblance* is *primitive*.
+**The view.** A property is *nothing* *over* *and* *above* the *resemblance* *relation* *among* *particulars*. To say that $a$ and $b$ are *both* *red* is to say that they *resemble* one another *in* *respect* *of* *color* — and the *resemblance* is *primitive*.
 
 **The statement.** Price (*Thinking and Experience*, 1953), and in the *contemporary* *literature*, Rodriguez-Pereyra (*Resemblance Nominalism*, 2002).
 
@@ -216,7 +216,7 @@ $$
 
 **(ii) The *companionship* *problem* (Goodman).** If *every* *red* *thing* *is* *also* *round*, then the *resemblance* *among* *red* *things* *cannot* *distinguish* *redness* from *roundness*: the *class* of *red* *things* is *also* the *class* of *round* *things*, and the *resemblance* *relation* *does* *not* *tell* us *which* *property* is *which*.
 
-**The *reply*.** The *reply* *requires* a *notion* of *respect* in which the *things* *resemble*: the *things* *resemble* *in* *colour*, not *in* *shape*. But the *notion* of *respect* *is* *precisely* the *notion* of *property*, and the *reply* *reintroduces* *properties*.
+**The *reply*.** The *reply* *requires* a *notion* of *respect* in which the *things* *resemble*: the *things* *resemble* *in* *color*, not *in* *shape*. But the *notion* of *respect* *is* *precisely* the *notion* of *property*, and the *reply* *reintroduces* *properties*.
 
 **(iii) The *regress*. Resemblance is a *relation*, and *relations* *can* *resemble* *one* *another*. The *resemblance* *between* *two* *resemblance* *relations* *requires* a *third* *resemblance* *relation*, and the *regress* is *infinite*. (This is the *same* *structure* as the *third-man* *regress, applied to the *relation* *itself.)
 
@@ -224,7 +224,7 @@ $$
 
 ### 2.4 The state of nominalism
 
-The *nominalist* *programme* is *promising* and *incomplete*. The *three* *forms* *each* *have* *costs*: predicate nominalism is *circular*; class nominalism *loses* the *modal* *profile*; resemblance nominalism *struggles* with *imperfect* *communities* and the *regress*.
+The *nominalist* *program* is *promising* and *incomplete*. The *three* *forms* *each* *have* *costs*: predicate nominalism is *circular*; class nominalism *loses* the *modal* *profile*; resemblance nominalism *struggles* with *imperfect* *communities* and the *regress*.
 
 **The *contemporary* *nominalism***. The *most* *defensible* *form* is a *hybrid*: *resemblance* nominalism *plus* a *natural* *class* *theory* (Lewis 1983), or *class* nominalism *plus* *naturalness*. The *hybrid* *reintroduces* *properties* *under* *another* *name* (the *“natural”* *classes*), and the *reintroduction* is *precisely* what the *nominalist* *wanted* to *avoid*. (See §5.1 on *naturalness*.)
 
@@ -272,7 +272,7 @@ The *nominalist* *programme* is *promising* and *incomplete*. The *three* *forms
 
 ### 3.3 The state of trope theory
 
-**The *programme* is *promising* and *incomplete*. The *virtues* are *real* (it *avoids* the *third-man* *regress*, it *locates* *properties*, it *captures* the *particularity* of *property* *instances*). The *costs* are *real* (the *compresence* *regress*, the *pairing* *problem*, the *primitive* *resemblance*).
+**The *program* is *promising* and *incomplete*. The *virtues* are *real* (it *avoids* the *third-man* *regress*, it *locates* *properties*, it *captures* the *particularity* of *property* *instances*). The *costs* are *real* (the *compresence* *regress*, the *pairing* *problem*, the *primitive* *resemblance*).
 
 **The *most* *defensible* *version***. A *moderate* *trope* *theory*: tropes *plus* a *primitive* *relation* of *resemblance* *plus* a *primitive* *relation* of *compresence*. The *primitives* are *not* *explanations*, but they are *not* *mysteries* either: they are the *basic* *structure* of the *theory*.
 
@@ -299,7 +299,7 @@ The *realist* *tradition* *divides* into *two* *families*.
 
 ### 4.2 Armstrong's truthmaker argument
 
-David Armstrong (*Universals: An Opinionated Introduction*, 1989; *A World of States of Affairs*, 1997) offers the *most* *systematic* *defence* of *immanent* realism.
+David Armstrong (*Universals: An Opinionated Introduction*, 1989; *A World of States of Affairs*, 1997) offers the *most* *systematic* *defense* of *immanent* realism.
 
 **The *core* *thesis*.** The *world* is a *world* of **states of affairs** — *complex* *entities* that *consist* of a *particular* *instantiating* a *universal* (or *universals* *related* by a *higher-order* *universal*). The *state* *of* *affairs* is the *truthmaker*: it is *what* *makes* a *true* *proposition* *true*.
 
@@ -316,7 +316,7 @@ $$
 \end{array}
 $$
 
-**The *structure*.** Armstrong’s *ontology* has *three* *categories*: *particulars*, *universals*, and *states* of *affairs*. The *state* *of* *affairs* is *not* a *third* *kind* of *thing* *alongside* the *other* *two*; it is the *combination* of *them*. The *combination* is *primitive*: it is *not* *further* *analysable*.
+**The *structure*.** Armstrong’s *ontology* has *three* *categories*: *particulars*, *universals*, and *states* of *affairs*. The *state* *of* *affairs* is *not* a *third* *kind* of *thing* *alongside* the *other* *two*; it is the *combination* of *them*. The *combination* is *primitive*: it is *not* *further* *analyzable*.
 
 **The *virtue*.** The *truthmaker* *argument* *connects* *ontology* to *truth* (Ch. 32), and the *connection* is *the* *strongest* *argument* for *realism*. The *nominalist* *must* *explain* *what* *makes* the *proposition* *true*, and the *explanation* is *less* *direct*.
 
@@ -340,7 +340,7 @@ $$
 
 **The *structure*.** The *regress* is the *same* as the *third-man* *regress*, *applied* to the *instantiation* *relation* *itself*. The *regress* is *generated* by the *assumption* that *instantiation* is a *universal*, and the *assumption* is *precisely* what the *realist* *needs*.
 
-**Armstrong’s *reply*** (1978, vol. 2, p. 45; 1997, p. 116). Instantiation is *not* a *relation* *in* the *ordinary* *sense*. It is a **fundamental* *tie*** — a *primitive* *form* of *unity* that *cannot* be *analysed* into a *relation* *plus* *relata*. The *tie* is *not* a *universal*; it is the *form* of *combination* *between* a *particular* and a *universal*.
+**Armstrong’s *reply*** (1978, vol. 2, p. 45; 1997, p. 116). Instantiation is *not* a *relation* *in* the *ordinary* *sense*. It is a **fundamental* *tie*** — a *primitive* *form* of *unity* that *cannot* be *analyzed* into a *relation* *plus* *relata*. The *tie* is *not* a *universal*; it is the *form* of *combination* *between* a *particular* and a *universal*.
 
 **The *objection*.** The *reply* is a *label*, not an *explanation*. The *realist* *owes* an *account* of *what* the *tie* *is*, and the *account* is *not* *available*. (This is the *ad hocness* *objection* of Ch. 3, §1.6, and it is *serious*.)
 
@@ -462,7 +462,7 @@ $$
 
 **The *objections*.**
 
-**(i) The *“always* *packing, never* *travelling”* *objection*** (Blackburn 1990). If all *properties* are *dispositional*, the *world* is a *world* of *pure* *powers* with *no* *categorical* *basis* — a *world* of *“always* *packing, never* *travelling.”* The *objection* is *rhetorical*, but it *points* to a *real* *problem*: *what* *is* *the* *power* *power* *to* *do*, *if* *not* *to* *produce* a *categorical* *effect*?
+**(i) The *“always* *packing, never* *traveling”* *objection*** (Blackburn 1990). If all *properties* are *dispositional*, the *world* is a *world* of *pure* *powers* with *no* *categorical* *basis* — a *world* of *“always* *packing, never* *traveling.”* The *objection* is *rhetorical*, but it *points* to a *real* *problem*: *what* *is* *the* *power* *power* *to* *do*, *if* *not* *to* *produce* a *categorical* *effect*?
 
 **(ii) The *“no* *necessary* *connections”* *objection*** (Lewis 1986; Humean *tradition*). The *dispositionalist* *holds* that *properties* *necessitate* their *effects*, and the *necessitation* is *not* *explained* by *the* *Humean* *picture* (Ch. 18, §5). The *dispositionalist* *reply*: the *necessitation* is *real*, and *Humeanism* is *false*.
 
@@ -731,7 +731,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 6. Is *trope* theory a *genuine* *third way*? What is the *compresence* *regress*, and is the *bundle* *theory* *defensible*?
 7. Is *immanent* or *transcendent* realism more *defensible*? What is the *instantiation* *regress*, and is Armstrong’s *reply* *adequate*?
 8. Is *naturalness* an *indispensable* *notion*? What is the *reference magnetism* *argument*, and is it *circular*?
-9. Is *dispositionalism* or *categoricalism* more *defensible*? What is the *“always packing, never travelling”* *objection*, and is it *decisive*?
+9. Is *dispositionalism* or *categoricalism* more *defensible*? What is the *“always packing, never traveling”* *objection*, and is it *decisive*?
 10. State Benacerraf’s dilemma. Is it *resolved* by *structuralism*, *nominalism*, or *indispensability*?
 11. Are *propositions* *structured* or *sets* of *worlds*? What is the *unity* *problem*, and is it *solved*?
 12. Is *ontic* structuralism *stable*? What is the *objection*, and is the *reply* *adequate*?

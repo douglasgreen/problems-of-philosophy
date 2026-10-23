@@ -13,7 +13,7 @@
 
 Chapter 39 examined the *structure* of scientific knowledge — the laws, the kinds, the models. This chapter examines the *epistemology* of that knowledge: **how do we know that a theory is true, or probable, or at least worth believing?**
 
-The question has a *peculiar* shape, because the *answer* is *less* secure *for* science than *for* almost any other domain. In *perception* (Ch. 5), the *perceptual* *belief* has the *world* *pressing* on it. In *mathematics* (Ch. 43), the *proof* *compels*. In *science*, the *theory* is *underdetermined* by the *evidence* (the *evidence* *never* *forces* a *unique* *theory*), the *observation* is *theory-laden* (the *data* are *never* *pure*), the *history* is a *graveyard* (the *successful* *theories* are *refuted*), and the *community* is *social* (the *consensus* is *negotiated*, and *sometimes* *manufactured*). If *any* *knowledge* *claim* is *vulnerable* to *scepticism*, the *scientific* *claim* is.
+The question has a *peculiar* shape, because the *answer* is *less* secure *for* science than *for* almost any other domain. In *perception* (Ch. 5), the *perceptual* *belief* has the *world* *pressing* on it. In *mathematics* (Ch. 43), the *proof* *compels*. In *science*, the *theory* is *underdetermined* by the *evidence* (the *evidence* *never* *forces* a *unique* *theory*), the *observation* is *theory-laden* (the *data* are *never* *pure*), the *history* is a *graveyard* (the *successful* *theories* are *refuted*), and the *community* is *social* (the *consensus* is *negotiated*, and *sometimes* *manufactured*). If *any* *knowledge* *claim* is *vulnerable* to *skepticism*, the *scientific* *claim* is.
 
 The chapter's *thesis* is that the *vulnerability* is *real* and *survivable*. The *assessment* of *theories* is a *complex*, *multi-dimensional*, *fallible* *practice* — and the *practice* is *justified* not by a *single* *criterion* (the *falsifiability*, the *Bayesian* *posterior*, the *consensus*) but by the *convergence* of *criteria* (the *empirical* *success*, the *explanatory* *power*, the *unification*, the *novel* *prediction*, the *social* *criticism*), and the *convergence* is *strong* *enough* to *ground* a *qualified* *realism* — a *realism* that is *selective* (it is *about* the *working* *posits*, not the *whole* *theory*), *structural* (it is *about* the *relations*, not the *intrinsic* *natures*), *probabilistic* (it is *about* the *degree* of *belief*, not the *certainty*), and *social* (it is *sustained* by the *institutions* of *criticism*).
 
@@ -81,7 +81,7 @@ For the *white* *shoe*, $P(E \mid H)$ and $P(E \mid \neg H)$ are *both* *close* 
 
 **The *objections***.
 
-**(i) The *‘*no* *equivalence*’* *objection* (Good, “The White Shoe Is a Red Herring,” 1967; the *contemporary* *literature*). The *white* *shoe* *does* *confirm* the *hypothesis*, and the *amount* of *confirmation* is *not* *negligible* (the *Bayesian* *resolution* *depends* on the *priors*, and the *priors* are *contested*; the *different* *priors* *yield* the *different* *amounts*). The *objection* *relativises* the *resolution* to the *prior*.
+**(i) The *‘*no* *equivalence*’* *objection* (Good, “The White Shoe Is a Red Herring,” 1967; the *contemporary* *literature*). The *white* *shoe* *does* *confirm* the *hypothesis*, and the *amount* of *confirmation* is *not* *negligible* (the *Bayesian* *resolution* *depends* on the *priors*, and the *priors* are *contested*; the *different* *priors* *yield* the *different* *amounts*). The *objection* *relativizes* the *resolution* to the *prior*.
 
 **The *reply***. The *confirmation* is *relative* to the *prior* (the *Bayesian* *insight*), and the *reply* *accepts* the *relativity* (the *confirmation* is *always* *relative* to the *background* *knowledge*). The *reply* is *contested*.
 
@@ -99,14 +99,14 @@ For the *white* *shoe*, $P(E \mid H)$ and $P(E \mid \neg H)$ are *both* *close* 
 
 ### 1.5 The problem of old evidence
 
-**The *problem*** (Glymour, *Theory and Evidence*, 1980, Ch. 3; the *contemporary* *literature*). The *Bayesian* *account* *cannot* *explain* the *confirmation* by the *evidence* that is *already* *known* (the *old* *evidence*): the *evidence* has *already* been *conditionalised* *on*, and the *conditional* *probability* $P(H \mid E)$ *is* *equal* to $P(H)$, and the *confirmation* *is* *zero*, and the *consequence* *is* *absurd* (the *perihelion* *of* *Mercury* *confirmed* the *general* *relativity*, and the *perihelion* *was* *known* *before* the *theory*).
+**The *problem*** (Glymour, *Theory and Evidence*, 1980, Ch. 3; the *contemporary* *literature*). The *Bayesian* *account* *cannot* *explain* the *confirmation* by the *evidence* that is *already* *known* (the *old* *evidence*): the *evidence* has *already* been *conditionalized* *on*, and the *conditional* *probability* $P(H \mid E)$ *is* *equal* to $P(H)$, and the *confirmation* *is* *zero*, and the *consequence* *is* *absurd* (the *perihelion* *of* *Mercury* *confirmed* the *general* *relativity*, and the *perihelion* *was* *known* *before* the *theory*).
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
 1. & \text{The *Bayesian* *confirmation* *requires* } P(H \mid E) > P(H) \text{ (the *definition*).} \\
-2. & \text{If } E \text{ is *already* *known*, the *agent* has *already* *conditionalised* on } E, \text{ and } P(H \mid E) = P(H). \\
+2. & \text{If } E \text{ is *already* *known*, the *agent* has *already* *conditionalized* on } E, \text{ and } P(H \mid E) = P(H). \\
 \hline
 3. & \therefore \text{The *old* *evidence* *confirms* *nothing* (the *problem*).}
 \end{array}
@@ -148,7 +148,7 @@ $$
 
 **The *responses***.
 
-**(i) The *‘*relative*’* *response*** (the *contemporary* *literature*). The *confirmation* is *relative* to the *specified* *alternatives* (the *agent* *compares* the *hypotheses* she *has*, and the *comparison* is *valid* *relative* to the *set*), and the *reply* *relativises* the *confirmation* to the *set*.
+**(i) The *‘*relative*’* *response*** (the *contemporary* *literature*). The *confirmation* is *relative* to the *specified* *alternatives* (the *agent* *compares* the *hypotheses* she *has*, and the *comparison* is *valid* *relative* to the *set*), and the *reply* *relativizes* the *confirmation* to the *set*.
 
 **The *virtue***. The *reply* *fits* the *practice* (the *scientists* *compare* the *available* *theories*), and it *avoids* the *totality*.
 
@@ -225,24 +225,24 @@ $$
 
 **(ii) The *‘*no* *incommensurability*’* *objection* (the *contemporary* *literature*; the *“*translatability*”* *thesis*). The *paradigms* *are* *translatable* (the *terms* *can* be *translated*, and the *standards* *can* be *compared*), and the *incommensurability* is *overstated* (the *partial* *communication* *is* *possible*, and the *choice* *is* *rational* *enough*). The *reply* *weakens* the *Kuhnian* *challenge*, and it is *contested* (the *translation* is *never* *complete*).
 
-### 2.3 Lakatos and the research programmes
+### 2.3 Lakatos and the research programs
 
-**The *thesis*** (Lakatos, “Falsification and the Methodology of Scientific Research Programmes,” 1970; *Philosophical Papers*, Vol. I, 1978). The *science* *develops* through the *research* *programmes* (the *series* of the *theories* *sharing* a *hard* *core*), and the *programmes* are *assessed* by the *progressiveness* (the *novel* *predictions*) or the *degeneration* (the *ad hoc* *patches*).
+**The *thesis*** (Lakatos, “Falsification and the Methodology of Scientific Research Programs,” 1970; *Philosophical Papers*, Vol. I, 1978). The *science* *develops* through the *research* *programs* (the *series* of the *theories* *sharing* a *hard* *core*), and the *programs* are *assessed* by the *progressiveness* (the *novel* *predictions*) or the *degeneration* (the *ad hoc* *patches*).
 
 **The *structure***.
 
-| The *element* | The *definition* | The *example* (the *Newtonian* *programme*) |
+| The *element* | The *definition* | The *example* (the *Newtonian* *program*) |
 |---|---|---|
 | **Hard core** | The *irrefutable* *assumptions* | The *three* *laws* *of* *motion* |
 | **Protective belt** | The *auxiliary* *hypotheses* (the *testable* *consequences*) | The *planetary* *perturbations* |
 | **Positive heuristic** | The *guidance* for the *development* | The *successive* *models* |
 | **Negative heuristic** | The *prohibition* (the *core* *is* *not* *tested*) | The *refusal* to *abandon* the *laws* |
 
-**The *virtue***. The *account* *fits* the *history* (the *programmes* *persist* *through* the *anomalies*, and the *progress* is *measured* by the *novel* *predictions*), and it *avoids* the *naive* *falsificationism* (the *core* is *not* *falsified* by the *single* *anomaly*), and it *preserves* the *rationality* (the *progressiveness* is the *objective* *criterion*).
+**The *virtue***. The *account* *fits* the *history* (the *programs* *persist* *through* the *anomalies*, and the *progress* is *measured* by the *novel* *predictions*), and it *avoids* the *naive* *falsificationism* (the *core* is *not* *falsified* by the *single* *anomaly*), and it *preserves* the *rationality* (the *progressiveness* is the *objective* *criterion*).
 
 **The *objections***.
 
-**(i) The *‘*no* *demarcation*’* *objection* (the *contemporary* *literature*). The *account* *cannot* *distinguish* the *progressive* *programmes* from the *degenerating* *ones* (the *degenerating* *programme* *can* *become* *progressive*, and the *judgment* is *retrospective*), and the *criterion* is *not* *applicable* *in* *real* *time*.
+**(i) The *‘*no* *demarcation*’* *objection* (the *contemporary* *literature*). The *account* *cannot* *distinguish* the *progressive* *programs* from the *degenerating* *ones* (the *degenerating* *program* *can* *become* *progressive*, and the *judgment* is *retrospective*), and the *criterion* is *not* *applicable* *in* *real* *time*.
 
 **The *reply*** (Lakatos 1970; the *contemporary* *literature*). The *judgment* is *retrospective* (the *history* *decides*), and the *reply* *accepts* the *retrospectivity*, and it is *contested* (the *science* *must* *decide* *in* *real* *time*).
 
@@ -309,7 +309,7 @@ $$
 |---|---|---|
 | **Logical empiricist** | The objective norms | The description of the practice |
 | **Kuhn** | The revolutions; the community | The rationality |
-| **Lakatos** | The programmes; the progressiveness | The retrospectivity |
+| **Lakatos** | The programs; the progressiveness | The retrospectivity |
 | **Feyerabend** | The practice; the rhetoric | The no-science |
 | **Laudan** | The problem-solving | The no-truth |
 
@@ -356,7 +356,7 @@ $$
 \end{array}
 $$
 
-**The *examples***. The *Newtonian* *mechanics* *vs.* the *relativistic* *mechanics* (the *different* *ontologies*, the *same* *observations* *in* the *low*-*energy* *limit*); the *wave* *vs.* the *particle* *theories* *of* *light* (the *different* *ontologies*, the *same* *interference* *patterns*); the *computational* *models* (the *different* *algorithms*, the *same* *behaviour*).
+**The *examples***. The *Newtonian* *mechanics* *vs.* the *relativistic* *mechanics* (the *different* *ontologies*, the *same* *observations* *in* the *low*-*energy* *limit*); the *wave* *vs.* the *particle* *theories* *of* *light* (the *different* *ontologies*, the *same* *interference* *patterns*); the *computational* *models* (the *different* *algorithms*, the *same* *behavior*).
 
 ### 3.3 Transient and permanent underdetermination
 
@@ -402,7 +402,7 @@ $$
 2. & \text{The *unconceived* *alternatives* *are* *not* *in* the *evidence* (the *evidence* *cannot* *distinguish* the *alternatives* *we* *have* *not* *imagined*).} \\
 3. & \text{The *confidence* in the *current* *theories* *is* *undermined* by the *unconceived* *alternatives*.} \\
 \hline
-4. & \therefore \text{The *realism* *is* *undermined* (the *confidence* *is* *not* *justified*), and the *anti*-*realism* *is* *supported* (the *theories* *are* *the* *current* *best* *organisations* of the *evidence*).}
+4. & \therefore \text{The *realism* *is* *undermined* (the *confidence* *is* *not* *justified*), and the *anti*-*realism* *is* *supported* (the *theories* *are* *the* *current* *best* *organizations* of the *evidence*).}
 \end{array}
 $$
 
@@ -443,7 +443,7 @@ $$
 |---|---|---|
 | **The duck-rabbit** | The *same* *drawing* | The *duck* or the *rabbit* (the *Gestalt* *switch*) |
 | **The Ptolemaic/Copernican** | The *same* *sunrise* | The *sun's* *motion* or the *earth's* *rotation* |
-| **The electron** | The *same* *cloud* *chamber* *track* | The *electron* or the *artefact* (the *theory* *decides*) |
+| **The electron** | The *same* *cloud* *chamber* *track* | The *electron* or the *artifact* (the *theory* *decides*) |
 | **The wine-tasting** | The *same* *liquid* | The *complex* *chemical* *mixture* or the *fruit* *juice* |
 
 **The *argument*.
@@ -472,7 +472,7 @@ $$
 
 **The *critique*** (the *contemporary* *literature*; Fodor, “Observation Reconsidered,” 1984; Ch. 5, §5.2; the *predictive* *processing* *account*).
 
-**(i) The *perceptual* *modules***. The *perception* *is* *modular* (the *informationally* *encapsulated*, the *bottom*-*up*, the *cognitively* *impenetrable*) for the *basic* *features* (the *colour*, the *shape*, the *size*), and the *modules* *are* *not* *penetrated* by the *theory* (the *illusion* *persists* *despite* the *knowledge*; the *Müller*-*Lyer* *lines* *look* *unequal* *despite* the *measured* *equality*).
+**(i) The *perceptual* *modules***. The *perception* *is* *modular* (the *informationally* *encapsulated*, the *bottom*-*up*, the *cognitively* *impenetrable*) for the *basic* *features* (the *color*, the *shape*, the *size*), and the *modules* *are* *not* *penetrated* by the *theory* (the *illusion* *persists* *despite* the *knowledge*; the *Müller*-*Lyer* *lines* *look* *unequal* *despite* the *measured* *equality*).
 
 **The *argument*.
 
@@ -734,7 +734,7 @@ $$
 
 **(i) The *‘*too* *strong*’* *objection*. The *criterion* *excludes* the *legitimate* *science* (the *Newtonian* *mechanics* *was* *falsified* by the *perihelion*, and it *was* *not* *abandoned*; the *evolutionary* *biology* *has* *few* *falsifiable* *predictions*), and the *criterion* *is* *too* *strong*.
 
-**The *reply*** (Popper 1963; the *contemporary* *literature*). The *criterion* is *methodological* (the *appropriate* *response* to the *falsification*, not the *immediate* *abandonment*), and the *reply* *weakens* the *criterion* (§2.3; the *research* *programmes*). The *reply* is *contested*.
+**The *reply*** (Popper 1963; the *contemporary* *literature*). The *criterion* is *methodological* (the *appropriate* *response* to the *falsification*, not the *immediate* *abandonment*), and the *reply* *weakens* the *criterion* (§2.3; the *research* *programs*). The *reply* is *contested*.
 
 **(ii) The *‘*too* *weak*’* *objection*. The *criterion* *admits* the *pseudoscience* (the *astrology* *can* be *formulated* *falsifiably*, and the *creationism* *makes* the *testable* *predictions*; the *contemporary* *literature*), and the *criterion* *is* *too* *weak*.
 
@@ -749,7 +749,7 @@ $$
 | The *criterion* | The *demand* | The *astrology* |
 |---|---|---|
 | **Theoretical** | The theory *fits* the *background* | The *astrology* *ignores* the *physics* |
-| **Community** | The community *tests* and *criticises* | The *astrology* *avoids* the *falsification* |
+| **Community** | The community *tests* and *criticizes* | The *astrology* *avoids* the *falsification* |
 | **Historical** | The theory *progresses* | The *astrology* *stagnates* *for* *centuries* |
 
 **The *virtue***. The *account* *captures* the *complexity* of the *demarcation* (the *multiple* *dimensions*), and it *fits* the *historical* *cases* (the *astrology*, the *phrenology*), and it *avoids* the *single*-*criterion* *problems*.
@@ -837,7 +837,7 @@ $$
 | **Fund the dissent** | The *industry* *funds* the *minority* *research* | The *tobacco* *industry* |
 | **Amplify the minority** | The *media* *presents* the *minority* as *balanced* | The *climate* *reporting* |
 | **Question the consensus** | The *doubt* is *manufactured* | The *“*climate* *gate”* |
-| **Delay the regulation** | The *uncertainty* is *emphasised* | The *fossil* *fuel* *lobbying* |
+| **Delay the regulation** | The *uncertainty* is *emphasized* | The *fossil* *fuel* *lobbying* |
 
 **The *argument*.
 
@@ -923,7 +923,7 @@ The honest verdict: the epistemology of science is a field in transition. The cl
 | **Bayesian** | The credence raises | The formal; the practice | The priors; the catch-all |
 | **Logical empiricist** | The rational inference | The norms | The practice |
 | **Kuhn** | The paradigms | The history | The rationality |
-| **Lakatos** | The research programmes | The progressiveness | The retrospectivity |
+| **Lakatos** | The research programs | The progressiveness | The retrospectivity |
 | **Feyerabend** | The anarchism | The practice | The no-science |
 | **Laudan** | The problem-solving | The real time | The no-truth |
 | **Strong underdetermination** | The empirical equivalence | The anti-realism | The no-equivalence |
@@ -978,7 +978,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 3. State the *old* *evidence* *problem*. Which *response* is *most* *defensible*?
 4. State the *catch*-*all* *problem*. Is the *problem* *decisive* against the *Bayesian* *account*?
 5. State the *Kuhnian* *challenge*. Is the *theory* *choice* *rational*?
-6. State the *Lakatosian* *research* *programmes*. Is the *progressiveness* *criterion* *defensible*?
+6. State the *Lakatosian* *research* *programs*. Is the *progressiveness* *criterion* *defensible*?
 7. State the *Feyerabendian* *anarchism*. Is the *position* *defensible*?
 8. State the *Laudan* *problem*-*solving* *account*. Is the *account* *defensible*?
 9. State the *Duhem*–*Quine* *thesis*. Is it *decisive* against the *naive* *falsificationism*?

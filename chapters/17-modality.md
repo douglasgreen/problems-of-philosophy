@@ -18,8 +18,8 @@ This chapter supplies that account. It is the *framework* chapter of Part III: t
 The chapter has three *layers*.
 
 - **Formal**: the logic of modality — the modal operators, the systems of modal logic, the semantics of possible worlds (§§1–2).
-- **Metaphysical**: the nature of necessity, essence, and possible worlds — the realism/ersatzism debate, the essentialist and grounding programmes, the problem of *de re* modality (§§2–4).
-- **Epistemological**: how we know the modal facts — conceivability, two-dimensionalism, the empirical challenge, modal scepticism (§§5–6).
+- **Metaphysical**: the nature of necessity, essence, and possible worlds — the realism/ersatzism debate, the essentialist and grounding programs, the problem of *de re* modality (§§2–4).
+- **Epistemological**: how we know the modal facts — conceivability, two-dimensionalism, the empirical challenge, modal skepticism (§§5–6).
 
 The chapter *closes* with the *applications* (§7) and an *honest verdict* (§8). The thesis it defends is *not* a *solution* but a *diagnosis*: modality is *real*, it is *indispensable*, and its *metaphysics* and its *epistemology* are *both* unresolved — but the *shape* of the disagreement has been clarified by the twentieth century, and the clarification is a *genuine* achievement.
 
@@ -122,7 +122,7 @@ $$
 
 **The *charge*.** Quine’s *objection* is *not* that *de re* *modality* is *false*; it is that it is *unintelligible* — that there is *no* *principled* *way* to *distinguish* *essential* from *accidental* *properties*, and the *distinction* *presupposes* a *metaphysics* that *empiricism* *cannot* *underwrite*.
 
-**The *context*.** The *argument* is *part* of Quine’s *broader* *attack* on *intensional* *notions* (meaning, analyticity, modality). The *target* is the *logical* *positivist* *programme*, which *held* that *necessity* is *linguistic* (analyticity), and Quine *argues* that the *programme* *fails* *because* *analyticity* *fails* (Ch. 9, §2.4). The *attack* on *de re* *modality* is the *extension* of the *attack* on *analyticity*.
+**The *context*.** The *argument* is *part* of Quine’s *broader* *attack* on *intensional* *notions* (meaning, analyticity, modality). The *target* is the *logical* *positivist* *program*, which *held* that *necessity* is *linguistic* (analyticity), and Quine *argues* that the *program* *fails* *because* *analyticity* *fails* (Ch. 9, §2.4). The *attack* on *de re* *modality* is the *extension* of the *attack* on *analyticity*.
 
 ### 1.5 The Barcan formula and the quantified turn
 
@@ -154,7 +154,7 @@ The *debate* *following* Quine *produced* a *consensus* on *three* *points*.
 
 **(ii) De re modality requires an account of essence.** The *semantics* *does* not *tell* us *which* *properties* are *essential*; the *question* is *metaphysical*, and it *requires* a *theory* *of* *essence*.
 
-**(iii) Quine's challenge is not refuted; it is relocated.** The *challenge* — *what* *makes* a *property* *essential* — is *not* *answered* by the *formalism*; it is *answered* (if at all) by the *essentialist* *programme* (§3).
+**(iii) Quine's challenge is not refuted; it is relocated.** The *challenge* — *what* *makes* a *property* *essential* — is *not* *answered* by the *formalism*; it is *answered* (if at all) by the *essentialist* *program* (§3).
 
 ---
 
@@ -162,7 +162,7 @@ The *debate* *following* Quine *produced* a *consensus* on *three* *points*.
 
 ### 2.1 The Leibnizian picture and Kripke semantics
 
-The *idea* of *possible* *worlds* *goes* *back* to Leibniz, who *defined* a *possible* *world* as a *maximal* *consistent* *set* of *compossible* *substances*, and who *held* that *God* *actualised* the *best* *of* the *possible* *worlds* (*Theodicy*, 1710; *Monadology*, 1714).
+The *idea* of *possible* *worlds* *goes* *back* to Leibniz, who *defined* a *possible* *world* as a *maximal* *consistent* *set* of *compossible* *substances*, and who *held* that *God* *actualized* the *best* *of* the *possible* *worlds* (*Theodicy*, 1710; *Monadology*, 1714).
 
 **The *Leibnizian* *biconditional*.**
 
@@ -215,7 +215,7 @@ The *most* *ambitious* and *most* *controversial* *answer* is David Lewis’s **
 2. **Concreteness.** They are *concrete* (they *contain* *objects*, *events*, *space*, *time*).
 3. **Plurality.** There are *infinitely* *many*.
 4. **Isolation.** They are *causally* and *spatiotemporally* *isolated* from *one* *another*.
-5. **Reduction.** Modal *claims* are *analysed* in *terms* of *quantification* *over* *worlds*:
+5. **Reduction.** Modal *claims* are *analyzed* in *terms* of *quantification* *over* *worlds*:
 
 $$
 \Box p \ \leftrightarrow \ \forall w \in W \ (p \ \text{is true at} \ w)
@@ -227,13 +227,13 @@ $$
 
 **(i) The *utility* argument.** Modal realism *offers* a *unified* *semantics* for *modality*, *counterfactuals*, *propositions*, *properties*, *supervenience*, and *content*. The *rival* *theories* *provide* *only* *fragments*, and the *fragments* *do* not *fit* *together*.
 
-**(ii) The *parsimony* argument.** The *rival* *theories* *posit* *abstract* *entities* (ersatz worlds) *plus* a *primitive* *modal* *relation*. Lewis *posits* *only* *concrete* *worlds* *plus* the *ordinary* *relations* *among* them. The *trade* is *favourable*: *fewer* *kinds* of *entity*, *more* *instances* of a *familiar* *kind*.
+**(ii) The *parsimony* argument.** The *rival* *theories* *posit* *abstract* *entities* (ersatz worlds) *plus* a *primitive* *modal* *relation*. Lewis *posits* *only* *concrete* *worlds* *plus* the *ordinary* *relations* *among* them. The *trade* is *favorable*: *fewer* *kinds* of *entity*, *more* *instances* of a *familiar* *kind*.
 
 **(iii) The *analysis* argument.** The *ordinary* *analysis* of *modality* *via* *possible* *worlds* *is* *correct*. The *only* *question* is *what* *possible* *worlds* *are*. Lewis’s *answer* — *concrete* *wholes* — *preserves* the *analysis* *without* *mystery*.
 
 **The *objections*.** The *criticisms* are *severe* and *well-known*; the *most* *important* are:
 
-**(i) The *incredulous* *stare*.** The *theory* *offends* *common* *sense*: there are *no* *other* *worlds*. (Lewis’s *reply*: the *offence* is *philosophical* *prejudice*, not *argument*. The *reply* is *rhetorically* *effective* and *epistemically* *unsatisfying*.)
+**(i) The *incredulous* *stare*.** The *theory* *offends* *common* *sense*: there are *no* *other* *worlds*. (Lewis’s *reply*: the *offense* is *philosophical* *prejudice*, not *argument*. The *reply* is *rhetorically* *effective* and *epistemically* *unsatisfying*.)
 
 **(ii) The *epistemic* *objection*.** If the *other* *worlds* are *causally* *isolated*, we *cannot* *have* *causal* *contact* *with* them, and *causal* *contact* is *required* for *knowledge*. (Lewis’s *reply*: we *know* *modal* *facts* *by* *ordinary* *methods* — *logic*, *conceptual* *analysis*, *counterfactual* *reasoning* — and the *methods* *access* the *worlds* *via* the *analysis*. The *reply* is *contested*; the *epistemic* *objection* is *the* *strongest* *against* *modal* *realism*.)
 
@@ -321,7 +321,7 @@ $$
 
 The *most* *important* *contemporary* *contribution* to the *theory* of *essence* is Kit Fine’s “Essence and Modality” (1994).
 
-**The *target*.** The *standard* *account* — the **modal account** — *analyses* *essence* in *terms* of *necessity*:
+**The *target*.** The *standard* *account* — the **modal account** — *analyzes* *essence* in *terms* of *necessity*:
 
 > **(MA)** $F$ is *essential* to $x$ iff $\Box(\text{if } x \text{ exists, then } Fx)$.
 
@@ -337,9 +337,9 @@ The *most* *important* *contemporary* *contribution* to the *theory* of *essence
 
 > **(RD)** $F$ is *essential* to $x$ iff it is *part* of the *real* *definition* of $x$ that $x$ is $F$.
 
-The *notion* of *real* *definition* is *primitive*: it is *not* *analysable* in *terms* of *necessity*, and it is *not* *reducible* to *conceptual* *analysis*. The *definition* *tells* *us* *what* the *thing* *is*, and the *necessity* *follows* from the *definition*, not *vice* *versa*.
+The *notion* of *real* *definition* is *primitive*: it is *not* *analyzable* in *terms* of *necessity*, and it is *not* *reducible* to *conceptual* *analysis*. The *definition* *tells* *us* *what* the *thing* *is*, and the *necessity* *follows* from the *definition*, not *vice* *versa*.
 
-**The *consequence*.** The *essence* *of* a *thing* is *not* the *set* of its *necessary* *properties*; it is the *set* of *properties* that *constitute* *its* *nature*. The *distinction* is *crucial*, and it is the *foundation* of the *contemporary* *essentialist* *programme*.
+**The *consequence*.** The *essence* *of* a *thing* is *not* the *set* of its *necessary* *properties*; it is the *set* of *properties* that *constitute* *its* *nature*. The *distinction* is *crucial*, and it is the *foundation* of the *contemporary* *essentialist* *program*.
 
 ### 3.3 Grounding
 
@@ -395,7 +395,7 @@ The *deepest* *question* in the *theory* of *modality* is: **what* *is* the *sou
 
 **(ii) The *ideological* *objection*.** Essentialism has *historical* *associations* with *biological* *essentialism* (species have *fixed* *natures*), *gender* *essentialism* (women have *fixed* *natures*), and *racial* *essentialism*. The *associations* are *politically* *dangerous*, and the *contemporary* *essentialists* *distance* *themselves* from them (Ch. 42, §3; Ch. 11, §4). The *distance* is *real*, but the *terminology* *carries* *baggage*, and the *baggage* *must* be *acknowledged*.
 
-**(iii) The *circularity* *objection*.** The *essentialist* *explains* *necessity* by *essence*, and *essence* by *real* *definition*, and the *real* *definition* is *not* *independently* *characterised*. The *charge* is *the* *same* as the *charge* against *grounding* (§3.3): the *primitive* is a *label*, not an *explanation*.
+**(iii) The *circularity* *objection*.** The *essentialist* *explains* *necessity* by *essence*, and *essence* by *real* *definition*, and the *real* *definition* is *not* *independently* *characterized*. The *charge* is *the* *same* as the *charge* against *grounding* (§3.3): the *primitive* is a *label*, not an *explanation*.
 
 ---
 
@@ -424,7 +424,7 @@ Lewis’s **counterpart theory** (“Counterpart Theory and Quantified Modal Log
 
 - A *world* is a *concrete* *whole* (§2.2).
 - A *counterpart* *relation* $C$ *holds* *between* *individuals* *in* *different* *worlds*.
-- *Modal* *claims* are *analysed* *in* *terms* of *counterparts*:
+- *Modal* *claims* are *analyzed* *in* *terms* of *counterparts*:
 
 $$
 \Box Fx \ \text{is true at} \ w \ \text{iff} \ \forall v \ \forall y \ (C(y, x, v) \to Fy \ \text{at} \ v)
@@ -432,7 +432,7 @@ $$
 
 **The *virtue*.** The *theory* *avoids* the *problems* of *transworld* *identity*: there is *no* *mysterious* *relation* of *identity* *across* *worlds*, because there is *no* *identity* *across* *worlds*. The *counterpart* *relation* is a *similarity* *relation*, and *similarity* is *familiar*.
 
-**The *cost*.** The *theory* *changes* the *subject*. “Socrates *might* have been a *carpenter*” is *analysed* as “there is a *counterpart* of *Socrates* who is a *carpenter*” — and the *analysis* is *not* *what* we *meant*. We *meant* that *Socrates* — *the* *very* *man* — *might* have *been* a *carpenter*; the *counterpart* *theory* *says* that *someone* *else* *might* have *been* a *carpenter*, and the *someone* *else* is *not* *Socrates*.
+**The *cost*.** The *theory* *changes* the *subject*. “Socrates *might* have been a *carpenter*” is *analyzed* as “there is a *counterpart* of *Socrates* who is a *carpenter*” — and the *analysis* is *not* *what* we *meant*. We *meant* that *Socrates* — *the* *very* *man* — *might* have *been* a *carpenter*; the *counterpart* *theory* *says* that *someone* *else* *might* have *been* a *carpenter*, and the *someone* *else* is *not* *Socrates*.
 
 ### 4.3 The Humphrey objection
 
@@ -460,7 +460,7 @@ $$
 
 The *alternative* to *counterpart* *theory* is *transworld* *identity* *grounded* in **haecceities** — *primitive* *thisness* — or in **individual essences** — *properties* that *uniquely* *identify* an *individual* *in* *every* *world*.
 
-**Haecceities** (Duns Scotus, *Ordinatio* II.3.1; Adams 1979; Rosenkrantz 1993). A *haecceity* is a *non-qualitative* *property* — the *property* *of* *being* *Socrates* — that *distinguishes* *Socrates* *from* *every* *other* *individual* *in* *every* *possible* *world*. The *property* is *primitive*; it is *not* *analysable* *into* *qualitative* *properties*.
+**Haecceities** (Duns Scotus, *Ordinatio* II.3.1; Adams 1979; Rosenkrantz 1993). A *haecceity* is a *non-qualitative* *property* — the *property* *of* *being* *Socrates* — that *distinguishes* *Socrates* *from* *every* *other* *individual* *in* *every* *possible* *world*. The *property* is *primitive*; it is *not* *analyzable* *into* *qualitative* *properties*.
 
 **Individual essences** (Plantinga 1974; Kripke 1980). An *individual* *essence* is a *qualitative* *property* (or *set* of *properties*) that *uniquely* *identifies* the *individual* *in* *every* *world*. The *candidate*: *origin* *essentialism* (the *sperm* and *egg*), *or* a *complex* *of* *essential* *properties*.
 
@@ -582,7 +582,7 @@ $$
 
 **The *problems*.**
 
-**(i) The *idealisation* *problem*.** What is *ideal* *conceivability*? It is *conceivability* by a *perfect* *reasoner*, with *all* the *relevant* *information*. The *notion* is *normative* and *unavailable*; it is *an* *ideal* *toward* *which* we *strive*, and the *striving* is *fallible*.
+**(i) The *idealization* *problem*.** What is *ideal* *conceivability*? It is *conceivability* by a *perfect* *reasoner*, with *all* the *relevant* *information*. The *notion* is *normative* and *unavailable*; it is *an* *ideal* *toward* *which* we *strive*, and the *striving* is *fallible*.
 
 **(ii) The *Kripkean* *counterexamples*.** Kripke (1980) *argued* that *necessary* *truths* *can* be *conceivably* *false*: “water is not H₂O” is *conceivable* (we can *imagine* a *world* where the *stuff* is XYZ), but it is *not* *metaphysically* *possible* (water is *essentially* H₂O). The *CP* *thesis* *fails*.
 
@@ -590,7 +590,7 @@ $$
 
 **(iii) The *empirical* *counterexamples*.** The *history* of *science* is a *history* of *conceivable* *possibilities* that *turned* *out* to be *impossible* (the *luminiferous* *ether*, *phlogiston*, *perpetual* *motion*). The *conceivability* *is* *not* a *guide* to *possibility*.
 
-**The *reply*.** The *counterexamples* *involve* *conceptual* *confusion*: the *possibilities* *were* *not* *ideally* *conceivable* (they *violated* *essential* *properties* that *were* *discovered* *later*). The *reply* *saves* *CP* by *making* the *idealisation* *very* *demanding* — *so* *demanding* that it is *nearly* *vacuous*.
+**The *reply*.** The *counterexamples* *involve* *conceptual* *confusion*: the *possibilities* *were* *not* *ideally* *conceivable* (they *violated* *essential* *properties* that *were* *discovered* *later*). The *reply* *saves* *CP* by *making* the *idealization* *very* *demanding* — *so* *demanding* that it is *nearly* *vacuous*.
 
 ### 6.3 The two-dimensional framework
 
@@ -621,9 +621,9 @@ The *most* *important* *recent* *alternative* to *modal* *rationalism* is **moda
 
 **The *objection*.** The *account* *seems* *too* *empirical*: the *modal* *facts* (that $2+2=4$ is *necessary*) *seem* *independent* of *empirical* *theories*. (The *reply*: the *logical* and *mathematical* *necessities* are *a* *priori*, and the *empiricist* *account* *applies* to the *metaphysical* *necessities* — water is H₂O, Socrates is essentially human — which *are* *discovered* *empirically*.)
 
-### 6.5 Modal scepticism
+### 6.5 Modal skepticism
 
-The *most* *radical* *position* is **modal* *scepticism*** (van Inwagen, “Modal Epistemology,” 1998; also the *earlier* *version* in “Two Concepts of Possible Worlds,” 1986).
+The *most* *radical* *position* is **modal* *skepticism*** (van Inwagen, “Modal Epistemology,” 1998; also the *earlier* *version* in “Two Concepts of Possible Worlds,” 1986).
 
 **The *argument*.**
 
@@ -636,11 +636,11 @@ $$
 \end{array}
 $$
 
-**The *conclusion*.** The *sceptic* *does* not *deny* that there are *modal* *facts*; the *sceptic* *denies* that we *know* them. The *position* is *consistent*, and it is *uncomfortable*.
+**The *conclusion*.** The *skeptic* *does* not *deny* that there are *modal* *facts*; the *skeptic* *denies* that we *know* them. The *position* is *consistent*, and it is *uncomfortable*.
 
-**The *objections*.** (i) The *sceptic* *uses* *modal* *reasoning* (in the *argument* *itself*), and the *use* *presupposes* the *reliability* of the *method*. (ii) The *sceptic* *cannot* *explain* the *success* of *science*, which *relies* *on* *modal* *reasoning* (laws, counterfactuals, predictions). (iii) The *sceptic* *is* *self-undermining* (the *argument* *is* *itself* a *modal* *argument*).
+**The *objections*.** (i) The *skeptic* *uses* *modal* *reasoning* (in the *argument* *itself*), and the *use* *presupposes* the *reliability* of the *method*. (ii) The *skeptic* *cannot* *explain* the *success* of *science*, which *relies* *on* *modal* *reasoning* (laws, counterfactuals, predictions). (iii) The *skeptic* *is* *self-undermining* (the *argument* *is* *itself* a *modal* *argument*).
 
-**The *reply*.** The *sceptic* *uses* *modal* *reasoning* *locally* (to *make* the *argument*) and *denies* it *globally*; the *distinction* is *stable* (the *sceptical* *practice* vs. the *sceptical* *position*; Ch. 13, §6.3). The *reply* is *contested*.
+**The *reply*.** The *skeptic* *uses* *modal* *reasoning* *locally* (to *make* the *argument*) and *denies* it *globally*; the *distinction* is *stable* (the *skeptical* *practice* vs. the *skeptical* *position*; Ch. 13, §6.3). The *reply* is *contested*.
 
 ### 6.6 The state of the debate
 
@@ -648,10 +648,10 @@ The *debate* is *unresolved*.
 
 | Position | Core claim | Strength | Weakness |
 |---|---|---|---|
-| **Modal rationalism** | Conceivability is the guide | A priori; intuitive | The idealisation; the Kripkean counterexamples |
+| **Modal rationalism** | Conceivability is the guide | A priori; intuitive | The idealization; the Kripkean counterexamples |
 | **Two-dimensionalism** | Primary vs. secondary intensions | Reconciles conceivability with necessity | Technical; contested |
 | **Modal empiricism** | Modal knowledge is empirical | Naturalistic; testable | Seems too empirical |
-| **Modal scepticism** | Modal knowledge is impossible | Consistent | Self-undermining; leaves practice unexplained |
+| **Modal skepticism** | Modal knowledge is impossible | Consistent | Self-undermining; leaves practice unexplained |
 
 **The *honest* *position*.** Modal *knowledge* is *real*, but it is *fallible* and *theory-laden*. The *best* *account* is a *hybrid*: *a* *priori* *knowledge* of *logical* and *mathematical* *necessity*, *empirical* *knowledge* of *metaphysical* *necessity* (via *science* and *theory*), and *conceivability* as a *heuristic* — *fallible* but *indispensable*.
 
@@ -671,7 +671,7 @@ The *debate* is *unresolved*.
 
 **Laws of nature.** The *laws* are *modally* *loaded*: they *support* *counterfactuals* (“if the *mass* were *doubled*, the *acceleration* would *halve*”), and they *sustain* *counterfactual* *inferences*. The *analysis* of *laws* is the *analysis* of *modality* (Ch. 18, §5; Ch. 39, §1).
 
-**Dispositions.** The *dispositional* *properties* (solubility, charge, fragility) are *modally* *characterised*: a *soluble* *thing* *would* *dissolve* *if* *placed* in *water*. The *analysis* of *dispositions* is the *analysis* of *modality* (Ch. 15, §5.3).
+**Dispositions.** The *dispositional* *properties* (solubility, charge, fragility) are *modally* *characterized*: a *soluble* *thing* *would* *dissolve* *if* *placed* in *water*. The *analysis* of *dispositions* is the *analysis* of *modality* (Ch. 15, §5.3).
 
 **Scientific realism.** The *pessimistic* *meta-induction* (Ch. 40, §5) is a *modal* *argument*: our *current* *theories* are *probably* *false*, because *past* *theories* were *false*. The *argument* *turns* on the *modal* *notion* of *probability* and on the *modal* *notion* of *approximate* *truth*.
 
@@ -698,7 +698,7 @@ The *applications* *show* that *modality* is not a *luxury*. It is the *framewor
 - **Possible worlds are indispensable.** The *analysis* *of* *modality* *in* *terms* of *possible* *worlds* is the *standard*, and the *alternatives* are *costly*.
 - **Essentialism is real.** The *revival* of *essentialism* is the *dominant* *contemporary* *position*, and it is *grounded* in *Kripke’s* *necessities* and *Fine’s* *real* *definitions*.
 - **Grounding is a real relation.** The *notion* of *grounding* is *central* to *contemporary* *metaphysics*, and it *connects* *essence* to *necessity*.
-- **Modal knowledge is fallible.** The *conceivability–possibility* *thesis* is *contested*, the *two-dimensional* *framework* is *promising*, and *modal* *scepticism* is *live*.
+- **Modal knowledge is fallible.** The *conceivability–possibility* *thesis* is *contested*, the *two-dimensional* *framework* is *promising*, and *modal* *skepticism* is *live*.
 
 ### 8.2 What is open
 
@@ -733,9 +733,9 @@ The *honest* verdict: the *theory* of *modality* is a *field* in *transition*. T
 | **Fine’s essentialism** | Essence = real definition | Corrects the *order* | The *nature* of *real* *definition* |
 | **Counterpart theory** | No transworld identity | Avoids mystery | The Humphrey objection |
 | **Haecceitism** | Primitive thisness | Grounds transworld identity | The mystery of haecceity |
-| **Modal rationalism** | Conceivability is the guide | A priori; intuitive | The idealisation; Kripkean cases |
+| **Modal rationalism** | Conceivability is the guide | A priori; intuitive | The idealization; Kripkean cases |
 | **Modal empiricism** | Modal knowledge is empirical | Naturalistic | Seems too empirical |
-| **Modal scepticism** | Modal knowledge is impossible | Consistent | Self-undermining |
+| **Modal skepticism** | Modal knowledge is impossible | Consistent | Self-undermining |
 
 The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *position* must decide which *cost* is *acceptable* — and the *decision* is a *philosophical* *argument*.
 
@@ -749,7 +749,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 **2. Essence and *de re* modality in the *history* of philosophy.** The *medieval* *debates* on *de re* *modality*, *essentialism*, and *haecceity* (Duns Scotus, Ockham, Buridan) are *sophisticated*, and they *anticipate* the *contemporary* *debate* in *detail*. The *study* of the *history* is not *antiquarian*; it is a *source* of *arguments* (Knuuttila 1993; the *Stanford* *Encyclopedia* entry, “Medieval Theories of Modality”).
 
-**3. Modality and *quantum* *mechanics*.** The *modal* *interpretation* of *quantum* *mechanics* (Dieks, Vermaas, Kochen) *treats* the *quantum* *state* as a *catalogue* of *possibilities*, and the *measurement* as the *actualisation* of *one* of them. The *view* is *contested*, and it is *connected* to the *debate* about *modality* *in* *physics* (Ch. 19, §5; Ch. 41, §4).
+**3. Modality and *quantum* *mechanics*.** The *modal* *interpretation* of *quantum* *mechanics* (Dieks, Vermaas, Kochen) *treats* the *quantum* *state* as a *catalog* of *possibilities*, and the *measurement* as the *actualization* of *one* of them. The *view* is *contested*, and it is *connected* to the *debate* about *modality* *in* *physics* (Ch. 19, §5; Ch. 41, §4).
 
 **4. Non-Western *theories* of *modality*.** The *Indian* *Nyāya-Vaiśeṣika* *tradition* *developed* a *sophisticated* *theory* of *possibility* and *necessity* (the *debate* on *kārya-kāraṇa*, the *svabhāva* *theory*, the *apūrva* *theory*), and the *Buddhist* *tradition* *developed* a *radical* *anti-essentialism* (the *anattā* *doctrine*, the *apoha* *theory*). The *traditions* *anticipate* the *contemporary* *debate* *between* *essentialism* and *anti-essentialism*, and they *offer* *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
 
@@ -767,7 +767,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 - **Grounding** is the *relation* *that* *connects* *essence* to *necessity*, and it is *central* to *contemporary* *metaphysics*. The *source* of *necessity* is *contested* (essentialist, conventionalist, primitivist, theological).
 - **De re** *modality* *across* *worlds* *raises* the *problem* of *transworld* *identity*. **Counterpart theory** *avoids* the *mystery* but *faces* the *Humphrey* *objection*; **haecceitism** *preserves* the *intuition* but *posits* a *mysterious* *entity*.
 - **The varieties of possibility** *nest* (logical ⊃ metaphysical ⊃ nomological), and the *nesting* is *contested*. **Impossible worlds** are *promising* and *incomplete*, and they are *connected* to the *semantics* of *counterpossibles*.
-- **Modal epistemology** is *unresolved*: **modal rationalism** *grounds* *modal* *knowledge* in *conceivability*; **modal empiricism** *grounds* it in *empirical* *theories*; **modal scepticism** *denies* it. The *two-dimensional* *framework* is the *most* *sophisticated* *reconciliation*.
+- **Modal epistemology** is *unresolved*: **modal rationalism** *grounds* *modal* *knowledge* in *conceivability*; **modal empiricism** *grounds* it in *empirical* *theories*; **modal skepticism** *denies* it. The *two-dimensional* *framework* is the *most* *sophisticated* *reconciliation*.
 - **Modality matters** for *ethics* (supervenience, ought-implies-can), *science* (laws, dispositions), and *ordinary* *action* (ability, counterfactuals). It is the *framework* *category* within which the rest of *metaphysics* *takes* place.
 
 ---
@@ -790,7 +790,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 14. Are *impossible* *worlds* *indispensable*? What *work* do they *do*?
 15. State the *conceivability–possibility* *thesis*. Is it *defensible*? What is the *two-dimensional* *response* to the *Kripkean* *counterexamples*?
 16. Is *modal* *knowledge* *a* *priori* or *empirical*? What is the *strongest* *argument* for each?
-17. Is *modal* *scepticism* a *coherent* *position*? What is the *self-undermining* *worry*?
+17. Is *modal* *skepticism* a *coherent* *position*? What is the *self-undermining* *worry*?
 18. “Modality is not a *luxury*; it is the *framework* of metaphysics.” Assess. Give *three* *applications*.
 
 ---
@@ -810,6 +810,6 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 ---
 
-> *A closing note.* This chapter has followed the *framework* *category* of *metaphysics* — the possible and the necessary — through the *formal* *logic*, the *possible-worlds* *metaphysics*, the *essentialist* *revival*, the *grounding* *programme*, the *problem* of *transworld* *identity*, the *varieties* of *possibility*, and the *epistemology* of the *modal*. The result is *not* a *settled* *theory* of *modality*, and it is *not* a *refutation* of *modality*. It is a *clarification*: modality is *real*, it is *indispensable*, and its *metaphysics* and its *epistemology* are *both* unresolved — but the *shape* of the disagreement has been clarified, and the clarification is a *genuine* achievement.
+> *A closing note.* This chapter has followed the *framework* *category* of *metaphysics* — the possible and the necessary — through the *formal* *logic*, the *possible-worlds* *metaphysics*, the *essentialist* *revival*, the *grounding* *program*, the *problem* of *transworld* *identity*, the *varieties* of *possibility*, and the *epistemology* of the *modal*. The result is *not* a *settled* *theory* of *modality*, and it is *not* a *refutation* of *modality*. It is a *clarification*: modality is *real*, it is *indispensable*, and its *metaphysics* and its *epistemology* are *both* unresolved — but the *shape* of the disagreement has been clarified, and the clarification is a *genuine* achievement.
 
 > *And a bridge.* The next chapter turns to *time* — the *modality* of the *temporal* *order*. If *modality* is the *category* of the *possible* and the *necessary*, *time* is the *category* of the *actual* and the *temporal*. The *two* are *connected*: the *A-theory* of *time* (Ch. 17, §1) *requires* a *primitive* *tense*, and *tense* is a *modal* *notion* (the *past* is *fixed*, the *future* is *open*); the *B-theory* *reduces* *tense* to *temporal* *position*, and the *reduction* is *the* *temporal* *analogue* of the *reduction* of *modality* to *possible* *worlds*. The *next* *chapter* *examines* the *connection*, and it *asks* the *question* the *modal* *theory* *presupposes*: *what* *is* the *temporal* *order*, and *why* does it *matter*?

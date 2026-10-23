@@ -18,7 +18,7 @@ The chapter has an unusual structure, because the topic divides into two debates
 - **The nature of time** (§§1–3): is the A-series (past, present, future) real, or is it an illusion? What is the *present*, and what does *passage* consist in? What does temporal *experience* tell us about the metaphysics of time?
 - **The persistence of objects** (§§4–5): given whatever time turns out to be, *how do things persist through it*? Are objects *wholes* that endure, or *worms* that perdure, or *stages* that succeed one another?
 
-The *first* debate is about *time*; the *second* is about *things in time*. The two are connected by a single question: **what is the relation between an object and the times at which it exists?** And the connection is not merely formal: the *endurantist* has a natural ally in the A-theorist (both *privilege* the present), and the *perdurantist* has a natural ally in the B-theorist (both *spatialise* the temporal order). The alliances are not necessary, but they are *revealing*.
+The *first* debate is about *time*; the *second* is about *things in time*. The two are connected by a single question: **what is the relation between an object and the times at which it exists?** And the connection is not merely formal: the *endurantist* has a natural ally in the A-theorist (both *privilege* the present), and the *perdurantist* has a natural ally in the B-theorist (both *spatialize* the temporal order). The alliances are not necessary, but they are *revealing*.
 
 The chapter proceeds in seven movements. §1 states the A-theory/B-theory debate. §2 examines McTaggart’s paradox and the reality of tense. §3 examines temporal experience and the specious present. §4 examines the three theories of persistence. §5 examines the problem of temporary intrinsics, which is the *engine* of the debate. §6 examines the arrow of time and the physics–metaphysics interface. §7 previews personal identity across time. §8 gives an honest verdict.
 
@@ -28,7 +28,7 @@ The chapter proceeds in seven movements. §1 states the A-theory/B-theory debate
 
 ### 1.1 McTaggart's two series
 
-The modern debate begins with J. M. E. McTaggart’s “The Unreality of Time” (1908), which introduced the distinction that still organises the field.
+The modern debate begins with J. M. E. McTaggart’s “The Unreality of Time” (1908), which introduced the distinction that still organizes the field.
 
 **The B-series.** Events are ordered by the *tenseless* relations **earlier than**, **later than**, and **simultaneous with**. The B-series is a *static* ordering: every event has a *fixed* position in it, and the relations do not change. On the B-series, the Battle of Hastings is *earlier than* the Battle of Waterloo, and it is so *once and for all*.
 
@@ -179,7 +179,7 @@ $$
 
 **(ii) The rejection of the truthmaker principle.** The *presentist* can *deny* that *every* *truth* *requires* a *truthmaker*. Some *truths* are *true* *without* a *truthmaker* — *negative* *existentials*, *analytic* *truths*, *modal* *truths* — and *claims* *about* the *past* are *of* the *exceptional* *kind*.
 
-**The *objection*.** The *rejection* *undermines* the *truthmaker* *programme* (Ch. 22, §2), and the *programme* is *one* of the *most* *important* *tools* of *contemporary* *metaphysics*.
+**The *objection*.** The *rejection* *undermines* the *truthmaker* *program* (Ch. 22, §2), and the *program* is *one* of the *most* *important* *tools* of *contemporary* *metaphysics*.
 
 **(iii) The *tensed* *truthmaker*.** The *truthmaker* is a *tensed* *fact* — the *fact* *that* *the* *Battle* *was* *fought* — and the *fact* *is* *present* (it is a *fact* *about* the *past*, *had* *by* the *present*). The *view* *is* *close* to *ersatz* *presentism*, and it *faces* the *same* *objection*.
 
@@ -381,7 +381,7 @@ The *empirical* *literature* *is* *rich*, and it is *relevant* to the *metaphysi
 | **Perdurantism** | Four-dimensional whole | Solves temporary intrinsics | Denies common sense |
 | **Stage theory** | Momentary stages | Solves temporary intrinsics; parsimony | Humphrey objection; many thinkers |
 
-The *debate* is *unresolved*, and it is *connected* to the *A/B* *debate*: the *endurantist* is *naturally* an *A-theorist* (both *privilege* the *present*), and the *perdurantist* is *naturally* a *B-theorist* (both *spatialise* the *temporal* *order*). The *connections* are *not* *logical* *entailments*, but they are *revealing* of the *structure* of the *debate*.
+The *debate* is *unresolved*, and it is *connected* to the *A/B* *debate*: the *endurantist* is *naturally* an *A-theorist* (both *privilege* the *present*), and the *perdurantist* is *naturally* a *B-theorist* (both *spatialize* the *temporal* *order*). The *connections* are *not* *logical* *entailments*, but they are *revealing* of the *structure* of the *debate*.
 
 ---
 
@@ -476,7 +476,7 @@ The *choice* *depends* on the *weight* given to *common sense*, *parsimony*, and
 
 ### 6.1 The arrows
 
-**The *observation*.** Time has a *direction*: the *past* is *fixed* and the *future* is *open*; *causes* *precede* *effects*; *memories* *are* of the *past*; *entropy* *increases*. The *direction* is *not* a *feature* of the *fundamental* *laws* (they are *time-reversal* *symmetric*); it is a *feature* of the *initial* *conditions* and the *statistical* *behaviour* of *large* *systems*.
+**The *observation*.** Time has a *direction*: the *past* is *fixed* and the *future* is *open*; *causes* *precede* *effects*; *memories* *are* of the *past*; *entropy* *increases*. The *direction* is *not* a *feature* of the *fundamental* *laws* (they are *time-reversal* *symmetric*); it is a *feature* of the *initial* *conditions* and the *statistical* *behavior* of *large* *systems*.
 
 **The *arrows*.**
 

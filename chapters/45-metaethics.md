@@ -1,4 +1,4 @@
-# Chapter 44 — Metaethics: The Nature of Moral Judgement
+# Chapter 44 — Metaethics: The Nature of Moral Judgment
 
 > “I am surpriz'd to find, that instead of the usual copulations of propositions, *is*, and *is not*, I meet with no proposition that is not connected with an *ought*, or an *ought not*. … For as this *ought*, or *ought not*, expresses some new relation or affirmation, 'tis necessary that it shou'd be observ'd and explain'd; and at the same time that a reason should be given, for what seems altogether inconceivable, how this new relation can be a deduction from others, which are entirely different from it.”
 > — David Hume, *A Treatise of Human Nature* (1739–40), III.i.1
@@ -11,11 +11,11 @@
 
 ---
 
-Part VI examined the *sciences* — the domains in which the *naturalistic* *programme* is *most* at *home*, and in which its *limits* were *revealed*: the *teleology* of biology (Ch. 42, §2), the *abstract* objects of mathematics (Ch. 43, §1), the *values* in the science itself (Ch. 39, §6). Part VII turns to the domain in which the *limits* become the *subject*: **value**.
+Part VI examined the *sciences* — the domains in which the *naturalistic* *program* is *most* at *home*, and in which its *limits* were *revealed*: the *teleology* of biology (Ch. 42, §2), the *abstract* objects of mathematics (Ch. 43, §1), the *values* in the science itself (Ch. 39, §6). Part VII turns to the domain in which the *limits* become the *subject*: **value**.
 
-This chapter is **metaethics** — the *study* of the *nature* of *moral* *judgement*, not the *study* of *which* moral judgements are *correct* (that is the *normative* *ethics* of Ch. 45, the *practical* *reason* of Ch. 46, the *political* *philosophy* of Ch. 47, and the *applied* *ethics* of Ch. 51). The *distinction* is the *distinction* between the *logic* and the *content* of the moral *discourse*, and it is the *distinction* the chapter *develops*.
+This chapter is **metaethics** — the *study* of the *nature* of *moral* *judgment*, not the *study* of *which* moral judgments are *correct* (that is the *normative* *ethics* of Ch. 45, the *practical* *reason* of Ch. 46, the *political* *philosophy* of Ch. 47, and the *applied* *ethics* of Ch. 51). The *distinction* is the *distinction* between the *logic* and the *content* of the moral *discourse*, and it is the *distinction* the chapter *develops*.
 
-The chapter has a *peculiar* status in the book, because it is the *place* where the *whole* book *converges*. The *semantics* of Chs. 31–32 asks whether moral sentences have *truth conditions*; the *metaphysics* of Chs. 14–22 asks whether there are *moral* *facts*; the *epistemology* of Chs. 7–13 asks how we could *know* them; the *philosophy* of *mind* of Chs. 24–30 asks whether moral judgements are *beliefs* or *attitudes*; and the *philosophy* of *science* of Ch. 39 asks whether the *debunking* of moral belief *undermines* its *justification*. The chapter's thesis is that the *convergence* is the *point*: metaethics is the *test* of the *whole* *naturalistic* *programme*, and the *programme* *survives* — not in the *reductive* form but in the *qualified* form, and the *qualification* is the *subject* of the chapter.
+The chapter has a *peculiar* status in the book, because it is the *place* where the *whole* book *converges*. The *semantics* of Chs. 31–32 asks whether moral sentences have *truth conditions*; the *metaphysics* of Chs. 14–22 asks whether there are *moral* *facts*; the *epistemology* of Chs. 7–13 asks how we could *know* them; the *philosophy* of *mind* of Chs. 24–30 asks whether moral judgments are *beliefs* or *attitudes*; and the *philosophy* of *science* of Ch. 39 asks whether the *debunking* of moral belief *undermines* its *justification*. The chapter's thesis is that the *convergence* is the *point*: metaethics is the *test* of the *whole* *naturalistic* *program*, and the *program* *survives* — not in the *reductive* form but in the *qualified* form, and the *qualification* is the *subject* of the chapter.
 
 The chapter proceeds in seven movements. §1 examines the *fact/value* *gap* and the *naturalistic* *fallacy*. §2 examines *moral* *realism*. §3 examines the *anti*-*realist* *alternatives* (error theory, expressivism, quasi-realism). §4 examines *constructivism*. §5 examines *moral* *disagreement* and the *companions* in *guilt*. §6 examines *moral* *epistemology*. §7 examines *thick* *ethical* *concepts* and the *entanglement* of *fact* and *value*. §8 gives an *honest* *verdict*.
 
@@ -177,13 +177,13 @@ $$
 
 ### 2.1 The thesis
 
-**The *view***. There are *mind*-*independent* *moral* *facts* (the *truths* about the *good*, the *right*, the *obligatory*), and the *moral* *judgements* *express* the *propositions* about them, and some of the *propositions* are *true*.
+**The *view***. There are *mind*-*independent* *moral* *facts* (the *truths* about the *good*, the *right*, the *obligatory*), and the *moral* *judgments* *express* the *propositions* about them, and some of the *propositions* are *true*.
 
 **The *three* *components*** (Ch. 40, §5.1, *adapted*).
 
 | The *component* | The *claim* | The *status* |
 |---|---|---|
-| **Semantic** | The moral judgements express the *propositions* (the *cognitivism*) | The *default* |
+| **Semantic** | The moral judgments express the *propositions* (the *cognitivism*) | The *default* |
 | **Metaphysical** | Some of the *propositions* are *true* (the *realism*) | The *contested* |
 | **Epistemic** | We *know* some of the *truths* (the *epistemic* *realism*) | The *contested* |
 
@@ -286,9 +286,9 @@ $$
 
 **The *reply*** (the *contemporary* *intuitionism*; Audi, *The Good in the Right*, 2004, Ch. 1). The *intuition* is the *a* *priori* *grasp* (the *self*-*evidence*, the *reflective* *equilibrium*; Ch. 3, §4), and the *reply* *grounds* the *access* in the *a* *priori*, and the *reply* is *contested*.
 
-**(iii) The *causal* *impotence* *objection* (Ch. 23, §5; Ch. 18, §4). The *non*-*natural* *properties* are *causally* *inert* (they are *not* *in* the *causal* *order*), and the *moral* *properties* *cannot* *explain* the *action* (the *moral* *judgement* *cannot* *cause* the *action*), and the *moral* *practice* *requires* the *causal* *efficacy* (the *moral* *judgement* *motivates*).
+**(iii) The *causal* *impotence* *objection* (Ch. 23, §5; Ch. 18, §4). The *non*-*natural* *properties* are *causally* *inert* (they are *not* *in* the *causal* *order*), and the *moral* *properties* *cannot* *explain* the *action* (the *moral* *judgment* *cannot* *cause* the *action*), and the *moral* *practice* *requires* the *causal* *efficacy* (the *moral* *judgment* *motivates*).
 
-**The *reply*** (the *contemporary* *literature*). The *moral* *judgement* is a *belief* (the *cognitive* *insight*), and the *belief* *causes* the *action* *through* the *desire* (the *Humean* *theory*; Ch. 28, §2.2), and the *reply* *grounds* the *efficacy* in the *belief*-*desire* *pair*, and the *reply* is *contested* (the *non*-*natural* *property* *explains* the *belief*, and the *explanation* *is* *mysterious*).
+**The *reply*** (the *contemporary* *literature*). The *moral* *judgment* is a *belief* (the *cognitive* *insight*), and the *belief* *causes* the *action* *through* the *desire* (the *Humean* *theory*; Ch. 28, §2.2), and the *reply* *grounds* the *efficacy* in the *belief*-*desire* *pair*, and the *reply* is *contested* (the *non*-*natural* *property* *explains* the *belief*, and the *explanation* *is* *mysterious*).
 
 ### 2.5 The state of the realism
 
@@ -309,12 +309,12 @@ $$
 
 ### 3.1 The error theory
 
-**The *thesis*** (Mackie, *Ethics: Inventing Right and Wrong*, 1977, Ch. 1; the *contemporary* *literature*; Joyce, *The Myth of Morality*, 2001). The *moral* *judgements* *presuppose* the *objective* *moral* *facts*, and the *presupposition* *is* *false*, and the *judgements* are *systematically* *false*.
+**The *thesis*** (Mackie, *Ethics: Inventing Right and Wrong*, 1977, Ch. 1; the *contemporary* *literature*; Joyce, *The Myth of Morality*, 2001). The *moral* *judgments* *presuppose* the *objective* *moral* *facts*, and the *presupposition* *is* *false*, and the *judgments* are *systematically* *false*.
 
 **The *structure***.
 
 $$
-\text{Moral judgement} \ j \ \text{presupposes} \ \exists x\, M(x) \ \wedge \ \neg\exists x\, M(x) \ \Rightarrow \ j \ \text{is *false*}
+\text{Moral judgment} \ j \ \text{presupposes} \ \exists x\, M(x) \ \wedge \ \neg\exists x\, M(x) \ \Rightarrow \ j \ \text{is *false*}
 $$
 
 **The *two* *arguments***.
@@ -347,7 +347,7 @@ $$
 \end{array}
 $$
 
-**The *virtue***. The *error* *theory* *preserves* the *cognitivism* (the *moral* *judgements* are *propositions*) and the *truth*-*aptness* (the *judgements* are *true* or *false*), and it *avoids* the *queerness* (the *values* *are* *not* *posited*), and it *fits* the *naturalism*.
+**The *virtue***. The *error* *theory* *preserves* the *cognitivism* (the *moral* *judgments* are *propositions*) and the *truth*-*aptness* (the *judgments* are *true* or *false*), and it *avoids* the *queerness* (the *values* *are* *not* *posited*), and it *fits* the *naturalism*.
 
 **The *objections***.
 
@@ -355,7 +355,7 @@ $$
 
 **The *reply*** (Joyce 2001, Ch. 1; the *contemporary* *literature*; Ch. 32, §6.2). The *epistemic* *norms* are *different* from the *moral* *facts* (the *error* *theory* is *about* the *moral* *facts*, not the *epistemic* *norms*), and the *reply* *grounds* the *epistemic* *norms* in the *epistemic* *practice*, and the *reply* is *contested* (the *epistemic* *norms* are *normative*, and the *error* *theory* *cannot* *consistently* *accept* the *specifically* *normative* *norms* without *explaining* the *exception*).
 
-**(ii) The *‘*no* *presupposition*’* *objection*. The *moral* *judgements* *do* not *presuppose* the *objective* *values* (the *expressivist* *account*; §3.2), and the *error* *theory* *misdescribes* the *moral* *discourse*.
+**(ii) The *‘*no* *presupposition*’* *objection*. The *moral* *judgments* *do* not *presuppose* the *objective* *values* (the *expressivist* *account*; §3.2), and the *error* *theory* *misdescribes* the *moral* *discourse*.
 
 **The *reply*** (Mackie 1977, §1; the *cognitivist* *insight*). The *moral* *discourse* *has* the *objectivist* *grammar* (the *“*X* *is* *wrong*”* *looks* like the *“*X* *is* *red*”*), and the *reply* *grounds* the *presupposition* in the *grammar*, and the *reply* is *contested* (the *expressivist* *can* *explain* the *grammar* *without* the *presupposition*; the *quasi*-*realist* *project*; §3.3).
 
@@ -365,7 +365,7 @@ $$
 
 ### 3.2 Expressivism
 
-**The *thesis*** (Ayer, *Language, Truth and Logic*, 1936, Ch. 6; Stevenson, “The Emotive Meaning of Ethical Terms,” 1937; Blackburn, *Spreading the Word*, 1984, Ch. 6; *Essays in Quasi-Realism*, 1993; Gibbard, *Wise Choices, Apt Feelings*, 1990; *Thinking How to Live*, 2003). The *moral* *sentences* *express* the *attitudes* (the *approval*, the *disapproval*, the *plan*, the *norm*), not the *propositions*, and the *moral* *judgements* are *not* *truth*-*apt* in the *ordinary* *sense*.
+**The *thesis*** (Ayer, *Language, Truth and Logic*, 1936, Ch. 6; Stevenson, “The Emotive Meaning of Ethical Terms,” 1937; Blackburn, *Spreading the Word*, 1984, Ch. 6; *Essays in Quasi-Realism*, 1993; Gibbard, *Wise Choices, Apt Feelings*, 1990; *Thinking How to Live*, 2003). The *moral* *sentences* *express* the *attitudes* (the *approval*, the *disapproval*, the *plan*, the *norm*), not the *propositions*, and the *moral* *judgments* are *not* *truth*-*apt* in the *ordinary* *sense*.
 
 **The *structure***.
 
@@ -377,15 +377,15 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *moral* *judgements* *motivate* the *action* (the *internalism*; Ch. 28, §2.3).} \\
+1. & \text{The *moral* *judgments* *motivate* the *action* (the *internalism*; Ch. 28, §2.3).} \\
 2. & \text{The *beliefs* *alone* *do* *not* *motivate* (the *Humean* *theory*; Ch. 28, §2.2).} \\
-3. & \text{The *moral* *judgements* *must* be the *conative* *states* (the *desires*, the *attitudes*).} \\
+3. & \text{The *moral* *judgments* *must* be the *conative* *states* (the *desires*, the *attitudes*).} \\
 \hline
-4. & \therefore \text{The *moral* *judgements* *express* the *attitudes* (the *expressivism*).}
+4. & \therefore \text{The *moral* *judgments* *express* the *attitudes* (the *expressivism*).}
 \end{array}
 $$
 
-**The *virtue***. The *account* *captures* the *motivational* *force* of the *moral* *judgement* (the *internalism*), and it *fits* the *naturalism* (the *attitudes* are *natural* *states*; Ch. 25, §2), and it *avoids* the *queerness* (the *moral* *facts* *are* *not* *posited*).
+**The *virtue***. The *account* *captures* the *motivational* *force* of the *moral* *judgment* (the *internalism*), and it *fits* the *naturalism* (the *attitudes* are *natural* *states*; Ch. 25, §2), and it *avoids* the *queerness* (the *moral* *facts* *are* *not* *posited*).
 
 **The *Frege*-*Geach* *problem*** (Geach, “Assertion,” 1965; the *central* *objection*).
 
@@ -411,7 +411,7 @@ $$
 
 **(ii) The *higher*-*order* *attitude* *reply*** (Blackburn 1984, Ch. 6; Gibbard 1990, Ch. 3). The *moral* *sentence* *expresses* the *higher*-*order* *attitude* (the *attitude* *toward* the *attitudes*; the *plan* *about* the *plans*), and the *higher*-*order* *attitude* *composes* (the *sentences* *express* the *attitudes* *toward* the *attitudes*), and the *composition* *is* *possible*.
 
-**The *objection***. The *higher*-*order* *attitudes* are *not* the *ordinary* *moral* *attitudes* (the *ordinary* *moral* *judgement* is *first*-*order*, not *higher*-*order*), and the *reply* *changes* the *subject*, and it is *contested*.
+**The *objection***. The *higher*-*order* *attitudes* are *not* the *ordinary* *moral* *attitudes* (the *ordinary* *moral* *judgment* is *first*-*order*, not *higher*-*order*), and the *reply* *changes* the *subject*, and it is *contested*.
 
 **(iii) The *hybrid* *expressivism*** (the *contemporary* *literature*; Schroeder, *Being For*, 2008; the *contemporary* *literature*). The *moral* *sentence* *expresses* the *belief* *plus* the *attitude* (the *hybrid* *state*), and the *belief* *provides* the *content* (the *truth* *condition*), and the *attitude* *provides* the *motivation*, and the *hybrid* *composes*.
 
@@ -431,7 +431,7 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *expressivism* *grounds* the *moral* *judgements* in the *attitudes* (the *non*-*cognitivism*).} \\
+1. & \text{The *expressivism* *grounds* the *moral* *judgments* in the *attitudes* (the *non*-*cognitivism*).} \\
 2. & \text{The *moral* *discourse* *uses* the *realist* *notions* (the *truth*, the *objectivity*, the *facts*).} \\
 3. & \text{The *realist* *notions* *can* be *earned* (the *minimal* *truth*, the *attitude* *to* the *attitudes*, the *quasi*-*realist* *construction*).} \\
 \hline
@@ -713,7 +713,7 @@ $$
 
 ### 5.4 The state of the disagreement debate
 
-**The *assessment***. The *disagreement* is *real*, and the *debunking* *argument* is *serious*, and the *companions* in *guilt* *argument* is the *strongest* *defence* of the *realism*, and the *argument* is *not* *decisive*.
+**The *assessment***. The *disagreement* is *real*, and the *debunking* *argument* is *serious*, and the *companions* in *guilt* *argument* is the *strongest* *defense* of the *realism*, and the *argument* is *not* *decisive*.
 
 | The *argument* | The *strength* | The *weakness* |
 |---|---|---|
@@ -784,15 +784,15 @@ $$
 2. & \text{The *experience* is *perceptual* (the *non*-*inferential*, the *immediacy*; Ch. 5, §6.3).} \\
 3. & \text{The *perception* *grounds* the *knowledge* (the *perceptual* *insight*).} \\
 \hline
-4. & \therefore \text{The *moral* *knowledge* is the *perception* (the *moral* *perception* *insight*), and the *perception* *grounds* the *particular* *judgements* (the *particularist* *insight*).}
+4. & \therefore \text{The *moral* *knowledge* is the *perception* (the *moral* *perception* *insight*), and the *perception* *grounds* the *particular* *judgments* (the *particularist* *insight*).}
 \end{array}
 $$
 
-**The *virtue***. The *account* *grounds* the *moral* *knowledge* in the *experience* (the *phenomenology*), and it *fits* the *particular* *judgements* (the *situation* *perception*), and it *avoids* the *abstract* *principles* (the *particularist* *insight*; Ch. 45, §5).
+**The *virtue***. The *account* *grounds* the *moral* *knowledge* in the *experience* (the *phenomenology*), and it *fits* the *particular* *judgments* (the *situation* *perception*), and it *avoids* the *abstract* *principles* (the *particularist* *insight*; Ch. 45, §5).
 
 **The *objections***.
 
-**(i) The *‘*no* *property*’* *objection*. The *moral* *properties* are *not* *perceived* (the *perception* *presents* the *non*-*moral* *facts*, and the *moral* *judgement* is the *interpretation*), and the *perception* *does* not *ground* the *knowledge*.
+**(i) The *‘*no* *property*’* *objection*. The *moral* *properties* are *not* *perceived* (the *perception* *presents* the *non*-*moral* *facts*, and the *moral* *judgment* is the *interpretation*), and the *perception* *does* not *ground* the *knowledge*.
 
 **The *reply*** (McDowell 1979; Audi 2013, Ch. 2). The *perception* *presents* the *moral* *properties* (the *trained* *perception*, the *virtue* *perception*), and the *reply* *grounds* the *perception* in the *practice*. The *reply* is *contested*.
 
@@ -806,7 +806,7 @@ $$
 
 ### 6.3 The moral testimony
 
-**The *thesis*** (the *contemporary* *literature*; Hills, “Moral Testimony and Moral Epistemology,” 2009; Ch. 11, §1; the *moral* *testimony* *debate*). The *moral* *knowledge* *can* be *transmitted* by the *testimony* (the *moral* *expert* *tells* us *what* *to* *do*), and the *testimony* *raises* the *question* of the *autonomy* (the *moral* *judgement* *requires* the *understanding*; Ch. 11, §2.4).
+**The *thesis*** (the *contemporary* *literature*; Hills, “Moral Testimony and Moral Epistemology,” 2009; Ch. 11, §1; the *moral* *testimony* *debate*). The *moral* *knowledge* *can* be *transmitted* by the *testimony* (the *moral* *expert* *tells* us *what* *to* *do*), and the *testimony* *raises* the *question* of the *autonomy* (the *moral* *judgment* *requires* the *understanding*; Ch. 11, §2.4).
 
 **The *positions***.
 
@@ -838,7 +838,7 @@ $$
 $$
 \begin{array}{ll}
 1. & \text{The *moral* *beliefs* are *explained* by the *evolutionary* *process* (the *empirical* *premise*).} \\
-2. & \text{The *process* *is* *not* *truth*-*tracking* with respect to the *moral* *facts* (the *evolutionary* *insight*: the *selection* *favours* the *beliefs* that *promote* the *cooperation*, not the *beliefs* that *track* the *moral* *truth*).} \\
+2. & \text{The *process* *is* *not* *truth*-*tracking* with respect to the *moral* *facts* (the *evolutionary* *insight*: the *selection* *favors* the *beliefs* that *promote* the *cooperation*, not the *beliefs* that *track* the *moral* *truth*).} \\
 3. & \text{The *beliefs* that result from a *non*-*truth*-*tracking* *process* are *not* *justified* (the *epistemic* *premise*; Ch. 3, §5.2).} \\
 \hline
 4. & \therefore \text{The *moral* *realism* is *undermined* (the *debunking* *conclusion*).}
@@ -869,7 +869,7 @@ $$
 |---|---|---|
 | **The *expertise* *is* *possible*** | The *moral* *expertise* *exists* (the *virtue*, the *judgment*, the *training*) | the *contemporary* *literature* (the *virtue* *tradition*) |
 | **The *expertise* *is* *limited*** | The *moral* *expertise* *exists*, but it is *not* *transmissible* (the *understanding*; §6.3) | the *contemporary* *literature* |
-| **The *expertise* *is* *impossible*** | The *moral* *judgement* *requires* the *first*-*person* *engagement* (the *autonomy*) | the *autonomy* *tradition* |
+| **The *expertise* *is* *impossible*** | The *moral* *judgment* *requires* the *first*-*person* *engagement* (the *autonomy*) | the *autonomy* *tradition* |
 
 **The *argument* (the *no*-*expertise* *worry***; Ch. 11, §6.5).
 
@@ -882,7 +882,7 @@ $$
 \end{array}
 $$
 
-**The *significance***. The *argument* *connects* the *moral* *epistemology* to the *disagreement* (Ch. 9, §6) and to the *autonomy* (Ch. 45, §3), and it *grounds* the *scepticism* *about* the *moral* *expertise*, and it *raises* the *question* of the *moral* *education* (the *transmission* of the *understanding*).
+**The *significance***. The *argument* *connects* the *moral* *epistemology* to the *disagreement* (Ch. 9, §6) and to the *autonomy* (Ch. 45, §3), and it *grounds* the *skepticism* *about* the *moral* *expertise*, and it *raises* the *question* of the *moral* *education* (the *transmission* of the *understanding*).
 
 ### 6.6 The state of the moral epistemology
 
@@ -896,7 +896,7 @@ $$
 | **Debunking** | The science | The companions in guilt |
 | **Expertise** | The practice | The disagreement |
 
-**The *most* *defensible* *position***. A *qualified* *intuitionism*: the *moral* *knowledge* is *a* *priori* (the *intuition* *insight*), and the *intuitions* are *fallible* (the *disagreement* *insight*), and the *perception* *grounds* the *particular* *judgements* (the *perceptual* *insight*), and the *testimony* *transmits* the *knowledge* but *not* the *understanding* (the *autonomy* *insight*), and the *debunking* *argument* *is* *serious* but *not* *decisive* (the *debunking* *insight*), *qualified* by the *admission* that the *disagreement* and the *debunking* *remain* *contested*.
+**The *most* *defensible* *position***. A *qualified* *intuitionism*: the *moral* *knowledge* is *a* *priori* (the *intuition* *insight*), and the *intuitions* are *fallible* (the *disagreement* *insight*), and the *perception* *grounds* the *particular* *judgments* (the *perceptual* *insight*), and the *testimony* *transmits* the *knowledge* but *not* the *understanding* (the *autonomy* *insight*), and the *debunking* *argument* *is* *serious* but *not* *decisive* (the *debunking* *insight*), *qualified* by the *admission* that the *disagreement* and the *debunking* *remain* *contested*.
 
 ---
 
@@ -918,7 +918,7 @@ $$
 
 ### 7.2 The entanglement
 
-**The *thesis*** (the *contemporary* *literature*; the *entanglement* *thesis*). The *thick* *concepts* *cannot* be *analysed* into the *descriptive* *component* and the *evaluative* *component*, and the *concepts* *are* *essentially* *entangled* (the *description* *and* the *evaluation* are *inseparable*).
+**The *thesis*** (the *contemporary* *literature*; the *entanglement* *thesis*). The *thick* *concepts* *cannot* be *analyzed* into the *descriptive* *component* and the *evaluative* *component*, and the *concepts* *are* *essentially* *entangled* (the *description* *and* the *evaluation* are *inseparable*).
 
 **The *argument***.
 
@@ -931,11 +931,11 @@ $$
 \end{array}
 $$
 
-**The *virtue***. The *thesis* *captures* the *phenomenology* of the *thick* *judgements* (the *“*that* *is* *cruel*”* *is* *not* *the* *description* *plus* *the* *attitude*, it is a *single* *judgement*), and it *fits* the *practice* (the *moral* *reasoning* uses the *thick* *concepts*), and it *avoids* the *dichotomy* (the *fact*/*value* *dichotomy* is *too* *sharp*).
+**The *virtue***. The *thesis* *captures* the *phenomenology* of the *thick* *judgments* (the *“*that* *is* *cruel*”* *is* *not* *the* *description* *plus* *the* *attitude*, it is a *single* *judgment*), and it *fits* the *practice* (the *moral* *reasoning* uses the *thick* *concepts*), and it *avoids* the *dichotomy* (the *fact*/*value* *dichotomy* is *too* *sharp*).
 
 ### 7.3 The “who’s to say” objection
 
-**The *objection*** (the *contemporary* *literature*; the *relativist* *objection*). The *thick* *concepts* *vary* *across* the *cultures* (the *concept* of the *honour*, the *chastity*, the *modesty*), and the *variation* *suggests* that the *thick* *concepts* are *cultural* *constructions*, and the *objectivity* is *lost*.
+**The *objection*** (the *contemporary* *literature*; the *relativist* *objection*). The *thick* *concepts* *vary* *across* the *cultures* (the *concept* of the *honor*, the *chastity*, the *modesty*), and the *variation* *suggests* that the *thick* *concepts* are *cultural* *constructions*, and the *objectivity* is *lost*.
 
 **The *objection*.
 
@@ -985,14 +985,14 @@ $$
 - **The *error* *theory*** (Mackie) *preserves* the *cognitivism* and the *avoids* the *queerness*, and it *faces* the *self*-*undermining* *objection*.
 - **The *expressivism*** (Ayer, Blackburn, Gibbard) *captures* the *motivational* *force*, and it *faces* the *Frege*-*Geach* *problem*, and the *quasi*-*realism* is the *most* *developed* *response*.
 - **The *constructivism*** (Kant, Rawls, Scanlon, Street) *grounds* the *normative* *authority* in the *procedure*, and the *Kantian* *constructivism* is the *most* *defensible* form, and the *empty* *formalism* and the *neutrality* are *serious* *objections*.
-- **The *disagreement*** is *real*, and the *debunking* *argument* is *serious*, and the *companions* in *guilt* *argument* is the *strongest* *defence* of the *realism*, and the *argument* is *not* *decisive*.
+- **The *disagreement*** is *real*, and the *debunking* *argument* is *serious*, and the *companions* in *guilt* *argument* is the *strongest* *defense* of the *realism*, and the *argument* is *not* *decisive*.
 - **The *moral* *knowledge*** is *a* *priori* (the *intuition*, the *perception*), and the *intuitions* are *fallible*, and the *testimony* is *limited* (the *autonomy*), and the *debunking* *argument* is *serious*.
 - **The *thick* *concepts*** are *real* and *entangled*, and the *variation* is *real*, and the *objectivity* is *contested*.
 
 ### 8.2 What is open
 
 - **The *nature* of the *moral* *facts*.** The *non*-*naturalism*, the *Cornell* *realism*, the *constructivism*.
-- **The *semantics* of the *moral* *judgements*.** The *cognitivism*, the *expressivism*, the *quasi*-*realism*.
+- **The *semantics* of the *moral* *judgments*.** The *cognitivism*, the *expressivism*, the *quasi*-*realism*.
 - **The *epistemology* of the *morality*.** The *intuition*, the *perception*, the *testimony*, the *expertise*.
 - **The *disagreement* and the *debunking*.** The *companions* in *guilt*, the *evolutionary* *debunking*.
 - **The *thick* *concepts*.** The *entanglement*, the *objectivity*.
@@ -1019,7 +1019,7 @@ The honest verdict: metaethics is a field in transition. The classical positions
 | **Cornell realism** | The natural moral facts | The naturalism | The identity; the normativity |
 | **Robust realism** | The autonomous normative facts | The autonomy | The queerness |
 | **Error theory** | The moral facts do not exist | The naturalism | The self-undermining |
-| **Expressivism** | The moral judgements express the attitudes | The motivation | The Frege-Geach |
+| **Expressivism** | The moral judgments express the attitudes | The motivation | The Frege-Geach |
 | **Quasi-realism** | The expressivism earns the realist talk | The realist appearance | The truth; the objectivity |
 | **Kantian constructivism** | The agency grounds the authority | The authority | The empty formalism |
 | **Contractualism** | The agreement grounds the morality | The justification | The no-agreement |
@@ -1057,7 +1057,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 - **The *moral* *realism*** (the *non*-*naturalism*, the *Cornell* *realism*, the *robust* *realism*) is *defensible*, and the *queerness* and the *access* *objections* are *serious*, and the *arguments* (the *phenomenology*, the *truth*-*aptness*, the *deliberative* *indispensability*, the *moral* *progress*, the *companions* in *guilt*) are *convergent* but *not* *decisive*.
 - **The *anti*-*realism*** (the *error* *theory*, the *expressivism*, the *quasi*-*realism*) is *defensible*, and the *Frege*-*Geach* *problem* is the *central* *challenge* to the *expressivism*, and the *quasi*-*realism* is the *most* *developed* *response*.
 - **The *constructivism*** (the *Kantian*, the *contractualist*, the *Humean*) *grounds* the *normative* *authority* in the *procedure*, and the *Kantian* *constructivism* is the *most* *defensible* form, and the *empty* *formalism* and the *neutrality* are *serious* *objections*.
-- **The *moral* *disagreement*** is *real* (the *argument* from *relativity*), and the *debunking* *argument* is *serious* (the *evolutionary* *insight*), and the *companions* in *guilt* *argument* is the *strongest* *defence* of the *realism* (the *parity* *insight*), and the *arguments* are *not* *decisive*.
+- **The *moral* *disagreement*** is *real* (the *argument* from *relativity*), and the *debunking* *argument* is *serious* (the *evolutionary* *insight*), and the *companions* in *guilt* *argument* is the *strongest* *defense* of the *realism* (the *parity* *insight*), and the *arguments* are *not* *decisive*.
 - **The *moral* *epistemology*** is *a* *priori* (the *intuition*, the *perception*), and the *intuitions* are *fallible*, and the *testimony* is *limited* (the *autonomy*), and the *debunking* *argument* is *serious*.
 - **The *most* *defensible* *position*** is a *qualified* *non*-*naturalist* *realism* *combined* with a *qualified* *intuitionism* and a *qualified* *entanglement*: the *moral* *facts* are *sui* *generis* (the *irreducibility* *insight*), the *access* is *a* *priori* (the *intuition* *insight*), the *thick* *concepts* are *entangled* (the *entanglement* *insight*), and the *realism* *survives* the *objections* at a *cost* (the *queerness*, the *access*, the *disagreement*), *qualified* by the *admission* that the *disagreement*, the *debunking*, and the *queerness* *remain* *unresolved*.
 
@@ -1111,4 +1111,4 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 > *A closing note.* This chapter has followed the *metaethics* — the *fact/value* *gap*, the *naturalistic* *fallacy*, the *moral* *realism*, the *anti*-*realism*, the *constructivism*, the *disagreement*, the *debunking*, the *moral* *epistemology*, and the *thick* *concepts* — and it has arrived at a *conclusion* that is less a *theory* than a *diagnosis*: the *moral* *realism* is *defensible*, and the *anti*-*realism* is *defensible*, and the *arguments* are *convergent* and *contested*, and the *debate* is *unresolved* — not because the *philosophy* has *failed*, but because the *questions* are *hard*, and the *difficulty* is the *condition* of the *subject*.
 
-> *And a bridge.* The next chapter turns to the *normative* *ethics* — the *theories* of the *good*, the *right*, and the *virtuous*. If the *metaethics* is the *semantics* and the *metaphysics* of the *moral* *judgement*, the *normative* *ethics* is the *content* of the *judgement*, and the *two* are *connected*: the *metaethical* *position* *constrains* the *normative* *theory* (the *expressivist* *cannot* *offer* the *realist* *foundations*, the *realist* *must* *defend* the *moral* *facts*, the *constructivist* *must* *specify* the *procedure*), and the **normative** *theory* *tests* the *metaethical* *position* (the *theory* must *yield* the *determinate* *norms*, and the *specific* *judgements* *test* the *principles*). The *next* *chapter* *examines* the *normative* *ethics*, and it *asks* the *question* that the *metaethics* *presupposes*: *what* *is* the *right* *action*, and *why*?
+> *And a bridge.* The next chapter turns to the *normative* *ethics* — the *theories* of the *good*, the *right*, and the *virtuous*. If the *metaethics* is the *semantics* and the *metaphysics* of the *moral* *judgment*, the *normative* *ethics* is the *content* of the *judgment*, and the *two* are *connected*: the *metaethical* *position* *constrains* the *normative* *theory* (the *expressivist* *cannot* *offer* the *realist* *foundations*, the *realist* *must* *defend* the *moral* *facts*, the *constructivist* *must* *specify* the *procedure*), and the **normative** *theory* *tests* the *metaethical* *position* (the *theory* must *yield* the *determinate* *norms*, and the *specific* *judgments* *test* the *principles*). The *next* *chapter* *examines* the *normative* *ethics*, and it *asks* the *question* that the *metaethics* *presupposes*: *what* *is* the *right* *action*, and *why*?

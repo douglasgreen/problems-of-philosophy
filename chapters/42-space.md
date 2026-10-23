@@ -125,7 +125,7 @@ $$
 
 **The *significance***. The *hole* *argument* *does* not *refute* the *substantivalism* *per* *se*; it *refutes* the *manifold* *substantivalism* (the *naive* *version*), and it *supports* the *sophisticated* *substantivalism* (the *metric* *field* *view*) or the *structural* *realism*.
 
-**The *Leibnizian* *analogue***. The *"shift"* *argument* (the *Leibniz* *shift*): the *two* *worlds* *that* *differ* *only* by a *rigid* *translation* *are* *indiscernible*, and the *indiscernibility* *shows* that the *absolute* *position* *is* *not* *real*. The *hole* *argument* is the *general*-*relativistic* *generalisation* of the *shift*.
+**The *Leibnizian* *analogue***. The *"shift"* *argument* (the *Leibniz* *shift*): the *two* *worlds* *that* *differ* *only* by a *rigid* *translation* *are* *indiscernible*, and the *indiscernibility* *shows* that the *absolute* *position* *is* *not* *real*. The *hole* *argument* is the *general*-*relativistic* *generalization* of the *shift*.
 
 ### 1.6 The state of the debate
 
@@ -183,7 +183,7 @@ where $R_{\mu\nu}$ is the *Ricci* *tensor*, $R$ is the *scalar* *curvature*, $\L
 | The *element* | The *role* | The *significance* |
 |---|---|---|
 | **Metric** | The *distance*, the *causal* *structure* | The *dynamical* *field* (not the *fixed* *background*) |
-| **Curvature** | The *gravitational* *field* | The *geometrisation* of the *gravity* |
+| **Curvature** | The *gravitational* *field* | The *geometrization* of the *gravity* |
 | **Matter** | The *source* of the *curvature* | The *coupling* (the *matter* *tells* the *spacetime* how to *curve*) |
 | **Geodesics** | The *free* *fall* | The *equivalence* *principle* (the *gravity* is the *geometry*) |
 
@@ -191,9 +191,9 @@ where $R_{\mu\nu}$ is the *Ricci* *tensor*, $R$ is the *scalar* *curvature*, $\L
 
 **The *significance***. The *metric* is a *dynamical* *field* (it is *not* a *fixed* *background*), and the *dynamism* is the *key* to the *hole* *argument* (§1.4) and to the *relationism* (the *metric* is the *only* *spacetime* *entity*).
 
-### 2.3 The equivalence principle and the geometrisation
+### 2.3 The equivalence principle and the geometrization
 
-**The *thesis***. The *equivalence* *principle* (the *local* *indistinguishability* of the *gravity* and the *acceleration*) *grounds* the *geometrisation* of the *gravity*.
+**The *thesis***. The *equivalence* *principle* (the *local* *indistinguishability* of the *gravity* and the *acceleration*) *grounds* the *geometrization* of the *gravity*.
 
 **The *argument*.
 
@@ -201,21 +201,21 @@ $$
 \begin{array}{ll}
 1. & \text{The *inertial* *mass* and the *gravitational* *mass* are *equal* (the *empirical* *premise*; the *Eötvös* *experiments*).} \\
 2. & \text{The *equality* *implies* that the *free* *fall* is *independent* of the *composition* (the *universality*).} \\
-3. & \text{The *universality* *suggests* that the *gravity* is the *geometry* (the *geometrisation*).} \\
+3. & \text{The *universality* *suggests* that the *gravity* is the *geometry* (the *geometrization*).} \\
 \hline
-4. & \therefore \text{The *gravity* is the *curvature* (the *geometrisation*).}
+4. & \therefore \text{The *gravity* is the *curvature* (the *geometrization*).}
 \end{array}
 $$
 
-**The *virtue***. The *geometrisation* *explains* the *unification* (the *gravity* is the *geometry*), and it *predicts* the *light* *bending* (the *light* *follows* the *geodesics*).
+**The *virtue***. The *geometrization* *explains* the *unification* (the *gravity* is the *geometry*), and it *predicts* the *light* *bending* (the *light* *follows* the *geodesics*).
 
 **The *objections***.
 
-**(i) The *‘*no* *geometrisation*’* *objection* (the *contemporary* *literature*; the *spin*-*2* *field* *view*). The *gravity* can be *described* as a *spin*-*2* *field* on a *flat* *background* (the *field* *theoretic* *view*), and the *geometrisation* is a *choice* of the *description*, not a *metaphysical* *fact*.
+**(i) The *‘*no* *geometrization*’* *objection* (the *contemporary* *literature*; the *spin*-*2* *field* *view*). The *gravity* can be *described* as a *spin*-*2* *field* on a *flat* *background* (the *field* *theoretic* *view*), and the *geometrization* is a *choice* of the *description*, not a *metaphysical* *fact*.
 
-**The *reply*** (the *contemporary* *literature*). The *geometrisation* is *equivalent* to the *field* *view* (the *empirical* *equivalence*), and the *choice* is *pragmatic* (the *simplicity*, the *explanatory* *power*). The *reply* is *contested*.
+**The *reply*** (the *contemporary* *literature*). The *geometrization* is *equivalent* to the *field* *view* (the *empirical* *equivalence*), and the *choice* is *pragmatic* (the *simplicity*, the *explanatory* *power*). The *reply* is *contested*.
 
-**(ii) The *‘*no* *equivalence*’* *objection*. The *equivalence* *principle* is *local* (the *tidal* *forces* are *detectable*), and the *local* *equivalence* *does* not *justify* the *global* *geometrisation*. The *objection* *limits* the *geometrisation*.
+**(ii) The *‘*no* *equivalence*’* *objection*. The *equivalence* *principle* is *local* (the *tidal* *forces* are *detectable*), and the *local* *equivalence* *does* not *justify* the *global* *geometrization*. The *objection* *limits* the *geometrization*.
 
 ### 2.4 The conventionality of geometry
 
@@ -237,7 +237,7 @@ $$
 
 **The *objections***.
 
-**(i) The *‘*no* *universal* *forces*’* *objection* (Putnam, “An Examination of Grünbaum’s Philosophy of Geometry,” 1963; the *contemporary* *literature*). The *universal* *forces* are *unobservable* and *ad* *hoc* (they *affect* all *bodies* *equally*, and they *cannot* be *detected* independently), and the *parsimony* *favours* the *geometrical* *description*. The *objection* *weakens* the *conventionalism*.
+**(i) The *‘*no* *universal* *forces*’* *objection* (Putnam, “An Examination of Grünbaum’s Philosophy of Geometry,” 1963; the *contemporary* *literature*). The *universal* *forces* are *unobservable* and *ad* *hoc* (they *affect* all *bodies* *equally*, and they *cannot* be *detected* independently), and the *parsimony* *favors* the *geometrical* *description*. The *objection* *weakens* the *conventionalism*.
 
 **The *reply*** (Reichenbach 1928; the *contemporary* *literature*). The *conventionalism* is *pragmatic* (the *choice* is *justified* by the *simplicity*, not the *evidence*), and the *reply* *accepts* the *parsimony* as the *criterion* of the *choice*. The *reply* is *contested*.
 
@@ -269,7 +269,7 @@ $$
 | The *question* | The *constraint* | The *interpretation* |
 |---|---|---|
 | **Substantivalism** | The hole argument | The sophisticated version |
-| **Geometrisation** | The equivalence principle | The field view |
+| **Geometrization** | The equivalence principle | The field view |
 | **Conventionality** | The dynamical metric | The limited conventionality |
 | **The present** | The relativity | The block universe |
 
@@ -523,7 +523,7 @@ $$
 
 ### 5.2 Everett
 
-**The *thesis*** (Everett, “‘Relative State’ Formulation of Quantum Mechanics,” 1957; the *contemporary* *defences*: Wallace, *The Emergent Multiverse*, 2012; Saunders; the *contemporary* *literature*). The *wavefunction* is *ontic*, and the *collapse* is *not* *a* *physical* *process*, and the *apparent* *collapse* is the *branching* of the *wavefunction*.
+**The *thesis*** (Everett, “‘Relative State’ Formulation of Quantum Mechanics,” 1957; the *contemporary* *defenses*: Wallace, *The Emergent Multiverse*, 2012; Saunders; the *contemporary* *literature*). The *wavefunction* is *ontic*, and the *collapse* is *not* *a* *physical* *process*, and the *apparent* *collapse* is the *branching* of the *wavefunction*.
 
 **The *argument*.
 
@@ -543,15 +543,15 @@ $$
 
 **(i) The *probability* *objection* (the *incoherence* *problem*; Baker, “Measurement Outcomes and Probability in Everettian Quantum Mechanics,” 2007; the *contemporary* *literature*). The *Everett* *interpretation* *cannot* *explain* the *Born* *rule* (the *probability* of the *outcomes*), and the *probability* is the *empirical* *content* of the *theory*, and the *absence* *undermines* the *interpretation*.
 
-**The *reply*** (Wallace 2012, Ch. 4; Saunders; the *decision*-*theoretic* *programme*). The *probability* is *derived* from the *decision*-*theoretic* *axioms* (the *rational* *agent*'s *preferences* *obey* the *Born* *rule*), and the *reply* *grounds* the *probability* in the *agency*. The *reply* is *contested* (the *decision*-*theoretic* *derivation* *presupposes* the *branching*, and the *presupposition* is *contested*; the *"*incoherence*"* *objection* *remains*).
+**The *reply*** (Wallace 2012, Ch. 4; Saunders; the *decision*-*theoretic* *program*). The *probability* is *derived* from the *decision*-*theoretic* *axioms* (the *rational* *agent*'s *preferences* *obey* the *Born* *rule*), and the *reply* *grounds* the *probability* in the *agency*. The *reply* is *contested* (the *decision*-*theoretic* *derivation* *presupposes* the *branching*, and the *presupposition* is *contested*; the *"*incoherence*"* *objection* *remains*).
 
 **(ii) The *‘*preferred* *basis*’* *objection*. The *branching* *requires* a *preferred* *basis* (the *pointer* *basis*), and the *basis* *is* *not* *given* by the *formalism*, and the *dependence* *is* *unresolved*.
 
-**The *reply*** (Wallace 2012, Ch. 3; the *decoherence* *programme*). The *basis* *is* *selected* by the *decoherence* (the *environment* *superselection*), and the *reply* *grounds* the *basis* in the *environment*. The *reply* is *contested* (the *decoherence* *is* *approximate*, and the *approximation* *is* *not* *sufficient*).
+**The *reply*** (Wallace 2012, Ch. 3; the *decoherence* *program*). The *basis* *is* *selected* by the *decoherence* (the *environment* *superselection*), and the *reply* *grounds* the *basis* in the *environment*. The *reply* is *contested* (the *decoherence* *is* *approximate*, and the *approximation* *is* *not* *sufficient*).
 
 ### 5.3 Bohm
 
-**The *thesis*** (de Broglie 1927; Bohm 1952; the *contemporary* *defences*: Dürr, Goldstein & Zanghì; Holland, *The Quantum Theory of Motion*, 1993). The *particles* *have* *definite* *positions* *at* *all* *times*, and the *wavefunction* is a *pilot* *wave* that *guides* the *particles*.
+**The *thesis*** (de Broglie 1927; Bohm 1952; the *contemporary* *defenses*: Dürr, Goldstein & Zanghì; Holland, *The Quantum Theory of Motion*, 1993). The *particles* *have* *definite* *positions* *at* *all* *times*, and the *wavefunction* is a *pilot* *wave* that *guides* the *particles*.
 
 **The *structure***. The *particles* *follow* the *guidance* *equation*.
 
@@ -573,7 +573,7 @@ $$
 
 ### 5.4 GRW
 
-**The *thesis*** (Ghirardi, Rimini & Weber, “Unified Dynamics for Microscopic and Macroscopic Systems,” 1986). The *wavefunction* *undergoes* the *spontaneous* *localised* *collapses*, and the *collapses* *are* *random* and *rare* (the *new* *parameter* $\lambda$), and the *macroscopic* *objects* *are* *localised*.
+**The *thesis*** (Ghirardi, Rimini & Weber, “Unified Dynamics for Microscopic and Macroscopic Systems,” 1986). The *wavefunction* *undergoes* the *spontaneous* *localized* *collapses*, and the *collapses* *are* *random* and *rare* (the *new* *parameter* $\lambda$), and the *macroscopic* *objects* *are* *localized*.
 
 **The *structure***.
 
@@ -751,7 +751,7 @@ $$
 \end{array}
 $$
 
-**The *virtue***. The *view* *connects* the *physics* to the *information*, and it *anticipates* the *quantum* *information* *programme* (the *reconstruction* of the *quantum* *formalism* from the *information*-*theoretic* *axioms*; Hardy 2001; Chiribella, D'Ariano & Perinotti 2011).
+**The *virtue***. The *view* *connects* the *physics* to the *information*, and it *anticipates* the *quantum* *information* *program* (the *reconstruction* of the *quantum* *formalism* from the *information*-*theoretic* *axioms*; Hardy 2001; Chiribella, D'Ariano & Perinotti 2011).
 
 **The *objections***.
 
@@ -759,9 +759,9 @@ $$
 
 **The *reply*** (Wheeler 1989; the *contemporary* *literature*). The *meaning* is *constituted* by the *participatory* *observation*, and the *reply* *grounds* the *meaning* in the *agency*. The *reply* is *contested* (the *"*participatory*"* *universe* is *speculative*).
 
-**(ii) The *‘*no* *physics*’* *objection*. The *"*it* *from* *bit"* is a *metaphor* (it *does* not *provide* a *physical* *theory*), and the *reconstruction* *programme* *presupposes* the *quantum* *formalism* (it *does* not *derive* it from *nothing*).
+**(ii) The *‘*no* *physics*’* *objection*. The *"*it* *from* *bit"* is a *metaphor* (it *does* not *provide* a *physical* *theory*), and the *reconstruction* *program* *presupposes* the *quantum* *formalism* (it *does* not *derive* it from *nothing*).
 
-**The *reply*** (the *contemporary* *literature*). The *reconstruction* is a *research* *programme* (it *derives* the *formalism* from the *axioms*), and the *reply* *grounds* the *programme* in the *results*. The *reply* is *contested*.
+**The *reply*** (the *contemporary* *literature*). The *reconstruction* is a *research* *program* (it *derives* the *formalism* from the *axioms*), and the *reply* *grounds* the *program* in the *results*. The *reply* is *contested*.
 
 ### 6.5 The physical foundations of meaning
 
@@ -915,7 +915,7 @@ $$
 
 ### 7.7 The state of the philosophy of physics
 
-**The *assessment***. The *philosophy* of *physics* is *thriving*, and it is *the* *most* *technical* *part* of the *book*, and it *requires* the *humility* and the *rigour*.
+**The *assessment***. The *philosophy* of *physics* is *thriving*, and it is *the* *most* *technical* *part* of the *book*, and it *requires* the *humility* and the *rigor*.
 
 | The *aspect* | The *status* | The *example* |
 |---|---|---|
@@ -1006,7 +1006,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 ## Summary
 
 - **The *substantivalism*/*relationism* *debate* is the *paradigm* of the *metaphysics* of *physics*.** Newton's *bucket* and Leibniz's *objection* are the *classical* *statements*, and the *hole* *argument* *refutes* the *manifold* *substantivalism*.
-- **The *geometry* of *spacetime*** is *constrained* by the *relativity* (the *invariant* *interval*, the *field* *equations*), and the *geometrisation* is *equivalent* to the *field* *view*, and the *conventionality* of the *geometry* is *limited*.
+- **The *geometry* of *spacetime*** is *constrained* by the *relativity* (the *invariant* *interval*, the *field* *equations*), and the *geometrization* is *equivalent* to the *field* *view*, and the *conventionality* of the *geometry* is *limited*.
 - **The *arrow* of *time*** is *statistical* (the *past* *hypothesis*), and the *block* *universe* is the *most* *defensible* *reading* of the *relativity*, and the *passage* is *explained* by the *psychological* *arrow*.
 - **The *quantum* *formalism*** has the *two* *laws* (the *unitary* *evolution* and the *collapse*), and the *incompatibility* is the *measurement* *problem*.
 - **The *Bell* *theorem*** *rules* *out* the *local* *hidden* *variables* (the *nonlocality*), and the *no*-*signalling* *theorem* *preserves* the *relativity*, and the *PBR* *theorem* *rules* *out* the *ψ*-*epistemic* *views* *with* the *preparation* *independence*.
@@ -1022,7 +1022,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 1. State the *substantivalism*/*relationism* *debate*. What is the *bucket* *argument*, and is the *relational* *reply* *adequate*?
 2. State the *hole* *argument*. Is it *decisive* against the *manifold* *substantivalism*?
 3. State the *sophisticated* *substantivalism*. Is it *defensible*?
-4. State the *geometrisation* of the *gravity*. Is it a *metaphysical* *fact* or a *description*?
+4. State the *geometrization* of the *gravity*. Is it a *metaphysical* *fact* or a *description*?
 5. State the *conventionality* of the *geometry*. Is the *conventionalism* *defensible*?
 6. State the *problem* of the *present* in the *relativity*. Is the *block* *universe* *forced* by the *relativity*?
 7. State the *past* *hypothesis* (Albert). Is it *defensible* against the *double* *standard* *objection*?

@@ -20,11 +20,11 @@ The *first* is *ontological*: mathematics *appears* to be *about* the *objects* 
 
 The *second* is *epistemological*: the *mathematical* *knowledge* is the *paradigm* of the *a* *priori* (Ch. 36, §5), and the *access* to the *abstract* *objects* is *mysterious* (Benacerraf’s *dilemma*), and the *mystery* *threatens* the *claim* to *knowledge*.
 
-The *third* is *explanatory*: mathematics is *indispensable* to *science* (the *applicability*; Ch. 39, §4.1), and the *indispensability* *suggests* that the *mathematical* *objects* *exist* (the *Quine*–*Putnam* *argument*), and the *existence* *confronts* the *nominalism* that the *naturalism* *favours*.
+The *third* is *explanatory*: mathematics is *indispensable* to *science* (the *applicability*; Ch. 39, §4.1), and the *indispensability* *suggests* that the *mathematical* *objects* *exist* (the *Quine*–*Putnam* *argument*), and the *existence* *confronts* the *nominalism* that the *naturalism* *favors*.
 
 The chapter’s *thesis* is that the *mathematical* *platonism* is *defensible* in a *qualified* form (the *structural* *platonism*; the *thin* *mathematical* *realism*), and that the *access* *problem* is *real* but *not* *fatal* (the *response* is the *abductive* *account* and the *structural* *epistemology*), and that the *applicability* is *real* but *not* *miraculous* (the *response* is the *structural* *account* of the *application*), and that the *most* *defensible* *position* is a *qualified* *structuralism* (the *ante* *rem* version is *promising* and *incomplete*; the *in* *rebus* and the *modal* versions are *the* *alternatives*).
 
-The chapter proceeds in eight movements. §1 examines *platonism* and *Benacerraf’s* *dilemma*. §2 examines the *three* *programmes* (the *logicism*, the *formalism*, the *intuitionism*). §3 examines *structuralism*. §4 examines *nominalism* and the *fictionalism*. §5 examines the *epistemology* (the *intuition*, the *proof*, the *computer*-*assisted*). §6 examines the *applicability*. §7 examines *set* *theory* and the *continuum* *problem*. §8 gives an *honest* *verdict*.
+The chapter proceeds in eight movements. §1 examines *platonism* and *Benacerraf’s* *dilemma*. §2 examines the *three* *programs* (the *logicism*, the *formalism*, the *intuitionism*). §3 examines *structuralism*. §4 examines *nominalism* and the *fictionalism*. §5 examines the *epistemology* (the *intuition*, the *proof*, the *computer*-*assisted*). §6 examines the *applicability*. §7 examines *set* *theory* and the *continuum* *problem*. §8 gives an *honest* *verdict*.
 
 ---
 
@@ -73,7 +73,7 @@ $$
 
 **The *dilemma***. Either the *semantics* is *realist* (and the *epistemology* is *mysterious*) or the *epistemology* is *naturalistic* (and the *semantics* is *anti*-*realist*). The *two* *premises* are *individually* *plausible*, and *jointly* *incompatible*.
 
-**The *significance***. The *dilemma* is the *central* *problem* in the *philosophy* of *mathematics* (Ch. 9, §7.2), and it is the *test* *case* for the *naturalisation* of *knowledge*, and it is the *source* of the *structuralism* (§3) and the *nominalism* (§4).
+**The *significance***. The *dilemma* is the *central* *problem* in the *philosophy* of *mathematics* (Ch. 9, §7.2), and it is the *test* *case* for the *naturalization* of *knowledge*, and it is the *source* of the *structuralism* (§3) and the *nominalism* (§4).
 
 ### 1.3 The responses
 
@@ -138,13 +138,13 @@ $$
 
 ---
 
-## 2. The Three Programmes
+## 2. The Three Programs
 
 ### 2.1 Logicism
 
 **The *thesis*** (Frege, *The Foundations of Arithmetic*, 1884; *The Basic Laws of Arithmetic*, 1893; Russell & Whitehead, *Principia Mathematica*, 1910–13; the *neo*-*logicist* *revival*: Wright, *Frege’s Conception of Numbers as Objects*, 1983; Hale & Wright, *The Reason’s Proper Study*, 2001). The *mathematics* is *reducible* to *logic*, and the *mathematical* *truths* are the *logical* *truths* (the *analytic*; Ch. 36, §2).
 
-**The *structure***. The *Fregean* *programme*.
+**The *structure***. The *Fregean* *program*.
 
 $$
 \text{Arithmetic} \ \subseteq \ \text{Logic} \quad \text{(the *logicist* *reduction*)}
@@ -179,7 +179,7 @@ $$
 \end{array}
 $$
 
-**The *collapse*** (Russell’s *paradox*; the *letter* to Frege, 1902; Ch. 33, §1.7). The *Fregean* *programme* *rested* on the *Basic* *Law* *V* (the *unrestricted* *comprehension*), and the *law* *generates* the *Russell’s* *paradox*, and the *system* *is* *inconsistent*.
+**The *collapse*** (Russell’s *paradox*; the *letter* to Frege, 1902; Ch. 33, §1.7). The *Fregean* *program* *rested* on the *Basic* *Law* *V* (the *unrestricted* *comprehension*), and the *law* *generates* the *Russell’s* *paradox*, and the *system* *is* *inconsistent*.
 
 **The *Basic* *Law* *V***.
 
@@ -189,7 +189,7 @@ $$
 
 **The *Russell’s* *paradox***. Let $R = \{x : x \notin x\}$, and then $R \in R \leftrightarrow R \notin R$.
 
-**The *neo*-*logicist* *response***. The *Hume’s* *principle* is *consistent* (the *Frege’s* *theorem* *stands*), and the *programme* *rests* on the *HP*, not on the *Basic* *Law* *V*, and the *revival* *avoids* the *paradox*.
+**The *neo*-*logicist* *response***. The *Hume’s* *principle* is *consistent* (the *Frege’s* *theorem* *stands*), and the *program* *rests* on the *HP*, not on the *Basic* *Law* *V*, and the *revival* *avoids* the *paradox*.
 
 **The *objections***.
 
@@ -207,7 +207,7 @@ $$
 
 **The *thesis*** (Hilbert, “Über das Unendliche,” 1926; the *contemporary* *literature*; the *game* *formalism*: Curry, *Outlines of a Formalist Philosophy of Mathematics*, 1951; the *term* *formalism*). The *mathematics* is the *manipulation* of the *symbols* according to the *rules*, and the *mathematical* *truths* are the *theorems* of the *formal* *system*, and the *mathematical* *objects* are the *symbols* (or the *terms*), not the *independent* *entities*.
 
-**The *Hilbert’s* *programme***. The *formal* *systems* *capture* the *mathematical* *content* (the *finitistic* *consistency* *proofs*), and the *consistency* is *proved* by the *finitary* *methods* (the *safe* *metamathematics*).
+**The *Hilbert’s* *program***. The *formal* *systems* *capture* the *mathematical* *content* (the *finitistic* *consistency* *proofs*), and the *consistency* is *proved* by the *finitary* *methods* (the *safe* *metamathematics*).
 
 **The *structure***.
 
@@ -227,12 +227,12 @@ $$
 \end{array}
 $$
 
-**The *collapse*** (Gödel, “On Formally Undecidable Propositions of *Principia Mathematica* and Related Systems,” 1931; Ch. 35, §7.1). The *incompleteness* *theorems* (*any* *consistent* *formal* *system* *containing* the *arithmetic* *is* *incomplete*, and *its* *consistency* *cannot* be *proved* *in* the *system*), and the *theorems* *defeat* the *Hilbert’s* *programme*.
+**The *collapse*** (Gödel, “On Formally Undecidable Propositions of *Principia Mathematica* and Related Systems,” 1931; Ch. 35, §7.1). The *incompleteness* *theorems* (*any* *consistent* *formal* *system* *containing* the *arithmetic* *is* *incomplete*, and *its* *consistency* *cannot* be *proved* *in* the *system*), and the *theorems* *defeat* the *Hilbert’s* *program*.
 
 **The *first* *incompleteness* *theorem***.
 
 $$
-T \ \text{recursively axiomatisable} \ \wedge \ T \ \text{consistent} \ \wedge \ T \ \supseteq \ \mathrm{Q} \ \Rightarrow \ \exists \varphi\, (T \nvdash \varphi \wedge T \nvdash \neg \varphi)
+T \ \text{recursively axiomatizable} \ \wedge \ T \ \text{consistent} \ \wedge \ T \ \supseteq \ \mathrm{Q} \ \Rightarrow \ \exists \varphi\, (T \nvdash \varphi \wedge T \nvdash \neg \varphi)
 $$
 
 **The *second* *incompleteness* *theorem***.
@@ -241,7 +241,7 @@ $$
 T \ \text{consistent} \ \wedge \ T \ \supseteq \ \mathrm{Q} \ \Rightarrow \ T \nvdash \mathrm{Con}(T)
 $$
 
-**The *consequence***. The *consistency* of the *arithmetic* *cannot* be *proved* by the *methods* *formalised* *within* the *arithmetic*, and the *Hilbert’s* *programme* *fails* (the *finitary* *methods* are *formalised* *within* the *arithmetic*, and the *consistency* *escapes*).
+**The *consequence***. The *consistency* of the *arithmetic* *cannot* be *proved* by the *methods* *formalized* *within* the *arithmetic*, and the *Hilbert’s* *program* *fails* (the *finitary* *methods* are *formalized* *within* the *arithmetic*, and the *consistency* *escapes*).
 
 **The *neo*-*formalist* *responses***.
 
@@ -252,7 +252,7 @@ $$
 | **The *term* *formalism*** | The *mathematics* is the *manipulation* of the *terms* | The *content* (the *terms* *have* the *content*) |
 | **The *deductivism*** | The *mathematics* is the *conditional* (the *if*-*then*; §4.4) | The *application* (the *conditional* *does* not *explain* the *assertion*) |
 
-**The *significance***. The *formalism* is *refuted* as the *complete* *account* (the *Gödel* *theorems* *defeat* the *Hilbert’s* *programme*), and it *survives* as a *partial* *account* (the *syntactic* *manipulation* is *part* of the *practice*), and the *applicability* *and* the *content* *remain* *unexplained*.
+**The *significance***. The *formalism* is *refuted* as the *complete* *account* (the *Gödel* *theorems* *defeat* the *Hilbert’s* *program*), and it *survives* as a *partial* *account* (the *syntactic* *manipulation* is *part* of the *practice*), and the *applicability* *and* the *content* *remain* *unexplained*.
 
 ### 2.3 Intuitionism
 
@@ -298,17 +298,17 @@ $$
 
 **The *reply*** (Brouwer 1913; Dummett 1977). The *construction* is *objective* (it is the *intersubjective* *verification*, the *proof* *that* the *community* *can* *check*), and the *reply* *grounds* the *objectivity* in the *practice*. The *reply* is *contested*.
 
-### 2.4 The state of the programmes
+### 2.4 The state of the programs
 
-**The *assessment***. The *three* *programmes* are *all* *defeated* in their *original* *forms*, and *all* *survive* in the *revised* *forms*.
+**The *assessment***. The *three* *programs* are *all* *defeated* in their *original* *forms*, and *all* *survive* in the *revised* *forms*.
 
-| The *programme* | The *original* | The *revised* | The *status* |
+| The *program* | The *original* | The *revised* | The *status* |
 |---|---|---|---|
 | **Logicism** | The *Frege* (the *Basic Law V*) | The *neo*-*logicist* (the *HP*, the *Frege’s theorem*) | The *live* (the *Bad Company*) |
 | **Formalism** | The *Hilbert* (the *finitary consistency*) | The *relative consistency*, the *deductivism* | The *partial* |
 | **Intuitionism** | The *Brouwer* (the *excluded middle*) | The *constructive analysis* (the *Bishop*) | The *live* (the *cost*) |
 
-**The *most* *defensible* *position***. A *qualified* *pluralism*: the *three* *programmes* *capture* the *different* *aspects* of the *mathematics* (the *logical* *structure*, the *syntactic* *manipulation*, the *constructive* *content*), and the *mathematics* is *not* *reducible* to a *single* *aspect*, and the *choice* *depends* on the *purpose* (the *foundations*, the *practice*, the *computer* *science*).
+**The *most* *defensible* *position***. A *qualified* *pluralism*: the *three* *programs* *capture* the *different* *aspects* of the *mathematics* (the *logical* *structure*, the *syntactic* *manipulation*, the *constructive* *content*), and the *mathematics* is *not* *reducible* to a *single* *aspect*, and the *choice* *depends* on the *purpose* (the *foundations*, the *practice*, the *computer* *science*).
 
 ---
 
@@ -415,7 +415,7 @@ $$
 
 ## 4. Nominalism
 
-### 4.1 The programme
+### 4.1 The program
 
 **The *thesis*** (Field, *Science without Numbers*, 1980; *Realism, Mathematics and Modality*, 1989; the *contemporary* *literature*). The *abstract* *objects* *do* not *exist*, and the *mathematics* *can* be *reconstructed* *without* them (the *nominalist* *reconstruction*).
 
@@ -432,7 +432,7 @@ $$
 1. & \text{The *abstract* *objects* are *epistemically* *inaccessible* (the *Benacerraf* *dilemma*).} \\
 2. & \text{The *inaccessible* *entities* *should* be *dispensed* with (the *parsimony*; Ch. 14, §4).} \\
 \hline
-3. & \therefore \text{The *abstract* *objects* *should* be *dispensed* with (the *nominalist* *insight*), and the *mathematics* *should* be *reconstructed* (the *programme*).}
+3. & \therefore \text{The *abstract* *objects* *should* be *dispensed* with (the *nominalist* *insight*), and the *mathematics* *should* be *reconstructed* (the *program*).}
 \end{array}
 $$
 
@@ -442,9 +442,9 @@ $$
 
 **The *structure***. Field's *strategy*.
 
-**(i) The *nominalisation* of *physics***. The *physical* *theories* (the *Newtonian* *gravitation*) can be *formulated* *without* the *mathematical* *entities* (the *predicates* over the *spacetime* *points*, the *relations* of *betweenness* and *congruence*), and the *formulation* *captures* the *physical* *content*.
+**(i) The *nominalization* of *physics***. The *physical* *theories* (the *Newtonian* *gravitation*) can be *formulated* *without* the *mathematical* *entities* (the *predicates* over the *spacetime* *points*, the *relations* of *betweenness* and *congruence*), and the *formulation* *captures* the *physical* *content*.
 
-**(ii) The *representation* *theorems***. The *mathematical* *formulations* are *conservative* *extensions* (the *theorems* *that* *show* that the *mathematical* *statements* *add* *only* the *conservative* *content*), and the *conservativeness* *shows* that the *mathematics* is *not* *indispensable* (*if* the *nominalisation* *is* *adequate*).
+**(ii) The *representation* *theorems***. The *mathematical* *formulations* are *conservative* *extensions* (the *theorems* *that* *show* that the *mathematical* *statements* *add* *only* the *conservative* *content*), and the *conservativeness* *shows* that the *mathematics* is *not* *indispensable* (*if* the *nominalization* *is* *adequate*).
 
 **The *argument*.
 
@@ -453,25 +453,25 @@ $$
 1. & \text{The *physics* can be *formulated* *nominalistically* (the *reconstruction*).} \\
 2. & \text{The *mathematics* is a *conservative* *extension* (the *representation* *theorem*).} \\
 \hline
-3. & \therefore \text{The *mathematics* is *not* *indispensable* (the *nominalist* *insight*), and the *abstract* *objects* *can* be *dispensed* with (the *nominalist* *programme*).}
+3. & \therefore \text{The *mathematics* is *not* *indispensable* (the *nominalist* *insight*), and the *abstract* *objects* *can* be *dispensed* with (the *nominalist* *program*).}
 \end{array}
 $$
 
-**The *virtue***. The *programme* *avoids* the *access* *problem* (the *abstract* *objects* are *not* *posited*), and it *preserves* the *physical* *content* (the *nominalisation* *is* *adequate*), and it *fits* the *naturalism*.
+**The *virtue***. The *program* *avoids* the *access* *problem* (the *abstract* *objects* are *not* *posited*), and it *preserves* the *physical* *content* (the *nominalization* *is* *adequate*), and it *fits* the *naturalism*.
 
 **The *objections***.
 
-**(i) The *‘*no* *nominalisation*’* *objection* (Malament, “Review of *Science without Numbers*,” 1982; the *contemporary* *literature*). The *nominalisation* *requires* the *quantification* over the *spacetime* *points* (the *points* are *not* the *observable* *entities*, and they are *arguably* *abstract*), and the *reconstruction* *reintroduces* the *abstracta*, and the *programme* *fails*.
+**(i) The *‘*no* *nominalization*’* *objection* (Malament, “Review of *Science without Numbers*,” 1982; the *contemporary* *literature*). The *nominalization* *requires* the *quantification* over the *spacetime* *points* (the *points* are *not* the *observable* *entities*, and they are *arguably* *abstract*), and the *reconstruction* *reintroduces* the *abstracta*, and the *program* *fails*.
 
 **The *reply*** (Field 1989, Ch. 1; the *contemporary* *literature*). The *spacetime* *points* *can* be *reconstructed* as the *equivalence* *classes* of the *regions* (the *nominalistic* *entities*), and the *reply* *grounds* the *points* in the *regions*. The *reply* is *contested* (the *equivalence* *classes* are *sets*, and the *sets* are *abstract*).
 
-**(ii) The *‘*no* *conservativeness*’* *objection* (Shapiro, “Conservativeness and Incompleteness,” 1983; the *contemporary* *literature*). The *representation* *theorems* *presuppose* the *mathematical* *results* (the *theorems* are *proved* *mathematically*), and the *conservativeness* *is* *proved* *in* the *mathematics* (the *metatheory*), and the *programme* *is* *circular*.
+**(ii) The *‘*no* *conservativeness*’* *objection* (Shapiro, “Conservativeness and Incompleteness,” 1983; the *contemporary* *literature*). The *representation* *theorems* *presuppose* the *mathematical* *results* (the *theorems* are *proved* *mathematically*), and the *conservativeness* *is* *proved* *in* the *mathematics* (the *metatheory*), and the *program* *is* *circular*.
 
 **The *reply*** (Field 1989, Ch. 2). The *metatheory* can be *weakened* (the *conservativeness* *proved* in the *weaker* *systems*), and the *reply* *weakens* the *claim*. The *reply* is *contested*.
 
-**(iii) The *‘*no* *adequacy*’* *objection*. The *nominalisation* is *not* *adequate* for the *contemporary* *physics* (the *quantum* *mechanics*, the *general* *relativity*), and the *programme* is *limited* to the *classical* *physics*.
+**(iii) The *‘*no* *adequacy*’* *objection*. The *nominalization* is *not* *adequate* for the *contemporary* *physics* (the *quantum* *mechanics*, the *general* *relativity*), and the *program* is *limited* to the *classical* *physics*.
 
-**The *reply*** (the *contemporary* *literature*). The *nominalisation* *can* be *extended* (the *quantum* *mechanics* *nominalised*; the *contemporary* *literature*), and the *reply* is *promising* and *incomplete*.
+**The *reply*** (the *contemporary* *literature*). The *nominalization* *can* be *extended* (the *quantum* *mechanics* *nominalized*; the *contemporary* *literature*), and the *reply* is *promising* and *incomplete*.
 
 ### 4.3 The indispensability argument
 
@@ -530,7 +530,7 @@ $$
 
 **The *objections*** (Ch. 14, §5.2).
 
-**(i) The *‘*no* *attitude*’* *objection*. The *fictionalism* *requires* the *mental* *state* of the *fictionalist* (the *pretence*, the *acceptance*), and the *state* is *not* *available* for the *mathematicians* (the *mathematicians* *believe* the *theorems*, not *pretend*), and the *account* *misdescribes* the *practice*.
+**(i) The *‘*no* *attitude*’* *objection*. The *fictionalism* *requires* the *mental* *state* of the *fictionalist* (the *pretense*, the *acceptance*), and the *state* is *not* *available* for the *mathematicians* (the *mathematicians* *believe* the *theorems*, not *pretend*), and the *account* *misdescribes* the *practice*.
 
 **The *reply*** (Field 1980, Ch. 1; the *contemporary* *literature*). The *acceptance* is a *pragmatic* *attitude* (the *commitment* to the *theory*, not the *belief* in the *truth*), and the *reply* *grounds* the *acceptance* in the *practice*. The *reply* is *contested*.
 
@@ -548,7 +548,7 @@ $$
 
 | The *position* | The *strength* | The *weakness* |
 |---|---|---|
-| **Field's reconstruction** | The naturalism | The nominalisation |
+| **Field's reconstruction** | The naturalism | The nominalization |
 | **Indispensability** | The science | The access |
 | **Fictionalism** | The naturalism | The attitude; the application |
 | **Easy road (contemporary)** | The simplicity | The truth |
@@ -567,7 +567,7 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *mathematical* *axioms* are *not* *derived* from the *logic* (the *Frege* *programme* *fails*).} \\
+1. & \text{The *mathematical* *axioms* are *not* *derived* from the *logic* (the *Frege* *program* *fails*).} \\
 2. & \text{The *axioms* are *known* *a* *priori* (the *practice*: the *set*-*theoretic* *axioms*, the *large* *cardinals*).} \\
 3. & \text{The *a* *priori* *knowledge* *requires* the *faculty* (the *intuition*).} \\
 \hline
@@ -607,7 +607,7 @@ $$
 
 | The *theorem* | The *proof* | The *status* |
 |---|---|---|
-| **The four-colour theorem** | The *Appel*–*Haken* (1976); the *computer* *check* of 1,936 *configurations* | The *contemporary* *debate* |
+| **The four-color theorem** | The *Appel*–*Haken* (1976); the *computer* *check* of 1,936 *configurations* | The *contemporary* *debate* |
 | **The Kepler conjecture** | The *Hales* (1998); the *formal* *verification* (2014) | The *formal* *proof* |
 | **The classification of finite simple groups** | The *collective* *proof* (the *“*proof* *by* *committee”*), 10,000+ *pages* | The *social* *insight* |
 | **The Fermat’s last theorem** | The *Wiles* (1994); the *modularity* *lifting* | The *human* *checkable* |
@@ -624,16 +624,16 @@ $$
 
 ### 5.3 The formal verification
 
-**The *thesis*** (the *contemporary* *literature*; the *formal* *proof* *assistants*; the *homotopy* *type* *theory*; the *Lean* *theorem* *prover*). The *formal* *verification* (the *machine*-*checkable* *proof*) *is* the *most* *rigorous* *form* of the *proof*, and the *verification* *grounds* the *certainty*, and the *a* *priori* *is* *realised* in the *machine*.
+**The *thesis*** (the *contemporary* *literature*; the *formal* *proof* *assistants*; the *homotopy* *type* *theory*; the *Lean* *theorem* *prover*). The *formal* *verification* (the *machine*-*checkable* *proof*) *is* the *most* *rigorous* *form* of the *proof*, and the *verification* *grounds* the *certainty*, and the *a* *priori* *is* *realized* in the *machine*.
 
 **The *argument*.
 
 $$
 \begin{array}{ll}
-1. & \text{The *formal* *verification* *is* the *machine*-*checkable* *proof* (the *Hales* 2014; the *four*-*colour* 2005; the *contemporary* *literature*).} \\
+1. & \text{The *formal* *verification* *is* the *machine*-*checkable* *proof* (the *Hales* 2014; the *four*-*color* 2005; the *contemporary* *literature*).} \\
 2. & \text{The *verification* *is* *more* *rigorous* than the *informal* *proof* (the *human* *error* *is* *eliminated*). \\
 \hline
-3. & \therefore \text{The *formal* *verification* *is* the *most* *rigorous* *proof* (the *formalist* *insight*), and the *apriority* *is* *realised* in the *machine* (the *contemporary* *insight*).}
+3. & \therefore \text{The *formal* *verification* *is* the *most* *rigorous* *proof* (the *formalist* *insight*), and the *apriority* *is* *realized* in the *machine* (the *contemporary* *insight*).}
 \end{array}
 $$
 
@@ -647,7 +647,7 @@ $$
 
 **(ii) The *‘*no* *apriority*’* *objection*. The *formal* *verification* *requires* the *machine* (the *empirical* *insight*), and the *apriority* *is* *lost*.
 
-**The *reply*** (the *contemporary* *literature*). The *machine* is the *tool* (the *mathematical* *content* is *a* *priori*, and the *machine* *realises* the *verification*), and the *reply* *distinguishes* the *tool* from the *content*. The *reply* is *defensible* (the *formal* *proof* *is* *a* *priori*, and the *machine* is the *medium*).
+**The *reply*** (the *contemporary* *literature*). The *machine* is the *tool* (the *mathematical* *content* is *a* *priori*, and the *machine* *realizes* the *verification*), and the *reply* *distinguishes* the *tool* from the *content*. The *reply* is *defensible* (the *formal* *proof* *is* *a* *priori*, and the *machine* is the *medium*).
 
 ### 5.4 The state of the epistemology
 
@@ -887,9 +887,9 @@ $$
 
 ### 8.1 What is settled
 
-- **The *Benacerraf* *dilemma* is *real* and *central*.** The *access* *problem* is *not* *decisively* *resolved*, and the *dilemma* is the *test* *case* for the *naturalisation* of *knowledge*.
-- **The *logicism* is *revived* in the *neo*-*logicist* form.** The *Frege’s* *theorem* is *correct*, and the *programme* *rests* on the *HP*, and the *Bad Company* and the *Caesar* are *open*.
-- **The *formalism* is *refuted* as the *complete* *account*.** The *Gödel* *theorems* *defeat* the *Hilbert’s* *programme*, and the *formalism* *survives* as a *partial* *account*.
+- **The *Benacerraf* *dilemma* is *real* and *central*.** The *access* *problem* is *not* *decisively* *resolved*, and the *dilemma* is the *test* *case* for the *naturalization* of *knowledge*.
+- **The *logicism* is *revived* in the *neo*-*logicist* form.** The *Frege’s* *theorem* is *correct*, and the *program* *rests* on the *HP*, and the *Bad Company* and the *Caesar* are *open*.
+- **The *formalism* is *refuted* as the *complete* *account*.** The *Gödel* *theorems* *defeat* the *Hilbert’s* *program*, and the *formalism* *survives* as a *partial* *account*.
 - **The *intuitionism* is *live*.** The *constructive* *mathematics* *is* *viable*, and the *intuitionist* *logic* *is* *rigorous*, and the *cost* is the *loss* of the *classical* *results*.
 - **The *structuralism* is the *most* *influential* *contemporary* *account*.** The *Benacerraf* *arbitrariness* and the *category* *theory* *support* the *view*, and the *access* and the *no*-*objects* *objections* *remain*.
 - **The *indispensability* *argument* is the *strongest* *argument* *for* the *platonism*.** The *quine*–*putnam* *argument* is *not* *decisively* *refuted*, and the *nominalist* *reconstruction* is *contested*.
@@ -910,7 +910,7 @@ $$
 The chapter is a case study in the method of Part I.
 
 - **Conceptual analysis** (§1 of Ch. 3) generated the *distinctions* between the *platonism*, the *nominalism*, the *structuralism*.
-- **Thought experiments** (§2 of Ch. 3) — the *Benacerraf* *sets*, the *Field* *reconstruction*, the *grue* *emeralds*, the *four*-*colour* *theorem* — are the *engine* of the debate.
+- **Thought experiments** (§2 of Ch. 3) — the *Benacerraf* *sets*, the *Field* *reconstruction*, the *grue* *emeralds*, the *four*-*color* *theorem* — are the *engine* of the debate.
 - **Formalization** (§3 of Ch. 3) — the *second*-*order* *logic*, the *BHK* *semantics*, the *forcing*, the *category* *theory* — is *essential* for the *field*.
 - **Reflective equilibrium** (§4 of Ch. 3) is the *method* by which the *intuitions* and the *theories* are *adjusted*.
 - **Negative capability** (§7 of Ch. 3) is the *response* to the *residue*: the *humility* to *hold* the *question* *open*.
@@ -929,7 +929,7 @@ The honest verdict: the philosophy of mathematics is a field in transition. The 
 | **Ante rem structuralism (Shapiro)** | The structures are universals | The practice | The access |
 | **In rebus structuralism (Resnik)** | The structures are patterns | The naturalism | The unstructured |
 | **Modal structuralism (Hellman)** | The structures are possible | The nominalism | The modality |
-| **Nominalism (Field)** | The reconstruction | The naturalism | The nominalisation |
+| **Nominalism (Field)** | The reconstruction | The naturalism | The nominalization |
 | **Fictionalism** | The useful fiction | The naturalism | The attitude; the application |
 | **Indispensability (Quine–Putnam)** | The abstracts exist (science) | The science | The access; the meta-induction |
 | **Multiverse (Hamkins)** | The set theory is plural | The practice | The relativism |
@@ -943,7 +943,7 @@ The table is a map, not a verdict. The reader who wants to choose a position mus
 
 Cross-cutting material, for the reader who wants to go deeper.
 
-**1. The *homotopy* *type* *theory* and the *univalent* *foundations*.** The *homotopy* *type* *theory* (the *HoTT*; Voevodsky; the *Univalent* *Foundations* *programme*; the *contemporary* *literature*) *proposes* a *new* *foundation* of the *mathematics* based on the *type* *theory* and the *homotopy* *theory*, and the *univalence* *axiom* *identifies* the *equivalent* *structures*, and the *programme* *realises* the *structuralist* *insight* in the *foundations*. The *connection* to the *structuralism* (§3) is *direct* and *profound*.
+**1. The *homotopy* *type* *theory* and the *univalent* *foundations*.** The *homotopy* *type* *theory* (the *HoTT*; Voevodsky; the *Univalent* *Foundations* *program*; the *contemporary* *literature*) *proposes* a *new* *foundation* of the *mathematics* based on the *type* *theory* and the *homotopy* *theory*, and the *univalence* *axiom* *identifies* the *equivalent* *structures*, and the *program* *realizes* the *structuralist* *insight* in the *foundations*. The *connection* to the *structuralism* (§3) is *direct* and *profound*.
 
 **2. The *mathematical* *explanation* and the *enhanced* *indispensability*.** The *enhanced* *indispensability* *argument* (Baker 2005, 2009) *uses* the *mathematical* *explanations* (Ch. 38, §8) as the *evidence* for the *mathematical* *realism*, and the *argument* *connects* the *philosophy* of *mathematics* to the *philosophy* of *science* (Ch. 40, §4) and to the *explanation* (Ch. 38). The *debate* is *active*.
 
@@ -979,10 +979,10 @@ Cross-cutting material, for the reader who wants to go deeper.
 4. State the *Frege’s* *theorem*. What does it *show* about the *arithmetic*?
 5. State the *Caesar* *problem*. Is the *HP* *sufficient* for the *concept* of *number*?
 6. State the *Bad Company* *objection*. Is the *conservativeness* *criterion* *defensible*?
-7. State the *formalism* (Hilbert). What is the *Gödel* *incompleteness*, and is the *programme* *defeated*?
+7. State the *formalism* (Hilbert). What is the *Gödel* *incompleteness*, and is the *program* *defeated*?
 8. State the *intuitionism* (Brouwer). What is the *BHK* *semantics*, and is the *rejection* of the *excluded* *middle* *defensible*?
 9. State the *ante* *rem* *structuralism* (Shapiro). Is the *access* *problem* *resolved*?
-10. State the *nominalism* (Field). What is the *reconstruction*, and is the *nominalisation* *adequate*?
+10. State the *nominalism* (Field). What is the *reconstruction*, and is the *nominalization* *adequate*?
 11. State the *indispensability* *argument*. Is the *argument* *sound*?
 12. State the *fictionalism*. Is the *fictionalism* *defensible* against the *attitude* and the *application* *objections*?
 13. State the *Gödel* *intuition*. Is the *intuition* *defensible* against the *no*-*organ* *objection*?
@@ -1018,6 +1018,6 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 ---
 
-> *A closing note.* This chapter has followed the *mathematics* — the *platonism*, the *programmes*, the *structuralism*, the *nominalism*, the *epistemology*, the *applicability*, and the *set* *theory* — and it has arrived at a *conclusion* that is less a *theory* than a *diagnosis*: the *mathematics* is the *strongest* *test* of the *naturalistic* *programme*, and the *programme* *stalls* at the *access* *problem* (the *Benacerraf* *dilemma*), and the *stall* is *instructive*: it *shows* that the *mathematical* *knowledge* is *real*, and the *nature* of the *knowledge* is *not* *fully* *understood*, and the *philosophical* *work* is *the* *clarification* of the *access*, not the *denial* of the *knowledge*.
+> *A closing note.* This chapter has followed the *mathematics* — the *platonism*, the *programs*, the *structuralism*, the *nominalism*, the *epistemology*, the *applicability*, and the *set* *theory* — and it has arrived at a *conclusion* that is less a *theory* than a *diagnosis*: the *mathematics* is the *strongest* *test* of the *naturalistic* *program*, and the *program* *stalls* at the *access* *problem* (the *Benacerraf* *dilemma*), and the *stall* is *instructive*: it *shows* that the *mathematical* *knowledge* is *real*, and the *nature* of the *knowledge* is *not* *fully* *understood*, and the *philosophical* *work* is *the* *clarification* of the *access*, not the *denial* of the *knowledge*.
 
-> *And a bridge.* Part VI has examined the *science* — the *explanation* (Ch. 38), the *laws* (Ch. 39), the *confirmation* (Ch. 40), the *physics* (Ch. 41), the *biology* (Ch. 42), and the *mathematics* (this chapter). Part VII turns to *value* — the *ethics*, the *politics*, the *aesthetics*, the *religion*, and the *meaning* — the *domain* in which the *naturalistic* *programme* faces the *normative* *questions* (the *is*/*ought* *gap*; Ch. 44, §1). If the *mathematics* *tests* the *naturalism* at the *ontological* *level* (the *abstract* *objects*), the * ethics* *tests* it at the *normative* *level* (the *moral* *facts*), and the *next* *part* *examines* the *ethics*, and it *asks* the *question* that the *whole* *book* *presupposes*: *what* *is* *it* for a *value* to be *real*?
+> *And a bridge.* Part VI has examined the *science* — the *explanation* (Ch. 38), the *laws* (Ch. 39), the *confirmation* (Ch. 40), the *physics* (Ch. 41), the *biology* (Ch. 42), and the *mathematics* (this chapter). Part VII turns to *value* — the *ethics*, the *politics*, the *aesthetics*, the *religion*, and the *meaning* — the *domain* in which the *naturalistic* *program* faces the *normative* *questions* (the *is*/*ought* *gap*; Ch. 44, §1). If the *mathematics* *tests* the *naturalism* at the *ontological* *level* (the *abstract* *objects*), the * ethics* *tests* it at the *normative* *level* (the *moral* *facts*), and the *next* *part* *examines* the *ethics*, and it *asks* the *question* that the *whole* *book* *presupposes*: *what* *is* *it* for a *value* to be *real*?

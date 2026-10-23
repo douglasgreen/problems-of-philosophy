@@ -12,9 +12,9 @@ Chapter 11 ended with a puzzle about the *social* conditions of knowledge: if te
 
 When I think *that table*, or *that person*, or *Aristotle*, the thought is *about* something. The thought has a *singular* content — it is directed at an object, not at a kind. What makes it singular? What connects the thought to the object? And what does the *subject* have to know, or be able to do, in order to have such a thought?
 
-These questions are the subject of this chapter. They were posed most sharply by Russell, in the distinction between **knowledge by acquaintance** and **knowledge by description**, and the distinction generated a research programme that is still active: the theory of descriptions, the semantics of names, the various theories of singular thought, and the epistemology of self-knowledge.
+These questions are the subject of this chapter. They were posed most sharply by Russell, in the distinction between **knowledge by acquaintance** and **knowledge by description**, and the distinction generated a research program that is still active: the theory of descriptions, the semantics of names, the various theories of singular thought, and the epistemology of self-knowledge.
 
-The chapter has a distinctive shape, because the territory has been *rebuilt twice*. Russell's *principle of acquaintance* — that every proposition we understand is composed of constituents we are acquainted with — was the foundation of his epistemology, and it is no longer tenable. But the *distinction* that the principle was meant to explain — between the *direct* and the *indirect* relation to an object — survives, and it is the ancestor of the contemporary debate about *singular thought*. The chapter's argument is that the *distinction* is real, the *principle* is false, and the *successor* programme is the most interesting thing in the philosophy of language.
+The chapter has a distinctive shape, because the territory has been *rebuilt twice*. Russell's *principle of acquaintance* — that every proposition we understand is composed of constituents we are acquainted with — was the foundation of his epistemology, and it is no longer tenable. But the *distinction* that the principle was meant to explain — between the *direct* and the *indirect* relation to an object — survives, and it is the ancestor of the contemporary debate about *singular thought*. The chapter's argument is that the *distinction* is real, the *principle* is false, and the *successor* program is the most interesting thing in the philosophy of language.
 
 We proceed in eight movements. §1 restates Russell's distinction and the principle of acquaintance. §2 presents the theory of descriptions, the most successful piece of analytic philosophy ever written. §3 presents the modern critique — Donnellan, Kripke, direct reference, the causal theory. §4 takes up demonstratives and indexicals, where the *essential* indexical lives. §5 takes up singular thought and object-dependence. §6 takes up self-knowledge and self-acquaintance. §7 assesses where Russell's framework survives and where it must be rebuilt. §8 gives an honest verdict.
 
@@ -28,12 +28,12 @@ Russell's distinction, in *The Problems of Philosophy* Ch. V, is between two kin
 
 | Kind | Form | Example | Object |
 |---|---|---|---|
-| **Knowledge of things** | $S$ knows $x$ | I know this table; I know the colour red | A *thing* |
+| **Knowledge of things** | $S$ knows $x$ | I know this table; I know the color red | A *thing* |
 | **Knowledge that** | $S$ knows that $p$ | I know that the table is brown | A *proposition* |
 
 The first is a *relation to an object*; the second is a *relation to a truth*. The distinction is grammatical, but it is not merely grammatical: it corresponds to a difference in *kind*.
 
-**Russell's claim.** Knowledge *that* is *analysable* into knowledge *of* plus the general principles that connect the constituents. To know that the table is brown, I must be *acquainted with* the table (or with sense-data that represent it) and with the universal *brownness*, and I must grasp the proposition that connects them.
+**Russell's claim.** Knowledge *that* is *analyzable* into knowledge *of* plus the general principles that connect the constituents. To know that the table is brown, I must be *acquainted with* the table (or with sense-data that represent it) and with the universal *brownness*, and I must grasp the proposition that connects them.
 
 **The priority thesis.** Knowledge *of* is *epistemically prior*: every proposition we can understand is composed of constituents we are acquainted with. This is the **principle of acquaintance**, and it is the foundation of Russell's epistemology.
 
@@ -74,7 +74,7 @@ Russell's list of the things we are acquainted with (*Problems*, Ch. V; Ch. X fo
 
 **What is *not* on the list.** Material objects (known by description), other minds (known by analogy), the past (known by memory, but the memory is the object of acquaintance, not the past event), and the self as a *substance* (contested).
 
-**The asymmetry.** The list is *narrow*: it includes only the *immediate* deliverances of experience. The *world* of tables and persons is *outside* the list, and it is known only by *inference* — which is why Russell's epistemology is *sceptical* (Ch. 6) and why the *principle of acquaintance* generates the *problem* of the external world.
+**The asymmetry.** The list is *narrow*: it includes only the *immediate* deliverances of experience. The *world* of tables and persons is *outside* the list, and it is known only by *inference* — which is why Russell's epistemology is *skeptical* (Ch. 6) and why the *principle of acquaintance* generates the *problem* of the external world.
 
 ### 1.4 The social challenge
 
@@ -152,7 +152,7 @@ The analysis has *three* components:
 
 **The virtues.**
 
-**(i) The problem of negative existentials is dissolved.** "The present King of France does not exist" is analysed as:
+**(i) The problem of negative existentials is dissolved.** "The present King of France does not exist" is analyzed as:
 
 $$
 (2') \quad \neg\exists x\,(\mathrm{King}(x) \wedge \mathrm{France}(x) \wedge \forall y((\mathrm{King}(y) \wedge \mathrm{France}(y)) \to y = x))
@@ -222,7 +222,7 @@ The theory of descriptions is *not* the *final* word, but it is the *starting po
 - The *use* is *Donnellanian*: the *referential* use is a *pragmatic* phenomenon, *consistent* with the *Russellian* semantics.
 - The *names* are *Kripkean*: names are *rigid*, and they are *not* abbreviated descriptions.
 
-The theory is the *most successful* piece of analytic philosophy because it *dissolves* a *real* puzzle (negative existentials), it *generates* a *method* (logical analysis), and it *opens* a *research programme* (the semantics of natural language).
+The theory is the *most successful* piece of analytic philosophy because it *dissolves* a *real* puzzle (negative existentials), it *generates* a *method* (logical analysis), and it *opens* a *research program* (the semantics of natural language).
 
 ---
 
@@ -276,7 +276,7 @@ $$
 \end{array}
 $$
 
-The argument *generalises*: for *any* description $D$ associated with the name $N$, there is a *possible world* in which $N$ does not satisfy $D$, and the *modal* truth value *diverges*.
+The argument *generalizes*: for *any* description $D$ associated with the name $N$, there is a *possible world* in which $N$ does not satisfy $D$, and the *modal* truth value *diverges*.
 
 **(ii) The epistemic argument.**
 
@@ -289,13 +289,13 @@ $$
 \end{array}
 $$
 
-The argument *generalises*: the *identity* between a name and its *description* is *a posteriori*, not *a priori*.
+The argument *generalizes*: the *identity* between a name and its *description* is *a posteriori*, not *a priori*.
 
 **(iii) The semantic argument.** The *Gödel/Schmidt case*.
 
 > Suppose that Gödel did not prove the incompleteness theorem; Schmidt did. Suppose further that Gödel *stole* the proof and *published* it under his own name. On the *descriptivist* view, "Gödel" means "the prover of the incompleteness theorem," and so "Gödel" *refers* to Schmidt (the actual prover). But intuitively, "Gödel" *still refers* to Gödel (the man who *published* the proof), even though he did *not* prove it.
 
-The argument *generalises*: *reference* is *not* determined by *description*; it is determined by *causal connection*.
+The argument *generalizes*: *reference* is *not* determined by *description*; it is determined by *causal connection*.
 
 ### 3.4 The causal-historical picture
 
@@ -323,7 +323,7 @@ The causal-historical picture has *three* well-known problems.
 
 ### 3.6 Natural kind terms
 
-Kripke's argument *generalises* to *natural kind terms*, and the *generalisation* is developed by Putnam (1975).
+Kripke's argument *generalizes* to *natural kind terms*, and the *generalization* is developed by Putnam (1975).
 
 **The argument.** "Water" is a *rigid designator*: it refers to *whatever substance* has the *same* *microstructure* as the *actual* water (H₂O). The *microstructure* is *discovered* empirically, and it *fixes* the *reference*.
 
@@ -379,7 +379,7 @@ $$
 
 ### 4.3 Lewis's de se
 
-David Lewis's "Attitudes De Dicto and De Se" (1979) *formalises* Perry's insight.
+David Lewis's "Attitudes De Dicto and De Se" (1979) *formalizes* Perry's insight.
 
 **The view.** The *objects* of *belief* are *properties*, not *propositions*. The *belief* "I am making a mess" is a *belief* in the *property* of *making a mess* — a *self-locating* *property*.
 
@@ -648,7 +648,7 @@ $$
 
 - **The nature of singular thought.** Is it *acquaintance-based* (Evans, Campbell), *file-based* (Recanati), or *causal* (Hawthorne & Manley)?
 - **The semantics of names.** Is there a *descriptive* *element* (the *cluster* theory, revised), or is *reference* *purely* *causal*?
-- **The problem of empty names.** How do *empty* names *mean*? The *fictionalist* (Ch. 14, §5), *metalinguistic*, and *pretence* *accounts* are *contested*.
+- **The problem of empty names.** How do *empty* names *mean*? The *fictionalist* (Ch. 14, §5), *metalinguistic*, and *pretense* *accounts* are *contested*.
 - **The relation between self-knowledge and self-acquaintance.** Is the *first-person* *authority* *grounded* in *acquaintance*, *constitution*, or *transparency*?
 - **The social dimension of self-knowledge.** How does the *social* *mediation* *shape* *first-person* *authority*?
 
@@ -685,7 +685,7 @@ The *table* is a *map*, not a *verdict*. The *reader* who wants to *choose* a *p
 
 Cross-cutting material, for the reader who wants to go deeper.
 
-**1. The *problem* of *empty* *names*.** Names that *do* not *refer* — *Sherlock Holmes*, *phlogiston*, *Vulcan* — *seem* to be *meaningful* and to *figure* in *true* *statements*. The *accounts*: *fictionalism* (Ch. 14, §5), *pretence* (Walton 1990), *metalinguistic* (Kripke 2013), *gappy* *propositions* (Braun 1993). The *debate* is *connected* to the *theory* of *fiction* (Ch. 49, §4).
+**1. The *problem* of *empty* *names*.** Names that *do* not *refer* — *Sherlock Holmes*, *phlogiston*, *Vulcan* — *seem* to be *meaningful* and to *figure* in *true* *statements*. The *accounts*: *fictionalism* (Ch. 14, §5), *pretense* (Walton 1990), *metalinguistic* (Kripke 2013), *gappy* *propositions* (Braun 1993). The *debate* is *connected* to the *theory* of *fiction* (Ch. 49, §4).
 
 **2. The *semantics* of *belief* *reports*.** "Lois believes that Superman can fly" and "Lois believes that Clark Kent can fly" — the *substitution* *puzzles* (Frege 1892) are the *central* *test* for any *theory* of *reference*. The *solutions*: *modes of presentation* (Frege, Evans), *guises* (Salmon), *two-dimensionalism* (Chalmers), *metalinguistic* (Stalnaker). The *debate* is *unresolved*.
 

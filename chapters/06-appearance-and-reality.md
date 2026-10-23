@@ -10,9 +10,9 @@
 
 Russell begins his book with a table. It is a domestic object, unremarkable, and it is the occasion for the whole of metaphysics. The table looks solid, brown, rectangular, and still. But the brown varies with the light and with the perceiver; the shape varies with the angle; the solidity is belied by physics; the stillness is belied by the motion of the earth. From these homely observations Russell derives a conclusion of enormous scope: what we immediately perceive is not the table but something else — a *sense-datum* — and the table itself is known only by inference.
 
-The argument is a century old, and its conclusion is no longer the consensus. But the *problem* it poses is as live as ever, and it has grown. The table is now a cloud of quantum fields; the perceiver is now a predictive engine; the light is now a topic in colour science; and the sceptic has new instruments — deepfakes, virtual reality, simulated worlds. This chapter restates Russell’s problem for the twenty-first century, surveys the theories that have been offered in response, and asks the question that the debate has slowly learned to ask: **what kind of thing is a perceptual experience?**
+The argument is a century old, and its conclusion is no longer the consensus. But the *problem* it poses is as live as ever, and it has grown. The table is now a cloud of quantum fields; the perceiver is now a predictive engine; the light is now a topic in color science; and the skeptic has new instruments — deepfakes, virtual reality, simulated worlds. This chapter restates Russell’s problem for the twenty-first century, surveys the theories that have been offered in response, and asks the question that the debate has slowly learned to ask: **what kind of thing is a perceptual experience?**
 
-The chapter has two halves. §§1–3 present the classical problem and the theory that dominated its first half-century — the sense-datum theory. §§4–7 present the theories that have displaced it — representationalism, enactivism, predictive processing, disjunctivism, and the rehabilitation of naïve realism — and the debate about secondary qualities that tests all of them. §8 draws the methodological payoff: the debate is not (primarily) about what is out there, but about the structure of experience, and the structure of experience is the structure of the evidence on which the rest of epistemology depends.
+The chapter has two halves. §§1–3 present the classical problem and the theory that dominated its first half-century — the sense-datum theory. §§4–7 present the theories that have displaced it — representationalism, enactivism, predictive processing, disjunctivism, and the rehabilitation of naive realism — and the debate about secondary qualities that tests all of them. §8 draws the methodological payoff: the debate is not (primarily) about what is out there, but about the structure of experience, and the structure of experience is the structure of the evidence on which the rest of epistemology depends.
 
 ---
 
@@ -22,7 +22,7 @@ The chapter has two halves. §§1–3 present the classical problem and the theo
 
 Russell’s reasoning, in *The Problems of Philosophy* Ch. I, has four steps.
 
-1. **Variability.** The table’s apparent colour, shape, and texture vary with the perceiver’s position, the illumination, and the state of the perceiver. “The colour will seem different by artificial light, or to a colour-blind man, or to a man wearing blue spectacles” (Russell 1912, Ch. I).
+1. **Variability.** The table’s apparent color, shape, and texture vary with the perceiver’s position, the illumination, and the state of the perceiver. “The colour will seem different by artificial light, or to a colour-blind man, or to a man wearing blue spectacles” (Russell 1912, Ch. I).
 2. **Incompatibility.** The variants cannot all be properties of the table *as it is in itself*, because they are incompatible: the table cannot be both brown and not-brown, both rectangular and not-rectangular, in the same respect at the same time.
 3. **Phenomenal priority.** What we are *immediately* aware of is the variant — the brown patch, the shape-from-here — not the invariant table.
 4. **Conclusion.** The table as it is in itself is not what we immediately perceive. It is known by inference, if it is known at all.
@@ -33,15 +33,15 @@ The conclusion is not that there is no table. Russell is explicit: “The real t
 
 The surface of Russell’s argument has been transformed by a century of science, but its deep structure has not. Four updates are worth noting.
 
-**(i) Physics.** The table is not solid. It is a lattice of atoms, mostly empty space, held together by electromagnetic forces, and the atoms are themselves excitations of quantum fields. The “solidity” we perceive is a macroscopic property — a resistance to compression — that emerges from the electromagnetic repulsion of electron clouds. Russell himself registered the point: “sober science, scarcely less wonderful, tells us that it is a vast collection of electric charges in violent motion” (Russell 1912, Ch. I). His observation has since been radicalised: the table is not even *table-shaped* at the fundamental level. (Ch. 19, §1.)
+**(i) Physics.** The table is not solid. It is a lattice of atoms, mostly empty space, held together by electromagnetic forces, and the atoms are themselves excitations of quantum fields. The “solidity” we perceive is a macroscopic property — a resistance to compression — that emerges from the electromagnetic repulsion of electron clouds. Russell himself registered the point: “sober science, scarcely less wonderful, tells us that it is a vast collection of electric charges in violent motion” (Russell 1912, Ch. I). His observation has since been radicalized: the table is not even *table-shaped* at the fundamental level. (Ch. 19, §1.)
 
-**(ii) Colour science.** Colour is not a simple property of surfaces. It is a product of the spectral reflectance of the surface, the spectral composition of the illuminant, the spectral sensitivity of the photoreceptors, and the computations of the visual system. Metamers — physically different surfaces that look the same colour — show that colour experience underdetermines the physical stimulus. Tetrachromats see colours that trichromats cannot. The “same” surface can look different under different illuminants, and the visual system *corrects* for the illuminant — a fact that is itself a kind of inference (Ch. 5, §7; Ch. 39, §3).
+**(ii) Color science.** Color is not a simple property of surfaces. It is a product of the spectral reflectance of the surface, the spectral composition of the illuminant, the spectral sensitivity of the photoreceptors, and the computations of the visual system. Metamers — physically different surfaces that look the same color — show that color experience underdetermines the physical stimulus. Tetrachromats see colors that trichromats cannot. The “same” surface can look different under different illuminants, and the visual system *corrects* for the illuminant — a fact that is itself a kind of inference (Ch. 5, §7; Ch. 39, §3).
 
 **(iii) Perceptual variability.** The classic demonstrations — the Müller-Lyer illusion, the Ames room, the dress — show that perception is not a passive registration of the stimulus. It is a construction, constrained by the stimulus and by prior assumptions. The construction is usually reliable, but its reliability is contingent on the world’s being the way the assumptions suppose.
 
-**(iv) The digital environment.** The table can now be a hologram, a virtual object, an AI-generated image, a deepfake. The question “is this really there?” has acquired a practical urgency that Russell did not anticipate. The sceptical scenarios of Ch. 6 are no longer philosophical thought experiments; they are consumer products.
+**(iv) The digital environment.** The table can now be a hologram, a virtual object, an AI-generated image, a deepfake. The question “is this really there?” has acquired a practical urgency that Russell did not anticipate. The skeptical scenarios of Ch. 6 are no longer philosophical thought experiments; they are consumer products.
 
-The updates sharpen Russell’s problem. If perception is a construction, what is it a construction *of*? If colour is a relational property, what is the relation? If the table is a cloud of fields, what is the object of perception? These are the questions the rest of the chapter addresses.
+The updates sharpen Russell’s problem. If perception is a construction, what is it a construction *of*? If color is a relational property, what is the relation? If the table is a cloud of fields, what is the object of perception? These are the questions the rest of the chapter addresses.
 
 ### 1.3 Two questions, not one
 
@@ -77,14 +77,14 @@ The debate has a characteristic shape, which is worth stating in advance so that
       +----------------+-----------------+                   +-------+
       |                |                 |                   |       |
       v                v                 v                   v       v
-  SENSE-DATUM  REPRESENTATIONALISM  ADVERBIALISM       DISJUNCTIVISM   NAÏVE REALISM
+  SENSE-DATUM  REPRESENTATIONALISM  ADVERBIALISM       DISJUNCTIVISM   NAIVE REALISM
     (§3)             (§4)              (§6)                (§6)           (§6.3)
 
         Cut across this taxonomy: the EMPIRICAL FRAMEWORKS of §5 —
         PREDICTIVE PROCESSING and ENACTIVISM
 ```
 
-The diagram is not exhaustive, but it captures the main fault line. The debate is, at bottom, a debate about whether veridical perception and hallucination are experiences of the *same kind*. If they are, the sense-datum theorist and the representationalist have a common starting point, and the disagreement is about what the common nature is. If they are not, the disjunctivist has a different starting point, and the whole dialectic shifts. The empirical frameworks of §5 cut across this taxonomy: a predictive processing theorist can be a representationalist, and an enactivist can be a naïve realist.
+The diagram is not exhaustive, but it captures the main fault line. The debate is, at bottom, a debate about whether veridical perception and hallucination are experiences of the *same kind*. If they are, the sense-datum theorist and the representationalist have a common starting point, and the disagreement is about what the common nature is. If they are not, the disjunctivist has a different starting point, and the whole dialectic shifts. The empirical frameworks of §5 cut across this taxonomy: a predictive processing theorist can be a representationalist, and an enactivist can be a naive realist.
 
 ---
 
@@ -123,7 +123,7 @@ $$
 
 **Assessment.** The argument is valid if (PP) and (5) are accepted. The philosophical work is in those two premises.
 
-- (PP) is not a logical truth. It is a substantive claim about the structure of experience, and it has been denied by adverbialists (who say that “sensing bently” is a mode, not a relation to an object), by representationalists (who say that experience *represents* a bent thing without being *aware of* a bent object), and by disjunctivists (who say that the illusion experience is of a different kind from the veridical one, so the premise does not generalise).
+- (PP) is not a logical truth. It is a substantive claim about the structure of experience, and it has been denied by adverbialists (who say that “sensing bently” is a mode, not a relation to an object), by representationalists (who say that experience *represents* a bent thing without being *aware of* a bent object), and by disjunctivists (who say that the illusion experience is of a different kind from the veridical one, so the premise does not generalize).
 - (5) is the **highest common factor assumption** (HCF). It says that veridical perception and illusion share a common nature. If this is false, the argument’s step from (4) to (6) fails. Disjunctivism (§6) rejects (5).
 
 The argument is therefore not a proof. It is an **inference to the best explanation** (Ch. 2, §5): the sense-datum theory is offered as the best explanation of the phenomena of illusion, and the argument is only as strong as the case that no better explanation is available. This is the key methodological point, and it recurs throughout the chapter.
@@ -151,19 +151,19 @@ $$
 
 The disjunctivist’s reply: introspective indistinguishability does not entail sameness of kind. Two experiences can be indistinguishable from the inside while being of different kinds, just as two substances can be indistinguishable by taste while being chemically different. The subject’s inability to tell the difference is a fact about the subject’s epistemic access, not about the nature of the experiences. (This is the “epistemic” reading of disjunctivism; the stronger, “metaphysical” reading goes further and says that the veridical experience is *constituted* by the object, so that it could not exist in the absence of the object.)
 
-### 2.3 The fate of naïve realism
+### 2.3 The fate of naive realism
 
-**Naïve realism** (also called *direct realism*, *relationalism*, or *the relational view*) is the view that in veridical perception we are directly aware of mind-independent objects, and that the objects of experience are not mental. It is the view of common sense, and it was the view of Aristotle, Reid, and Moore; Moore’s “A Defence of Common Sense” (1925) is its classic statement.
+**Naive realism** (also called *direct realism*, *relationalism*, or *the relational view*) is the view that in veridical perception we are directly aware of mind-independent objects, and that the objects of experience are not mental. It is the view of common sense, and it was the view of Aristotle, Reid, and Moore; Moore’s “A Defence of Common Sense” (1925) is its classic statement.
 
-Its **classical fate** was defeat by the arguments from illusion and hallucination. If the argument from illusion is sound, we are never directly aware of material objects. If the argument from hallucination is sound, the same conclusion follows. Naïve realism was therefore treated, for most of the twentieth century, as a view that had been refuted — a view that could be held only by someone who had not understood the arguments.
+Its **classical fate** was defeat by the arguments from illusion and hallucination. If the argument from illusion is sound, we are never directly aware of material objects. If the argument from hallucination is sound, the same conclusion follows. Naive realism was therefore treated, for most of the twentieth century, as a view that had been refuted — a view that could be held only by someone who had not understood the arguments.
 
 Its **rehabilitation** is one of the most striking developments in recent philosophy of perception. The rehabilitation has three sources:
 
 1. **Disjunctivism** (§6) showed that the arguments from illusion and hallucination are not valid without HCF, and that HCF is a substantive assumption that can be rejected.
-2. **The transparency argument** (Harman 1990) showed that when we introspect, we seem to find the objects themselves, not mental intermediaries. If introspection is a guide to the structure of experience, it supports the naïve realist’s claim that the object is a constituent of the experience.
-3. **The phenomenological tradition** (Merleau-Ponty, Heidegger) had always insisted that perception is *of* the world, and that the “inner” picture of experience is a Cartesian distortion. The analytic rehabilitation of naïve realism is, in part, a convergence with this tradition.
+2. **The transparency argument** (Harman 1990) showed that when we introspect, we seem to find the objects themselves, not mental intermediaries. If introspection is a guide to the structure of experience, it supports the naive realist’s claim that the object is a constituent of the experience.
+3. **The phenomenological tradition** (Merleau-Ponty, Heidegger) had always insisted that perception is *of* the world, and that the “inner” picture of experience is a Cartesian distortion. The analytic rehabilitation of naive realism is, in part, a convergence with this tradition.
 
-The naïve realist’s positive case is developed in §6. For now, the point is dialectical: the arguments from illusion and hallucination are the *strongest* arguments in the philosophy of perception, and they are not decisive. The question is whether the naïve realist can explain the phenomena — illusion, hallucination, perceptual error — without conceding the sense-datum theorist’s conclusion. That is the question of §6.
+The naive realist’s positive case is developed in §6. For now, the point is dialectical: the arguments from illusion and hallucination are the *strongest* arguments in the philosophy of perception, and they are not decisive. The question is whether the naive realist can explain the phenomena — illusion, hallucination, perceptual error — without conceding the sense-datum theorist’s conclusion. That is the question of §6.
 
 ---
 
@@ -205,7 +205,7 @@ The regress is not a decisive refutation — the act-object theorist can insist 
 
 ### 3.3 The privacy problem
 
-A second problem is **privacy**. If sense-data are private mental particulars, then two subjects never perceive the *same* sense-datum. But we talk about the same table, the same colour, the same sound. How is this possible?
+A second problem is **privacy**. If sense-data are private mental particulars, then two subjects never perceive the *same* sense-datum. But we talk about the same table, the same color, the same sound. How is this possible?
 
 The sense-datum theorist has three options:
 
@@ -246,7 +246,7 @@ The canonical statements are Anscombe (1957), Armstrong (1968), Harman (1990), D
 
 The strongest argument for representationalism is the **transparency argument**, due to Harman (1990).
 
-**The observation.** When you look at a tree, and you try to attend to your *experience* of the tree, you find yourself attending to the *tree* — its colour, its shape, its leaves. You do not find a further object, a mental image, or a sense-datum. The experience is “transparent”: you see through it to the world.
+**The observation.** When you look at a tree, and you try to attend to your *experience* of the tree, you find yourself attending to the *tree* — its color, its shape, its leaves. You do not find a further object, a mental image, or a sense-datum. The experience is “transparent”: you see through it to the world.
 
 **The argument.**
 
@@ -260,9 +260,9 @@ $$
 \end{array}
 $$
 
-**Assessment.** Premise 1 is a phenomenological datum, and it is widely accepted. The inference from 1 to 2 is contested: the naïve realist accepts 1 but denies 2, on the grounds that the represented objects are *constituents* of the experience, so that attending to them is attending to the experience. (This is the relationalist reading of transparency: the object is not *beyond* the experience; it is *in* it.) The inference from 2 to 3 is the strong representationalist’s claim, and it is the crux of the debate.
+**Assessment.** Premise 1 is a phenomenological datum, and it is widely accepted. The inference from 1 to 2 is contested: the naive realist accepts 1 but denies 2, on the grounds that the represented objects are *constituents* of the experience, so that attending to them is attending to the experience. (This is the relationalist reading of transparency: the object is not *beyond* the experience; it is *in* it.) The inference from 2 to 3 is the strong representationalist’s claim, and it is the crux of the debate.
 
-The transparency argument is therefore not a proof of representationalism. It is an argument that *rules out* the sense-datum theory (there is no private object to be found) while leaving open the choice between representationalism and naïve realism. The choice between those two is the subject of §6.
+The transparency argument is therefore not a proof of representationalism. It is an argument that *rules out* the sense-datum theory (there is no private object to be found) while leaving open the choice between representationalism and naive realism. The choice between those two is the subject of §6.
 
 ### 4.3 The content of experience
 
@@ -297,7 +297,7 @@ The debate is important because it bears on the possibility of **perfect halluci
 
 **(ii) The “particularity” problem.** If experience represents general contents, it seems to lose the particularity of perception; if it represents singular contents, it has trouble with hallucination. (See §4.3.)
 
-**(iii) The “richness” problem.** Perception seems to represent far more than we can conceptualise — the full visual field, the unattended background. If content is conceptual, this is hard to explain. (The “non-conceptual content” debate: Ch. 25, §5.)
+**(iii) The “richness” problem.** Perception seems to represent far more than we can conceptualize — the full visual field, the unattended background. If content is conceptual, this is hard to explain. (The “non-conceptual content” debate: Ch. 25, §5.)
 
 **(iv) The “cognitive penetrability” problem.** If perception is representation, and representation is inferential, then perception may be penetrated by belief — which raises the question of whether perception can justify belief, or whether it is already theory-laden. (This is the connection to Ch. 8, §2, and to the Sellarsian critique of the given.)
 
@@ -311,7 +311,7 @@ The objections are serious, and the debate is unresolved. But representationalis
 
 **Enactivism** is the view that perception is not a passive reception of information but an *activity* — the exercise of sensorimotor knowledge.
 
-The core idea, due to O’Regan and Noë (2001) and Noë (2004), is the **sensorimotor contingency theory**: to perceive an object is to know how the sensory input would change as a function of one’s movements. Seeing a tomato is knowing that if you move your eyes, the red patch will expand; if you walk around it, its appearance will change in specific ways; if you reach for it, your hand will encounter resistance. Perception is the *skilful exploration* of the environment, and the “feel” of perception is the feel of this exploration.
+The core idea, due to O’Regan and Noë (2001) and Noë (2004), is the **sensorimotor contingency theory**: to perceive an object is to know how the sensory input would change as a function of one’s movements. Seeing a tomato is knowing that if you move your eyes, the red patch will expand; if you walk around it, its appearance will change in specific ways; if you reach for it, your hand will encounter resistance. Perception is the *skillful exploration* of the environment, and the “feel” of perception is the feel of this exploration.
 
 The view has three key commitments:
 
@@ -327,17 +327,17 @@ The **argument** for enactivism is partly phenomenological (perception feels act
 
 **Predictive processing** (PP) is the most influential empirical framework in contemporary cognitive science, and it has profound implications for the philosophy of perception.
 
-The core idea (Rao & Ballard 1999; Friston 2010; Clark 2013, 2016; Hohwy 2013; Seth 2021): the brain is a **prediction machine**. It generates a hierarchical generative model of the causes of its sensory input, and it continuously compares the model’s predictions with the actual input. The difference — the **prediction error** — is either used to update the model (perceptual inference) or suppressed by acting on the world (active inference). Perception is the process of minimising prediction error.
+The core idea (Rao & Ballard 1999; Friston 2010; Clark 2013, 2016; Hohwy 2013; Seth 2021): the brain is a **prediction machine**. It generates a hierarchical generative model of the causes of its sensory input, and it continuously compares the model’s predictions with the actual input. The difference — the **prediction error** — is either used to update the model (perceptual inference) or suppressed by acting on the world (active inference). Perception is the process of minimizing prediction error.
 
 Three claims are central:
 
 1. **Perception is inference.** What we perceive is the brain’s best guess about the causes of the sensory input. It is not a passive registration; it is an active construction, constrained by the input and by prior expectations.
 2. **Perception is controlled hallucination.** Seth’s phrase: “Perception is a controlled hallucination, and hallucination is an uncontrolled perception” (Seth 2021). The brain’s predictions are *always* at work; in perception, they are corrected by the input; in hallucination, they are not.
-3. **The “dark room” problem.** If the brain minimises prediction error, why doesn’t it just shut its eyes and predict darkness? The answer: the brain’s prior is that it is an organism in a structured world, and the prediction error from a dark room is high relative to the prior. The “dark room” is avoided by the prior’s preference for structured, informative input — which is itself a prediction about the kind of organism we are.
+3. **The “dark room” problem.** If the brain minimizes prediction error, why doesn’t it just shut its eyes and predict darkness? The answer: the brain’s prior is that it is an organism in a structured world, and the prediction error from a dark room is high relative to the prior. The “dark room” is avoided by the prior’s preference for structured, informative input — which is itself a prediction about the kind of organism we are.
 
 The **philosophical implications** are large.
 
-- **The given is gone.** There is no unconceptualised input; all perceptual content is shaped by prior expectations. This is a vindication of Sellars’s critique of the “myth of the given” (Sellars 1956), and it bears directly on the epistemology of perception (Ch. 8, §2).
+- **The given is gone.** There is no unconceptualized input; all perceptual content is shaped by prior expectations. This is a vindication of Sellars’s critique of the “myth of the given” (Sellars 1956), and it bears directly on the epistemology of perception (Ch. 8, §2).
 - **Perception is a form of inference.** The inferential structure is subpersonal and Bayesian (Ch. 10, §4), and the question of whether it is *rational* is a question about the norms of the model.
 - **The realism question is reframed.** If perception is a construction, what is it a construction of? The PP theorist’s answer: the causes of the sensory input, which are real and independent of the model, but which are only accessible through the model. This is a sophisticated form of **structural realism** (Ch. 19, §6): we know the structure of the world, not its intrinsic nature.
 - **The “hard problem” persists.** PP explains the *functional* and *representational* structure of perception, but it does not explain *why* the process is conscious. (Seth’s “beast machine” view (2021) is an attempt to address this: consciousness is the content of the brain’s predictions about its own body, which is a form of “embodied” prediction. Whether this is an explanation or a redescription is contested.)
@@ -348,14 +348,14 @@ The two views are sometimes presented as rivals, and they share a surprising amo
 
 | Feature | Enactivism | Predictive processing |
 |---|---|---|
-| **Core claim** | Perception is active exploration | Perception is prediction error minimisation |
+| **Core claim** | Perception is active exploration | Perception is prediction error minimization |
 | **Emphasis** | Sensorimotor skills; embodiment | Inference; generative models |
 | **Role of action** | Constitutive of perception | Instrumental (active inference) |
 | **Realism** | Enacted; relational | Structural; model-mediated |
 | **The given** | Rejected | Rejected |
 | **The “hard problem”** | Addressed by embodiment | Addressed by “beast machine” |
 
-The convergence is significant: both reject the passive “input-output” model of perception; both emphasise the constructive, action-dependent nature of perception; both reject the myth of the given. The disagreement is about *what* the constructive process is — a set of sensorimotor skills, or a hierarchical Bayesian model — and about whether the process is *constitutive* of perception (enactivism) or merely its *implementation* (PP).
+The convergence is significant: both reject the passive “input-output” model of perception; both emphasize the constructive, action-dependent nature of perception; both reject the myth of the given. The disagreement is about *what* the constructive process is — a set of sensorimotor skills, or a hierarchical Bayesian model — and about whether the process is *constitutive* of perception (enactivism) or merely its *implementation* (PP).
 
 The current state of the debate is a kind of **pragmatic pluralism**: the two frameworks are complementary, and the choice between them is partly a matter of explanatory purpose. (See Clark 2016, Ch. 9; Seth 2021, Ch. 1.) The philosopher’s task is not to adjudicate the empirical dispute but to ask what each framework presupposes and what each can explain.
 
@@ -365,11 +365,11 @@ Both enactivism and PP are **empirical** frameworks, and their philosophical imp
 
 ---
 
-## 6. Adverbialism, Disjunctivism, and the Rehabilitation of Naïve Realism
+## 6. Adverbialism, Disjunctivism, and the Rehabilitation of Naive Realism
 
 ### 6.1 Adverbialism
 
-**Adverbialism** is the view that perceptual experience is a *mode of sensing* — an adverb, not a relation to an object. “I sense a red square” is analysed as “I sense redly and squarely”: the experience is characterised by *how* it is undergone, not by *what* it is of.
+**Adverbialism** is the view that perceptual experience is a *mode of sensing* — an adverb, not a relation to an object. “I sense a red square” is analyzed as “I sense redly and squarely”: the experience is characterized by *how* it is undergone, not by *what* it is of.
 
 The view is associated with Chisholm (1957), Ducasse (1942), and Sellars (1956), and it was developed as a response to the regress of appearing: if sensing is a mode of the subject, there is no object to be appeared to, and the regress does not arise.
 
@@ -402,25 +402,25 @@ The **argument** for disjunctivism is the failure of HCF. The arguments from ill
 
 **The costs.** (i) Disjunctivism has to explain *why* veridical perception and hallucination are indistinguishable from the inside, if they are different in kind. (The standard reply: indistinguishability is an epistemic fact, not a metaphysical one; two things can be indistinguishable to a subject while being different.) (ii) Disjunctivism has to give an account of the *common* element — the fact that both are experiences of *something* — without positing a common object. (The standard reply: the common element is the *subject’s* perspective, not a common object.) (iii) The **screening-off** objection: if the object is a constituent of the experience, how can the experience have a causal explanation that does not mention the object? (Martin’s reply: the object *is* the cause; the causal explanation and the constitutive explanation are the same explanation, described differently.)
 
-### 6.3 Naïve realism rehabilitated
+### 6.3 Naive realism rehabilitated
 
-**Naïve realism** (relationalism) is the positive view that disjunctivism makes available: in veridical perception, the subject is *acquainted with* mind-independent objects, and the objects are *constituents* of the experience. The experience is not a representation *of* the object; it is a *relation to* the object.
+**Naive realism** (relationalism) is the positive view that disjunctivism makes available: in veridical perception, the subject is *acquainted with* mind-independent objects, and the objects are *constituents* of the experience. The experience is not a representation *of* the object; it is a *relation to* the object.
 
 The view’s **positive case** has four parts.
 
-1. **Transparency.** When we introspect, we find the objects, not a mental intermediary (§4.2). The naïve realist takes this at face value: the objects *are* what we find, because they are constituents of the experience.
-2. **Phenomenology.** Perception feels *direct*: we do not feel as though we are inferring from sense-data; we feel as though we are in contact with the world. The naïve realist takes this at face value too.
-3. **The failure of HCF.** The arguments that displaced naïve realism depend on HCF, and HCF is false (§6.2).
-4. **The causal argument.** Perception is causally dependent on the object, and the naïve realist can accept this: the object causes the experience *by being a constituent of it*. (This is the “causal-constitutive” model.)
+1. **Transparency.** When we introspect, we find the objects, not a mental intermediary (§4.2). The naive realist takes this at face value: the objects *are* what we find, because they are constituents of the experience.
+2. **Phenomenology.** Perception feels *direct*: we do not feel as though we are inferring from sense-data; we feel as though we are in contact with the world. The naive realist takes this at face value too.
+3. **The failure of HCF.** The arguments that displaced naive realism depend on HCF, and HCF is false (§6.2).
+4. **The causal argument.** Perception is causally dependent on the object, and the naive realist can accept this: the object causes the experience *by being a constituent of it*. (This is the “causal-constitutive” model.)
 
 The view’s **problems** are serious.
 
-- **Hallucination.** What is the object of a hallucination? The naïve realist says: nothing. The hallucination is a *failed* relation, not a relation to a mental object. But then how does the hallucination have content? (The naïve realist can say: it has content in virtue of the subject’s *expectations*, not in virtue of an object.)
-- **Illusion.** What is the object of an illusion? The naïve realist says: the material object, misperceived. The stick *is* straight; it *looks* bent. But then what is the “look”? (The naïve realist needs an account of *appearance* that does not reintroduce a mental object. This is the hardest problem for the view, and it is the subject of the current literature.)
+- **Hallucination.** What is the object of a hallucination? The naive realist says: nothing. The hallucination is a *failed* relation, not a relation to a mental object. But then how does the hallucination have content? (The naive realist can say: it has content in virtue of the subject’s *expectations*, not in virtue of an object.)
+- **Illusion.** What is the object of an illusion? The naive realist says: the material object, misperceived. The stick *is* straight; it *looks* bent. But then what is the “look”? (The naive realist needs an account of *appearance* that does not reintroduce a mental object. This is the hardest problem for the view, and it is the subject of the current literature.)
 - **The “particularity” of perception.** If the object is a constituent, then two qualitatively identical experiences of numerically distinct objects are different experiences. This is the view’s strength (it captures the particularity intuition) and its weakness (it makes the experience unavailable in the absence of the object).
 - **The “screening-off” problem** (above).
 
-The rehabilitation is not complete, but the view is now a live option, and the debate between naïve realism and representationalism is the central debate in the philosophy of perception.
+The rehabilitation is not complete, but the view is now a live option, and the debate between naive realism and representationalism is the central debate in the philosophy of perception.
 
 ### 6.4 The dialectical map
 
@@ -441,22 +441,22 @@ We can now draw the map of the debate.
       +----------------+-----------------+                   +-------+
       |                |                 |                   |       |
       v                v                 v                   v       v
-  SENSE-DATUM  REPRESENTATIONALISM  ADVERBIALISM       DISJUNCTIVISM   NAÏVE REALISM
+  SENSE-DATUM  REPRESENTATIONALISM  ADVERBIALISM       DISJUNCTIVISM   NAIVE REALISM
     (§3)             (§4)              (§6)                (§6)           (§6.3)
 
         Cut across this taxonomy: the EMPIRICAL FRAMEWORKS of §5 —
         PREDICTIVE PROCESSING and ENACTIVISM
 ```
 
-The map is not exhaustive, and the boundaries are contested (some representationalists are also disjunctivists; some enactivists are naïve realists). But it captures the main options, and it shows why the debate is so hard: each option has costs, and the costs are paid in different currencies — ontology (sense-datum), explanatory power (representationalism), phenomenology (naïve realism), empirical plausibility (PP/enactivism).
+The map is not exhaustive, and the boundaries are contested (some representationalists are also disjunctivists; some enactivists are naive realists). But it captures the main options, and it shows why the debate is so hard: each option has costs, and the costs are paid in different currencies — ontology (sense-datum), explanatory power (representationalism), phenomenology (naive realism), empirical plausibility (PP/enactivism).
 
 ---
 
-## 7. Secondary Qualities: Colour, Sound, and the Subjectivity of the Sensory Field
+## 7. Secondary Qualities: Color, Sound, and the Subjectivity of the Sensory Field
 
 ### 7.1 The classical distinction
 
-**Primary qualities** — extension, figure, motion or rest, solidity, and number — were held by Locke, Boyle, and Newton to be *in* the objects, independent of the perceiver. **Secondary qualities** — colour, sound, taste, smell — were held to be *powers* in the objects to produce ideas in us, and the ideas themselves were “nothing in the objects themselves.”
+**Primary qualities** — extension, figure, motion or rest, solidity, and number — were held by Locke, Boyle, and Newton to be *in* the objects, independent of the perceiver. **Secondary qualities** — color, sound, taste, smell — were held to be *powers* in the objects to produce ideas in us, and the ideas themselves were “nothing in the objects themselves.”
 
 The arguments for the distinction (Locke, *Essay* II.viii):
 
@@ -466,33 +466,33 @@ The arguments for the distinction (Locke, *Essay* II.viii):
 
 Berkeley’s critique (1710) is the classic refutation: the same arguments apply to primary qualities. Extension is relative to the frame and position of the sense organs; motion is neither swift nor slow, but relative to the observer; solidity cannot be conceived apart from extension; and number is “entirely the creature of the mind,” varying with the unit the mind applies (*Principles* §§9–12). If variability and lack of resemblance are the marks of the subjective, then *everything* is subjective, and the distinction collapses. (This is the route to idealism; Ch. 20, §1.)
 
-The modern debate has not resolved Berkeley’s challenge, but it has transformed it. The distinction is now drawn not between primary and secondary qualities *simpliciter*, but between **objective** and **relational** properties, and the question is whether colour is relational in a way that extension is not.
+The modern debate has not resolved Berkeley’s challenge, but it has transformed it. The distinction is now drawn not between primary and secondary qualities *simpliciter*, but between **objective** and **relational** properties, and the question is whether color is relational in a way that extension is not.
 
-### 7.2 The science of colour
+### 7.2 The science of color
 
-The twentieth century transformed the debate by making colour a topic of empirical science.
+The twentieth century transformed the debate by making color a topic of empirical science.
 
-- **Trichromacy.** Normal human colour vision is mediated by three cone types (S, M, L), with peak sensitivities in the short, medium, and long wavelengths. The space of colours is a three-dimensional space, and the dimensions are roughly hue, saturation, and brightness.
-- **Metamers.** Physically different spectral distributions can produce the same colour experience. The experience is underdetermined by the stimulus.
-- **Colour constancy.** The visual system corrects for the illuminant: a white surface looks white under sunlight and under incandescent light, despite the very different spectral composition of the light reaching the eye. The correction is an inference (Helmholtz’s “unconscious inference”).
-- **Tetrachromacy.** Some humans (mostly women) have four cone types; some animals have more. A trichromat’s colour space is three-dimensional; a tetrachromat’s is four-dimensional, and the trichromatic space is (roughly) a subspace of it. The extra dimension buys new discriminations: a tetrachromat can tell apart surfaces that look identical to a trichromat.
-- **The dress (2015).** The same image, perceived as blue-and-black by some and white-and-gold by others. The visual system’s inference about the illuminant differs, and the perceived colour differs with it.
+- **Trichromacy.** Normal human color vision is mediated by three cone types (S, M, L), with peak sensitivities in the short, medium, and long wavelengths. The space of colors is a three-dimensional space, and the dimensions are roughly hue, saturation, and brightness.
+- **Metamers.** Physically different spectral distributions can produce the same color experience. The experience is underdetermined by the stimulus.
+- **Color constancy.** The visual system corrects for the illuminant: a white surface looks white under sunlight and under incandescent light, despite the very different spectral composition of the light reaching the eye. The correction is an inference (Helmholtz’s “unconscious inference”).
+- **Tetrachromacy.** Some humans (mostly women) have four cone types; some animals have more. A trichromat’s color space is three-dimensional; a tetrachromat’s is four-dimensional, and the trichromatic space is (roughly) a subspace of it. The extra dimension buys new discriminations: a tetrachromat can tell apart surfaces that look identical to a trichromat.
+- **The dress (2015).** The same image, perceived as blue-and-black by some and white-and-gold by others. The visual system’s inference about the illuminant differs, and the perceived color differs with it.
 
-The science supports a **relational** view of colour: colour is a property of the surface *relative to* a perceiver, an illuminant, and a visual system. It is not a simple intrinsic property of the object, and it is not a mere mental state. On the dominant view, it is a **relation** — though primitivism (§7.3) remains a live alternative.
+The science supports a **relational** view of color: color is a property of the surface *relative to* a perceiver, an illuminant, and a visual system. It is not a simple intrinsic property of the object, and it is not a mere mental state. On the dominant view, it is a **relation** — though primitivism (§7.3) remains a live alternative.
 
-### 7.3 The metaphysics of colour
+### 7.3 The metaphysics of color
 
 The philosophical positions:
 
 | View | Claim | Proponents | Problem |
 |---|---|---|---|
-| **Colour physicalism / realism** | Colours are complex physical properties (spectral reflectances) that dispose surfaces to look coloured | Byrne & Hilbert 2003 | Metamers; colour constancy; the “unique hues” problem |
-| **Colour primitivism / naïve realism** | Colours are simple, sui generis, irreducible properties that objects really have | Allen 2016; Byrne & Hilbert 2007; Brogaard 2010 | The causal role of colour; the science of colour |
-| **Colour relationalism** | Colours are relational properties (surface–illuminant–perceiver) | Cohen 2009; Matthen 2005 | What are the relata? Is the relation real? |
-| **Colour eliminativism / projectivism** | There are no colours on surfaces; the mind projects or “gilds” them onto the world | Boghossian & Velleman 1989; Hardin 1988; Gatzia 2008 | The phenomenology of colour; the utility of colour concepts |
-| **Colour subjectivism** | Colours are subjective qualities, or properties of experiences | Peacocke 1984 | The public language of colour; the causal role of colour in perception |
+| **Color physicalism / realism** | Colors are complex physical properties (spectral reflectances) that dispose surfaces to look colored | Byrne & Hilbert 2003 | Metamers; color constancy; the “unique hues” problem |
+| **Color primitivism / naive realism** | Colors are simple, sui generis, irreducible properties that objects really have | Allen 2016; Byrne & Hilbert 2007; Brogaard 2010 | The causal role of color; the science of color |
+| **Color relationalism** | Colors are relational properties (surface–illuminant–perceiver) | Cohen 2009; Matthen 2005 | What are the relata? Is the relation real? |
+| **Color eliminativism / projectivism** | There are no colors on surfaces; the mind projects or “gilds” them onto the world | Boghossian & Velleman 1989; Hardin 1988; Gatzia 2008 | The phenomenology of color; the utility of color concepts |
+| **Color subjectivism** | Colors are subjective qualities, or properties of experiences | Peacocke 1984 | The public language of color; the causal role of color in perception |
 
-The debate is unresolved, and it is a **test case** for the realism/anti-realism debate about perception. The naïve realist wants colour to be a property of the object; the representationalist wants it to be a content of experience; the sense-datum theorist wants it to be a property of the sense-datum; the adverbialist wants it to be a mode of sensing. The science constrains the options, but it does not settle them.
+The debate is unresolved, and it is a **test case** for the realism/anti-realism debate about perception. The naive realist wants color to be a property of the object; the representationalist wants it to be a content of experience; the sense-datum theorist wants it to be a property of the sense-datum; the adverbialist wants it to be a mode of sensing. The science constrains the options, but it does not settle them.
 
 ### 7.4 Sound, taste, and the other senses
 
@@ -502,7 +502,7 @@ The same questions apply to the other senses, and the answers are less developed
 - **Taste and smell.** Are tastes properties of the food, of the molecules, or of the experience? The “molecule” view (tastes are the shapes of molecules) and the “object” view (tastes are properties of the food) are the main options.
 - **Touch.** The “touch” debate is complicated by the fact that touch is both exteroceptive (we feel the object) and proprioceptive (we feel our own body). The “duality” of touch (Katz 1925; Fulkerson 2014) is a challenge for any unified theory of perception.
 
-The general lesson: the **secondary quality** debate is a probe into the metaphysics of perception. If colour is relational, then the object of perception is relational; if sound is an event, then the object of perception is an event; if taste is a molecule, then the object of perception is a molecule. The variety of sensory objects is a challenge to any simple theory of what perception is *of*.
+The general lesson: the **secondary quality** debate is a probe into the metaphysics of perception. If color is relational, then the object of perception is relational; if sound is an event, then the object of perception is an event; if taste is a molecule, then the object of perception is a molecule. The variety of sensory objects is a challenge to any simple theory of what perception is *of*.
 
 ---
 
@@ -516,14 +516,14 @@ The candidate answers:
 
 | Answer | What experience is | Key proponent | Core commitment |
 |---|---|---|---|
-| **Relation to an object** | Acquaintance with a mind-independent object | Naïve realism / relationalism | Object is a constituent |
+| **Relation to an object** | Acquaintance with a mind-independent object | Naive realism / relationalism | Object is a constituent |
 | **Relation to a mental object** | Awareness of a sense-datum | Sense-datum theory | Private particulars |
 | **Representation** | A state with content and accuracy conditions | Representationalism | Content exhausts phenomenology |
 | **Mode of sensing** | An adverbial modification of the subject | Adverbialism | No object needed |
-| **Activity** | Skilful exploration of the environment | Enactivism | Sensorimotor constitution |
-| **Prediction** | Minimisation of prediction error | Predictive processing | Inference; generative model |
+| **Activity** | Skillful exploration of the environment | Enactivism | Sensorimotor constitution |
+| **Prediction** | Minimization of prediction error | Predictive processing | Inference; generative model |
 
-The answers are not mutually exclusive at every level. A predictive processing theorist can be a representationalist (the model is a representation); an enactivist can be a naïve realist (the activity is a relation to the world); a representationalist can be a disjunctivist (the content of veridical perception and hallucination differ). The debate is not a simple menu; it is a network of commitments, and the philosopher’s task is to map the network.
+The answers are not mutually exclusive at every level. A predictive processing theorist can be a representationalist (the model is a representation); an enactivist can be a naive realist (the activity is a relation to the world); a representationalist can be a disjunctivist (the content of veridical perception and hallucination differ). The debate is not a simple menu; it is a network of commitments, and the philosopher’s task is to map the network.
 
 ### 8.2 The levels distinction
 
@@ -532,7 +532,7 @@ The network is clarified by distinguishing three levels of description.
 | Level | What it describes | Example | Discipline |
 |---|---|---|---|
 | **Personal** | The subject’s experience, as described from the first person | “I see a red cup” | Phenomenology |
-| **Subpersonal** | The information-processing that underlies the experience | “The ventral stream computes colour constancy” | Cognitive science |
+| **Subpersonal** | The information-processing that underlies the experience | “The ventral stream computes color constancy” | Cognitive science |
 | **Vehicle** | The physical implementation of the processing | “Neurons in V4 fire” | Neuroscience |
 
 The levels are not reducible to one another, and the failure to distinguish them is the source of much confusion. The claim “perception is inference” is a *subpersonal* claim (the processing is inferential); it does not entail that the *personal* experience is inferential (we do not experience ourselves as inferring). The claim “perception is a relation to an object” is a *personal* claim; it does not entail a *vehicle* claim (that the object is literally inside the brain). The levels distinction is the philosopher’s instrument for keeping the debate honest.
@@ -547,7 +547,7 @@ The lesson for the philosophy of perception:
 
 > **Perception is not a foundation. It is a participant in the space of reasons.**
 
-The representationalist, the enactivist, and the predictive processing theorist all accept this, in different ways. The representationalist says that experience has *content*, and content is the kind of thing that can stand in logical relations. The enactivist says that perception is *skilful coping*, and skilful coping is normatively assessable. The predictive processing theorist says that perception is *inference*, and inference is rational (or irrational). The sense-datum theorist, by contrast, was committed to a *non-conceptual* given, and that is the deepest reason for the theory’s decline.
+The representationalist, the enactivist, and the predictive processing theorist all accept this, in different ways. The representationalist says that experience has *content*, and content is the kind of thing that can stand in logical relations. The enactivist says that perception is *skillful coping*, and skillful coping is normatively assessable. The predictive processing theorist says that perception is *inference*, and inference is rational (or irrational). The sense-datum theorist, by contrast, was committed to a *non-conceptual* given, and that is the deepest reason for the theory’s decline.
 
 The myth of the given connects the philosophy of perception to epistemology (Chs. 6–8), and it is the reason this chapter is placed before the chapters on knowledge. The question “what is a perceptual experience?” is not a preliminary to epistemology; it is the *foundation* of epistemology — and, if Sellars is right, the foundation is not a foundation at all.
 
@@ -555,7 +555,7 @@ The myth of the given connects the philosophy of perception to epistemology (Chs
 
 The chapter closes with a theme that is not a theory but an orientation. The twentieth-century debate was dominated by the **inner** picture of experience: experience as a private inner realm, accessible only to the subject, standing between the subject and the world. Russell’s sense-data, Ayer’s “foundations,” the early modern “ideas” — all are versions of the inner picture.
 
-The contemporary debate has, in different ways, been a **rediscovery of the world**. The naïve realist says the object is a constituent of experience. The enactivist says perception is an activity in the world, not a representation in the head. The predictive processing theorist says the brain is a model of the world, and the model is *of* the world, not a substitute for it. The representationalist says experience represents the world, not a private realm. Even the sense-datum theorist’s most sophisticated descendants — the “qualia” theorists — are increasingly marginal.
+The contemporary debate has, in different ways, been a **rediscovery of the world**. The naive realist says the object is a constituent of experience. The enactivist says perception is an activity in the world, not a representation in the head. The predictive processing theorist says the brain is a model of the world, and the model is *of* the world, not a substitute for it. The representationalist says experience represents the world, not a private realm. Even the sense-datum theorist’s most sophisticated descendants — the “qualia” theorists — are increasingly marginal.
 
 The rediscovery is not a consensus, and it is not a single theory. But it is a shift in the *question*: from “what is in the mind?” to “what is the mind’s relation to the world?” That shift is the deepest legacy of the debate, and it is the one that this chapter has tried to trace.
 
@@ -567,25 +567,25 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 **1. The “hard problem” of perception.** The representationalist says that phenomenal character is exhausted by content. But *why* does content feel like anything? This is the hard problem of consciousness (Ch. 24, §2) applied to perception. The “transparency” argument gets us to content; it does not get us to *experience*. The gap is the same gap, and it is not closed by any of the theories surveyed here.
 
-**2. Non-conceptual content.** Does perception represent more than we can conceptualise? The “rich content” view (Dretske, Tye) says yes; the “sparse content” view (McDowell, Brewer) says no. The debate bears on the epistemic role of perception (Ch. 8, §2) and on the theory of mental content (Ch. 25, §5).
+**2. Non-conceptual content.** Does perception represent more than we can conceptualize? The “rich content” view (Dretske, Tye) says yes; the “sparse content” view (McDowell, Brewer) says no. The debate bears on the epistemic role of perception (Ch. 8, §2) and on the theory of mental content (Ch. 25, §5).
 
 **3. Iconic versus discursive representation.** Is perceptual content structured like a picture (iconic) or like a sentence (discursive)? The “iconic” view (Fodor, Carey) and the “discursive” view (Pylyshyn, Quine) have different implications for the *format* of perceptual representation. This is a technical debate with large philosophical stakes.
 
-**4. Non-Western theories of perception.** The Buddhist *pramāṇa* tradition (Dignāga, Dharmakīrti) developed a sophisticated theory of perception (*pratyakṣa*) as non-conceptual, particular, and pre-linguistic — a theory that anticipates many of the contemporary debates. The Nyāya school defended a realist view of perception as contact with an external object, and the Advaita Vedānta tradition developed a theory of perceptual error (*anirvacanīya-khyāti*) in which the unreal is presented in an indecipherable way — a striking parallel to, though not an identity with, the eliminative and projectivist treatments of colour discussed in §7.3. These are not ornaments; they are systematic alternatives, and they deserve to be treated as such (see the optional threads in Part IV, Ch. 24, for the connection to consciousness).
+**4. Non-Western theories of perception.** The Buddhist *pramāṇa* tradition (Dignāga, Dharmakīrti) developed a sophisticated theory of perception (*pratyakṣa*) as non-conceptual, particular, and pre-linguistic — a theory that anticipates many of the contemporary debates. The Nyāya school defended a realist view of perception as contact with an external object, and the Advaita Vedānta tradition developed a theory of perceptual error (*anirvacanīya-khyāti*) in which the unreal is presented in an indecipherable way — a striking parallel to, though not an identity with, the eliminative and projectivist treatments of color discussed in §7.3. These are not ornaments; they are systematic alternatives, and they deserve to be treated as such (see the optional threads in Part IV, Ch. 24, for the connection to consciousness).
 
-**5. Predictive processing and the free energy principle.** Friston’s “free energy principle” is a mathematical framework for self-organising systems, and its philosophical interpretation is contested. Is it a theory of *perception*, of *life*, or of *everything*? The “instrumentalist” reading (Hohwy) and the “enactivist” reading (Clark, Seth) give different answers, and the difference matters for the metaphysics of mind.
+**5. Predictive processing and the free energy principle.** Friston’s “free energy principle” is a mathematical framework for self-organizing systems, and its philosophical interpretation is contested. Is it a theory of *perception*, of *life*, or of *everything*? The “instrumentalist” reading (Hohwy) and the “enactivist” reading (Clark, Seth) give different answers, and the difference matters for the metaphysics of mind.
 
 ---
 
 ## Summary
 
 - Russell’s table argument concludes that the table is known by inference from what is immediately perceived. The argument has two parts — the argument from variability and the argument from physics — and it conflates two questions: the **epistemic** question (what are we immediately aware of?) and the **metaphysical** question (what is a perceptual experience?). The separation of the two questions is the first methodological move of the chapter.
-- The **argument from illusion** relies on the **phenomenal principle**, which is not a logical truth. The **argument from hallucination** relies on the **highest common factor assumption** (HCF), which is a substantive metaphysical claim. The classical refutation of naïve realism depends on HCF; the rehabilitation of naïve realism depends on rejecting it.
+- The **argument from illusion** relies on the **phenomenal principle**, which is not a logical truth. The **argument from hallucination** relies on the **highest common factor assumption** (HCF), which is a substantive metaphysical claim. The classical refutation of naive realism depends on HCF; the rehabilitation of naive realism depends on rejecting it.
 - The **sense-datum theory** was the dominant view for the first half of the twentieth century. Its virtues: it explains illusion, hallucination, and error. Its vices: the **regress of appearing**, the **privacy problem**, the **veil of perception**, and the **ontological cost**.
 - **Representationalism** is the dominant contemporary view: experience is a representation with content and accuracy conditions. Its strongest argument is **transparency**; its deepest problems are the **explanatory gap** (why does content feel like anything?), **particularity** (does experience represent *that* object or a kind?), and **cognitive penetrability** (is perception theory-laden?).
 - **Enactivism** and **predictive processing** are the two most influential empirical frameworks. Both reject the passive “input-output” model and the myth of the given; they differ on whether perception is constituted by sensorimotor skills or implemented by hierarchical prediction. The **“controlled hallucination”** slogan is a useful heuristic, not a theory.
-- **Adverbialism** analyses experience as a mode of sensing; its decisive problem is the **many-property problem**. **Disjunctivism** rejects HCF and opens the way for the rehabilitation of **naïve realism** (relationalism), which holds that veridical perception is a relation to mind-independent objects, and that the objects are constituents of the experience.
-- **Secondary qualities** — colour, sound, taste, smell — are the test case for the realism/anti-realism debate about perception. The science of colour (metamers, colour constancy, tetrachromacy, the dress) supports a **relational** view; the metaphysics of colour is contested. The same questions apply, with less development, to the other senses.
+- **Adverbialism** analyzes experience as a mode of sensing; its decisive problem is the **many-property problem**. **Disjunctivism** rejects HCF and opens the way for the rehabilitation of **naive realism** (relationalism), which holds that veridical perception is a relation to mind-independent objects, and that the objects are constituents of the experience.
+- **Secondary qualities** — color, sound, taste, smell — are the test case for the realism/anti-realism debate about perception. The science of color (metamers, color constancy, tetrachromacy, the dress) supports a **relational** view; the metaphysics of color is contested. The same questions apply, with less development, to the other senses.
 - The **methodological payoff**: the debate is not about what is out there, but about the structure of experience. The **levels distinction** (personal/subpersonal/vehicle) and the **myth of the given** (Sellars) are the instruments for keeping the debate honest. The deepest lesson: **perception is not a foundation; it is a participant in the space of reasons.**
 
 ---
@@ -596,10 +596,10 @@ Cross-cutting material, for the reader who wants to go deeper.
 2. Is the phenomenal principle (PP) a datum, a conceptual truth, or a substantive empirical claim? How would you argue for or against it?
 3. The argument from hallucination relies on the highest common factor assumption. Give the strongest argument *for* HCF and the strongest argument *against* it. Which is stronger?
 4. Is the regress of appearing a decisive objection to the sense-datum theory? What are the best replies, and do they succeed?
-5. The transparency argument is supposed to support representationalism. Does it? Can the naïve realist accept the transparency datum while rejecting the representationalist conclusion?
+5. The transparency argument is supposed to support representationalism. Does it? Can the naive realist accept the transparency datum while rejecting the representationalist conclusion?
 6. Is predictive processing a theory of perception, a theory of the brain, or a theory of everything? What is the difference, and why does it matter?
 7. Can disjunctivism explain the *indistinguishability* of veridical perception and hallucination without conceding HCF? What would the explanation look like?
-8. Is colour a property of objects, of experiences, or of relations among objects, perceivers, and illuminants? Argue for a view, and then state the strongest objection to it.
+8. Is color a property of objects, of experiences, or of relations among objects, perceivers, and illuminants? Argue for a view, and then state the strongest objection to it.
 9. What is the myth of the given, and why does it matter for the epistemology of perception? Does *any* of the theories surveyed in this chapter avoid the myth?
 10. “Perception is not a foundation; it is a participant in the space of reasons.” Assess. What follows for the epistemology of Chs. 6–8?
 
@@ -615,12 +615,12 @@ Cross-cutting material, for the reader who wants to go deeper.
 - **On representationalism**: G. E. M. Anscombe, *Intention* (1957); Gilbert Harman, “The Intrinsic Quality of Experience” (1990); Michael Tye, *Ten Problems of Consciousness* (1995), and *Consciousness, Color, and Content* (2000); Fred Dretske, *Naturalizing the Mind* (1995); Alex Byrne and Michael Tye, “Qualia Ain’t in the Head” (2006); David Chalmers, “The Representational Character of Experience” (2004).
 - **On enactivism**: Alva Noë, *Action in Perception* (2004); J. Kevin O’Regan and Alva Noë, “A Sensorimotor Account of Vision and Visual Consciousness” (2001); Evan Thompson, *Mind in Life* (2007); Francisco Varela, Evan Thompson, and Eleanor Rosch, *The Embodied Mind* (1991).
 - **On predictive processing**: Andy Clark, *Surfing Uncertainty* (2016); Jakob Hohwy, *The Predictive Mind* (2013); Anil Seth, *Being You* (2021); Karl Friston, “The Free-Energy Principle: A Unified Brain Theory?” (2010); Rajesh Rao and Dana Ballard, “Predictive Coding in the Visual Cortex” (1999).
-- **On naïve realism**: G. E. Moore, “A Defence of Common Sense” (1925); M. G. F. Martin, “The Transparency of Experience” (2002); Bill Brewer, *Perception and Its Objects* (2011); John Campbell, *Reference and Consciousness* (2002); Paul Snowdon, “The Objects of Perceptual Experience” (1980–81).
-- **On colour**: Alex Byrne and David Hilbert, “Color Realism and Color Science” (2003), and “Colour Primitivism” (2007); Jonathan Cohen, *The Red and the Real* (2009); Mohan Matthen, *Seeing, Doing, and Knowing* (2005); C. L. Hardin, *Color for Philosophers* (1988); Keith Allen, *A Naïve Realist Theory of Colour* (2016); Berit Brogaard, “Colour and the Perceptual Predicate” (2010); Dimitria Gatzia, “Fictional Colors” (2008); Christopher Peacocke, “Colour Concepts and Colour Experience” (1984); Mazviita Chirimuuta, *Outside Color* (2015).
+- **On naive realism**: G. E. Moore, “A Defence of Common Sense” (1925); M. G. F. Martin, “The Transparency of Experience” (2002); Bill Brewer, *Perception and Its Objects* (2011); John Campbell, *Reference and Consciousness* (2002); Paul Snowdon, “The Objects of Perceptual Experience” (1980–81).
+- **On color**: Alex Byrne and David Hilbert, “Color Realism and Color Science” (2003), and “Colour Primitivism” (2007); Jonathan Cohen, *The Red and the Real* (2009); Mohan Matthen, *Seeing, Doing, and Knowing* (2005); C. L. Hardin, *Color for Philosophers* (1988); Keith Allen, *A Naïve Realist Theory of Colour* (2016); Berit Brogaard, “Colour and the Perceptual Predicate” (2010); Dimitria Gatzia, “Fictional Colors” (2008); Christopher Peacocke, “Colour Concepts and Colour Experience” (1984); Mazviita Chirimuuta, *Outside Color* (2015).
 - **On sound and the other senses**: Roberto Casati and Jérôme Dokic, *The Structure of Spatial Representation* (1994), for the event view of sound; J. J. Katz, *The World of Colour* (1925); Preston Fulkerson, “The Ontology of Touch” (2014).
 - **On the myth of the given**: Wilfrid Sellars, *Empiricism and the Philosophy of Mind* (1956), §§1–38; John McDowell, *Mind and World* (1994), Lectures I–III; Robert Brandom, *Making It Explicit* (1994), Ch. 1.
 - **On non-Western theories of perception**: Dignāga, *Pramāṇasamuccaya*, Ch. 1, with the commentary of Dharmakīrti; Jonardon Ganeri, *Philosophy in Classical India* (2001), Chs. 3–4; B. K. Matilal, *Perception* (1986); Evan Thompson, *Why I Am Not a Buddhist* (2020), for the contemporary dialogue.
 
 ---
 
-> *A closing note.* Russell began with a table and ended with a theory of knowledge. This chapter has followed the table through the debates it generated — illusion, hallucination, sense-data, representation, prediction, relation — and has arrived at a conclusion that is less a theory than a diagnosis: the debate about perception is the debate about the structure of the evidence on which the rest of epistemology depends. The next chapter follows the sceptical consequences of that structure: if perception is mediated, can we know that there is a world at all? The question is ancient, and it has not lost its power. But the reader who has absorbed this chapter will be in a position to see that the sceptic’s argument depends on a particular conception of what perception gives us — and that the conception is contestable. The table is still there. The question is what we are doing when we see it.
+> *A closing note.* Russell began with a table and ended with a theory of knowledge. This chapter has followed the table through the debates it generated — illusion, hallucination, sense-data, representation, prediction, relation — and has arrived at a conclusion that is less a theory than a diagnosis: the debate about perception is the debate about the structure of the evidence on which the rest of epistemology depends. The next chapter follows the skeptical consequences of that structure: if perception is mediated, can we know that there is a world at all? The question is ancient, and it has not lost its power. But the reader who has absorbed this chapter will be in a position to see that the skeptic’s argument depends on a particular conception of what perception gives us — and that the conception is contestable. The table is still there. The question is what we are doing when we see it.

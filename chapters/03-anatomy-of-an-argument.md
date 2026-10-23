@@ -1,7 +1,7 @@
 # Chapter 2 — The Anatomy of an Argument
 
 > “It is a very common error to suppose that the object of argument is to convince an opponent. The object of argument is to find out what is true.”
-> — Attributed to many; practised by few.
+> — Attributed to many; practiced by few.
 
 ---
 
@@ -31,13 +31,13 @@ Four diagnostic types are worth distinguishing. Each is a tool, and each has its
 
 **(a) Presupposition failure.** “Why did the King of France invade Belgium?” presupposes that there is a King of France. If there is not, the question is not hard; it is *defective*. The right response is not to speculate about his motives but to reject the presupposition.
 
-Russell’s theory of descriptions (Ch. 12, §2) was designed precisely to handle this. “The present King of France is bald” is analysed not as a subject–predicate sentence whose subject fails to refer, but as a conjunction of three claims:
+Russell’s theory of descriptions (Ch. 12, §2) was designed precisely to handle this. “The present King of France is bald” is analyzed not as a subject–predicate sentence whose subject fails to refer, but as a conjunction of three claims:
 
 $$\exists x(\text{King}(x) \wedge \text{France}(x) \wedge \forall y((\text{King}(y) \wedge \text{France}(y)) \to y = x) \wedge \text{Bald}(x))$$
 
-The sentence is false (not truth-valueless), because the existential conjunct fails. The technique generalises: when a question seems unanswerable, ask **what it presupposes**, and then ask whether the presupposition is true. Often the honest answer is that the presupposition is a substantive thesis that has not been argued.
+The sentence is false (not truth-valueless), because the existential conjunct fails. The technique generalizes: when a question seems unanswerable, ask **what it presupposes**, and then ask whether the presupposition is true. Often the honest answer is that the presupposition is a substantive thesis that has not been argued.
 
-**(b) Category mistakes.** “What is the average colour of the number seven?” The question is not hard; it applies a predicate to a category of thing to which the predicate does not apply. Gilbert Ryle (1949) diagnosed the mind–body problem partly in these terms: the question “Where is the mind?” is defective if minds are not the kind of thing that has a spatial location — just as “Where is the university?” is defective if universities are not buildings (though see Ch. 23, §1.3, for the objection that this is too quick).
+**(b) Category mistakes.** “What is the average color of the number seven?” The question is not hard; it applies a predicate to a category of thing to which the predicate does not apply. Gilbert Ryle (1949) diagnosed the mind–body problem partly in these terms: the question “Where is the mind?” is defective if minds are not the kind of thing that has a spatial location — just as “Where is the university?” is defective if universities are not buildings (though see Ch. 23, §1.3, for the objection that this is too quick).
 
 The category-mistake diagnosis is powerful but dangerous. It is too easy to declare one’s opponents guilty of a category mistake instead of answering them. The burden is on the diagnostician to say *which* category is being confused and *why* the predicate does not apply. Wittgenstein’s later method (Ch. 3, §7) is a sustained exercise in this burden.
 
@@ -80,7 +80,7 @@ An **argument**, in the philosopher’s sense, is a set of propositions in which
 
 ### 2.1 The standard form
 
-We standardise arguments into a numbered list, with the conclusion clearly marked:
+We standardize arguments into a numbered list, with the conclusion clearly marked:
 
 $$
 \begin{array}{ll}
@@ -91,9 +91,9 @@ $$
 \end{array}
 $$
 
-Standardisation is not pedantry. It forces the arguer to say *what exactly* is being claimed, and it exposes the *gaps*. An argument that cannot be standardised is usually an argument that has not been thought through.
+Standardization is not pedantry. It forces the arguer to say *what exactly* is being claimed, and it exposes the *gaps*. An argument that cannot be standardized is usually an argument that has not been thought through.
 
-**The premises may be any number, including one.** “It is raining; therefore the street is wet” has one premise and relies on an implicit generalisation. **The conclusion is one proposition** — a common error is to write a multi-sentence “conclusion” that is really two conclusions, each needing separate support. **The order is not the argument**: premises may appear after the conclusion, and the argument’s validity does not depend on presentation order.
+**The premises may be any number, including one.** “It is raining; therefore the street is wet” has one premise and relies on an implicit generalization. **The conclusion is one proposition** — a common error is to write a multi-sentence “conclusion” that is really two conclusions, each needing separate support. **The order is not the argument**: premises may appear after the conclusion, and the argument’s validity does not depend on presentation order.
 
 ### 2.2 Validity
 
@@ -170,7 +170,7 @@ The following table lists the inference forms that appear most often in philosop
 | *Ex falso* | $\bot;\ \therefore q$ | Valid (classically) | Paraconsistent logicians demur (Ch. 35, §5) |
 | Constructive dilemma | $p \vee q;\ p \to r;\ q \to s;\ \therefore r \vee s$ | Valid | |
 | Universal instantiation | $\forall x Fx;\ \therefore Fa$ | Valid | |
-| Existential generalisation | $Fa;\ \therefore \exists x Fx$ | Valid | |
+| Existential generalization | $Fa;\ \therefore \exists x Fx$ | Valid | |
 
 Two forms deserve special comment because they are so often misused.
 
@@ -224,7 +224,7 @@ This is a special case of the general problem of interpretation (Ch. 31, §6). I
 
 ### 3.3 The principle of charity
 
-The **principle of charity** (Wilson 1959; Quine 1960; Davidson 1974) says: interpret a speaker so as to maximise the truth or reasonableness of what she says, consistent with the evidence of what she actually said. The rationale is partly semantic — radical interpretation is only possible if we assume mostly-true beliefs and mostly-valid inferences — and partly methodological: the point of engaging with an argument is to engage with its *best* version.
+The **principle of charity** (Wilson 1959; Quine 1960; Davidson 1974) says: interpret a speaker so as to maximize the truth or reasonableness of what she says, consistent with the evidence of what she actually said. The rationale is partly semantic — radical interpretation is only possible if we assume mostly-true beliefs and mostly-valid inferences — and partly methodological: the point of engaging with an argument is to engage with its *best* version.
 
 Charity operates at three levels:
 
@@ -238,7 +238,7 @@ Charity is not the same as **agreement**, and it is not the same as **weakness**
 
 ### 3.4 The limits of charity
 
-Charity has limits, and they are important, because a principle without limits becomes a licence.
+Charity has limits, and they are important, because a principle without limits becomes a license.
 
 **Limit 1: fidelity to the text.** Charity cannot license a reconstruction that the arguer’s words will not bear. If the text says “all men are mortal” and you reconstruct it as “most men are mortal,” you have not interpreted; you have replaced. The principle is *charitable interpretation*, not *charitable invention*.
 
@@ -248,7 +248,7 @@ Charity has limits, and they are important, because a principle without limits b
 
 **Limit 4: the strategic use of charity.** Charity is a virtue of the interpreter, not a demand the arguer can make. “You’re not reading me charitably” is sometimes a legitimate complaint and sometimes a way of avoiding a real objection. The test is whether the uncharitable reading is *available* to a competent reader of the text.
 
-The balanced position, which this book adopts, is what we might call **strong charity**: reconstruct the argument in its strongest form that the text will bear, state the reconstruction explicitly, and then criticise it — and, having criticised it, ask whether the arguer had a reply available.
+The balanced position, which this book adopts, is what we might call **strong charity**: reconstruct the argument in its strongest form that the text will bear, state the reconstruction explicitly, and then criticize it — and, having criticized it, ask whether the arguer had a reply available.
 
 ---
 
@@ -295,7 +295,7 @@ The premises support the conclusion *jointly*: neither alone gives any support, 
 ```
 *(Joint support)*
 
-The technique generalises to disagreements: a **dialectical map** adds the opponent’s counterarguments, the replies to those, and so on. The result is a tree whose depth is the depth of the debate.
+The technique generalizes to disagreements: a **dialectical map** adds the opponent’s counterarguments, the replies to those, and so on. The result is a tree whose depth is the depth of the debate.
 
 ### 4.2 The Toulmin model and its limits
 
@@ -307,16 +307,16 @@ But the Toulmin model has two problems for philosophical purposes. First, it is 
 
 The **straw man** is the fallacy of refuting a weaker version of an opponent’s position than the one she holds. Its epidemiology is a chapter in the psychology of persuasion (Ch. 4, §2), not of logic; but its philosophical form is important because it can be committed in good faith.
 
-**Steel-manning** is the deliberate practice of constructing the strongest version of the opponent’s position before criticising it. It has a structure:
+**Steel-manning** is the deliberate practice of constructing the strongest version of the opponent’s position before criticizing it. It has a structure:
 
 1. **Reconstruct** the position in its most defensible form, using the charitable method of §3.
 2. **Strengthen** it: add premises or distinctions that the opponent did not state but would accept; remove irrelevant or unfortunate formulations; repair obvious slips.
 3. **State it back** to the opponent, or to the reader, as the target of criticism.
-4. **Criticise the strengthened version**, and only then return to the actual text.
+4. **Criticize the strengthened version**, and only then return to the actual text.
 
 The fourth step is essential. A steel man is not a substitute for reading the text; it is a *testing procedure*. The philosophical value of steel-manning is that it converts a disagreement into a genuine test: if the strongest version survives your objection, your objection was not good enough.
 
-**The limits of steel-manning.** Steel-manning can become a form of avoidance, if the strengthened position is so far from the actual one that criticising it is irrelevant. The rule of thumb: *the steel man should be a position the opponent would recognise as hers.* If she would say “that’s not what I meant,” you have gone too far.
+**The limits of steel-manning.** Steel-manning can become a form of avoidance, if the strengthened position is so far from the actual one that criticizing it is irrelevant. The rule of thumb: *the steel man should be a position the opponent would recognize as hers.* If she would say “that’s not what I meant,” you have gone too far.
 
 ### 4.4 The motte-and-bailey (preview)
 
@@ -469,7 +469,7 @@ $$
 \end{array}
 $$
 
-Since (1) and (1′) cannot both be true, the argument establishes at most that the question turns on which possibility premise is correct — and that is a substantive question, not a logical one. Plantinga’s own view is that (1) is *warranted* for the theist, but not for the atheist; the argument is therefore a *defence* of theism against the charge of inconsistency, not a proof. This is an honest and instructive result: a valid argument whose probative force is exhausted by the epistemic status of one premise.
+Since (1) and (1′) cannot both be true, the argument establishes at most that the question turns on which possibility premise is correct — and that is a substantive question, not a logical one. Plantinga’s own view is that (1) is *warranted* for the theist, but not for the atheist; the argument is therefore a *defense* of theism against the charge of inconsistency, not a proof. This is an honest and instructive result: a valid argument whose probative force is exhausted by the epistemic status of one premise.
 
 **The lesson.** The ontological argument is the paradigm case of an argument whose validity is uncontested and whose premises are the whole game. Learning to see this — to stop arguing about the logic and start arguing about the premise — is a milestone in philosophical maturity.
 
@@ -494,7 +494,7 @@ $$
 
 **Assessment.** The argument is valid if premise 1 is interpreted as a claim about *direct awareness* rather than about *the object of experience*. The whole weight of the argument falls on that interpretation, which is the **phenomenal principle**: *whenever something looks $F$ to a subject, there is something of which the subject is aware that is $F$.* (Robinson 1994.)
 
-The phenomenal principle is not a logical truth, and it has been extensively criticised:
+The phenomenal principle is not a logical truth, and it has been extensively criticized:
 
 - **Adverbialism** (Chisholm, Ducasse): “I sense redly” is not a relation to a red object; it is a mode of sensing. On this view, premise 1 is false. (Ch. 5, §6.)
 - **Intentionalism / representationalism** (Ch. 5, §4): experience represents the world as being a certain way, but representation does not require an object that *is* that way. A photograph can represent a unicorn without there being a unicorn. Premise 1 is false as stated; the correct premise (that experience *represents* a bent thing) does not yield the sense-datum conclusion.
@@ -547,7 +547,7 @@ This last row is the most important. The is–ought gap is often cited as though
 - An **argument** is premises offered in support of a conclusion. **Validity** is truth-preservation; **soundness** is validity plus true premises; cogency adds justification. Validity is cheap; the philosophical work is in the premises.
 - **Deductive** inference is truth-preserving; **ampliative** inference (induction, abduction) is truth-extending and defeasible. Most interesting philosophical arguments are ampliative, and should be assessed as such.
 - Most real arguments are **enthymematic**. Reconstruction is underdetermined by the text; state your reconstruction explicitly, and choose the strongest version the text will bear. **Charity** is a virtue with limits: fidelity, the arguer’s own standards, the possibility of error.
-- **Argument maps** distinguish independent from joint premises; **dialectical trees** represent the depth of a debate; **steel-manning** converts disagreement into a genuine test. A steel man must be a position the opponent would recognise.
+- **Argument maps** distinguish independent from joint premises; **dialectical trees** represent the depth of a debate; **steel-manning** converts disagreement into a genuine test. A steel man must be a position the opponent would recognize.
 - **Explanation** is not **argument**. Explanation aims at intelligibility; argument aims at truth. The two have different success conditions and different failure modes, and confusing them is a common source of philosophical error.
 - **Inference to the best explanation** is the most important ampliative form in philosophy. Its explanatory virtues are real but contestable, and its use raises the circularity worry (is IBE itself justified abductively?) and the van Fraassen challenge (are explanatory virtues epistemic or pragmatic?).
 - **Possibility arguments** establish possibility, not actuality. Their weight depends on the conceivability–possibility thesis, which is itself contested.
@@ -560,7 +560,7 @@ This last row is the most important. The is–ought gap is often cited as though
 1. Is “Why is there something rather than nothing?” a genuine question by the test of §1.3? If not, is that a criticism of the question or of the test?
 2. Give an argument that is valid but not sound, and one that is sound but not cogent. What does the difference show about the relation between logic and epistemology?
 3. Can a valid argument have a false conclusion? If so, what follows for the claim that validity is the core of good reasoning?
-4. Reconstruct the following argument charitably, then criticise it: “You can’t criticise someone’s culture. Morality is relative to culture. So we should tolerate all cultural practices.” Identify at least two hidden premises and two distinct errors.
+4. Reconstruct the following argument charitably, then criticize it: “You can’t criticize someone’s culture. Morality is relative to culture. So we should tolerate all cultural practices.” Identify at least two hidden premises and two distinct errors.
 5. Under what conditions is it legitimate to attribute a hidden premise to an arguer rather than declaring the argument invalid? Give a case where charity goes too far.
 6. Consider the claim that the argument from illusion is really an IBE. Does this reconstruction make the argument stronger or weaker? Why?
 7. Is the is–ought gap a logical thesis, a metaphysical thesis, or both? What difference does it make to the debate about moral realism?

@@ -7,7 +7,7 @@
 
 ## Design of the Book
 
-**Thesis of the book:** Philosophy is not a catalogue of opinions but a *discipline of systematic analysis* — the disciplined study of what we would have to show, say, and assume in order to make our ordinary beliefs, concepts, and practices coherent. The book therefore does two things at once: it surveys the great problems, and it teaches the reader *how to work on any problem* — how to isolate a question, construct and dismantle arguments, apply distinctions, and know when a question has been answered, dissolved, or merely renamed.
+**Thesis of the book:** Philosophy is not a catalog of opinions but a *discipline of systematic analysis* — the disciplined study of what we would have to show, say, and assume in order to make our ordinary beliefs, concepts, and practices coherent. The book therefore does two things at once: it surveys the great problems, and it teaches the reader *how to work on any problem* — how to isolate a question, construct and dismantle arguments, apply distinctions, and know when a question has been answered, dissolved, or merely renamed.
 
 **Who it is for:** Undergraduate and graduate students; general readers who want a single, honest map of the terrain; working philosophers in one area who want a reliable guide to the others.
 
@@ -38,7 +38,7 @@
 1. The naive picture: philosophy as opinion, and why it fails.
 2. Three working definitions: philosophy as *conceptual analysis*, as *rational reconstruction*, as *the study of the conditions of intelligibility*.
 3. The perennial questions and the "permanent problems" illusion — what changes and what stays.
-4. Philosophy and its neighbours: where science, logic, art, and religion hand off to philosophy and back.
+4. Philosophy and its neighbors: where science, logic, art, and religion hand off to philosophy and back.
 5. The *payoff* problem: why answers are not the only product; clarity, vision, and the escape from parochialism.
 6. Case studies: the same question (e.g., "What is justice?", "What is a cause?") across four centuries.
 
@@ -86,8 +86,8 @@ Cross-cutting material, for the reader who wants to go deeper.
 3. The sense-datum theory, its virtues and its regress of appearing.
 4. Intentionalism / representationalism: experience as *representation*, not as a private object.
 5. Enactivism and predictive processing: perception as controlled hallucination.
-6. Adverbialism, disjunctivism, and naïve realism's rehabilitation.
-7. Secondary qualities: colour, sound, and the subjectivity of the sensory field.
+6. Adverbialism, disjunctivism, and naive realism's rehabilitation.
+7. Secondary qualities: color, sound, and the subjectivity of the sensory field.
 8. Methodological payoff: what *kind* of thing is a perceptual experience?
 
 ### Chapter 6 — The Existence of the External World: Skepticism Ancient and Modern
@@ -95,8 +95,8 @@ Cross-cutting material, for the reader who wants to go deeper.
 2. The brain-in-a-vat scenario; Putnam's semantic argument and its vulnerabilities.
 3. Closure principles, the *safety* and *sensitivity* conditions on knowledge.
 4. Responses: Moore's "here is a hand"; the ordinary-language dissolution; epistemic externalism; contextualism; hinge epistemology (Wittgenstein, Pritchard).
-5. Simulation, dreaming, and the new scepticisms of the digital age.
-6. Living with scepticism: what philosophical progress looks like here.
+5. Simulation, dreaming, and the new skepticisms of the digital age.
+6. Living with skepticism: what philosophical progress looks like here.
 
 ### Chapter 7 — The Analysis of Knowledge
 1. The classical triad: justified true belief.
@@ -155,11 +155,11 @@ Cross-cutting material, for the reader who wants to go deeper.
 ### Chapter 13 — The Criterion Problem, Relativism, and the Scope of Objectivity
 1. The problem of the criterion: how do we know our method of knowing?
 2. Particularism vs. methodism (Chisholm); the retreat to reflective equilibrium.
-3. Epistemic relativism: Protagoras, Rorty, and the strong programme in sociology of knowledge.
+3. Epistemic relativism: Protagoras, Rorty, and the strong program in sociology of knowledge.
 4. Self-refutation arguments and their limits.
 5. Objectivity: the view from nowhere, situated knowledge, and the fact/value entanglement.
-6. Error theory about knowledge? Radical scepticism as a *position* vs. a *practice*.
-7. Diagnosis: what a durable anti-sceptical stance looks like.
+6. Error theory about knowledge? Radical skepticism as a *position* vs. a *practice*.
+7. Diagnosis: what a durable anti-skeptical stance looks like.
 
 ### Optional threads for Part II
 
@@ -291,7 +291,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 ### Chapter 25 — Intentionality and Mental Content
 1. Brentano's mark of the mental: aboutness and its puzzles.
-2. The naturalization programme: information-theoretic, teleosemantic, and functional theories.
+2. The naturalization program: information-theoretic, teleosemantic, and functional theories.
 3. The problem of mental content: wide vs. narrow content; Twin Earth and slow switching.
 4. Non-conceptual content and the format of mental representation.
 5. The problem of intentionality for normative states: belief, desire, and rationality's role.
@@ -323,21 +323,21 @@ Cross-cutting material, for the reader who wants to go deeper.
 4. Instrumental rationality, procedural rationality, and the myth of the purely rational agent.
 5. Practical reason vs. theoretical reason: symmetry and asymmetry.
 6. Akrasia, self-deception, and weakness of will; the Socratic paradox.
-7. Irrationality as data: what psychiatry and behavioural economics teach philosophy.
+7. Irrationality as data: what psychiatry and behavioral economics teach philosophy.
 
 ### Chapter 29 — Other Minds: Animals, Infants, and Machines
-1. The problem of other minds: analogy, inference to best explanation, behaviourism, and the direct-perception view.
+1. The problem of other minds: analogy, inference to best explanation, behaviorism, and the direct-perception view.
 2. The Turing test and its critics; the Chinese Room and the systems reply.
 3. Machine consciousness and the hard problem applied to computation.
-4. Animal minds: sentience, cognitive ethology, the argument from analogy to scepticism.
+4. Animal minds: sentience, cognitive ethology, the argument from analogy to skepticism.
 5. Pain, suffering, and the attribution problem: the ethical urgency of epistemic humility.
 6. The ethics of creating minds: artificial persons, digital suffering, and future subjects.
 7. How much doubt is rational — and what follows practically.
 
 ### Chapter 30 — Emotion, Imagination, and the Embodied Mind
-1. Emotion as judgement (Stoic, Nussbaum), as feeling (James), as appraisal, as embodied enactment.
+1. Emotion as judgment (Stoic, Nussbaum), as feeling (James), as appraisal, as embodied enactment.
 2. The rationality of emotion; the fact/value structure of affective experience.
-3. Imagination: pretence, make-believe, simulation, and imaginative resistance.
+3. Imagination: pretense, make-believe, simulation, and imaginative resistance.
 4. Embodied and extended cognition: the 4E mind (embodied, embedded, enacted, extended).
 5. Skill, expertise, and knowledge-how vs. knowledge-that (Ryle's regress, the intellectualism debate).
 6. Attention, mindfulness, and the metaphysics of the experiencing subject.
@@ -363,7 +363,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 3. Theories of meaning: verificationist, truth-conditional, use-theoretic, inferentialist.
 4. Compositionality: how meanings combine; the productivity of language.
 5. Vagueness and the sorites: epistemicism, supervaluationism, degree theories, contextualism.
-6. Meaning and normativity: meaning rules, rule-following, and Kripke's Wittgenstein scepticism.
+6. Meaning and normativity: meaning rules, rule-following, and Kripke's Wittgenstein skepticism.
 7. Meaning and the world: natural language metaphysics and the metaphysics of natural language.
 
 ### Chapter 32 — Truth and Falsehood
@@ -380,7 +380,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 1. The Liar paradox and its family; semantic, set-theoretic, and pragmatic paradoxes.
 2. Solutions: hierarchy, dialetheism, contextualism, revision theories of truth.
 3. Vagueness as a case study in concept-boundaries: higher-order vagueness.
-4. Conceptual engineering: improving concepts rather than analysing them (Haslanger, Chalmers, Cappelen).
+4. Conceptual engineering: improving concepts rather than analyzing them (Haslanger, Chalmers, Cappelen).
 5. Ambiguity vs. vagueness vs. context-sensitivity: diagnostic tests.
 6. When a problem is a verbal dispute and how to detect it (Chalmers' method).
 7. The ethics of concepts: whose categories, whose interests.
@@ -455,7 +455,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 ### Chapter 40 — Confirmation, Theory Choice, and Scientific Realism
 1. The problem of induction in the laboratory: Hempel's ravens, the grue problem revisited.
-2. Popper, Kuhn, Lakatos, Feyerabend: falsification, paradigms, research programmes, and anarchism.
+2. Popper, Kuhn, Lakatos, Feyerabend: falsification, paradigms, research programs, and anarchism.
 3. Underdetermination of theory by evidence; theory-ladenness of observation.
 4. Bayesian confirmation and the new problem of old evidence.
 5. Scientific realism: the no-miracles argument vs. the pessimistic meta-induction.
@@ -482,7 +482,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 ### Chapter 43 — Mathematics: Objects, Knowledge, and Application
 1. Platonism about numbers; Benacerraf's access problem.
-2. Logicism, formalism, intuitionism: the three programmes and their fates.
+2. Logicism, formalism, intuitionism: the three programs and their fates.
 3. Structuralism in mathematics: in rebus and ante rem.
 4. Nominalism: fictionalism, modal nominalism, and the indispensability argument (Quine–Putnam).
 5. The epistemology of mathematics: intuition, proof, and the computer-assisted proof problem.
@@ -503,7 +503,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 ## PART VII — VALUE
 *The largest silent gap in Russell's book: ethics, politics, aesthetics, religion, and the good life.*
 
-### Chapter 44 — Metaethics: The Nature of Moral Judgement
+### Chapter 44 — Metaethics: The Nature of Moral Judgment
 1. The fact/value gap: Hume's guillotine, Moore's open question, the naturalistic fallacy.
 2. Moral realism: robust realism, Cornell realism, non-naturalism.
 3. Anti-realism: error theory (Mackie), expressivism (Ayer, Blackburn, Gibbard), quasi-realism.
@@ -522,7 +522,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 7. What moral theory is for: explanation, prediction, guidance, and self-understanding.
 
 ### Chapter 46 — Practical Reason and Moral Psychology
-1. Motivation and judgement: internalism vs. externalism; the amoralist.
+1. Motivation and judgment: internalism vs. externalism; the amoralist.
 2. Moral luck: resultant, circumstantial, constitutive, and causal.
 3. Reasons and rationality in action; the Humean theory of motivation and its challengers.
 4. Moral development, moral emotions, and the role of empathy — its powers and its biases.
@@ -549,8 +549,8 @@ Cross-cutting material, for the reader who wants to go deeper.
 6. Suicide, immortality, and the value of a finite life.
 7. Suffering, tragedy, and the philosophical consolation — ancient and modern.
 
-### Chapter 49 — Beauty, Art, and Aesthetic Judgement
-1. The aesthetic: what counts as an aesthetic property, experience, or judgement.
+### Chapter 49 — Beauty, Art, and Aesthetic Judgment
+1. The aesthetic: what counts as an aesthetic property, experience, or judgment.
 2. Beauty: subjectivism, idealism, formalism, and the return of aesthetic realism.
 3. Theories of art: imitation, expression, institutional, family resemblance, cluster theories.
 4. Fiction and the paradox of emotional response; imagination and make-believe.
@@ -562,7 +562,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 1. The concept of God: classical theism, pantheism, deism, process theism, and religious naturalism.
 2. Arguments for theism: cosmological, teleological (fine-tuning), ontological, moral, from religious experience, from consciousness.
 3. Arguments against theism: the problem of evil (logical and evidential), divine hiddenness, incoherence of omnipotence, the problem of religious diversity.
-4. The evidential problem and the free-will defence; skeptical theism and its costs.
+4. The evidential problem and the free-will defense; skeptical theism and its costs.
 5. Faith, fideism, and the pragmatist tradition (James, Wittgenstein); Reformed epistemology and properly basic belief.
 6. Religious language: verificationism, non-cognitivism, and the mystical-ineffability tradition.
 7. Miracles, testimony, and the epistemology of the extraordinary.

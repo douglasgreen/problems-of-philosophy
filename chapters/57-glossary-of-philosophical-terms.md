@@ -8,15 +8,15 @@
 
 ### A
 
-**abduction** (*Ch. 10*) — Inference to the best explanation: inferring the hypothesis that would, if true, best explain the data. Ampliative, not deductive; distinct from enumerative induction, though often lumped with it. → inference to the best explanation. ***Misuse:*** treating abduction as a licence to assert whatever story one finds satisfying, without comparing rivals.
+**abduction** (*Ch. 10*) — Inference to the best explanation: inferring the hypothesis that would, if true, best explain the data. Ampliative, not deductive; distinct from enumerative induction, though often lumped with it. → inference to the best explanation. ***Misuse:*** treating abduction as a license to assert whatever story one finds satisfying, without comparing rivals.
 
-**Abhidharma** (*Ch. 15*) — The Buddhist scholastic project of analysing experience into its constituent *dharmas* (momentary factors), rejecting substance in favour of a process-ontology. The most sustained ancient exercise in revisionary mereology.
+**Abhidharma** (*Ch. 15*) — The Buddhist scholastic project of analyzing experience into its constituent *dharmas* (momentary factors), rejecting substance in favor of a process-ontology. The most sustained ancient exercise in revisionary mereology.
 
 **absolutism, moral** (*Ch. 44*) — The view that some moral prohibitions hold without exception. ***Misuse:*** equated with "having strong moral views," which is not a metaethical position at all.
 
 **abstract object** (*Ch. 15*) — An entity with no spatiotemporal location and no causal powers: numbers, sets, propositions, universals (on some views). Contrast → concrete. ***Misuse:*** "abstract" as a synonym for "vague" or "theoretical."
 
-**access consciousness** (*Ch. 24*) — Block's term for a state's being poised for use in reasoning, report, and the control of behaviour. Contrast → phenomenal consciousness. The distinction is what makes the "hard problem" hard to state: access is functionally explicable, phenomenal character arguably is not.
+**access consciousness** (*Ch. 24*) — Block's term for a state's being poised for use in reasoning, report, and the control of behavior. Contrast → phenomenal consciousness. The distinction is what makes the "hard problem" hard to state: access is functionally explicable, phenomenal character arguably is not.
 
 **accident, ontological** (*Ch. 15*) — A property a thing has but could lack, as opposed to its → essence.
 
@@ -32,15 +32,15 @@
 
 **adverbialism** (*Ch. 5*) — The view that undergoing an experience is a *way of sensing* ("sensing redly"), not a relation to a mental object. A response to → sense-datum theory that avoids positing private objects.
 
-**aesthetic judgement** (*Ch. 49*) — Judgement of beauty or artistic merit. Kant held it to be subjective yet universal, disinterested yet normative; the combination remains the central puzzle.
+**aesthetic judgment** (*Ch. 49*) — Judgment of beauty or artistic merit. Kant held it to be subjective yet universal, disinterested yet normative; the combination remains the central puzzle.
 
 **a fortiori** (*Ch. 2*) — "With stronger reason": if a claim holds in a weak case, it holds in a stronger one.
 
 **agent causation** (*Ch. 27*) — The libertarian view that persons (substances), not events, are the causes of free actions. Contrast event-causal libertarianism. → incompatibilism.
 
-**agnosticism** (*Ch. 50*) — Suspension of judgement on the existence of God. Huxley's coinage. ***Misuse:*** "agnostic" as a synonym for "atheist but polite"; the positions differ.
+**agnosticism** (*Ch. 50*) — Suspension of judgment on the existence of God. Huxley's coinage. ***Misuse:*** "agnostic" as a synonym for "atheist but polite"; the positions differ.
 
-**akrasia** (*Ch. 28*) — Weakness of will: acting against one's own better judgement, knowingly. ***Misuse:*** extending the term to any failure of self-control, including cases of compulsion where no judgement is contravened.
+**akrasia** (*Ch. 28*) — Weakness of will: acting against one's own better judgment, knowingly. ***Misuse:*** extending the term to any failure of self-control, including cases of compulsion where no judgment is contravened.
 
 **ampliative inference** (*Ch. 2*) — Inference whose conclusion goes beyond what the premises entail: induction, abduction, statistical inference. Contrast → deductive validity.
 
@@ -50,7 +50,7 @@
 
 **anomalous monism** (*Ch. 28*) — Davidson's view: mental events are identical with physical events, but mental descriptions are not governed by strict laws, so there is no psychophysical law. Attempts to keep → mental causation without → reduction.
 
-**anthropic principle** (*Ch. 50*) — The observation that observed features of the universe are constrained by the existence of observers. Used in fine-tuning arguments; its evidential force is disputed and depends heavily on how selection effects are modelled. ***Misuse:*** treating the principle as an explanation rather than as a constraint on what data are available.
+**anthropic principle** (*Ch. 50*) — The observation that observed features of the universe are constrained by the existence of observers. Used in fine-tuning arguments; its evidential force is disputed and depends heavily on how selection effects are modeled. ***Misuse:*** treating the principle as an explanation rather than as a constraint on what data are available.
 
 **anti-realism** (*Ch. 22*) — In Dummett's sense: the view that truth is epistemically constrained, so that bivalence may fail for some domains. Contrast → realism. ***Misuse:*** the word covers at least three distinct positions (semantic, metaphysical, epistemic), and arguments for one rarely transfer.
 
@@ -86,7 +86,7 @@
 
 **begging the question** (*Ch. 4*) — Assuming the conclusion, or a premise that could only be justified by the conclusion. ***Misuse:*** "begs the question" for "raises the question" (a lost cause in popular usage, but not in philosophy); also, any argument with a premise someone disputes is *not* thereby question-begging.
 
-**behaviourism, logical** (*Ch. 23*) — The view that statements about mental states are analysable into statements about behavioural dispositions. Its failure to handle occurrent thoughts and unmanifested beliefs is a standard lesson.
+**behaviorism, logical** (*Ch. 23*) — The view that statements about mental states are analyzable into statements about behavioral dispositions. Its failure to handle occurrent thoughts and unmanifested beliefs is a standard lesson.
 
 **belief** (*Ch. 25*) — A propositional attitude that represents its content as true and guides inference and action. Contrast → desire, whose → direction of fit is the reverse.
 
@@ -120,7 +120,7 @@
 
 **causal exclusion** (*Ch. 21*) — Kim's argument: if every physical event has a sufficient physical cause, non-physical mental properties are excluded from causal work. The central threat to non-reductive → physicalism.
 
-**ceteris paribus** (*Ch. 39*) — "Other things equal." Used to state laws with implicit exceptions. ***Misuse:*** a blank cheque for vaguely hedged generalizations; a ceteris paribus law must specify what the interference conditions are, or it explains nothing.
+**ceteris paribus** (*Ch. 39*) — "Other things equal." Used to state laws with implicit exceptions. ***Misuse:*** a blank check for vaguely hedged generalizations; a ceteris paribus law must specify what the interference conditions are, or it explains nothing.
 
 **charity, principle of** (*Ch. 2*) — Interpret a speaker's words so as to maximize the truth or rationality of what is said. ***Misuse:*** using charity to rescue an argument the author plainly did not give; charity concerns *interpretation*, not repair.
 
@@ -246,19 +246,19 @@
 
 **epistemic virtue** (*Ch. 8*) — A character trait or competence that makes a person good inquirer: open-mindedness, intellectual courage, rigor, humility.
 
-**epistemology naturalized** (*Ch. 52*) — Quine's programme: the theory of knowledge is a chapter of empirical psychology, not a first-philosophy foundation. The objection is that it changes the subject; the reply is that the old subject was incoherent.
+**epistemology naturalized** (*Ch. 52*) — Quine's program: the theory of knowledge is a chapter of empirical psychology, not a first-philosophy foundation. The objection is that it changes the subject; the reply is that the old subject was incoherent.
 
-**epoché** (*Ch. 6*) — Suspension of judgement (Sceptics) or the bracketing of the natural attitude (Husserl). Two very different notions sharing a name.
+**epoché** (*Ch. 6*) — Suspension of judgment (Skeptics) or the bracketing of the natural attitude (Husserl). Two very different notions sharing a name.
 
 **equal weight view** (*Ch. 11*) — Conciliationism: with a known epistemic peer and no independent reason for asymmetry, one should give the peer's opinion equal weight and split the difference.
 
-**equilibrium, reflective** (*Ch. 3, 45*) — Mutual adjustment of principles and particular judgements until coherence is attained. Wide vs. narrow depending on how much background theory is included.
+**equilibrium, reflective** (*Ch. 3, 45*) — Mutual adjustment of principles and particular judgments until coherence is attained. Wide vs. narrow depending on how much background theory is included.
 
 **error theory** (*Ch. 44*) — Mackie: moral discourse is truth-apt but systematically false, since it presupposes objective prescriptive facts that do not exist. Contrast → non-cognitivism.
 
 **essence** (*Ch. 16*) — What a thing is, in the order of explanation: the properties without which it could not be that thing. The post-Kripke revival treats essence as prior to and explanatory of necessity, not as defined by it.
 
-**ethics, normative vs. meta** (*Ch. 44*) — Normative ethics asks what to do and why; metaethics asks what moral judgement is and whether it can be true. ***Misuse:*** conflating the two, as when a metaethical anti-realist is thought thereby to recommend immorality.
+**ethics, normative vs. meta** (*Ch. 44*) — Normative ethics asks what to do and why; metaethics asks what moral judgment is and whether it can be true. ***Misuse:*** conflating the two, as when a metaethical anti-realist is thought thereby to recommend immorality.
 
 **eudaimonia** (*Ch. 48*) — Aristotelian flourishing: the excellent activity of a life, not a pleasant feeling. ***Misuse:*** translating as "happiness" in the contemporary sense, which reverses the direction of the argument.
 
@@ -294,7 +294,7 @@
 
 **fact/value distinction** (*Ch. 44*) — Descriptive claims vs. evaluative claims, and whether the latter can be derived from the former (Hume's guillotine). ***Misuse:*** taking the distinction to prove moral non-realism; it establishes a logical gap at most, not a metaphysical verdict.
 
-**fallibilism** (*Ch. 7*) — Knowledge does not require certainty or immunity from error. ***Misuse:*** conflated with → scepticism, which questions whether we know at all.
+**fallibilism** (*Ch. 7*) — Knowledge does not require certainty or immunity from error. ***Misuse:*** conflated with → skepticism, which questions whether we know at all.
 
 **fallacy** (*Ch. 4*) — A form of inference that tends to produce false conclusions from true premises. ***Misuse:*** "fallacy" as a label for any argument one dislikes; the same form may be legitimate in some contexts (e.g., appeals to authority in testimony-heavy domains).
 
@@ -354,7 +354,7 @@
 
 **harm principle** (*Ch. 47*) — Mill: coercion is justified only to prevent harm to others. The hard questions are what counts as harm and whether offensive conduct qualifies.
 
-**hedonism** (*Ch. 48*) — Well-being consists in net pleasure over pain. ***Misuse:*** the lay sense of "hedonism" as dissolute behaviour; the philosophical thesis is about the structure of welfare, not a lifestyle.
+**hedonism** (*Ch. 48*) — Well-being consists in net pleasure over pain. ***Misuse:*** the lay sense of "hedonism" as dissolute behavior; the philosophical thesis is about the structure of welfare, not a lifestyle.
 
 **Hempel's ravens** (*Ch. 40*) — A green shirt confirms "all ravens are black" by confirming its contrapositive, much of which is remote from the hypothesis. Reveals that confirmation is not simply an instance relation.
 
@@ -388,9 +388,9 @@
 
 **illusionism** (*Ch. 24*) — Frankish: phenomenal consciousness as naively conceived is an illusion; introspection misrepresents. The meta-problem — why it seems to us that there is a hard problem — becomes the explanatory target.
 
-**illusion, argument from** (*Ch. 5*) — Since things appear otherwise than they are (bent sticks, after-images), perception involves something other than the object: a sense-datum. The premise of the classical phenomenalist programme.
+**illusion, argument from** (*Ch. 5*) — Since things appear otherwise than they are (bent sticks, after-images), perception involves something other than the object: a sense-datum. The premise of the classical phenomenalist program.
 
-**imagination** (*Ch. 30, 49*) — The capacity to represent without asserting. Central to pretence, fiction, modal epistemology, simulation-based mindreading, and the paradoxes of emotional response to fiction.
+**imagination** (*Ch. 30, 49*) — The capacity to represent without asserting. Central to pretense, fiction, modal epistemology, simulation-based mindreading, and the paradoxes of emotional response to fiction.
 
 **implicature** (*Ch. 34*) — What a speaker conveys without literally saying, via the cooperative principle. Conversational vs. conventional. ***Misuse:*** conflated with entailment; implicatures are cancellable, entailments are not.
 
@@ -412,7 +412,7 @@
 
 **information, semantic** (*Ch. 25, 41*) — The notion used in naturalizing content: a state carries information in the Shannon sense when it correlates reliably with a condition. Insufficient for intentional content without teleology or function.
 
-**inscrutability of reference** (*Ch. 31*) — Quine: rival manuals of translation can assign incompatible referents to a term while preserving all dispositions to behaviour; reference is therefore indeterminate.
+**inscrutability of reference** (*Ch. 31*) — Quine: rival manuals of translation can assign incompatible referents to a term while preserving all dispositions to behavior; reference is therefore indeterminate.
 
 **instrumentalism** (*Ch. 40*) — Theories are instruments for prediction, not descriptions of unobservable reality. ***Misuse:*** confused with "using instruments" and with pragmatism generally; instrumentalism is a specific semantic/ontological thesis.
 
@@ -424,11 +424,11 @@
 
 **internalism** (*Ch. 8, 28*) — In justification: warrant depends only on what is accessible to the subject. In reasons: a normative reason for action must be capable of motivating the agent. ***Misuse:*** as with externalism, the justificatory and motivational theses are independent.
 
-**interventionism** (*Ch. 18*) — Woodward: $X$ causes $Y$ if an intervention on $X$ changes $Y$ while holding other relevant variables fixed. Makes causation manipulable and testable, and connects to causal modelling.
+**interventionism** (*Ch. 18*) — Woodward: $X$ causes $Y$ if an intervention on $X$ changes $Y$ while holding other relevant variables fixed. Makes causation manipulable and testable, and connects to causal modeling.
 
 **intrinsic / extrinsic** (*Ch. 22*) — Intrinsic properties a thing has in itself; extrinsic ones depend on relations to other things. Value theory uses the distinction heavily (intrinsic vs. instrumental value). ***Misuse:*** "intrinsic" as an intensifier ("intrinsically wrong" = very wrong).
 
-**introspection** (*Ch. 25*) — The first-person access we have to our own mental states. ***Misuse:*** assuming introspection is a kind of inner perception of a private theatre; the nature of the access is exactly what is disputed.
+**introspection** (*Ch. 25*) — The first-person access we have to our own mental states. ***Misuse:*** assuming introspection is a kind of inner perception of a private theater; the nature of the access is exactly what is disputed.
 
 **intuition** (*Ch. 9*) — A seeming: an apparent self-evidence attaching to a proposition or case, treated as defeasible evidence in philosophy. ***Misuse:*** "intuition" for a guess, a prejudice, or a gut feeling about practical matters; none of these is the methodological notion.
 
@@ -452,7 +452,7 @@
 
 **kinds, natural** (*Ch. 39*) — Groupings that carve nature at its joints and support induction. ***Misuse:*** assuming every category we use (race, gender, mental disorder, species) is a natural kind; some are social kinds, and the question is empirical and contested.
 
-**knowledge argument** (*Ch. 24*) — Jackson's Mary: a scientist who knows all the physical facts about colour vision learns something new on seeing red. ※ The argument is contested at every premise, and Jackson himself later abandoned it.
+**knowledge argument** (*Ch. 24*) — Jackson's Mary: a scientist who knows all the physical facts about color vision learns something new on seeing red. ※ The argument is contested at every premise, and Jackson himself later abandoned it.
 
 **knowledge-first** (*Ch. 7*) — Williamson: knowledge is the most general factive mental state, not definable from belief plus conditions; it is the norm of assertion and of practical reasoning.
 
@@ -480,11 +480,11 @@
 
 **logical form** (*Ch. 31, 35*) — The structure in virtue of which an argument is valid, as opposed to its surface grammar. The theory of descriptions is the paradigm case of revealing hidden logical form.
 
-**logical positivism** (*Ch. 52*) — The Vienna Circle's programme: meaningful statements are either analytic or empirically verifiable; metaphysics is nonsense. Self-undermining on most readings, but its dissolution of pseudo-problems survives in more modest forms.
+**logical positivism** (*Ch. 52*) — The Vienna Circle's program: meaningful statements are either analytic or empirically verifiable; metaphysics is nonsense. Self-undermining on most readings, but its dissolution of pseudo-problems survives in more modest forms.
 
 **lottery paradox** (*Ch. 10*) — Each ticket is probably not the winner; yet one knows some ticket will win. Pressures the "knowledge requires high probability" thesis.
 
-**luminosity** (*Ch. 7*) — Williamson: a mental state is luminous if one is always in a position to know one has it. He argues no non-trivial state is luminous, which undermines many internalist programmes.
+**luminosity** (*Ch. 7*) — Williamson: a mental state is luminous if one is always in a position to know one has it. He argues no non-trivial state is luminous, which undermines many internalist programs.
 
 **luck egalitarianism** (*Ch. 47*) — Inequalities are just only when traceable to the agent's choices, not to brute luck.
 
@@ -510,11 +510,11 @@
 
 **mereology** (*Ch. 14*) — The theory of parts and wholes: composition, overlap, atomism, gunk (everything divisible), junk (no maximal whole).
 
-**meta-ethics** (*Ch. 44*) — The metaphysics, epistemology, and semantics of moral judgement.
+**meta-ethics** (*Ch. 44*) — The metaphysics, epistemology, and semantics of moral judgment.
 
 **meta-philosophy** (*Ch. 1, 52*) — Reflection on the nature, methods, and limits of philosophy itself.
 
-**methodism / particularism (Chisholm)** (*Ch. 13*) — Methodism: start from a criterion of knowledge and derive particular judgements. Particularism: start from particular cases of knowing and derive the criterion. Neither escapes the → criterion problem without cost.
+**methodism / particularism (Chisholm)** (*Ch. 13*) — Methodism: start from a criterion of knowledge and derive particular judgments. Particularism: start from particular cases of knowing and derive the criterion. Neither escapes the → criterion problem without cost.
 
 **mind-body problem** (*Ch. 23*) — How mental phenomena relate to physical ones.
 
@@ -560,7 +560,7 @@
 
 **nominalism** (*Ch. 15*) — There are no universals; only particulars (and perhaps classes or resemblance relations). ***Misuse:*** "nominal" in ordinary usage (in name only, token) has no connection to the doctrine.
 
-**non-cognitivism** (*Ch. 44*) — Moral judgements are not truth-apt beliefs but expressions of attitude or commitment. Contrast → error theory, which agrees about the metaphysics but not the semantics.
+**non-cognitivism** (*Ch. 44*) — Moral judgments are not truth-apt beliefs but expressions of attitude or commitment. Contrast → error theory, which agrees about the metaphysics but not the semantics.
 
 **non-identity problem** (*Ch. 51*) — Parfit: if a policy determines which people exist, we cannot say it harms those who exist because of it, since they would not otherwise exist. Threatens person-affecting accounts of intergenerational obligation.
 
@@ -646,17 +646,17 @@
 
 **pragmatics** (*Ch. 34*) — Meaning in use: implicature, presupposition, speech acts. Contrast semantics.
 
-**pragmatism** (*Ch. 32*) — Peirce, James, Dewey: the meaning and truth of a conception lie in its practical bearings and in the conduct of inquiry. ***Misuse:*** "pragmatic" as a synonym for "practical" or "expedient"; pragmatism is a theory of meaning and truth, and Peirce's maxim is a criterion of clarity, not a licence for expediency.
+**pragmatism** (*Ch. 32*) — Peirce, James, Dewey: the meaning and truth of a conception lie in its practical bearings and in the conduct of inquiry. ***Misuse:*** "pragmatic" as a synonym for "practical" or "expedient"; pragmatism is a theory of meaning and truth, and Peirce's maxim is a criterion of clarity, not a license for expediency.
 
 **presupposition** (*Ch. 34*) — Content taken for granted by an utterance, which survives negation ("the king of France is bald" presupposes there is a king). Presupposition failure threatens bivalence.
 
 **prima facie** (*Ch. 45*) — At first sight, subject to defeat. Ross's prima facie duties are genuine duties that can be overridden. ***Misuse:*** "prima facie" for "superficial" or "apparent but false"; the term marks a defeasible standing, not an illusion.
 
-**primary / secondary qualities** (*Ch. 5*) — Locke: primary qualities (extension, figure, motion) resemble their causes; secondary qualities (colour, taste) are powers to produce ideas in us. The distinction is not stable under modern physics.
+**primary / secondary qualities** (*Ch. 5*) — Locke: primary qualities (extension, figure, motion) resemble their causes; secondary qualities (color, taste) are powers to produce ideas in us. The distinction is not stable under modern physics.
 
 **prioritarianism** (*Ch. 45*) — Improvements to worse-off people have greater moral weight, independently of total welfare.
 
-**private language argument** (*Ch. 31*) — Wittgenstein: a language referring to essentially private sensations is impossible, since there could be no difference between following a rule and merely seeming to. The interpretation is contested; Kripke's reading is sceptical.
+**private language argument** (*Ch. 31*) — Wittgenstein: a language referring to essentially private sensations is impossible, since there could be no difference between following a rule and merely seeming to. The interpretation is contested; Kripke's reading is skeptical.
 
 **privileged access** (*Ch. 25*) — First-person authority about one's own mental states. Its scope and explanation (constitutive, evidential, expressive) are disputed.
 
@@ -672,7 +672,7 @@
 
 **prosententialism** (*Ch. 32*) — "It is true that $p$" is a device of anaphoric reference to a sentence's content, not an ascription of a property. A species of → deflationism.
 
-**pseudo-problem** (*Ch. 52*) — A question that appears substantive but rests on a confusion of grammar or category. ***Misuse:*** labelling a difficult question a pseudo-problem to avoid answering it; the diagnosis must be earned by showing the confusion.
+**pseudo-problem** (*Ch. 52*) — A question that appears substantive but rests on a confusion of grammar or category. ***Misuse:*** labeling a difficult question a pseudo-problem to avoid answering it; the diagnosis must be earned by showing the confusion.
 
 **pseudoscience** (*Ch. 40*) — A body of claims presented as science without meeting its evidential standards. The demarcation problem shows that no single criterion suffices; a cluster (testability, engagement with evidence, error-correction, institutional norms) is more defensible.
 
@@ -688,7 +688,7 @@
 
 **qualia** (*Ch. 24*) — The intrinsic, subjective characters of experience. ***Misuse:*** used as a catch-all for "the mysterious part"; careful use distinguishes phenomenal character from relational and functional properties.
 
-**quasi-realism** (*Ch. 44*) — Blackburn: an expressivist programme that earns the right to realist-seeming discourse (truth, fact, knowledge) by explaining it from expressive foundations.
+**quasi-realism** (*Ch. 44*) — Blackburn: an expressivist program that earns the right to realist-seeming discourse (truth, fact, knowledge) by explaining it from expressive foundations.
 
 **quietism** (*Ch. 52*) — Philosophy's task is to end philosophical confusion, not to answer its questions (Wittgenstein, McDowell). The objection: quietism must give an account of why the confusions arise, which is itself a substantive theory.
 
@@ -712,7 +712,7 @@
 
 **realism, scientific** (*Ch. 40*) — Our best theories are approximately true and their unobservable posits exist. Contrast → instrumentalism and constructive empiricism.
 
-**reason** (*Ch. 28*) — **Two uses to keep apart:** a *cause* of action (the psychological state that produces it) and a *normative reason* (the consideration that counts in favour of it). ***Misuse:*** sliding between explanatory and justifying senses within a single argument; Davidson's "reasons are causes" is precisely about how the two connect.
+**reason** (*Ch. 28*) — **Two uses to keep apart:** a *cause* of action (the psychological state that produces it) and a *normative reason* (the consideration that counts in favor of it). ***Misuse:*** sliding between explanatory and justifying senses within a single argument; Davidson's "reasons are causes" is precisely about how the two connect.
 
 **reasons internalism / externalism** (*Ch. 28*) — Internalism: a normative reason for $A$ to $\phi$ must be able to motivate $A$ (Williams: reasons are internal to the agent's "subjective motivational set"). Externalism: reasons can exist independently of any motivating connection.
 
@@ -750,7 +750,7 @@
 
 **safety** (*Ch. 7*) — A belief is safe if it could not easily have been false (in nearby worlds where the subject forms the belief the same way). A leading anti-luck condition.
 
-**scepticism** (*Ch. 6*) — The view that knowledge is impossible or that we cannot know the external world. ***Misuse:*** conflated with cynicism, or with cautious doubt in ordinary life; philosophical scepticism is a thesis about the possibility of knowledge.
+**skepticism** (*Ch. 6*) — The view that knowledge is impossible or that we cannot know the external world. ***Misuse:*** conflated with cynicism, or with cautious doubt in ordinary life; philosophical skepticism is a thesis about the possibility of knowledge.
 
 **self-defeating** (*Ch. 13*) — An argument or position that undermines its own possibility. Two forms: logical (it entails its own negation) and pragmatic (asserting it requires what it denies). ***Misuse:*** declaring relativism self-refuting without constructing the argument; the charge is often made and rarely completed.
 
@@ -768,11 +768,11 @@
 
 **simulation** (*Ch. 29, 6*) — **Two unrelated uses.** *Simulation theory* in mindreading: understanding others by running one's own cognitive processes offline. *Simulation hypothesis*: we may be in a computer simulation. ***Misuse:*** the shared word invites fallacious transfer of arguments; they are logically independent.
 
-**situationism** (*Ch. 46*) — Doris, Harman: behavioural evidence suggests character traits are weak predictors relative to situations. Used to attack virtue ethics. ***Misuse:*** citing Milgram and Zimbardo as settled; their replications and ecological validity are seriously contested.
+**situationism** (*Ch. 46*) — Doris, Harman: behavioral evidence suggests character traits are weak predictors relative to situations. Used to attack virtue ethics. ***Misuse:*** citing Milgram and Zimbardo as settled; their replications and ecological validity are seriously contested.
 
-**skeptical theism** (*Ch. 50*) — The goods relevant to God's permission of evil may be beyond our cognitive reach, so the evidential argument from evil fails as an inference from what we see. Critics reply that this scepticism, if genuine, would undercut all moral knowledge.
+**skeptical theism** (*Ch. 50*) — The goods relevant to God's permission of evil may be beyond our cognitive reach, so the evidential argument from evil fails as an inference from what we see. Critics reply that this skepticism, if genuine, would undercut all moral knowledge.
 
-**social epistemology** (*Ch. 11*) — The study of knowledge as a social achievement: testimony, institutions, division of epistemic labour, and the epistemics of expertise.
+**social epistemology** (*Ch. 11*) — The study of knowledge as a social achievement: testimony, institutions, division of epistemic labor, and the epistemics of expertise.
 
 **solipsism** (*Ch. 6*) — Only I (or only my experiences) exist. Less a live position than the limit case that any account of other minds must show to be unmotivated.
 
@@ -814,9 +814,9 @@
 
 **testimony** (*Ch. 11*) — Knowledge acquired from others' say-so. Reductionism (Hume) requires independent grounds for trusting each source; anti-reductionism (Reid) grants a default entitlement.
 
-**thought experiment** (*Ch. 3*) — An imagined case used to test a principle or elicit a judgement. ***Misuse:*** treating a vivid scenario as evidence without isolating the variable it is supposed to isolate; and ignoring that intuitions about far-fetched cases may be artefacts of the far-fetchedness.
+**thought experiment** (*Ch. 3*) — An imagined case used to test a principle or elicit a judgment. ***Misuse:*** treating a vivid scenario as evidence without isolating the variable it is supposed to isolate; and ignoring that intuitions about far-fetched cases may be artifacts of the far-fetchedness.
 
-**token / type** (*Ch. 23*) — A type is a kind; a token is an instance. Type identity: all pain is C-fibre firing. Token identity: each particular pain is some physical event. ***Misuse:*** unrelated to "token" in the sense of tokenism; the type/token distinction is a logical relation between kinds and instances.
+**token / type** (*Ch. 23*) — A type is a kind; a token is an instance. Type identity: all pain is C-fiber firing. Token identity: each particular pain is some physical event. ***Misuse:*** unrelated to "token" in the sense of tokenism; the type/token distinction is a logical relation between kinds and instances.
 
 **transcendental argument** (*Ch. 52*) — An argument that some feature of experience is necessary for the possibility of something we take for granted (Kant). ***Misuse:*** "transcendental" confused with "transcendent" (beyond experience) and with meditation practices; the philosophical term names a mode of argument, not a spiritual one.
 
@@ -832,7 +832,7 @@
 
 **truthmaker** (*Ch. 22*) — That in virtue of which a truth is true. The truthmaker principle: $p$ is true because something makes it so.
 
-**Turing test** (*Ch. 29*) — A behavioural criterion of intelligence: indistinguishability from a human interlocutor. ***Misuse:*** treating it as a test of consciousness or as a definition of intelligence; Turing offered it as a replacement for the question, not an analysis of the mind.
+**Turing test** (*Ch. 29*) — A behavioral criterion of intelligence: indistinguishability from a human interlocutor. ***Misuse:*** treating it as a test of consciousness or as a definition of intelligence; Turing offered it as a replacement for the question, not an analysis of the mind.
 
 **Twin Earth** (*Ch. 25*) — Putnam's scenario: a molecule-for-molecule duplicate world where "water" refers to XYZ. Shows that meanings are not in the head.
 
@@ -884,7 +884,7 @@
 
 **will to believe** (*Ch. 50*) — James: where evidence is inconclusive and the choice is forced, live, and momentous, it can be rational to believe. Carefully limited by James; often over-extended in citation.
 
-**wisdom** (*Ch. 54*) — *Sophia*: theoretical grasp of the deepest truths. *Phronesis*: practical judgement in particular situations. Philosophy's claim to promote wisdom rests more on the second than on the first.
+**wisdom** (*Ch. 54*) — *Sophia*: theoretical grasp of the deepest truths. *Phronesis*: practical judgment in particular situations. Philosophy's claim to promote wisdom rests more on the second than on the first.
 
 **wu wei** (*Ch. 22, thread*) — Daoist non-action: acting without forcing, in accord with the grain of things. Not passivity; a distinctive account of effective agency.
 

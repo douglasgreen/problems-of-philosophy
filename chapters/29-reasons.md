@@ -15,7 +15,7 @@ Chapter 27 ended with the *agent* and the *question* of *freedom*. This chapter 
 
 When we *explain* an action, we *cite* a reason: *she* *left* *because* *she* *believed* the *train* *was* *leaving* and *wanted* to *catch* it. When we *justify* an action, we *cite* a reason: *she* *was* *right* to *leave*, because the *train* *was* *leaving* and she *had* to *catch* it. The two *citations* are *different* in *kind* — the first is *explanatory*, the second is *normative* — and the *relationship* between them is one of the *deepest* *problems* in the *philosophy* of *action*.
 
-The chapter's *thesis* is that the *explanatory* and the *normative* are *distinct* but *connected*: the *explanation* of an action *requires* the *citation* of a reason *in the explanatory sense* (a *belief*-*desire* *pair*), and the *justification* *requires* the *citation* of a reason *in the normative sense* (a *fact* that *counts* in *favour* of the action). The *connection* between the *two* is *contingent* and *defeasible*: the *explanatory* reason may *fail* to be a *normative* reason (the *agent* may be *mistaken*), and the *normative* reason may *fail* to *explain* (the *agent* may *not* *act* on it). The *failure* of the *connection* is the *space* in which *akrasia*, *self-deception*, and *irrationality* *occur*.
+The chapter's *thesis* is that the *explanatory* and the *normative* are *distinct* but *connected*: the *explanation* of an action *requires* the *citation* of a reason *in the explanatory sense* (a *belief*-*desire* *pair*), and the *justification* *requires* the *citation* of a reason *in the normative sense* (a *fact* that *counts* in *favor* of the action). The *connection* between the *two* is *contingent* and *defeasible*: the *explanatory* reason may *fail* to be a *normative* reason (the *agent* may be *mistaken*), and the *normative* reason may *fail* to *explain* (the *agent* may *not* *act* on it). The *failure* of the *connection* is the *space* in which *akrasia*, *self-deception*, and *irrationality* *occur*.
 
 The chapter proceeds in eight movements. §1 examines *Davidson*'s *thesis* that reasons are causes. §2 examines the *internalism*/*externalism* debate about reasons. §3 examines the *belief*-*desire* *model* and the *direction* of *fit*. §4 examines *instrumental* and *procedural* *rationality*. §5 examines the *symmetry* and *asymmetry* of *practical* and *theoretical* reason. §6 examines *akrasia* and *self-deception*. §7 examines *irrationality* as *data*. §8 gives an *honest* *verdict*.
 
@@ -25,7 +25,7 @@ The chapter proceeds in eight movements. §1 examines *Davidson*'s *thesis* that
 
 ### 1.1 The problem of action explanation
 
-**The *datum*.** We *explain* actions by *citing* reasons. The *explanation* has a *distinctive* *form*: it is *not* a *prediction* from *laws* (as in *physics*), and it is *not* a *mere* *redescription* of the *behaviour*. It is an *interpretation* that *makes* the *action* *intelligible*.
+**The *datum*.** We *explain* actions by *citing* reasons. The *explanation* has a *distinctive* *form*: it is *not* a *prediction* from *laws* (as in *physics*), and it is *not* a *mere* *redescription* of the *behavior*. It is an *interpretation* that *makes* the *action* *intelligible*.
 
 **The *question*.** Is the *explanation* *causal*?
 
@@ -65,7 +65,7 @@ $$
 **The *formal* *statement*.
 
 $$
-\mathrm{PrimaryReason}(R, A) \quad \text{iff} \quad R = \langle B, D \rangle \wedge B \text{ represents } A \text{ as } F \wedge D \text{ favours } F\text{-ing}
+\mathrm{PrimaryReason}(R, A) \quad \text{iff} \quad R = \langle B, D \rangle \wedge B \text{ represents } A \text{ as } F \wedge D \text{ favors } F\text{-ing}
 $$
 
 **The *virtue*.** The *argument* *grounds* the *mental* in the *causal* *order*, and it *fits* the *naturalistic* *framework* (Ch. 19; Ch. 23).
@@ -235,7 +235,7 @@ $$
 **The *definition*.
 
 $$
-\text{Agent } A \text{ has a *reason* to } \phi \quad \text{iff} \quad \exists s \in S_A\, (s \text{ *favours* } \phi\text{-ing, after *sound* *deliberation*})
+\text{Agent } A \text{ has a *reason* to } \phi \quad \text{iff} \quad \exists s \in S_A\, (s \text{ *favors* } \phi\text{-ing, after *sound* *deliberation*})
 $$
 
 **The *argument*.
@@ -262,7 +262,7 @@ $$
 
 ### 2.4 Externalism and the *objectivity* *of* *reasons*
 
-**The *thesis*** (Scanlon, *What We Owe to Each Other*, 1998; Parfit, *On What Matters*, 2011; the *contemporary* *literature*). *Reasons* are *primitive*: a *reason* is a *fact* that *counts* in *favour* of an *action*, and the *fact* *does* not *depend* on the *agent*'s *motivations*.
+**The *thesis*** (Scanlon, *What We Owe to Each Other*, 1998; Parfit, *On What Matters*, 2011; the *contemporary* *literature*). *Reasons* are *primitive*: a *reason* is a *fact* that *counts* in *favor* of an *action*, and the *fact* *does* not *depend* on the *agent*'s *motivations*.
 
 **The *argument*.
 
@@ -336,7 +336,7 @@ $$
 \text{Action} = f(\text{Belief}, \text{Desire})
 $$
 
-**The *virtue*.** The *model* *fits* the *explanation* of *action*, and it *generates* the *research* *programme* of *decision* *theory* and *cognitive* *science* (Ch. 10, §4; Ch. 23, §4).
+**The *virtue*.** The *model* *fits* the *explanation* of *action*, and it *generates* the *research* *program* of *decision* *theory* and *cognitive* *science* (Ch. 10, §4; Ch. 23, §4).
 
 **The *objections*.
 
@@ -418,7 +418,7 @@ $$
 
 **(i) The *‘*pluralism*’* *objection***. The *view* *does* not *specify* the *substantive* *norms*, and the *pluralism* of *norms* (the *moral*, the *prudential*, the *aesthetic*) *undermines* the *unity* of *reason*.
 
-**(ii) The *‘*scepticism*’* *objection***. The *view* *raises* the *question* of *why* the *substantive* *norms* are *normative*, and the *answer* is *contested* (the *contemporary* *literature*).
+**(ii) The *‘*skepticism*’* *objection***. The *view* *raises* the *question* of *why* the *substantive* *norms* are *normative*, and the *answer* is *contested* (the *contemporary* *literature*).
 
 ### 4.3 Procedural versus substantive rationality
 
@@ -450,10 +450,10 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *ideal* *rationality* (the *maximisation* of *expected* *utility*) *requires* *unlimited* *computational* *capacity*.} \\
+1. & \text{The *ideal* *rationality* (the *maximization* of *expected* *utility*) *requires* *unlimited* *computational* *capacity*.} \\
 2. & \text{The *capacity* is *limited*.} \\
 \hline
-3. & \therefore \text{The *rationality* is *bounded* (the *agent* *satisficies*, rather than *maximises*).}
+3. & \therefore \text{The *rationality* is *bounded* (the *agent* *satisficies*, rather than *maximizes*).}
 \end{array}
 $$
 
@@ -463,7 +463,7 @@ $$
 
 ### 4.5 The myth of the purely rational agent
 
-**The *thesis*** (the *contemporary* *literature*; the *critique* of the *homo* *economicus*). The *model* of the *purely* *rational* *agent* (the *maximiser* of *expected* *utility*, with *complete* *information* and *consistent* *preferences*) is an *idealisation*, not a *description*.
+**The *thesis*** (the *contemporary* *literature*; the *critique* of the *homo* *economicus*). The *model* of the *purely* *rational* *agent* (the *maximizer* of *expected* *utility*, with *complete* *information* and *consistent* *preferences*) is an *idealization*, not a *description*.
 
 **The *argument*.
 
@@ -472,13 +472,13 @@ $$
 1. & \text{The *empirical* *evidence* shows that *agents* *deviate* *systematically* from the *model* (the *framing* *effects*, the *anchoring*, the *loss* *aversion*; §7.2).} \\
 2. & \text{The *deviations* are *not* *random* (they are *predictable*).} \\
 \hline
-3. & \therefore \text{The *model* is an *idealisation*, not a *description*.}
+3. & \therefore \text{The *model* is an *idealization*, not a *description*.}
 \end{array}
 $$
 
-**The *virtue*.** The *critique* *grounds* the *behavioural* *economics* (the *contemporary* *literature*), and it *fits* the *empirical* *findings*.
+**The *virtue*.** The *critique* *grounds* the *behavioral* *economics* (the *contemporary* *literature*), and it *fits* the *empirical* *findings*.
 
-**The *objection*. The *idealisation* is *normatively* *useful* (it *gives* a *standard* *against* which *deviations* are *measured*), and the *critique* *does* not *undermine* the *normative* *role*. (The *reply*: the *normative* *role* *requires* *feasibility*, and the *feasibility* *is* *lacking*; the *reply* *is* *contested*.)
+**The *objection*. The *idealization* is *normatively* *useful* (it *gives* a *standard* *against* which *deviations* are *measured*), and the *critique* *does* not *undermine* the *normative* *role*. (The *reply*: the *normative* *role* *requires* *feasibility*, and the *feasibility* *is* *lacking*; the *reply* *is* *contested*.)
 
 ### 4.6 The state of the debate
 
@@ -616,7 +616,7 @@ $$
 $$
 \begin{array}{ll}
 1. & \text{The *agent* *judges* that } \phi \text{ is *best* (the *all*-*things*-*considered* *judgment*).} \\
-2. & \text{The *agent* *acts* on a *reason* that *favours* } \neg\phi \text{ (a *prima* *facie* *reason*).} \\
+2. & \text{The *agent* *acts* on a *reason* that *favors* } \neg\phi \text{ (a *prima* *facie* *reason*).} \\
 3. & \text{The *reason* *causes* the *action*, but it is *not* the *agent*'s *best* *judgment*.} \\
 \hline
 4. & \therefore \text{Akrasia is *possible* (the *action* is *intentional* but *not* *rational*).}
@@ -702,13 +702,13 @@ $$
 | Source | The *phenomenon* | The *example* |
 |---|---|---|
 | **Psychiatry** | *Delusions*, *addiction*, *compulsion* | The *Capgras* *delusion*; the *opioid* *addiction* |
-| **Behavioural economics** | *Framing*, *anchoring*, *loss aversion* | The *Asian* *disease* *problem*; the *endowment* *effect* |
+| **Behavioral economics** | *Framing*, *anchoring*, *loss aversion* | The *Asian* *disease* *problem*; the *endowment* *effect* |
 | **Social psychology** | *Confirmation bias*, *groupthink*, *situationism* | The *Wason* *selection* *task*; the *Milgram* *experiment* |
 | **Cognitive science** | *Dual-process* *cognition* | *System* *1* (fast, automatic); *System* *2* (slow, deliberate) |
 
 **The *significance*.** The *data* *show* that *irrationality* is *pervasive*, *systematic*, and *predictable*, and the *theories* of *rationality* (§4) *must* *explain* it.
 
-### 7.2 Behavioural economics
+### 7.2 Behavioral economics
 
 **The *findings*** (Kahneman & Tversky 1979, 1981; Thaler 1980; the *contemporary* *literature*).
 
@@ -717,7 +717,7 @@ $$
 | **Framing** | The *description* affects the *choice* | The *Asian* *disease* *problem* (the *same* *outcomes*, *different* *frames*) |
 | **Anchoring** | The *initial* *value* affects the *estimate* | The *wheel* *of* *fortune* (the *random* *number* affects the *estimate*) |
 | **Loss aversion** | *Losses* *loom* *larger* than *gains* | The *endowment* *effect* (the *willingness* to *pay* vs. *accept*) |
-| **Present bias** | *Immediate* *rewards* are *overweighted* | The *marshmallow* *test*; the *savings* *behaviour* |
+| **Present bias** | *Immediate* *rewards* are *overweighted* | The *marshmallow* *test*; the *savings* *behavior* |
 | **Overconfidence** | The *agents* are *overconfident* in their *judgments* | The *calibration* *literature* |
 
 **The *interpretation*.** The *findings* *undermine* the *model* of the *rational* *agent* (§4.5), and they *support* the *dual*-*process* *model* (the *System* *1* *heuristics* *produce* the *biases*).
@@ -728,11 +728,11 @@ $$
 
 **(ii) The *‘*replication*’* *objection***. The *findings* are *contested* (the *replication* *crisis*; Ch. 3, §6.3), and the *robustness* of the *effects* is *uncertain*.
 
-**(iii) The *‘*normative*’* *objection***. The *findings* *describe* *deviations* from a *model*, and the *model* is *not* *normatively* *authoritative* (the *rational* *agent* *model* is an *idealisation*; §4.5).
+**(iii) The *‘*normative*’* *objection***. The *findings* *describe* *deviations* from a *model*, and the *model* is *not* *normatively* *authoritative* (the *rational* *agent* *model* is an *idealization*; §4.5).
 
 ### 7.3 Psychiatry
 
-**The *findings***. *Delusions* (the *Capgras* *delusion*: the *belief* that a *loved* *one* has been *replaced* by an *impostor*), *addiction* (the *compulsive* *use* *despite* the *harm*), and *compulsion* (the *obsessive* *behaviour*).
+**The *findings***. *Delusions* (the *Capgras* *delusion*: the *belief* that a *loved* *one* has been *replaced* by an *impostor*), *addiction* (the *compulsive* *use* *despite* the *harm*), and *compulsion* (the *obsessive* *behavior*).
 
 **The *interpretation*.** The *findings* *challenge* the *belief*-*desire* *model* (the *delusions* are *not* *rational* *beliefs*; the *addictions* are *not* *rational* *desires*), and they *support* the *divided*-*mind* *and* *dual*-*process* *accounts*.
 
@@ -750,7 +750,7 @@ $$
 
 **(ii) Irrationality is systematic.** The *deviations* are *predictable* (the *biases* are *robust*), and the *predictability* *supports* the *dual*-*process* *model*.
 
-**(iii) The normative model is an idealisation.** The *rational* *agent* *model* is *not* *feasible*, and the *norms* *must* be *bounded* (§4.4).
+**(iii) The normative model is an idealization.** The *rational* *agent* *model* is *not* *feasible*, and the *norms* *must* be *bounded* (§4.4).
 
 **(iv) The data are theory-laden.** The *interpretation* of the *findings* *depends* on the *theory* of *rationality*, and the *theory* is *contested*.
 
@@ -782,7 +782,7 @@ $$
 - **The *instrumental* *principle* is *necessary* but *not* *sufficient*.** The *substantive* *norms* are *real*, and the *myth* *of* *instrumental* *rationality* is *well*-*founded*.
 - **The *practical*/*theoretical* *distinction* is *real*.** The *procedural* *norms* are *symmetric*, and the *substantive* *norms* are *asymmetric*.
 - **Akrasia and self-deception are *real*.** The *paradoxes* are *not* *fully* *resolved*, and the *hybrid* *accounts* are *most* *promising*.
-- **Irrationality is *systematic*.** The *empirical* *findings* *support* the *dual*-*process* *model*, and the *normative* *model* is an *idealisation*.
+- **Irrationality is *systematic*.** The *empirical* *findings* *support* the *dual*-*process* *model*, and the *normative* *model* is an *idealization*.
 
 ### 8.2 What is open
 
@@ -854,7 +854,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 - **The *instrumental* *principle*** is *necessary* but *not* *sufficient*; the *myth* *of* *instrumental* *rationality* is *well*-*founded*; the *substantive* *norms* are *real*; *bounded* *rationality* *constrains* the *norms*.
 - **The *practical*/*theoretical* *distinction*** is *real*; the *procedural* *norms* are *symmetric*, and the *substantive* *norms* are *asymmetric*.
 - **Akrasia and self-deception** are *real*; the *paradoxes* are *not* *fully* *resolved*; the *hybrid* *accounts* (the *degrees* *of* *confidence*, the *divided* *mind*, the *motivated* *belief*) are *most* *promising*.
-- **Irrationality is *systematic*; the *empirical* *findings* *support* the *dual*-*process* *model*, and the *normative* *model* is an *idealisation*.
+- **Irrationality is *systematic*; the *empirical* *findings* *support* the *dual*-*process* *model*, and the *normative* *model* is an *idealization*.
 
 ---
 
@@ -874,7 +874,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 12. State the *Socratic* *paradox*. Is the *intellectualist* *view* *defensible*?
 13. State *Davidson's* *account* of *akrasia*. Is the *clear*-*eyed* *akrasia* *problem* *decisive*?
 14. State the *paradox* of *self*-*deception*. Is the *divided*-*mind* *response* *adequate*?
-15. State the *behavioural* *economics* *findings*. Are they *evidence* of *irrationality*, or of *ecological* *rationality*?
+15. State the *behavioral* *economics* *findings*. Are they *evidence* of *irrationality*, or of *ecological* *rationality*?
 16. State the *dual*-*process* *model*. Is it *defensible*? What are the *objections*?
 17. Does the *empirical* *evidence* *undermine* the *normative* *model*? What does the *answer* *imply* for the *method* of *philosophy*?
 18. Is *irrationality* *systematic*? What does the *answer* *imply* for the *responsibility* *debate* (Ch. 27)?

@@ -17,7 +17,7 @@ The order is not arbitrary. The five previous chapters share a *picture*: the mi
 
 The chapter's *thesis* is that the *classical* *conception* of the mind — *rational*, *disembodied*, *representational* — is a *caricature* of the *actual* mind, and that the *caricature* was *sustained* by a *philosophical* *tradition* that *separated* the *cognitive* from the *affective*, the *mental* from the *bodily*, and the *inner* from the *outer*. The *contemporary* *literature* has *reversed* the *separations*, and the *reversal* is the *most* *important* *development* in the *philosophy* of *mind* since the *computational* *revolution*.
 
-The chapter proceeds in eight movements. §1 examines the *theories* of *emotion*. §2 examines the *rationality* of *emotion*. §3 examines *imagination* and *pretence*. §4 examines the *4E* *mind*. §5 examines *skill* and *know-how*. §6 examines *attention* and the *subject*. §7 examines *perception*, *affect*, and the *lived* *world*. §8 gives an *honest* *verdict* and *closes* **Part IV**.
+The chapter proceeds in eight movements. §1 examines the *theories* of *emotion*. §2 examines the *rationality* of *emotion*. §3 examines *imagination* and *pretense*. §4 examines the *4E* *mind*. §5 examines *skill* and *know-how*. §6 examines *attention* and the *subject*. §7 examines *perception*, *affect*, and the *lived* *world*. §8 gives an *honest* *verdict* and *closes* **Part IV**.
 
 ---
 
@@ -30,11 +30,11 @@ The *philosophy* of *emotion* is a *field* in which *four* *families* of *theory
 | Family | The *claim* | The *paradigm* | The *proponent* |
 |---|---|---|---|
 | **Feeling** | Emotion is the *perception* of *bodily* *changes* | The *racing* *heart*, the *sweaty* *palms* | James (1884); Lange (1885); Damasio (1994) |
-| **Judgement** | Emotion is an *evaluative* *judgement* | The *judgement* that the *situation* is *dangerous* | Stoics; Solomon (1976); Nussbaum (2001) |
+| **Judgment** | Emotion is an *evaluative* *judgment* | The *judgment* that the *situation* is *dangerous* | Stoics; Solomon (1976); Nussbaum (2001) |
 | **Appraisal** | Emotion is a *pattern* of *appraisal* *processes* | The *evaluation* of the *situation* *relative* to *goals* | Arnold (1960); Lazarus (1991); Scherer (2001) |
 | **Enactive** | Emotion is a *dynamic* *pattern* of *embodied* *interaction* | The *action* *tendency*, the *bodily* *orientation* | Colombetti (2014); the *contemporary* *literature* |
 
-**The *significance*.** The *families* are *not* *mutually* *exclusive* (a *theory* can *combine* the *feeling* and the *judgement* *components*), but they *differ* on the *nature* of the *emotion* and on the *role* of the *body* in *constituting* it.
+**The *significance*.** The *families* are *not* *mutually* *exclusive* (a *theory* can *combine* the *feeling* and the *judgment* *components*), but they *differ* on the *nature* of the *emotion* and on the *role* of the *body* in *constituting* it.
 
 ### 1.2 The James–Lange theory
 
@@ -62,37 +62,37 @@ $$
 
 **The *reply*.** The *bodily* *changes* *begin* *before* the *conscious* *emotion* (the *unconscious* *appraisal* *triggers* the *arousal*, and the *conscious* *emotion* *follows*), and the *timing* *supports* the *theory*. The *reply* *relies* on the *distinction* between the *unconscious* *appraisal* and the *conscious* *feeling*.
 
-**(iii) The *‘*recalcitrant*’* *objection*** (§2.2). The *emotion* can *persist* *against* the *judgement* (the *fear* of a *spider* while *judging* it *harmless*), and the *theory* *cannot* *explain* the *conflict*.
+**(iii) The *‘*recalcitrant*’* *objection*** (§2.2). The *emotion* can *persist* *against* the *judgment* (the *fear* of a *spider* while *judging* it *harmless*), and the *theory* *cannot* *explain* the *conflict*.
 
-**The *reply*.** The *recalcitrant* *emotion* is a *bodily* *response* that *persists* (the *arousal* *conditioning*), and the *response* is *not* a *judgement*; the *reply* *supports* the *feeling* *theory* and *undermines* the *judgement* *theory*.
+**The *reply*.** The *recalcitrant* *emotion* is a *bodily* *response* that *persists* (the *arousal* *conditioning*), and the *response* is *not* a *judgment*; the *reply* *supports* the *feeling* *theory* and *undermines* the *judgment* *theory*.
 
-### 1.3 The judgement theory
+### 1.3 The judgment theory
 
-**The *thesis*** (the *Stoic* *tradition*; Solomon, *The Passions*, 1976; Nussbaum, *Upheavals of Thought*, 2001). The *emotion* is an *evaluative* *judgement* — a *judgement* that a *situation* *bears* on the *agent*'s *flourishing* in a *certain* *way*.
+**The *thesis*** (the *Stoic* *tradition*; Solomon, *The Passions*, 1976; Nussbaum, *Upheavals of Thought*, 2001). The *emotion* is an *evaluative* *judgment* — a *judgment* that a *situation* *bears* on the *agent*'s *flourishing* in a *certain* *way*.
 
 **The *structure*.
 
 $$
-\text{Emotion}(E) = \text{Judgement}(\text{the situation is } F, \text{ where } F \text{ is *evaluatively* *loaded})
+\text{Emotion}(E) = \text{Judgment}(\text{the situation is } F, \text{ where } F \text{ is *evaluatively* *loaded})
 $$
 
-**The *argument*** (Nussbaum 2001, Ch. 1). The *emotions* are *about* *objects* (they have *intentionality*; Ch. 25), and the *relation* to the *object* is *evaluative* (the *grief* is *about* the *loss*, and the *loss* is *evaluated* as *significant*). The *judgement* is the *best* *explanation* of the *intentionality* and the *evaluation*.
+**The *argument*** (Nussbaum 2001, Ch. 1). The *emotions* are *about* *objects* (they have *intentionality*; Ch. 25), and the *relation* to the *object* is *evaluative* (the *grief* is *about* the *loss*, and the *loss* is *evaluated* as *significant*). The *judgment* is the *best* *explanation* of the *intentionality* and the *evaluation*.
 
 **The *virtue*.** The *theory* *captures* the *intentionality* and the *evaluative* *structure* of the *emotions*, and it *grounds* the *rationality* of *emotion* (§2).
 
 **The *objections*.
 
-**(i) The *‘*recalcitrance*’* *objection*** (Greenspan, *Emotions and Reasons*, 1988; the *contemporary* *literature*). The *emotion* can *conflict* with the *judgement* (the *fear* of the *spider* *persists* while the *agent* *judges* the *spider* *harmless*), and the *conflict* *shows* that the *emotion* is *not* the *judgement*.
+**(i) The *‘*recalcitrance*’* *objection*** (Greenspan, *Emotions and Reasons*, 1988; the *contemporary* *literature*). The *emotion* can *conflict* with the *judgment* (the *fear* of the *spider* *persists* while the *agent* *judges* the *spider* *harmless*), and the *conflict* *shows* that the *emotion* is *not* the *judgment*.
 
-**The *reply***. The *recalcitrant* *emotion* is a *residual* *judgement* (the *unconscious* *judgement*, or the *“*in* *the* *throat”* *judgement*), and the *conflict* is between the *conscious* and the *unconscious* *judgements*. The *reply* *qualifies* the *theory*, and it is *contested*.
+**The *reply***. The *recalcitrant* *emotion* is a *residual* *judgment* (the *unconscious* *judgment*, or the *“*in* *the* *throat”* *judgment*), and the *conflict* is between the *conscious* and the *unconscious* *judgments*. The *reply* *qualifies* the *theory*, and it is *contested*.
 
-**(ii) The *‘*too* *intellectual*’* *objection***. The *emotions* are *felt* (they have a *phenomenology*), and the *judgement* *does* not *capture* the *feeling*.
+**(ii) The *‘*too* *intellectual*’* *objection***. The *emotions* are *felt* (they have a *phenomenology*), and the *judgment* *does* not *capture* the *feeling*.
 
-**The *reply***. The *judgement* is *felt* (the *judgement* *involves* the *bodily* *changes*; the *judgement* *is* the *feeling*). The *reply* *blurs* the *distinction* between the *judgement* and the *feeling*, and it is *contested*.
+**The *reply***. The *judgment* is *felt* (the *judgment* *involves* the *bodily* *changes*; the *judgment* *is* the *feeling*). The *reply* *blurs* the *distinction* between the *judgment* and the *feeling*, and it is *contested*.
 
-**(iii) The *‘*animal* *emotion*’* *objection***. The *animals* *feel* *emotions* (the *fear*, the *anger*), and the *animals* do *not* *judge*. The *objection* *undermines* the *judgement* *theory*.
+**(iii) The *‘*animal* *emotion*’* *objection***. The *animals* *feel* *emotions* (the *fear*, the *anger*), and the *animals* do *not* *judge*. The *objection* *undermines* the *judgment* *theory*.
 
-**The *reply***. The *animals* *have* *evaluative* *representations* (the *non*-*conceptual* *appraisals*; Ch. 25, §5), and the *representations* *are* *judgements* in a *broad* *sense*. The *reply* *weakens* the *theory*, and it is *contested*.
+**The *reply***. The *animals* *have* *evaluative* *representations* (the *non*-*conceptual* *appraisals*; Ch. 25, §5), and the *representations* *are* *judgments* in a *broad* *sense*. The *reply* *weakens* the *theory*, and it is *contested*.
 
 ### 1.4 The appraisal theory
 
@@ -127,7 +127,7 @@ $$
 
 ### 1.5 The enactive theory
 
-**The *thesis*** (Colombetti, *The Feeling Body*, 2014; the *contemporary* *literature*). The *emotion* is a *dynamic* *pattern* of *embodied* *interaction* — a *self*-*organising* *process* that *integrates* the *bodily* *changes*, the *appraisal*, and the *action* *tendency*.
+**The *thesis*** (Colombetti, *The Feeling Body*, 2014; the *contemporary* *literature*). The *emotion* is a *dynamic* *pattern* of *embodied* *interaction* — a *self*-*organizing* *process* that *integrates* the *bodily* *changes*, the *appraisal*, and the *action* *tendency*.
 
 **The *structure*.
 
@@ -135,7 +135,7 @@ $$
 \text{Emotion}(E) = \text{Dynamic pattern of embodied interaction}
 $$
 
-**The *virtue*.** The *theory* *avoids* the *reduction* of the *emotion* to a *single* *component* (the *feeling*, the *judgement*), and it *fits* the *phenomenology* of *emotion* (the *emotion* is a *whole*-*body* *response*, *oriented* *toward* *the* *world*).
+**The *virtue*.** The *theory* *avoids* the *reduction* of the *emotion* to a *single* *component* (the *feeling*, the *judgment*), and it *fits* the *phenomenology* of *emotion* (the *emotion* is a *whole*-*body* *response*, *oriented* *toward* *the* *world*).
 
 **The *objections*.
 
@@ -149,7 +149,7 @@ $$
 
 ### 1.6 The perceptual theory
 
-**The *thesis*** (de Sousa, *The Rationality of Emotion*, 1987; Tappolet, *Emotions, Values, and Agency*, 2016; Döring, “Seeing What to Do,” 2007). The *emotion* is a *perceptual* *experience* of an *evaluative* *property* — the *fear* *perceives* the *danger* (the *dangerousness*), and the *anger* *perceives* the *offence*.
+**The *thesis*** (de Sousa, *The Rationality of Emotion*, 1987; Tappolet, *Emotions, Values, and Agency*, 2016; Döring, “Seeing What to Do,” 2007). The *emotion* is a *perceptual* *experience* of an *evaluative* *property* — the *fear* *perceives* the *danger* (the *dangerousness*), and the *anger* *perceives* the *offense*.
 
 **The *structure*.
 
@@ -162,7 +162,7 @@ $$
 $$
 \begin{array}{ll}
 1. & \text{The *emotions* are *about* *objects* (the *intentionality*).} \\
-2. & \text{The *emotions* *present* the *objects* *as* *having* *evaluative* *properties* (the *danger*, the *offence*, the *loss*).} \\
+2. & \text{The *emotions* *present* the *objects* *as* *having* *evaluative* *properties* (the *danger*, the *offense*, the *loss*).} \\
 3. & \text{The *presentation* *is* *perceptual* (the *immediacy*, the *non*-*inferential* *character*, the *recalcitrance*).} \\
 \hline
 4. & \therefore \text{The *emotions* are *perceptions* of *evaluative* *properties*.}
@@ -188,12 +188,12 @@ $$
 | Theory | The *core* *claim* | The *strength* | The *weakness* |
 |---|---|---|---|
 | **Feeling (James)** | Emotion = perception of bodily changes | Fits the phenomenology | Undifferentiated |
-| **Judgement (Nussbaum)** | Emotion = evaluative judgement | Fits the intentionality | Recalcitrance |
+| **Judgment (Nussbaum)** | Emotion = evaluative judgment | Fits the intentionality | Recalcitrance |
 | **Appraisal (Scherer)** | Emotion = appraisal pattern | Fits the differentiation | The subpersonal level |
 | **Enactive (Colombetti)** | Emotion = dynamic embodiment | Fits the holism | Vagueness |
 | **Perceptual (Tappolet)** | Emotion = perception of value | Fits the immediacy | The evaluative properties |
 
-**The *most* *defensible* *position*.** A *hybrid*: the *emotion* is a *perceptual* *appraisal* — a *perceptual* *experience* of an *evaluative* *property*, *realised* by a *dynamic* *pattern* of *bodily* *and* *cognitive* *processes*. The *position* *combines* the *strengths* of the *perceptual* and the *enactive* *theories*, and it is *incomplete*.
+**The *most* *defensible* *position*.** A *hybrid*: the *emotion* is a *perceptual* *appraisal* — a *perceptual* *experience* of an *evaluative* *property*, *realized* by a *dynamic* *pattern* of *bodily* *and* *cognitive* *processes*. The *position* *combines* the *strengths* of the *perceptual* and the *enactive* *theories*, and it is *incomplete*.
 
 ---
 
@@ -213,31 +213,31 @@ The *rationality* of *emotion* *raises* *three* *distinct* *questions*, and the 
 
 ### 2.2 Recalcitrant emotions
 
-**The *phenomenon***. The *recalcitrant* *emotion* *persists* *despite* the *agent*'s *judgement* that it is *unwarranted*: the *fear* of *flying* *persists* while the *agent* *knows* that *flying* is *safe*.
+**The *phenomenon***. The *recalcitrant* *emotion* *persists* *despite* the *agent*'s *judgment* that it is *unwarranted*: the *fear* of *flying* *persists* while the *agent* *knows* that *flying* is *safe*.
 
 **The *argument*** (the *contemporary* *literature*; Greenspan 1988; D'Arms & Jacobson 2003).
 
 $$
 \begin{array}{ll}
-1. & \text{The *emotion* *persists* against the *agent*'s *judgement*.} \\
-2. & \text{If the *emotion* *were* a *judgement*, the *conflict* would be a *contradiction* (the agent would judge *both* that the flight is safe and that it is dangerous).} \\
+1. & \text{The *emotion* *persists* against the *agent*'s *judgment*.} \\
+2. & \text{If the *emotion* *were* a *judgment*, the *conflict* would be a *contradiction* (the agent would judge *both* that the flight is safe and that it is dangerous).} \\
 3. & \text{The *conflict* is *not* a *contradiction* (the agent does *not* *believe* the *contradiction*).} \\
 \hline
-4. & \therefore \text{The *emotion* is *not* a *judgement* (the *perceptual* *theory* is *better*).}
+4. & \therefore \text{The *emotion* is *not* a *judgment* (the *perceptual* *theory* is *better*).}
 \end{array}
 $$
 
-**The *consequence*.** The *argument* *supports* the *perceptual* *theory*: the *emotion* *presents* the *situation* *as* *dangerous*, and the *presentation* can *conflict* with the *judgement* without *contradiction* (the *perception* *presents* the *illusion*, and the *judgement* *corrects* it; Ch. 5, §2.1).
+**The *consequence*.** The *argument* *supports* the *perceptual* *theory*: the *emotion* *presents* the *situation* *as* *dangerous*, and the *presentation* can *conflict* with the *judgment* without *contradiction* (the *perception* *presents* the *illusion*, and the *judgment* *corrects* it; Ch. 5, §2.1).
 
 **The *objections*.
 
-**(i) The *‘*no* *conflict*’* *objection***. The *agent* *does* *judge* the *flight* *dangerous* (the *judgement* is *implicit*, *unconscious*, or *“*in* the *gut”*), and the *conflict* is between *two* *judgements*.
+**(i) The *‘*no* *conflict*’* *objection***. The *agent* *does* *judge* the *flight* *dangerous* (the *judgment* is *implicit*, *unconscious*, or *“*in* the *gut”*), and the *conflict* is between *two* *judgments*.
 
-**The *reply***. The *implicit* *judgement* is *not* a *full*-*fledged* *judgement* (it is a *representation* *below* the *level* of *belief*), and the *reply* *blurs* the *distinction* between *judgement* and *perception*. The *reply* is *contested*.
+**The *reply***. The *implicit* *judgment* is *not* a *full*-*fledged* *judgment* (it is a *representation* *below* the *level* of *belief*), and the *reply* *blurs* the *distinction* between *judgment* and *perception*. The *reply* is *contested*.
 
 **(ii) The *‘*rational* *recalcitrance*’* *objection***. The *recalcitrant* *emotion* can be *rational* (the *fear* *persists* *because* the *risk* is *real*, even if the *agent* *judges* it *low*), and the *rationality* *undermines* the *perceptual* *model* (the *perception* is *not* *corrected* by *evidence*).
 
-**The *reply***. The *recalcitrance* is a *feature* of *perception* (the *illusion* *persists* despite the *judgement*), and the *reply* *supports* the *perceptual* *model*. The *reply* is *contested*.
+**The *reply***. The *recalcitrance* is a *feature* of *perception* (the *illusion* *persists* despite the *judgment*), and the *reply* *supports* the *perceptual* *model*. The *reply* is *contested*.
 
 ### 2.3 The fittingness of emotion
 
@@ -263,7 +263,7 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *emotion* *presents* the *object* *as* *having* a *thick* *evaluative* *property* (the *danger*, the *offence*, the *cruelty*).} \\
+1. & \text{The *emotion* *presents* the *object* *as* *having* a *thick* *evaluative* *property* (the *danger*, the *offense*, the *cruelty*).} \\
 2. & \text{The *thick* *property* *is* *descriptive* and *evaluative* (it *describes* the *situation* and *evaluates* it).} \\
 3. & \text{The *entanglement* *is* *constitutive* of the *presentation*.} \\
 \hline
@@ -286,13 +286,13 @@ $$
 $$
 \begin{array}{ll}
 1. & \text{The *emotions* *present* *evaluative* *properties* (the *danger*, the *cruelty*).} \\
-2. & \text{The *evaluative* *properties* *ground* the *moral* *judgements*.} \\
+2. & \text{The *evaluative* *properties* *ground* the *moral* *judgments*.} \\
 \hline
 3. & \therefore \text{The *emotions* are a *source* of *moral* *knowledge*.}
 \end{array}
 $$
 
-**The *virtue*.** The *view* *grounds* *moral* *knowledge* in the *affective* *experience*, and it *fits* the *phenomenology* of *moral* *judgement* (the *revulsion* at *cruelty*, the *admiration* at *courage*).
+**The *virtue*.** The *view* *grounds* *moral* *knowledge* in the *affective* *experience*, and it *fits* the *phenomenology* of *moral* *judgment* (the *revulsion* at *cruelty*, the *admiration* at *courage*).
 
 **The *objections*.
 
@@ -310,7 +310,7 @@ $$
 
 ---
 
-## 3. Imagination and Pretence
+## 3. Imagination and Pretense
 
 ### 3.1 The varieties of imagination
 
@@ -326,9 +326,9 @@ $$
 
 **The *significance*.** The *varieties* *differ* in their *content* and their *role*, and the *theories* of *imagination* *must* *account* for the *differences*.
 
-### 3.2 Pretence and make-believe
+### 3.2 Pretense and make-believe
 
-**The *thesis*** (Walton, *Mimesis as Make-Believe*, 1990; the *contemporary* *literature*). The *pretence* is a *game* of *make*-*believe*, in which *props* (the *objects*, the *texts*) *generate* *fictional* *truths* *according* to *principles* of *generation*.
+**The *thesis*** (Walton, *Mimesis as Make-Believe*, 1990; the *contemporary* *literature*). The *pretense* is a *game* of *make*-*believe*, in which *props* (the *objects*, the *texts*) *generate* *fictional* *truths* *according* to *principles* of *generation*.
 
 **The *structure*.
 
@@ -338,7 +338,7 @@ $$
 | **Principle of generation** | The *rule* that *determines* the *fictional* *truths* | “The *doll* is a *baby*” |
 | **Game** | The *practice* of *make*-*believe* | The *children*'s *play* |
 
-**The *virtue*.** The *theory* *explains* the *fiction* (the *truth* *in* the *fiction*; Ch. 49, §4) and the *imagination* (the *participation* in the *game*), and it *fits* the *ordinary* *practice* of *pretence*.
+**The *virtue*.** The *theory* *explains* the *fiction* (the *truth* *in* the *fiction*; Ch. 49, §4) and the *imagination* (the *participation* in the *game*), and it *fits* the *ordinary* *practice* of *pretense*.
 
 **The *objection*.** The *theory* *makes* the *imagination* *derivative* of the *fiction* (the *fiction* *comes* *first*, and the *imagination* *follows*), and the *priority* is *contested* (the *imagination* *may* be *prior*; the *contemporary* *literature*).
 
@@ -354,13 +354,13 @@ $$
 2. & \text{The *reader* *resists* the *moral* *fiction* (the *slavery* is *just*).} \\
 3. & \text{The *resistance* *requires* an *explanation*.} \\
 \hline
-4. & \therefore \text{The *imagination* is *constrained* by the *moral* *judgement* (the *resistance* *shows* the *constraint*).}
+4. & \therefore \text{The *imagination* is *constrained* by the *moral* *judgment* (the *resistance* *shows* the *constraint*).}
 \end{array}
 $$
 
 **The *explanations*.
 
-**(i) The *cantian* *explanation*** (Gendler 2000). The *reader* *cannot* *imagine* the *moral* *fiction* (the *imagination* is *not* *free*; the *moral* *judgement* *blocks* the *imagination*).
+**(i) The *cantian* *explanation*** (Gendler 2000). The *reader* *cannot* *imagine* the *moral* *fiction* (the *imagination* is *not* *free*; the *moral* *judgment* *blocks* the *imagination*).
 
 **(ii) The *wontian* *explanation*** (Gendler 2000). The *reader* *will* *not* *imagine* the *moral* *fiction* (the *imagination* is *free*, but the *reader* *refuses* to *engage*).
 
@@ -403,7 +403,7 @@ $$
 
 ### 3.5 The state of the debate
 
-**The *assessment*.** The *imagination* *debate* is *unresolved*, and the *most* *defensible* *position* is a *pluralist* *view*: the *imagination* is a *family* of *capacities*, the *pretence* is a *game* of *make*-*believe* (Walton), the *resistance* is a *constraint* on the *imagination* (Gendler), and the *simulation* is one *mode* of *understanding* *others*.
+**The *assessment*.** The *imagination* *debate* is *unresolved*, and the *most* *defensible* *position* is a *pluralist* *view*: the *imagination* is a *family* of *capacities*, the *pretense* is a *game* of *make*-*believe* (Walton), the *resistance* is a *constraint* on the *imagination* (Gendler), and the *simulation* is one *mode* of *understanding* *others*.
 
 ---
 
@@ -435,7 +435,7 @@ $$
 $$
 \begin{array}{ll}
 1. & \text{The *notebook* (Otto's) *functions* as a *memory* (it *stores* and *retrieves* the *information*).} \\
-2. & \text{The *function* is *the same* as the *memory* (the *information* is *accessible*, *reliable*, and *integrated* into the *agent*'s *behaviour*).} \\
+2. & \text{The *function* is *the same* as the *memory* (the *information* is *accessible*, *reliable*, and *integrated* into the *agent*'s *behavior*).} \\
 3. & \text{The *function* *is* the *cognition* (the *functionalist* *premise*).} \\
 \hline
 4. & \therefore \text{The *notebook* is *part* of the *cognitive* *system*.}
@@ -456,7 +456,7 @@ $$
 
 ### 4.3 Predictive processing and the embodied mind
 
-**The *thesis*** (the *predictive* *processing* *framework*; Ch. 5, §5.2; Clark, *Surfing Uncertainty*, 2016; Seth, *Being You*, 2021). The *mind* is a *prediction* *machine* that *minimises* *prediction* *error*, and the *body* *shapes* the *predictions* (the *interoceptive* *inference*, the *active* *inference*).
+**The *thesis*** (the *predictive* *processing* *framework*; Ch. 5, §5.2; Clark, *Surfing Uncertainty*, 2016; Seth, *Being You*, 2021). The *mind* is a *prediction* *machine* that *minimizes* *prediction* *error*, and the *body* *shapes* the *predictions* (the *interoceptive* *inference*, the *active* *inference*).
 
 **The *structure*.
 
@@ -474,9 +474,9 @@ $$
 
 **The *reply***. The *phenomenal* *character* is the *content* of the *predictions* about the *body* (the *“*beast* *machine”*; Seth 2021), and the *reply* *identifies* the *phenomenal* with the *predictive* *content*. The *reply* is *contested*.
 
-**(ii) The *‘*instrumentalist*’* *objection***. The *framework* is an *instrumentalist* *model* (it *predicts* the *behaviour*, but it *does* not *describe* the *mechanism*), and the *instrumentalism* *undermines* the *metaphysical* *claim*.
+**(ii) The *‘*instrumentalist*’* *objection***. The *framework* is an *instrumentalist* *model* (it *predicts* the *behavior*, but it *does* not *describe* the *mechanism*), and the *instrumentalism* *undermines* the *metaphysical* *claim*.
 
-**The *reply***. The *model* *is* a *description* of the *mechanism* (the *hierarchical* *prediction* *error* *minimisation*), and the *reply* *fits* the *empirical* *literature*. The *reply* is *contested*.
+**The *reply***. The *model* *is* a *description* of the *mechanism* (the *hierarchical* *prediction* *error* *minimization*), and the *reply* *fits* the *empirical* *literature*. The *reply* is *contested*.
 
 ### 4.4 The phenomenological contribution
 
@@ -595,7 +595,7 @@ $$
 | **Selective attention** | The *focus* on a *subset* of the *stimuli* | The *cocktail*-*party* *effect* |
 | **Sustained attention** | The *maintenance* of the *focus* *over* *time* | The *vigilance* *task* |
 | **Executive attention** | The *control* of the *focus* (the *top*-*down* *selection*) | The *Stroop* *task* |
-| **Mindfulness** | The *non*-*judgemental* *awareness* of the *present* | The *meditative* *practice* (§6.3) |
+| **Mindfulness** | The *non*-*judgmental* *awareness* of the *present* | The *meditative* *practice* (§6.3) |
 
 **The *significance*.** The *attention* *structures* the *experience* (the *attention* *selects* the *content* of *consciousness*), and the *structure* *connects* the *attention* to the *theory* of *consciousness* (Ch. 24, §4).
 
@@ -628,7 +628,7 @@ $$
 
 ### 6.3 Mindfulness and contemplative attention
 
-**The *thesis*** (the *Buddhist* *tradition*; the *contemporary* *literature*; Ch. 24, §7). The *mindfulness* is a *cultivated* *form* of *attention* (the *non*-*judgemental* *awareness* of the *present* *experience*), and the *practice* *produces* *data* about the *nature* of *attention* and *consciousness*.
+**The *thesis*** (the *Buddhist* *tradition*; the *contemporary* *literature*; Ch. 24, §7). The *mindfulness* is a *cultivated* *form* of *attention* (the *non*-*judgmental* *awareness* of the *present* *experience*), and the *practice* *produces* *data* about the *nature* of *attention* and *consciousness*.
 
 **The *structure* (the *Buddhist* *distinction*).
 
@@ -655,7 +655,7 @@ $$
 
 **(i) The *‘*first*–*person*’* *objection***. The *data* are *first*-*personal*, and the *data* are *not* *intersubjectively* *checkable* (Ch. 3, §6.1).
 
-**The *reply***. The *data* are *constrained* by the *empirical* *research* (the *neural* *correlates*; the *behavioural* *measures*), and the *constraint* *grounds* the *reliability*. The *reply* is *contested*.
+**The *reply***. The *data* are *constrained* by the *empirical* *research* (the *neural* *correlates*; the *behavioral* *measures*), and the *constraint* *grounds* the *reliability*. The *reply* is *contested*.
 
 **(ii) The *‘*therapeutic*’* *objection***. The *mindfulness* is a *therapeutic* *practice*, not a *philosophical* *method*, and the *practice* *does* not *produce* *knowledge*.
 
@@ -696,7 +696,7 @@ $$
 
 **(ii) The *‘*no* *subject*’* *objection***. If the *subject* is a *model*, there is *no* *subject* (the *model* is a *representation*, not a *thing*), and the *view* *collapses* into *eliminativism* (Ch. 23, §6).
 
-**The *reply***. The *model* is a *real* *pattern* (it *has* *causal* *efficacy*, and it *grounds* the *behaviour*), and the *reply* *preserves* the *subject* as a *construct*. The *reply* is *contested*.
+**The *reply***. The *model* is a *real* *pattern* (it *has* *causal* *efficacy*, and it *grounds* the *behavior*), and the *reply* *preserves* the *subject* as a *construct*. The *reply* is *contested*.
 
 ### 6.5 The state of the debate
 
@@ -766,13 +766,13 @@ $$
 
 ### 7.3 The shape of the lived world
 
-**The *thesis***. The *world* *appears* *differently* to *different* *affective* *states*, and the *difference* is *not* a *mere* *colouring* but a *structural* *transformation*.
+**The *thesis***. The *world* *appears* *differently* to *different* *affective* *states*, and the *difference* is *not* a *mere* *coloring* but a *structural* *transformation*.
 
 **The *examples*.
 
 | State | The *world* | The *structure* |
 |---|---|---|
-| **Depression** | The *world* is *flat*, *grey*, *meaningless* | The *affordances* *disappear*; the *future* *closes* |
+| **Depression** | The *world* is *flat*, *gray*, *meaningless* | The *affordances* *disappear*; the *future* *closes* |
 | **Anxiety** | The *world* is *threatening*, *unpredictable* | The *possibilities* *multiply*; the *salience* *shifts* |
 | **Joy** | The *world* is *inviting*, *abundant* | The *affordances* *expand*; the *future* *opens* |
 | **Grief** | The *world* is *empty*, *diminished* | The *loss* *shapes* the *perception* of the *surroundings* |
@@ -837,7 +837,7 @@ Part V turns from *mind* to *language*, *truth*, and *logic*. The *questions* ar
 - What is the *a priori*? (Ch. 36)
 - What are *conditionals*? (Ch. 37)
 
-The *connection* to Part IV is *direct*. The *mind* is *constituted* by *content* (Ch. 25), and the *content* is *linguistic* (the *language* of *thought*; Ch. 25, §5.4). The *emotions* are *evaluative* *judgements* (this chapter), and the *judgements* have *content* (Ch. 25). The *imagination* *represents* *possibilities* (this chapter), and the *representation* has *content*. The *language* is the *medium* in which the *content* is *articulated*, and the *next* *part* *examines* the *medium*.
+The *connection* to Part IV is *direct*. The *mind* is *constituted* by *content* (Ch. 25), and the *content* is *linguistic* (the *language* of *thought*; Ch. 25, §5.4). The *emotions* are *evaluative* *judgments* (this chapter), and the *judgments* have *content* (Ch. 25). The *imagination* *represents* *possibilities* (this chapter), and the *representation* has *content*. The *language* is the *medium* in which the *content* is *articulated*, and the *next* *part* *examines* the *medium*.
 
 ### The hinge
 
@@ -857,8 +857,8 @@ The *chapter* — and *Part IV* — *ends* with a *hinge*. The *hinge* is the *r
 
 ### What is settled
 
-- **The *theories* of *emotion* are *all* *live*.** The *feeling*, *judgement*, *appraisal*, *enactive*, and *perceptual* *theories* are *all* *defended*, and *none* is *decisive*.
-- **The *recalcitrant* *emotion* *is* a *central* *datum*.** The *phenomenon* *supports* the *perceptual* *theory*, and it *undermines* the *judgement* *theory*.
+- **The *theories* of *emotion* are *all* *live*.** The *feeling*, *judgment*, *appraisal*, *enactive*, and *perceptual* *theories* are *all* *defended*, and *none* is *decisive*.
+- **The *recalcitrant* *emotion* *is* a *central* *datum*.** The *phenomenon* *supports* the *perceptual* *theory*, and it *undermines* the *judgment* *theory*.
 - **The *fittingness* of *emotion* is a *sui* *generis* *evaluative* *property*.** The *notion* is *central* to the *rationality* of *emotion*, and it is *contested* (the *wrong* *kind* *of* *reason*).
 - **The *imagination* is a *family* of *capacities*.** The *sensory*, *propositional*, *dramatic*, *motor*, and *affective* *varieties* are *distinct*.
 - **The *imaginative* *resistance* is *real*.** The *phenomenon* is *documented*, and the *explanation* is *contested* (the *cantian*, the *wontian*, the *conditional*).
@@ -869,7 +869,7 @@ The *chapter* — and *Part IV* — *ends* with a *hinge*. The *hinge* is the *r
 
 ### What is open
 
-- **The *nature* of *emotion*.** Is it a *feeling*, a *judgement*, an *appraisal*, an *enactment*, or a *perception*?
+- **The *nature* of *emotion*.** Is it a *feeling*, a *judgment*, an *appraisal*, an *enactment*, or a *perception*?
 - **The *rationality* of *emotion*.** Is the *emotion* *justified* by the *evidence*, or by the *fittingness*?
 - **The *nature* of the *imagination*.** Is it a *single* *capacity* or a *family*?
 - **The *explanation* of *imaginative* *resistance*.** The *cantian*, the *wontian*, and the *conditional* *explanations* are *contested*.
@@ -893,9 +893,9 @@ The *chapter* is a *case* *study* in the *method* of *Part* I.
 
 ## Summary
 
-- **The *theories* of *emotion*** — *feeling*, *judgement*, *appraisal*, *enactive*, *perceptual* — are *all* *live*. The *feeling* *theory* *fits* the *phenomenology*; the *judgement* *theory* *fits* the *intentionality*; the *appraisal* *theory* *fits* the *differentiation*; the *enactive* *theory* *fits* the *holism*; the *perceptual* *theory* *fits* the *recalcitrance*.
+- **The *theories* of *emotion*** — *feeling*, *judgment*, *appraisal*, *enactive*, *perceptual* — are *all* *live*. The *feeling* *theory* *fits* the *phenomenology*; the *judgment* *theory* *fits* the *intentionality*; the *appraisal* *theory* *fits* the *differentiation*; the *enactive* *theory* *fits* the *holism*; the *perceptual* *theory* *fits* the *recalcitrance*.
 - **The *rationality* of *emotion*** *raises* the *questions* of *fittingness*, *warrant*, and *coherence*; the *recalcitrant* *emotion* is a *central* *datum*; the *fittingness* is a *sui* *generis* *evaluative* *property*; the *wrong* *kind* *of* *reason* *objection* *complicates* the *account*.
-- **The *imagination* is a *family* of *capacities***: *sensory*, *propositional*, *dramatic*, *motor*, *affective*. The *pretence* is a *game* of *make*-*believe*, and the *imaginative* *resistance* is a *real* *phenomenon* with *contested* *explanations*.
+- **The *imagination* is a *family* of *capacities***: *sensory*, *propositional*, *dramatic*, *motor*, *affective*. The *pretense* is a *game* of *make*-*believe*, and the *imaginative* *resistance* is a *real* *phenomenon* with *contested* *explanations*.
 - **The *4E* *framework*** — *embodied*, *embedded*, *enacted*, *extended* — *challenges* the *classical* *conception* of the *mind* as a *disembodied* *computer*. The *extended* *mind* *thesis* is *influential* and *contested* (the *parity* *principle*, the *cognitive* *bloat*, the *coupling*–*constitution* *fallacy*).
 - **The *know*-*how* *debate*** *opposes* the *Rylean* *regress* to the *intellectualist* *reply*; the *most* *defensible* *position* is a *pluralist* *view*.
 - **The *attention* and the *subject*** are *connected*: the *attention* *structures* the *experience*, and the *subject* is a *constructed* *model* (the *self*-*model* *theory*) *grounded* in the *body*.
@@ -907,7 +907,7 @@ The *chapter* is a *case* *study* in the *method* of *Part* I.
 ## Study Questions
 
 1. State the *James–Lange* *theory* of *emotion*. What is the *undifferentiated* *objection*, and is the *reply* *adequate*?
-2. State the *judgement* *theory*. What is the *recalcitrant* *emotion* *objection*, and is the *reply* *adequate*?
+2. State the *judgment* *theory*. What is the *recalcitrant* *emotion* *objection*, and is the *reply* *adequate*?
 3. State the *appraisal* *theory*. What is the *subpersonal* *objection*, and is the *reply* *adequate*?
 4. State the *perceptual* *theory* of *emotion*. Is the *theory* *defensible*? What is the *evaluative* *property* *objection*?
 5. State the *enactive* *theory*. What is the *vagueness* *objection*, and is the *reply* *adequate*?
@@ -939,7 +939,7 @@ The *chapter* is a *case* *study* in the *method* of *Part* I.
 - **Primary**: William James, “What Is an Emotion?” (1884), in *Mind* 9, and *The Principles of Psychology* (1890), II; Martha Nussbaum, *Upheavals of Thought* (2001), Ch. 1; Robert Solomon, *The Passions* (1976); Nico Frijda, *The Emotions* (1986); Jesse Prinz, *Gut Reactions* (2004).
 - **On the theories of emotion**: the *survey* in the *Stanford Encyclopedia* entry, “Emotion” (Scarantino and de Sousa); the *contemporary* *literature* in *The Oxford Handbook of Philosophy of Emotion* (ed. Goldie, 2010); Andrea Scarantino, “The Philosophy of Emotions and Its Impact on Affective Science” (2016), in *Handbook of Emotions* (4th ed.); the *classical* *statements* in Aristotle, *Rhetoric* II.1–11, and the Stoics (the *essays* in *The Emotions in Hellenistic Philosophy*, ed. Sihvola and Engberg-Pedersen, 1998).
 - **On the rationality of emotion**: Justin D'Arms and Daniel Jacobson, “Sentiment and Value” (2000), in *Ethics* 110, and “The Significance of Recalcitrant Emotion” (2003), in *Philosophy and Phenomenological Research* 66; Ronald de Sousa, *The Rationality of Emotion* (1987); Christine Tappolet, *Emotions, Values, and Agency* (2016); the *survey* in the *Stanford Encyclopedia* entry, “Emotion” (Scarantino and de Sousa), §4.
-- **On imagination and pretence**: Kendall Walton, *Mimesis as Make-Believe* (1990); Tamar Szabó Gendler, “The Puzzle of Imaginative Resistance” (2000), in *Journal of Philosophy* 97, and *Intuition, Imagination, and Philosophical Methodology* (2010); Richard Moran, “The Expression of Feeling in Imagination” (1994), in *Philosophical Review* 103; Brian Weatherson, “Morality, Fiction, and Possibility” (2004), in *Philosophers’ Imprint* 4; the *survey* in the *Stanford Encyclopedia* entry, “Imagination” (Kind).
+- **On imagination and pretense**: Kendall Walton, *Mimesis as Make-Believe* (1990); Tamar Szabó Gendler, “The Puzzle of Imaginative Resistance” (2000), in *Journal of Philosophy* 97, and *Intuition, Imagination, and Philosophical Methodology* (2010); Richard Moran, “The Expression of Feeling in Imagination” (1994), in *Philosophical Review* 103; Brian Weatherson, “Morality, Fiction, and Possibility” (2004), in *Philosophers’ Imprint* 4; the *survey* in the *Stanford Encyclopedia* entry, “Imagination” (Kind).
 - **On the 4E mind**: Andy Clark and David Chalmers, “The Extended Mind” (1998), in *Analysis* 58; Andy Clark, *Supersizing the Mind* (2008), and *Surfing Uncertainty* (2016); Alva Noë, *Action in Perception* (2004); Shaun Gallagher, *How the Body Shapes the Mind* (2005); Lawrence Shapiro (ed.), *The Routledge Handbook of Embodied Cognition* (2014); the *critique* in Frederick Adams and Kenneth Aizawa, *The Bounds of Cognition* (2008), and Robert Rupert, “Challenges to the Hypothesis of Extended Cognition” (2004), in *Journal of Philosophy* 101.
 - **On skill and know-how**: Gilbert Ryle, *The Concept of Mind* (1949), Ch. 2; Jason Stanley and Timothy Williamson, “Knowing How” (2001), in *Journal of Philosophy* 98; Jason Stanley, *Know How* (2011); the *critique* in Ellen Fridland, “Problems with Intellectualism” (2013), in *Philosophical Studies* 165; the *survey* in the *Stanford Encyclopedia* entry, “Knowledge How” (Fantl).
 - **On attention and the subject**: Wayne Wu, *Attention* (2014); Christopher Mole, *Attention Is Cognitive Unison* (2011); Thomas Metzinger, *Being No One* (2003); Shaun Gallagher, “Philosophical Conceptions of the Self” (2000), in *Trends in Cognitive Sciences* 4; the *survey* in the *Stanford Encyclopedia* entry, “Attention” (Mole).

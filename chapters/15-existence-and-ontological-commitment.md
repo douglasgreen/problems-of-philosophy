@@ -150,7 +150,7 @@ $$
 \end{array}
 $$
 
-**The *alternative*.** Russell’s *theory* of *descriptions* *analyses* “the round square” as a *quantifier* — $\exists x\,(\mathrm{Round}(x) \wedge \mathrm{Square}(x) \wedge \forall y(\ldots \to y = x))$ — which is *false* (there is no such *object*). The *apparent* *reference* to a *nonexistent* *object* is *dissolved* by the *analysis*, and the *contradiction* *disappears*.
+**The *alternative*.** Russell’s *theory* of *descriptions* *analyzes* “the round square” as a *quantifier* — $\exists x\,(\mathrm{Round}(x) \wedge \mathrm{Square}(x) \wedge \forall y(\ldots \to y = x))$ — which is *false* (there is no such *object*). The *apparent* *reference* to a *nonexistent* *object* is *dissolved* by the *analysis*, and the *contradiction* *disappears*.
 
 **The *slogan*.** “The *round* *square*” is an *incomplete* *symbol*; it has *no* *meaning* *in* *isolation*.
 
@@ -194,7 +194,7 @@ The *theory* has been *revived* in the *contemporary* *literature* by Parsons (*
 
 **(iii) The *epistemology* is *mysterious*.** How do we *know* *about* *nonexistent* *objects*? The *answer* (we *grasp* them *directly*, by *intentional* *relation*) is *not* an *explanation*; it is a *label*.
 
-**The *state* of the debate.** The *neo-Meinongian* *programme* is a *minority* *position*, but it is *taken* *seriously*, and it has *generated* a *large* *literature*. The *orthodox* *position* (Russell, Quine) is *dominant*, but it has *not* *refuted* the *alternative*; it has *out-argued* it in the *mainstream*, and the *argument* is *not* *over*.
+**The *state* of the debate.** The *neo-Meinongian* *program* is a *minority* *position*, but it is *taken* *seriously*, and it has *generated* a *large* *literature*. The *orthodox* *position* (Russell, Quine) is *dominant*, but it has *not* *refuted* the *alternative*; it has *out-argued* it in the *mainstream*, and the *argument* is *not* *over*.
 
 ---
 
@@ -233,7 +233,7 @@ The *criterion* *requires* that the *theory* be *regimented* — *translated* in
 
 **The *process*.**
 
-1. **Identify the theory**: the *body* of *claims* to be *analysed*.
+1. **Identify the theory**: the *body* of *claims* to be *analyzed*.
 2. **Define the predicates**: the *vocabulary* of the *theory*.
 3. **Formalize the claims**: the *sentences* in *first-order* *logic*.
 4. **Read off the commitments**: the *values* *of* the *bound* *variables*.
@@ -284,9 +284,9 @@ $$
 \end{array}
 $$
 
-**The *defence* *of* *premise* 1.** The *premise* is the *naturalistic* *thesis*: ontology is *continuous* with science, and the *standards* of *ontology* are the *standards* of *science*. The *argument* is an *instance* of *IBE* (Ch. 10, §6): the *best* *explanation* of the *success* of *science* *requires* the *entities*.
+**The *defense* *of* *premise* 1.** The *premise* is the *naturalistic* *thesis*: ontology is *continuous* with science, and the *standards* of *ontology* are the *standards* of *science*. The *argument* is an *instance* of *IBE* (Ch. 10, §6): the *best* *explanation* of the *success* of *science* *requires* the *entities*.
 
-**The *defence* *of* *premise* 2.** The *premise* is *empirical*: the *formulation* of *physics* (quantum mechanics, general relativity, statistical mechanics) *uses* *mathematics* *essentially*. The *use* is *not* *eliminable* *in* *practice*, and the *nominalist* *reformulations* (Field 1980) are *either* *artificial* *or* *incomplete*.
+**The *defense* *of* *premise* 2.** The *premise* is *empirical*: the *formulation* of *physics* (quantum mechanics, general relativity, statistical mechanics) *uses* *mathematics* *essentially*. The *use* is *not* *eliminable* *in* *practice*, and the *nominalist* *reformulations* (Field 1980) are *either* *artificial* *or* *incomplete*.
 
 **The *objections*.
 
@@ -414,7 +414,7 @@ $$
 
 **(i) The *if-thenist* *paraphrase*.** The *fictionalist* *must* *paraphrase* the *apparent* *truths* of $D$ into *conditionals*: “if the *fiction* were *true*, then …” The *paraphrase* is *artificial*, and it *does* not *preserve* the *inferential* *role* of the *original* (the *mathematical* *proof* *uses* the *numbers* *essentially*, and the *paraphrase* *loses* the *proof*).
 
-**(ii) The *attitude* *problem*.** What is the *mental* *state* of the *fictionalist*? Is she *believing* the *fiction*, or *pretending*? If *believing*, she is *committed* to the *entities*; if *pretending*, the *pretence* *does* not *explain* the *seriousness* of *mathematical* *practice*.
+**(ii) The *attitude* *problem*.** What is the *mental* *state* of the *fictionalist*? Is she *believing* the *fiction*, or *pretending*? If *believing*, she is *committed* to the *entities*; if *pretending*, the *pretense* *does* not *explain* the *seriousness* of *mathematical* *practice*.
 
 **(iii) The *inconsistency* *problem*.** The *fictionalist* *uses* the *fiction* to *explain* *why* the *fiction* *is* *useful*. The *explanation* *seems* to *require* the *truth* of the *fiction* (the *numbers* *explain* the *success* of *physics*, and the *explanation* *presupposes* the *numbers*).
 
@@ -422,11 +422,11 @@ $$
 
 ### 5.3 The *state* of the debate
 
-**The *fictionalist* *programme* is *promising* and *incomplete*.
+**The *fictionalist* *program* is *promising* and *incomplete*.
 
-**The *strengths*.** The *programme* *captures* the *intuition* that *mathematics* and *modality* are *not* *descriptions* of *reality* in the *same* *way* as *physics*. The *intuition* is *widespread*, and the *programme* *offers* a *systematic* *articulation*.
+**The *strengths*.** The *program* *captures* the *intuition* that *mathematics* and *modality* are *not* *descriptions* of *reality* in the *same* *way* as *physics*. The *intuition* is *widespread*, and the *program* *offers* a *systematic* *articulation*.
 
-**The *weaknesses*.** The *programme* *struggles* with the *inferential* *role* of the *fiction*, the *attitude* *problem*, and the *inconsistency* *problem*. The *struggles* are *not* *decisive*, but they are *serious*.
+**The *weaknesses*.** The *program* *struggles* with the *inferential* *role* of the *fiction*, the *attitude* *problem*, and the *inconsistency* *problem*. The *struggles* are *not* *decisive*, but they are *serious*.
 
 **The *verdict*.** Fictionalism is a *live* *option*, and it is *more* *defensible* for *some* *domains* (morality, modality) than for *others* (mathematics, physics). The *choice* *depends* on the *cost* of the *alternative* — and the *alternative* (the *realist* *commitment*) is *also* *costly*.
 
@@ -626,7 +626,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 **2. The *set-theoretic* *paradoxes* and the *limits* of *comprehension*.** The *Meinongian* *principle* of *unrestricted* *comprehension* is *structurally* *parallel* to the *naive* *comprehension* *principle* in *set* *theory*, and it is *subject* to the *same* *problems* (Russell’s *paradox*, Burali-Forti, Cantor). The *solutions* (the *iterative* *conception*, the *proper* *classes*, the *paraconsistent* *logic*) are *technical* and *contested* (Ch. 43, §7).
 
-**3. The *ontology* of *fiction*.** The *debate* *between* the *fictionalists* (Walton 1990), the *Meinongians* (Parsons, Zalta), and the *“pretence”* *theorists* (Currie 1990) is a *test* *case* for the *theory* of *existence*. The *philosophical* *stakes* are *high*: the *account* of *fiction* *determines* the *account* of *reference*, *truth*, and *the* *imagination* (Ch. 49, §4).
+**3. The *ontology* of *fiction*.** The *debate* *between* the *fictionalists* (Walton 1990), the *Meinongians* (Parsons, Zalta), and the *“pretense”* *theorists* (Currie 1990) is a *test* *case* for the *theory* of *existence*. The *philosophical* *stakes* are *high*: the *account* of *fiction* *determines* the *account* of *reference*, *truth*, and *the* *imagination* (Ch. 49, §4).
 
 **4. Non-Western *ontologies*.** The *Buddhist* *Abhidharma* *tradition* *developed* a *sophisticated* *ontology* of *dharmas* (irreducible *elements* of *experience*) that is *strikingly* *similar* to the *contemporary* *debate* *between* *substance* and *process* *ontologies* (Ch. 20, §5). The *Nyāya-Vaiśeṣika* *school* *developed* a *realist* *ontology* of *categories* (substance, quality, action, universality, inherence) that is a *systematic* *alternative* to the *Western* *taxonomy*. The *Daoist* *tradition* *developed* a *process* *ontology* that *anticipates* *Whitehead* (Ch. 20, §4). These are *systematic* *alternatives*, not *curiosities* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
 
@@ -641,7 +641,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 - **Quine’s *criterion*** — “to be is to be the *value* of a *bound* *variable*” — *transforms* ontology into a *question* *about* *regimented* *theories*. The *criterion* is *mechanical*, but it is *not* *unique*: the *translation* *scheme* *determines* the *commitments* (*ontological* *relativity*).
 - **The *indispensability* *argument*** — we *ought* to *commit* to the *entities* *indispensable* to *science* — is the *strongest* *argument* *for* *mathematical* *platonism*, and it is *not* *decisive*. The *nominalist* *reformulation*, the *meta-induction*, and the *access* *problem* are *serious* *challenges*.
 - **Parsimony** is the *oldest* *criterion* of *ontology*, and it is *not* a *decision* *procedure*. The *varieties* (quantitative, qualitative, ideological, structural) *can* *conflict*, and the *weight* of the *criterion* is *contested* (Sober vs. Huemer).
-- **Fictionalism** is the *strategy* of *accepting* a *discourse* *without* *ontological* *commitment*. The *problems* (the *if-thenist* *paraphrase*, the *attitude* *problem*, the *inconsistency* *problem*) are *severe*, and the *programme* is *incomplete*.
+- **Fictionalism** is the *strategy* of *accepting* a *discourse* *without* *ontological* *commitment*. The *problems* (the *if-thenist* *paraphrase*, the *attitude* *problem*, the *inconsistency* *problem*) are *severe*, and the *program* is *incomplete*.
 - **The *meta*-debate* (naturalism vs. fundamentalism vs. deflationism) is *unresolved*. A *qualified* *naturalism* is the *most* *defensible* *position*: ontology is *continuous* with *science* in its *standards*, but it *asks* *questions* that *science* *presupposes*.
 - **The *methodology* of *ontology* is *IBE*, with the *criteria* of Ch. 4, §3, *plus* the *ontological* and *ideological* *costs*. The *ontological* *turn* in *anthropology* *raises* the *question* of *whether* the *Western* *ontology* is *one* *among* *many*, and the *experimental* *philosophy* of *ontology* *challenges* the *assumption* of a *univocal* *folk* *concept*.
 

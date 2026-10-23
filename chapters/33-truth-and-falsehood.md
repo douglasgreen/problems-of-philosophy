@@ -13,7 +13,7 @@
 
 Chapter 31 examined *meaning* through the *truth*-*conditional* *tradition*, and it *presupposed* the concept of **truth** without *examining* it. The *presupposition* is *not* *innocent*: if the *meaning* of a *sentence* is its *truth* *conditions*, the *theory* of *meaning* *rests* on the *theory* of *truth*, and a *failure* at the *foundation* *propagates* through the *whole* *semantics*.
 
-This chapter examines the foundation. The *question* — *what is it for a proposition to be true?* — is one of the *oldest* in philosophy, and it has been *transformed* in the *last* *century* by three *developments*: the *Tarskian* *formalisation* of *truth* (1933), the *deflationary* *turn* (Ramsey 1927; Ayer 1936; Quine 1970; Horwich 1990), and the *truthmaker* *revival* (Armstrong 1997, 2004; Bigelow 1988). The *three* *developments* *pull* in *different* *directions*, and the *chapter*'s *thesis* is that the *pull* is *instructive*: the *deflationary* *account* *captures* the *logical* *core* of *truth* (the *T*-schema, the *generalisation* *function*, the *transparency*), the *correspondence* *account* *captures* the *metaphysical* *ground* (the *truthmakers*), and *neither* *captures* the *value* of *truth* (the *normative* *dimension*).
+This chapter examines the foundation. The *question* — *what is it for a proposition to be true?* — is one of the *oldest* in philosophy, and it has been *transformed* in the *last* *century* by three *developments*: the *Tarskian* *formalization* of *truth* (1933), the *deflationary* *turn* (Ramsey 1927; Ayer 1936; Quine 1970; Horwich 1990), and the *truthmaker* *revival* (Armstrong 1997, 2004; Bigelow 1988). The *three* *developments* *pull* in *different* *directions*, and the *chapter*'s *thesis* is that the *pull* is *instructive*: the *deflationary* *account* *captures* the *logical* *core* of *truth* (the *T*-schema, the *generalization* *function*, the *transparency*), the *correspondence* *account* *captures* the *metaphysical* *ground* (the *truthmakers*), and *neither* *captures* the *value* of *truth* (the *normative* *dimension*).
 
 The *thesis* is *qualified* by the *admission* that the *three* are *not* *easily* *combined*, and that the *combination* is the *most* *important* *open* *problem* in the *field*. The *chapter*'s *verdict* is that *truth* is *real* but *thin*, that the *thinness* is *compatible* with a *robust* *metaphysics* of *truthmaking*, and that *neither* *dispenses* with the *value* of *truth*, which is *irreducible* to *both*.
 
@@ -87,7 +87,7 @@ TRUTHMAKING PRAGMATISM DISQUOTATIONALISM
              RELATIVISM ABOUT TRUTH
 ```
 
-**The *structure***. The *map* is a *space* of *positions*, and the *positions* differ on *two* *axes*: (i) whether *truth* is *substantive* (a *real* *property*, to be *analysed*) or *deflationary* (a *logical* *device*, to be *explained* *away*); and (ii) whether the *analysis* is *monistic* (one *account* for all *truths*) or *pluralist* (different *accounts* for different *domains*).
+**The *structure***. The *map* is a *space* of *positions*, and the *positions* differ on *two* *axes*: (i) whether *truth* is *substantive* (a *real* *property*, to be *analyzed*) or *deflationary* (a *logical* *device*, to be *explained* *away*); and (ii) whether the *analysis* is *monistic* (one *account* for all *truths*) or *pluralist* (different *accounts* for different *domains*).
 
 **The *significance***. The *debate* is *not* a *single* *dispute*; it is a *network* of *disputes*, and the *network* is the *subject* of the *chapter*.
 
@@ -163,7 +163,7 @@ $$
 1. & \text{"Snow is white" is *true*.} \\
 2. & \text{"Snow is white" is *logically* *equivalent* to "the *unique* } x \text{ such that } (x = x \wedge \text{snow is white}) = \text{the *unique* } x \text{ such that } (x = x)". \\
 3. & \text{The *two* *sentences* *refer* to the *same* *fact* (the *substitution* *preserves* the *reference*, if the *reference* is *the* *fact*).} \\
-4. & \text{The *argument* *generalises*: *any* *true* *sentence* *refers* to the *same* *fact* (the *Great* *Fact*).} \\
+4. & \text{The *argument* *generalizes*: *any* *true* *sentence* *refers* to the *same* *fact* (the *Great* *Fact*).} \\
 \hline
 5. & \therefore \text{The *correspondence* *theory* *cannot* *distinguish* *facts* (the *facts* *are* *not* *fine*-*grained*).}
 \end{array}
@@ -371,9 +371,9 @@ $$
 
 **The *objections***.
 
-**(i) The *‘*generalisation*’* *objection* (the *most* *serious*; the *contemporary* *literature*; Horwich 1990, Ch. 1). The *word* "true" is *not* *redundant* in *general* *claims* ("Everything she said is true," "Some of his beliefs are true"), and the *redundancy* *theory* *cannot* *account* for the *generalisation*.
+**(i) The *‘*generalization*’* *objection* (the *most* *serious*; the *contemporary* *literature*; Horwich 1990, Ch. 1). The *word* "true" is *not* *redundant* in *general* *claims* ("Everything she said is true," "Some of his beliefs are true"), and the *redundancy* *theory* *cannot* *account* for the *generalization*.
 
-**The *reply***. The *generalisation* is a *logical* *device* (the *infinite* *conjunction* "she said that $p_1$ and $p_1$, and she said that $p_2$ and $p_2$, …"), and the *reply* *grounds* the *generalisation* in the *truth* *predicate* as a *device* for *expressing* the *infinite* *conjunctions*. The *reply* is *contested*.
+**The *reply***. The *generalization* is a *logical* *device* (the *infinite* *conjunction* "she said that $p_1$ and $p_1$, and she said that $p_2$ and $p_2$, …"), and the *reply* *grounds* the *generalization* in the *truth* *predicate* as a *device* for *expressing* the *infinite* *conjunctions*. The *reply* is *contested*.
 
 **(ii) The *‘*opaque* *contexts*’* *objection*. The *truth* *predicate* *behaves* *differently* in *opaque* *contexts* ("Lois believes that 'Superman can fly' is true"), and the *redundancy* *theory* *cannot* *explain* the *difference*.
 
@@ -389,7 +389,7 @@ $$
 \forall s\, (\text{True}(s) \leftrightarrow \text{the *content* of } s)
 $$
 
-**The *virtue***. The *theory* *explains* the *generalisation* (the *truth* *predicate* *expresses* the *infinite* *conjunctions*), and it *avoids* the *metaphysical* *commitments* of the *correspondence* *theory*.
+**The *virtue***. The *theory* *explains* the *generalization* (the *truth* *predicate* *expresses* the *infinite* *conjunctions*), and it *avoids* the *metaphysical* *commitments* of the *correspondence* *theory*.
 
 **The *objections***.
 
@@ -411,7 +411,7 @@ $$
 \text{The *T*-schema} \text{ (the *equivalence* *schema*) *is* the *whole* *theory* of *truth*}
 $$
 
-**The *virtue***. The *theory* *explains* the *generalisation*, the *opaque* *contexts*, and the *T*-schema, *without* the *metaphysical* *commitments* of the *correspondence* *theory*. The *theory* is the *most* *sophisticated* *deflationary* *account*.
+**The *virtue***. The *theory* *explains* the *generalization*, the *opaque* *contexts*, and the *T*-schema, *without* the *metaphysical* *commitments* of the *correspondence* *theory*. The *theory* is the *most* *sophisticated* *deflationary* *account*.
 
 **The *objections***.
 
@@ -437,7 +437,7 @@ $$
 
 **(i) The *‘*no* *property*’* *objection*. The *theory* *denies* that *truth* is a *property*, and the *denial* is *contested* (the *correspondence* *intuition*).
 
-**(ii) The *‘*no* *generalisation*’* *objection*. The *prosentential* *account* *struggles* with the *general* *claims* ("Everything she said is true"), and the *reply* is *contested*.
+**(ii) The *‘*no* *generalization*’* *objection*. The *prosentential* *account* *struggles* with the *general* *claims* ("Everything she said is true"), and the *reply* is *contested*.
 
 ### 5.5 The state of deflationism
 
@@ -445,10 +445,10 @@ $$
 
 | Version | The *strength* | The *weakness* |
 |---|---|---|
-| **Redundancy (Ramsey)** | Simple | The generalisation |
-| **Disquotationalism (Quine)** | Explains generalisation | The normativity; the substantivity |
+| **Redundancy (Ramsey)** | Simple | The generalization |
+| **Disquotationalism (Quine)** | Explains generalization | The normativity; the substantivity |
 | **Minimalism (Horwich)** | Systematic | The value; the correspondence |
-| **Prosententialism (Grover et al.)** | Avoids propositions | The property; the generalisation |
+| **Prosententialism (Grover et al.)** | Avoids propositions | The property; the generalization |
 
 **The *most* *defensible* *version***. A *qualified* *minimalism*: the *T*-schema *exhausts* the *semantics* of "true" (the *deflationary* *insight*), and the *schema* *does* not *exhaust* the *metaphysics* of *truthmaking* (the *correspondence* *insight*) or the *normativity* of *truth* (the *pragmatist* *insight*), *qualified* by the *admission* that the *combination* is *unresolved*.
 
@@ -795,8 +795,8 @@ The *honest* verdict: the *theory* of *truth* is a *field* in *transition*. The 
 | **Correspondence** | Truth is correspondence to fact | Intuitive; objective | The slingshot; the negative truths |
 | **Coherence** | Truth is coherence with the system | Holistic | The isolation objection |
 | **Pragmatism** | Truth is the expedient in belief | Fits the practice | The useful falsehood |
-| **Redundancy** | "True" is redundant | Simple | The generalisation |
-| **Disquotationalism** | "True" is a disquotational device | Explains the generalisation | The normativity |
+| **Redundancy** | "True" is redundant | Simple | The generalization |
+| **Disquotationalism** | "True" is a disquotational device | Explains the generalization | The normativity |
 | **Minimalism** | The T-schema exhausts truth | Systematic | The value; the correspondence |
 | **Prosententialism** | "True" is a prosentence | Avoids propositions | The property |
 | **Truthmaker** | Every truth has a truthmaker | Metaphysically robust | The problem cases |
@@ -830,7 +830,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 - **The *correspondence* *theory*** (Russell, Austin, Armstrong) *grounds* the *truth* in the *world*, and it *faces* the *slingshot*, the *negative*, *general*, and *modal* *truths*.
 - **The *coherence* *theory*** (Bradley, Blanshard) *captures* the *holistic* *character* of *inquiry*, and it *faces* the *isolation* *objection*.
 - **The *pragmatist* *theory*** (Peirce, James, Dewey) *connects* the *truth* to the *practice*, and it *faces* the *useful* *falsehood* *objection*.
-- **The *deflationary* *theories*** (Ramsey, Ayer, Quine, Horwich, Grover et al.) *treat* the *truth* as a *thin* *logical* *device*, and they *face* the *normativity* and the *generalisation* *objections*.
+- **The *deflationary* *theories*** (Ramsey, Ayer, Quine, Horwich, Grover et al.) *treat* the *truth* as a *thin* *logical* *device*, and they *face* the *normativity* and the *generalization* *objections*.
 - **The *truthmaker* *principle*** (Armstrong, Bigelow) *grounds* the *truth* in the *worldly* *entities*, and it *faces* the *problem* *cases* (negative, general, modal, mathematical).
 - **The *alethic* *pluralism*** (Wright, Lynch) *holds* that the *truth* is *plural* (different *kinds* for different *domains*), and it *faces* the *disunity* *objection*.
 - **The *relativism* about *truth*** (MacFarlane) *holds* that the *truth* is *assessment*-*sensitive* (for *some* *domains*), and it *faces* the *self*-*refutation* *objection*.
@@ -846,7 +846,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 3. State the *slingshot* *argument*. Is it *decisive* against the *correspondence* *theory*?
 4. State the *coherence* *theory*. What is the *isolation* *objection*, and is the *reply* *adequate*?
 5. State the *pragmatist* *theory* (James). What is the *useful* *falsehood* *objection*, and is the *reply* *adequate*?
-6. State the *redundancy* *theory*. What is the *generalisation* *objection*?
+6. State the *redundancy* *theory*. What is the *generalization* *objection*?
 7. State the *disquotationalism* (Quine). Is the *theory* *sufficient*?
 8. State the *minimalism* (Horwich). Is the *T*-schema *sufficient* for the *theory* of *truth*?
 9. State the *prosententialism* (Grover et al.). Is the *theory* *defensible*?

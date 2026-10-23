@@ -14,7 +14,7 @@
 
 ---
 
-Chapter 44 examined the *nature* of the moral judgement; Chapter 45 examined its *content*. This chapter examines its *efficacy* — the *machinery* by which a *judgement* becomes a *motive*, a *character*, an *action*, and an *attribution of responsibility*.
+Chapter 44 examined the *nature* of the moral judgment; Chapter 45 examined its *content*. This chapter examines its *efficacy* — the *machinery* by which a *judgment* becomes a *motive*, a *character*, an *action*, and an *attribution of responsibility*.
 
 The *distinction* between the *content* and the *efficacy* is *real*, and the *chapter* is *organized* around it. The *normative* *theories* of Ch. 45 *presuppose* a *psychological* *picture*: the *deontology* *presupposes* the *agent* *capable* of *acting* *from* *duty* (against *inclination*); the *consequentialism* *presupposes* the *agent* *capable* of *impersonal* *calculation* (against the *partiality* of the *emotion*); the *virtue* *ethics* *presupposes* the *agent* *capable* of *habituation* (the *stable* *disposition*). Each *presupposition* is *empirical*, and each is *contested* — and the *contests* are the *subject* of this chapter.
 
@@ -75,21 +75,21 @@ $$
 
 ### 1.3 The besire
 
-**The *thesis*** (Altham, “The Legacy of Emotivism,” 1986, §3; the *contemporary* *literature*). The *besires* are the *states* that are *both* *beliefs* and *desires* (the *moral* *judgements* are the *paradigm*: the *judgement* that *cruelty* *is* *wrong* *represents* the *fact* *and* *disposes* the *agent* to *avoid* the *cruelty*), and the *existence* *refutes* the *Humean* *distinctness* *thesis*.
+**The *thesis*** (Altham, “The Legacy of Emotivism,” 1986, §3; the *contemporary* *literature*). The *besires* are the *states* that are *both* *beliefs* and *desires* (the *moral* *judgments* are the *paradigm*: the *judgment* that *cruelty* *is* *wrong* *represents* the *fact* *and* *disposes* the *agent* to *avoid* the *cruelty*), and the *existence* *refutes* the *Humean* *distinctness* *thesis*.
 
 **The *structure***.
 
 $$
-\text{Moral judgement} \ = \ \text{a state with both the *belief* content and the *desire* direction of fit}
+\text{Moral judgment} \ = \ \text{a state with both the *belief* content and the *desire* direction of fit}
 $$
 
 **The *argument***.
 
 $$
 \begin{array}{ll}
-1. & \text{The *moral* *judgement* *represents* the *fact* (the *belief*-*like* *content*).} \\
-2. & \text{The *moral* *judgement* *disposes* the *agent* to the *action* (the *desire*-*like* *direction*).} \\
-3. & \text{The *judgement* is *indivisible* (the *representation* *and* the *disposition* *are* *one* *state*).} \\
+1. & \text{The *moral* *judgment* *represents* the *fact* (the *belief*-*like* *content*).} \\
+2. & \text{The *moral* *judgment* *disposes* the *agent* to the *action* (the *desire*-*like* *direction*).} \\
+3. & \text{The *judgment* is *indivisible* (the *representation* *and* the *disposition* *are* *one* *state*).} \\
 \hline
 4. & \therefore \text{The *besire* *exists* (the *refutation* of the *Humean* *distinctness*).}
 \end{array}
@@ -106,7 +106,7 @@ $$
 **The *structure***.
 
 $$
-\text{Motivating reason} \ = \ \text{the *fact*} \ (\text{the state of affairs}) \ \text{that} \ \text{counts in favour of the action}
+\text{Motivating reason} \ = \ \text{the *fact*} \ (\text{the state of affairs}) \ \text{that} \ \text{counts in favor of the action}
 $$
 
 **The *argument***.
@@ -152,7 +152,7 @@ $$
 | The *position* | The *strength* | The *weakness* |
 |---|---|---|
 | **Humean** | The *direction* of *fit*; the *explanation* | The *besire*; the *deliberation* |
-| **Besire** | The *unity* of the *judgement* | The *coherence* |
+| **Besire** | The *unity* of the *judgment* | The *coherence* |
 | **Pure cognitivism** | The *facts* as *reasons* | The *no* *goal*; the *causation* |
 
 **The *most* *defensible* *position***. A *qualified* *Humean* *theory*: the *beliefs* and the *desires* are *distinct* (the *Humean* *insight*), the *motivation* *requires* the *conative* *background* (the *direction* of *fit* *insight*), and the *besires* are *not* *distinct* *states* but the *co*-*occurrence* of the *belief* and the *desire* (the *reply*), *qualified* by the *admission* that the *pure* *cognitivism* *remains* *defensible* and the *empirical* *evidence* *is* *compatible* with both.
@@ -163,7 +163,7 @@ $$
 
 ### 2.1 The thesis
 
-**The *debate***. The *motivational* *judgement* *internalism* (MJI): *necessarily*, if an *agent* *judges* that *she* *ought* to $\phi$, then *she* is *at least* *somewhat* *motivated* to $\phi$ (the *necessary* *connection*). The *externalism*: the *connection* is *contingent* (the *empirical* *regularity*, not the *conceptual* *necessity*).
+**The *debate***. The *motivational* *judgment* *internalism* (MJI): *necessarily*, if an *agent* *judges* that *she* *ought* to $\phi$, then *she* is *at least* *somewhat* *motivated* to $\phi$ (the *necessary* *connection*). The *externalism*: the *connection* is *contingent* (the *empirical* *regularity*, not the *conceptual* *necessity*).
 
 **The *structure***.
 
@@ -175,9 +175,9 @@ $$
 
 | The *variety* | The *claim* | The *proponent* |
 |---|---|---|
-| **Strong internalism** | The *judgement* *necessarily* *motivates* *all* *agents* | the *Kantian* *tradition* |
-| **Weak internalism** | The *judgement* *motivates* the *rational* *agents* (the *restricted* form) | Smith 1994 |
-| **Conditional internalism** | The *judgement* *motivates* *unless* the *agent* is *practically* *irrational* | the *contemporary* *literature* |
+| **Strong internalism** | The *judgment* *necessarily* *motivates* *all* *agents* | the *Kantian* *tradition* |
+| **Weak internalism** | The *judgment* *motivates* the *rational* *agents* (the *restricted* form) | Smith 1994 |
+| **Conditional internalism** | The *judgment* *motivates* *unless* the *agent* is *practically* *irrational* | the *contemporary* *literature* |
 | **Externalism** | The *connection* is *empirical* (the *reliable* *correlation*) | Brink 1986 |
 
 **The *significance***. The *debate* *connects* the *metaethics* (the *cognitivism*, the *expressivism*; Ch. 44, §3.2) to the *normative* *ethics* (the *deontology* *requires* the *duty* to *motivate*; Ch. 45, §2) and to the *moral* *psychology* (the *amoralist*, the *psychopath*; §2.3).
@@ -188,27 +188,27 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *moral* *judgements* are *practical* (they *tell* the *agent* what to *do*; the *action*-*guiding* *nature*).} \\
-2. & \text{The *practical* *judgements* *would* be *intolerably* *queer* if they *did* not *motivate* (the *sincerity* *condition*: the *judgement* *without* the *motivation* *is* *insincere*).} \\
-3. & \text{The *sincerity* *condition* *requires* the *internal* *connection* (the *judgement* *motivates* *by* *its* *nature*).} \\
+1. & \text{The *moral* *judgments* are *practical* (they *tell* the *agent* what to *do*; the *action*-*guiding* *nature*).} \\
+2. & \text{The *practical* *judgments* *would* be *intolerably* *queer* if they *did* not *motivate* (the *sincerity* *condition*: the *judgment* *without* the *motivation* *is* *insincere*).} \\
+3. & \text{The *sincerity* *condition* *requires* the *internal* *connection* (the *judgment* *motivates* *by* *its* *nature*).} \\
 \hline
 4. & \therefore \text{The *MJI* *is* *true* (the *internalism* *insight*).}
 \end{array}
 $$
 
-**The *evidence***. The *first*-*person* *experience* (the *judgement* *that* the *cruelty* *is* *wrong* *is* *felt* as a *demand*, not as a *mere* *description*), the *linguistic* *practice* (the *“*you* *say* it is *wrong* but *you* *do* it”* *is a *rebuke*, not a *description*), the *moral* *education* (the *teaching* *of* the *norms* *aims* at the *motivation*).
+**The *evidence***. The *first*-*person* *experience* (the *judgment* *that* the *cruelty* *is* *wrong* *is* *felt* as a *demand*, not as a *mere* *description*), the *linguistic* *practice* (the *“*you* *say* it is *wrong* but *you* *do* it”* *is a *rebuke*, not a *description*), the *moral* *education* (the *teaching* *of* the *norms* *aims* at the *motivation*).
 
-**The *significance*.** The *argument* *grounds* the *internalism* in the *practicality* of the *moral* *judgement*, and the *argument* is *the* *most* *influential* *case* for the *internalism*.
+**The *significance*.** The *argument* *grounds* the *internalism* in the *practicality* of the *moral* *judgment*, and the *argument* is *the* *most* *influential* *case* for the *internalism*.
 
 ### 2.3 The amoralist and the psychopath
 
-**The *amoralist*** (Brink, “Externalist Moral Realism,” 1986; the *contemporary* *literature*). The *agent* *who* *accepts* the *moral* *judgement* *sincerely* (the *slavery* *is* *wrong*) and *remains* *unmoved* (the *no* *motivation*), and the *agent* *is* *not* *irrational* (the *judgement* *and* the *action* *are* *consistent*, *given* the *no* *desire*), and the *possibility* *refutes* the *strong* *internalism*.
+**The *amoralist*** (Brink, “Externalist Moral Realism,” 1986; the *contemporary* *literature*). The *agent* *who* *accepts* the *moral* *judgment* *sincerely* (the *slavery* *is* *wrong*) and *remains* *unmoved* (the *no* *motivation*), and the *agent* *is* *not* *irrational* (the *judgment* *and* the *action* *are* *consistent*, *given* the *no* *desire*), and the *possibility* *refutes* the *strong* *internalism*.
 
 **The *argument*** (the *externalist* *reconstruction*).
 
 $$
 \begin{array}{ll}
-1. & \text{The *amoralist* *is* *conceivable* (the *judgement* *without* the *motivation*).} \\
+1. & \text{The *amoralist* *is* *conceivable* (the *judgment* *without* the *motivation*).} \\
 2. & \text{The *amoralist* *is* *actual* (the *psychopath*, the *sociopath*).} \\
 3. & \text{The *MJI* *denies* the *possibility* (the *necessary* *connection*).} \\
 \hline
@@ -218,7 +218,7 @@ $$
 
 **The *evidence***.
 
-**(i) The *psychopath*** (Blair, “A Cognitive Developmental Approach to Morality,” 1995; the *contemporary* *literature*). The *psychopath* *knows* the *moral* *rules* (the *verbal* *competence*) and *fails* to *feel* the *moral* *emotion* (the *remorse*, the *guilt*, the *empathy*), and the *dissociation* *shows* that the *judgement* and the *motivation* *are* *separable* (the *two*-*track* *picture*), and it *supports* the *externalism* (the *empirical* *insight*).
+**(i) The *psychopath*** (Blair, “A Cognitive Developmental Approach to Morality,” 1995; the *contemporary* *literature*). The *psychopath* *knows* the *moral* *rules* (the *verbal* *competence*) and *fails* to *feel* the *moral* *emotion* (the *remorse*, the *guilt*, the *empathy*), and the *dissociation* *shows* that the *judgment* and the *motivation* *are* *separable* (the *two*-*track* *picture*), and it *supports* the *externalism* (the *empirical* *insight*).
 
 **(ii) The *moral*/*conventional* *distinction*** (Turiel, *The Development of Social Knowledge*, 1983). The *children* *distinguish* the *moral* *norms* (the *harm*, the *justice*) from the *conventional* *norms* (the *dress*, the *etiquette*), and the *psychopaths* *do* not (the *psychopath* *treats* the *moral* *rules* as *conventional*), and the *deficit* *supports* the *view* that the *moral* *knowledge* *is* *tied* to the *affect* (the *VIM*: the *violence* *inhibition* *mechanism*; Blair).
 
@@ -230,7 +230,7 @@ $$
 
 **The *objection***. The *restriction* is *ad hoc* (the *psychopath* *is* *instrumentally* *rational*), and the *reply* is *contested*.
 
-**(ii) The *conceptual* *reply***. The *psychopath* *uses* the *moral* *vocabulary* *without* the *moral* *concepts* (the *deference*, the *parroting*), and the *judgement* *is* *not* *genuine*, and the *reply* *saves* the *internalism*.
+**(ii) The *conceptual* *reply***. The *psychopath* *uses* the *moral* *vocabulary* *without* the *moral* *concepts* (the *deference*, the *parroting*), and the *judgment* *is* *not* *genuine*, and the *reply* *saves* the *internalism*.
 
 **The *objection***. The *conceptual* *reply* *begs* the *question* (the *diagnosis* *of* the *psychopath*'s *concepts* *is* *precisely* the *issue*), and the *reply* is *contested*.
 
@@ -240,12 +240,12 @@ $$
 
 ### 2.4 The two-track picture
 
-**The *thesis*** (the *empirical* *insight*). The *judgement* and the *motivation* are *two* *tracks* (the *cognitive* and the *affective*), and they *normally* *run* *together* (the *development*, the *socialization*), and they *can* *come* *apart* (the *psychopath*, the *acquired* *sociopathy*, the *accidie*, the *depression*), and the *dissociation* *is* the *empirical* *fact*.
+**The *thesis*** (the *empirical* *insight*). The *judgment* and the *motivation* are *two* *tracks* (the *cognitive* and the *affective*), and they *normally* *run* *together* (the *development*, the *socialization*), and they *can* *come* *apart* (the *psychopath*, the *acquired* *sociopathy*, the *accidie*, the *depression*), and the *dissociation* *is* the *empirical* *fact*.
 
 **The *structure***.
 
 $$
-\text{Moral judgement} \ \xrightarrow{\text{the normal development}} \ \text{Moral motivation} \quad \text{and} \quad \text{the dissociation (the psychopath, the accidie)}
+\text{Moral judgment} \ \xrightarrow{\text{the normal development}} \ \text{Moral motivation} \quad \text{and} \quad \text{the dissociation (the psychopath, the accidie)}
 $$
 
 **The *significance*.** The *picture* *reconciles* the *internalism* (the *normal* *connection*) with the *externalism* (the *possible* *dissociation*), and it *grounds* the *moral* *education* in the *two* *tracks* (the *cognitive* *teaching* + the *affective* *cultivation*), and it *connects* the *moral* *psychology* to the *virtue* *ethics* (the *character*; Ch. 45, §3).
@@ -263,7 +263,7 @@ $$
 | **Externalism** | The *empirical* *dissociation* | The *practicality* *lost* |
 | **Two-track** | The *reconciliation* | The *conceptual* *question* |
 
-**The *most* *defensible* *position***. A *qualified* *weak* *internalism* *combined* with the *two*-*track* *picture*: the *moral* *judgement* *normally* *motivates* the *rational* *agent* (the *internal* *insight*), and the *connection* *is* *real* but *defeasible* (the *psychopath*, the *accidie*), and the *defeasibility* *grounds* the *externalism* *insight*, *qualified* by the *admission* that the *conceptual* *question* (the *genuine* *judgement*) *remains* *contested*.
+**The *most* *defensible* *position***. A *qualified* *weak* *internalism* *combined* with the *two*-*track* *picture*: the *moral* *judgment* *normally* *motivates* the *rational* *agent* (the *internal* *insight*), and the *connection* *is* *real* but *defeasible* (the *psychopath*, the *accidie*), and the *defeasibility* *grounds* the *externalism* *insight*, *qualified* by the *admission* that the *conceptual* *question* (the *genuine* *judgment*) *remains* *contested*.
 
 ---
 
@@ -276,7 +276,7 @@ $$
 | The *reason* | The *content* | The *question* |
 |---|---|---|
 | **Motivating** | The *reason* *why* the *agent* *acted* (the *explanation*) | “Why did you do it?” |
-| **Normative** | The *reason* *that* *counts* in *favour* of the *action* (the *justification*) | “What is the reason to do it?” |
+| **Normative** | The *reason* *that* *counts* in *favor* of the *action* (the *justification*) | “What is the reason to do it?” |
 
 **The *significance*.** The *distinction* *separates* the *explanation* from the *justification*, and the *separation* *is* *central* (the *good* *agent* *acts* for the *normative* *reason*, and the *normative* *reason* *becomes* the *motivating* *reason*; the *virtuous* *agent*; Ch. 45, §3.2).
 
@@ -411,10 +411,10 @@ $$
 $$
 \begin{array}{ll}
 1. & \text{The *moral* *responsibility* *requires* the *control*} \ (\text{the *CP*}). \\
-2. & \text{The *moral* *judgement* *depends* on the *factors* *beyond* the *control* (the *outcome*, the *circumstance*, the *character*, the *causes*).} \\
+2. & \text{The *moral* *judgment* *depends* on the *factors* *beyond* the *control* (the *outcome*, the *circumstance*, the *character*, the *causes*).} \\
 3. & \text{The *two* *are* *incompatible* (the *paradox*). \\
 \hline
-4. & \therefore \text{The *responsibility* *collapses* (the *luck* *pessimism*), or the *CP* *is* *false* (the *luck* *realism*), or the *moral* *judgement* is *not* the *responsibility* *judgement* (the *dissolution*).}
+4. & \therefore \text{The *responsibility* *collapses* (the *luck* *pessimism*), or the *CP* *is* *false* (the *luck* *realism*), or the *moral* *judgment* is *not* the *responsibility* *judgment* (the *dissolution*).}
 \end{array}
 $$
 
@@ -541,16 +541,16 @@ $$
 | The *theory* | The *claim* | The *proponent* |
 |---|---|---|
 | **James–Lange** | The *emotion* *is* the *bodily* *feeling* | James 1890; Lange |
-| **Cognitive** | The *emotion* *is* the *judgement* *of* *value* | the *Stoics*; Nussbaum 2001 |
+| **Cognitive** | The *emotion* *is* the *judgment* *of* *value* | the *Stoics*; Nussbaum 2001 |
 | **Perceptual** | The *emotion* *is* the *embodied* *appraisal* | Prinz 2004 |
 | **Attitudinal** | The *emotion* *is* the *evaluative* *attitude* | the *contemporary* *literature* |
 
-**The *thesis*** (Nussbaum, *Upheavals of Thought*, 2001, Ch. 1; the *Stoic* *tradition*). The *emotion* *is* a *judgement* *of* *value* (the *grief* *is* the *judgement* that the *loss* *matters*; the *anger* *is* the *judgement* that the *wrong* *was* *done*), and the *emotion* *is* *rational* (the *fittingness*: the *emotion* *is* *appropriate* *when* the *value* *is* *real*), and the *emotion* *is* *evaluable* (the *emotion* *can* be *justified*, *unjustified*, *inappropriate*).
+**The *thesis*** (Nussbaum, *Upheavals of Thought*, 2001, Ch. 1; the *Stoic* *tradition*). The *emotion* *is* a *judgment* *of* *value* (the *grief* *is* the *judgment* that the *loss* *matters*; the *anger* *is* the *judgment* that the *wrong* *was* *done*), and the *emotion* *is* *rational* (the *fittingness*: the *emotion* *is* *appropriate* *when* the *value* *is* *real*), and the *emotion* *is* *evaluable* (the *emotion* *can* be *justified*, *unjustified*, *inappropriate*).
 
 **The *structure***.
 
 $$
-\text{Emotion} \ E \ = \ \text{the *judgement* that} \ V \ \text{matters (the *value* *judgement*)} \ + \ \text{the *bodily* *arousal* (the *affect*)} + \ \text{the *action* *tendency*}
+\text{Emotion} \ E \ = \ \text{the *judgment* that} \ V \ \text{matters (the *value* *judgment*)} \ + \ \text{the *bodily* *arousal* (the *affect*)} + \ \text{the *action* *tendency*}
 $$
 
 **The *argument*** (Nussbaum 2001, Ch. 1).
@@ -559,17 +559,17 @@ $$
 \begin{array}{ll}
 1. & \text{The *emotions* *have* the *intentional* *objects* (the *grief* *is* *about* the *loss*; the *anger* *is* *about* the *wrong*).} \\
 2. & \text{The *intentional* *objects* *are* *evaluated* (the *loss* *is* *seen* *as* *the* *loss*; the *wrong* *is* *seen* *as* the *wrong*).} \\
-3. & \text{The *evaluation* *is* the *judgement* *of* *value* (the *propositional* *content*, the *appraisal*).} \\
+3. & \text{The *evaluation* *is* the *judgment* *of* *value* (the *propositional* *content*, the *appraisal*).} \\
 \hline
-4. & \therefore \text{The *emotions* *are* *value* *judgements* (the *cognitive* *insight*), and they *can* be *rational* (the *rational* *insight*).}
+4. & \therefore \text{The *emotions* *are* *value* *judgments* (the *cognitive* *insight*), and they *can* be *rational* (the *rational* *insight*).}
 \end{array}
 $$
 
 **The *virtue***. The *account* *captures* the *normative* *structure* of the *emotion* (the *fittingness*), and it *fits* the *practice* (the *emotion* *can* be *criticized*, *educated*, *recalcitrant*), and it *grounds* the *moral* *perception* (the *emotion* *presents* the *value*; Ch. 44, §6.2).
 
-**The *objection***. The *cognitive* *theory* *over*-*intellectualizes* the *emotion* (the *emotion* *is* *felt* *before* the *judgement*; the *infant*'s *fear*; the *animal*'s *fear*), and the *account* *confuses* the *emotion* with the *cognition* about it, and the *reply* *fails*.
+**The *objection***. The *cognitive* *theory* *over*-*intellectualizes* the *emotion* (the *emotion* *is* *felt* *before* the *judgment*; the *infant*'s *fear*; the *animal*'s *fear*), and the *account* *confuses* the *emotion* with the *cognition* about it, and the *reply* *fails*.
 
-**The *reply*** (Prinz 2004, Ch. 1–2). The *emotion* *is* *the* *perception* of the *change* *in* the *body* (the *embodied* *appraisal*: the *perception* *represents* the *value* *without* the *explicit* *judgement*), and the *reply* *grounds* the *emotion* in the *perception*. The *reply* is *defensible*.
+**The *reply*** (Prinz 2004, Ch. 1–2). The *emotion* *is* *the* *perception* of the *change* *in* the *body* (the *embodied* *appraisal*: the *perception* *represents* the *value* *without* the *explicit* *judgment*), and the *reply* *grounds* the *emotion* in the *perception*. The *reply* is *defensible*.
 
 ### 5.2 The fittingness of the emotion
 
@@ -610,7 +610,7 @@ $$
 \begin{array}{ll}
 1. & \text{The *empathy* *is* a *spotlight* (the *narrow*, *vivid*, *parochial* *illumination*).} \\
 2. & \text{The *morality* *requires* the *impartial* *aggregation* (the *numbers*, the *distance*, the *strangers*).} \\
-3. & \text{The *empathy* *misleads* the *moral* *judgement* (the *identifiable* *victim*, the *in-group*).} \\
+3. & \text{The *empathy* *misleads* the *moral* *judgment* (the *identifiable* *victim*, the *in-group*).} \\
 \hline
 4. & \therefore \text{The *empathy* *is* *not* the *moral* *compass* (the *Bloom* *insight*), and the *reason* *must* *correct* the *empathy* (the *rationalist* *insight*).}
 \end{array}
@@ -631,7 +631,7 @@ $$
 
 **The *Kohlberg*-*Gilligan* *debate***. The *Kohlberg* *stages* *privilege* the *justice* *reasoning* (the *rights*, the *rules*), and the *Gilligan* *critique* *shows* that the *care* *reasoning* (the *relationships*, the *responsiveness*) *is* a *distinct* *orientation* (not a *lower* *stage*), and the *critique* *grounds* the *care* *ethics* (the *relational* *insight*).
 
-**The *Haidt* *model***. The *intuition* *comes* *first* (the *System* *1*), and the *reasoning* *follows* (the *System* *2*; the *post* *hoc* *rationalization*; the *“*rider*”* on the *“*elephant*”*), and the *moral* *judgement* *is* *mostly* *intuitive*, and the *reasoning* *is* *mostly* *the* *social* *negotiation* (the *persuasion*, the *reputation*).
+**The *Haidt* *model***. The *intuition* *comes* *first* (the *System* *1*), and the *reasoning* *follows* (the *System* *2*; the *post* *hoc* *rationalization*; the *“*rider*”* on the *“*elephant*”*), and the *moral* *judgment* *is* *mostly* *intuitive*, and the *reasoning* *is* *mostly* *the* *social* *negotiation* (the *persuasion*, the *reputation*).
 
 **The *evidence***. The *moral* *dumbfounding* (Haidt, Bjorklund & Murphy, 2000: the *subjects* *condemn* the *harmless* *incest* and *cannot* *justify* the *condemnation*), the *confabulation* (Nisbett & Wilson 1977), the *dual* *process* (Kahneman, *Thinking, Fast and Slow*, 2011).
 
@@ -670,7 +670,7 @@ $$
 
 ### 6.2 The Aristotelian reply
 
-**The *thesis*** (Aristotle, *NE*, VII.3–4). The *akrasia* *is* *real*, and the *explanation* is the *practical* *syllogism* (the *universal* *premise*: the *dry* *food* *is* *good* *for* the *health*; the *particular* *premise*: the *sweet* *thing* *is* *dry*), and the *akratic* *has* the *knowledge* but *does* not *use* it (the *particular* *premise* *obscured* by the *appetite*), and the *incontinence* *is* *the* *defect* of the *character* (the *passion* *overcomes* the *judgement*).
+**The *thesis*** (Aristotle, *NE*, VII.3–4). The *akrasia* *is* *real*, and the *explanation* is the *practical* *syllogism* (the *universal* *premise*: the *dry* *food* *is* *good* *for* the *health*; the *particular* *premise*: the *sweet* *thing* *is* *dry*), and the *akratic* *has* the *knowledge* but *does* not *use* it (the *particular* *premise* *obscured* by the *appetite*), and the *incontinence* *is* *the* *defect* of the *character* (the *passion* *overcomes* the *judgment*).
 
 **The *structure***.
 
@@ -678,11 +678,11 @@ $$
 \text{Akrasia} = \text{the *universal* knowledge *present* but the *particular* premise *obscured* (the *passion*)}
 $$
 
-**The *significance***. The *reply* *preserves* the *knowledge* (the *no* *ignorance* *of* the *universal*) and *explains* the *failure* (the *particular*), and it *grounds* the *continence* (the *enkrateia*: the *victory* of the *judgement* *over* the *appetite*), and it *fits* the *experience* (the *drunk* *recites* *Empedocles*).
+**The *significance***. The *reply* *preserves* the *knowledge* (the *no* *ignorance* *of* the *universal*) and *explains* the *failure* (the *particular*), and it *grounds* the *continence* (the *enkrateia*: the *victory* of the *judgment* *over* the *appetite*), and it *fits* the *experience* (the *drunk* *recites* *Empedocles*).
 
 ### 6.3 The Davidsonian account
 
-**The *thesis*** (Davidson, “How Is Weakness of Will Possible?” 1969, in *Essays on Actions and Events*, 1980). The *akratic* *action* *is* *intentional* (the *agent* *does* it *willingly*), and the *intentional* *action* *is* the *action* *that* is *better* *than* the *alternative* *in* the *light* of the *reasons*, and the *akratic* *judges* *both* (the *all*-*things*-*considered*: the *$\phi$* is *better*; the *sans* *phrase*: the *$\phi$* is *better* *here* *and* *now*), and the *two* *judgements* *are* *consistent* (the *conditional* *judgement* vs. the *unconditional*), and the *akrasia* *is* *the* *action* *against* the *all*-*things*-*considered* *judgement* *on* the *unconditional* *judgement*.
+**The *thesis*** (Davidson, “How Is Weakness of Will Possible?” 1969, in *Essays on Actions and Events*, 1980). The *akratic* *action* *is* *intentional* (the *agent* *does* it *willingly*), and the *intentional* *action* *is* the *action* *that* is *better* *than* the *alternative* *in* the *light* of the *reasons*, and the *akratic* *judges* *both* (the *all*-*things*-*considered*: the *$\phi$* is *better*; the *sans* *phrase*: the *$\phi$* is *better* *here* *and* *now*), and the *two* *judgments* *are* *consistent* (the *conditional* *judgment* vs. the *unconditional*), and the *akrasia* *is* *the* *action* *against* the *all*-*things*-*considered* *judgment* *on* the *unconditional* *judgment*.
 
 **The *structure***.
 
@@ -699,18 +699,18 @@ $$
 $$
 \begin{array}{ll}
 1. & \text{The *akratic* *action* *is* *intentional* (the *agent* *does* it *for* *reasons*).} \\
-2. & \text{The *intentional* *action* *is* *better* *in* *the* *light* *of* *the* *agent*'s *reasons* (the *unconditional* *judgement*).} \\
-3. & \text{The *unconditional* *judgement* *is* *consistent* *with* the *all*-*things*-*considered* *judgement* (the *logical* *point*).} \\
+2. & \text{The *intentional* *action* *is* *better* *in* *the* *light* *of* *the* *agent*'s *reasons* (the *unconditional* *judgment*).} \\
+3. & \text{The *unconditional* *judgment* *is* *consistent* *with* the *all*-*things*-*considered* *judgment* (the *logical* *point*).} \\
 \hline
 4. & \therefore \text{The *akrasia* *is* *possible* *without* *the* *contradiction* (the *Davidson* *insight*).}
 \end{array}
 $$
 
-**The *virtue***. The *account* *preserves* the *intentionality* of the *akratic* *action* (the *no* *reduction* to the *compulsion*), and it *avoids* the *contradiction* (the *consistency* *of* the *judgements*), and it *fits* the *phenomenology* (the *agent* *knows* better and *does* it *anyway*).
+**The *virtue***. The *account* *preserves* the *intentionality* of the *akratic* *action* (the *no* *reduction* to the *compulsion*), and it *avoids* the *contradiction* (the *consistency* *of* the *judgments*), and it *fits* the *phenomenology* (the *agent* *knows* better and *does* it *anyway*).
 
-**The *objection***. The *account* *misdescribes* the *akrasia* (the *akratic* *judges* the *$\phi$* as *better* *simpliciter*, and the *action* *against* the *judgement* *is* *the* *irrationality*; the *conditional* *vs.* the *unconditional* *distinction* *is* *ad* *hoc*), and the *reply* *fails*.
+**The *objection***. The *account* *misdescribes* the *akrasia* (the *akratic* *judges* the *$\phi$* as *better* *simpliciter*, and the *action* *against* the *judgment* *is* *the* *irrationality*; the *conditional* *vs.* the *unconditional* *distinction* *is* *ad* *hoc*), and the *reply* *fails*.
 
-**The *reply*** (the *contemporary* *literature*). The *distinction* *is* *real* (the *conditional* *judgement* “*if* *I* *consider* *only* *the* *health*, the *$\phi$* *is* better” *vs.* the *unconditional*), and the *reply* *grounds* the *distinction* in the *deliberation*. The *reply* is *contested*.
+**The *reply*** (the *contemporary* *literature*). The *distinction* *is* *real* (the *conditional* *judgment* “*if* *I* *consider* *only* *the* *health*, the *$\phi$* *is* better” *vs.* the *unconditional*), and the *reply* *grounds* the *distinction* in the *deliberation*. The *reply* is *contested*.
 
 ### 6.4 The willpower science
 
@@ -753,12 +753,12 @@ $$
 | The *position* | The *strength* | The *weakness* |
 |---|---|---|
 | **Socratic** | The *no* *contradiction* | The *counterintuitive* |
-| **Aristotelian** | The *practical* *syllogism* | The *no* *explanation* of the *akratic* *judgement* |
+| **Aristotelian** | The *practical* *syllogism* | The *no* *explanation* of the *akratic* *judgment* |
 | **Davidsonian** | The *consistency* | The *conditional* *vs.* *unconditional* |
 | **Willpower muscle** | The *metaphor* | The *replication* |
 | **Architecture** | The *robust* *evidence* | The *inner* *agency* |
 
-**The *most* *defensible* *position***. A *qualified* *Davidsonian* *account* *combined* with the *architecture* *insight*: the *akrasia* *is* *the* *action* *against* the *all*-*things*-*considered* *judgement* (the *Davidson* *insight*), *explained* by the *competing* *motivation* (the *particular* *premise*; the *Aristotelian* *insight*), *remedied* by the *architecture* (the *plans*, the *habits*, the *commitments*; the *architecture* *insight*), *qualified* by the *admission* that the *ego* *depletion* and the *marshmallow* *prediction* *are* *not* *robust*.
+**The *most* *defensible* *position***. A *qualified* *Davidsonian* *account* *combined* with the *architecture* *insight*: the *akrasia* *is* *the* *action* *against* the *all*-*things*-*considered* *judgment* (the *Davidson* *insight*), *explained* by the *competing* *motivation* (the *particular* *premise*; the *Aristotelian* *insight*), *remedied* by the *architecture* (the *plans*, the *habits*, the *commitments*; the *architecture* *insight*), *qualified* by the *admission* that the *ego* *depletion* and the *marshmallow* *prediction* *are* *not* *robust*.
 
 ---
 
@@ -766,7 +766,7 @@ $$
 
 ### 7.1 The thesis
 
-**The *thesis*** (Greenwald & Banaji, “Implicit Social Cognition,” 1995; Greenwald, McGhee & Schwartz, “Measuring Individual Differences in Implicit Cognition: The Implicit Association Test,” 1998; the *contemporary* *literature*). The *implicit* *biases* *are* the *unconscious* *associations* (the *stereotype*-*congruent* *links*) that *influence* the *judgement* and the *behaviour* *without* the *agent*'s *awareness* or *endorsement*, and the *biases* *are* *measured* by the *Implicit* *Association* *Test* (the *IAT*), and the *biases* *are* *widespread* (the *even* *the* *agents* *who* *disavow* the *stereotypes* *show* the *bias*).
+**The *thesis*** (Greenwald & Banaji, “Implicit Social Cognition,” 1995; Greenwald, McGhee & Schwartz, “Measuring Individual Differences in Implicit Cognition: The Implicit Association Test,” 1998; the *contemporary* *literature*). The *implicit* *biases* *are* the *unconscious* *associations* (the *stereotype*-*congruent* *links*) that *influence* the *judgment* and the *behavior* *without* the *agent*'s *awareness* or *endorsement*, and the *biases* *are* *measured* by the *Implicit* *Association* *Test* (the *IAT*), and the *biases* *are* *widespread* (the *even* *the* *agents* *who* *disavow* the *stereotypes* *show* the *bias*).
 
 **The *structure***.
 
@@ -782,7 +782,7 @@ $$
 
 **(i) The *IAT*** (Greenwald et al. 1998). The *reaction* *time* *advantage* for the *congruent* *pairings* (the *white*/*good*; the *black*/*bad*), and the *score* *measures* the *associative* *strength*, and the *widespread* *results* (the *most* *people* *show* the *bias*).
 
-**(ii) The *predictive* *validity*** (Oswald, Mitchell, Blanton, Jaccard & Tetlock, “Predicting Ethnic and Racial Discrimination: A Meta-Analysis of IAT Criterion Studies,” 2013). The *correlation* with the *behaviour* *is* *small* (the *r* ≈ .15; the *aggregate* *prediction* *better* than the *individual*), and the *test*-*retest* *reliability* *is* *low* (the *r* ≈ .25–.6; Cunningham, Preacher & Banaji, 2001), and the *measure* *has* the *limitations*.
+**(ii) The *predictive* *validity*** (Oswald, Mitchell, Blanton, Jaccard & Tetlock, “Predicting Ethnic and Racial Discrimination: A Meta-Analysis of IAT Criterion Studies,” 2013). The *correlation* with the *behavior* *is* *small* (the *r* ≈ .15; the *aggregate* *prediction* *better* than the *individual*), and the *test*-*retest* *reliability* *is* *low* (the *r* ≈ .25–.6; Cunningham, Preacher & Banaji, 2001), and the *measure* *has* the *limitations*.
 
 **(iii) The *reply*** (Greenwald, Banaji & Nosek, 2015). The *small* *effects* *can* *have* the *large* *societal* *consequences* (the *aggregate*), and the *bias* *is* *a* *group*-*level* *phenomenon* (the *aggregate* *prediction*), and the *reply* *defends* the *measure*.
 
@@ -917,7 +917,7 @@ $$
 |---|---|---|
 | **The *expertise* *exists*** | The *moral* *expertise* *exists* (the *training*, the *virtue*, the *judgment*) | The *practice* (the *ethics* *committees*, the *courts*, the *clinicians*) |
 | **The *expertise* *is* *limited*** | The *expertise* *exists* but *not* *transmissible* (the *understanding*; §8.2) | The *Hills* *asymmetry* |
-| **The *expertise* *is* *impossible*** | The *moral* *judgement* *requires* the *first*-*person* *engagement* (the *autonomy*) | The *disagreement* (the *experts* *disagree*) |
+| **The *expertise* *is* *impossible*** | The *moral* *judgment* *requires* the *first*-*person* *engagement* (the *autonomy*) | The *disagreement* (the *experts* *disagree*) |
 
 **The *argument* (the *no*-*expertise* *worry***; Ch. 44, §6.5).
 
@@ -953,7 +953,7 @@ $$
 ### 9.1 What is settled
 
 - **The *Humean* *theory* of *motivation*** (the *belief*/*desire* *distinctness*, the *direction* of *fit*, the *conative* *necessity*) is *defensible*, and the *besire* and the *pure* *cognitivism* are *serious* *challenges* (the *contested*).
-- **The *internalism*** (the *judgement* *motivates*) is *defensible* in the *weak* and the *conditional* forms, and the *two*-*track* *picture* (the *judgement* and the *motivation* *can* *dissociate*: the *psychopath*, the *accidie*) is the *most* *promising* *reconciliation* (the *empirical* *insight*).
+- **The *internalism*** (the *judgment* *motivates*) is *defensible* in the *weak* and the *conditional* forms, and the *two*-*track* *picture* (the *judgment* and the *motivation* *can* *dissociate*: the *psychopath*, the *accidie*) is the *most* *promising* *reconciliation* (the *empirical* *insight*).
 - **The *internal* *reasons*** (the *grounding* in the *S*) and the *external* *reasons* (the *categorical* *demand*) are *both* *defensible*, and the *instrumental* *conception* is *seriously* *contested* (the *bootstrapping*, the *no* *substance*, the *toxin* *puzzle*).
 - **The *moral* *luck*** is *real*, and the *attributability*/*accountability* *distinction* *dissolves* the *paradox* (the *quality* of *will* *insight*), and the *epistemic* *condition* *is* *traced* (the *tracing* *insight*), and the *ignorance* *is* *often* *affected* (the *social* *insight*).
 - **The *emotions*** are *evaluable* (the *fittingness*), and the *empathy* *motivates* *but* *biases* (the *identifiable* *victim*, the *in-group*, the *scope* *insensitivity*), and the *development* *is* *dual*-*process* (the *intuition* *first*, the *reason* *after*).
@@ -978,7 +978,7 @@ $$
 |---|---|---|---|
 | **Humean theory** | The *belief* alone cannot *motivate* | The *direction* of *fit* | The *besire*; the *deliberation* |
 | **Pure cognitivism** | The *facts* *motivate* | The *facts* as *reasons* | The *goal*; the *causation* |
-| **Strong internalism** | The *judgement* *necessarily* *motivates* | The *practicality* | The *amoralist*; the *psychopath* |
+| **Strong internalism** | The *judgment* *necessarily* *motivates* | The *practicality* | The *amoralist*; the *psychopath* |
 | **Externalism** | The *connection* is *contingent* | The *dissociation* | The *practicality* *lost* |
 | **Internal reasons** | The *reasons* *grounded* in the *S* | The *naturalism* | The *obligation* |
 | **External reasons** | The *categorical* *reasons* | The *demand* | The *obscurity* |
@@ -1058,9 +1058,9 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 ## Summary
 
-- **The *practical* *reason*** *is* the *machinery* by which the *judgement* becomes the *motive*, the *action*, and the *responsibility*, and the *chapter* *examines* the *machinery* *mechanism* by *mechanism*.
+- **The *practical* *reason*** *is* the *machinery* by which the *judgment* becomes the *motive*, the *action*, and the *responsibility*, and the *chapter* *examines* the *machinery* *mechanism* by *mechanism*.
 - **The *Humean* *theory*** (the *belief*/*desire* *distinctness*, the *direction* of *fit*, the *conative* *necessity*) is *defensible*, and the *besire* and the *pure* *cognitivism* are *serious* *challenges* (the *contested*).
-- **The *internalism*** (the *judgement* *motivates*) is *defensible* in the *weak* and *conditional* forms, and the *two*-*track* *picture* (the *judgement* and the *motivation* *can* *dissociate*: the *psychopath*, the *accidie*, the *acquired* *sociopathy*) is the *most* *promising* *reconciliation*.
+- **The *internalism*** (the *judgment* *motivates*) is *defensible* in the *weak* and *conditional* forms, and the *two*-*track* *picture* (the *judgment* and the *motivation* *can* *dissociate*: the *psychopath*, the *accidie*, the *acquired* *sociopathy*) is the *most* *promising* *reconciliation*.
 - **The *reasons*** *are* *internal* (the *S* *grounds*) and *external* (the *categorical* *demand*), and the *instrumental* *conception* is *contested* (the *bootstrapping*, the *no* *substance*, the *toxin* *puzzle*), and the *exclusionary* *reasons* (Raz) *explain* the *authority*.
 - **The *moral* *luck*** is *real*, and the *attributability*/*accountability* *distinction* *dissolves* the *paradox* (the *quality* of *will*), and the *epistemic* *condition* is *traced* (the *tracing*), and the *ignorance* is *often* *affected* (the *social* *epistemic*).
 - **The *emotions*** are *evaluable* (the *fittingness*), and the *empathy* *motivates* *but* *biases* (the *identifiable* *victim*, the *in-group*, the *scope* *insensitivity*), and the *development* is *dual*-*process* (the *intuition* *first*, the *reason* *after*).
@@ -1090,7 +1090,7 @@ Cross-cutting material, for the reader who wants to go deeper.
 15. State the *fittingness* *vs.* the *warrant* *distinction* (D'Arms & Jacobson). What does the *recalcitrant* *emotion* *show*?
 16. State the *empathy*-*altruism* *hypothesis* (Batson). Is the *egoism* *refuted*?
 17. State the *empathy* *critique* (Bloom). Is the *empathy* *the* *moral* *compass*, or the *spur*?
-18. State the *Haidt* *social* *intuitionist* *model*. Is the *moral* *judgement* *mostly* *intuitive*?
+18. State the *Haidt* *social* *intuitionist* *model*. Is the *moral* *judgment* *mostly* *intuitive*?
 19. State the *Socratic* *paradox* and the *Aristotelian* *reply*. Is the *akrasia* *possible*?
 20. State the *Davidsonian* *account* of the *akrasia*. Is the *conditional* *vs.* *unconditional* *distinction* *defensible*?
 21. What does the *ego* *depletion* *replication* *failure* *show* about the *willpower* *science*?
@@ -1114,6 +1114,6 @@ Cross-cutting material, for the reader who wants to go deeper.
 
 ---
 
-> *A closing note.* This chapter has followed the *practical* *reason* and the *moral* *psychology* — the *Humean* *theory*, the *internalism*, the *reasons*, the *moral* *luck*, the *emotions*, the *willpower*, the *implicit* *bias*, and the *testimony* — and it has arrived at a *conclusion* that is less a *theory* than a *portrait*: the *moral* *agent* is a *two*-*track* *creature* (the *reason* and the *emotion*, the *judgement* and the *motivation*, the *will* and the *architecture*), and the *mechanisms* *are* *real*, and the *empirical* *evidence* is *fragile*, and the *debate* is *unresolved* — not because the *philosophy* has *failed*, but because the *agent* is *complex*, and the *complexity* is the *subject*.
+> *A closing note.* This chapter has followed the *practical* *reason* and the *moral* *psychology* — the *Humean* *theory*, the *internalism*, the *reasons*, the *moral* *luck*, the *emotions*, the *willpower*, the *implicit* *bias*, and the *testimony* — and it has arrived at a *conclusion* that is less a *theory* than a *portrait*: the *moral* *agent* is a *two*-*track* *creature* (the *reason* and the *emotion*, the *judgment* and the *motivation*, the *will* and the *architecture*), and the *mechanisms* *are* *real*, and the *empirical* *evidence* is *fragile*, and the *debate* is *unresolved* — not because the *philosophy* has *failed*, but because the *agent* is *complex*, and the *complexity* is the *subject*.
 
 > *And a bridge.* The next chapter turns to the *political* *philosophy* — the *justice*, the *freedom*, the *legitimacy*, the *democracy*. If the *practical* *reason* is the *psychology* of the *individual* *agent*, the *political* *philosophy* is the *architecture* of the *collective* *agent*, and the *two* *are* *connected*: the *normative* *theories* (Ch. 45) *apply* to the *collective* *choices*, the *practical* *reason* *constrains* the *political* *design* (the *self*-*control* *architecture* *is* the *public* *institutions*; the *implicit* *bias* *is* the *institutional* *design*), and the *responsibility* is the *political* *responsibility* (the *structural*, the *collective*). The *next* *chapter* *examines* the *political* *philosophy*, and it *asks* the *question* that the *practical* *reason* *presupposes*: *who* *has* the *authority* *to* *decide*, and *why*?

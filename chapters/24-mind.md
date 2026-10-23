@@ -120,7 +120,7 @@ THEORY    (realization)  (eliminated)
 
 $$
 \begin{array}{ll}
-1. & \text{I can *doubt* that I have a body (the *sceptical* *premise*; Ch. 6, §2).} \\
+1. & \text{I can *doubt* that I have a body (the *skeptical* *premise*; Ch. 6, §2).} \\
 2. & \text{I *cannot* *doubt* that I have a *mind* (the *cogito*).} \\
 3. & \text{If *A* can be *doubted* and *B* cannot, *A* is *not* *B*.} \\
 \hline
@@ -167,7 +167,7 @@ $$
 
 **The *objection*.** The *view* *abandons* the *efficacy* of the *mental*, and it *makes* *God* the *only* *cause*.
 
-**(ii) Parallelism** (Leibniz, *Monadology*, 1714). The *mind* and the *body* *run* in *parallel*, like *two* *clocks* *synchronised* by *God*, and they *do* not *interact*.
+**(ii) Parallelism** (Leibniz, *Monadology*, 1714). The *mind* and the *body* *run* in *parallel*, like *two* *clocks* *synchronized* by *God*, and they *do* not *interact*.
 
 **The *objection*.** The *view* *is* *ad* *hoc*, and it *does* not *explain* the *correlations*.
 
@@ -304,7 +304,7 @@ The *mental* *state* is *the* *occupant* of the *role*; the *physical* *state* i
 
 The *mental* *state* is a *state* $q_i$, and the *transition* *function* *defines* the *causal* *role*.
 
-**The *virtue*.** The *account* *provides* a *precise* *model* of the *causal* *role*, and it *generates* the *research* *programme* of *cognitive* *science*.
+**The *virtue*.** The *account* *provides* a *precise* *model* of the *causal* *role*, and it *generates* the *research* *program* of *cognitive* *science*.
 
 **The *objection*.** The *account* *is* *too* *liberal*: *any* *system* with the *right* *transition* *function* *has* *mental* *states*, including *thermostats*, *collections* of *rocks*, and the *economy*. The *objection* is the **liberality* *problem*** (Block 1978), and it is the *central* *objection* to *machine-state* *functionalism*.
 
@@ -442,7 +442,7 @@ $$
 
 $$
 \begin{array}{ll}
-1. & \text{The *folk* *theory* *posits* *theoretical* *entities* (beliefs, desires) to *explain* *behaviour*.} \\
+1. & \text{The *folk* *theory* *posits* *theoretical* *entities* (beliefs, desires) to *explain* *behavior*.} \\
 2. & \text{The *theory* is *stagnant* and *incomplete* (it does not *explain* *mental* *illness*, *dreams*, *memory*, *learning*).} \\
 3. & \text{The *theory* is *scientifically* *inferior* to *neuroscience* (the *replacement* *theory*).} \\
 \hline
@@ -458,7 +458,7 @@ $$
 
 **(i) The *self-refutation* *objection*. The *eliminativist* *argument* is *itself* a *piece* of *folk* *psychology* (it *uses* *beliefs* and *desires* to *explain* the *theory*’s *failure*), and the *argument* *undermines* *itself*.
 
-**(ii) The *explanatory* *success* *objection*. The *folk* *theory* is *spectacularly* *successful*: it *predicts* the *behaviour* of *conspecifics*, and it *supports* *social* *interaction*, *law*, *morality*, and *psychology*. The *success* *is* *evidence* that the *entities* are *real* (Ch. 10, §6).
+**(ii) The *explanatory* *success* *objection*. The *folk* *theory* is *spectacularly* *successful*: it *predicts* the *behavior* of *conspecifics*, and it *supports* *social* *interaction*, *law*, *morality*, and *psychology*. The *success* *is* *evidence* that the *entities* are *real* (Ch. 10, §6).
 
 **(iii) The *introspective* *objection*. We *know* our *own* *beliefs* and *desires* *by* *introspection* (Ch. 12, §6; Ch. 26, §6), and the *introspective* *evidence* is *not* *eliminated* by the *neuroscience*. (The *eliminativist* *reply*: the *introspective* *evidence* is *itself* a *construction* of the *brain*, and it is *compatible* with *eliminativism*.)
 
@@ -468,7 +468,7 @@ $$
 
 **The *statement*.** Dennett, *The Intentional Stance* (1987), and *Consciousness Explained* (1991).
 
-**The *structure*.** The *intentional* *stance* is a *strategy*: *treat* the *system* as if it had *beliefs* and *desires*, and *predict* its *behaviour* from the *predictions*. The *stance* is *justified* by its *predictive* *success*, and *not* by the *existence* of the *entities*.
+**The *structure*.** The *intentional* *stance* is a *strategy*: *treat* the *system* as if it had *beliefs* and *desires*, and *predict* its *behavior* from the *predictions*. The *stance* is *justified* by its *predictive* *success*, and *not* by the *existence* of the *entities*.
 
 **The *virtue*.** The *view* *avoids* the *eliminativist* *consequence* (the *folk* *psychology* *survives* as an *instrument*) and the *realist* *consequence* (the *entities* are *real*).
 
@@ -625,11 +625,11 @@ $$
 
 Cross-cutting material, for the reader who wants to go deeper.
 
-**1. The *interventionist* *solution* to the *exclusion* *problem*.** If *causation* is *intervention* (Ch. 18, §3), the *exclusion* *argument* *fails* because it *assumes* a *counterfactual* *account* of *causation*. The *interventionist* *account* *allows* *multiple* *causes* at *different* *levels* — the *mental* *intervention* *changes* the *behaviour*, and the *physical* *intervention* *changes* the *behaviour* — and the *two* *are* *compatible*. The *solution* is *promising* and *contested*.
+**1. The *interventionist* *solution* to the *exclusion* *problem*.** If *causation* is *intervention* (Ch. 18, §3), the *exclusion* *argument* *fails* because it *assumes* a *counterfactual* *account* of *causation*. The *interventionist* *account* *allows* *multiple* *causes* at *different* *levels* — the *mental* *intervention* *changes* the *behavior*, and the *physical* *intervention* *changes* the *behavior* — and the *two* *are* *compatible*. The *solution* is *promising* and *contested*.
 
 **2. The *phenomenal* *concepts* *strategy*.** The *strategy* (Loar 1990; Papineau 2002; Chalmers 2003) *argues* that the *explanatory* *gap* is an *epistemic* *illusion*: the *phenomenal* *concepts* *refer* to the *physical* *states* *under* a *first-person* *mode* *of* *presentation*, and the *gap* is the *gap* between the *two* *modes*, not between *two* *kinds* of *state*. The *strategy* is *influential* and *contested* (Ch. 24, §4).
 
-**3. The *predictive* *processing* *account* of the *mind*.** The *predictive* *processing* *framework* (Ch. 5, §5.2) *offers* a *unified* *account* of *perception*, *action*, and *cognition*, and it *recasts* the *mind–body* *problem* in *terms* of *prediction* *error* *minimisation*. The *account* is *influential* and *underdeveloped*, and it is *beginning* to be *applied* to *consciousness* (Seth 2021).
+**3. The *predictive* *processing* *account* of the *mind*.** The *predictive* *processing* *framework* (Ch. 5, §5.2) *offers* a *unified* *account* of *perception*, *action*, and *cognition*, and it *recasts* the *mind–body* *problem* in *terms* of *prediction* *error* *minimization*. The *account* is *influential* and *underdeveloped*, and it is *beginning* to be *applied* to *consciousness* (Seth 2021).
 
 **4. Non-Western *theories* of the *mind–body* *relation*.** The *Buddhist* *Abhidharma* *tradition* *developed* a *radical* *process* *ontology* that *avoids* the *substance* *dualism* and the *physicalism* *of* the *Western* *tradition* (Ch. 15, §7); the *Nyāya-Vaiśeṣika* *school* *developed* a *realist* *dualism* of *self* and *body* that *anticipates* the *Cartesian* *view*; the *Advaita* *Vedānta* *school* *developed* a *radical* *monism* that *anticipates* the *idealist* *accounts*. The *traditions* are *systematic* *alternatives* (Matilal 1986; Ganeri 2001; the *essays* in *The Oxford Handbook of Indian Philosophy*, 2017).
 
