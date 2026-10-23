@@ -1,25 +1,25 @@
 # Working on this book
 
-This is a collaborative, single-author philosophy textbook: *The Problems of Philosophy*, written to be read aloud. The chapters are in `chapters/`, and the conventions below are the ones the book actually uses. The authority for the house style is `chapters/01-introduction.md` (especially its §5, "How a chapter is built", and §7, "Conventions"); the chapters that have already been revised (6–11) are the practical reference.
+This is a collaborative, single-author philosophy textbook: *The Problems of Philosophy*, written to be read aloud. The chapters are in `chapters/`, and the conventions below are the ones the book actually uses. The authority for the house style is `chapters/00-introduction.md` (especially its §5, "How a chapter is built", and §7, "Conventions"); the chapters that have already been revised (6–11) are the practical reference.
 
 ## Repository layout
 
 | File | Content |
 |---|---|
-| `chapters/01-introduction.md` | The Introduction (unnumbered) |
-| `chapters/02-…` – `chapters/55-…` | Chapters 1–54 |
-| `chapters/56-…` – `chapters/60-…` | Appendices A–E |
+| `chapters/00-introduction.md` | The Introduction (unnumbered) |
+| `chapters/01-…` – `chapters/54-…` | Chapters 1–54 |
+| `chapters/55-…` – `chapters/59-…` | Appendices A–E |
 | `outline.md`, `metadata.yaml` | Book-level metadata |
 | `AGENTS.md` | This file |
 
-**The chapter number is one less than the file number** (`02-what-philosophy-is.md` is Chapter 1; `12-testimony.md` is Chapter 11; `55-value-of-philosophy.md` is Chapter 54). File names are `NN-kebab-case-title.md` with the title in lower case and an em dash replaced by a hyphen. Never renumber a file to fix a citation; fix the citation.
+**The chapter number equals the file number** (`01-what-philosophy-is.md` is Chapter 1; `11-testimony.md` is Chapter 11; `54-value-of-philosophy.md` is Chapter 54); the Introduction is unnumbered and lives in `00-introduction.md`. File names are `NN-kebab-case-title.md` with the title in lower case and an em dash replaced by a hyphen. Never renumber a file to fix a citation; fix the citation.
 
 ## Pandoc conversion
 
 Due to the large number of formulas, rendering is best done with MathML:
 
 ```
-pandoc -f markdown -s --mathml -t html chapters/01-introduction.md
+pandoc -f markdown -s --mathml -t html chapters/00-introduction.md
 ```
 
 Render a chapter after every change to its mathematics. Pandoc prints `Could not convert TeX math` for any formula it cannot parse (usually an unclosed `\text{…}` or a missing `\\` at the end of a row); there must be no such warnings. The HTML output is the only reliable way to see whether emphasis, bold, and tables survive the conversion.
